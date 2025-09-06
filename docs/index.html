@@ -1,28 +1,37 @@
 <!doctype html>
-<html lang="en">
+<html lang="es">
 <head>
   <meta charset="utf-8"/>
-  <title>Discount Hits ≥ 50%</title>
+  <title>Moon Discounts – ≥ 50% OFF</title>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; margin:24px;}
-    h1{margin:0 0 6px}
-    .meta{color:#555; margin-bottom:16px}
-    table{border-collapse:collapse; width:100%}
-    th, td{border:1px solid #ddd; padding:8px; font-size:14px}
-    th{background:#f5f5f5; position:sticky; top:0}
-    tr:nth-child(even){background:#fafafa}
-    input{padding:6px; margin:8px 0 16px; width:240px}
+    :root { --bg:#0b0b0c; --fg:#eaeaea; --muted:#9aa0a6; --row:#151518; --row2:#111114; --accent:#3da9f5; }
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--fg);margin:24px}
+    h1{margin:0 0 6px;font-size:22px}
+    .meta{color:var(--muted);margin-bottom:16px}
+    a{color:var(--accent)}
+    table{border-collapse:collapse;width:100%;background:#0e0f12;border:1px solid #1e1f24;border-radius:8px;overflow:hidden}
+    th, td{padding:10px 12px;font-size:14px;border-bottom:1px solid #1e1f24}
+    th{background:#16171c;position:sticky;top:0;text-align:left}
+    tr:nth-child(even){background:var(--row)}
+    tr:nth-child(odd){background:var(--row2)}
+    .right{text-align:right}
+    .controls{display:flex;gap:12px;align-items:center;margin:12px 0 16px}
+    input{padding:8px 10px;border-radius:8px;border:1px solid #2a2b31;background:#121318;color:var(--fg);min-width:260px}
+    .badge{display:inline-block;padding:2px 8px;border-radius:999px;background:#183245;color:#a7d3ff;font-size:12px;margin-left:8px}
   </style>
 </head>
 <body>
-  <h1>Discount Hits ≥ 50%</h1>
+  <h1>Moon Discounts <span class="badge">≥ 50% OFF</span></h1>
   <div class="meta">
-    <span id="updated">Loading timestamp…</span> ·
-    <a href="discount_hits_ge_50pct.csv" download>Download CSV</a>
+    <span id="updated">Cargando…</span> ·
+    <a href="discount_hits_ge_50pct.csv">Ver CSV</a>
   </div>
 
-  <input id="filter" placeholder="Filter by name/seller/stall…" />
+  <div class="controls">
+    <input id="filter" placeholder="Filtrar por nombre, seller o stall…"/>
+    <span id="rowsCount" class="meta"></span>
+  </div>
 
   <table id="tbl">
     <thead>
@@ -30,10 +39,10 @@
         <th>Discount %</th>
         <th>Item ID</th>
         <th>Item Name</th>
-        <th>Price</th>
-        <th>Avg</th>
-        <th>Obs</th>
-        <th>Qty</th>
+        <th class="right">Price</th>
+        <th class="right">Avg</th>
+        <th class="right">Obs</th>
+        <th class="right">Qty</th>
         <th>Seller</th>
         <th>Stall</th>
       </tr>
@@ -42,32 +51,30 @@
   </table>
 
 <script>
-async function fetchJSON(url, fallbackText){
+async function fetchJSON(url){
   try{
     const r = await fetch(url, {cache:'no-store'});
     if(!r.ok) throw new Error(r.status);
     return await r.json();
-  }catch(e){
-    document.getElementById('updated').textContent = fallbackText;
-    return null;
-  }
+  }catch{ return null; }
 }
-async function fetchCSV(url){
+async function fetchText(url){
   const r = await fetch(url, {cache:'no-store'});
-  if(!r.ok) return '';
-  return await r.text();
+  return r.ok ? r.text() : '';
 }
-function parseCSV(text){
-  if(!text) return [];
-  const [headerLine, ...lines] = text.trim().split(/\r?\n/);
-  const headers = headerLine.split(',');
-  return lines.map(line=>{
-    // naive CSV split (works for our simple numeric/text without commas)
-    const cells = line.split(',');
+function parseCSV(csv){
+  csv = csv.trim();
+  if(!csv) return {headers:[], rows:[]};
+  // Simple CSV (sin comillas); si tus nombres pueden traer comas, convendría PapaParse.
+  const lines = csv.split(/\r?\n/);
+  const headers = lines.shift().split(',');
+  const rows = lines.map(l=>{
+    const cells = l.split(',');
     const obj = {};
-    headers.forEach((h,i)=>obj[h]=cells[i] ?? '');
+    headers.forEach((h,i)=>obj[h]=cells[i]??'');
     return obj;
   });
+  return {headers, rows};
 }
 function render(rows){
   const tbody = document.querySelector('#tbl tbody');
@@ -75,41 +82,59 @@ function render(rows){
   for(const r of rows){
     const tr = document.createElement('tr');
     tr.innerHTML = `
-      <td style="text-align:right">${r.discount_pct}</td>
-      <td>${r.item_id}</td>
-      <td>${r.item_name}</td>
-      <td style="text-align:right">${r.price}</td>
-      <td style="text-align:right">${r.avg}</td>
-      <td style="text-align:right">${r.obs}</td>
-      <td style="text-align:right">${r.qty}</td>
-      <td>${r.seller}</td>
-      <td>${r.stall}</td>
+      <td>${r.discount_pct??''}</td>
+      <td>${r.item_id??''}</td>
+      <td>${r.item_name??''}</td>
+      <td class="right">${r.price??''}</td>
+      <td class="right">${r.avg??''}</td>
+      <td class="right">${r.obs??''}</td>
+      <td class="right">${r.qty??''}</td>
+      <td>${r.seller??''}</td>
+      <td>${r.stall??''}</td>
     `;
     tbody.appendChild(tr);
   }
+  document.getElementById('rowsCount').textContent =
+    rows.length ? `${rows.length} resultados` : 'Sin resultados';
 }
+async function loadAll(){
+  const meta = await fetchJSON('last_run.json');
+  document.getElementById('updated').textContent =
+    meta?.updated_at ? `Última actualización: ${meta.updated_at}` : 'Sin timestamp';
 
-(async function init(){
-  const meta = await fetchJSON('last_run.json', 'No timestamp available');
-  if(meta && meta.updated_at){
-    document.getElementById('updated').textContent = `Last updated: ${meta.updated_at}`;
-  }
-
-  const csvText = await fetchCSV('discount_hits_ge_50pct.csv');
-  const rows = parseCSV(csvText);
+  const csvText = await fetchText('discount_hits_ge_50pct.csv');
+  const {rows} = parseCSV(csvText);
+  window.__ALL_ROWS__ = rows;
   render(rows);
-
-  // simple client-side filter
+}
+function setupFilter(){
   const input = document.getElementById('filter');
   input.addEventListener('input', ()=>{
     const q = input.value.toLowerCase();
-    const filtered = rows.filter(r => (
+    const rows = (window.__ALL_ROWS__||[]).filter(r =>
       (r.item_name||'').toLowerCase().includes(q) ||
       (r.seller||'').toLowerCase().includes(q) ||
       (r.stall||'').toLowerCase().includes(q)
-    ));
-    render(filtered);
+    );
+    render(rows);
   });
+}
+(async function init(){
+  await loadAll();
+  setupFilter();
+  // Auto-refresh cada 60s (recarga data, mantiene filtro)
+  setInterval(async ()=>{
+    const q = document.getElementById('filter').value.toLowerCase();
+    await loadAll();
+    if(q){
+      const rows = (window.__ALL_ROWS__||[]).filter(r =>
+        (r.item_name||'').toLowerCase().includes(q) ||
+        (r.seller||'').toLowerCase().includes(q) ||
+        (r.stall||'').toLowerCase().includes(q)
+      );
+      render(rows);
+    }
+  }, 60000);
 })();
 </script>
 </body>
