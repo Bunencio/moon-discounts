@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>Discount Hits ≥ 50%</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif; margin:24px;}
+    h1{margin:0 0 6px}
+    .meta{color:#555; margin-bottom:16px}
+    table{border-collapse:collapse; width:100%}
+    th, td{border:1px solid #ddd; padding:8px; font-size:14px}
+    th{background:#f5f5f5; position:sticky; top:0}
+    tr:nth-child(even){background:#fafafa}
+    input{padding:6px; margin:8px 0 16px; width:240px}
+  </style>
+</head>
+<body>
+  <h1>Discount Hits ≥ 50%</h1>
+  <div class="meta">
+    <span id="updated">Loading timestamp…</span> ·
+    <a href="discount_hits_ge_50pct.csv" download>Download CSV</a>
+  </div>
+
+  <input id="filter" placeholder="Filter by name/seller/stall…" />
+
+  <table id="tbl">
+    <thead>
+      <tr>
+        <th>Discount %</th>
+        <th>Item ID</th>
+        <th>Item Name</th>
+        <th>Price</th>
+        <th>Avg</th>
+        <th>Obs</th>
+        <th>Qty</th>
+        <th>Seller</th>
+        <th>Stall</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+<script>
+async function fetchJSON(url, fallbackText){
+  try{
+    const r = await fetch(url, {cache:'no-store'});
+    if(!r.ok) throw new Error(r.status);
+    return await r.json();
+  }catch(e){
+    document.getElementById('updated').textContent = fallbackText;
+    return null;
+  }
+}
+async function fetchCSV(url){
+  const r = await fetch(url, {cache:'no-store'});
+  if(!r.ok) return '';
+  return await r.text();
+}
+function parseCSV(text){
+  if(!text) return [];
+  const [headerLine, ...lines] = text.trim().split(/\r?\n/);
+  const headers = headerLine.split(',');
+  return lines.map(line=>{
+    // naive CSV split (works for our simple numeric/text without commas)
+    const cells = line.split(',');
+    const obj = {};
+    headers.forEach((h,i)=>obj[h]=cells[i] ?? '');
+    return obj;
+  });
+}
+function render(rows){
+  const tbody = document.querySelector('#tbl tbody');
+  tbody.innerHTML = '';
+  for(const r of rows){
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td style="text-align:right">${r.discount_pct}</td>
+      <td>${r.item_id}</td>
+      <td>${r.item_name}</td>
+      <td style="text-align:right">${r.price}</td>
+      <td style="text-align:right">${r.avg}</td>
+      <td style="text-align:right">${r.obs}</td>
+      <td style="text-align:right">${r.qty}</td>
+      <td>${r.seller}</td>
+      <td>${r.stall}</td>
+    `;
+    tbody.appendChild(tr);
+  }
+}
+
+(async function init(){
+  const meta = await fetchJSON('last_run.json', 'No timestamp available');
+  if(meta && meta.updated_at){
+    document.getElementById('updated').textContent = `Last updated: ${meta.updated_at}`;
+  }
+
+  const csvText = await fetchCSV('discount_hits_ge_50pct.csv');
+  const rows = parseCSV(csvText);
+  render(rows);
+
+  // simple client-side filter
+  const input = document.getElementById('filter');
+  input.addEventListener('input', ()=>{
+    const q = input.value.toLowerCase();
+    const filtered = rows.filter(r => (
+      (r.item_name||'').toLowerCase().includes(q) ||
+      (r.seller||'').toLowerCase().includes(q) ||
+      (r.stall||'').toLowerCase().includes(q)
+    ));
+    render(filtered);
+  });
+})();
+</script>
+</body>
+</html>

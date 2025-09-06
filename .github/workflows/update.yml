@@ -1,0 +1,37 @@
+name: Update discount hits
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # cada 30 minutos (UTC)
+  workflow_dispatch: {}       # para lanzarlo manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run updater
+        run: python market_update.py
+
+      - name: Commit & push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh data [skip ci]"
+          file_pattern: |
+            docs/discount_hits_ge_50pct.csv
+            docs/last_run.json
+            docs/stall_list.raw
+            market_history.json
