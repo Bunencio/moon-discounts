@@ -2,193 +2,384 @@
 <html lang="es">
 <head>
   <meta charset="utf-8"/>
-  <title>Moon Market – Panel</title>
+  <title>Moon Market · Dashboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+  <!-- Estilos -->
   <style>
-    :root { --bg:#0b0b0c; --fg:#eaeaea; --muted:#9aa0a6; --row:#151518; --row2:#111114; --accent:#3da9f5; --border:#1e1f24;}
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;background:var(--bg);color:var(--fg);margin:24px}
-    h1{margin:0 0 6px;font-size:22px}
-    .meta{color:var(--muted);margin-bottom:16px}
-    a{color:var(--accent)}
-    .tabs{display:flex;gap:8px;margin:12px 0 16px;flex-wrap:wrap}
-    .tab{padding:8px 12px;border:1px solid var(--border);border-radius:10px;background:#0e0f13;cursor:pointer}
-    .tab.active{background:#132030;border-color:#203245}
-    .controls{display:flex;gap:12px;align-items:center;margin:12px 0 16px}
-    input{padding:8px 10px;border-radius:8px;border:1px solid #2a2b31;background:#121318;color:var(--fg);min-width:260px}
-    .badge{display:inline-block;padding:2px 8px;border-radius:999px;background:#183245;color:#a7d3ff;font-size:12px;margin-left:8px}
-    table{border-collapse:collapse;width:100%;background:#0e0f12;border:1px solid var(--border);border-radius:8px;overflow:hidden}
-    th, td{padding:10px 12px;font-size:14px;border-bottom:1px solid var(--border)}
-    th{background:#16171c;position:sticky;top:0;text-align:left}
-    tr:nth-child(even){background:var(--row)}
-    tr:nth-child(odd){background:var(--row2)}
+    :root{
+      --bg:#0a0b0e; --panel:#0f1117; --panel-2:#0b0d12;
+      --fg:#e8eef5; --muted:#98a2b3; --border:#1b1f2a;
+      --accent:#52a8ff; --accent-2:#2dd4bf; --warning:#f59e0b;
+      --success:#22c55e; --danger:#ef4444;
+      --radius:14px;
+    }
+    *{box-sizing:border-box}
+    body{
+      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Helvetica Neue", sans-serif;
+      background: radial-gradient(1200px 600px at 10% -10%, #0f172a 0, transparent 60%), var(--bg);
+      color: var(--fg);
+      margin: 0; padding: 24px;
+    }
+    header{
+      display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:10px;
+    }
+    .brand{display:flex; align-items:center; gap:12px}
+    .logo{
+      width:38px; height:38px; border-radius:10px;
+      background: linear-gradient(135deg, #1e293b, #0ea5e9);
+      display:grid; place-items:center; font-weight:800; color:white; letter-spacing:.5px;
+      box-shadow: 0 10px 30px rgba(14,165,233,.25), inset 0 0 20px rgba(255,255,255,.06);
+    }
+    h1{font-size:20px; margin:0}
+    .badge{background:#0b2b3d; color:#a7e1ff; border:1px solid #14384e; padding:2px 8px; border-radius:999px; font-size:12px; margin-left:8px}
+    .timestamp{color:var(--muted); font-size:13px}
+
+    .toolbar{
+      display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:12px 0 16px;
+    }
+    .tabs{display:flex; gap:8px; flex-wrap:wrap}
+    .tab{
+      padding:8px 12px; border-radius:10px; border:1px solid var(--border);
+      background:var(--panel-2); color:var(--fg); cursor:pointer;
+    }
+    .tab.active{background:#102132; border-color:#183147; box-shadow: inset 0 0 0 1px #1e3a5f}
+    .downloads{margin-left:auto; display:flex; gap:10px; flex-wrap:wrap}
+    .btn{
+      padding:8px 12px; border-radius:10px; border:1px solid var(--border);
+      background:linear-gradient(180deg,#10131b,#0d1117); color:var(--fg);
+      cursor:pointer; text-decoration:none; font-size:13px;
+    }
+    .btn:hover{border-color:#2a3345}
+    .btn.accent{border-color:#1e3a5f; background:#0f1d2b}
+    .btn.secondary{background:#0e121a}
+
+    .controls{
+      display:flex; gap:10px; align-items:center; flex-wrap:wrap;
+      background:var(--panel); border:1px solid var(--border); padding:12px; border-radius:var(--radius);
+    }
+    .input{
+      padding:10px 12px; border-radius:10px; border:1px solid var(--border);
+      background:#0b0e15; color:var(--fg); min-width:260px; outline:none;
+    }
+    .select{padding:9px 10px; border-radius:10px; border:1px solid var(--border); background:#0b0e15; color:var(--fg)}
+    .counter{color:var(--muted); font-size:13px; margin-left:auto}
+
+    .card{
+      background:var(--panel); border:1px solid var(--border);
+      border-radius:var(--radius); overflow:hidden;
+    }
+    table{width:100%; border-collapse:collapse}
+    thead th{
+      background:#121725; position:sticky; top:0; z-index:1;
+      font-weight:600; text-align:left; font-size:13px; color:#cbd5e1;
+      border-bottom:1px solid var(--border); padding:10px 12px; user-select:none;
+    }
+    tbody td{padding:10px 12px; border-bottom:1px solid var(--border); font-size:14px}
+    tbody tr:nth-child(even){background:#0d1118}
+    tbody tr:hover{background:#141a25}
     .right{text-align:right}
-    .downloads{display:flex;gap:12px;flex-wrap:wrap;margin-bottom:8px}
-    .downloads a{font-size:13px}
+    .sortable{cursor:pointer}
+    .sortable .arrow{opacity:.35; margin-left:4px}
+    .sortable.active .arrow{opacity:1}
+    .status-dot{
+      display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; vertical-align:middle;
+      background:var(--success);
+      box-shadow:0 0 0 2px rgba(34,197,94,.15);
+    }
+
+    .pagination{
+      display:flex; gap:8px; align-items:center; justify-content:flex-end;
+      padding:10px; color:var(--muted);
+    }
+    .pagination .btn{padding:6px 10px}
+    .spacer{flex:1}
+    .hint{color:var(--muted); font-size:12px; padding:6px 2px}
   </style>
+
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 </head>
 <body>
-  <h1>Moon Market <span class="badge">panel</span></h1>
-  <div class="meta">
-    <span id="updated">Cargando…</span>
-  </div>
+  <header>
+    <div class="brand">
+      <div class="logo">MM</div>
+      <div>
+        <h1>Moon Market <span class="badge">dashboard</span></h1>
+        <div class="timestamp"><span class="status-dot"></span><span id="updated">Sin timestamp</span></div>
+      </div>
+    </div>
+  </header>
 
-  <div class="downloads">
-    <a id="dl-link" href="discount_hits_ge_50pct.csv" download>Descargar CSV actual</a>
-  </div>
+  <div class="toolbar">
+    <div class="tabs">
+      <button class="tab active" data-tab="discount">≥ 50% OFF</button>
+      <button class="tab" data-tab="allsell">Todos los SELL</button>
+    </div>
 
-  <div class="tabs">
-    <button class="tab active" data-tab="discount">≥ 50% OFF</button>
-    <button class="tab" data-tab="allsell">Todos los SELL</button>
+    <div class="downloads">
+      <a id="dl-current" class="btn secondary" href="discount_hits_ge_50pct.csv" download>Descargar CSV</a>
+      <button id="export-view" class="btn accent">Exportar vista (CSV)</button>
+    </div>
   </div>
 
   <div class="controls">
-    <input id="filter" placeholder="Filtrar por nombre, seller o stall…"/>
-    <span id="rowsCount" class="meta"></span>
+    <input id="filter" class="input" placeholder="Filtrar por nombre, seller o stall…"/>
+    <select id="page-size" class="select">
+      <option value="10">10 / pág</option>
+      <option value="25" selected>25 / pág</option>
+      <option value="50">50 / pág</option>
+      <option value="100">100 / pág</option>
+      <option value="-1">Mostrar todo</option>
+    </select>
+    <div class="counter"><span id="rowsCount">0</span> resultados</div>
   </div>
 
-  <table id="tbl">
-    <thead id="thead"></thead>
-    <tbody id="tbody"></tbody>
-  </table>
+  <div class="card" style="margin-top:12px">
+    <table id="tbl">
+      <thead id="thead"></thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div class="pagination" id="pager">
+      <div class="hint" id="page-hint"></div>
+      <div class="spacer"></div>
+      <button class="btn" id="prev">◀</button>
+      <button class="btn" id="next">▶</button>
+    </div>
+  </div>
 
 <script>
+/* ------------------ Config ------------------ */
 const SOURCES = {
   discount: {
     url: 'discount_hits_ge_50pct.csv',
-    headers: ['discount_pct','item_id','item_name','price','avg','obs','qty','seller','stall'],
-    title: 'Moon Discounts – ≥ 50% OFF'
+    fixedOrder: ['discount_pct','item_id','item_name','price','avg','obs','qty','seller','stall'],
+    title: 'Moon Market · ≥ 50% OFF',
+    numeric: new Set(['discount_pct','price','avg','obs','qty'])
   },
   allsell: {
-    // si prefieres el enriquecido, usa: 'sales_all_today_enriched.csv'
-    url: 'sales_all_today.csv',
-    // autodetectaremos encabezados para esta pestaña
-    headers: null,
-    title: 'Moon Market – Todos los SELL'
+    url: 'sales_all_today.csv',         // cambia a 'sales_all_today_enriched.csv' si quieres métricas
+    fixedOrder: null,                   // autodetecta columnas desde CSV
+    title: 'Moon Market · Todos los SELL',
+    numeric: new Set(['price','quantity'])
   }
 };
+const AUTO_REFRESH_MS = 60000;
 
+/* ------------- Estado global --------------- */
 let currentTab = 'discount';
-let ALL_ROWS = [];
-let HEADERS = [];
+let RAW_ROWS = [];     // filas originales del tab activo
+let HEADERS = [];      // headers visibles
+let NUMERIC = new Set();
+let filtered = [];     // filas filtradas/ordenadas
+let sortState = { key: null, dir: 'desc' };
+let page = 1;
+let pageSize = 25;
 
-async function fetchJSON(url){
-  try{
-    const r = await fetch(url, {cache:'no-store'});
-    if(!r.ok) throw new Error(r.status);
-    return await r.json();
-  }catch{ return null; }
+/* -------------- Utilidades ----------------- */
+const sleep = ms => new Promise(r=>setTimeout(r, ms));
+function debounce(fn, ms){ let t; return (...args)=>{ clearTimeout(t); t=setTimeout(()=>fn(...args), ms); }; }
+function toNumber(v){ const n=Number(v); return Number.isFinite(n)?n:0; }
+function downloadBlob(filename, text){
+  const blob = new Blob([text], {type:'text/csv;charset=utf-8;'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a'); a.href = url; a.download = filename; a.click();
+  URL.revokeObjectURL(url);
+}
+function rowsToCSV(rows, headers){
+  const esc = s => `"${String(s??'').replace(/"/g,'""')}"`;
+  const head = headers.map(esc).join(',');
+  const body = rows.map(r => headers.map(h => esc(r[h])).join(',')).join('\n');
+  return head + '\n' + body;
 }
 
+/* -------------- Carga de datos ------------- */
+async function fetchJSON(url){
+  try{ const r = await fetch(url,{cache:'no-store'}); if(!r.ok) throw 0; return await r.json(); }catch{ return null; }
+}
 async function parseCSV(url){
-  const r = await fetch(url, {cache:'no-store'});
-  if(!r.ok) return {data:[], fields:[]};
+  const r = await fetch(url,{cache:'no-store'}); if(!r.ok) return {data:[], fields:[]};
   const text = await r.text();
   const parsed = Papa.parse(text, {header:true, skipEmptyLines:true});
   return {data: parsed.data, fields: parsed.meta.fields || []};
 }
 
-function renderTable(rows, fields){
+/* ----------------- Render ------------------ */
+function buildHead(headers){
   const thead = document.getElementById('thead');
-  const tbody = document.getElementById('tbody');
   thead.innerHTML = '';
-  tbody.innerHTML = '';
+  const tr = document.createElement('tr');
 
-  // head
-  const trh = document.createElement('tr');
-  for(const h of fields){
+  headers.forEach(h=>{
     const th = document.createElement('th');
     th.textContent = h;
-    if(['price','avg','obs','qty','avg_hist','median_hist','obs_hist','pct_vs_avg','pct_vs_median','discount_pct_vs_avg'].includes(h)){
-      th.style.textAlign = 'right';
-    }
-    trh.appendChild(th);
-  }
-  thead.appendChild(trh);
+    th.classList.add('sortable');
+    if(NUMERIC.has(h)) th.style.textAlign = 'right';
 
-  // body
-  for(const r of rows){
+    const arrow = document.createElement('span');
+    arrow.className = 'arrow';
+    arrow.textContent = '▾';
+    th.appendChild(arrow);
+
+    th.addEventListener('click', ()=>{
+      if(sortState.key === h){
+        sortState.dir = (sortState.dir === 'asc' ? 'desc' : 'asc');
+      }else{
+        sortState.key = h;
+        sortState.dir = NUMERIC.has(h) ? 'asc' : 'asc';
+      }
+      updateSort();
+      renderBody();
+      [...thead.querySelectorAll('.sortable')].forEach(x=>x.classList.remove('active'));
+      th.classList.add('active');
+      arrow.textContent = sortState.dir === 'asc' ? '▴' : '▾';
+    });
+
+    tr.appendChild(th);
+  });
+  thead.appendChild(tr);
+}
+
+function renderBody(){
+  const tbody = document.getElementById('tbody');
+  const pager = document.getElementById('pager');
+  tbody.innerHTML = '';
+
+  const total = filtered.length;
+  let view = filtered;
+
+  if(pageSize > 0){
+    const pages = Math.max(1, Math.ceil(total / pageSize));
+    page = Math.min(page, pages);
+    const start = (page-1)*pageSize;
+    view = filtered.slice(start, start + pageSize);
+    document.getElementById('page-hint').textContent = `Página ${page}/${pages}`;
+    pager.style.display = total ? 'flex' : 'none';
+  }else{
+    document.getElementById('page-hint').textContent = '';
+    pager.style.display = total ? 'flex' : 'none';
+  }
+
+  for(const r of view){
     const tr = document.createElement('tr');
-    tr.innerHTML = fields.map(h=>{
+    tr.innerHTML = HEADERS.map(h=>{
       const v = r[h] ?? '';
-      const cls = ['price','avg','obs','qty','avg_hist','median_hist','obs_hist','pct_vs_avg','pct_vs_median','discount_pct_vs_avg'].includes(h) ? 'class="right"' : '';
+      const cls = NUMERIC.has(h) ? 'class="right"' : '';
       return `<td ${cls}>${v}</td>`;
     }).join('');
     tbody.appendChild(tr);
   }
 
-  document.getElementById('rowsCount').textContent = rows.length ? `${rows.length} resultados` : 'Sin resultados';
+  document.getElementById('rowsCount').textContent = total;
+}
+
+function updateSort(){
+  if(!sortState.key){ filtered = [...filtered]; return; }
+  const k = sortState.key, dir = sortState.dir;
+  const cmp = NUMERIC.has(k)
+    ? (a,b)=> toNumber(a[k]) - toNumber(b[k])
+    : (a,b)=> String(a[k]??'').localeCompare(String(b[k]??''), 'es', {numeric:true, sensitivity:'base'});
+  filtered.sort(cmp);
+  if(dir === 'desc') filtered.reverse();
 }
 
 function applyFilter(){
-  const q = (document.getElementById('filter').value || '').toLowerCase();
-  const filtered = ALL_ROWS.filter(r =>
+  const q = (document.getElementById('filter').value||'').toLowerCase();
+  filtered = RAW_ROWS.filter(r =>
     (r.item_name||'').toLowerCase().includes(q) ||
     (r.seller||'').toLowerCase().includes(q) ||
     (r.stall||'').toLowerCase().includes(q)
   );
-  renderTable(filtered, HEADERS);
+  updateSort();
+  page = 1;
+  renderBody();
 }
 
+/* --------- Cambio de pestaña / carga -------- */
 async function loadTab(tab){
   currentTab = tab;
   const cfg = SOURCES[tab];
-
-  // título + link de descarga
   document.title = cfg.title;
-  document.getElementById('dl-link').href = cfg.url;
+  document.getElementById('dl-current').href = cfg.url;
 
-  // datos
   const {data, fields} = await parseCSV(cfg.url);
-  ALL_ROWS = data;
-  HEADERS = cfg.headers && cfg.headers.length ? cfg.headers : fields;
+  NUMERIC = cfg.numeric || new Set();
 
-  // si la pestaña discount trae columnas fijas, mantén ese orden
-  if(cfg.headers && cfg.headers.length){
-    // re-mapea filas a ese orden (si falta alguna columna, queda vacía)
-    ALL_ROWS = data.map(row=>{
+  // orden de columnas
+  if(cfg.fixedOrder && cfg.fixedOrder.length){
+    HEADERS = cfg.fixedOrder;
+    RAW_ROWS = data.map(row=>{
       const o = {};
-      for(const h of cfg.headers) o[h] = row[h] ?? '';
+      for(const h of cfg.fixedOrder) o[h] = row[h] ?? '';
       return o;
     });
-    HEADERS = cfg.headers;
+  }else{
+    HEADERS = fields;
+    RAW_ROWS = data;
   }
 
-  applyFilter();
+  buildHead(HEADERS);
+  filtered = [...RAW_ROWS];
+  sortState = {key: null, dir: 'asc'};
+  renderBody();
 }
 
+/* ------------------ Init -------------------- */
 async function init(){
   // timestamp
   const meta = await fetchJSON('last_run.json');
   document.getElementById('updated').textContent =
     meta?.updated_at ? `Última actualización: ${meta.updated_at}` : 'Sin timestamp';
 
-  // pestañas
+  // tabs
   document.querySelectorAll('.tab').forEach(btn=>{
     btn.addEventListener('click', async ()=>{
       document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
       btn.classList.add('active');
       await loadTab(btn.dataset.tab);
+      applyFilterDebounced();
     });
   });
 
-  // filtro
-  document.getElementById('filter').addEventListener('input', applyFilter);
+  // filtros y paginación
+  const ps = document.getElementById('page-size');
+  pageSize = parseInt(ps.value,10);
+  ps.addEventListener('change', ()=>{
+    pageSize = parseInt(ps.value,10);
+    page = 1; renderBody();
+  });
 
-  // carga inicial (≥50%)
+  document.getElementById('prev').addEventListener('click', ()=>{ if(page>1){ page--; renderBody(); }});
+  document.getElementById('next').addEventListener('click', ()=>{
+    const total = filtered.length;
+    const pages = pageSize>0 ? Math.max(1, Math.ceil(total/pageSize)) : 1;
+    if(page < pages){ page++; renderBody(); }
+  });
+
+  window.applyFilterDebounced = debounce(applyFilter, 180);
+  document.getElementById('filter').addEventListener('input', applyFilterDebounced);
+
+  // exportar vista actual
+  document.getElementById('export-view').addEventListener('click', ()=>{
+    const csv = rowsToCSV(filtered, HEADERS);
+    const fname = currentTab === 'discount' ? 'discount_view.csv' : 'allsell_view.csv';
+    downloadBlob(fname, csv);
+  });
+
+  // primera carga
   await loadTab('discount');
 
-  // auto-refresh cada 60s (mantiene pestaña y filtro)
+  // auto-refresh
   setInterval(async ()=>{
     const q = document.getElementById('filter').value;
     await loadTab(currentTab);
     document.getElementById('filter').value = q;
-    applyFilter();
+    applyFilterDebounced();
+
     const meta = await fetchJSON('last_run.json');
     if(meta?.updated_at){
       document.getElementById('updated').textContent = `Última actualización: ${meta.updated_at}`;
     }
-  }, 60000);
+  }, AUTO_REFRESH_MS);
 }
 init();
 </script>
