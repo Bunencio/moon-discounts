@@ -2,8 +2,8 @@ name: Update market data
 
 on:
   schedule:
-    - cron: "*/10 * * * *"
-  workflow_dispatch: {}
+    - cron: "*/30 * * * *"     # cada 30 min (UTC)
+  workflow_dispatch: {}         # correr manualmente
 
 permissions:
   contents: write
@@ -23,13 +23,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas tabulate requests
 
+      # Genera discount_hits_ge_50pct.csv y last_run.json
       - name: Build 50% OFF
         run: python market_update.py
 
+      # Genera todos los SELL + análisis y los deja en docs/
       - name: Build ALL SELL CSVs
         run: python build_all_sells.py
 
-      # 🔎 DEBUG: listar archivos generados
+      # DEBUG: lista lo que quedó en docs/ y tamaños
       - name: List outputs
         run: |
           echo "== ls -la docs =="
@@ -37,13 +39,14 @@ jobs:
           echo "== file sizes =="
           for f in docs/*; do [ -f "$f" ] && echo "$(stat -c%s "$f") bytes  $f"; done || true
 
-      # 🔎 DEBUG: subir artefactos (los verás en la pestaña 'Artifacts' del run)
+      # DEBUG: sube docs/ como artifact para inspección
       - name: Upload docs as artifact
         uses: actions/upload-artifact@v4
         with:
           name: docs-output
           path: docs/
 
+      # Commit de todo lo generado
       - name: Commit & push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
