@@ -27,7 +27,7 @@ ITEMS_JSON_PATHS = [
 
 # Parámetros de detección
 THRESHOLD_DISCOUNT_PCT = 50
-MIN_OBS = 1  # <-- temporal para ver resultados hoy mismo; luego súbelo a 3
+MIN_OBS = 3  # <-- temporal para ver resultados hoy mismo; luego súbelo a 3
 INCLUDE_TODAY_HISTORY = True
 OUTLIER_MULTIPLIER = 3.0
 EXCLUDE_NAME_KEYWORDS = ["Boots", "Gloves", "Gauntlets", "Armor", "Fairy"]
