@@ -1,19 +1,31 @@
 # market_update.py
-import requests, io, struct, json, os, pandas as pd
-from datetime import datetime, date
+# Ejecuta el scrapper, calcula descuentos, guarda CSV/artefactos en docs/ y mantiene un historial.
+# Diseñado para correr en GitHub Actions.
+
+import io
+import json
+import os
+import struct
 from collections import defaultdict
+from datetime import datetime, date
+
+import pandas as pd
+import requests
 from tabulate import tabulate
 
-# --- Settings (paths relative to repo root) ---
+# =========================
+# Settings (rutas relativas al repo)
+# =========================
 STALL_LIST_URL = "https://moonlight-stall-db.pirategames.online/stall/list"
-HISTORY_PATH   = "market_history.json"                    # cumulative history file (committed)
-RESULTS_CSV    = "docs/discount_hits_ge_50pct.csv"        # output for the web page
-RAW_PATH       = "docs/stall_list.raw"                    # last raw binary snapshot for debugging
+
+HISTORY_PATH = "market_history.json"               # historial acumulado (commitado en el repo)
+RESULTS_CSV  = "docs/discount_hits_ge_50pct.csv"   # salida para la web
+RAW_PATH     = "docs/stall_list.raw"               # último binario crudo (debug)
 ITEMS_JSON_PATHS = [
-    "items_name.json",            # repo file if present
+    "items_name.json",  # opcional, si está en el repo se usa para nombres
 ]
 
-# Detection params
+# Parámetros de detección
 THRESHOLD_DISCOUNT_PCT = 50
 MIN_OBS = 3
 INCLUDE_TODAY_HISTORY = True
@@ -21,13 +33,16 @@ OUTLIER_MULTIPLIER = 3.0
 EXCLUDE_NAME_KEYWORDS = ["Boots", "Gloves", "Gauntlets", "Armor", "Fairy"]
 SHOW_MAX_ROWS = 30
 
-# --- helpers ---
+# =========================
+# Helpers
+# =========================
 def _load_item_map(paths):
     for p in paths:
         if os.path.exists(p):
             with open(p, "r", encoding="utf-8") as f:
                 raw_map = json.load(f)
             print(f"Loaded item name map: {p} (entries: {len(raw_map)})")
+            # keys a int
             return {int(k): v for k, v in raw_map.items()}
     print("WARNING: items_name.json not found. Names will be blank; only IDs shown.")
     return {}
@@ -53,17 +68,25 @@ def download_binary_content(url, timeout=20):
     print(f"Fetched {len(content)} bytes from {url}")
     return content
 
-# --- parsing formats ---
+# =========================
+# Parsing formats
+# =========================
 chunk_size = 930
-stall_info_format_string = 'i32s64sB32s'
-stall_slot_format_string = '=HIB37s'
+stall_info_format_string = "i32s64sB32s"
+stall_slot_format_string = "=HIB37s"
+SLOTS_PER_STALL = 18
+BASE_OFF = 138
 
 def extract(content):
+    """
+    Returns:
+      extracted = {"BUY": {iid:{price:qty}}, "SELL": {...}}
+      current_sell_rows = list[dict] con filas SELL (esta corrida)
+    """
     items = {"BUY": {}, "SELL": {}}
     buffer = io.BytesIO(content)
     buffer.seek(8)
     slot_size = struct.calcsize(stall_slot_format_string)
-    base_off = 138
 
     rows = []
     stalls = 0
@@ -72,33 +95,45 @@ def extract(content):
         if len(chunk) < chunk_size:
             break
         stalls += 1
-        num, seller_b, desc_b, stall_type, location_b = struct.unpack_from(stall_info_format_string, chunk, 0)
+        num, seller_b, desc_b, stall_type, location_b = struct.unpack_from(
+            stall_info_format_string, chunk, 0
+        )
         stall_type_str = "SELL" if stall_type == 1 else "BUY"
         seller = _clean(seller_b)
         stall_desc = _clean(desc_b)
         location = _clean(location_b)
         stall_name = stall_desc or location
 
-        for i in range(18):
-            off = base_off + i * slot_size
-            item_id, item_price, quantity, _ = struct.unpack_from(stall_slot_format_string, chunk, off)
+        for i in range(SLOTS_PER_STALL):
+            off = BASE_OFF + i * slot_size
+            item_id, item_price, quantity, _ = struct.unpack_from(
+                stall_slot_format_string, chunk, off
+            )
             if item_id <= 0:
                 continue
             item_id, item_price, quantity = int(item_id), int(item_price), int(quantity)
             items.setdefault(stall_type_str, {}).setdefault(item_id, {})
-            items[stall_type_str][item_id][item_price] = items[stall_type_str][item_id].get(item_price, 0) + quantity
+            items[stall_type_str][item_id][item_price] = (
+                items[stall_type_str][item_id].get(item_price, 0) + quantity
+            )
             if stall_type_str == "SELL":
-                rows.append({
-                    "item_id": item_id,
-                    "item_name": ITEM_NAME.get(item_id, ""),
-                    "price": item_price,
-                    "quantity": quantity,
-                    "seller": seller,
-                    "stall": stall_name,
-                })
+                rows.append(
+                    {
+                        "item_id": item_id,
+                        "item_name": ITEM_NAME.get(item_id, ""),
+                        "price": item_price,
+                        "quantity": quantity,
+                        "seller": seller,
+                        "stall": stall_name,
+                    }
+                )
+
     print(f"Parsed {stalls} stalls.")
     return items, rows
 
+# =========================
+# Historial y estadísticas
+# =========================
 def compute_sell_medians(history, include_today=True):
     today = date.today().strftime("%Y-%m-%d")
     prices = defaultdict(list)
@@ -108,9 +143,14 @@ def compute_sell_medians(history, include_today=True):
         for iid, pm in data.get("SELL", {}).items():
             for p in pm:
                 prices[int(iid)].append(int(p))
+    # si un item no tiene precios, no lo incluimos
     return {iid: float(pd.Series(vals).median()) for iid, vals in prices.items() if vals}
 
 def compute_sell_averages(history, include_today, medians, out_mult):
+    """
+    Promedio ponderado por cantidad. Excluye puntos sobrepreciados: price >= out_mult * median.
+    Return: { item_id: (avg_price, obs_count) }
+    """
     today = date.today().strftime("%Y-%m-%d")
     totals = {}
     for day, data in history.items():
@@ -130,6 +170,9 @@ def compute_sell_averages(history, include_today, medians, out_mult):
     return {iid: (pq / q, obs) for iid, (pq, q, obs) in totals.items() if q > 0}
 
 def merge_history(history, extracted):
+    """
+    Fusiona el snapshot de hoy (BUY+SELL) manteniendo máx cantidad por (item, price).
+    """
     today = date.today().strftime("%Y-%m-%d")
     if today not in history:
         history[today] = extracted
@@ -147,14 +190,17 @@ def merge_history(history, extracted):
 def ensure_dirs():
     os.makedirs("docs", exist_ok=True)
 
+# =========================
+# Main
+# =========================
 def main():
     ensure_dirs()
 
-    # fetch & parse
+    # 1) Descargar y parsear
     content = download_binary_content(STALL_LIST_URL)
     extracted, current_sell_rows = extract(content)
 
-    # load history
+    # 2) Cargar historial
     try:
         with open(HISTORY_PATH, "r", encoding="utf-8") as f:
             history = json.load(f)
@@ -162,59 +208,90 @@ def main():
     except FileNotFoundError:
         history = {}
 
-    # stats from history
+    # 3) Stats desde historial
     medians = compute_sell_medians(history, include_today=INCLUDE_TODAY_HISTORY)
     print(f"Computed SELL medians for {len(medians)} items.")
-    hist_avgs = compute_sell_averages(history, INCLUDE_TODAY_HISTORY, medians, OUTLIER_MULTIPLIER)
+    hist_avgs = compute_sell_averages(
+        history, INCLUDE_TODAY_HISTORY, medians, OUTLIER_MULTIPLIER
+    )
 
-    # detect hits
+    # 4) Detectar hits
     hits = []
     for r in current_sell_rows:
         iid = r["item_id"]
         price = r["price"]
         qty = r["quantity"]
         name = r["item_name"]
-        if any(kw.lower() in (name or "").lower() for kw in EXCLUDE_NAME_KEYWORDS):
+
+        if _blocked_by_name(name):
             continue
         if iid not in hist_avgs:
             continue
+
         avg, obs = hist_avgs[iid]
         if obs < MIN_OBS or avg <= 0:
             continue
+
         discount_pct = (1 - price / avg) * 100.0
         if discount_pct >= THRESHOLD_DISCOUNT_PCT:
-            hits.append({
-                "discount_pct": round(discount_pct, 2),
-                "item_id": iid,
-                "item_name": name,
-                "price": int(price),
-                "avg": round(float(avg), 2),
-                "obs": int(obs),
-                "qty": int(qty),
-                "seller": r["seller"],
-                "stall": r["stall"],
-            })
+            hits.append(
+                {
+                    "discount_pct": round(discount_pct, 2),
+                    "item_id": iid,
+                    "item_name": name,
+                    "price": int(price),
+                    "avg": round(float(avg), 2),
+                    "obs": int(obs),
+                    "qty": int(qty),
+                    "seller": r["seller"],
+                    "stall": r["stall"],
+                }
+            )
 
-    df = pd.DataFrame(hits).sort_values("discount_pct", ascending=False).reset_index(drop=True)
-
-    if not df.empty:
+    # 5) DataFrame robusto (no truena si no hay hits)
+    if hits:
+        df = (
+            pd.DataFrame(hits)
+            .sort_values("discount_pct", ascending=False)
+            .reset_index(drop=True)
+        )
         print(f"\n=== SELL items with ≥ {THRESHOLD_DISCOUNT_PCT}% discount ===")
-        print(tabulate(df.head(30), headers="keys", tablefmt="github", showindex=False))
-        df.to_csv(RESULTS_CSV, index=False)
+        print(tabulate(df.head(SHOW_MAX_ROWS), headers="keys", tablefmt="github", showindex=False))
     else:
-        # still write an empty CSV with headers for a clean page
-        df = pd.DataFrame(columns=["discount_pct","item_id","item_name","price","avg","obs","qty","seller","stall"])
-        df.to_csv(RESULTS_CSV, index=False)
-        print("\nNo hits; wrote empty CSV with headers.")
+        df = pd.DataFrame(
+            columns=[
+                "discount_pct",
+                "item_id",
+                "item_name",
+                "price",
+                "avg",
+                "obs",
+                "qty",
+                "seller",
+                "stall",
+            ]
+        )
+        print(
+            f"\nNo SELL items with ≥ {THRESHOLD_DISCOUNT_PCT}% discount. Wrote empty CSV."
+        )
 
-    # save metadata + artifacts
+    # 6) Guardar CSV SIEMPRE (aunque vacío con headers)
+    df.to_csv(RESULTS_CSV, index=False)
+
+    # 7) Guardar historial y artefactos para la web
     history = merge_history(history, extracted)
     with open(HISTORY_PATH, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, separators=(",", ":"))
+
     with open(RAW_PATH, "wb") as f:
         f.write(content)
+
     with open("docs/last_run.json", "w", encoding="utf-8") as f:
-        json.dump({"updated_at": datetime.utcnow().isoformat(timespec="seconds") + "Z"}, f)
+        json.dump(
+            {"updated_at": datetime.utcnow().isoformat(timespec="seconds") + "Z"},
+            f,
+            ensure_ascii=False,
+        )
 
     print("Done.")
 
