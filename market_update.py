@@ -1,6 +1,6 @@
 # market_update.py
 # Ejecuta el scrapper, calcula descuentos, guarda CSV/artefactos en docs/ y mantiene un historial.
-# Diseñado para correr en GitHub Actions.
+# Diseñado para correr en GitHub Actions (y robusto cuando no hay hits).
 
 import io
 import json
@@ -27,7 +27,7 @@ ITEMS_JSON_PATHS = [
 
 # Parámetros de detección
 THRESHOLD_DISCOUNT_PCT = 50
-MIN_OBS = 3
+MIN_OBS = 1  # <-- temporal para ver resultados hoy mismo; luego súbelo a 3
 INCLUDE_TODAY_HISTORY = True
 OUTLIER_MULTIPLIER = 3.0
 EXCLUDE_NAME_KEYWORDS = ["Boots", "Gloves", "Gauntlets", "Armor", "Fairy"]
@@ -172,6 +172,7 @@ def compute_sell_averages(history, include_today, medians, out_mult):
 def merge_history(history, extracted):
     """
     Fusiona el snapshot de hoy (BUY+SELL) manteniendo máx cantidad por (item, price).
+    Nota: si quieres que múltiples corridas en el mismo día acumulen, cambia max(...) por suma.
     """
     today = date.today().strftime("%Y-%m-%d")
     if today not in history:
@@ -185,6 +186,8 @@ def merge_history(history, extracted):
                 p = str(p)
                 prev = history[today][stype][str(iid)].get(p)
                 history[today][stype][str(iid)][p] = max(int(q), int(prev or 0))
+                # Para acumular en el mismo día usa:
+                # history[today][stype][str(iid)][p] = int(prev or 0) + int(q)
     return history
 
 def ensure_dirs():
@@ -200,7 +203,7 @@ def main():
     content = download_binary_content(STALL_LIST_URL)
     extracted, current_sell_rows = extract(content)
 
-    # 2) Cargar historial
+    # 2) Cargar historial (si existe)
     try:
         with open(HISTORY_PATH, "r", encoding="utf-8") as f:
             history = json.load(f)
@@ -208,7 +211,12 @@ def main():
     except FileNotFoundError:
         history = {}
 
-    # 3) Stats desde historial
+    # >>> IMPORTANTE: integrar el snapshot de HOY ANTES de calcular promedios
+    history = merge_history(history, extracted)
+    with open(HISTORY_PATH, "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, separators=(",", ":"))
+
+    # 3) Stats desde historial (ya incluye hoy)
     medians = compute_sell_medians(history, include_today=INCLUDE_TODAY_HISTORY)
     print(f"Computed SELL medians for {len(medians)} items.")
     hist_avgs = compute_sell_averages(
@@ -278,11 +286,7 @@ def main():
     # 6) Guardar CSV SIEMPRE (aunque vacío con headers)
     df.to_csv(RESULTS_CSV, index=False)
 
-    # 7) Guardar historial y artefactos para la web
-    history = merge_history(history, extracted)
-    with open(HISTORY_PATH, "w", encoding="utf-8") as f:
-        json.dump(history, f, ensure_ascii=False, separators=(",", ":"))
-
+    # 7) Guardar artefactos para la web
     with open(RAW_PATH, "wb") as f:
         f.write(content)
 
