@@ -1,9 +1,9 @@
-name: Update discount hits
+name: Update market data
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # cada 30 minutos (UTC)
-  workflow_dispatch: {}       # para lanzarlo manualmente
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
 
 permissions:
   contents: write
@@ -21,10 +21,13 @@ jobs:
       - name: Install deps
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install pandas tabulate requests
 
-      - name: Run updater
+      - name: Run discount (≥50%)
         run: python market_update.py
+
+      - name: Build ALL SELL CSVs
+        run: python build_all_sells.py
 
       - name: Commit & push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
@@ -35,3 +38,7 @@ jobs:
             docs/last_run.json
             docs/stall_list.raw
             market_history.json
+            docs/sales_all_today.csv
+            docs/sales_all_today_enriched.csv
+            docs/item_analysis_today.csv
+            docs/stall_presence.csv
