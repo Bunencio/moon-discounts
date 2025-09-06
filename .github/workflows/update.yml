@@ -2,8 +2,8 @@ name: Update market data
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
-  workflow_dispatch: {}
+    - cron: "*/15 * * * *"     # cada 30 min (UTC)
+  workflow_dispatch: {}         # ejecutar manualmente
 
 permissions:
   contents: write
@@ -23,9 +23,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install pandas tabulate requests
 
-      - name: Run discount (≥50%)
+      # Genera discount_hits_ge_50pct.csv y last_run.json
+      - name: Build 50% OFF
         run: python market_update.py
 
+      # ⬅️ NUEVO: genera todos los SELL y archivos de análisis en docs/
       - name: Build ALL SELL CSVs
         run: python build_all_sells.py
 
