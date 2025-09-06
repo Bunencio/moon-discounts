@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-99.88,22201,,85455,74102559.0,2,1,sling,.
 98.62,26563,Mushroom Soup,400,28952.38,2,60,Aois,STALL
 98.02,28001,Sword,1111111,56111111.0,2,1,sellerbestguy,cheap
 96.12,23006,Field Treasure,50,1287.5,2,6,SCORPION21,Scroll/ Cursed Flame/Ore/champio
@@ -16,16 +15,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
 82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
 82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
-82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
-82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
 82.02,25300,Poison,400,2224.16,2,91,Shop3,darkblue
-82.02,25300,Poison,400,2224.16,2,98,Shop3,darkblue
+82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
 82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
 82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
 82.02,25300,Poison,400,2224.16,2,38,Shop3,darkblue
 82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
 82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
 82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
+82.02,25300,Poison,400,2224.16,2,99,Shop3,darkblue
+82.02,25300,Poison,400,2224.16,2,98,Shop3,darkblue
 77.8,25212,Frozen Elixir,250,1126.37,7,54,PussyFucker,Mermaid/Sorcerer/Explosive/Froze
 77.62,26566,Ether Potion,109,486.97,2,3,TagBaligya2,Manu Craft Cook Items
 77.51,22002,Lustrious Gem,500,2223.7,13,1,xGoliath,SHEESH
@@ -36,7 +35,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.68,26595,Standard Explosive Ball,800,3039.8,4,3,Anuel,[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~]
 72.71,26590,Potion of Soul,999,3660.98,10,1,Bechil,LETS GO TRUMP!!!!!!!!!
 71.91,30121,Vial of Accuracy Reset,1200,4272.64,6,5,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-71.71,27003,Purple Blueprint Scroll,1000,3534.22,21,6,Lunah,DISCOUNTED
 71.43,26591,Potion of Lion,1000,3500.17,12,1,xGoliath,SHEESH
 71.37,25507,Expert Stone,250,873.33,3,39,Bankerito,Selling Useless Shit In bank
 70.33,26587,Potion of Monkey,500,1684.95,19,8,Bart,SALES
@@ -47,8 +45,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.25,25176,Sweet Poison,30,94.48,4,89,BLaCKMooN,Free     Free     Free     Free
 68.25,25176,Sweet Poison,30,94.48,4,99,BLaCKMooN,Free     Free     Free     Free
 67.91,28035,Solar Shield,12345,38467.8,4,1,HelloKitty,MvM coins/HL eqs/Mats
-67.86,26562,Cake,50,155.56,3,200,BBVA,tilapia
 67.86,26562,Cake,50,155.56,3,56,AtiradorAzul,garner
+67.86,26562,Cake,50,155.56,3,200,BBVA,tilapia
 67.86,26562,Cake,50,155.56,3,54,BBVA,tilapia
 67.53,22005,Shadow Gem,700,2155.6,13,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 67.37,26589,Potion of Bull,1000,3064.68,14,23,xJavux,cheap
@@ -69,48 +67,47 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.67,22001,Furious Gem,1500,3813.82,13,10,DEEEYYYYMMMMMM,furious gems cheap
 60.67,22001,Furious Gem,1500,3813.82,13,4,NotAfraid,clean bank
 60.52,28408,Earth Sealed Coat of Invocation,3000,7598.33,6,1,CStal1,afk
-60.23,28430,Fire Sealed Robe of Malediction,5000,12571.43,5,1,SuperComboFinish,BUYING SWORD APPAREL RIGHT
 60.23,28430,Fire Sealed Robe of Malediction,5000,12571.43,5,1,BabyGurl,9 1 1
+60.23,28430,Fire Sealed Robe of Malediction,5000,12571.43,5,1,SuperComboFinish,BUYING SWORD APPAREL RIGHT
 60.0,28414,Earth Sealed Greatsword of Incantation,5000,12500.0,2,1,BjornIronside,OFERTS
 59.82,25422,Evanescence Power,3500,8709.75,6,5,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 59.68,25493,Orange Colorant,1998,4955.26,3,1,VENDEDORAA,BOI+2/ APP LANCE /40-50-60 ITENS
 59.23,22001,Furious Gem,1555,3813.82,13,39,NainBASTARD,Normal gems
 59.02,28476,Ice Sealed Kris of the Sphinx,55555,135555.4,9,1,Systembuff,Sealeds 60
 58.97,27034,Grenade Lv2,2000,4874.67,6,3,Unlimites,garner
-58.52,25506,Expert Scroll,900,2169.96,4,74,Bankerito,Selling Useless Shit In bank
 58.52,25506,Expert Scroll,900,2169.96,4,99,Bankerito,Selling Useless Shit In bank
+58.52,25506,Expert Scroll,900,2169.96,4,74,Bankerito,Selling Useless Shit In bank
 58.52,25506,Expert Scroll,900,2169.96,4,90,Bankerito,Selling Useless Shit In bank
 58.18,26557,Cooked Codfish,350,836.87,3,147,Croissant,fesh
-57.9,25169,Mystic Leaf,70,166.28,3,67,Lunah,DISCOUNTED
 57.77,29019,Standard 15 Mining EXP Card,500,1183.87,3,2,Jop4V,CHEAP
 57.14,26591,Potion of Lion,1500,3500.17,12,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-56.79,28418,Earth Sealed Kiss of the Cursed,3500,8099.8,3,1,Ivynor,All cheap
-56.79,28418,Earth Sealed Kiss of the Cursed,3500,8099.8,3,1,Ivynor,All cheap
 56.79,28418,Earth Sealed Kiss of the Cursed,3500,8099.8,3,1,Ivynoor,All cheap
+56.79,28418,Earth Sealed Kiss of the Cursed,3500,8099.8,3,1,Ivynor,All cheap
+56.79,28418,Earth Sealed Kiss of the Cursed,3500,8099.8,3,1,Ivynor,All cheap
 56.07,28458,Ice Sealed Staff of the Sphinx,18000,40978.44,7,1,Gryffindor,RockFragment/GPS/PPS/EQUIPS
 55.91,25503,Magical Stone,850,1927.82,8,29,DracoMalfoy,magical stone
 55.91,25503,Magical Stone,850,1927.82,8,39,DracoMalfoy,magical stone
-55.56,28440,Fire Sealed Roar of Evanescence,10000,22499.75,4,1,xGoliath,SHEESH
 55.56,29056,20 Cooking EXP Card,1500,3375.0,3,1,nyana,low price
-55.07,29062,Field Brew,100,222.58,2,43,Mordred,fb
+55.56,28440,Fire Sealed Roar of Evanescence,10000,22499.75,4,1,xGoliath,SHEESH
 55.07,22002,Lustrious Gem,999,2223.7,13,2,sellller,NORMAL GEMS
+55.07,29062,Field Brew,100,222.58,2,43,Mordred,fb
+55.03,22002,Lustrious Gem,1000,2223.7,13,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 55.03,22002,Lustrious Gem,1000,2223.7,13,1,VitraAuJulii,<<<<<<<<<<<<<BUY BUY>>>>>>>>>>>
 55.03,22002,Lustrious Gem,1000,2223.7,13,5,Frank,GEMS EVA ROCK EVA-S INC-S
-55.03,22002,Lustrious Gem,1000,2223.7,13,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 54.75,26588,Potion of Eagle,1500,3314.62,14,3,Uzi,cheap
 54.75,26588,Potion of Eagle,1500,3314.62,14,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-54.56,22003,Glowing Gem,1499,3299.09,10,21,Yung,IMPS N BLESSED N MORE BEST PRICE
 54.56,22003,Glowing Gem,1499,3299.09,10,106,sellller,NORMAL GEMS
-54.53,22003,Glowing Gem,1500,3299.09,10,2,CStal1,afk
-54.53,22003,Glowing Gem,1500,3299.09,10,38,Look7,ty
+54.56,22003,Glowing Gem,1499,3299.09,10,21,Yung,IMPS N BLESSED N MORE BEST PRICE
 54.53,22003,Glowing Gem,1500,3299.09,10,12,Frank,GEMS EVA ROCK EVA-S INC-S
+54.53,22003,Glowing Gem,1500,3299.09,10,38,Look7,ty
+54.53,22003,Glowing Gem,1500,3299.09,10,2,CStal1,afk
 54.12,26556,Cooked Tilapia,280,610.28,7,127,Pjkaizer,Tilapia/PPS/EvaRock/GPS/Weightle
 53.92,25506,Expert Scroll,1000,2169.96,4,99,PapaJohansonIV,123
 53.92,25506,Expert Scroll,1000,2169.96,4,99,PapaJohansonIV,123
 53.92,25506,Expert Scroll,1000,2169.96,4,99,PapaJohansonIV,123
 53.66,22005,Shadow Gem,999,2155.6,13,1,SamuSta,GEM/ALL NORMAL GEMS/FB @SO CHEAP
-53.61,22005,Shadow Gem,1000,2155.6,13,4,DoaaPepa,D O N    P E P E
 53.61,22005,Shadow Gem,1000,2155.6,13,10,Frank,GEMS EVA ROCK EVA-S INC-S
+53.61,22005,Shadow Gem,1000,2155.6,13,4,DoaaPepa,D O N    P E P E
 53.32,25503,Magical Stone,900,1927.82,8,25,iinerti,Jackpot/Repu1k/Ref/PBS/FGP/FB/SP
 53.21,30121,Vial of Accuracy Reset,1999,4272.64,6,1,xColosus,ITEMS!!!
 53.21,30121,Vial of Accuracy Reset,1999,4272.64,6,1,Later,Fairy Growth/Stats Rest
