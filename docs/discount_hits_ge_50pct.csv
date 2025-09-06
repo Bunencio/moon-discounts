@@ -10,9 +10,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.46,26587,Potion of Monkey,400,1629.9,18,25,xDelfina,all cheap
 72.91,22001,Furious Gem,1000,3691.25,13,18,Ventas001,Gyoza Bless Demonic Aegies GEMS
 72.52,25212,Frozen Elixir,250,909.66,5,39,PussyFucker,Mermaid/Sorcerer/Explosive/Froze
-69.32,26587,Potion of Monkey,500,1629.9,18,1,Comerce,ww3
-69.32,26587,Potion of Monkey,500,1629.9,18,152,Ventas001,Gyoza Bless Demonic Aegies GEMS
 69.32,26587,Potion of Monkey,500,1629.9,18,1,Commerce,ww3
+69.32,26587,Potion of Monkey,500,1629.9,18,152,Ventas001,Gyoza Bless Demonic Aegies GEMS
+69.32,26587,Potion of Monkey,500,1629.9,18,1,Comerce,ww3
 68.12,28035,Solar Shield,12345,38723.0,5,1,HelloKitty,MvM coins/HL eqs/Mats
 68.02,28408,Earth Sealed Coat of Invocation,2000,6253.57,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 68.0,28126,Cleric Cap,15000,46875.0,4,1,Brubs,Sell
@@ -32,10 +32,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.37,30118,Vial of Strength Reset,2500,6825.0,6,1,VERTIGO,BOI BLESSED MOON SUN CLOUD RED
 62.5,26595,Standard Explosive Ball,1500,3999.71,3,2,Unlimites,garner
 62.26,28417,Corset of Incantation,79999,211999.33,3,1,E92,cheapest stall voy crus ss eq
-61.48,25506,Expert Scroll,1000,2595.95,3,99,PapaJohansonIV,123
-61.48,25506,Expert Scroll,1000,2595.95,3,99,PapaJohansonIV,123
-61.48,25506,Expert Scroll,1000,2595.95,3,79,PapaJohansonIV,123
-60.96,28458,Ice Sealed Staff of the Sphinx,15000,38425.67,5,1,Gryffindor,GPS// RockGemFragment
 60.0,28440,Fire Sealed Roar of Evanescence,10000,24999.6,5,1,xGoliath,SHEESH
 59.82,28430,Fire Sealed Robe of Malediction,5000,12444.33,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 59.36,22001,Furious Gem,1500,3691.25,13,4,NotAfraid,clean bank
@@ -54,8 +50,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.29,26568,Skating Potion,19990,46806.62,3,1,JuanTwoThree,cheap sh1t
 57.05,26587,Potion of Monkey,700,1629.9,18,1,Anuel,Yep. Re-stock and prices lowered
 56.8,22003,Glowing Gem,1499,3469.73,9,21,Yung,CHEAPEST ITEMS EVER IN PO
-56.77,22003,Glowing Gem,1500,3469.73,9,12,Frank,GEMS EVA ROCK EVA-S INC-S
 56.77,22003,Glowing Gem,1500,3469.73,9,2,CStal1,afk
+56.77,22003,Glowing Gem,1500,3469.73,9,12,Frank,GEMS EVA ROCK EVA-S INC-S
 56.77,22003,Glowing Gem,1500,3469.73,9,38,Look7,ty
 55.62,30121,Vial of Accuracy Reset,2500,5633.33,5,1,VERTIGO,BOI BLESSED MOON SUN CLOUD RED
 54.48,22005,Shadow Gem,700,1537.85,10,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
@@ -64,10 +60,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.2,30122,Vial of Spirit Reset,2500,5458.33,4,1,VERTIGO,BOI BLESSED MOON SUN CLOUD RED
 53.78,25522,,100,216.35,6,56,Unseal,CHEAP | BLACK FRIDAY | CHEAP
 53.78,25522,,100,216.35,6,39,Obsidian,fc/ds SM gloves+5con|more trash
-53.34,25439,Incantation Stone,500,1071.64,7,12,Frank,GEMS EVA ROCK EVA-S INC-S
-52.38,27034,Grenade Lv2,2000,4199.91,5,3,Unlimites,garner
 52.03,28408,Earth Sealed Coat of Invocation,3000,6253.57,6,1,CStal1,afk
-52.02,22002,Lustrious Gem,1000,2084.27,11,5,Frank,GEMS EVA ROCK EVA-S INC-S
 52.02,22002,Lustrious Gem,1000,2084.27,11,1,VitraAuJulii,<<<<<<<<<<<<<BUY BUY>>>>>>>>>>>
+52.02,22002,Lustrious Gem,1000,2084.27,11,5,Frank,GEMS EVA ROCK EVA-S INC-S
 52.02,22002,Lustrious Gem,1000,2084.27,11,49,Ventas001,Gyoza Bless Demonic Aegies GEMS
 52.0,28466,Ice Sealed Judgment of Enigma,20000,41666.33,4,1,CookingVentasIII,Skating  Green Jade  Clean Bank
+51.81,25439,Incantation Stone,500,1037.61,6,12,Frank,GEMS EVA ROCK EVA-S INC-S
+50.4,27034,Grenade Lv2,2000,4032.2,5,3,Unlimites,garner
