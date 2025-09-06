@@ -1,96 +1,84 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-99.7,26562,Cake,50,16521.43,5,56,AtiradorAzul,garner
-99.7,26562,Cake,50,16521.43,5,200,BBVA,tilapia
-99.7,26562,Cake,50,16521.43,5,54,BBVA,tilapia
-99.09,26562,Cake,150,16521.43,5,200,Shop1,darkblue
-97.58,26562,Cake,399,16521.43,5,139,kendz,cake/apple/fb bp/ equips
+99.76,26562,Cake,50,20648.54,4,56,AtiradorAzul,garner
+99.76,26562,Cake,50,20648.54,4,200,BBVA,tilapia
+99.76,26562,Cake,50,20648.54,4,54,BBVA,tilapia
+99.27,26562,Cake,150,20648.54,4,200,Shop1,darkblue
 86.31,2301,,2000,14611.0,5,1,stalling1,Sealed lv60 - Crafting BPs
 86.31,2301,,2000,14611.0,5,1,stalling1,Sealed lv60 - Crafting BPs
 86.31,2301,,2000,14611.0,5,1,stalling1,Sealed lv60 - Crafting BPs
 86.31,2301,,2000,14611.0,5,1,stalling1,Sealed lv60 - Crafting BPs
-86.01,26589,Potion of Bull,400,2859.49,15,1,Bechil,LETS GO TRUMP!!!!!!!!!
-85.46,25499,Purple Colorant,700,4815.43,3,3,cheapstuffsell,cheap
-84.71,26587,Potion of Monkey,250,1634.9,20,18,Pip0n,Jackpot/JadeFrag/Pots/PBS
-83.86,25501,Brown Colorant,800,4957.17,3,1,cheapstuffsell,cheap
-81.65,26587,Potion of Monkey,300,1634.9,20,2,xGoliath,SHEEESH
-77.1,22002,Lustrious Gem,500,2183.78,11,1,xGoliath,SHEEESH
-75.53,26587,Potion of Monkey,400,1634.9,20,25,xDelfina,all cheap
+86.03,26589,Potion of Bull,400,2862.62,15,1,Bechil,LETS GO TRUMP!!!!!!!!!
+85.48,25499,Purple Colorant,700,4820.56,3,3,cheapstuffsell,cheap
+83.9,26587,Potion of Monkey,250,1552.53,20,18,Pip0n,Jackpot/JadeFrag/Pots/PBS
+83.87,25501,Brown Colorant,800,4959.23,3,1,cheapstuffsell,cheap
 75.34,25212,Frozen Elixir,250,1013.62,6,39,PussyFucker,Mermaid/Sorcerer/Explosive/Froze
-75.19,22001,Furious Gem,1000,4030.73,12,18,Ventas001,Gyoza Bless Demonic Aegies GEMS
+74.24,26587,Potion of Monkey,400,1552.53,20,25,xDelfina,all cheap
 73.68,26595,Standard Explosive Ball,800,3039.8,4,3,Anuel,[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~]
-72.42,25522,,40,145.02,7,4,HelloKitty,MvM coins/HL eqs/Mats
+72.84,22001,Furious Gem,1000,3682.04,13,18,Ventas001,Gyoza Bless Demonic Aegies GEMS
 72.33,25507,Expert Stone,250,903.39,3,39,Bankerito,Selling Useless Shit In bank
 70.59,30121,Vial of Accuracy Reset,1200,4079.92,6,5,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-70.25,26591,Potion of Lion,1000,3361.51,11,1,xGoliath,SHEEESH
+69.99,26556,Cooked Tilapia,170,566.5,9,99,Ragin,tilapia / fairy growth pot
+69.99,26556,Cooked Tilapia,170,566.5,9,99,Ragin,tilapia / fairy growth pot
 69.99,26556,Cooked Tilapia,170,566.5,9,99,Ragin,tilapia / fairy growth pot
 69.99,26556,Cooked Tilapia,170,566.5,9,92,Ragin,tilapia / fairy growth pot
-69.99,26556,Cooked Tilapia,170,566.5,9,99,Ragin,tilapia / fairy growth pot
-69.99,26556,Cooked Tilapia,170,566.5,9,99,Ragin,tilapia / fairy growth pot
-69.42,26587,Potion of Monkey,500,1634.9,20,1,Commerce,ww3
-69.42,26587,Potion of Monkey,500,1634.9,20,8,Bart,SALES
-69.42,26587,Potion of Monkey,500,1634.9,20,1,Comerce,ww3
-69.42,26587,Potion of Monkey,500,1634.9,20,152,Ventas001,Gyoza Bless Demonic Aegies GEMS
 69.11,26556,Cooked Tilapia,175,566.5,9,99,Truoo,CLEANING BANKS
-69.09,25176,Sweet Poison,30,97.07,4,89,BLaCKMooN,Free     Free     Free     Free
-69.09,25176,Sweet Poison,30,97.07,4,99,BLaCKMooN,Free     Free     Free     Free
+69.1,25176,Sweet Poison,30,97.1,4,89,BLaCKMooN,Free     Free     Free     Free
+69.1,25176,Sweet Poison,30,97.1,4,99,BLaCKMooN,Free     Free     Free     Free
 69.07,30119,Vial of Consitution Reset,2000,6466.67,3,1,Comoestas,GPS| PBS | UG WIND | JC | GRENAD
 68.42,26590,Potion of Soul,999,3163.53,12,1,Bechil,LETS GO TRUMP!!!!!!!!!
+68.27,22003,Glowing Gem,1111,3501.89,10,12,NainBASTARD,Ug Wind/Normal Gems
 67.91,28035,Solar Shield,12345,38467.8,4,1,HelloKitty,MvM coins/HL eqs/Mats
-67.77,26564,Meditation Potion,300,930.77,3,62,Hiller,Uns/AppSwords/AccPet/DsSS/SpPots
-67.44,28406,Earth Sealed Staff of Abraxas.,2000,6142.71,5,1,Thaxx,DW TIX|COINS|ROCK FRAG|ETC.
+67.79,26587,Potion of Monkey,500,1552.53,20,1,Commerce,ww3
+67.79,26587,Potion of Monkey,500,1552.53,20,8,Bart,SALES
+67.79,26587,Potion of Monkey,500,1552.53,20,152,Ventas001,Gyoza Bless Demonic Aegies GEMS
+67.79,26587,Potion of Monkey,500,1552.53,20,1,Comerce,ww3
 67.23,26594,Novice Explosive Ball,150,457.71,5,16,Shop1,darkblue
-66.18,22005,Shadow Gem,700,2070.08,13,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-66.18,22005,Shadow Gem,700,2070.08,13,3,Zen,come
-66.09,25440,Evanescence Stone,300,884.81,6,3,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+65.79,25440,Evanescence Stone,300,876.94,7,3,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 65.78,2301,,5000,14611.0,5,1,HunterKim,Too
-65.12,22003,Glowing Gem,1250,3584.18,10,50,Ventas001,Gyoza Bless Demonic Aegies GEMS
-63.3,26587,Potion of Monkey,600,1634.9,20,1,Anuel,[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~]
-62.79,22001,Furious Gem,1500,4030.73,12,4,NotAfraid,clean bank
-61.35,22005,Shadow Gem,800,2070.08,13,3,stuffseller,cheap
-61.35,22005,Shadow Gem,800,2070.08,13,53,Ventas001,Gyoza Bless Demonic Aegies GEMS
-60.0,28440,Fire Sealed Roar of Evanescence,10000,25000.0,3,1,xGoliath,SHEEESH
+65.33,22005,Shadow Gem,700,2018.86,13,3,Zen,come
+65.33,22005,Shadow Gem,700,2018.86,13,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+64.3,22003,Glowing Gem,1250,3501.89,10,50,Ventas001,Gyoza Bless Demonic Aegies GEMS
+64.25,26587,Potion of Monkey,555,1552.53,20,76,NainBASTARD,Ug Wind/Normal Gems
+63.64,28406,Earth Sealed Staff of Abraxas.,2000,5500.0,4,1,Thaxx,DW TIX|COINS|ROCK FRAG|ETC.
+61.35,26587,Potion of Monkey,600,1552.53,20,1,Anuel,[~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~]
+60.37,22005,Shadow Gem,800,2018.86,13,3,stuffseller,cheap
+60.37,22005,Shadow Gem,800,2018.86,13,53,Ventas001,Gyoza Bless Demonic Aegies GEMS
 59.9,25422,Evanescence Power,3500,8727.55,6,5,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-59.78,26589,Potion of Bull,1150,2859.49,15,8,hunterx,UGsoul/bp/signet/gems/evarock/xp
-59.69,25493,Orange Colorant,1998,4956.54,3,1,VENDEDORAA,BOI+2/ APP LANCE /40-50-60 ITENS
+59.83,26589,Potion of Bull,1150,2862.62,15,8,hunterx,UGsoul/bp/signet/gems/evarock/xp
+59.7,25493,Orange Colorant,1998,4958.33,3,1,VENDEDORAA,BOI+2/ APP LANCE /40-50-60 ITENS
+59.26,22001,Furious Gem,1500,3682.04,13,4,NotAfraid,clean bank
 58.95,28458,Ice Sealed Staff of the Sphinx,15000,36543.71,6,1,Gryffindor,RockGemFragments/GPS/PPS/EQUIPS
 58.87,28476,Ice Sealed Kris of the Sphinx,55555,135061.56,8,1,Systembuff,Sealeds 60
 58.52,25506,Expert Scroll,900,2169.96,4,90,Bankerito,Selling Useless Shit In bank
-58.52,25506,Expert Scroll,900,2169.96,4,99,Bankerito,Selling Useless Shit In bank
 58.52,25506,Expert Scroll,900,2169.96,4,74,Bankerito,Selling Useless Shit In bank
+58.52,25506,Expert Scroll,900,2169.96,4,99,Bankerito,Selling Useless Shit In bank
 58.33,28430,Fire Sealed Robe of Malediction,5000,11999.89,6,1,SuperComboFinish,BUYING SWORD APPAREL RIGHT
 58.33,28430,Fire Sealed Robe of Malediction,5000,11999.89,6,1,BabyGurl,9 1 1
 58.18,26557,Cooked Codfish,350,836.87,3,147,Croissant,fesh
-58.18,22003,Glowing Gem,1499,3584.18,10,21,Yung,IMPS N BLESSED N MORE BEST PRICE
-58.15,22003,Glowing Gem,1500,3584.18,10,2,CStal1,afk
-58.15,22003,Glowing Gem,1500,3584.18,10,12,Frank,GEMS EVA ROCK EVA-S INC-S
-58.15,22003,Glowing Gem,1500,3584.18,10,38,Look7,ty
+57.77,22001,Furious Gem,1555,3682.04,13,40,NainBASTARD,Ug Wind/Normal Gems
 57.45,29019,Standard 15 Mining EXP Card,500,1175.0,4,2,Jop4V,CHEAP
-56.63,25439,Incantation Stone,450,1037.58,5,4,stuffseller,cheap
+57.19,22003,Glowing Gem,1499,3501.89,10,21,Yung,IMPS N BLESSED N MORE BEST PRICE
+57.17,22003,Glowing Gem,1500,3501.89,10,2,CStal1,afk
+57.17,22003,Glowing Gem,1500,3501.89,10,38,Look7,ty
+57.17,22003,Glowing Gem,1500,3501.89,10,12,Frank,GEMS EVA ROCK EVA-S INC-S
 56.51,28408,Earth Sealed Coat of Invocation,3000,6898.0,5,1,CStal1,afk
-55.38,26591,Potion of Lion,1500,3361.51,11,42,Ventas001,Gyoza Bless Demonic Aegies GEMS
-55.38,26591,Potion of Lion,1500,3361.51,11,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+55.35,26591,Potion of Lion,1500,3359.48,11,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+55.35,26591,Potion of Lion,1500,3359.48,11,42,Ventas001,Gyoza Bless Demonic Aegies GEMS
 54.55,28466,Ice Sealed Judgment of Enigma,20000,43999.8,3,1,CookingVentasIII,Skating  Green Jade  Clean Bank
-54.21,22002,Lustrious Gem,1000,2183.78,11,5,Frank,GEMS EVA ROCK EVA-S INC-S
-54.21,22002,Lustrious Gem,1000,2183.78,11,1,VitraAuJulii,<<<<<<<<<<<<<BUY BUY>>>>>>>>>>>
-54.21,22002,Lustrious Gem,1000,2183.78,11,62,Ventas001,Gyoza Bless Demonic Aegies GEMS
-54.21,22002,Lustrious Gem,1000,2183.78,11,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 53.92,25506,Expert Scroll,1000,2169.96,4,99,PapaJohansonIV,123
 53.92,25506,Expert Scroll,1000,2169.96,4,99,PapaJohansonIV,123
 53.92,25506,Expert Scroll,1000,2169.96,4,99,PapaJohansonIV,123
-53.61,26588,Potion of Eagle,1500,3233.2,14,3,Uzi,gps
+53.75,22002,Lustrious Gem,1000,2161.99,11,62,Ventas001,Gyoza Bless Demonic Aegies GEMS
+53.75,22002,Lustrious Gem,1000,2161.99,11,1,VitraAuJulii,<<<<<<<<<<<<<BUY BUY>>>>>>>>>>>
+53.75,22002,Lustrious Gem,1000,2161.99,11,5,Frank,GEMS EVA ROCK EVA-S INC-S
+53.75,22002,Lustrious Gem,1000,2161.99,11,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 53.61,26588,Potion of Eagle,1500,3233.2,14,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-52.86,22001,Furious Gem,1900,4030.73,12,2,stuffseller,cheap
+53.61,26588,Potion of Eagle,1500,3233.2,14,3,Uzi,gps
 52.58,26590,Potion of Soul,1500,3163.53,12,77,Ventas001,Gyoza Bless Demonic Aegies GEMS
 52.53,30135,Demonic Rock,2700,5687.36,6,2,ghost26,scroll
 52.38,27034,Grenade Lv2,2000,4199.91,5,3,Unlimites,garner
-52.05,26592,Flash Bomb,650,1355.66,12,133,Ivynor,All cheap
-51.81,25439,Incantation Stone,500,1037.58,5,14,Frank,GEMS EVA ROCK EVA-S INC-S
-51.74,22005,Shadow Gem,999,2070.08,13,1,Truoo,CLEANING BANKS
-51.74,22005,Shadow Gem,999,2070.08,13,1,SamuSta,GEM/ALL NORMAL GEMS/FB @SO CHEAP
-51.69,22005,Shadow Gem,1000,2070.08,13,4,DoaaPepa,D O N    P E P E
-51.69,22005,Shadow Gem,1000,2070.08,13,10,Frank,GEMS EVA ROCK EVA-S INC-S
-51.16,28406,Earth Sealed Staff of Abraxas.,3000,6142.71,5,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-51.16,28406,Earth Sealed Staff of Abraxas.,3000,6142.71,5,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+52.02,26592,Flash Bomb,650,1354.79,13,133,Ivynor,All cheap
+51.54,28404,Earth Sealed Robe of Abraxas,1234,2546.4,5,1,HelloKitty,MvM coins/HL eqs/Mats
 51.0,30121,Vial of Accuracy Reset,1999,4079.92,6,1,Later,Fairy Growth/Stats Rest
 51.0,30121,Vial of Accuracy Reset,1999,4079.92,6,1,xColosus,ITEMS!!!
 50.98,30121,Vial of Accuracy Reset,2000,4079.92,6,1,Unlimites,garner
@@ -99,8 +87,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.65,26595,Standard Explosive Ball,1500,3039.8,4,2,Unlimites,garner
 50.63,28462,Ice Sealed Staff of Enigma,30000,60763.62,7,1,OiOiOi,bank cleaning
 50.57,26556,Cooked Tilapia,280,566.5,9,127,Pjkaizer,Tilapia/PPS/EvaRock/GPS/Weightle
-50.41,22001,Furious Gem,1999,4030.73,12,2,SamuSta,GEM/ALL NORMAL GEMS/FB @SO CHEAP
-50.38,22001,Furious Gem,2000,4030.73,12,1,xDelfina,all cheap
+50.52,22005,Shadow Gem,999,2018.86,13,1,SamuSta,GEM/ALL NORMAL GEMS/FB @SO CHEAP
+50.52,22005,Shadow Gem,999,2018.86,13,1,Truoo,CLEANING BANKS
+50.47,22005,Shadow Gem,1000,2018.86,13,4,DoaaPepa,D O N    P E P E
+50.47,22005,Shadow Gem,1000,2018.86,13,10,Frank,GEMS EVA ROCK EVA-S INC-S
 50.0,25211,Tropical Drumstick,48,96.01,7,99,staller2,bow+3/bombs/soul det/tropical
 50.0,25211,Tropical Drumstick,48,96.01,7,99,staller2,bow+3/bombs/soul det/tropical
 50.0,25211,Tropical Drumstick,48,96.01,7,99,staller2,bow+3/bombs/soul det/tropical
