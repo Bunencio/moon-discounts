@@ -1,14 +1,15 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.4,30173,Ticket to Angler's Island,40,606.3,5,6,Shop1,darkblue
 90.32,28404,Earth Sealed Robe of Abraxas,1500,15500.0,3,1,Ivynor,All cheap
-86.55,26589,Potion of Bull,400,2973.84,19,2,Anuel,CLEARANCE
+86.74,26589,Potion of Bull,400,3017.13,19,2,Anuel,CLEARANCE
 85.65,26591,Potion of Lion,600,4179.93,11,1,Anuel,CLEARANCE
 85.49,25499,Purple Colorant,700,4823.01,3,3,cheapstuffsell,cheap
 83.78,25501,Brown Colorant,800,4931.05,4,1,cheapstuffsell,cheap
 82.09,26587,Potion of Monkey,300,1674.67,20,3,Obrero1,ENIGMA POWER/POTIONS/DEMONIC ROK
-81.44,26588,Potion of Eagle,600,3233.02,14,2,Anuel,CLEARANCE
+81.46,26588,Potion of Eagle,600,3236.85,15,2,Anuel,CLEARANCE
 79.8,25493,Orange Colorant,999,4944.64,3,1,VENDEDORAA,FREE BOI  / APP LANCE / 50-60 ++
 78.34,25212,Frozen Elixir,250,1153.95,5,8,PussyFucker,Mermaid/Sorcerer/Explosive/Froze
+77.94,26595,Standard Explosive Ball,1500,6799.5,3,2,Unlimites,garner
 76.24,25478,Carsise Hairstyle Book,200,841.86,3,36,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 76.11,26587,Potion of Monkey,400,1674.67,20,2,Anuel,CLEARANCE
 73.96,26594,Novice Explosive Ball,150,576.02,6,4,Anuel,CLEARANCE
@@ -32,48 +33,51 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.0,28126,Cleric Cap,15000,46875.0,4,1,Brubs,Sell
 67.35,25176,Sweet Poison,30,91.88,3,80,BLaCKMooN,Free     Free     Free     Free
 67.35,25176,Sweet Poison,30,91.88,3,96,BLaCKMooN,Free     Free     Free     Free
+66.86,26589,Potion of Bull,1000,3017.13,19,1,Destinys,LOOK HERE
 66.49,28434,Fire Sealed Robe of the Arcane,10000,29841.14,5,1,Hyacinth,darkblue
-66.37,26589,Potion of Bull,1000,2973.84,19,1,Destinys,LOOK HERE
 66.05,28474,Ice Sealed Mantle of the Sphinx,55555,163650.57,5,1,Systembuff,Sealeds
-64.29,30121,Vial of Accuracy Reset,2000,5600.0,4,2,DoaaPepa,D O N    P E P E
 64.29,30121,Vial of Accuracy Reset,2000,5600.0,4,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
+64.29,30121,Vial of Accuracy Reset,2000,5600.0,4,2,DoaaPepa,D O N    P E P E
 63.78,25505,Standard Stone,999,2757.96,4,17,ElDorado,cheap items/cruzz/voy/cleric/etc
 63.73,22001,Furious Gem,1500,4136.14,16,4,NotAfraid,clean bank
 63.28,25481,Red Dye,100,272.34,3,1,2Homo,sell
-62.5,26595,Standard Explosive Ball,1500,3999.71,3,2,Unlimites,garner
 60.33,22003,Glowing Gem,1499,3778.68,10,21,Yung,CHEAPEST ITEMS EVER IN PO
 60.3,22003,Glowing Gem,1500,3778.68,10,37,Look7,gem
 60.3,22003,Glowing Gem,1500,3778.68,10,2,CStal1,afk
-60.03,28408,Earth Sealed Coat of Invocation,2500,6255.4,5,1,CStal1,afk
 59.6,30122,Vial of Spirit Reset,2500,6187.5,3,1,TuoTuo,Cheap Stuffs
 59.44,25501,Brown Colorant,2000,4931.05,4,1,2Homo,sell
-59.22,25439,Incantation Stone,500,1226.01,4,11,Frank,GEMS EVR INS EVS
+59.36,25439,Incantation Stone,500,1230.23,4,10,Frank,GEMS EVR INS EVS
 59.1,25485,Cyan Dye,100,244.53,3,17,2Homo,sell
 58.87,25488,Purple Dye,100,243.14,3,24,2Homo,sell
-58.46,22005,Shadow Gem,700,1685.32,8,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-58.46,22005,Shadow Gem,700,1685.32,8,3,Zen,come
-55.48,26590,Potion of Soul,1500,3369.2,11,16,Gryffindor,OFFERS/CHEAP/OFFERS
+58.53,22005,Shadow Gem,700,1687.92,8,3,Zen,come
+58.53,22005,Shadow Gem,700,1687.92,8,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+55.57,26590,Potion of Soul,1500,3375.91,10,16,Gryffindor,CHEAP/ OFFERS / CHEAP
 55.19,25211,Tropical Drumstick,34,75.87,8,3,TagBaligya2,Manu/Cook/Craft Items
 54.9,28476,Ice Sealed Kris of the Sphinx,55555,123194.38,6,1,Systembuff,Sealeds
 54.71,25522,,95,209.75,6,47,staller2,grenade/soul detector/tropical
 54.41,29019,Standard 15 Mining EXP Card,500,1096.84,5,2,Jop4V,CHEAP
 54.06,22001,Furious Gem,1900,4136.14,16,2,stuffseller,cheap
-53.87,25211,Tropical Drumstick,35,75.87,8,99,Uwe,URG URG AUA AUA UWU
+54.05,25422,Evanescence Power,4999,10879.98,6,6,SariSariStore1,SALE
 53.87,25211,Tropical Drumstick,35,75.87,8,61,Uwe,URG URG AUA AUA UWU
 53.87,25211,Tropical Drumstick,35,75.87,8,99,Uwe,URG URG AUA AUA UWU
-53.6,26588,Potion of Eagle,1500,3233.02,14,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-53.6,26588,Potion of Eagle,1500,3233.02,14,20,Gryffindor,OFFERS/CHEAP/OFFERS
-53.21,22002,Lustrious Gem,1000,2137.25,9,1,VitraAuJulii,<<<<<<<<<<<<<BUY BUY>>>>>>>>>>>
-52.92,26589,Potion of Bull,1400,2973.84,19,7,Mallwart,MUCH STUFF
-52.71,25440,Evanescence Stone,500,1057.37,7,4,CStal1,afk
+53.87,25211,Tropical Drumstick,35,75.87,8,99,Uwe,URG URG AUA AUA UWU
+53.66,26588,Potion of Eagle,1500,3236.85,15,20,Gryffindor,CHEAP/ OFFERS / CHEAP
+53.66,26588,Potion of Eagle,1500,3236.85,15,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+53.6,26589,Potion of Bull,1400,3017.13,19,7,Mallwart,MUCH STUFF
+53.58,22002,Lustrious Gem,1000,2154.04,9,1,VitraAuJulii,<<<<<<<<<<<<<BUY BUY>>>>>>>>>>>
 52.71,25440,Evanescence Stone,500,1057.37,7,48,Frank,GEMS EVR INS EVS
+52.71,25440,Evanescence Stone,500,1057.37,7,4,CStal1,afk
+52.43,28408,Earth Sealed Coat of Invocation,2500,5255.4,4,1,CStal1,afk
 52.33,25522,,100,209.75,6,24,Obsidian,fc/ds SM gloves+5con|more trash
 52.27,28406,Earth Sealed Staff of Abraxas.,3000,6285.57,5,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 52.27,28406,Earth Sealed Staff of Abraxas.,3000,6285.57,5,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 52.18,26591,Potion of Lion,1999,4179.93,11,1,PoorBaby,Pots and Pans !
-51.95,27024,Grenade Lv1,700,1456.76,6,62,Millionaires,S>> Cheap Flashbomb and Grenade
+51.97,26589,Potion of Bull,1449,3017.13,19,1,Trika,CHEAP STUFF CHEAP STUFF
 51.67,22001,Furious Gem,1999,4136.14,16,2,SamuSta,GEM/ALL NORMAL GEMS/FB @SO CHEAP
 51.65,22001,Furious Gem,2000,4136.14,16,7,Hibiki,PotionStat|MStone|EvaRock|Gems
-51.28,26589,Potion of Bull,1449,2973.84,19,1,Trika,CHEAP STUFF CHEAP STUFF
-51.06,25439,Incantation Stone,600,1226.01,4,56,FreePalestine1,selll       0_0
+51.23,25439,Incantation Stone,600,1230.23,4,56,FreePalestine1,selll       0_0
 50.85,25480,Ami Hairstyle Book,500,1017.24,3,48,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
+50.32,26589,Potion of Bull,1499,3017.13,19,28,barako,FLASH BOMB | POITIONSS
+50.28,26589,Potion of Bull,1500,3017.13,19,17,Gryffindor,CHEAP/ OFFERS / CHEAP
+50.28,26589,Potion of Bull,1500,3017.13,19,2,fisherr,cheap cool flash
+50.28,26589,Potion of Bull,1500,3017.13,19,1,CStal1,afk
