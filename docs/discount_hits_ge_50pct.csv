@@ -1,8 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.4,30173,Ticket to Angler's Island,40,606.3,5,6,Shop1,darkblue
-89.47,26564,Meditation Potion,99,940.19,3,27,TagBaligya2,Manu/Cook/Craft Items
 85.49,25499,Purple Colorant,700,4823.01,3,3,cheapstuffsell,cheap
-84.5,26589,Potion of Bull,400,2580.68,20,2,Anuel,GPS | Jackpot | PG | Rep | CHEAP
+84.37,26589,Potion of Bull,400,2558.53,19,2,Anuel,GPS | Jackpot | PG | Rep | CHEAP
 83.78,25501,Brown Colorant,800,4931.05,4,1,cheapstuffsell,cheap
 80.41,26587,Potion of Monkey,300,1531.77,20,3,Obrero1,ENIGMA POWER/POTIONS/DEMONIC ROK
 79.8,25493,Orange Colorant,999,4944.64,3,1,VENDEDORAA,FREE BOI  / APP LANCE / 50-60 ++
@@ -24,46 +23,45 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.76,2301,,4999,15999.61,6,1,PoorBaby,Pots and Pans !
 68.76,2301,,4999,15999.61,6,1,PoorBaby,Pots and Pans !
 68.75,2301,,5000,15999.61,6,1,HunterKim,Too
-68.0,28126,Cleric Cap,15000,46875.0,4,1,Brubs,Sell
 68.0,28126,Cleric Cap,15000,46875.0,4,1,BigOne,S>
+68.0,28126,Cleric Cap,15000,46875.0,4,1,Brubs,Sell
 67.69,30118,Vial of Strength Reset,2000,6190.48,5,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
-67.5,28474,Ice Sealed Mantle of the Sphinx,55555,170925.67,6,1,Systembuff,Sealeds
 67.42,26587,Potion of Monkey,499,1531.77,20,2,Mallwart,MUCH STUFF
-67.36,26587,Potion of Monkey,500,1531.77,20,1,Anuel,GPS | Jackpot | PG | Rep | CHEAP
-67.36,26587,Potion of Monkey,500,1531.77,20,152,Ventas001,Gyoza MOST CHEAPEST POTIONS
 67.36,26587,Potion of Monkey,500,1531.77,20,1,Comerce,ww3
+67.36,26587,Potion of Monkey,500,1531.77,20,152,Ventas001,Gyoza MOST CHEAPEST POTIONS
+67.36,26587,Potion of Monkey,500,1531.77,20,1,Anuel,GPS | Jackpot | PG | Rep | CHEAP
+65.45,28474,Ice Sealed Mantle of the Sphinx,55555,160793.43,6,1,Systembuff,Sealeds
 63.83,30121,Vial of Accuracy Reset,2000,5529.41,5,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
 63.83,30121,Vial of Accuracy Reset,2000,5529.41,5,2,DoaaPepa,D O N    P E P E
 63.78,25505,Standard Stone,999,2757.96,4,17,ElDorado,cheap items/cruzz/voy/cleric/etc
 63.5,22001,Furious Gem,1500,4109.19,16,4,NotAfraid,clean bank
 63.28,25481,Red Dye,100,272.34,3,1,2Homo,sell
 62.5,26595,Standard Explosive Ball,1500,3999.71,3,2,Unlimites,garner
-61.25,26589,Potion of Bull,1000,2580.68,20,2,BjornIronside,OFERTS
-60.62,25522,,95,241.22,7,47,staller2,grenade/soul detector/tropical
-60.47,26326,Elven Royal Signet,1050,2656.52,7,7,JunoJuno,pps
+60.92,26589,Potion of Bull,1000,2558.53,19,2,BjornIronside,OFERTS
 60.44,28408,Earth Sealed Coat of Invocation,2500,6319.25,4,1,CStal1,afk
-60.17,22005,Shadow Gem,700,1757.35,10,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+60.31,26326,Elven Royal Signet,1050,2645.4,8,7,JunoJuno,pps
 60.17,22005,Shadow Gem,700,1757.35,10,3,Zen,come
+60.17,22005,Shadow Gem,700,1757.35,10,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 59.6,30122,Vial of Spirit Reset,2500,6187.5,3,1,TuoTuo,Cheap Stuffs
 59.44,25501,Brown Colorant,2000,4931.05,4,1,2Homo,sell
 59.22,25439,Incantation Stone,500,1226.01,4,11,Frank,GEMS EVR INS EVS
 59.1,25485,Cyan Dye,100,244.53,3,17,2Homo,sell
-58.87,22003,Glowing Gem,1499,3644.75,12,21,Yung,CHEAPEST ITEMS EVER IN PO
 58.87,25488,Purple Dye,100,243.14,3,24,2Homo,sell
-58.84,22003,Glowing Gem,1500,3644.75,12,2,CStal1,afk
+58.87,22003,Glowing Gem,1499,3644.75,12,21,Yung,CHEAPEST ITEMS EVER IN PO
 58.84,22003,Glowing Gem,1500,3644.75,12,37,Look7,gem
-58.62,26591,Potion of Lion,1500,3624.65,11,11,Gryffindor,OFFERS/CHEAP/OFFERS
-58.54,25522,,100,241.22,7,24,Obsidian,fc/ds SM gloves+5con|more trash
+58.84,22003,Glowing Gem,1500,3644.75,12,2,CStal1,afk
 57.57,28476,Ice Sealed Kris of the Sphinx,55555,130925.83,5,1,Systembuff,Sealeds
+56.89,25522,,95,220.37,6,47,staller2,grenade/soul detector/tropical
+55.39,26590,Potion of Soul,1500,3362.78,11,16,Gryffindor,OFFERS/CHEAP/OFFERS
 55.19,25211,Tropical Drumstick,34,75.87,8,3,TagBaligya2,Manu/Cook/Craft Items
-54.81,26590,Potion of Soul,1500,3319.55,12,16,Gryffindor,OFFERS/CHEAP/OFFERS
-54.65,26588,Potion of Eagle,1500,3307.34,14,20,Gryffindor,OFFERS/CHEAP/OFFERS
-54.65,26588,Potion of Eagle,1500,3307.34,14,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+54.62,25522,,100,220.37,6,24,Obsidian,fc/ds SM gloves+5con|more trash
 54.48,22005,Shadow Gem,800,1757.35,10,3,stuffseller,cheap
 54.41,29019,Standard 15 Mining EXP Card,500,1096.84,5,2,Jop4V,CHEAP
+53.87,25211,Tropical Drumstick,35,75.87,8,99,Uwe,URG URG AUA AUA UWU
+53.87,25211,Tropical Drumstick,35,75.87,8,99,Uwe,URG URG AUA AUA UWU
 53.87,25211,Tropical Drumstick,35,75.87,8,61,Uwe,URG URG AUA AUA UWU
-53.87,25211,Tropical Drumstick,35,75.87,8,99,Uwe,URG URG AUA AUA UWU
-53.87,25211,Tropical Drumstick,35,75.87,8,99,Uwe,URG URG AUA AUA UWU
+53.77,26588,Potion of Eagle,1500,3244.51,13,20,Gryffindor,OFFERS/CHEAP/OFFERS
+53.77,26588,Potion of Eagle,1500,3244.51,13,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 53.76,22001,Furious Gem,1900,4109.19,16,2,stuffseller,cheap
 53.04,25422,Evanescence Power,5000,10646.69,6,11,tidowoi,tun tun tun tun tun sahur
 52.71,25440,Evanescence Stone,500,1057.37,7,48,Frank,GEMS EVR INS EVS
