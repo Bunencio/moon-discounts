@@ -1,9 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.12,30173,Ticket to Angler's Island,40,581.78,5,16,Shop1,darkblue
 85.49,25499,Purple Colorant,700,4823.01,3,3,cheapstuffsell,cheap
-84.63,26589,Potion of Bull,400,2602.73,16,2,Anuel,GPS | Jackpot | PG | Rep | CHEAP
+84.55,26589,Potion of Bull,400,2588.2,17,2,Anuel,GPS | Jackpot | PG | Rep | CHEAP
 83.78,25501,Brown Colorant,800,4931.05,4,1,cheapstuffsell,cheap
-80.34,26587,Potion of Monkey,300,1525.82,19,3,Obrero1,ENIGMA POWER/POTIONS/DEMONIC ROK
+80.34,26587,Potion of Monkey,300,1526.28,19,3,Obrero1,ENIGMA POWER/POTIONS/DEMONIC ROK
 79.8,25493,Orange Colorant,999,4944.64,3,1,VENDEDORAA,FREE BOI  / APP LANCE / 50-60 ++
 78.25,28035,Solar Shield,12345,56762.43,7,1,HelloKitty,MvM coins/HL eqs/Mats
 78.05,25212,Frozen Elixir,250,1138.77,6,8,PussyFucker,Mermaid/Sorcerer/Explosive/Froze
@@ -26,16 +26,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.0,28126,Cleric Cap,15000,46875.0,4,1,BigOne,S>
 68.0,28126,Cleric Cap,15000,46875.0,4,1,Brubs,Sell
 67.5,28474,Ice Sealed Mantle of the Sphinx,55555,170925.67,6,1,Systembuff,Sealeds 60
-67.3,26587,Potion of Monkey,499,1525.82,19,2,Mallwart,MUCH STUFF
-67.23,26587,Potion of Monkey,500,1525.82,19,1,Comerce,ww3
-67.23,26587,Potion of Monkey,500,1525.82,19,1,Anuel,GPS | Jackpot | PG | Rep | CHEAP
-67.23,26587,Potion of Monkey,500,1525.82,19,152,Ventas001,Gyoza MOST CHEAPEST POTIONS
+67.31,26587,Potion of Monkey,499,1526.28,19,2,Mallwart,MUCH STUFF
+67.24,26587,Potion of Monkey,500,1526.28,19,1,Comerce,ww3
+67.24,26587,Potion of Monkey,500,1526.28,19,1,Anuel,GPS | Jackpot | PG | Rep | CHEAP
+67.24,26587,Potion of Monkey,500,1526.28,19,152,Ventas001,Gyoza MOST CHEAPEST POTIONS
 66.63,25504,Standard Scroll,500,1498.49,3,5,DAGANG6,SEA ITEM COOKING HERE
 64.99,28408,Earth Sealed Coat of Invocation,2000,5712.83,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 63.86,30121,Vial of Accuracy Reset,2000,5533.33,4,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
 63.86,30121,Vial of Accuracy Reset,2000,5533.33,4,2,DoaaPepa,D O N    P E P E
 62.5,26595,Standard Explosive Ball,1500,3999.71,3,2,Unlimites,garner
-61.58,26589,Potion of Bull,1000,2602.73,16,2,BjornIronside,OFERTS
+61.36,26589,Potion of Bull,1000,2588.2,17,2,BjornIronside,OFERTS
 61.24,28404,Earth Sealed Robe of Abraxas,1234,3183.5,3,1,HelloKitty,MvM coins/HL eqs/Mats
 60.76,26326,Elven Royal Signet,1050,2675.52,6,7,JunoJuno,pps
 60.19,22001,Furious Gem,1500,3768.09,15,4,NotAfraid,clean bank
@@ -45,8 +45,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.62,25522,,95,235.29,7,47,staller2,grenade/soul detector/tropical
 59.6,30122,Vial of Spirit Reset,2500,6187.5,3,1,TuoTuo,Cheap Stuffs
 59.44,25501,Brown Colorant,2000,4931.05,4,1,2Homo,sell
-59.28,26591,Potion of Lion,1500,3683.74,8,11,Gryffindor,OFFERS/CHEAP/OFFERS
-59.28,26591,Potion of Lion,1500,3683.74,8,3,HaBuffer,custom card/imps/PPS
+59.26,26591,Potion of Lion,1500,3681.64,9,11,Gryffindor,OFFERS/CHEAP/OFFERS
+59.26,26591,Potion of Lion,1500,3681.64,9,3,HaBuffer,custom card/imps/PPS
 59.08,25439,Incantation Stone,500,1221.84,4,12,Frank,GEMS EVR INS EVS
 57.94,28430,Fire Sealed Robe of Malediction,5000,11888.78,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 57.5,25522,,100,235.29,7,39,Obsidian,fc/ds SM gloves+5con|more trash
@@ -54,7 +54,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.89,22003,Glowing Gem,1500,3479.48,12,2,CStal1,afk
 56.89,22003,Glowing Gem,1500,3479.48,12,37,Look7,gem
 56.24,28408,Earth Sealed Coat of Invocation,2500,5712.83,6,1,CStal1,afk
-55.52,26590,Potion of Soul,1500,3372.13,12,16,Gryffindor,OFFERS/CHEAP/OFFERS
+55.15,26590,Potion of Soul,1500,3344.22,12,16,Gryffindor,OFFERS/CHEAP/OFFERS
 54.41,29019,Standard 15 Mining EXP Card,500,1096.84,5,2,Jop4V,CHEAP
 53.97,22005,Shadow Gem,800,1738.09,11,3,stuffseller,cheap
 53.9,25211,Tropical Drumstick,35,75.93,7,99,Uwe,URG URG AUA AUA UWU
