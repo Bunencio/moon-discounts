@@ -1,21 +1,23 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.4,30173,Ticket to Angler's Island,40,606.3,5,6,Shop1,darkblue
-90.32,28404,Earth Sealed Robe of Abraxas,1500,15500.0,3,1,Ivynor,All cheap
 85.49,25499,Purple Colorant,700,4823.01,3,3,cheapstuffsell,cheap
-85.39,26589,Potion of Bull,400,2738.05,18,2,Anuel,GPS | Jackpot | PG | Rep | CHEAP
+85.4,26589,Potion of Bull,400,2740.1,18,2,Anuel,CLEARANCE
+83.83,26591,Potion of Lion,600,3709.98,10,1,Anuel,CLEARANCE
 83.78,25501,Brown Colorant,800,4931.05,4,1,cheapstuffsell,cheap
-81.98,26587,Potion of Monkey,300,1664.36,19,3,Obrero1,ENIGMA POWER/POTIONS/DEMONIC ROK
+81.98,26587,Potion of Monkey,300,1664.49,20,3,Obrero1,ENIGMA POWER/POTIONS/DEMONIC ROK
+81.44,26588,Potion of Eagle,600,3233.02,14,2,Anuel,CLEARANCE
 79.8,25493,Orange Colorant,999,4944.64,3,1,VENDEDORAA,FREE BOI  / APP LANCE / 50-60 ++
 78.34,25212,Frozen Elixir,250,1153.95,5,8,PussyFucker,Mermaid/Sorcerer/Explosive/Froze
 76.24,25478,Carsise Hairstyle Book,200,841.86,3,36,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-73.98,22003,Glowing Gem,1000,3843.22,10,12,Frank,GEMS EVR INS EVS
+75.97,26587,Potion of Monkey,400,1664.49,20,2,Anuel,CLEARANCE
+73.96,26594,Novice Explosive Ball,150,576.02,6,4,Anuel,CLEARANCE
+73.61,22003,Glowing Gem,1000,3789.66,10,12,Frank,GEMS EVR INS EVS
 73.45,22001,Furious Gem,1111,4185.01,15,39,NainBASTARD,Normal Gems++
 72.84,25505,Standard Stone,749,2757.96,4,1,PoorBaby,Pots and Pans !
 71.63,25440,Evanescence Stone,300,1057.37,7,3,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-71.09,22003,Glowing Gem,1111,3843.22,10,13,NainBASTARD,Normal Gems++
 71.03,25506,Expert Scroll,1000,3451.74,5,20,DAGANG6,SEA ITEM COOKING HERE
-69.96,26587,Potion of Monkey,500,1664.36,19,1,Anuel,GPS | Jackpot | PG | Rep | CHEAP
-69.96,26587,Potion of Monkey,500,1664.36,19,1,Comerce,ww3
+70.68,22003,Glowing Gem,1111,3789.66,10,13,NainBASTARD,Normal Gems++
+69.96,26587,Potion of Monkey,500,1664.49,20,1,Comerce,ww3
 68.76,2301,,4999,15999.61,6,1,PoorBaby,Pots and Pans !
 68.76,2301,,4999,15999.61,6,1,PoorBaby,Pots and Pans !
 68.76,2301,,4999,15999.61,6,1,PoorBaby,Pots and Pans !
@@ -27,20 +29,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.33,30118,Vial of Strength Reset,2000,6315.79,5,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
 68.0,28126,Cleric Cap,15000,46875.0,4,1,Brubs,Sell
 68.0,28126,Cleric Cap,15000,46875.0,4,1,BigOne,S>
+67.69,28474,Ice Sealed Mantle of the Sphinx,55555,171944.25,6,1,Systembuff,Sealeds
 66.49,28434,Fire Sealed Robe of the Arcane,10000,29841.14,5,1,Hyacinth,darkblue
-65.45,28474,Ice Sealed Mantle of the Sphinx,55555,160793.43,6,1,Systembuff,Sealeds
-64.29,30121,Vial of Accuracy Reset,2000,5600.0,4,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
-64.29,30121,Vial of Accuracy Reset,2000,5600.0,4,2,DoaaPepa,D O N    P E P E
 64.16,22001,Furious Gem,1500,4185.01,15,4,NotAfraid,clean bank
 63.78,25505,Standard Stone,999,2757.96,4,17,ElDorado,cheap items/cruzz/voy/cleric/etc
-63.48,26589,Potion of Bull,1000,2738.05,18,2,BjornIronside,OFERTS
+63.51,26589,Potion of Bull,1000,2740.1,18,1,Destinys,LOOK HERE
 63.28,25481,Red Dye,100,272.34,3,1,2Homo,sell
+62.79,30121,Vial of Accuracy Reset,2000,5375.0,4,1,Nikoz,Help  need gold
+62.79,30121,Vial of Accuracy Reset,2000,5375.0,4,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
+62.79,30121,Vial of Accuracy Reset,2000,5375.0,4,2,DoaaPepa,D O N    P E P E
 62.5,26595,Standard Explosive Ball,1500,3999.71,3,2,Unlimites,garner
-61.0,22003,Glowing Gem,1499,3843.22,10,21,Yung,CHEAPEST ITEMS EVER IN PO
-60.97,22003,Glowing Gem,1500,3843.22,10,2,CStal1,afk
-60.97,22003,Glowing Gem,1500,3843.22,10,37,Look7,gem
-60.44,28408,Earth Sealed Coat of Invocation,2500,6319.25,4,1,CStal1,afk
+60.45,22003,Glowing Gem,1499,3789.66,10,21,Yung,CHEAPEST ITEMS EVER IN PO
+60.42,22003,Glowing Gem,1500,3789.66,10,37,Look7,gem
+60.42,22003,Glowing Gem,1500,3789.66,10,2,CStal1,afk
 60.31,26326,Elven Royal Signet,1050,2645.4,8,7,JunoJuno,pps
+60.03,28408,Earth Sealed Coat of Invocation,2500,6255.4,5,1,CStal1,afk
 59.6,30122,Vial of Spirit Reset,2500,6187.5,3,1,TuoTuo,Cheap Stuffs
 59.44,25501,Brown Colorant,2000,4931.05,4,1,2Homo,sell
 59.22,25439,Incantation Stone,500,1226.01,4,11,Frank,GEMS EVR INS EVS
@@ -48,18 +51,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.87,25488,Purple Dye,100,243.14,3,24,2Homo,sell
 58.13,22005,Shadow Gem,700,1671.7,8,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 58.13,22005,Shadow Gem,700,1671.7,8,3,Zen,come
-57.57,28476,Ice Sealed Kris of the Sphinx,55555,130925.83,5,1,Systembuff,Sealeds
 55.39,26590,Potion of Soul,1500,3362.78,11,16,Gryffindor,OFFERS/CHEAP/OFFERS
 55.19,25211,Tropical Drumstick,34,75.87,8,3,TagBaligya2,Manu/Cook/Craft Items
+54.9,28476,Ice Sealed Kris of the Sphinx,55555,123194.38,6,1,Systembuff,Sealeds
 54.71,25522,,95,209.75,6,47,staller2,grenade/soul detector/tropical
 54.6,22001,Furious Gem,1900,4185.01,15,2,stuffseller,cheap
 54.41,29019,Standard 15 Mining EXP Card,500,1096.84,5,2,Jop4V,CHEAP
 53.87,25211,Tropical Drumstick,35,75.87,8,99,Uwe,URG URG AUA AUA UWU
 53.87,25211,Tropical Drumstick,35,75.87,8,61,Uwe,URG URG AUA AUA UWU
 53.87,25211,Tropical Drumstick,35,75.87,8,99,Uwe,URG URG AUA AUA UWU
-53.77,26588,Potion of Eagle,1500,3244.51,13,20,Gryffindor,OFFERS/CHEAP/OFFERS
-53.77,26588,Potion of Eagle,1500,3244.51,13,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-53.26,22002,Lustrious Gem,1000,2139.72,9,1,VitraAuJulii,<<<<<<<<<<<<<BUY BUY>>>>>>>>>>>
+53.6,26588,Potion of Eagle,1500,3233.02,14,20,Gryffindor,OFFERS/CHEAP/OFFERS
+53.6,26588,Potion of Eagle,1500,3233.02,14,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+53.14,22002,Lustrious Gem,1000,2134.12,8,1,VitraAuJulii,<<<<<<<<<<<<<BUY BUY>>>>>>>>>>>
 52.71,25440,Evanescence Stone,500,1057.37,7,48,Frank,GEMS EVR INS EVS
 52.71,25440,Evanescence Stone,500,1057.37,7,4,CStal1,afk
 52.33,25522,,100,209.75,6,24,Obsidian,fc/ds SM gloves+5con|more trash
