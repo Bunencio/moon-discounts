@@ -1,8 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-99.99,2301,,1,13629.44,7,1,LuBuz,Gnight
-99.99,2301,,1,13629.44,7,1,LuBuz,Gnight
-99.99,2301,,1,13629.44,7,1,LuBuz,Gnight
-99.99,2301,,1,13629.44,7,1,LuBuz,Gnight
+99.99,2301,,1,15333.0,7,1,LuBuz,Gnight
 93.46,30173,Ticket to Angler's Island,40,611.41,4,6,Shop1,darkblue
 90.32,28404,Earth Sealed Robe of Abraxas,1500,15500.0,3,1,Ivynor,All cheap
 85.48,25499,Purple Colorant,700,4820.56,3,3,cheapstuffsell,cheap
@@ -13,54 +10,54 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.24,25478,Carsise Hairstyle Book,200,841.86,3,36,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 74.38,25440,Evanescence Stone,300,1171.05,6,3,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
 72.84,25505,Standard Stone,749,2757.96,4,1,PoorBaby,Pots and Pans !
-71.95,22003,Glowing Gem,1000,3564.72,9,12,Frank,GEMS EVR INS EVS
-71.95,22003,Glowing Gem,1000,3564.72,9,35,Aldor,random items
-70.71,26587,Potion of Monkey,450,1536.11,17,1,Anuel,Omega cheap
-68.83,22003,Glowing Gem,1111,3564.72,9,13,NainBASTARD,Normal Gems++
+72.09,22003,Glowing Gem,1000,3583.12,8,11,Frank,GEMS EVR INS EVS
+72.09,22003,Glowing Gem,1000,3583.12,8,35,Aldor,random items
+71.77,26587,Potion of Monkey,450,1594.2,17,1,Anuel,Omega cheap
+68.99,22003,Glowing Gem,1111,3583.12,8,13,NainBASTARD,Normal Gems++
+68.7,26587,Potion of Monkey,499,1594.2,17,4,AltDude,very cheap stuff
+68.64,26587,Potion of Monkey,500,1594.2,17,1,Pip0n,Jackpot/SealedSM50/Pots/MgcStone
+68.64,26587,Potion of Monkey,500,1594.2,17,1,Comerce,ww3
 68.63,30118,Vial of Strength Reset,2000,6375.0,4,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
-68.0,28126,Cleric Cap,15000,46875.0,4,1,Brubs,Sell
 68.0,28126,Cleric Cap,15000,46875.0,4,1,BigOne,S>
-67.71,22001,Furious Gem,1499,4642.24,12,10,AltDude,very cheap stuff
+68.0,28126,Cleric Cap,15000,46875.0,4,1,Brubs,Sell
+67.79,26589,Potion of Bull,1000,3104.58,17,2,BjornIronside,HELP ME
+67.79,26589,Potion of Bull,1000,3104.58,17,1,Destinys,asd
+67.72,22001,Furious Gem,1499,4643.4,11,10,AltDude,very cheap stuff
 67.57,28432,Fire Sealed Staff of Mirage,4500,13874.5,4,1,bowstalls,lv65 shield/lv40-50-60 items
-67.52,26587,Potion of Monkey,499,1536.11,17,4,AltDude,very cheap stuff
-67.45,26587,Potion of Monkey,500,1536.11,17,1,Comerce,ww3
-67.45,26587,Potion of Monkey,500,1536.11,17,1,Pip0n,Jackpot/SealedSM50/Pots/MgcStone
-66.68,26589,Potion of Bull,1000,3000.98,17,2,BjornIronside,HELP ME
-66.68,26589,Potion of Bull,1000,3000.98,17,1,Destinys,asd
+67.4,2301,,4999,15333.0,7,1,PoorBaby,Pots and Pans !
+67.4,2301,,4999,15333.0,7,1,PoorBaby,Pots and Pans !
+67.4,2301,,4999,15333.0,7,1,PoorBaby,Pots and Pans !
+67.4,2301,,4999,15333.0,7,1,PoorBaby,Pots and Pans !
+67.4,2301,,4999,15333.0,7,1,PoorBaby,Pots and Pans !
+67.4,2301,,4999,15333.0,7,1,PoorBaby,Pots and Pans !
+67.4,2301,,4999,15333.0,7,1,PoorBaby,Pots and Pans !
+67.39,2301,,5000,15333.0,7,1,HunterKim,Too
 64.29,30121,Vial of Accuracy Reset,2000,5600.0,4,2,DoaaPepa,D O N    P E P E
 64.29,30121,Vial of Accuracy Reset,2000,5600.0,4,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
+64.16,25506,Expert Scroll,1000,2789.79,5,99,Aldor,random items
+64.16,25506,Expert Scroll,1000,2789.79,5,99,Aldor,random items
 64.16,25506,Expert Scroll,1000,2789.79,5,89,Aldor,random items
 64.16,25506,Expert Scroll,1000,2789.79,5,20,DAGANG6,SEA ITEM COOKING HERE
-64.16,25506,Expert Scroll,1000,2789.79,5,99,Aldor,random items
-64.16,25506,Expert Scroll,1000,2789.79,5,99,Aldor,random items
 63.78,25505,Standard Stone,999,2757.96,4,17,ElDorado,cheap items/cruzz/voy/cleric/etc
-63.32,2301,,4999,13629.44,7,1,PoorBaby,Pots and Pans !
-63.32,2301,,4999,13629.44,7,1,PoorBaby,Pots and Pans !
-63.32,2301,,4999,13629.44,7,1,PoorBaby,Pots and Pans !
-63.32,2301,,4999,13629.44,7,1,PoorBaby,Pots and Pans !
-63.32,2301,,4999,13629.44,7,1,PoorBaby,Pots and Pans !
-63.32,2301,,4999,13629.44,7,1,PoorBaby,Pots and Pans !
-63.32,2301,,4999,13629.44,7,1,PoorBaby,Pots and Pans !
-63.31,2301,,5000,13629.44,7,1,HunterKim,Too
 63.28,25481,Red Dye,100,272.34,3,1,2Homo,sell
 62.5,28035,Solar Shield,19998,53332.0,5,1,VENDEDORAA,FREE BOI / LANCE APPS / 40-50-60
 62.5,28035,Solar Shield,19998,53332.0,5,1,VENDEDORAA,FREE BOI / LANCE APPS / 40-50-60
 61.5,28434,Fire Sealed Robe of the Arcane,10000,25972.0,4,1,Hyacinth,darkblue
-59.6,30122,Vial of Spirit Reset,2500,6187.5,3,1,TuoTuo,Cheap Stuffs
 59.44,25501,Brown Colorant,2000,4931.05,4,1,2Homo,sell
 59.39,25211,Tropical Drumstick,34,83.72,5,3,TagBaligya2,Manu/Cook/Craft Items
 59.1,25485,Cyan Dye,100,244.53,3,17,2Homo,sell
-59.07,22001,Furious Gem,1900,4642.24,12,2,stuffseller,cheap
+59.08,22001,Furious Gem,1900,4643.4,11,2,stuffseller,cheap
 58.98,28326,Divine Grace Cap,19999,48749.25,4,1,PureGold,RADIATION 4K | JACKPOT COIN 10K
-58.88,26592,Flash Bomb,600,1459.1,7,18,AoiTodo,Promotion
 58.87,25488,Purple Dye,100,243.14,3,24,2Homo,sell
-57.95,22003,Glowing Gem,1499,3564.72,9,21,Yung,CHEAPEST IN SERVER
-57.92,22003,Glowing Gem,1500,3564.72,9,2,CStal1,afk
-57.92,22003,Glowing Gem,1500,3564.72,9,37,Look7,gem
+58.16,22003,Glowing Gem,1499,3583.12,8,21,Yung,CHEAPEST IN SERVER
+58.14,22003,Glowing Gem,1500,3583.12,8,2,CStal1,afk
+58.14,22003,Glowing Gem,1500,3583.12,8,37,Look7,gem
 57.3,25440,Evanescence Stone,500,1171.05,6,48,Frank,GEMS EVR INS EVS
 57.3,25440,Evanescence Stone,500,1171.05,6,4,CStal1,afk
 57.22,25522,,95,222.05,6,32,staller2,grenade/soul detector/tropical
-56.92,22001,Furious Gem,2000,4642.24,12,1,Gryffindor,gps/pots
+57.14,28406,Earth Sealed Staff of Abraxas.,3000,7000.0,4,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+57.14,28406,Earth Sealed Staff of Abraxas.,3000,7000.0,4,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
+56.93,22001,Furious Gem,2000,4643.4,11,1,Gryffindor,gps/pots
 56.76,28432,Fire Sealed Staff of Mirage,5999,13874.5,4,1,iLegolas,Sword50 PPs Rock Jackpot
 56.33,22005,Shadow Gem,700,1602.76,6,3,Zen,come
 56.33,22005,Shadow Gem,700,1602.76,6,2,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
@@ -68,16 +65,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.42,25522,,99,222.05,6,93,Uzi,cheap
 54.97,25522,,100,222.05,6,24,Obsidian,fc/ds SM gloves+5con|more trash
 54.17,28400,Earth Sealed Platemail of the Cursed Soul,9000,19636.09,7,1,Guv,EQs/PPS/GPS/PPS/BPS/Jackp/IMPs
-53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,JUST BUY  DON'T CARE PRICES  NOW
-51.35,27021,Green Pirate Scroll,300,616.61,8,23,Guv,EQs/PPS/GPS/PPS/BPS/Jackp/IMPs
-51.31,22002,Lustrious Gem,1000,2053.67,7,1,VitraAuJulii,<<<<<<<<<<<<<BUY BUY>>>>>>>>>>>
-51.31,22002,Lustrious Gem,1000,2053.67,7,29,Aldor,random items
+51.72,26589,Potion of Bull,1499,3104.58,17,28,barako,FLASH BOMB | POITIONSS
+51.68,26589,Potion of Bull,1500,3104.58,17,19,Gryffindor,gps/pots
+51.68,26589,Potion of Bull,1500,3104.58,17,1,CStal1,afk
+51.68,26589,Potion of Bull,1500,3104.58,17,2,fisherr,cheap cool flash
+51.18,22002,Lustrious Gem,1000,2048.41,7,29,Aldor,random items
 51.07,28454,Ice Sealed Blade of Enigma,200000,408749.75,7,1,VelvetRevolver,BoE/Dem rock
+50.9,26590,Potion of Soul,1800,3665.94,8,1,iinerti,Jackpot/LegendaryBP/FGP/MVM/SP
 50.85,25480,Ami Hairstyle Book,500,1017.24,3,48,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 50.66,25439,Incantation Stone,1500,3039.97,4,99,Look7,gem
-50.05,26589,Potion of Bull,1499,3000.98,17,28,barako,FLASH BOMB | POITIONSS
-50.02,26589,Potion of Bull,1500,3000.98,17,19,Gryffindor,gps/pots
 50.02,22000,FieryGem,3999,8000.74,16,1,Uzi,cheap
-50.02,26589,Potion of Bull,1500,3000.98,17,1,CStal1,afk
-50.02,26589,Potion of Bull,1500,3000.98,17,2,fisherr,cheap cool flash
