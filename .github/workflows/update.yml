@@ -1,8 +1,8 @@
-name: Update discount & profit
+name: Update discount hits
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # cada 10 minutos (UTC)
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -32,7 +32,7 @@ jobs:
           commit_message: "chore: refresh data [skip ci]"
           file_pattern: |
             docs/discount_hits_ge_50pct.csv
-            docs/profit_hits_ge_20000.csv
+            docs/profit_hits_ge_20000.csv        # <-- NUEVO
             docs/last_run.json
             docs/stall_list.raw
             market_history.json
