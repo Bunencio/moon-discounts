@@ -2,7 +2,7 @@ name: Update discount hits
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # cada 30 minutos (UTC)
+    - cron: "*/10 * * * *"   # cada 30 minutos (UTC)
   workflow_dispatch: {}       # para lanzarlo manualmente
 
 permissions:
