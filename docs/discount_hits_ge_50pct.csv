@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-91.25,30173,Ticket to Angler's Island,40,456.98,5,12,Shop1,darkblue
-90.15,30173,Ticket to Angler's Island,45,456.98,5,66,LiDL,ref / pbs / fb / pot / ticket
+91.23,30173,Ticket to Angler's Island,40,455.95,6,12,Shop1,darkblue
+90.13,30173,Ticket to Angler's Island,45,455.95,6,66,LiDL,ref / pbs / fb / pot / ticket
 82.21,26595,Standard Explosive Ball,999,5614.62,4,2,Unlimites,darkblue
 79.07,28404,Earth Sealed Robe of Abraxas,1500,7166.67,3,1,Fortis,All cheap
 77.58,25483,Yellow Dye,100,446.03,3,21,2Homo,sell
