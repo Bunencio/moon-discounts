@@ -1,8 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-99.65,26562,Cake,76,21558.99,4,86,xColosusJr,ITEMSS
-99.07,26562,Cake,200,21558.99,4,3,Shab7,cheeeeeeeeeeeeeeep
-99.07,26562,Cake,200,21558.99,4,200,Shop1,darkblue
-99.07,26562,Cake,200,21558.99,4,200,Shop1,darkblue
+97.84,26562,Cake,175,8103.29,4,200,buy001,Cakes
+97.84,26562,Cake,175,8103.29,4,200,buy001,Cakes
+97.84,26562,Cake,175,8103.29,4,173,buy001,Cakes
+97.84,26562,Cake,175,8103.29,4,200,buy001,Cakes
+97.84,26562,Cake,175,8103.29,4,200,buy001,Cakes
+97.53,26562,Cake,200,8103.29,4,3,Shab7,cheeeeeeeeeeeeeeep
+97.53,26562,Cake,200,8103.29,4,200,Shop1,darkblue
+97.53,26562,Cake,200,8103.29,4,200,Shop1,darkblue
 91.22,30173,Ticket to Angler's Island,40,455.62,6,12,Shop1,darkblue
 90.12,30173,Ticket to Angler's Island,45,455.62,6,66,LiDL,ref / pbs / fb / pot / ticket
 82.21,26595,Standard Explosive Ball,999,5614.62,4,2,Unlimites,darkblue
@@ -22,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 69.34,25505,Standard Stone,500,1630.67,4,9,LazzzyBee,NOTHING  JUST FREEBIES...
-68.37,26589,Potion of Bull,1000,3161.6,18,1,BjornIronside,OFFSALE
+68.38,26589,Potion of Bull,1000,3162.06,17,1,BjornIronside,OFFSALE
 67.5,25506,Expert Scroll,800,2461.33,7,64,HaBuffer,SELL
 67.0,25522,,95,287.84,8,17,staller2,grenade/soul detector/tropical
 66.51,30118,Vial of Strength Reset,2000,5972.22,6,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
@@ -38,23 +42,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.37,25506,Expert Scroll,1000,2461.33,7,99,Aldor,random items
 59.37,25506,Expert Scroll,1000,2461.33,7,99,Aldor,random items
 59.37,25506,Expert Scroll,1000,2461.33,7,89,Aldor,random items
-59.26,28468,Ice Sealed Mantle of Enigma,55000,135000.0,3,1,LotokSell,WORLD GEMS
 58.43,22001,Furious Gem,1999,4809.28,10,1,SamuSta,REF/ALL NORMAL GEM/FB/DC@CHEAP@
 58.43,22001,Furious Gem,1999,4809.28,10,10,Happyman,CHEAPO NORMAL GEMS
 58.41,22001,Furious Gem,2000,4809.28,10,1,Unlimites,darkblue
-56.92,26591,Potion of Lion,1800,4178.08,10,2,iinerti,Jackpot/FB/Repu1k/PBS/FGP/LBS+++
-56.52,28126,Cleric Cap,25000,57500.0,3,1,TopHead,CLERIC CAPS WITH SPR
-56.1,28476,Ice Sealed Kris of the Sphinx,55555,126555.3,7,1,Systembuff,Sealeds
-55.84,25211,Tropical Drumstick,34,76.99,6,3,TagBaligya2,Manu/Cook/Craft Items
+56.3,25211,Tropical Drumstick,34,77.8,7,3,TagBaligya2,Manu/Cook/Craft Items
 54.08,27000,Prosperous Packet,99,215.58,8,51,BIlIllIS,FB BBBBB
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
+53.8,28458,Ice Sealed Staff of the Sphinx,25000,54110.8,5,1,CStal1,afk
 53.56,22003,Glowing Gem,1000,2153.46,9,35,Aldor,random items
 53.56,22003,Glowing Gem,1000,2153.46,9,11,Frank,GEMS EVR INS EVS
 53.11,25440,Evanescence Stone,500,1066.34,7,48,Frank,GEMS EVR INS EVS
-52.56,26589,Potion of Bull,1500,3161.6,18,1,CStal1,afk
-52.56,26589,Potion of Bull,1500,3161.6,18,2,fisherr,cheap cook flash pot
+52.56,26589,Potion of Bull,1500,3162.06,17,1,CStal1,afk
+52.56,26589,Potion of Bull,1500,3162.06,17,2,fisherr,cheap cook flash pot
+52.37,26591,Potion of Lion,2000,4199.2,8,1,XiXi0n,cheap cheap cheap cheap
+52.37,26591,Potion of Lion,2000,4199.2,8,1,BuyingSta4ll7,GOLDEN ROCK | GPS | JACKPOT
 52.17,25439,Incantation Stone,600,1254.51,5,56,FreePalestine1,selll      0_0
-52.13,26591,Potion of Lion,2000,4178.08,10,1,XiXi0n,cheap cheap cheap cheap
-52.13,26591,Potion of Lion,2000,4178.08,10,1,BuyingSta4ll7,GOLDEN ROCK | GPS | JACKPOT
 50.98,25400,Explosive Tentacle,150,306.0,4,60,Biskate,Lojas Americanas Americanas
