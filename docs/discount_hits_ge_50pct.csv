@@ -2,11 +2,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.18,30173,Ticket to Angler's Island,40,586.4,4,12,Shop1,darkblue
 87.17,22201,,56487357,440390990.5,5,1,sling,.
 79.07,28404,Earth Sealed Robe of Abraxas,1500,7166.67,3,1,Fortis,All cheap
+75.0,28436,Fire Sealed Staff of Evanescence,5000,19999.75,4,1,TieneMandanga,Rock Gem/Guardian Brew/Shield/
 74.88,30118,Vial of Strength Reset,1500,5972.22,6,1,LazzzyBee,NOTHING  JUST FREEBIES...
-72.73,28436,Fire Sealed Staff of Evanescence,5000,18333.0,3,1,TieneMandanga,Rock Gem/Guardian Brew/Shield/
 72.25,22004,Shining Gem,2000,7206.47,10,2,Gryffindor,GPS/ AND OFFERS
 71.5,25440,Evanescence Stone,300,1052.74,8,3,LazzzyBee,NOTHING  JUST FREEBIES...
-70.83,28126,Cleric Cap,15000,51428.57,4,1,BigOne,S>
 70.26,2301,,4999,16809.1,5,1,PoorBaby,Pots and Pans !
 70.26,2301,,4999,16809.1,5,1,PoorBaby,Pots and Pans !
 70.26,2301,,4999,16809.1,5,1,PoorBaby,Pots and Pans !
@@ -37,6 +36,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.37,22004,Shining Gem,3000,7206.47,10,1,CaloNord,spr ring acc boots
 57.77,26562,Cake,76,179.98,3,86,xColosusJr,ITEMSS
 57.37,30173,Ticket to Angler's Island,250,586.4,4,2,EvilRian,lucky packets and trash
+56.52,28126,Cleric Cap,25000,57500.0,3,1,TopHead,CLERIC CAPS WITH SPR
 56.1,28476,Ice Sealed Kris of the Sphinx,55555,126555.3,7,1,Systembuff,Sealeds
 55.34,22001,Furious Gem,1999,4476.13,10,10,Happyman,CHEAPO NORMAL GEMS
 55.32,22001,Furious Gem,2000,4476.13,10,1,Gryffindor,GPS/ AND OFFERS
@@ -60,5 +60,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.02,25211,Tropical Drumstick,30,62.53,7,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 52.02,25211,Tropical Drumstick,30,62.53,7,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 52.02,25211,Tropical Drumstick,30,62.53,7,99,Shagidi,TROPICAL DRUMSTICK CHEAP
-51.39,28126,Cleric Cap,25000,51428.57,4,1,TopHead,CLERIC CAPS WITH SPR
 50.98,25400,Explosive Tentacle,150,306.0,4,60,Biskate,Lojas Americanas Americanas
