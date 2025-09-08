@@ -6,7 +6,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.58,25483,Yellow Dye,100,446.03,3,21,2Homo,sell
 75.62,26594,Novice Explosive Ball,99,406.13,5,39,BIlIllIS,FB BBBBB
 75.0,28436,Fire Sealed Staff of Evanescence,5000,19999.75,4,1,TieneMandanga,Rock Gem/Guardian Brew/Shield/
-74.68,28448,Fire Sealed Cloak of Evanescence,5000,19750.0,3,1,CallMeBaby,Cheap
 74.29,30118,Vial of Strength Reset,1500,5833.33,6,1,LazzzyBee,NOTHING  JUST FREEBIES...
 72.76,25482,Orange Dye,100,367.07,3,19,2Homo,sell
 72.71,25490,Brown Dye,100,366.38,3,19,2Homo,sell
@@ -19,11 +18,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 69.34,25505,Standard Stone,500,1630.67,4,9,LazzzyBee,NOTHING  JUST FREEBIES...
-67.5,25506,Expert Scroll,800,2461.33,7,64,HaBuffer,SELL
+67.68,25506,Expert Scroll,800,2475.36,7,64,HaBuffer,SELL
 67.43,25522,,95,291.66,8,17,staller2,grenade/soul detector/tropical
 66.06,25522,,99,291.66,8,84,Uzi,pps
 65.71,30118,Vial of Strength Reset,2000,5833.33,6,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
-65.64,22000,FieryGem,3000,8731.56,11,1,TiroAlBlanco,*____*
+65.56,22000,FieryGem,3000,8709.9,12,1,TiroAlBlanco,*____*
 64.4,26595,Standard Explosive Ball,1999,5614.62,4,3,Obrero1,SEALED 60 BOOTS SM/GRENADE LV2/+
 63.83,30121,Vial of Accuracy Reset,2000,5529.41,5,2,DoaaPepa,D O N   P E P E
 63.83,30121,Vial of Accuracy Reset,2000,5529.41,5,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
@@ -32,9 +31,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.14,25439,Incantation Stone,500,1254.51,5,7,Frank,GEMS EVR INS EVS
 60.0,28474,Ice Sealed Mantle of the Sphinx,55555,138888.5,4,1,Systembuff,Sealeds
 59.76,25501,Brown Colorant,2000,4969.9,3,1,2Homo,sell
-59.37,25506,Expert Scroll,1000,2461.33,7,99,Aldor,random items
-59.37,25506,Expert Scroll,1000,2461.33,7,99,Aldor,random items
-59.37,25506,Expert Scroll,1000,2461.33,7,89,Aldor,random items
+59.6,25506,Expert Scroll,1000,2475.36,7,99,Aldor,random items
+59.6,25506,Expert Scroll,1000,2475.36,7,99,Aldor,random items
+59.6,25506,Expert Scroll,1000,2475.36,7,89,Aldor,random items
 58.43,22001,Furious Gem,1999,4809.28,10,1,SamuSta,REF/ALL NORMAL GEM/FB/DC@CHEAP@
 58.43,22001,Furious Gem,1999,4809.28,10,10,Happyman,CHEAPO NORMAL GEMS
 58.41,22001,Furious Gem,2000,4809.28,10,1,Unlimites,darkblue
@@ -45,10 +44,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.56,22003,Glowing Gem,1000,2153.46,9,35,Aldor,random items
 53.56,22003,Glowing Gem,1000,2153.46,9,11,Frank,GEMS EVR INS EVS
 52.97,25440,Evanescence Stone,500,1063.15,7,48,Frank,GEMS EVR INS EVS
+52.67,25503,Magical Stone,500,1056.48,8,34,Chicken,SHEEEEEEESH
 52.17,25439,Incantation Stone,600,1254.51,5,56,FreePalestine1,selll      0_0
-52.03,25503,Magical Stone,500,1042.31,8,34,Chicken,SHEEEEEEESH
-51.71,26591,Potion of Lion,2000,4141.53,10,1,XiXi0n,cheap cheap cheap cheap
-51.71,26591,Potion of Lion,2000,4141.53,10,1,BuyingSta4ll7,GOLDEN ROCK | GPS | JACKPOT
 51.67,26589,Potion of Bull,1500,3103.4,16,1,CStal1,afk
 51.67,26589,Potion of Bull,1500,3103.4,16,2,fisherr,cheap cook flash pot
+51.52,26591,Potion of Lion,2000,4125.11,10,2,nyana,forsale
+51.52,26591,Potion of Lion,2000,4125.11,10,1,XiXi0n,cheap cheap cheap cheap
+51.52,26591,Potion of Lion,2000,4125.11,10,1,BuyingSta4ll7,GOLDEN ROCK | GPS | JACKPOT
 50.98,25400,Explosive Tentacle,150,306.0,4,60,Biskate,Lojas Americanas Americanas
