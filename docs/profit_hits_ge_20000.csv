@@ -1,12 +1,18 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-09-08,26575,Guardian's Brew,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1192.92,193.92,185,35875.26,16.26,6
+2025-09-08,26589,Potion of Bull,darkghost,boot,1800,2409.16,609.16,54,32894.69,25.29,9
+2025-09-08,25452,Rock Gem Fragment,BuyingSta4ll7,GOLDEN ROCK | GPS | JACK +++++++,115000,145714.29,30714.29,1,30714.29,21.08,5
+2025-09-08,22023,Green Jade,MyBenis,EARTH ROCK DEMO COLO GREEN JADE,350000,433333.33,83333.33,1,83333.33,19.23,3
 2025-09-08,27014,Moonroot Wine,SetSeller,cheapest in town,988,1172.04,184.04,180,33126.36,15.7,4
 2025-09-08,27014,Moonroot Wine,SetSeller,cheapest in town,988,1172.04,184.04,109,20059.85,15.7,4
+2025-09-08,26575,Guardian's Brew,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1178.18,179.18,185,33148.1,15.21,7
+2025-09-08,26575,Guardian's Brew,MadeInChina,WARLORD/INFERNO/GUARDIAN/BLESSED,1000,1178.18,178.18,161,28686.81,15.12,7
 2025-09-08,27014,Moonroot Wine,Paaches,G Brew 1200 | M Wine 999,999,1172.04,173.04,170,29416.01,14.76,4
-2025-09-08,26575,Guardian's Brew,SetSeller,cheapest in town,1025,1192.92,167.92,181,30393.58,14.08,6
-2025-09-08,26575,Guardian's Brew,SetSeller,cheapest in town,1025,1192.92,167.92,157,26363.49,14.08,6
-2025-09-08,22009,Gem of Colossus,Holita,Gem of Colossus / Kal Runestone,2200000,2460000.0,260000.0,1,260000.0,10.57,4
+2025-09-08,25452,Rock Gem Fragment,purplered,Enipwr sunheart rock ref dwchest,125000,145714.29,20714.29,1,20714.29,14.22,5
+2025-09-08,26575,Guardian's Brew,SetSeller,cheapest in town,1025,1178.18,153.18,181,27725.39,13.0,7
+2025-09-08,26575,Guardian's Brew,SetSeller,cheapest in town,1025,1178.18,153.18,157,24049.09,13.0,7
+2025-09-08,22009,Gem of Colossus,GemSeller,ty,2400000,2550000.0,150000.0,2,300000.0,5.88,4
 2025-09-08,27025,Radiation Lv1,vnt2,radiation,3999,4245.67,246.67,91,22447.36,5.81,3
 2025-09-08,26576,Iron Brew,Lucifer,I Brew 9000 | G Brew 1200,9000,9503.79,503.79,66,33250.06,5.3,3
-2025-09-08,22009,Gem of Colossus,GemSeller,ty,2400000,2460000.0,60000.0,2,120000.0,2.44,4
-2025-09-08,27020,Gold Pirate Scroll,BuyingSta4ll7,GOLDEN ROCK | GPS | JACK +++++++,23500,23790.41,290.41,99,28750.11,1.22,3
+2025-09-08,26346,Lantern,SellAndBuy,Lantern / UG Soul / Ref / SM,7000,7230.03,230.03,135,31053.77,3.18,5
+2025-09-08,22009,Gem of Colossus,LotokSell,UG COLO   DemonRage Soul,2500000,2550000.0,50000.0,1,50000.0,1.96,4
+2025-09-08,26585,Blessed Potion,MadeInChina,WARLORD/INFERNO/GUARDIAN/BLESSED,119000,120441.18,1441.18,30,43235.29,1.2,3
