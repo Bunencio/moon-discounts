@@ -32,7 +32,7 @@ jobs:
           commit_message: "chore: refresh data [skip ci]"
           file_pattern: |
             docs/discount_hits_ge_50pct.csv
-            docs/profit_hits_ge_20000.csv        # <-- NUEVO
+            docs/profit_hits_ge_20000.csv        
             docs/last_run.json
             docs/stall_list.raw
             market_history.json
