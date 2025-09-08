@@ -13,7 +13,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.76,25482,Orange Dye,100,367.07,3,19,2Homo,sell
 72.71,25490,Brown Dye,100,366.38,3,19,2Homo,sell
 71.78,25440,Evanescence Stone,300,1063.15,7,3,LazzzyBee,NOTHING  JUST FREEBIES...
-71.33,26590,Potion of Soul,1050,3662.64,10,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
+71.37,26590,Potion of Soul,1050,3667.58,10,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
 71.26,2301,,4999,17391.1,4,1,PoorBaby,Pots and Pans !
 71.26,2301,,4999,17391.1,4,1,PoorBaby,Pots and Pans !
 71.26,2301,,4999,17391.1,4,1,PoorBaby,Pots and Pans !
@@ -24,7 +24,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.34,25505,Standard Stone,500,1630.67,4,9,LazzzyBee,NOTHING  JUST FREEBIES...
 67.68,25506,Expert Scroll,800,2475.36,7,64,HaBuffer,SELL
 67.43,25522,,95,291.66,8,17,staller2,grenade/soul detector/tropical
-66.71,26589,Potion of Bull,1050,3154.57,16,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
+66.7,26589,Potion of Bull,1050,3153.21,17,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
 66.06,25522,,99,291.66,8,84,Uzi,pps
 65.85,30121,Vial of Accuracy Reset,2000,5857.14,4,2,DoaaPepa,D O N   P E P E
 65.33,22000,FieryGem,3000,8653.81,11,1,TiroAlBlanco,*____*
@@ -50,8 +50,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.13,28474,Ice Sealed Mantle of the Sphinx,55555,118518.33,3,1,Systembuff,Sealeds
 52.97,25440,Evanescence Stone,500,1063.15,7,48,Frank,GEMS EVR INS EVS
 52.47,25503,Magical Stone,500,1052.05,9,34,Chicken,SHEEEEEEESH
-52.45,26589,Potion of Bull,1500,3154.57,16,1,CStal1,afk
-52.45,26589,Potion of Bull,1500,3154.57,16,2,fisherr,cheap cook flash pot
+52.43,26589,Potion of Bull,1500,3153.21,17,1,CStal1,afk
+52.43,26589,Potion of Bull,1500,3153.21,17,2,fisherr,cheap cook flash pot
 52.22,26591,Potion of Lion,2000,4186.1,10,2,nyana,forsale
 52.22,26591,Potion of Lion,2000,4186.1,10,1,XiXi0n,cheap cheap cheap cheap
 52.22,26591,Potion of Lion,2000,4186.1,10,1,BuyingSta4ll7,GOLDEN ROCK | GPS | JACKPOT
