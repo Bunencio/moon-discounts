@@ -51,7 +51,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.21,30173,Ticket to Angler's Island,250,612.84,4,2,EvilRian,lucky packets and trash
 58.77,22004,Shining Gem,3000,7275.42,10,1,CaloNord,spr ring acc boots
 58.51,22001,Furious Gem,2000,4820.32,10,1,Gryffindor,GPS/ AND OFFERS
-57.1,28476,Ice Sealed Kris of the Sphinx,55555,129506.0,6,1,Systembuff,Sealeds
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
@@ -64,6 +63,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 55.43,25522,,120,269.23,8,35,Traps,s mask/h lntn/treant r/slog/fss
+55.07,28476,Ice Sealed Kris of the Sphinx,55555,123650.57,6,1,Systembuff,Sealeds
 54.38,26587,Potion of Monkey,750,1644.07,19,47,darkghost,glove
 54.2,28432,Fire Sealed Staff of Mirage,5999,13099.6,5,1,iLegolas,Sword50 PPs Rock Jackpot
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
