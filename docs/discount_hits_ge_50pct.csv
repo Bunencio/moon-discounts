@@ -1,15 +1,14 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.75,26562,Cake,76,30252.27,4,86,xColosusJr,ITEMSS
 99.34,26562,Cake,200,30252.27,4,200,Shop1,darkblue
-99.34,26562,Cake,200,30252.27,4,3,Shab7,cheeeeeeeeeeeeeeep
 99.34,26562,Cake,200,30252.27,4,49,Shop1,darkblue
+99.34,26562,Cake,200,30252.27,4,3,Shab7,cheeeeeeeeeeeeeeep
 93.47,30173,Ticket to Angler's Island,40,612.84,4,6,Shop1,darkblue
+90.03,29305,Ring of Destruction,14000,140400.0,5,1,Sekiro,rings/Gloves
 79.07,28404,Earth Sealed Robe of Abraxas,1500,7166.67,3,1,Fortis,All cheap
 78.95,28436,Fire Sealed Staff of Evanescence,5000,23749.5,3,1,TieneMandanga,Rock Gem/Guardian Brew/Shield/
 76.24,25478,Carsise Hairstyle Book,200,841.86,3,36,Khonsu,CHEAPEST HAIRSTYLING ITEMS
-75.36,30118,Vial of Strength Reset,1500,6088.24,5,1,LazzzyBee,NOTHING  JUST FREEBIES...
-75.12,28491,Ice Sealed Greaves of Enigma,250000,1004629.33,3,1,darkghost,glove
-73.62,28491,Ice Sealed Greaves of Enigma,265000,1004629.33,3,1,Yennefer,BLESS BOOTCRUS60
+74.88,30118,Vial of Strength Reset,1500,5972.22,6,1,LazzzyBee,NOTHING  JUST FREEBIES...
 72.51,22004,Shining Gem,2000,7275.42,10,2,Gryffindor,GPS/ AND OFFERS
 71.55,25440,Evanescence Stone,300,1054.59,7,3,LazzzyBee,NOTHING  JUST FREEBIES...
 71.17,25481,Red Dye,100,346.81,3,1,2Homo,sell
@@ -33,7 +32,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.07,25485,Cyan Dye,100,313.14,3,17,2Homo,sell
 67.52,25488,Purple Dye,100,307.84,3,24,2Homo,sell
 67.5,25506,Expert Scroll,800,2461.33,7,64,HaBuffer,SELL
-67.15,30118,Vial of Strength Reset,2000,6088.24,5,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
+66.51,30118,Vial of Strength Reset,2000,5972.22,6,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
 65.65,28432,Fire Sealed Staff of Mirage,4500,13099.6,5,1,bowstalls,lv65 shield/lv40-50-60 items
 64.71,25522,,95,269.23,8,17,staller2,grenade/soul detector/tropical
 64.29,30121,Vial of Accuracy Reset,2000,5600.0,4,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
@@ -51,6 +50,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.21,30173,Ticket to Angler's Island,250,612.84,4,2,EvilRian,lucky packets and trash
 58.77,22004,Shining Gem,3000,7275.42,10,1,CaloNord,spr ring acc boots
 58.51,22001,Furious Gem,2000,4820.32,10,1,Gryffindor,GPS/ AND OFFERS
+57.1,28476,Ice Sealed Kris of the Sphinx,55555,129506.0,6,1,Systembuff,Sealeds
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
@@ -63,7 +63,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 56.95,25211,Tropical Drumstick,30,69.69,8,99,Shagidi,TROPICAL DRUMSTICK CHEAP
 55.43,25522,,120,269.23,8,35,Traps,s mask/h lntn/treant r/slog/fss
-55.07,28476,Ice Sealed Kris of the Sphinx,55555,123650.57,6,1,Systembuff,Sealeds
 54.38,26587,Potion of Monkey,750,1644.07,19,47,darkghost,glove
 54.2,28432,Fire Sealed Staff of Mirage,5999,13099.6,5,1,iLegolas,Sword50 PPs Rock Jackpot
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
