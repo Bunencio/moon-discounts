@@ -5,13 +5,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 81.25,28217,Diety Robe,2000,10666.67,3,1,Sektor,ch3ap
 79.9,25212,Frozen Elixir,200,994.85,7,10,LunaMaya,S>GPS PPS PBS RBS
 79.07,28404,Earth Sealed Robe of Abraxas,1500,7166.33,3,1,Fortis,All cheap
-77.58,25483,Yellow Dye,100,446.03,3,21,2Homo,sell
 75.83,30118,Vial of Strength Reset,1500,6205.88,5,1,LazzzyBee,NOTHING  JUST FREEBIES...
 75.62,26594,Novice Explosive Ball,99,406.13,5,39,BIlIllIS,FB BBBBB
-75.0,28436,Fire Sealed Staff of Evanescence,5000,19999.75,4,1,TieneMandanga,Rock Gem/Guardian Brew/Shield/
-74.72,26591,Potion of Lion,1050,4153.26,11,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
-72.76,25482,Orange Dye,100,367.07,3,19,2Homo,sell
-72.71,25490,Brown Dye,100,366.38,3,19,2Homo,sell
+75.0,28436,Fire Sealed Staff of Evanescence,5000,19999.8,5,1,TieneMandanga,Rock Gem/Guardian Brew/Shield/
+74.69,26591,Potion of Lion,1050,4148.18,12,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
 72.57,25440,Evanescence Stone,250,911.28,8,48,hunterx,repu/bp/signet/jp/gems/eva/pots
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
@@ -20,7 +17,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
-70.6,26590,Potion of Soul,1050,3571.5,12,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
+70.49,26590,Potion of Soul,1050,3558.31,13,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
 69.34,25505,Standard Stone,500,1630.67,4,9,LazzzyBee,NOTHING  JUST FREEBIES...
 67.68,25506,Expert Scroll,800,2475.36,7,64,HaBuffer,SELL
 67.43,25522,,95,291.66,8,17,staller2,grenade/soul detector/tropical
@@ -29,7 +26,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.06,25522,,99,291.66,8,84,Uzi,pps
 65.85,30121,Vial of Accuracy Reset,2000,5857.14,4,2,DoaaPepa,D O N   P E P E
 63.17,22000,FieryGem,3000,8146.41,12,1,TiroAlBlanco,*____*
-61.71,25503,Magical Stone,400,1044.71,9,37,xGoliath,VEND
+63.16,28442,Fire Sealed Coat of Evanescence,7000,18999.67,3,1,UnGorditoLindo,PPS!!JACKPOT!!LV50 SS ARMOR!SALE
+61.48,25503,Magical Stone,400,1038.45,9,37,xGoliath,VEND
 61.16,25089,Coal Crystal,190,489.23,3,30,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
 60.14,25439,Incantation Stone,500,1254.51,5,7,Frank,GEMS EVR INS EVS
 59.76,25501,Brown Colorant,2000,4969.9,3,1,2Homo,sell
@@ -39,8 +37,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.3,25211,Tropical Drumstick,34,77.8,7,3,TagBaligya2,Manu/Cook/Craft Items
 56.11,25440,Evanescence Stone,400,911.28,8,1,Customer,TOP SECRET
 56.11,25440,Evanescence Stone,400,911.28,8,4,CStal1,afk
-55.2,22001,Furious Gem,1899,4238.64,11,20,hunterx,repu/bp/signet/jp/gems/eva/pots
-54.25,26591,Potion of Lion,1900,4153.26,11,6,ghost26,scroll
+54.46,22001,Furious Gem,1899,4169.71,12,20,hunterx,repu/bp/signet/jp/gems/eva/pots
+54.2,26591,Potion of Lion,1900,4148.18,12,6,ghost26,scroll
 53.94,22003,Glowing Gem,1000,2171.21,9,32,Aldor,random items
 53.94,22003,Glowing Gem,1000,2171.21,9,11,Frank,GEMS EVR INS EVS
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
@@ -48,16 +46,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.8,28458,Ice Sealed Staff of the Sphinx,25000,54110.8,5,1,CStal1,afk
 53.6,26595,Standard Explosive Ball,999,2153.08,3,5,SariSariStore1,SALE
 53.6,26595,Standard Explosive Ball,999,2153.08,3,2,Unlimites,darkblue
-53.13,28474,Ice Sealed Mantle of the Sphinx,55555,118518.33,3,1,Systembuff,Sealeds
-52.84,22001,Furious Gem,1999,4238.64,11,1,SamuSta,REF/ALL NORMAL GEM/FB/DC@CHEAP@
-52.84,22001,Furious Gem,1999,4238.64,11,10,Happyman,CHEAPO NORMAL GEMS
-52.82,22001,Furious Gem,2000,4238.64,11,1,Unlimites,darkblue
 52.17,25439,Incantation Stone,600,1254.51,5,56,FreePalestine1,selll      0_0
 52.13,26589,Potion of Bull,1500,3133.67,17,18,hunterx,repu/bp/signet/jp/gems/eva/pots
 52.13,26589,Potion of Bull,1500,3133.67,17,1,CStal1,afk
-51.85,26591,Potion of Lion,2000,4153.26,11,2,nyana,forsale
-51.85,26591,Potion of Lion,2000,4153.26,11,1,XiXi0n,cheap cheap cheap cheap
-51.85,26591,Potion of Lion,2000,4153.26,11,1,BuyingSta4ll7,GOLDEN ROCK | GPS | JACKPOT
+52.06,22001,Furious Gem,1999,4169.71,12,1,SamuSta,REF/ALL NORMAL GEM/FB/DC@CHEAP@
+52.06,22001,Furious Gem,1999,4169.71,12,10,Happyman,CHEAPO NORMAL GEMS
+52.04,22001,Furious Gem,2000,4169.71,12,1,Unlimites,darkblue
+51.79,26591,Potion of Lion,2000,4148.18,12,2,nyana,forsale
+51.79,26591,Potion of Lion,2000,4148.18,12,1,XiXi0n,cheap cheap cheap cheap
+51.79,26591,Potion of Lion,2000,4148.18,12,1,BuyingSta4ll7,GOLDEN ROCK | GPS | JACKPOT
 50.98,25400,Explosive Tentacle,150,306.0,4,60,Biskate,Lojas Americanas Americanas
 50.5,28035,Solar Shield,14000,28284.71,6,1,TieneMandanga,Rock Gem/Guardian Brew/Shield/
 50.5,28035,Solar Shield,14000,28284.71,6,1,TieneMandanga,Rock Gem/Guardian Brew/Shield/
