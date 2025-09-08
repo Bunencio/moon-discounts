@@ -2,7 +2,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.23,30173,Ticket to Angler's Island,40,455.95,6,12,Shop1,darkblue
 90.13,30173,Ticket to Angler's Island,45,455.95,6,66,LiDL,ref / pbs / fb / pot / ticket
 87.89,25258,Spirit Feather,200,1652.1,3,13,LunaMaya,S>GPS PPS PBS RBS
-82.21,26595,Standard Explosive Ball,999,5614.62,4,2,Unlimites,darkblue
 81.25,28217,Diety Robe,2000,10666.67,3,1,Sektor,ch3ap
 79.9,25212,Frozen Elixir,200,994.85,7,10,LunaMaya,S>GPS PPS PBS RBS
 79.07,28404,Earth Sealed Robe of Abraxas,1500,7166.33,3,1,Fortis,All cheap
@@ -21,7 +20,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.26,2301,,4999,17391.1,4,1,PoorBaby,Pots and Pans !
 71.26,2301,,4999,17391.1,4,1,PoorBaby,Pots and Pans !
 71.26,2301,,4999,17391.1,4,1,PoorBaby,Pots and Pans !
-71.2,26590,Potion of Soul,1050,3645.72,11,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
+71.11,26590,Potion of Soul,1050,3634.09,11,1,BigLez,Sealed/AgiGlv/PPS/REP/Coin/Pots+
 69.34,25505,Standard Stone,500,1630.67,4,9,LazzzyBee,NOTHING  JUST FREEBIES...
 67.68,25506,Expert Scroll,800,2475.36,7,64,HaBuffer,SELL
 67.43,25522,,95,291.66,8,17,staller2,grenade/soul detector/tropical
@@ -29,7 +28,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.06,25522,,99,291.66,8,84,Uzi,pps
 65.71,30118,Vial of Strength Reset,2000,5833.33,6,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
 65.56,22000,FieryGem,3000,8709.9,12,1,TiroAlBlanco,*____*
-64.4,26595,Standard Explosive Ball,1999,5614.62,4,3,Obrero1,SEALED 60 BOOTS SM/GRENADE LV2/+
+65.24,26595,Standard Explosive Ball,999,2874.38,3,2,Unlimites,darkblue
 63.83,30121,Vial of Accuracy Reset,2000,5529.41,5,2,DoaaPepa,D O N   P E P E
 63.83,30121,Vial of Accuracy Reset,2000,5529.41,5,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
 62.38,25440,Evanescence Stone,400,1063.15,7,1,Customer,TOP SECRET
@@ -45,11 +44,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.43,22001,Furious Gem,1999,4809.28,10,10,Happyman,CHEAPO NORMAL GEMS
 58.41,22001,Furious Gem,2000,4809.28,10,1,Unlimites,darkblue
 56.3,25211,Tropical Drumstick,34,77.8,7,3,TagBaligya2,Manu/Cook/Craft Items
+53.94,22003,Glowing Gem,1000,2171.21,9,32,Aldor,random items
+53.94,22003,Glowing Gem,1000,2171.21,9,11,Frank,GEMS EVR INS EVS
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
 53.8,28458,Ice Sealed Staff of the Sphinx,25000,54110.8,5,1,CStal1,afk
-53.56,22003,Glowing Gem,1000,2153.46,9,35,Aldor,random items
-53.56,22003,Glowing Gem,1000,2153.46,9,11,Frank,GEMS EVR INS EVS
 52.97,25440,Evanescence Stone,500,1063.15,7,48,Frank,GEMS EVR INS EVS
 52.47,25503,Magical Stone,500,1052.05,9,34,Chicken,SHEEEEEEESH
 52.17,25439,Incantation Stone,600,1254.51,5,56,FreePalestine1,selll      0_0
