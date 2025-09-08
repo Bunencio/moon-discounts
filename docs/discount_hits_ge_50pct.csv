@@ -24,7 +24,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.28,2301,,4999,16272.32,6,1,PoorBaby,Pots and Pans !
 69.27,2301,,5000,16272.32,6,1,HunterKim,Too
 68.9,22001,Furious Gem,1499,4820.32,10,10,AltDude,very cheap stuff
-68.51,26589,Potion of Bull,1000,3175.41,18,1,BjornIronside,OFFSALE
+68.52,26589,Potion of Bull,1000,3176.92,18,1,BjornIronside,OFFSALE
 68.07,25485,Cyan Dye,100,313.14,3,17,2Homo,sell
 67.52,25488,Purple Dye,100,307.84,3,24,2Homo,sell
 67.5,30121,Vial of Accuracy Reset,2000,6153.85,4,1,VERTIGO,BOI ARMOR55 BLESSED SUN CLOUD
@@ -33,8 +33,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.01,25522,,95,279.53,7,17,staller2,grenade/soul detector/tropical
 65.65,28432,Fire Sealed Staff of Mirage,4500,13099.6,5,1,bowstalls,lv65 shield/lv40-50-60 items
 64.58,25522,,99,279.53,7,93,Uzi,pps
-62.26,22000,FieryGem,3000,7949.9,12,1,TiroAlBlanco,*____*
-62.05,22002,Lustrious Gem,800,2108.06,10,2,VitraAuJulii,BUY HERE
+62.27,22000,FieryGem,3000,7951.88,11,1,TiroAlBlanco,*____*
+62.01,22002,Lustrious Gem,800,2105.59,10,2,VitraAuJulii,BUY HERE
 61.3,26591,Potion of Lion,1500,3875.63,12,4,Gryffindor,GPS/ AND OFFERS
 60.0,28474,Ice Sealed Mantle of the Sphinx,55555,138888.5,4,1,Systembuff,Sealeds
 59.76,25501,Brown Colorant,2000,4970.77,3,1,2Homo,sell
@@ -46,7 +46,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.77,22004,Shining Gem,3000,7275.42,10,1,CaloNord,spr ring acc boots
 58.51,22001,Furious Gem,2000,4820.32,10,1,Gryffindor,GPS/ AND OFFERS
 57.1,28476,Ice Sealed Kris of the Sphinx,55555,129506.0,6,1,Systembuff,Sealeds
-55.97,26590,Potion of Soul,1500,3406.76,12,1,fisherr,cheap cook flash pot
+55.95,26590,Potion of Soul,1500,3404.96,12,1,fisherr,cheap cook flash pot
 54.89,26587,Potion of Monkey,750,1662.65,19,47,darkghost,glove
 54.2,28432,Fire Sealed Staff of Mirage,5999,13099.6,5,1,iLegolas,Sword50 PPs Rock Jackpot
 53.92,25211,Tropical Drumstick,30,65.11,7,99,Shagidi,TROPICAL DRUMSTICK CHEAP
@@ -63,16 +63,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
 53.56,26591,Potion of Lion,1800,3875.63,12,2,iinerti,Jackpot/FB/Repu1k/PBS/FGP/LBS+++
-52.76,26589,Potion of Bull,1500,3175.41,18,1,CStal1,afk
-52.76,26589,Potion of Bull,1500,3175.41,18,2,fisherr,cheap cook flash pot
+52.78,26589,Potion of Bull,1500,3176.92,18,1,CStal1,afk
+52.78,26589,Potion of Bull,1500,3176.92,18,2,fisherr,cheap cook flash pot
 52.59,25440,Evanescence Stone,500,1054.59,7,48,Frank,GEMS EVR INS EVS
 52.59,25440,Evanescence Stone,500,1054.59,7,4,CStal1,afk
-52.56,22002,Lustrious Gem,1000,2108.06,10,29,Aldor,random items
+52.51,22002,Lustrious Gem,1000,2105.59,10,29,Aldor,random items
 52.32,28408,Earth Sealed Coat of Invocation,2000,4194.25,4,1,KishOnline,Cheap asf
 52.03,26592,Flash Bomb,650,1354.93,14,7,xColosusJr,ITEMSS
 51.39,28126,Cleric Cap,25000,51428.57,4,1,TopHead,CLERIC CAPS WITH SPR
 51.28,25480,Ami Hairstyle Book,500,1026.32,3,47,Khonsu,CHEAPEST HAIRSTYLING ITEMS
 50.98,25400,Explosive Tentacle,150,306.0,4,60,Biskate,Lojas Americanas Americanas
 50.92,25439,Incantation Stone,600,1222.49,4,56,FreePalestine1,selll      0_0
-50.54,30168,Gyoza,10000,20219.36,8,1,XiXi0n,cruss/captain/fb/pot/gyoza
-50.1,26590,Potion of Soul,1700,3406.76,12,28,darkghost,glove
+50.37,30168,Gyoza,10000,20150.68,8,1,XiXi0n,cruss/captain/fb/pot/gyoza
+50.07,26590,Potion of Soul,1700,3404.96,12,28,darkghost,glove
