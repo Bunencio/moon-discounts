@@ -3,12 +3,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.07,26562,Cake,200,21558.99,4,3,Shab7,cheeeeeeeeeeeeeeep
 99.07,26562,Cake,200,21558.99,4,200,Shop1,darkblue
 99.07,26562,Cake,200,21558.99,4,200,Shop1,darkblue
-92.98,30173,Ticket to Angler's Island,40,569.97,5,12,Shop1,darkblue
+91.22,30173,Ticket to Angler's Island,40,455.62,6,12,Shop1,darkblue
+90.12,30173,Ticket to Angler's Island,45,455.62,6,66,LiDL,ref / pbs / fb / pot / ticket
 82.21,26595,Standard Explosive Ball,999,5614.62,4,2,Unlimites,darkblue
 79.07,28404,Earth Sealed Robe of Abraxas,1500,7166.67,3,1,Fortis,All cheap
+77.58,25483,Yellow Dye,100,446.03,3,21,2Homo,sell
 75.0,28436,Fire Sealed Staff of Evanescence,5000,19999.75,4,1,TieneMandanga,Rock Gem/Guardian Brew/Shield/
 74.88,30118,Vial of Strength Reset,1500,5972.22,6,1,LazzzyBee,NOTHING  JUST FREEBIES...
 73.79,26594,Novice Explosive Ball,99,377.77,5,39,BIlIllIS,FB BBBBB
+72.76,25482,Orange Dye,100,367.07,3,19,2Homo,sell
+72.71,25490,Brown Dye,100,366.38,3,19,2Homo,sell
 71.87,25440,Evanescence Stone,300,1066.34,7,3,LazzzyBee,NOTHING  JUST FREEBIES...
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
@@ -17,41 +21,40 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
 70.69,2301,,4999,17055.14,5,1,PoorBaby,Pots and Pans !
-69.64,25505,Standard Stone,500,1646.71,4,9,LazzzyBee,NOTHING  JUST FREEBIES...
-68.34,26589,Potion of Bull,1000,3158.15,18,1,BjornIronside,OFFSALE
+69.34,25505,Standard Stone,500,1630.67,4,9,LazzzyBee,NOTHING  JUST FREEBIES...
+68.37,26589,Potion of Bull,1000,3161.6,18,1,BjornIronside,OFFSALE
 67.5,25506,Expert Scroll,800,2461.33,7,64,HaBuffer,SELL
 67.0,25522,,95,287.84,8,17,staller2,grenade/soul detector/tropical
 66.51,30118,Vial of Strength Reset,2000,5972.22,6,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
-65.61,25522,,99,287.84,8,93,Uzi,FF
+65.61,25522,,99,287.84,8,93,Uzi,pps
 65.0,30121,Vial of Accuracy Reset,2000,5714.29,3,2,DoaaPepa,D O N   P E P E
 65.0,30121,Vial of Accuracy Reset,2000,5714.29,3,1,VERTIGO,SELL SHIELD60 BLESSED SUNLIGHT
 64.4,26595,Standard Explosive Ball,1999,5614.62,4,3,Obrero1,SEALED 60 BOOTS SM/GRENADE LV2/+
 64.38,22000,FieryGem,3000,8422.94,11,1,TiroAlBlanco,*____*
-62.61,26345,Elven Potion,3500,9361.22,5,5,Unlimites,darkblue
 62.49,25440,Evanescence Stone,400,1066.34,7,4,CStal1,afk
 60.14,25439,Incantation Stone,500,1254.51,5,7,Frank,GEMS EVR INS EVS
 60.0,28474,Ice Sealed Mantle of the Sphinx,55555,138888.5,4,1,Systembuff,Sealeds
 59.76,25501,Brown Colorant,2000,4969.9,3,1,2Homo,sell
-59.46,28432,Fire Sealed Staff of Mirage,4500,11099.6,5,1,bowstalls,lv65 shield/lv40-50-60 items
 59.37,25506,Expert Scroll,1000,2461.33,7,99,Aldor,random items
 59.37,25506,Expert Scroll,1000,2461.33,7,99,Aldor,random items
 59.37,25506,Expert Scroll,1000,2461.33,7,89,Aldor,random items
-58.47,22001,Furious Gem,1999,4813.1,9,1,SamuSta,REF/ALL NORMAL GEM/FB/DC@CHEAP@
-58.47,22001,Furious Gem,1999,4813.1,9,10,Happyman,CHEAPO NORMAL GEMS
-58.45,22001,Furious Gem,2000,4813.1,9,1,Unlimites,darkblue
-56.57,27000,Prosperous Packet,99,227.97,8,51,BIlIllIS,FB BBBBB
+59.26,28468,Ice Sealed Mantle of Enigma,55000,135000.0,3,1,LotokSell,WORLD GEMS
+58.43,22001,Furious Gem,1999,4809.28,10,1,SamuSta,REF/ALL NORMAL GEM/FB/DC@CHEAP@
+58.43,22001,Furious Gem,1999,4809.28,10,10,Happyman,CHEAPO NORMAL GEMS
+58.41,22001,Furious Gem,2000,4809.28,10,1,Unlimites,darkblue
+56.92,26591,Potion of Lion,1800,4178.08,10,2,iinerti,Jackpot/FB/Repu1k/PBS/FGP/LBS+++
 56.52,28126,Cleric Cap,25000,57500.0,3,1,TopHead,CLERIC CAPS WITH SPR
-56.14,30173,Ticket to Angler's Island,250,569.97,5,2,EvilRian,lucky packets and trash
 56.1,28476,Ice Sealed Kris of the Sphinx,55555,126555.3,7,1,Systembuff,Sealeds
 55.84,25211,Tropical Drumstick,34,76.99,6,3,TagBaligya2,Manu/Cook/Craft Items
-54.9,26591,Potion of Lion,1800,3991.29,12,2,iinerti,Jackpot/FB/Repu1k/PBS/FGP/LBS+++
+54.08,27000,Prosperous Packet,99,215.58,8,51,BIlIllIS,FB BBBBB
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
 53.85,28406,Earth Sealed Staff of Abraxas.,3000,6500.0,4,1,LazzzyBee,NOTHING  JUST FREEBIES...
 53.56,22003,Glowing Gem,1000,2153.46,9,35,Aldor,random items
 53.56,22003,Glowing Gem,1000,2153.46,9,11,Frank,GEMS EVR INS EVS
 53.11,25440,Evanescence Stone,500,1066.34,7,48,Frank,GEMS EVR INS EVS
-52.97,26592,Flash Bomb,649,1379.83,13,15,SamuSta,REF/ALL NORMAL GEM/FB/DC@CHEAP@
-52.5,26589,Potion of Bull,1500,3158.15,18,1,CStal1,afk
-52.5,26589,Potion of Bull,1500,3158.15,18,2,fisherr,cheap cook flash pot
+52.56,26589,Potion of Bull,1500,3161.6,18,1,CStal1,afk
+52.56,26589,Potion of Bull,1500,3161.6,18,2,fisherr,cheap cook flash pot
 52.17,25439,Incantation Stone,600,1254.51,5,56,FreePalestine1,selll      0_0
+52.13,26591,Potion of Lion,2000,4178.08,10,1,XiXi0n,cheap cheap cheap cheap
+52.13,26591,Potion of Lion,2000,4178.08,10,1,BuyingSta4ll7,GOLDEN ROCK | GPS | JACKPOT
 50.98,25400,Explosive Tentacle,150,306.0,4,60,Biskate,Lojas Americanas Americanas
