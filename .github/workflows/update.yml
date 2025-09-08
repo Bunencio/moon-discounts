@@ -2,7 +2,7 @@ name: Update discount & profit
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # cada 10 minutos (UTC)
+    - cron: "*/10 * * * *"   
   workflow_dispatch: {}
 
 permissions:
@@ -26,13 +26,37 @@ jobs:
       - name: Run updater
         run: python market_update.py
 
+     
+      - name: Debug changed files
+        run: |
+          echo "::group::git status (porcelain)"
+          git status --porcelain
+          echo "::endgroup::"
+
+          echo "::group::ls -la docs"
+          ls -la docs || true
+          echo "::endgroup::"
+
+          echo "::group::head -n 3 de CSVs"
+          for f in docs/*.csv; do
+            echo "--- $f ---"
+            head -n 3 "$f" || true
+          done
+          echo "::endgroup::"
+
+          echo "::group::hashes"
+          which sha256sum && sha256sum docs/*.csv 2>/dev/null || true
+          echo "::endgroup::"
+
       - name: Commit & push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh data [skip ci]"
+          
           file_pattern: |
-            docs/discount_hits_ge_50pct.csv
-            docs/profit_hits_ge_20000.csv
+            docs/*.csv
             docs/last_run.json
             docs/stall_list.raw
             market_history.json
+          
+          add_options: "-A"
