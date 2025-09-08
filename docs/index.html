@@ -5,76 +5,50 @@
   <title>Moon Market · Dashboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
 
-  <!-- Estilos -->
   <style>
     :root{
       --bg:#0a0b0e; --panel:#0f1117; --panel-2:#0b0d12;
       --fg:#e8eef5; --muted:#98a2b3; --border:#1b1f2a;
       --accent:#52a8ff; --accent-2:#2dd4bf; --warning:#f59e0b;
-      --success:#22c55e; --danger:#ef4444;
-      --radius:14px;
+      --success:#22c55e; --danger:#ef4444; --radius:14px;
     }
     *{box-sizing:border-box}
     body{
       font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Noto Sans", "Helvetica Neue", sans-serif;
       background: radial-gradient(1200px 600px at 10% -10%, #0f172a 0, transparent 60%), var(--bg);
-      color: var(--fg);
-      margin: 0; padding: 24px;
+      color: var(--fg); margin: 0; padding: 24px;
     }
-    header{
-      display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:10px;
-    }
+    header{display:flex; align-items:center; gap:12px; margin-bottom:10px;}
     .brand{display:flex; align-items:center; gap:12px}
-    .logo{
-      width:38px; height:38px; border-radius:10px;
-      background: linear-gradient(135deg, #1e293b, #0ea5e9);
+    .logo{width:38px; height:38px; border-radius:10px; background: linear-gradient(135deg, #1e293b, #0ea5e9);
       display:grid; place-items:center; font-weight:800; color:white; letter-spacing:.5px;
-      box-shadow: 0 10px 30px rgba(14,165,233,.25), inset 0 0 20px rgba(255,255,255,.06);
-    }
+      box-shadow: 0 10px 30px rgba(14,165,233,.25), inset 0 0 20px rgba(255,255,255,.06);}
     h1{font-size:20px; margin:0}
     .badge{background:#0b2b3d; color:#a7e1ff; border:1px solid #14384e; padding:2px 8px; border-radius:999px; font-size:12px; margin-left:8px}
     .timestamp{color:var(--muted); font-size:13px}
 
-    .toolbar{
-      display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:12px 0 16px;
-    }
+    .toolbar{display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:12px 0 16px;}
     .tabs{display:flex; gap:8px; flex-wrap:wrap}
-    .tab{
-      padding:8px 12px; border-radius:10px; border:1px solid var(--border);
-      background:var(--panel-2); color:var(--fg); cursor:pointer;
-    }
+    .tab{padding:8px 12px; border-radius:10px; border:1px solid var(--border);
+      background:var(--panel-2); color:var(--fg); cursor:pointer;}
     .tab.active{background:#102132; border-color:#183147; box-shadow: inset 0 0 0 1px #1e3a5f}
     .downloads{margin-left:auto; display:flex; gap:10px; flex-wrap:wrap}
-    .btn{
-      padding:8px 12px; border-radius:10px; border:1px solid var(--border);
-      background:linear-gradient(180deg,#10131b,#0d1117); color:var(--fg);
-      cursor:pointer; text-decoration:none; font-size:13px;
-    }
+    .btn{padding:8px 12px; border-radius:10px; border:1px solid var(--border);
+      background:linear-gradient(180deg,#10131b,#0d1117); color:var(--fg); cursor:pointer; text-decoration:none; font-size:13px;}
     .btn:hover{border-color:#2a3345}
     .btn.accent{border-color:#1e3a5f; background:#0f1d2b}
     .btn.secondary{background:#0e121a}
 
-    .controls{
-      display:flex; gap:10px; align-items:center; flex-wrap:wrap;
-      background:var(--panel); border:1px solid var(--border); padding:12px; border-radius:var(--radius);
-    }
-    .input{
-      padding:10px 12px; border-radius:10px; border:1px solid var(--border);
-      background:#0b0e15; color:var(--fg); min-width:260px; outline:none;
-    }
+    .controls{display:flex; gap:10px; align-items:center; flex-wrap:wrap;
+      background:var(--panel); border:1px solid var(--border); padding:12px; border-radius:var(--radius);}
+    .input{padding:10px 12px; border-radius:10px; border:1px solid var(--border); background:#0b0e15; color:var(--fg); min-width:260px; outline:none;}
     .select{padding:9px 10px; border-radius:10px; border:1px solid var(--border); background:#0b0e15; color:var(--fg)}
     .counter{color:var(--muted); font-size:13px; margin-left:auto}
 
-    .card{
-      background:var(--panel); border:1px solid var(--border);
-      border-radius:var(--radius); overflow:hidden;
-    }
+    .card{background:var(--panel); border:1px solid var(--border); border-radius:var(--radius); overflow:hidden;}
     table{width:100%; border-collapse:collapse}
-    thead th{
-      background:#121725; position:sticky; top:0; z-index:1;
-      font-weight:600; text-align:left; font-size:13px; color:#cbd5e1;
-      border-bottom:1px solid var(--border); padding:10px 12px; user-select:none;
-    }
+    thead th{background:#121725; position:sticky; top:0; z-index:1; font-weight:600; text-align:left; font-size:13px; color:#cbd5e1;
+      border-bottom:1px solid var(--border); padding:10px 12px; user-select:none;}
     tbody td{padding:10px 12px; border-bottom:1px solid var(--border); font-size:14px}
     tbody tr:nth-child(even){background:#0d1118}
     tbody tr:hover{background:#141a25}
@@ -82,16 +56,10 @@
     .sortable{cursor:pointer}
     .sortable .arrow{opacity:.35; margin-left:4px}
     .sortable.active .arrow{opacity:1}
-    .status-dot{
-      display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; vertical-align:middle;
-      background:var(--success);
-      box-shadow:0 0 0 2px rgba(34,197,94,.15);
-    }
+    .status-dot{display:inline-block; width:8px; height:8px; border-radius:50%; margin-right:6px; vertical-align:middle;
+      background:var(--success); box-shadow:0 0 0 2px rgba(34,197,94,.15);}
 
-    .pagination{
-      display:flex; gap:8px; align-items:center; justify-content:flex-end;
-      padding:10px; color:var(--muted);
-    }
+    .pagination{display:flex; gap:8px; align-items:center; justify-content:flex-end; padding:10px; color:var(--muted);}
     .pagination .btn{padding:6px 10px}
     .spacer{flex:1}
     .hint{color:var(--muted); font-size:12px; padding:6px 2px}
@@ -113,6 +81,7 @@
   <div class="toolbar">
     <div class="tabs">
       <button class="tab active" data-tab="discount">≥ 50% OFF</button>
+      <button class="tab" data-tab="profit">Profit ≥ 20k</button>
       <button class="tab" data-tab="allsell">Todos los SELL</button>
     </div>
 
@@ -156,9 +125,15 @@ const SOURCES = {
     title: 'Moon Market · ≥ 50% OFF',
     numeric: new Set(['discount_pct','price','avg','obs','qty'])
   },
+  profit: {
+    url: 'profit_hits_ge_20000.csv',
+    fixedOrder: ['discount_pct','profit_total','profit_unit','qty','price','avg','item_id','item_name','seller','stall','date','obs'],
+    title: 'Moon Market · Profit ≥ 20k',
+    numeric: new Set(['discount_pct','profit_total','profit_unit','qty','price','avg','obs'])
+  },
   allsell: {
-    url: 'sales_all_today.csv',         // cambia a 'sales_all_today_enriched.csv' si quieres métricas
-    fixedOrder: null,                   // autodetecta columnas desde CSV
+    url: 'sales_all_today.csv',         // si lo publicas
+    fixedOrder: null,                   // autodetecta columnas
     title: 'Moon Market · Todos los SELL',
     numeric: new Set(['price','quantity'])
   }
@@ -167,10 +142,10 @@ const AUTO_REFRESH_MS = 60000;
 
 /* ------------- Estado global --------------- */
 let currentTab = 'discount';
-let RAW_ROWS = [];     // filas originales del tab activo
-let HEADERS = [];      // headers visibles
+let RAW_ROWS = [];
+let HEADERS = [];
 let NUMERIC = new Set();
-let filtered = [];     // filas filtradas/ordenadas
+let filtered = [];
 let sortState = { key: null, dir: 'desc' };
 let page = 1;
 let pageSize = 25;
@@ -200,7 +175,18 @@ async function parseCSV(url){
   const r = await fetch(url,{cache:'no-store'}); if(!r.ok) return {data:[], fields:[]};
   const text = await r.text();
   const parsed = Papa.parse(text, {header:true, skipEmptyLines:true});
-  return {data: parsed.data, fields: parsed.meta.fields || []};
+  // casteo básico para números
+  const data = parsed.data.map(row => {
+    const cast = {...row};
+    Object.keys(row).forEach(k => {
+      if (['discount_pct','profit_total','profit_unit','qty','price','avg','obs'].includes(k) && row[k] !== undefined){
+        const n = Number(String(row[k]).replace(/,/g,''));
+        cast[k] = Number.isFinite(n) ? n : row[k];
+      }
+    });
+    return cast;
+  });
+  return {data, fields: parsed.meta.fields || []};
 }
 
 /* ----------------- Render ------------------ */
@@ -221,12 +207,8 @@ function buildHead(headers){
     th.appendChild(arrow);
 
     th.addEventListener('click', ()=>{
-      if(sortState.key === h){
-        sortState.dir = (sortState.dir === 'asc' ? 'desc' : 'asc');
-      }else{
-        sortState.key = h;
-        sortState.dir = NUMERIC.has(h) ? 'asc' : 'asc';
-      }
+      if(sortState.key === h){ sortState.dir = (sortState.dir === 'asc' ? 'desc' : 'asc'); }
+      else { sortState.key = h; sortState.dir = NUMERIC.has(h) ? 'asc' : 'asc'; }
       updateSort();
       renderBody();
       [...thead.querySelectorAll('.sortable')].forEach(x=>x.classList.remove('active'));
@@ -285,9 +267,9 @@ function updateSort(){
 function applyFilter(){
   const q = (document.getElementById('filter').value||'').toLowerCase();
   filtered = RAW_ROWS.filter(r =>
-    (r.item_name||'').toLowerCase().includes(q) ||
-    (r.seller||'').toLowerCase().includes(q) ||
-    (r.stall||'').toLowerCase().includes(q)
+    (String(r.item_name||'')).toLowerCase().includes(q) ||
+    (String(r.seller||'')).toLowerCase().includes(q) ||
+    (String(r.stall||'')).toLowerCase().includes(q)
   );
   updateSort();
   page = 1;
@@ -317,15 +299,23 @@ async function loadTab(tab){
     RAW_ROWS = data;
   }
 
+  // orden default por tab
+  if(tab === 'discount'){
+    sortState = { key: 'discount_pct', dir: 'desc' };
+  }else if(tab === 'profit'){
+    sortState = { key: 'discount_pct', dir: 'desc' }; // luego puedes cambiar a profit_total
+  }else{
+    sortState = { key: null, dir: 'asc' };
+  }
+
   buildHead(HEADERS);
   filtered = [...RAW_ROWS];
-  sortState = {key: null, dir: 'asc'};
+  updateSort();
   renderBody();
 }
 
 /* ------------------ Init -------------------- */
 async function init(){
-  // timestamp
   const meta = await fetchJSON('last_run.json');
   document.getElementById('updated').textContent =
     meta?.updated_at ? `Última actualización: ${meta.updated_at}` : 'Sin timestamp';
@@ -343,11 +333,7 @@ async function init(){
   // filtros y paginación
   const ps = document.getElementById('page-size');
   pageSize = parseInt(ps.value,10);
-  ps.addEventListener('change', ()=>{
-    pageSize = parseInt(ps.value,10);
-    page = 1; renderBody();
-  });
-
+  ps.addEventListener('change', ()=>{ pageSize = parseInt(ps.value,10); page = 1; renderBody(); });
   document.getElementById('prev').addEventListener('click', ()=>{ if(page>1){ page--; renderBody(); }});
   document.getElementById('next').addEventListener('click', ()=>{
     const total = filtered.length;
@@ -361,11 +347,11 @@ async function init(){
   // exportar vista actual
   document.getElementById('export-view').addEventListener('click', ()=>{
     const csv = rowsToCSV(filtered, HEADERS);
-    const fname = currentTab === 'discount' ? 'discount_view.csv' : 'allsell_view.csv';
+    const fname = currentTab + '_view.csv';
     downloadBlob(fname, csv);
   });
 
-  // primera carga
+  // primera carga (tab 1)
   await loadTab('discount');
 
   // auto-refresh
