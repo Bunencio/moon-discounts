@@ -3,8 +3,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-09,25090,Limestone Crystal,sds,Willow/LimestoneCrystalHere,40,450.45,410.45,83,34067.17,91.12,7
 2025-09-09,30173,Ticket to Angler's Island,LiDL,ref / pots / tickets,40,401.06,361.06,66,23829.76,90.03,6
 2025-09-09,22003,Glowing Gem,hunterx,repu/jp/bp/gems/pots/xp,899,2847.8,1948.8,19,37027.17,68.43,7
-2025-09-09,25440,Evanescence Stone,hunterx,repu/jp/bp/gems/pots/xp,299,864.36,565.36,48,27137.3,65.41,9
-2025-09-09,25440,Evanescence Stone,Frank,GEMS EVR EVS INS,300,864.36,564.36,48,27089.3,65.29,9
+2025-09-09,25440,Evanescence Stone,hunterx,repu/jp/bp/gems/pots/xp,299,857.87,558.87,48,26825.93,65.15,9
+2025-09-09,25440,Evanescence Stone,Frank,GEMS EVR EVS INS,300,857.87,557.87,48,26777.93,65.03,9
 2025-09-09,22003,Glowing Gem,Aldor,Randon itins,1000,2847.8,1847.8,32,59129.55,64.89,7
 2025-09-09,25506,Expert Scroll,Aldor,Randon itins,1000,2171.73,1171.73,99,116001.47,53.95,4
 2025-09-09,25506,Expert Scroll,Aldor,Randon itins,1000,2171.73,1171.73,99,116001.47,53.95,4
@@ -12,6 +12,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-09,25506,Expert Scroll,Aldor,Randon itins,1000,2171.73,1171.73,99,116001.47,53.95,4
 2025-09-09,25506,Expert Scroll,Aldor,Randon itins,1000,2171.73,1171.73,89,104284.15,53.95,4
 2025-09-09,28126,Cleric Cap,TopHead,CAPS LV40 WITH STATS CHEAP,20000,43000.0,23000.0,1,23000.0,53.49,3
+2025-09-09,25418,Clam Crown,SCORPION21,ore/card/scroll/ticket/rose/vood,3000,6242.33,3242.33,14,45392.67,51.94,3
 2025-09-09,25439,Incantation Stone,FreePalestine1,selll      0_0,600,1190.08,590.08,56,33044.48,49.58,6
 2025-09-09,27021,Green Pirate Scroll,yeswedothat,.,249,488.83,239.83,99,23742.98,49.06,12
 2025-09-09,28403,Blade of Incantation,KaiSaMaMiTa,CHEAP!!!,119999,232888.56,112889.56,1,112889.56,48.47,7
@@ -61,7 +62,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-09,25212,Frozen Elixir,Cush,Snail food/Mystic leaf,599,855.72,256.72,83,21307.54,30.0,5
 2025-09-09,28474,Ice Sealed Mantle of the Sphinx,Systembuff,Sealeds,55555,77592.17,22037.17,1,22037.17,28.4,6
 2025-09-09,28403,Blade of Incantation,Hiller,Sleep,170000,232888.56,62888.56,1,62888.56,27.0,7
-2025-09-09,22004,Shining Gem,hunterx,repu/jp/bp/gems/pots/xp,4899,6662.24,1763.24,53,93451.99,26.47,10
+2025-09-09,22004,Shining Gem,hunterx,repu/jp/bp/gems/pots/xp,4899,6653.98,1754.98,53,93013.68,26.37,10
 2025-09-09,22000,FieryGem,Hiya,SO MANY CHEAP NICE ITENS,4999,6753.91,1754.91,99,173736.39,25.98,12
 2025-09-09,28403,Blade of Incantation,xCrossex,APP  BOI  SEALED  FB... CHEAP,175000,232888.56,57888.56,1,57888.56,24.86,7
 2025-09-09,28454,Ice Sealed Blade of Enigma,Dwarf,CA JEWELL|IMPS|JADE|MVM|LV60 EQS,249999,327856.86,77857.86,1,77857.86,23.75,7
@@ -97,9 +98,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-09,25452,Rock Gem Fragment,SamuSta,ROCK/REF/DC/ALL NORMAL GEM@CHEAP,119999,144184.51,24185.51,1,24185.51,16.77,12
 2025-09-09,25452,Rock Gem Fragment,SSSSS,BOE/GPS/ROCK/PPS/APP TRANSFER,120000,144184.51,24184.51,1,24184.51,16.77,12
 2025-09-09,25452,Rock Gem Fragment,solodoybuff,jack pot/ rock gem frag,120000,144184.51,24184.51,1,24184.51,16.77,12
-2025-09-09,22004,Shining Gem,NainBASTARD,Normal Gems,5555,6662.24,1107.24,34,37646.33,16.62,10
 2025-09-09,22012,Demonic Gem of Wind,Kipay,Gems / Everything u need,1650000,1977857.14,327857.14,1,327857.14,16.58,4
 2025-09-09,22012,Demonic Gem of Wind,Cebola,GEM GEM GEM,1650000,1977857.14,327857.14,1,327857.14,16.58,4
+2025-09-09,22004,Shining Gem,NainBASTARD,Normal Gems,5555,6653.98,1098.98,34,37365.15,16.52,10
 2025-09-09,25508,Demonic Gem Fragment,Stello,##@@##,125000,149615.04,24615.04,4,98460.15,16.45,8
 2025-09-09,22014,Demonic Gem of Colossus,Kaka5,UG RAGE 2.6M/DEM COLO 2.6M/KAL,2600000,3107142.86,507142.86,1,507142.86,16.32,5
 2025-09-09,25451,Jade Gem Fragment,GnomoPelado#91,CHEAP STALL GOGOGO BUY,85000,101581.88,16581.88,5,82909.4,16.32,11
