@@ -4,8 +4,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.1,30173,Ticket to Angler's Island,40,404.23,5,66,LiDL,ref / pots / tickets
 80.59,25501,Brown Colorant,500,2576.54,3,1,cheapstuffsell,cheap
 79.89,25499,Purple Colorant,500,2486.58,3,3,cheapstuffsell,cheap
-77.47,22001,Furious Gem,1000,4439.08,9,1,xDelfina,All cheap
-77.47,22001,Furious Gem,1000,4439.08,9,1,Unlimites,cleaning bank
+77.39,22001,Furious Gem,1000,4422.02,9,1,xDelfina,All cheap
+77.39,22001,Furious Gem,1000,4422.02,9,1,Unlimites,cleaning bank
 70.16,30121,Vial of Accuracy Reset,2000,6703.13,3,2,DoaaPepa,D O N    P E P E
 69.94,25440,Evanescence Stone,300,997.84,7,48,Frank,GEMS EVR EVS INS
 68.42,28432,Fire Sealed Staff of Mirage,4500,14249.75,6,1,bowstalls,lv40-50-60-65 gear 3pages
@@ -22,13 +22,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.1,26564,Meditation Potion,88,215.15,3,92,xColosusJr,itemssss
 58.69,25439,Incantation Stone,500,1210.39,4,7,Frank,GEMS EVR EVS INS
 58.62,28126,Cleric Cap,20000,48333.33,3,1,TopHead,CAPS LV40 WITH STATS CHEAP
+58.5,26346,Lantern,3000,7228.81,7,1,CaloNord,boots acc
 57.47,22003,Glowing Gem,1000,2351.4,6,8,Frank,GEMS EVR EVS INS
 57.47,22003,Glowing Gem,1000,2351.4,6,32,Aldor,Randon itins
 57.47,22003,Glowing Gem,1000,2351.4,6,1,Unlimites,cleaning bank
-57.2,22001,Furious Gem,1900,4439.08,9,3,stuffseller,cheap
+57.03,22001,Furious Gem,1900,4422.02,9,3,stuffseller,cheap
 56.2,26589,Potion of Bull,1099,2509.11,22,5,AltDude,cheap gems and stuff
-54.97,22001,Furious Gem,1999,4439.08,9,1,SamuSta,ROCK/REF/DC/ALL NORMAL GEM@CHEAP
-54.95,22001,Furious Gem,2000,4439.08,9,1,TuoTuo,Cleaning bank
+54.79,22001,Furious Gem,1999,4422.02,9,1,SamuSta,ROCK/REF/DC/ALL NORMAL GEM@CHEAP
+54.77,22001,Furious Gem,2000,4422.02,9,1,TuoTuo,Cleaning bank
 53.95,25506,Expert Scroll,1000,2171.73,4,99,Aldor,Randon itins
 53.95,25506,Expert Scroll,1000,2171.73,4,99,Aldor,Randon itins
 53.95,25506,Expert Scroll,1000,2171.73,4,99,Aldor,Randon itins
@@ -36,7 +37,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.95,25506,Expert Scroll,1000,2171.73,4,99,Aldor,Randon itins
 53.52,26564,Meditation Potion,100,215.15,3,62,Hiller,Sleep
 52.87,30171,Ticket to Demonic World,400,848.66,6,1,SCORPION21,ore/card/scroll/ticket/rose/vood
-51.58,28400,Earth Sealed Platemail of the Cursed Soul,9999,20649.9,7,1,tiendaonline,offer offer offer
-50.93,25177,Sharp Log,39,79.48,5,99,TagBaligya2,Manu/Cook/Craft Items
-50.93,25177,Sharp Log,39,79.48,5,89,TagBaligya2,Manu/Cook/Craft Items
+52.08,25177,Sharp Log,39,81.38,4,99,TagBaligya2,Manu/Cook/Craft Items
+52.08,25177,Sharp Log,39,81.38,4,89,TagBaligya2,Manu/Cook/Craft Items
 50.43,25439,Incantation Stone,600,1210.39,4,56,FreePalestine1,selll      0_0
+50.42,28400,Earth Sealed Platemail of the Cursed Soul,9999,20166.56,6,1,tiendaonline,offer offer offer
