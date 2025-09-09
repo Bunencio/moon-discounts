@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-91.33,30173,Ticket to Angler's Island,35,403.72,4,10,Shop1,darkblue
+91.34,30173,Ticket to Angler's Island,35,404.23,5,10,Shop1,darkblue
 91.12,25090,Limestone Crystal,40,450.45,7,83,sds,Willow/LimestoneCrystalHere
-90.09,30173,Ticket to Angler's Island,40,403.72,4,66,LiDL,ref / pots / tickets
+90.1,30173,Ticket to Angler's Island,40,404.23,5,66,LiDL,ref / pots / tickets
 80.59,25501,Brown Colorant,500,2576.54,3,1,cheapstuffsell,cheap
 79.89,25499,Purple Colorant,500,2486.58,3,3,cheapstuffsell,cheap
 79.6,22001,Furious Gem,900,4411.85,10,1,cryplz,SUPER 900 IS BACK
@@ -20,11 +20,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.62,28126,Cleric Cap,20000,48333.33,3,1,TopHead,CAPS LV40 WITH STATS CHEAP
 57.81,28432,Fire Sealed Staff of Mirage,4500,10666.5,4,1,bowstalls,lv40-50-60-65 gear 3pages
 57.81,28432,Fire Sealed Staff of Mirage,4500,10666.5,4,1,bowstalls,lv40-50-60-65 gear 3pages
+57.16,27021,Green Pirate Scroll,250,583.6,9,13,BjornIronside,LOOKME
 56.93,22001,Furious Gem,1900,4411.85,10,3,stuffseller,cheap
 56.2,26589,Potion of Bull,1099,2509.11,22,5,AltDude,cheap gems and stuff
 54.69,22001,Furious Gem,1999,4411.85,10,1,SamuSta,ROCK/REF/DC/ALL NORMAL GEM@CHEAP
 54.67,22001,Furious Gem,2000,4411.85,10,1,TuoTuo,Cleaning bank
-53.98,27021,Green Pirate Scroll,250,543.3,9,13,BjornIronside,LOOKME
 53.95,25506,Expert Scroll,1000,2171.73,4,99,Aldor,Randon itins
 53.95,25506,Expert Scroll,1000,2171.73,4,99,Aldor,Randon itins
 53.95,25506,Expert Scroll,1000,2171.73,4,99,Aldor,Randon itins
@@ -32,10 +32,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.95,25506,Expert Scroll,1000,2171.73,4,99,Aldor,Randon itins
 53.52,26564,Meditation Potion,100,215.15,3,62,Hiller,Sleep
 53.12,28432,Fire Sealed Staff of Mirage,5000,10666.5,4,1,CallMeBaby,Cheap
-52.87,30171,Ticket to Demonic World,400,848.69,5,1,SCORPION21,ore/card/scroll/ticket/rose/vood
+52.87,30171,Ticket to Demonic World,400,848.66,6,1,SCORPION21,ore/card/scroll/ticket/rose/vood
 52.0,28035,Solar Shield,10000,20832.33,4,1,TieneMandanga,Shield/Warrior potion/Salmon
 52.0,28035,Solar Shield,10000,20832.33,4,1,TieneMandanga,Shield/Warrior potion/Salmon
 50.93,25177,Sharp Log,39,79.48,5,99,TagBaligya2,Manu/Cook/Craft Items
 50.93,25177,Sharp Log,39,79.48,5,89,TagBaligya2,Manu/Cook/Craft Items
 50.43,25439,Incantation Stone,600,1210.39,4,56,FreePalestine1,selll      0_0
 50.42,28400,Earth Sealed Platemail of the Cursed Soul,9999,20166.56,6,1,tiendaonline,offer offer offer
+50.24,25375,Lightning Heart,90,180.86,3,75,Kakitop,SELL
