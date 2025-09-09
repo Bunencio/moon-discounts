@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-96.95,28037,Sanctuary Shield,5000,163750.0,3,1,LuBuz,imp / jackpot
 92.7,26590,Potion of Soul,199,2727.36,15,19,hunterx,repu/jp/bp/gems/pots/xp
 91.27,30173,Ticket to Angler's Island,35,401.06,6,10,Shop1,darkblue
 91.12,25090,Limestone Crystal,40,450.45,7,83,sds,Willow/LimestoneCrystalHere
@@ -45,7 +44,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.49,28126,Cleric Cap,20000,43000.0,3,1,TopHead,CAPS LV40 WITH STATS CHEAP
 52.92,22001,Furious Gem,2222,4720.02,13,1,Aveyron,<1
 52.92,22001,Furious Gem,2222,4720.02,13,2,NainBASTARD,Normal Gems
-52.88,30171,Ticket to Demonic World,400,848.81,6,1,SCORPION21,ore/card/scroll/ticket/rose/vood
 52.28,26589,Potion of Bull,1200,2514.73,23,2,fisherr,cheap
-51.49,25418,Clam Crown,3000,6184.7,3,14,SCORPION21,ore/card/scroll/ticket/rose/vood
 50.13,30173,Ticket to Angler's Island,200,401.06,6,3,EvilRian,lucky packets and more
