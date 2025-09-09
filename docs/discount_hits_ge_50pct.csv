@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.62,2301,,2000,23862.0,5,1,HunterKim,Boots
-90.91,30173,Ticket to Angler's Island,35,385.2,4,20,Shop1,darkblue
-89.62,30173,Ticket to Angler's Island,40,385.2,4,66,LiDL,ref / pots / tickets
+90.88,30173,Ticket to Angler's Island,35,383.78,4,20,Shop1,darkblue
+89.58,30173,Ticket to Angler's Island,40,383.78,4,66,LiDL,ref / pots / tickets
 89.28,26564,Meditation Potion,88,820.8,3,92,xColosusJr,itemssss
 88.7,28458,Ice Sealed Staff of the Sphinx,5000,44259.0,6,1,BabyGurl,chip
 83.91,30121,Vial of Accuracy Reset,999,6208.59,5,1,Cheap,50 sealed
