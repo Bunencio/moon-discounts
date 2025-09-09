@@ -2,8 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.62,2301,,2000,23862.0,5,1,HunterKim,Boots
 90.88,30173,Ticket to Angler's Island,35,383.78,4,20,Shop1,darkblue
 89.58,30173,Ticket to Angler's Island,40,383.78,4,66,LiDL,ref / pots / tickets
-89.28,26564,Meditation Potion,88,820.8,3,92,xColosusJr,itemssss
-88.7,28458,Ice Sealed Staff of the Sphinx,5000,44259.0,6,1,BabyGurl,chip
+89.2,26564,Meditation Potion,88,814.83,3,92,xColosusJr,itemssss
 83.91,30121,Vial of Accuracy Reset,999,6208.59,5,1,Cheap,50 sealed
 80.59,25501,Brown Colorant,500,2575.8,4,1,cheapstuffsell,cheap
 79.98,22001,Furious Gem,1000,4994.86,17,1,Unlimites,cleaning bank
@@ -11,7 +10,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.22,25478,Carsise Hairstyle Book,200,918.18,3,37,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 76.32,25506,Expert Scroll,500,2111.71,4,79,Hunter,cheapezt shit
 76.32,25506,Expert Scroll,500,2111.71,4,52,Hunter,cheapezt shit
-75.63,26564,Meditation Potion,200,820.8,3,62,Hiller,Pay2win Server
+75.46,26564,Meditation Potion,200,814.83,3,62,Hiller,Pay2win Server
 75.15,26588,Potion of Eagle,799,3215.75,16,1,Gappie,cheap
 74.95,26594,Novice Explosive Ball,100,399.26,6,4,EvilRian,lucky packets and more
 69.4,22003,Glowing Gem,899,2937.52,10,19,hunterx,repu/jp/bp/gems/pots/xp
@@ -34,7 +33,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.26,25522,,75,198.72,10,5,staller2,soul detector/grenade and more
 61.96,22001,Furious Gem,1900,4994.86,17,2,stuffseller,cheap
 60.25,25522,,79,198.72,10,4,TagBaligya2,Manu/Cook/Craft Items
-60.21,26589,Potion of Bull,999,2510.62,22,3,Starry,discount shop
+60.23,26589,Potion of Bull,999,2511.88,22,3,Starry,discount shop
 60.08,25400,Explosive Tentacle,100,250.52,4,99,Hunter,cheapezt shit
 60.0,25477,Lance Hairstyle Book,5000,12500.0,3,6,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 59.98,22001,Furious Gem,1999,4994.86,17,2,SamuSta,UG GEM SOUL/ROCK/REF/DC/ALL GEMS
@@ -59,6 +58,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.65,25506,Expert Scroll,1000,2111.71,4,89,Aldor,Randon itins
 52.65,25506,Expert Scroll,1000,2111.71,4,99,Aldor,Randon itins
 52.41,28403,Blade of Incantation,110000,231145.08,10,1,SrKTeRRor,ALMOST CHEAP ITENS
+52.03,28458,Ice Sealed Staff of the Sphinx,25000,52110.8,5,1,AmeliaG,BoI +3 - 45 ArmorUnsCrus - SM
 51.65,26556,Cooked Tilapia,150,310.27,6,200,BBVA,SALMON TILAPIA 150
 51.65,26556,Cooked Tilapia,150,310.27,6,163,BBVA,SALMON TILAPIA 150
 51.65,26556,Cooked Tilapia,150,310.27,6,200,BBVA,SALMON TILAPIA 150
