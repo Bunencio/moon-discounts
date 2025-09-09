@@ -2,7 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.62,2301,,2000,23862.0,5,1,HunterKim,Boots
 90.88,30173,Ticket to Angler's Island,35,383.78,4,20,Shop1,darkblue
 89.58,30173,Ticket to Angler's Island,40,383.78,4,66,LiDL,ref / pots / tickets
-88.62,26564,Meditation Potion,88,773.1,5,92,xColosusJr,itemssss
+88.72,26564,Meditation Potion,88,779.8,5,92,xColosusJr,itemssss
 83.91,30121,Vial of Accuracy Reset,999,6208.59,5,1,Cheap,50 sealed
 82.75,25440,Evanescence Stone,150,869.44,11,1,TRUJILLO,Sekkkk
 80.59,25501,Brown Colorant,500,2575.8,4,1,cheapstuffsell,cheap
@@ -13,7 +13,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.32,25506,Expert Scroll,500,2111.71,4,52,Hunter,cheapezt shit
 74.95,26594,Novice Explosive Ball,100,399.26,6,4,EvilRian,lucky packets and more
 74.93,26588,Potion of Eagle,799,3186.96,15,1,Gappie,cheap
-74.13,26564,Meditation Potion,200,773.1,5,62,Hiller,x
+74.35,26564,Meditation Potion,200,779.8,5,62,Hiller,x
 69.4,22003,Glowing Gem,899,2937.52,10,19,hunterx,repu/jp/bp/gems/pots/xp
 69.23,28444,Fire Sealed Bellow of Evanescence,5000,16249.75,4,1,Shagidi,STUPID SHIT
 69.08,28432,Fire Sealed Staff of Mirage,4500,14555.33,6,1,bowstalls,lv40-50-60-65 gear 3pages
@@ -34,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.26,25522,,75,198.72,10,5,staller2,soul detector/grenade and more
 62.22,28418,Earth Sealed Kiss of the Cursed,3500,9263.75,4,1,Fortis,All cheap
 62.11,22001,Furious Gem,1900,5014.2,17,2,stuffseller,cheap
-60.99,26589,Potion of Bull,999,2560.59,21,3,Starry,discount shop
+60.97,26589,Potion of Bull,999,2559.35,21,3,Starry,discount shop
 60.25,25522,,79,198.72,10,4,TagBaligya2,Manu/Cook/Craft Items
 60.13,22001,Furious Gem,1999,5014.2,17,2,SamuSta,UG GEM SOUL/ROCK/REF/DC/ALL GEMS
 60.11,22001,Furious Gem,2000,5014.2,17,5,Ivynor,All cheap
@@ -47,10 +47,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.3,25146,Dark Plum,30,71.94,3,52,VoyVoy,cheap from new player:)
 58.09,2301,,10000,23862.0,5,1,Yennefer,JADE STRENGCRYSTAL CLOUD SUN BOI
 57.96,28406,Earth Sealed Staff of Abraxas.,2500,5946.36,7,1,iLegolas,PPs Reput Jack CookinCard PBs
+57.3,26564,Meditation Potion,333,779.8,5,63,VendedoraJequiti,PPS / BPS / SM / FAIRY DUST /50+
 57.23,25522,,85,198.72,10,38,Kakitop,SELL
 57.15,28035,Solar Shield,19998,46665.78,8,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 57.15,28035,Solar Shield,19998,46665.78,8,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
-56.93,26564,Meditation Potion,333,773.1,5,63,VendedoraJequiti,PPS / BPS / SM / FAIRY DUST /50+
 54.11,25440,Evanescence Stone,399,869.44,11,2,AltDude,cheap gems and stuff
 53.99,25440,Evanescence Stone,400,869.44,11,4,CStal1,afk
 53.61,28430,Fire Sealed Robe of Malediction,5000,10777.78,5,1,BabyGurl,chip
@@ -64,21 +64,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.65,25506,Expert Scroll,1000,2111.71,4,99,Aldor,Randon itins
 52.65,25506,Expert Scroll,1000,2111.71,4,89,Aldor,Randon itins
 52.65,25506,Expert Scroll,1000,2111.71,4,99,Aldor,Randon itins
+52.19,26556,Cooked Tilapia,150,313.76,7,200,BBVA,SALMON TILAPIA 150
+52.19,26556,Cooked Tilapia,150,313.76,7,163,BBVA,SALMON TILAPIA 150
+52.19,26556,Cooked Tilapia,150,313.76,7,200,BBVA,SALMON TILAPIA 150
+52.19,26556,Cooked Tilapia,150,313.76,7,195,BBVA,SALMON TILAPIA 150
+52.19,26556,Cooked Tilapia,150,313.76,7,200,BBVA,SALMON TILAPIA 150
+52.19,26556,Cooked Tilapia,150,313.76,7,60,BBVA,SALMON TILAPIA 150
+52.19,26556,Cooked Tilapia,150,313.76,7,200,iSiku,AEGIS 66k || TILAPIA 150g
+52.19,26556,Cooked Tilapia,150,313.76,7,200,iSiku,AEGIS 66k || TILAPIA 150g
+52.19,26556,Cooked Tilapia,150,313.76,7,200,iSiku,AEGIS 66k || TILAPIA 150g
+52.19,26556,Cooked Tilapia,150,313.76,7,73,iSiku,AEGIS 66k || TILAPIA 150g
 52.17,29011,Novice 15 Woodcutting EXP Card,600,1254.55,4,3,Ivynor,All cheap
 52.03,28458,Ice Sealed Staff of the Sphinx,25000,52110.8,5,1,AmeliaG,BoI +3 - 45 ArmorUnsCrus - SM
 52.01,28403,Blade of Incantation,110000,229222.0,10,1,SrKTeRRor,ALMOST CHEAP ITENS
 52.0,28400,Earth Sealed Platemail of the Cursed Soul,9999,20833.0,9,1,Clerbear,S 45 sealed
 51.91,28432,Fire Sealed Staff of Mirage,6999,14555.33,6,1,iLegolas,PPs Reput Jack CookinCard PBs
-51.77,26556,Cooked Tilapia,150,311.0,6,200,BBVA,SALMON TILAPIA 150
-51.77,26556,Cooked Tilapia,150,311.0,6,163,BBVA,SALMON TILAPIA 150
-51.77,26556,Cooked Tilapia,150,311.0,6,200,BBVA,SALMON TILAPIA 150
-51.77,26556,Cooked Tilapia,150,311.0,6,195,BBVA,SALMON TILAPIA 150
-51.77,26556,Cooked Tilapia,150,311.0,6,200,BBVA,SALMON TILAPIA 150
-51.77,26556,Cooked Tilapia,150,311.0,6,60,BBVA,SALMON TILAPIA 150
-51.77,26556,Cooked Tilapia,150,311.0,6,200,iSiku,AEGIS 66k || TILAPIA 150g
-51.77,26556,Cooked Tilapia,150,311.0,6,200,iSiku,AEGIS 66k || TILAPIA 150g
-51.77,26556,Cooked Tilapia,150,311.0,6,200,iSiku,AEGIS 66k || TILAPIA 150g
-51.77,26556,Cooked Tilapia,150,311.0,6,73,iSiku,AEGIS 66k || TILAPIA 150g
 51.55,25503,Magical Stone,499,1029.99,13,2,SariSariStore1,SALE
 51.46,25503,Magical Stone,500,1029.99,13,28,xGoliath,+100 luck
 50.18,25522,,99,198.72,10,39,Uzi,PPS
