@@ -4,8 +4,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.91,30121,Vial of Accuracy Reset,999,6208.59,5,1,Cheap,50 sealed
 80.59,25501,Brown Colorant,500,2576.54,3,1,cheapstuffsell,cheap
 79.89,25499,Purple Colorant,500,2486.58,3,3,cheapstuffsell,cheap
-78.42,22001,Furious Gem,1000,4633.5,12,1,xDelfina,All cheap
-78.42,22001,Furious Gem,1000,4633.5,12,1,Unlimites,cleaning bank
+78.36,22001,Furious Gem,1000,4621.38,12,1,xDelfina,All cheap
+78.36,22001,Furious Gem,1000,4621.38,12,1,Unlimites,cleaning bank
 76.02,25506,Expert Scroll,500,2085.38,4,99,Hunter,cheapezt shit
 76.02,25506,Expert Scroll,500,2085.38,4,52,Hunter,cheapezt shit
 75.76,28442,Fire Sealed Coat of Evanescence,5000,20625.0,4,1,Cheap,50 sealed
@@ -31,17 +31,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.5,28035,Solar Shield,15000,39999.2,8,1,Obsidian,FC/DS RARE STATS SHIELD/SMGLOVE
 61.93,25522,,79,207.49,10,4,TagBaligya2,Manu/Cook/Craft Items
 61.44,25522,,80,207.49,10,48,cryplz,SUPER 900 IS BACK
-60.09,26589,Potion of Bull,1000,2505.76,23,1,Theick,ICE SEALED BLADE OF ENIGMA
-60.09,26589,Potion of Bull,1000,2505.76,23,1,Destinys,COMEFAST
 60.08,25400,Explosive Tentacle,100,250.52,4,99,Hunter,cheapezt shit
+60.0,26589,Potion of Bull,1000,2499.93,23,1,Theick,ICE SEALED BLADE OF ENIGMA
+60.0,26589,Potion of Bull,1000,2499.93,23,1,Destinys,COMEFAST
 60.0,28418,Earth Sealed Kiss of the Cursed,3500,8750.0,3,1,Fortis,All cheap
 60.0,28418,Earth Sealed Kiss of the Cursed,3500,8750.0,3,1,Fortis,All cheap
-58.99,22001,Furious Gem,1900,4633.5,12,3,stuffseller,cheap
+58.89,22001,Furious Gem,1900,4621.38,12,3,stuffseller,cheap
 57.51,25439,Incantation Stone,500,1176.69,8,7,Frank,GEMS EVR EVS INS
 57.14,28448,Fire Sealed Cloak of Evanescence,5000,11666.67,3,1,CallMeBaby,Cheap
-56.86,22001,Furious Gem,1999,4633.5,12,2,SamuSta,UG GEM SOUL/ROCK/REF/DC/ALL GEMS
-56.84,22001,Furious Gem,2000,4633.5,12,5,Ivynor,All cheap
-56.14,26589,Potion of Bull,1099,2505.76,23,5,AltDude,cheap gems and stuff
+56.74,22001,Furious Gem,1999,4621.38,12,2,SamuSta,UG GEM SOUL/ROCK/REF/DC/ALL GEMS
+56.72,22001,Furious Gem,2000,4621.38,12,5,Ivynor,All cheap
+56.04,26589,Potion of Bull,1099,2499.93,23,5,AltDude,cheap gems and stuff
 55.22,28430,Fire Sealed Robe of Malediction,5000,11166.67,4,1,Shagidi,STUPID SHIT
 54.66,28462,Ice Sealed Staff of Enigma,25000,55138.75,4,1,xVolTz,pakaras
 53.98,25440,Evanescence Stone,399,867.06,10,2,AltDude,cheap gems and stuff
@@ -51,15 +51,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.49,28126,Cleric Cap,20000,43000.0,3,1,TopHead,CAPS LV40 WITH STATS CHEAP
 52.83,25439,Incantation Stone,555,1176.69,8,9,NainBASTARD,Ug/Dems/Normals
 52.29,25522,,99,207.49,10,39,Uzi,pps
-52.11,26589,Potion of Bull,1200,2505.76,23,2,fisherr,cheap
 52.05,25506,Expert Scroll,1000,2085.38,4,99,Aldor,Randon itins
 52.05,25506,Expert Scroll,1000,2085.38,4,99,Aldor,Randon itins
 52.05,25506,Expert Scroll,1000,2085.38,4,99,Aldor,Randon itins
 52.05,25506,Expert Scroll,1000,2085.38,4,89,Aldor,Randon itins
 52.05,25506,Expert Scroll,1000,2085.38,4,99,Aldor,Randon itins
-52.04,22001,Furious Gem,2222,4633.5,12,2,NainBASTARD,Ug/Dems/Normals
-52.04,22001,Furious Gem,2222,4633.5,12,1,Aveyron,<1
 52.03,28458,Ice Sealed Staff of the Sphinx,25000,52110.8,5,1,AmeliaG,BoI +3 - 45 ArmorUnsCrus - SM
+52.0,26589,Potion of Bull,1200,2499.93,23,2,fisherr,cheap
+51.92,22001,Furious Gem,2222,4621.38,12,2,NainBASTARD,Ug/Dems/Normals
+51.92,22001,Furious Gem,2222,4621.38,12,1,Aveyron,<1
 50.69,28400,Earth Sealed Platemail of the Cursed Soul,9999,20277.56,6,1,Clerbear,S 45 sealed
 50.57,25503,Magical Stone,500,1011.61,8,67,Hibiki,Jade|BullSoul|Gems
 50.06,27021,Green Pirate Scroll,249,498.59,12,99,yeswedothat,.
