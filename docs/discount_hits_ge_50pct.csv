@@ -1,8 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-92.09,2301,,2000,25291.58,5,1,HunterKim,Boots
+91.66,2301,,2000,23968.69,5,1,HunterKim,Boots
 90.91,30173,Ticket to Angler's Island,35,385.2,4,20,Shop1,darkblue
 89.62,30173,Ticket to Angler's Island,40,385.2,4,66,LiDL,ref / pots / tickets
-89.34,26564,Meditation Potion,88,825.26,3,92,xColosusJr,itemssss
+89.3,26564,Meditation Potion,88,822.47,3,92,xColosusJr,itemssss
 88.7,28458,Ice Sealed Staff of the Sphinx,5000,44259.0,6,1,BabyGurl,chip
 83.91,30121,Vial of Accuracy Reset,999,6208.59,5,1,Cheap,50 sealed
 80.59,25501,Brown Colorant,500,2576.54,3,1,cheapstuffsell,cheap
@@ -11,7 +11,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.67,22001,Furious Gem,1000,4917.71,17,1,Unlimites,cleaning bank
 76.02,25506,Expert Scroll,500,2085.38,4,99,Hunter,cheapezt shit
 76.02,25506,Expert Scroll,500,2085.38,4,52,Hunter,cheapezt shit
-75.77,26564,Meditation Potion,200,825.26,3,62,Hiller,Pay2win Server
+75.68,26564,Meditation Potion,200,822.47,3,62,Hiller,Pay2win Server
 75.25,28442,Fire Sealed Coat of Evanescence,5000,20199.8,5,1,Cheap,50 sealed
 74.95,26594,Novice Explosive Ball,100,399.26,6,4,EvilRian,lucky packets and more
 69.41,22003,Glowing Gem,899,2938.77,9,19,hunterx,repu/jp/bp/gems/pots/xp
@@ -34,11 +34,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.53,25522,,79,210.84,10,4,TagBaligya2,Manu/Cook/Craft Items
 62.06,25522,,80,210.84,10,48,cryplz,SUPER 900 IS BACK
 61.36,22001,Furious Gem,1900,4917.71,17,3,stuffseller,cheap
-60.46,2301,,10000,25291.58,5,1,Yennefer,JADE STRENGCRYSTAL CLOUD SUN BOI
 60.08,25400,Explosive Tentacle,100,250.52,4,99,Hunter,cheapezt shit
 59.35,22001,Furious Gem,1999,4917.71,17,2,SamuSta,UG GEM SOUL/ROCK/REF/DC/ALL GEMS
 59.33,22001,Furious Gem,2000,4917.71,17,5,Ivynor,All cheap
 58.3,25146,Dark Plum,30,71.94,3,52,VoyVoy,cheap from new player:)
+58.28,2301,,10000,23968.69,5,1,Yennefer,JADE STRENGCRYSTAL CLOUD SUN BOI
 58.02,22000,FieryGem,2999,7144.16,12,3,dropfarm1,cheep pps drop
 57.44,28406,Earth Sealed Staff of Abraxas.,2500,5874.5,6,1,iLegolas,PPs Reput Jack CookinCard PBs
 56.88,25439,Incantation Stone,500,1159.49,8,7,Frank,GEMS EVR EVS INS
