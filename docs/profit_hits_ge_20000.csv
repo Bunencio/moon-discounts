@@ -104,8 +104,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-09,22012,Demonic Gem of Wind,NainBASTARD,Demonics/Ugs/Kal++ Cheapest,1555555,1874611.0,319056.0,2,638112.0,17.02,7
 2025-09-09,22013,Demonic Gem of Striking,NainBASTARD,Demonics/Ugs/Kal++ Cheapest,2222222,2676312.73,454090.73,2,908181.45,16.97,8
 2025-09-09,27020,Gold Pirate Scroll,Sakaki,GPS/PPS/PBS/BOOTS,21450,25760.32,4310.32,6,25861.93,16.73,26
-2025-09-09,27014,Moonroot Wine,fairyWinX,COOOOOOOK,900,1078.89,178.89,158,28264.29,16.58,6
-2025-09-09,27014,Moonroot Wine,fairyWinX,COOOOOOOK,900,1078.89,178.89,140,25044.31,16.58,6
+2025-09-09,27014,Moonroot Wine,fairyWinX,COOOOOOOK,900,1079.02,179.02,158,28284.42,16.59,6
+2025-09-09,27014,Moonroot Wine,fairyWinX,COOOOOOOK,900,1079.02,179.02,140,25062.14,16.59,6
 2025-09-09,26572,Inferno Potion,Maskerano,123,12000,14355.73,2355.73,28,65960.37,16.41,4
 2025-09-09,26558,Cooked Salmon,Bodeguita,ironbrew 9.8k/radi 4k/samon 1k,1000,1190.7,190.7,200,38139.44,16.02,4
 2025-09-09,30022,Buffing Card,Aois,STALL,70000,83124.42,13124.42,5,65622.08,15.79,4
@@ -162,7 +162,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-09,30156,Jackpot Coin,SeventhHeaven,Coins/Frags/Lantern etc,10000,10882.0,882.0,49,43218.03,8.11,24
 2025-09-09,30156,Jackpot Coin,xJavux,cheap,9999,10882.0,883.0,46,40618.03,8.11,24
 2025-09-09,30156,Jackpot Coin,selleeeer1,GOLD  GOLD   GOLD  GOLD,9999,10882.0,883.0,24,21192.02,8.11,24
-2025-09-09,22011,Gemof Sout,Pots,Gem of Wind-Rage-Soul,1150000,1250000.0,100000.0,1,100000.0,8.0,3
 2025-09-09,22010,Gem of Rage,Letty,rage/rocks/growth,2500000,2713636.18,213636.18,3,640908.55,7.87,5
 2025-09-09,22010,Gem of Rage,Pots,Gem of Wind-Rage-Soul,2500000,2713636.18,213636.18,1,213636.18,7.87,5
 2025-09-09,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/PPS/GPS/REF/ROCK GE,5999,6510.4,511.4,98,50116.81,7.86,25
@@ -190,8 +189,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-09,27019,Purple Pirate Scroll,SashaBraus,PPS SS,6099,6510.4,411.4,60,24683.76,6.32,25
 2025-09-09,27019,Purple Pirate Scroll,Sakaki,GPS/PPS/PBS/BOOTS,6100,6510.4,410.4,87,35704.45,6.3,25
 2025-09-09,27019,Purple Pirate Scroll,Electricman1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,6100,6510.4,410.4,51,20930.19,6.3,25
+2025-09-09,25031,Refining Gem,LiDL,ref / pots / tickets,15000,15954.95,954.95,60,57296.81,5.99,9
 2025-09-09,25426,Universe Purse Fragment.,sellerforfree,cheap,390000,414666.53,24666.53,1,24666.53,5.95,7
-2025-09-09,25031,Refining Gem,LiDL,ref / pots / tickets,15000,15923.32,923.32,60,55398.97,5.8,9
 2025-09-09,30139,100x Crystal,Allblack,imps 78k cleric cap buff card,78000,82783.04,4783.04,92,440039.31,5.78,9
 2025-09-09,30139,100x Crystal,Rambo,Cheap Shit,78000,82783.04,4783.04,19,90877.68,5.78,9
 2025-09-09,22008,Gem of the Wind,VERTIGO,CHEAP WIND FAST,1250000,1325000.0,75000.0,2,150000.0,5.66,3
@@ -206,9 +205,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-09,26578,Aegis Brew,iSiku,AEGIS 66k || TILAPIA 150g,66666,69675.6,3009.6,8,24076.83,4.32,5
 2025-09-09,22010,Gem of Rage,Stol3,Cheap,2599999,2713636.18,113637.18,2,227274.36,4.19,5
 2025-09-09,22010,Gem of Rage,Kaka5,UG RAGE 2.6M/DEM COLO 2.6M/KAL,2600000,2713636.18,113636.18,1,113636.18,4.19,5
-2025-09-09,22011,Gemof Sout,GemSeller,ug,1200000,1250000.0,50000.0,1,50000.0,4.0,3
+2025-09-09,25031,Refining Gem,Voodo,REF,15300,15954.95,654.95,99,64839.73,4.1,9
 2025-09-09,22012,Demonic Gem of Wind,Aois,STALL,1800000,1874611.0,74611.0,1,74611.0,3.98,7
-2025-09-09,25031,Refining Gem,Voodo,REF,15300,15923.32,623.32,99,61708.3,3.91,9
 2025-09-09,22007,Gem of Striking,AltDude,cheap gems and stuff,1699999,1768618.86,68619.86,1,68619.86,3.88,6
 2025-09-09,26578,Aegis Brew,MrMarket,MANU HL POTS SUPPORT POINTS,67000,69675.6,2675.6,32,85619.33,3.84,5
 2025-09-09,26346,Lantern,SellAndBuy,Ref / Lantern / SM / Staff App,7000,7255.63,255.63,193,49336.86,3.52,6
