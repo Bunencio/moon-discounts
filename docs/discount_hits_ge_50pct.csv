@@ -4,6 +4,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.8,2301,,2000,21735.24,6,1,HunterKim,Boots
 86.85,26564,Meditation Potion,88,669.18,7,92,xColosusJr,itemssss
 85.06,26564,Meditation Potion,100,669.18,7,49,AtiradorAzul,garner
+83.66,26592,Flash Bomb,200,1224.25,22,2,Otenciano,RUSH
 82.01,26566,Ether Potion,99,550.4,3,12,T0NI,BUY HERE! WITH MR  CHEAPS
 80.61,22003,Glowing Gem,1000,5157.51,10,1,jackkahuna,CHEAP ALL
 80.61,22003,Glowing Gem,1000,5157.51,10,8,Frank,GEMS EVR EVS INS
@@ -35,17 +36,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.1,22001,Furious Gem,1900,4883.77,15,2,stuffseller,cheap
 61.04,25176,Sweet Poison,29,74.44,3,44,DiscipleTwo,CHEAPEST IMPS|MS NECK|PPS|PF|MC
 61.04,25176,Sweet Poison,29,74.44,3,83,Shop4V,ELVEN/GBS/SUNSHINE/MISC
+60.45,25258,Spirit Feather,500,1264.27,6,7,LunaMaya,S>PPS PBS GPS RBS +5SPRShoes
 60.4,28035,Solar Shield,19998,50499.2,9,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 60.4,28035,Solar Shield,19998,50499.2,9,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 60.38,28418,Earth Sealed Kiss of the Cursed,3500,8833.33,3,1,Fortis,All cheap
-60.15,25258,Spirit Feather,500,1254.64,7,7,LunaMaya,S>PPS PBS GPS RBS +5SPRShoes
 59.7,25176,Sweet Poison,30,74.44,3,68,BLaCKMooN,Free     Free     Free     Free
 59.7,25176,Sweet Poison,30,74.44,3,81,BLaCKMooN,Free     Free     Free     Free
 59.65,25522,,70,173.5,10,12,CStal1,afk
 59.46,28432,Fire Sealed Staff of Mirage,5000,12333.17,4,1,CallMeBaby,Cheap
 59.09,28212,Priestly Robe,15000,36666.33,3,1,ZafirRose,pps gps coin
-57.8,27000,Prosperous Packet,99,234.59,10,99,Uzi,pps
-57.37,27000,Prosperous Packet,100,234.59,10,5,AltDude,cheap stuff
+58.11,27000,Prosperous Packet,100,238.7,9,5,AltDude,cheap stuff
 57.23,28458,Ice Sealed Staff of the Sphinx,19999,46758.83,6,1,Stol2,Cheap
 54.84,30145,Fire Seed,10000,22142.71,4,4,AtiradorAzul,garner
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,BabyGurl,H E L L O
@@ -55,15 +55,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.47,25522,,79,173.5,10,4,TagBaligya2,Manu/Cook/Craft Items
 53.99,2301,,10000,21735.24,6,1,burnik,buy mee
 53.89,25522,,80,173.5,10,33,cryplz,SUPER 900 IS BACK
-53.05,26588,Potion of Eagle,1500,3195.15,16,1,MUSACHI,Power
-53.05,26588,Potion of Eagle,1500,3195.15,16,1,ch4n,pps
+53.42,26588,Potion of Eagle,1500,3220.06,16,1,MUSACHI,Power
+53.42,26588,Potion of Eagle,1500,3220.06,16,1,ch4n,pps
 52.82,25439,Incantation Stone,700,1483.68,4,1,Hiya,SO MANY CHEAP NICE ITENS
 52.77,28456,Ice Sealed Robe of the Sphinx,15000,31758.83,5,1,TuoTuo,Random Items RESTOCKED
 52.15,28126,Cleric Cap,20000,41800.0,3,1,TopHead,CAPS LV40 WITH STATS CHEAP
 51.78,25178,Small Branch,120,248.87,3,64,Thunderwitch,CHEAPEST FB/SMALL BRANCH
 51.53,22003,Glowing Gem,2500,5157.51,10,2,TuoTuo,Random Items RESTOCKED
 51.53,22003,Glowing Gem,2500,5157.51,10,1,Pyriael,GEM/XP CARDS CHEAP
-50.98,26592,Flash Bomb,600,1223.96,21,2,Tharvox,GEAR
+50.99,26592,Flash Bomb,600,1224.25,22,2,Tharvox,GEAR
 50.49,28035,Solar Shield,25000,50499.2,9,1,Exalted,shield
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
