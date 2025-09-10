@@ -26,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.82,22003,Glowing Gem,1500,5141.03,9,2,Hibiki,Jadefrag|Gems|pots
 70.82,22003,Glowing Gem,1500,5141.03,9,28,Fortis,All cheap
 70.82,22003,Glowing Gem,1500,5141.03,9,37,Look7,gem
-68.76,26588,Potion of Eagle,1000,3200.67,15,9,Teach,REPU/ CRUZ ITEMS/ POTIONS/FB
+68.45,26588,Potion of Eagle,1000,3169.82,16,9,Teach,REPU/ CRUZ ITEMS/ POTIONS/FB
 66.3,25439,Incantation Stone,500,1483.68,4,6,Frank,GEMS EVR EVS INS
 64.29,28440,Fire Sealed Roar of Evanescence,5000,13999.8,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 63.76,28406,Earth Sealed Staff of Abraxas.,2500,6898.75,5,1,iLegolas,PPs Reput Jack CookinCard PBs
@@ -42,7 +42,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.09,28212,Priestly Robe,15000,36666.33,3,1,ZafirRose,pps gps coin
 58.68,22001,Furious Gem,2000,4840.25,17,5,Ivynor,All cheap
 57.88,25522,,70,166.21,10,12,CStal1,afk
-57.65,27000,Prosperous Packet,100,236.11,10,5,AltDude,cheap stuff
+57.64,27000,Prosperous Packet,100,236.09,10,5,AltDude,cheap stuff
 57.23,28458,Ice Sealed Staff of the Sphinx,19999,46758.83,6,1,Stol2,Cheap
 56.79,28432,Fire Sealed Staff of Mirage,5000,11571.14,5,1,CallMeBaby,Cheap
 56.51,28406,Earth Sealed Staff of Abraxas.,3000,6898.75,5,1,LazzzyBee,JUST BUY.... DON'T RESIST!
@@ -52,11 +52,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
 54.19,2301,,10000,21828.51,6,1,burnik,buy mee
-53.13,26588,Potion of Eagle,1500,3200.67,15,1,MUSACHI,Power
-53.13,26588,Potion of Eagle,1500,3200.67,15,1,ch4n,pps
 52.94,26562,Cake,170,361.27,3,21,BLaCKMooN,Free     Free     Free     Free
 52.82,25439,Incantation Stone,700,1483.68,4,1,Hiya,SO MANY CHEAP NICE ITENS
 52.77,28456,Ice Sealed Robe of the Sphinx,15000,31758.83,5,1,TuoTuo,Random Items RESTOCKED
+52.68,26588,Potion of Eagle,1500,3169.82,16,1,MUSACHI,Power
+52.68,26588,Potion of Eagle,1500,3169.82,16,1,ch4n,pps
 52.47,25522,,79,166.21,10,4,TagBaligya2,Manu/Cook/Craft Items
 52.15,28126,Cleric Cap,20000,41800.0,3,1,TopHead,CAPS LV40 WITH STATS CHEAP
 52.04,28326,Divine Grace Cap,25000,52128.83,4,1,conqstall2,Kal shining rune ug wind
