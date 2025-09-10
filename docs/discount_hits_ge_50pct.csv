@@ -14,8 +14,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.2,28035,Solar Shield,10000,50499.2,9,1,Obsidian,purseFrag/SealedBoE|fc/ds eqp
 79.34,22001,Furious Gem,1000,4840.25,17,1,Unlimites,cleaning bank
 78.22,25478,Carsise Hairstyle Book,200,918.18,3,37,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-75.97,26594,Novice Explosive Ball,100,416.21,8,2,EvilRian,FB-LUCKY PAX-REF-SCROLL   MORE
 75.13,25506,Expert Scroll,500,2010.78,6,79,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
+74.98,26594,Novice Explosive Ball,100,399.65,8,2,EvilRian,FB-LUCKY PAX-REF-SCROLL   MORE
 73.33,28442,Fire Sealed Coat of Evanescence,5000,18750.0,4,1,Cheap,50 sealed
 72.73,28212,Priestly Robe,10000,36666.33,3,1,loyalty1,selling
 72.65,25506,Expert Scroll,550,2010.78,6,52,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
@@ -26,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.82,22003,Glowing Gem,1500,5141.03,9,2,Hibiki,Jadefrag|Gems|pots
 70.82,22003,Glowing Gem,1500,5141.03,9,28,Fortis,All cheap
 70.82,22003,Glowing Gem,1500,5141.03,9,37,Look7,gem
-68.45,26588,Potion of Eagle,1000,3169.82,16,9,Teach,REPU/ CRUZ ITEMS/ POTIONS/FB
+68.76,26588,Potion of Eagle,1000,3200.67,15,9,Teach,REPU/ CRUZ ITEMS/ POTIONS/FB
 66.3,25439,Incantation Stone,500,1483.68,4,6,Frank,GEMS EVR EVS INS
 64.29,28440,Fire Sealed Roar of Evanescence,5000,13999.8,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 63.76,28406,Earth Sealed Staff of Abraxas.,2500,6898.75,5,1,iLegolas,PPs Reput Jack CookinCard PBs
@@ -41,7 +41,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.15,25258,Spirit Feather,500,1254.64,7,7,LunaMaya,S>PPS PBS GPS RBS +5SPRShoes
 59.09,28212,Priestly Robe,15000,36666.33,3,1,ZafirRose,pps gps coin
 58.68,22001,Furious Gem,2000,4840.25,17,5,Ivynor,All cheap
-57.71,25522,,70,165.54,10,12,CStal1,afk
+57.88,25522,,70,166.21,10,12,CStal1,afk
 57.65,27000,Prosperous Packet,100,236.11,10,5,AltDude,cheap stuff
 57.23,28458,Ice Sealed Staff of the Sphinx,19999,46758.83,6,1,Stol2,Cheap
 57.14,29011,Novice 15 Woodcutting EXP Card,600,1400.0,4,3,Ivynor,All cheap
@@ -50,21 +50,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.66,29007,Novice 15 Manufacturing EXP Card,500,1153.57,5,10,LazzzyBee,JUST BUY.... DON'T RESIST!
 56.51,28406,Earth Sealed Staff of Abraxas.,3000,6898.75,5,1,LazzzyBee,JUST BUY.... DON'T RESIST!
 55.97,26564,Meditation Potion,333,756.39,6,63,VendedoraJequiti,PPS / BPS / SM / FAIRY DUST /50+
-54.69,25522,,75,165.54,10,5,staller2,soul detector/grenade and more
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,BabyGurl,H E L L O
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Shagidi,STUPID SHIT
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
 54.19,2301,,10000,21828.51,6,1,burnik,buy mee
+53.13,26588,Potion of Eagle,1500,3200.67,15,1,MUSACHI,Power
+53.13,26588,Potion of Eagle,1500,3200.67,15,1,ch4n,pps
 52.94,26562,Cake,170,361.27,3,21,BLaCKMooN,Free     Free     Free     Free
 52.82,25439,Incantation Stone,700,1483.68,4,1,Hiya,SO MANY CHEAP NICE ITENS
 52.77,28456,Ice Sealed Robe of the Sphinx,15000,31758.83,5,1,TuoTuo,Random Items RESTOCKED
-52.68,26588,Potion of Eagle,1500,3169.82,16,1,MUSACHI,Power
-52.68,26588,Potion of Eagle,1500,3169.82,16,1,ch4n,pps
-52.28,25522,,79,165.54,10,4,TagBaligya2,Manu/Cook/Craft Items
+52.47,25522,,79,166.21,10,4,TagBaligya2,Manu/Cook/Craft Items
 52.15,28126,Cleric Cap,20000,41800.0,3,1,TopHead,CAPS LV40 WITH STATS CHEAP
 52.04,28326,Divine Grace Cap,25000,52128.83,4,1,conqstall2,Kal shining rune ug wind
-51.67,25522,,80,165.54,10,33,cryplz,SUPER 900 IS BACK
+51.87,25522,,80,166.21,10,33,cryplz,SUPER 900 IS BACK
+51.78,25178,Small Branch,120,248.87,3,64,Thunderwitch,CHEAPEST FB/SMALL BRANCH
 51.56,26562,Cake,175,361.27,3,200,buy001,Cakes
 51.56,26562,Cake,175,361.27,3,100,buy001,Cakes
 51.56,26562,Cake,175,361.27,3,173,buy001,Cakes
