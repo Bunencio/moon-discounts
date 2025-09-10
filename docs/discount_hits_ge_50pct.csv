@@ -2,9 +2,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 95.23,30173,Ticket to Angler's Island,20,419.41,5,66,LiDL,ref / ticket / packet / green bp
 91.66,30173,Ticket to Angler's Island,35,419.41,5,20,Shop1,darkblue
 90.8,2301,,2000,21735.24,6,1,HunterKim,Boots
-86.85,26564,Meditation Potion,88,669.18,7,92,xColosusJr,itemssss
-85.06,26564,Meditation Potion,100,669.18,7,49,AtiradorAzul,garner
-83.67,26592,Flash Bomb,200,1225.1,22,2,Otenciano,RUSH
+86.79,26564,Meditation Potion,88,666.31,7,92,xColosusJr,itemssss
+84.99,26564,Meditation Potion,100,666.31,7,49,AtiradorAzul,garner
+83.69,26592,Flash Bomb,200,1225.87,21,2,Otenciano,RUSH
 82.01,26566,Ether Potion,99,550.4,3,12,T0NI,BUY HERE! WITH MR  CHEAPS
 80.61,22003,Glowing Gem,1000,5157.51,10,1,jackkahuna,CHEAP ALL
 80.61,22003,Glowing Gem,1000,5157.51,10,8,Frank,GEMS EVR EVS INS
@@ -42,19 +42,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.86,25176,Sweet Poison,30,74.74,3,65,BLaCKMooN,Free     Free     Free     Free
 59.86,25176,Sweet Poison,30,74.74,3,81,BLaCKMooN,Free     Free     Free     Free
 59.8,25258,Spirit Feather,500,1243.79,7,7,LunaMaya,S>PPS PBS GPS RBS +5SPRShoes
-59.65,25522,,70,173.5,10,12,CStal1,afk
 59.46,28432,Fire Sealed Staff of Mirage,5000,12333.17,4,1,CallMeBaby,Cheap
 59.09,28212,Priestly Robe,15000,36666.33,3,1,ZafirRose,pps gps coin
 58.11,27000,Prosperous Packet,100,238.7,9,5,AltDude,cheap stuff
 57.23,28458,Ice Sealed Staff of the Sphinx,19999,46758.83,6,1,Stol2,Cheap
+55.02,25522,,70,155.61,8,12,CStal1,afk
 54.84,30145,Fire Seed,10000,22142.71,4,4,AtiradorAzul,garner
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,BabyGurl,H E L L O
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Shagidi,STUPID SHIT
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
-54.47,25522,,79,173.5,10,4,TagBaligya2,Manu/Cook/Craft Items
 53.99,2301,,10000,21735.24,6,1,burnik,buy mee
-53.89,25522,,80,173.5,10,33,cryplz,SUPER 900 IS BACK
 52.82,25439,Incantation Stone,700,1483.68,4,1,Hiya,SO MANY CHEAP NICE ITENS
 52.77,28456,Ice Sealed Robe of the Sphinx,15000,31758.83,5,1,TuoTuo,Random Items RESTOCKED
 52.72,26588,Potion of Eagle,1500,3172.56,16,1,MUSACHI,Power
@@ -63,12 +61,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.78,25178,Small Branch,120,248.87,3,64,Thunderwitch,CHEAPEST FB/SMALL BRANCH
 51.53,22003,Glowing Gem,2500,5157.51,10,2,TuoTuo,Random Items RESTOCKED
 51.53,22003,Glowing Gem,2500,5157.51,10,1,Pyriael,GEM/XP CARDS CHEAP
-51.02,26592,Flash Bomb,600,1225.1,22,2,Tharvox,GEAR
+51.06,26592,Flash Bomb,600,1225.87,21,2,Tharvox,GEAR
 50.49,28035,Solar Shield,25000,50499.2,9,1,Exalted,shield
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
 50.27,25506,Expert Scroll,1000,2010.78,6,89,Aldor,Randon itins
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
-50.24,26564,Meditation Potion,333,669.18,7,63,VendedoraJequiti,PPS / BPS / SM / FAIRY DUST /50+
 50.16,28406,Earth Sealed Staff of Abraxas.,4690,9409.89,6,1,Clerbear,S 45 sealed
+50.02,26564,Meditation Potion,333,666.31,7,63,VendedoraJequiti,PPS / BPS / SM / FAIRY DUST /50+
