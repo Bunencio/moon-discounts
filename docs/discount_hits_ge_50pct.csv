@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 94.68,30173,Ticket to Angler's Island,20,375.64,4,66,LiDL,ref / ticket / packet / green bp
-90.7,2301,,2000,21499.94,6,1,HunterKim,Boots
+90.84,2301,,2000,21828.51,6,1,HunterKim,Boots
 90.68,30173,Ticket to Angler's Island,35,375.64,4,20,Shop1,darkblue
 83.91,30121,Vial of Accuracy Reset,999,6208.59,5,1,Cheap,50 sealed
 82.01,26566,Ether Potion,99,550.4,3,12,T0NI,BUY HERE! WITH MR  CHEAPS
@@ -8,13 +8,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.2,28035,Solar Shield,10000,50499.2,9,1,Obsidian,purseFrag/SealedBoE|fc/ds eqp
 79.13,22001,Furious Gem,1000,4791.96,16,1,Unlimites,cleaning bank
 78.22,25478,Carsise Hairstyle Book,200,918.18,3,37,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
+75.74,26594,Novice Explosive Ball,100,412.22,7,2,EvilRian,FB-LUCKY PAX-REF-SCROLL   MORE
 75.13,25506,Expert Scroll,500,2010.78,6,79,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
 72.73,28212,Priestly Robe,10000,36666.33,3,1,loyalty1,selling
 72.65,25506,Expert Scroll,550,2010.78,6,52,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
 67.79,30121,Vial of Accuracy Reset,2000,6208.59,5,2,DoaaPepa,D O N    P E P E
-67.57,28432,Fire Sealed Staff of Mirage,4500,13874.75,6,1,bowstalls,lv40-50-60-65 gear 3pages
-67.57,28432,Fire Sealed Staff of Mirage,4500,13874.75,6,1,bowstalls,lv40-50-60-65 gear 3pages
-66.1,26345,Elven Potion,3000,8849.33,6,1,TRUJILLO,Sekkkk
+66.1,26345,Elven Potion,3000,8849.31,6,1,TRUJILLO,Sekkkk
 65.78,22003,Glowing Gem,999,2919.28,9,19,hunterx,repu/BP/JP/gems/eva/pots/xp
 65.75,22003,Glowing Gem,1000,2919.28,9,1,jackkahuna,CHEAP ALL
 65.75,22003,Glowing Gem,1000,2919.28,9,8,Frank,GEMS EVR EVS INS
@@ -24,10 +23,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.61,25440,Evanescence Stone,300,872.22,10,1,Customer,Top Secret
 65.61,25440,Evanescence Stone,300,872.22,10,47,Frank,GEMS EVR EVS INS
 65.61,25440,Evanescence Stone,300,872.22,10,3,LazzzyBee,JUST BUY.... DON'T RESIST!
-63.96,28432,Fire Sealed Staff of Mirage,5000,13874.75,6,1,CallMeBaby,Cheap
 62.96,28406,Earth Sealed Staff of Abraxas.,2500,6749.44,6,1,iLegolas,PPs Reput Jack CookinCard PBs
 62.5,28442,Fire Sealed Coat of Evanescence,5000,13333.33,3,1,Cheap,50 sealed
 62.22,28418,Earth Sealed Kiss of the Cursed,3500,9263.75,4,1,Fortis,All cheap
+61.11,28432,Fire Sealed Staff of Mirage,4500,11571.14,5,1,bowstalls,lv40-50-60-65 gear 3pages
+61.11,28432,Fire Sealed Staff of Mirage,4500,11571.14,5,1,bowstalls,lv40-50-60-65 gear 3pages
 60.4,28035,Solar Shield,19998,50499.2,9,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 60.4,28035,Solar Shield,19998,50499.2,9,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 60.37,22001,Furious Gem,1899,4791.96,16,20,hunterx,repu/BP/JP/gems/eva/pots/xp
@@ -37,28 +37,24 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.28,22001,Furious Gem,1999,4791.96,16,2,SamuSta,UG GEM SOUL/ROCK/REF/DC/ALL GEMS
 58.26,22001,Furious Gem,2000,4791.96,16,5,Ivynor,All cheap
 57.76,26564,Meditation Potion,88,208.33,5,92,xColosusJr,itemssss
-57.69,27000,Prosperous Packet,100,236.33,9,5,AltDude,cheap stuff
 57.66,25522,,70,165.34,9,12,CStal1,afk
+57.65,27000,Prosperous Packet,100,236.11,10,5,AltDude,cheap stuff
 57.14,29011,Novice 15 Woodcutting EXP Card,600,1400.0,4,3,Ivynor,All cheap
+56.79,28432,Fire Sealed Staff of Mirage,5000,11571.14,5,1,CallMeBaby,Cheap
 56.66,29007,Novice 15 Manufacturing EXP Card,500,1153.57,5,3,jackkahuna,CHEAP ALL
 56.66,29007,Novice 15 Manufacturing EXP Card,500,1153.57,5,10,LazzzyBee,JUST BUY.... DON'T RESIST!
-56.02,30145,Fire Seed,7000,15916.58,4,3,EvilRian,lucky packets and more
-55.84,25439,Incantation Stone,500,1132.29,7,6,Frank,GEMS EVR EVS INS
-55.75,26556,Cooked Tilapia,100,225.97,9,200,iSiku,AEGIS BREW CHEAP || COOKED TILAP
-55.75,26556,Cooked Tilapia,100,225.97,9,200,iSiku,AEGIS BREW CHEAP || COOKED TILAP
-55.75,26556,Cooked Tilapia,100,225.97,9,200,iSiku,AEGIS BREW CHEAP || COOKED TILAP
+56.02,26556,Cooked Tilapia,100,227.38,9,200,iSiku,AEGIS BREW CHEAP || COOKED TILAP
+56.02,26556,Cooked Tilapia,100,227.38,9,200,iSiku,AEGIS BREW CHEAP || COOKED TILAP
+56.02,26556,Cooked Tilapia,100,227.38,9,200,iSiku,AEGIS BREW CHEAP || COOKED TILAP
 55.55,28406,Earth Sealed Staff of Abraxas.,3000,6749.44,6,1,LazzzyBee,JUST BUY.... DON'T RESIST!
+55.24,25439,Incantation Stone,500,1117.17,6,6,Frank,GEMS EVR EVS INS
 55.18,22004,Shining Gem,3000,6693.46,12,1,ch4n,pps
 54.64,25522,,75,165.34,9,5,staller2,soul detector/grenade and more
 54.25,25440,Evanescence Stone,399,872.22,10,2,AltDude,cheap stuff
+54.19,2301,,10000,21828.51,6,1,burnik,buy mee
 54.14,25440,Evanescence Stone,400,872.22,10,4,CStal1,afk
-53.49,2301,,10000,21499.94,6,1,burnik,buy mee
-53.49,2301,,10000,21499.94,6,1,Yennefer,JADE STRENGCRYSTAL CLOUD SUN BOI
-52.95,26588,Potion of Eagle,1500,3188.4,15,1,MUSACHI,Power
-52.95,26588,Potion of Eagle,1500,3188.4,15,1,ch4n,pps
 52.94,26562,Cake,170,361.27,3,21,BLaCKMooN,Free     Free     Free     Free
 52.77,28456,Ice Sealed Robe of the Sphinx,15000,31758.83,5,1,TuoTuo,Random Items RESTOCKED
-52.67,26591,Potion of Lion,1500,3169.43,13,2,ch4n,pps
 52.63,28430,Fire Sealed Robe of Malediction,5000,10555.56,4,1,BabyGurl,H E L L O
 52.63,28430,Fire Sealed Robe of Malediction,5000,10555.56,4,1,Shagidi,STUPID SHIT
 52.63,28430,Fire Sealed Robe of Malediction,5000,10555.56,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
@@ -68,17 +64,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.0,26564,Meditation Potion,100,208.33,5,49,AtiradorAzul,garner
 51.86,28462,Ice Sealed Staff of Enigma,25000,51936.43,7,1,xVolTz,pakaras
 51.62,25522,,80,165.34,9,33,cryplz,SUPER 900 IS BACK
+51.59,26588,Potion of Eagle,1500,3098.84,14,1,MUSACHI,Power
+51.59,26588,Potion of Eagle,1500,3098.84,14,1,ch4n,pps
+51.59,26588,Potion of Eagle,1500,3098.84,14,11,Teach,POTION/ REPU/ FB/ CRUZ ITEMS CHE
 51.56,26562,Cake,175,361.27,3,200,buy001,Cakes
 51.56,26562,Cake,175,361.27,3,100,buy001,Cakes
 51.56,26562,Cake,175,361.27,3,173,buy001,Cakes
 51.56,26562,Cake,175,361.27,3,100,Shop1,darkblue
 51.52,29008,Novice 15 Crafting EXP Card,500,1031.34,5,7,jackkahuna,CHEAP ALL
 51.52,29008,Novice 15 Crafting EXP Card,500,1031.34,5,18,LazzzyBee,JUST BUY.... DON'T RESIST!
-51.09,26590,Potion of Soul,1500,3066.73,10,2,T0NI,BUY HERE! WITH MR  CHEAPS
 50.89,25088,Iron Crystal,100,203.61,3,99,HOPE,S>>>lime crystal/red/iron crysta
 50.89,25088,Iron Crystal,100,203.61,3,27,HOPE,S>>>lime crystal/red/iron crysta
 50.89,25088,Iron Crystal,100,203.61,3,99,HOPE,S>>>lime crystal/red/iron crysta
 50.89,25088,Iron Crystal,100,203.61,3,99,HOPE,S>>>lime crystal/red/iron crysta
+50.62,26591,Potion of Lion,1500,3037.37,12,2,ch4n,pps
+50.62,26591,Potion of Lion,1500,3037.37,12,7,Teach,POTION/ REPU/ FB/ CRUZ ITEMS CHE
 50.49,28035,Solar Shield,25000,50499.2,9,1,Exalted,shield
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
