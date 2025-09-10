@@ -6,13 +6,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 86.78,26564,Meditation Potion,100,756.39,6,49,AtiradorAzul,garner
 82.01,26566,Ether Potion,99,550.4,3,12,T0NI,BUY HERE! WITH MR  CHEAPS
 80.59,25501,Brown Colorant,500,2575.8,4,1,cheapstuffsell,cheap
-80.53,22003,Glowing Gem,1000,5135.08,10,1,jackkahuna,CHEAP ALL
-80.53,22003,Glowing Gem,1000,5135.08,10,8,Frank,GEMS EVR EVS INS
-80.53,22003,Glowing Gem,1000,5135.08,10,24,Qwe,gems and potion!!
-80.53,22003,Glowing Gem,1000,5135.08,10,32,Aldor,Randon itins
-80.53,22003,Glowing Gem,1000,5135.08,10,1,Unlimites,cleaning bank
+80.55,22003,Glowing Gem,1000,5141.03,9,1,jackkahuna,CHEAP ALL
+80.55,22003,Glowing Gem,1000,5141.03,9,8,Frank,GEMS EVR EVS INS
+80.55,22003,Glowing Gem,1000,5141.03,9,24,Qwe,gems and potion!!
+80.55,22003,Glowing Gem,1000,5141.03,9,32,Aldor,Randon itins
+80.55,22003,Glowing Gem,1000,5141.03,9,1,Unlimites,cleaning bank
 80.2,28035,Solar Shield,10000,50499.2,9,1,Obsidian,purseFrag/SealedBoE|fc/ds eqp
-79.26,22001,Furious Gem,1000,4822.61,18,1,Unlimites,cleaning bank
+79.34,22001,Furious Gem,1000,4840.25,17,1,Unlimites,cleaning bank
 78.22,25478,Carsise Hairstyle Book,200,918.18,3,37,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 75.97,26594,Novice Explosive Ball,100,416.21,8,2,EvilRian,FB-LUCKY PAX-REF-SCROLL   MORE
 75.13,25506,Expert Scroll,500,2010.78,6,79,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
@@ -22,29 +22,27 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.37,25440,Evanescence Stone,300,1085.77,8,1,Customer,Top Secret
 72.37,25440,Evanescence Stone,300,1085.77,8,47,Frank,GEMS EVR EVS INS
 72.37,25440,Evanescence Stone,300,1085.77,8,3,LazzzyBee,JUST BUY.... DON'T RESIST!
-70.79,22003,Glowing Gem,1500,5135.08,10,3,CStal1,afk
-70.79,22003,Glowing Gem,1500,5135.08,10,2,Hibiki,Jadefrag|Gems|pots
-70.79,22003,Glowing Gem,1500,5135.08,10,28,Fortis,All cheap
-70.79,22003,Glowing Gem,1500,5135.08,10,37,Look7,gem
+70.82,22003,Glowing Gem,1500,5141.03,9,3,CStal1,afk
+70.82,22003,Glowing Gem,1500,5141.03,9,2,Hibiki,Jadefrag|Gems|pots
+70.82,22003,Glowing Gem,1500,5141.03,9,28,Fortis,All cheap
+70.82,22003,Glowing Gem,1500,5141.03,9,37,Look7,gem
 68.45,26588,Potion of Eagle,1000,3169.82,16,9,Teach,REPU/ CRUZ ITEMS/ POTIONS/FB
 66.3,25439,Incantation Stone,500,1483.68,4,6,Frank,GEMS EVR EVS INS
-66.22,28440,Fire Sealed Roar of Evanescence,5000,14800.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
+64.29,28440,Fire Sealed Roar of Evanescence,5000,13999.8,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 63.76,28406,Earth Sealed Staff of Abraxas.,2500,6898.75,5,1,iLegolas,PPs Reput Jack CookinCard PBs
 63.25,25440,Evanescence Stone,399,1085.77,8,2,AltDude,cheap stuff
 63.16,25440,Evanescence Stone,400,1085.77,8,4,CStal1,afk
-61.11,28432,Fire Sealed Staff of Mirage,4500,11571.14,5,1,bowstalls,lv40-50-60-65 gear 3pages
-61.11,28432,Fire Sealed Staff of Mirage,4500,11571.14,5,1,bowstalls,lv40-50-60-65 gear 3pages
-61.07,22003,Glowing Gem,1999,5135.08,10,1,SamuSta,UG GEM SOUL/ROCK/REF/DC/ALL GEMS
-60.6,22001,Furious Gem,1900,4822.61,18,2,stuffseller,cheap
+61.11,28432,Fire Sealed Staff of Mirage,4500,11571.14,5,1,bowstalls,lv40-50-60-65 Items very cheap
+61.11,28432,Fire Sealed Staff of Mirage,4500,11571.14,5,1,bowstalls,lv40-50-60-65 Items very cheap
+60.75,22001,Furious Gem,1900,4840.25,17,2,stuffseller,cheap
 60.4,28035,Solar Shield,19998,50499.2,9,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 60.4,28035,Solar Shield,19998,50499.2,9,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 60.38,28418,Earth Sealed Kiss of the Cursed,3500,8833.33,3,1,Fortis,All cheap
+60.15,25258,Spirit Feather,500,1254.64,7,7,LunaMaya,S>PPS PBS GPS RBS +5SPRShoes
 59.09,28212,Priestly Robe,15000,36666.33,3,1,ZafirRose,pps gps coin
-58.98,25258,Spirit Feather,500,1219.05,7,22,LunaMaya,S>PPS PBS GPS RBS +5SPRShoes
-58.55,22001,Furious Gem,1999,4822.61,18,2,SamuSta,UG GEM SOUL/ROCK/REF/DC/ALL GEMS
-58.53,22001,Furious Gem,2000,4822.61,18,5,Ivynor,All cheap
+58.68,22001,Furious Gem,2000,4840.25,17,5,Ivynor,All cheap
+57.71,25522,,70,165.54,10,12,CStal1,afk
 57.65,27000,Prosperous Packet,100,236.11,10,5,AltDude,cheap stuff
-57.34,25522,,70,164.09,10,12,CStal1,afk
 57.23,28458,Ice Sealed Staff of the Sphinx,19999,46758.83,6,1,Stol2,Cheap
 57.14,29011,Novice 15 Woodcutting EXP Card,600,1400.0,4,3,Ivynor,All cheap
 56.79,28432,Fire Sealed Staff of Mirage,5000,11571.14,5,1,CallMeBaby,Cheap
@@ -52,20 +50,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.66,29007,Novice 15 Manufacturing EXP Card,500,1153.57,5,10,LazzzyBee,JUST BUY.... DON'T RESIST!
 56.51,28406,Earth Sealed Staff of Abraxas.,3000,6898.75,5,1,LazzzyBee,JUST BUY.... DON'T RESIST!
 55.97,26564,Meditation Potion,333,756.39,6,63,VendedoraJequiti,PPS / BPS / SM / FAIRY DUST /50+
+54.69,25522,,75,165.54,10,5,staller2,soul detector/grenade and more
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,BabyGurl,H E L L O
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Shagidi,STUPID SHIT
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
-54.29,25522,,75,164.09,10,5,staller2,soul detector/grenade and more
 54.19,2301,,10000,21828.51,6,1,burnik,buy mee
 52.94,26562,Cake,170,361.27,3,21,BLaCKMooN,Free     Free     Free     Free
 52.82,25439,Incantation Stone,700,1483.68,4,1,Hiya,SO MANY CHEAP NICE ITENS
 52.77,28456,Ice Sealed Robe of the Sphinx,15000,31758.83,5,1,TuoTuo,Random Items RESTOCKED
 52.68,26588,Potion of Eagle,1500,3169.82,16,1,MUSACHI,Power
 52.68,26588,Potion of Eagle,1500,3169.82,16,1,ch4n,pps
+52.28,25522,,79,165.54,10,4,TagBaligya2,Manu/Cook/Craft Items
 52.15,28126,Cleric Cap,20000,41800.0,3,1,TopHead,CAPS LV40 WITH STATS CHEAP
-52.04,28326,Divine Grace Cap,25000,52128.83,4,1,conqstall2,Kal shining runestone UGwind
-51.86,25522,,79,164.09,10,4,TagBaligya2,Manu/Cook/Craft Items
+52.04,28326,Divine Grace Cap,25000,52128.83,4,1,conqstall2,Kal shining rune ug wind
+51.67,25522,,80,165.54,10,33,cryplz,SUPER 900 IS BACK
 51.56,26562,Cake,175,361.27,3,200,buy001,Cakes
 51.56,26562,Cake,175,361.27,3,100,buy001,Cakes
 51.56,26562,Cake,175,361.27,3,173,buy001,Cakes
@@ -73,9 +72,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.52,29008,Novice 15 Crafting EXP Card,500,1031.34,5,7,jackkahuna,CHEAP ALL
 51.52,29008,Novice 15 Crafting EXP Card,500,1031.34,5,18,LazzzyBee,JUST BUY.... DON'T RESIST!
 51.46,28462,Ice Sealed Staff of Enigma,25000,51505.89,8,1,xVolTz,pakaras
-51.32,22003,Glowing Gem,2500,5135.08,10,2,TuoTuo,Random Items RESTOCKED
-51.32,22003,Glowing Gem,2500,5135.08,10,1,Pyriael,GEM/XP CARDS CHEAP
-51.25,25522,,80,164.09,10,33,cryplz,SUPER 900 IS BACK
+51.37,22003,Glowing Gem,2500,5141.03,9,2,TuoTuo,Random Items RESTOCKED
+51.37,22003,Glowing Gem,2500,5141.03,9,1,Pyriael,GEM/XP CARDS CHEAP
 50.49,28035,Solar Shield,25000,50499.2,9,1,Exalted,shield
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
