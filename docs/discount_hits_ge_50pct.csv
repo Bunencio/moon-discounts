@@ -4,7 +4,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.8,2301,,2000,21735.24,6,1,HunterKim,Boots
 86.85,26564,Meditation Potion,88,669.18,7,92,xColosusJr,itemssss
 85.06,26564,Meditation Potion,100,669.18,7,49,AtiradorAzul,garner
-83.7,26592,Flash Bomb,200,1226.71,23,2,Otenciano,RUSH
+83.67,26592,Flash Bomb,200,1225.1,22,2,Otenciano,RUSH
 82.01,26566,Ether Potion,99,550.4,3,12,T0NI,BUY HERE! WITH MR  CHEAPS
 80.61,22003,Glowing Gem,1000,5157.51,10,1,jackkahuna,CHEAP ALL
 80.61,22003,Glowing Gem,1000,5157.51,10,8,Frank,GEMS EVR EVS INS
@@ -33,15 +33,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.51,28432,Fire Sealed Staff of Mirage,4500,12333.17,4,1,bowstalls,lv40-50-60-65 Items very cheap
 63.25,25440,Evanescence Stone,399,1085.77,8,2,AltDude,cheap stuff
 63.16,25440,Evanescence Stone,400,1085.77,8,4,CStal1,afk
-61.1,22001,Furious Gem,1900,4883.77,15,2,stuffseller,cheap
-61.04,25176,Sweet Poison,29,74.44,3,44,DiscipleTwo,CHEAPEST IMPS|MS NECK|PPS|PF|MC
-61.04,25176,Sweet Poison,29,74.44,3,83,Shop4V,ELVEN/GBS/SUNSHINE/MISC
+61.2,25176,Sweet Poison,29,74.74,3,44,DiscipleTwo,CHEAPEST IMPS|MS NECK|PPS|PF|MC
+61.2,25176,Sweet Poison,29,74.74,3,83,Shop4V,ELVEN/GBS/SUNSHINE/MISC
+61.13,22001,Furious Gem,1900,4888.52,14,2,stuffseller,cheap
 60.4,28035,Solar Shield,19998,50499.2,9,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 60.4,28035,Solar Shield,19998,50499.2,9,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 60.38,28418,Earth Sealed Kiss of the Cursed,3500,8833.33,3,1,Fortis,All cheap
+59.86,25176,Sweet Poison,30,74.74,3,65,BLaCKMooN,Free     Free     Free     Free
+59.86,25176,Sweet Poison,30,74.74,3,81,BLaCKMooN,Free     Free     Free     Free
 59.8,25258,Spirit Feather,500,1243.79,7,7,LunaMaya,S>PPS PBS GPS RBS +5SPRShoes
-59.7,25176,Sweet Poison,30,74.44,3,68,BLaCKMooN,Free     Free     Free     Free
-59.7,25176,Sweet Poison,30,74.44,3,81,BLaCKMooN,Free     Free     Free     Free
 59.65,25522,,70,173.5,10,12,CStal1,afk
 59.46,28432,Fire Sealed Staff of Mirage,5000,12333.17,4,1,CallMeBaby,Cheap
 59.09,28212,Priestly Robe,15000,36666.33,3,1,ZafirRose,pps gps coin
@@ -63,7 +63,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.78,25178,Small Branch,120,248.87,3,64,Thunderwitch,CHEAPEST FB/SMALL BRANCH
 51.53,22003,Glowing Gem,2500,5157.51,10,2,TuoTuo,Random Items RESTOCKED
 51.53,22003,Glowing Gem,2500,5157.51,10,1,Pyriael,GEM/XP CARDS CHEAP
-51.09,26592,Flash Bomb,600,1226.71,23,2,Tharvox,GEAR
+51.02,26592,Flash Bomb,600,1225.1,22,2,Tharvox,GEAR
 50.49,28035,Solar Shield,25000,50499.2,9,1,Exalted,shield
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
 50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
