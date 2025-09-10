@@ -1,9 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-90.85,30173,Ticket to Angler's Island,35,382.35,4,20,Shop1,darkblue
+94.68,30173,Ticket to Angler's Island,20,375.64,4,66,LiDL,ref / ticket / packet / green bp
 90.7,2301,,2000,21499.94,6,1,HunterKim,Boots
-89.54,30173,Ticket to Angler's Island,40,382.35,4,66,LiDL,ref / pots / tickets
-84.31,28212,Priestly Robe,10000,63749.5,3,1,ZafirRose,pps gps coin
-84.31,28212,Priestly Robe,10000,63749.5,3,1,loyalty1,selling
+90.68,30173,Ticket to Angler's Island,35,375.64,4,20,Shop1,darkblue
 83.91,30121,Vial of Accuracy Reset,999,6208.59,5,1,Cheap,50 sealed
 82.01,26566,Ether Potion,99,550.4,3,12,T0NI,BUY HERE! WITH MR  CHEAPS
 80.59,25501,Brown Colorant,500,2575.8,4,1,cheapstuffsell,cheap
@@ -11,6 +9,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.13,22001,Furious Gem,1000,4791.96,16,1,Unlimites,cleaning bank
 78.22,25478,Carsise Hairstyle Book,200,918.18,3,37,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 75.13,25506,Expert Scroll,500,2010.78,6,79,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
+72.73,28212,Priestly Robe,10000,36666.33,3,1,loyalty1,selling
 72.65,25506,Expert Scroll,550,2010.78,6,52,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
 67.79,30121,Vial of Accuracy Reset,2000,6208.59,5,2,DoaaPepa,D O N    P E P E
 67.57,28432,Fire Sealed Staff of Mirage,4500,13874.75,6,1,bowstalls,lv40-50-60-65 gear 3pages
@@ -33,11 +32,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.4,28035,Solar Shield,19998,50499.2,9,1,VENDEDORAA,LANCE APPS | 40-50-60 ITENS | ++
 60.37,22001,Furious Gem,1899,4791.96,16,20,hunterx,repu/BP/JP/gems/eva/pots/xp
 60.35,22001,Furious Gem,1900,4791.96,16,2,stuffseller,cheap
+59.09,28212,Priestly Robe,15000,36666.33,3,1,ZafirRose,pps gps coin
 58.61,25258,Spirit Feather,500,1207.92,7,27,LunaMaya,S>PPS PBS GPS RBS +5SPRShoes
 58.28,22001,Furious Gem,1999,4791.96,16,2,SamuSta,UG GEM SOUL/ROCK/REF/DC/ALL GEMS
 58.26,22001,Furious Gem,2000,4791.96,16,5,Ivynor,All cheap
-57.87,27000,Prosperous Packet,100,237.35,8,5,AltDude,cheap stuff
 57.76,26564,Meditation Potion,88,208.33,5,92,xColosusJr,itemssss
+57.69,27000,Prosperous Packet,100,236.33,9,5,AltDude,cheap stuff
 57.66,25522,,70,165.34,9,12,CStal1,afk
 57.14,29011,Novice 15 Woodcutting EXP Card,600,1400.0,4,3,Ivynor,All cheap
 56.66,29007,Novice 15 Manufacturing EXP Card,500,1153.57,5,3,jackkahuna,CHEAP ALL
@@ -59,6 +59,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.94,26562,Cake,170,361.27,3,21,BLaCKMooN,Free     Free     Free     Free
 52.77,28456,Ice Sealed Robe of the Sphinx,15000,31758.83,5,1,TuoTuo,Random Items RESTOCKED
 52.67,26591,Potion of Lion,1500,3169.43,13,2,ch4n,pps
+52.63,28430,Fire Sealed Robe of Malediction,5000,10555.56,4,1,BabyGurl,H E L L O
+52.63,28430,Fire Sealed Robe of Malediction,5000,10555.56,4,1,Shagidi,STUPID SHIT
+52.63,28430,Fire Sealed Robe of Malediction,5000,10555.56,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
+52.63,28430,Fire Sealed Robe of Malediction,5000,10555.56,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
 52.22,25522,,79,165.34,9,4,TagBaligya2,Manu/Cook/Craft Items
 52.03,28458,Ice Sealed Staff of the Sphinx,25000,52110.8,5,1,CStal1,afk
 52.0,26564,Meditation Potion,100,208.33,5,49,AtiradorAzul,garner
