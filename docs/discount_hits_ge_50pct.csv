@@ -34,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.36,25176,Sweet Poison,29,75.05,3,44,DiscipleTwo,CHEAPEST IMPS|MS NECK|PPS|PF|MC
 61.36,25176,Sweet Poison,29,75.05,3,83,Shop4V,ELVEN/GBS/SUNSHINE/MISC
 61.19,25258,Spirit Feather,449,1156.84,7,3,DarkStar,SEALED DOE 2 Sockets|GPS|NINJA|C
-60.87,22001,Furious Gem,1900,4855.91,14,2,stuffseller,cheap
+60.88,22001,Furious Gem,1900,4857.04,14,2,stuffseller,cheap
 60.8,26589,Potion of Bull,999,2548.23,21,5,shale,stallls
 60.03,25176,Sweet Poison,30,75.05,3,62,BLaCKMooN,Free     Free     Free     Free
 60.03,25176,Sweet Poison,30,75.05,3,81,BLaCKMooN,Free     Free     Free     Free
@@ -45,7 +45,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.18,22003,Glowing Gem,1500,3674.87,9,2,Hibiki,Jadefrag|Gems|pots
 59.18,22003,Glowing Gem,1500,3674.87,9,37,Look7,gem
 59.09,28212,Priestly Robe,15000,36666.33,3,1,ZafirRose,pps gps coin
-57.55,25522,,70,164.89,10,12,CStal1,afk
+58.7,25522,,70,169.51,9,12,CStal1,afk
 57.23,28458,Ice Sealed Staff of the Sphinx,19999,46758.83,6,1,Stol2,Cheap
 56.92,28406,Earth Sealed Staff of Abraxas.,2999,6961.12,5,1,iLegolas,Power PPS Rock Reput Jackp BPS@@
 56.9,28406,Earth Sealed Staff of Abraxas.,3000,6961.12,5,1,LazzzyBee,JUST BUY.... DON'T RESIST!
@@ -57,10 +57,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
 54.55,28430,Fire Sealed Robe of Malediction,5000,11000.0,4,1,Comoestas,LANTERN  JC  PBS  POTS  MORE
 53.99,2301,,10000,21735.24,6,1,burnik,buy mee
+53.39,25522,,79,169.51,9,4,TagBaligya2,Manu/Cook/Craft Items
 52.82,25439,Incantation Stone,700,1483.68,4,1,Hiya,SO MANY CHEAP NICE ITENS
 52.77,28456,Ice Sealed Robe of the Sphinx,15000,31758.83,5,1,TuoTuo,Random Items RESTOCKED
 52.4,26588,Potion of Eagle,1500,3151.4,14,1,MUSACHI,Power
 52.4,26588,Potion of Eagle,1500,3151.4,14,1,ch4n,pps
-52.09,25522,,79,164.89,10,4,TagBaligya2,Manu/Cook/Craft Items
 52.0,25503,Magical Stone,450,937.54,13,11,iLegolas,Power PPS Rock Reput Jackp BPS@@
-51.48,25522,,80,164.89,10,33,cryplz,SUPER 900 IS BACK
