@@ -13,11 +13,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.61,22003,Glowing Gem,1000,5157.51,10,1,Unlimites,cleaning bank
 79.84,25501,Brown Colorant,500,2480.19,3,1,cheapstuffsell,cheap
 78.22,25478,Carsise Hairstyle Book,200,918.18,3,37,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-75.13,25506,Expert Scroll,500,2010.78,6,79,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
 74.98,26594,Novice Explosive Ball,100,399.65,8,2,EvilRian,FB-LUCKY PAX-REF-SCROLL   MORE
 73.68,28442,Fire Sealed Coat of Evanescence,5000,19000.0,4,1,Cheap,50 sealed
 72.73,28212,Priestly Robe,10000,36666.33,3,1,loyalty1,selling
-72.65,25506,Expert Scroll,550,2010.78,6,52,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
 72.6,25440,Evanescence Stone,300,1095.02,8,1,Customer,Top Secret
 72.6,25440,Evanescence Stone,300,1095.02,8,45,Frank,GEMS EVR EVS INS
 72.6,25440,Evanescence Stone,300,1095.02,8,3,LazzzyBee,JUST BUY.... DON'T RESIST!
@@ -25,14 +23,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.92,22003,Glowing Gem,1500,5157.51,10,2,Hibiki,Jadefrag|Gems|pots
 70.92,22003,Glowing Gem,1500,5157.51,10,28,Fortis,All cheap
 70.92,22003,Glowing Gem,1500,5157.51,10,37,Look7,gem
+67.27,30145,Fire Seed,10000,30555.44,4,4,AtiradorAzul,garner
+67.17,25506,Expert Scroll,500,1523.03,6,79,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
 66.69,26569,Warrior's Potion,220,660.44,5,200,RedZone,Warrior Potion
 66.69,26569,Warrior's Potion,220,660.44,5,68,RedZone,Warrior Potion
 66.69,26569,Warrior's Potion,220,660.44,5,198,OverTarget,warrior Potion and iron brew
 66.69,26569,Warrior's Potion,220,660.44,5,124,OverTarget,warrior Potion and iron brew
 66.3,25439,Incantation Stone,500,1483.68,4,6,Frank,GEMS EVR EVS INS
-65.52,30145,Fire Seed,10000,28999.9,5,4,AtiradorAzul,garner
 64.29,28440,Fire Sealed Roar of Evanescence,5000,13999.8,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 64.11,28432,Fire Sealed Staff of Mirage,3999,11142.57,5,1,iLegolas,Power PPS Rock Reput Jackp BPS@@
+63.89,25506,Expert Scroll,550,1523.03,6,52,Hunter,CHEAAAAAAAAAAP SORCERS STONE HUR
 63.56,25440,Evanescence Stone,399,1095.02,8,2,AltDude,cheap stuuff
 63.47,25440,Evanescence Stone,400,1095.02,8,4,CStal1,afk
 62.18,28035,Solar Shield,25000,66110.78,9,1,Exalted,shield
@@ -40,7 +40,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.36,25176,Sweet Poison,29,75.05,3,83,Shop4V,ELVEN/GBS/SUNSHINE/MISC
 61.19,25258,Spirit Feather,449,1156.84,7,3,DarkStar,SEALED DOE 2 Sockets|GPS|NINJA|C
 61.13,22001,Furious Gem,1900,4888.52,14,2,stuffseller,cheap
-60.75,26589,Potion of Bull,999,2545.35,22,5,shale,stallls
+60.67,26589,Potion of Bull,999,2540.02,21,5,shale,stallls
 60.38,28418,Earth Sealed Kiss of the Cursed,3500,8833.33,3,1,Fortis,All cheap
 60.03,25176,Sweet Poison,30,75.05,3,62,BLaCKMooN,Free     Free     Free     Free
 60.03,25176,Sweet Poison,30,75.05,3,81,BLaCKMooN,Free     Free     Free     Free
@@ -61,15 +61,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.86,25522,,79,171.23,9,4,TagBaligya2,Manu/Cook/Craft Items
 53.62,2301,,10000,21560.0,5,1,burnik,buy mee
 53.28,25522,,80,171.23,9,33,cryplz,SUPER 900 IS BACK
-52.92,26588,Potion of Eagle,1500,3185.92,15,1,MUSACHI,Power
-52.92,26588,Potion of Eagle,1500,3185.92,15,1,ch4n,pps
 52.82,25439,Incantation Stone,700,1483.68,4,1,Hiya,SO MANY CHEAP NICE ITENS
+52.77,26588,Potion of Eagle,1500,3176.06,14,1,MUSACHI,Power
+52.77,26588,Potion of Eagle,1500,3176.06,14,1,ch4n,pps
 52.77,28456,Ice Sealed Robe of the Sphinx,15000,31758.83,5,1,TuoTuo,Random Items RESTOCKED
-52.49,25503,Magical Stone,450,947.23,14,11,iLegolas,Power PPS Rock Reput Jackp BPS@@
+51.6,25503,Magical Stone,450,929.68,13,11,iLegolas,Power PPS Rock Reput Jackp BPS@@
 51.53,22003,Glowing Gem,2500,5157.51,10,2,TuoTuo,Random Items RESTOCKED
 51.53,22003,Glowing Gem,2500,5157.51,10,1,Pyriael,GEM/XP CARDS CHEAP
-50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
-50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
-50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
-50.27,25506,Expert Scroll,1000,2010.78,6,89,Aldor,Randon itins
-50.27,25506,Expert Scroll,1000,2010.78,6,99,Aldor,Randon itins
