@@ -8,7 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.02,28432,Fire Sealed Staff of Mirage,3999,17399.71,5,1,iLegolas,Power PPS Rock Reput Jackp BPS@@
 76.13,25440,Evanescence Stone,300,1256.73,8,3,LazzzyBee,GO ON  BUY THESE!
 75.0,28440,Fire Sealed Roar of Evanescence,5000,20000.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
-74.08,26589,Potion of Bull,680,2623.52,18,34,darkghost,repu
+73.79,26589,Potion of Bull,680,2594.24,18,34,darkghost,repu
 71.28,26564,Meditation Potion,200,696.42,6,49,AtiradorAzul,garner
 71.06,25506,Expert Scroll,400,1382.19,4,52,Hunter,CHEAPEZT SOCR
 71.06,25506,Expert Scroll,400,1382.19,4,79,Hunter,CHEAPEZT SOCR
@@ -21,8 +21,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.5,25477,Lance Hairstyle Book,5000,13333.33,3,4,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 61.99,26569,Warrior's Potion,220,578.76,5,200,OverTarget,Warrior Potion Best Price 200G
 61.99,26569,Warrior's Potion,220,578.76,5,187,OverTarget,Warrior Potion Best Price 200G
-61.92,26589,Potion of Bull,999,2623.52,18,5,shale,stallls
-61.88,26589,Potion of Bull,1000,2623.52,18,1,Spartan,Cruz 45-60lvl | FB |Royal | Poti
+61.49,26589,Potion of Bull,999,2594.24,18,12,xBroski,Sealed lvl 60 Cheap
+61.49,26589,Potion of Bull,999,2594.24,18,5,shale,stallls
+61.45,26589,Potion of Bull,1000,2594.24,18,1,Spartan,Cruz 45-60lvl | FB |Royal | Poti
 59.73,22003,Glowing Gem,999,2480.96,10,3,CStal1,afk
 59.69,22003,Glowing Gem,1000,2480.96,10,1,jackkahuna,CHEAP ALL
 59.69,22003,Glowing Gem,1000,2480.96,10,32,Aldor,123 123
@@ -49,7 +50,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.15,26588,Potion of Eagle,1500,3008.95,14,1,MUSACHI,Power
 50.15,26588,Potion of Eagle,1500,3008.95,14,13,Comoestas,Manufact | Potions | more
 50.15,28474,Ice Sealed Mantle of the Sphinx,45555,91388.5,4,1,Sisifo,ROCK/JADE/JACK/POTS/SPHINX
-50.04,26326,Elven Royal Signet,900,1801.43,9,12,Spartan,Cruz 45-60lvl | FB |Royal | Poti
 50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,LazzzyBee,GO ON  BUY THESE!
 50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,Comoestas,Manufact | Potions | more
 50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,Comoestas,Manufact | Potions | more
