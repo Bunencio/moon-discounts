@@ -1,8 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.5,28326,Divine Grace Cap,19999,159999.14,5,1,DemiMerchant,99c Bless / Cleric / Poseidon 99
 87.5,28326,Divine Grace Cap,19999,159999.14,5,1,DemiMerchant,99c Bless / Cleric / Poseidon 99
+87.19,25418,Clam Crown,300,2341.77,3,3,TRUJILLO,Sekkkk
 84.87,26564,Meditation Potion,99,654.33,6,31,Nikoz,loot selling
-84.86,22000,FieryGem,1100,7265.6,12,1,ST002,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+84.62,22000,FieryGem,1100,7150.15,12,1,ST002,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 83.33,28212,Priestly Robe,5000,29999.75,3,1,loyalty1,selling jpc
 81.25,28326,Divine Grace Cap,29999,159999.14,5,1,PureGold,DIVINE GRACE CAP WITH STAT
 81.25,28326,Divine Grace Cap,29999,159999.14,5,1,PureGold,DIVINE GRACE CAP WITH STAT
@@ -34,7 +35,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.89,25483,Yellow Dye,100,249.34,3,21,2Homo,sell
 59.18,28155,Steel Platemail,4000,9800.0,3,1,Toad,equi crus+cham+ss bow+ear rock+i
 58.84,25485,Cyan Dye,100,242.96,3,17,2Homo,sell
-58.49,30145,Fire Seed,8000,19272.64,5,4,AtiradorAzul,SS  POT  CLERIC  RING ACC.
 57.98,25488,Purple Dye,100,238.0,3,24,2Homo,sell
 57.68,25486,Blue Dye,100,236.3,3,22,2Homo,sell
 57.14,28454,Ice Sealed Blade of Enigma,250000,583333.0,3,1,SSSSS,BOE/PPS/APP TRANSFER
@@ -45,15 +45,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.04,27021,Green Pirate Scroll,199,452.72,8,5,iLilith,Cheapest STR Pet
 56.02,25440,Evanescence Stone,400,909.47,7,42,Shooooop,Rush gems
 56.02,25440,Evanescence Stone,400,909.47,7,4,CStal1,afk
-55.95,22003,Glowing Gem,899,2040.75,11,23,hunterx,ug colo/repu/bp/fb etc
 54.78,25507,Expert Stone,300,663.38,5,99,Shooooop,Rush gems
 54.29,28458,Ice Sealed Staff of the Sphinx,19999,43749.62,7,1,Stol2,Cheap
 54.15,26564,Meditation Potion,300,654.33,6,63,VendedoraJequiti,SM STUFF / VOY STUFF / MORE ++++
-54.09,22001,Furious Gem,1999,4353.74,11,1,SamuSta,REF/ALL NORMAL GEM/DC/FB @CHEAP@
-54.06,22001,Furious Gem,2000,4353.74,11,2,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 52.21,28456,Ice Sealed Robe of the Sphinx,20000,41851.33,3,1,Buffita,all in one
 51.33,2301,,10000,20545.39,6,1,burnik,buy mee
-51.05,22003,Glowing Gem,999,2040.75,11,3,CStal1,afk
-51.0,22003,Glowing Gem,1000,2040.75,11,2,LazzzyBee,CHEAPEST STALL IN THIS SERVER
-51.0,22003,Glowing Gem,1000,2040.75,11,35,Frank,GJADE ROCK FR REF GEMS DR ER EP
-51.0,22003,Glowing Gem,1000,2040.75,11,32,Aldor,123 123
