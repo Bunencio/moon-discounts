@@ -1,7 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.77,25501,Brown Colorant,500,2599.96,4,1,cheapstuffsell,cheap
 80.0,28035,Solar Shield,10000,50000.0,6,1,Obsidian,rare fc/ds eqps|fairydust|bps
-78.26,28403,Blade of Incantation,99999,459999.8,3,1,Vneidnha,champ itens
 77.36,28212,Priestly Robe,15000,66249.5,3,1,ZafirRose,pps gps coin
 77.36,28212,Priestly Robe,15000,66249.5,3,1,Rudra,sell>pps/sai/samu
 76.57,28326,Divine Grace Cap,19999,85356.29,5,1,DemiMerchant,99c Bless / Cleric / Poseidon 99
@@ -36,12 +35,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.06,2301,,8000,20545.39,6,1,HunterKim,Boot
 60.97,25481,Red Dye,100,256.2,3,1,2Homo,sell
 60.0,28035,Solar Shield,20000,50000.0,6,1,VENDEDORAA,APPS / SM / CRUS / SHIELD CON /+
+59.93,25503,Magical Stone,300,748.74,8,69,xGoliath,RUSH
+59.93,25503,Magical Stone,300,748.74,8,69,xGoliath,RUSH
 59.89,25483,Yellow Dye,100,249.34,3,21,2Homo,sell
 59.18,28155,Steel Platemail,4000,9800.0,3,1,Toad,equi crus+cham+ss bow+ear rock+i
 59.1,25482,Orange Dye,100,244.52,3,19,2Homo,sell
 58.84,25485,Cyan Dye,100,242.96,3,17,2Homo,sell
-58.32,25503,Magical Stone,300,719.73,9,69,xGoliath,RUSH
-58.32,25503,Magical Stone,300,719.73,9,69,xGoliath,RUSH
 58.02,28458,Ice Sealed Staff of the Sphinx,18000,42874.62,8,1,Kinyu,18K
 57.98,25488,Purple Dye,100,238.0,3,24,2Homo,sell
 57.89,30122,Vial of Spirit Reset,2000,4750.0,3,5,Akim,PVP POTIONS FB W8LES SKAT OTHER
