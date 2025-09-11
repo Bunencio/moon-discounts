@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.57,2301,,2000,23730.69,5,1,HunterKim,Boots
-85.95,26564,Meditation Potion,99,704.6,6,31,Nikoz,loot selling
+85.27,26564,Meditation Potion,99,671.98,7,31,Nikoz,loot selling
 83.33,28212,Priestly Robe,5000,29999.75,3,1,loyalty1,selling
 80.43,28035,Solar Shield,10000,51111.0,7,1,Obsidian,rare fc/ds eqps|fairydust|bps
 79.72,25481,Red Dye,100,493.07,3,1,2Homo,sell
@@ -11,8 +11,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.06,25506,Expert Scroll,400,1382.19,4,79,Hunter,CHEAPEZT SOCR
 70.49,28326,Divine Grace Cap,29999,101665.67,4,1,PureGold,DIVINE GRACE CAP WITH STAT
 70.49,28326,Divine Grace Cap,29999,101665.67,4,1,PureGold,DIVINE GRACE CAP WITH STAT
-67.46,30172,Ticket to Treasure Island,200,614.64,6,1,ATHALIAH,LOWEST
-66.84,25440,Evanescence Stone,300,904.58,6,3,LazzzyBee,GO ON  BUY THESE!
+70.24,26564,Meditation Potion,200,671.98,7,49,AtiradorAzul,SS  POT  CLERIC  RING ACC.
+66.98,30172,Ticket to Treasure Island,200,605.68,6,1,ATHALIAH,LOWEST
+66.78,25440,Evanescence Stone,300,903.12,7,3,LazzzyBee,GO ON  BUY THESE!
 66.42,25056,Willow Wood Log,400,1191.03,3,89,Wardo,S>PBS/guard /willow
 64.45,28432,Fire Sealed Staff of Mirage,3900,10971.14,5,1,bowstalls,cheap lv40-50-60-65 items
 64.45,28432,Fire Sealed Staff of Mirage,3900,10971.14,5,1,bowstalls,cheap lv40-50-60-65 items
@@ -21,7 +22,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.22,28406,Earth Sealed Staff of Abraxas.,2999,7937.25,5,1,iLegolas,Power PPS Rock Reput Jackp BPS@@
 62.2,28406,Earth Sealed Staff of Abraxas.,3000,7937.25,5,1,LazzzyBee,GO ON  BUY THESE!
 62.14,25439,Incantation Stone,400,1056.56,5,51,Shooooop,Rush gems
-61.11,30145,Fire Seed,10000,25714.14,4,2,CrackHead,ALMOST 4 FREE
 60.87,28035,Solar Shield,20000,51111.0,7,1,VENDEDORAA,APPS / SM / CRUS / SHIELD CON /+
 60.66,28326,Divine Grace Cap,39999,101665.67,4,1,DemiMerchant,99c Bless Crown GPS Cleric 99c
 60.66,28326,Divine Grace Cap,39999,101665.67,4,1,DemiMerchant,99c Bless Crown GPS Cleric 99c
@@ -29,26 +29,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.44,25481,Red Dye,200,493.07,3,1,TRUJILLO,Sekkkk
 59.18,28155,Steel Platemail,4000,9800.0,3,1,Toad,equi crus+cham+ss bow+ear rock+i
 59.14,28434,Fire Sealed Robe of the Arcane,9500,23249.5,6,1,bowstalls,cheap lv40-50-60-65 items
+58.49,30145,Fire Seed,8000,19272.64,5,4,AtiradorAzul,SS  POT  CLERIC  RING ACC.
 58.45,25507,Expert Stone,300,721.94,5,99,Shooooop,Rush gems
 57.86,2301,,10000,23730.69,5,1,burnik,buy mee
-57.42,26564,Meditation Potion,300,704.6,6,63,VendedoraJequiti,SM STUFF / VOY STUFF / MORE ++++
 57.31,28456,Ice Sealed Robe of the Sphinx,15000,35138.5,4,1,Electricman1,JpCoin/Jade gem rock gem fragmen
 57.14,28454,Ice Sealed Blade of Enigma,250000,583333.0,3,1,SSSSS,BOE/PPS/APP TRANSFER
 56.99,28434,Fire Sealed Robe of the Arcane,9999,23249.5,6,1,Tabitha,FULL STALL
 56.76,28476,Ice Sealed Kris of the Sphinx,40000,92499.88,5,1,Electricman1,JpCoin/Jade gem rock gem fragmen
-55.89,25440,Evanescence Stone,399,904.58,6,2,AltDude,cheap stuuff
-55.78,25440,Evanescence Stone,400,904.58,6,45,Shooooop,Rush gems
-55.78,25440,Evanescence Stone,400,904.58,6,4,CStal1,afk
+55.82,25440,Evanescence Stone,399,903.12,7,2,AltDude,cheap stuuff
+55.71,25440,Evanescence Stone,400,903.12,7,45,Shooooop,Rush gems
+55.71,25440,Evanescence Stone,400,903.12,7,4,CStal1,afk
+55.36,26564,Meditation Potion,300,671.98,7,63,VendedoraJequiti,SM STUFF / VOY STUFF / MORE ++++
 54.58,22003,Glowing Gem,999,2199.34,11,3,CStal1,afk
 54.53,22003,Glowing Gem,1000,2199.34,11,35,Frank,GJADE ROCK FR REF GEMS DR ER EP
 54.53,22003,Glowing Gem,1000,2199.34,11,32,Aldor,123 123
 54.43,28432,Fire Sealed Staff of Mirage,5000,10971.14,5,1,CallMeBaby,23344
-54.24,28401,Platemail of the Cursed Soul,98999,216333.0,3,1,Bankaquaq,SELL FAST!!
-54.13,22001,Furious Gem,1999,4357.71,11,1,SamuSta,REF/ALL NORMAL GEM/DC/FB @CHEAP@
-54.1,22001,Furious Gem,2000,4357.71,11,2,LazzzyBee,GO ON  BUY THESE!
+54.09,22001,Furious Gem,1999,4354.32,12,1,SamuSta,REF/ALL NORMAL GEM/DC/FB @CHEAP@
+54.07,22001,Furious Gem,2000,4354.32,12,2,LazzzyBee,GO ON  BUY THESE!
 51.35,28458,Ice Sealed Staff of the Sphinx,20000,41110.78,8,1,ImNotPino,NECK RING SPR 50-60 CLER SEAL 65
 51.35,28458,Ice Sealed Staff of the Sphinx,19999,41110.78,8,1,Stol2,Cheap
-50.78,26588,Potion of Eagle,1500,3047.67,15,21,Brunis,S>
-50.78,26588,Potion of Eagle,1500,3047.67,15,13,Comoestas,Manufact | Potions | more
-50.47,26564,Meditation Potion,349,704.6,6,6,lapada,MEDITATION/WEIGTH/WATER SED/TICK
-50.33,26564,Meditation Potion,350,704.6,6,200,Italy,potions
