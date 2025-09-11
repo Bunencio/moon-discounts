@@ -4,9 +4,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,28326,Divine Grace Cap,PureGold,DIVINE GRACE CAP WITH STAT,29999,159999.14,130000.14,1,130000.14,81.25,5
 2025-09-11,28326,Divine Grace Cap,PureGold,DIVINE GRACE CAP WITH STAT,29999,159999.14,130000.14,1,130000.14,81.25,5
 2025-09-11,28035,Solar Shield,Obsidian,rare fc/ds eqps|fairydust|bps,10000,50000.0,40000.0,1,40000.0,80.0,6
+2025-09-11,28403,Blade of Incantation,Vneidnha,champ itens,99999,459999.8,360000.8,1,360000.8,78.26,3
 2025-09-11,28212,Priestly Robe,ZafirRose,pps gps coin,15000,66249.5,51249.5,1,51249.5,77.36,3
 2025-09-11,28212,Priestly Robe,Rudra,sell>pps/sai/samu,15000,66249.5,51249.5,1,51249.5,77.36,3
-2025-09-11,28403,Blade of Incantation,Vneidnha,champ itens,99999,433333.0,333334.0,1,333334.0,76.92,4
 2025-09-11,28456,Ice Sealed Robe of the Sphinx,Kinyu,18K,18000,61711.0,43711.0,1,43711.0,70.83,5
 2025-09-11,26590,Potion of Soul,Uzi,pps,999,3339.95,2340.95,10,23409.48,70.09,10
 2025-09-11,25478,Carsise Hairstyle Book,Khonsu,CHEAPEST HAIRSTYLING ITEMS!,300,1000.0,700.0,40,28000.0,70.0,4
@@ -40,38 +40,38 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,26559,Cooked Crab,vnt4,Best Crab for Recover HP-SP,1999,3113.12,1114.12,200,222824.27,35.79,3
 2025-09-11,26559,Cooked Crab,vnt4,Best Crab for Recover HP-SP,1999,3113.12,1114.12,21,23396.55,35.79,3
 2025-09-11,25479,Phyllis Hairstyle Book,Khonsu,CHEAPEST HAIRSTYLING ITEMS!,1500,2275.0,775.0,45,34875.0,34.07,3
-2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1354.41,459.41,192,88206.85,33.92,6
-2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1354.41,459.41,174,79937.45,33.92,6
-2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1354.41,459.41,130,59723.39,33.92,6
-2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1354.41,459.41,67,30780.51,33.92,6
-2025-09-11,26575,Guardian's Brew,fairyWinX,COOK FLASH,900,1354.41,454.41,133,60436.62,33.55,6
-2025-09-11,27014,Moonroot Wine,vnt3,Heavy Crystal-Moonroot Wine,800,1196.44,396.44,144,57088.03,33.14,8
+2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1355.57,460.57,192,88429.28,33.98,6
+2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1355.57,460.57,174,80139.04,33.98,6
+2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1355.57,460.57,130,59873.99,33.98,6
+2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1355.57,460.57,67,30858.13,33.98,6
+2025-09-11,26575,Guardian's Brew,fairyWinX,COOK FLASH,900,1355.57,455.57,133,60590.7,33.61,6
+2025-09-11,27014,Moonroot Wine,vnt3,Heavy Crystal-Moonroot Wine,800,1196.51,396.51,144,57097.93,33.14,8
 2025-09-11,28460,Ice Sealed Robe of Enigma,KingHazee,Skating pot cheap and more,160000,236666.67,76666.67,1,76666.67,32.39,3
 2025-09-11,25451,Jade Gem Fragment,staller2,bomb/grenade/soul det/fragments,64500,94536.93,30036.93,1,30036.93,31.77,8
 2025-09-11,25451,Jade Gem Fragment,purplered,Enigmapower sunheart jadefrag,65000,94536.93,29536.93,2,59073.85,31.24,8
 2025-09-11,25451,Jade Gem Fragment,Everest,Pots,65000,94536.93,29536.93,2,59073.85,31.24,8
 2025-09-11,25451,Jade Gem Fragment,woodensea,Potion,65000,94536.93,29536.93,1,29536.93,31.24,8
-2025-09-11,28403,Blade of Incantation,xNerox,...,299999,433333.0,133334.0,1,133334.0,30.77,4
-2025-09-11,26001,Ninja Coin,Demonus,6 CON SM GLOVES - SMTHNG,599,858.56,259.56,99,25696.62,30.23,8
 2025-09-11,28472,Ice Sealed Bow of Enigma,XiXi0n,cheap cheap cheap cheap cheap,85000,121428.29,36428.29,1,36428.29,30.0,6
+2025-09-11,22012,Demonic Gem of Wind,Patrafir,WTF is so cheap ?,1199999,1712857.0,512858.0,1,512858.0,29.94,5
+2025-09-11,26001,Ninja Coin,Demonus,6 CON SM GLOVES - SMTHNG,599,853.88,254.88,99,25233.22,29.85,9
 2025-09-11,22006,Spirit Gem,hunterx,ug colo/repu/bp/fb etc,4999,7061.86,2062.86,18,37131.48,29.21,14
 2025-09-11,22030,Earth Rock,wpadly*,gems +2+5 dance fairy rings neck,1999999,2807407.0,807408.0,1,807408.0,28.76,3
 2025-09-11,22004,Shining Gem,hunterx,ug colo/repu/bp/fb etc,4399,6039.84,1640.84,59,96809.35,27.17,13
 2025-09-11,22004,Shining Gem,vendedolmax,2000,4400,6039.84,1639.84,14,22957.71,27.15,13
 2025-09-11,26590,Potion of Soul,Chupeteira,CHEAP DEMONIC RAGE AND UG COLO,2450,3339.95,889.95,63,56066.74,26.65,10
-2025-09-11,26575,Guardian's Brew,MadeInChina,BLESS/INFERNO/IRON/ENCHANT/WARLO,999,1354.41,355.41,200,71082.13,26.24,6
-2025-09-11,26575,Guardian's Brew,Lucifer,M Wine 999 | G Brew 999,999,1354.41,355.41,195,69305.08,26.24,6
-2025-09-11,26575,Guardian's Brew,MadeInChina,BLESS/INFERNO/IRON/ENCHANT/WARLO,999,1354.41,355.41,190,67528.03,26.24,6
-2025-09-11,26575,Guardian's Brew,MadeInChina,BLESS/INFERNO/IRON/ENCHANT/WARLO,999,1354.41,355.41,189,67172.61,26.24,6
-2025-09-11,26575,Guardian's Brew,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1354.41,355.41,179,63618.51,26.24,6
-2025-09-11,26575,Guardian's Brew,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1354.41,355.41,158,56154.88,26.24,6
-2025-09-11,26575,Guardian's Brew,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1354.41,355.41,156,55444.06,26.24,6
-2025-09-11,26575,Guardian's Brew,Repolho,Guardian brew,1000,1354.41,354.41,200,70882.13,26.17,6
-2025-09-11,26575,Guardian's Brew,Repolho,Guardian brew,1000,1354.41,354.41,160,56705.71,26.17,6
-2025-09-11,26575,Guardian's Brew,Repolho,Guardian brew,1000,1354.41,354.41,120,42529.28,26.17,6
-2025-09-11,26575,Guardian's Brew,ChocolateDaddy,Supplies,1000,1354.41,354.41,99,35086.66,26.17,6
+2025-09-11,26575,Guardian's Brew,MadeInChina,BLESS/INFERNO/IRON/ENCHANT/WARLO,999,1355.57,356.57,200,71313.83,26.3,6
+2025-09-11,26575,Guardian's Brew,Lucifer,M Wine 999 | G Brew 999,999,1355.57,356.57,195,69530.99,26.3,6
+2025-09-11,26575,Guardian's Brew,MadeInChina,BLESS/INFERNO/IRON/ENCHANT/WARLO,999,1355.57,356.57,190,67748.14,26.3,6
+2025-09-11,26575,Guardian's Brew,MadeInChina,BLESS/INFERNO/IRON/ENCHANT/WARLO,999,1355.57,356.57,189,67391.57,26.3,6
+2025-09-11,26575,Guardian's Brew,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1355.57,356.57,179,63825.88,26.3,6
+2025-09-11,26575,Guardian's Brew,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1355.57,356.57,158,56337.93,26.3,6
+2025-09-11,26575,Guardian's Brew,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1355.57,356.57,149,53128.81,26.3,6
+2025-09-11,26575,Guardian's Brew,Repolho,Guardian brew,1000,1355.57,355.57,200,71113.83,26.23,6
+2025-09-11,26575,Guardian's Brew,Repolho,Guardian brew,1000,1355.57,355.57,160,56891.07,26.23,6
+2025-09-11,26575,Guardian's Brew,Repolho,Guardian brew,1000,1355.57,355.57,114,40534.89,26.23,6
+2025-09-11,26575,Guardian's Brew,ChocolateDaddy,Supplies,1000,1355.57,355.57,99,35201.35,26.23,6
 2025-09-11,30171,Ticket to Demonic World,Guerra01,cheap tix,600,811.0,211.0,141,29751.31,26.02,7
-2025-09-11,27014,Moonroot Wine,SetSeller,cheapest in town,888,1196.44,308.44,74,22824.9,25.78,8
+2025-09-11,27014,Moonroot Wine,SetSeller,cheapest in town,888,1196.51,308.51,74,22829.99,25.78,8
 2025-09-11,25452,Rock Gem Fragment,Mikosita,SELL JACKPOT/REF/ROCK GEM/PPS,89999,120571.0,30572.0,10,305720.0,25.36,10
 2025-09-11,27020,Gold Pirate Scroll,SariSariStore1,SALE,21999,29373.47,7374.47,40,294978.76,25.11,11
 2025-09-11,27020,Gold Pirate Scroll,AltDude,buy my stuff,21999,29373.47,7374.47,24,176987.26,25.11,11
@@ -79,23 +79,20 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,27020,Gold Pirate Scroll,ZafirRose,pps gps coin,22000,29373.47,7373.47,14,103228.57,25.1,11
 2025-09-11,27020,Gold Pirate Scroll,Commerce,ww3,22000,29373.47,7373.47,8,58987.75,25.1,11
 2025-09-11,27020,Gold Pirate Scroll,IamSelling,.,22000,29373.47,7373.47,3,22120.41,25.1,11
-2025-09-11,22023,Green Jade,QWE123123,green and purple jades!!!,235000,313499.8,78499.8,4,313999.2,25.04,5
 2025-09-11,28326,Divine Grace Cap,PureGold,DIVINE GRACE CAP WITH STAT,119999,159999.14,40000.14,1,40000.14,25.0,5
-2025-09-11,27014,Moonroot Wine,Messrve,SOME POTSSSSSSSSSSSSSSSSSSSSSSSS,899,1196.44,297.44,151,44914.14,24.86,8
-2025-09-11,27014,Moonroot Wine,fairyWinX,COOK FLASH,900,1196.44,296.44,111,32905.35,24.78,8
+2025-09-11,27014,Moonroot Wine,Messrve,SOME POTSSSSSSSSSSSSSSSSSSSSSSSS,899,1196.51,297.51,151,44924.52,24.87,8
+2025-09-11,27014,Moonroot Wine,fairyWinX,COOK FLASH,900,1196.51,296.51,111,32912.99,24.78,8
+2025-09-11,22023,Green Jade,QWE123123,green and purple jades!!!,235000,312272.45,77272.45,4,309089.82,24.75,6
 2025-09-11,25426,Universe Purse Fragment.,stall1239,UG/Jade Frags|Jackpot Coin|Refs,290000,383845.92,93845.92,1,93845.92,24.45,6
 2025-09-11,28476,Ice Sealed Kris of the Sphinx,Pardofelis,nya,70000,92500.0,22500.0,1,22500.0,24.32,5
 2025-09-11,28476,Ice Sealed Kris of the Sphinx,ImNotPino,NECK RING SPR 50-60 CLER SEAL 65,70000,92500.0,22500.0,1,22500.0,24.32,5
 2025-09-11,27020,Gold Pirate Scroll,Demonus,6 CON SM GLOVES - SMTHNG,22500,29373.47,6873.47,20,137469.38,23.4,11
-2025-09-11,22012,Demonic Gem of Wind,BangkoCentral,UGs  Pharaoh Gems   Fairy Growth,1390000,1798333.33,408333.33,1,408333.33,22.71,4
 2025-09-11,27025,Radiation Lv1,vnt2,radiation Last! Come!,2999,3873.79,874.79,200,174958.12,22.58,8
 2025-09-11,27025,Radiation Lv1,vnt2,radiation Last! Come!,2999,3873.79,874.79,200,174958.12,22.58,8
 2025-09-11,27025,Radiation Lv1,Fith,123,3000,3873.79,873.79,200,174758.12,22.56,8
 2025-09-11,27025,Radiation Lv1,Fith,123,3000,3873.79,873.79,156,136311.33,22.56,8
 2025-09-11,27025,Radiation Lv1,creditcard,CHEAPEST RADIATIONS GO TAKE AND,3000,3873.79,873.79,34,29708.88,22.56,8
 2025-09-11,26588,Potion of Eagle,Chupeteira,CHEAP DEMONIC RAGE AND UG COLO,2450,3149.55,699.55,77,53865.62,22.21,12
-2025-09-11,22012,Demonic Gem of Wind,Cebola,gem gem gem,1400000,1798333.33,398333.33,1,398333.33,22.15,4
-2025-09-11,22012,Demonic Gem of Wind,AAA123,1321313131321,1400000,1798333.33,398333.33,1,398333.33,22.15,4
 2025-09-11,25426,Universe Purse Fragment.,jujhjuh,FB / UNIV FRAG / ROCK FRAG,299999,383845.92,83846.92,2,167693.85,21.84,6
 2025-09-11,25426,Universe Purse Fragment.,SariSariStore1,SALE,299999,383845.92,83846.92,1,83846.92,21.84,6
 2025-09-11,25426,Universe Purse Fragment.,LunaMaya,S>RBS Spider Web,300000,383845.92,83845.92,1,83845.92,21.84,6
@@ -106,15 +103,18 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,28429,Dance of Evanescence,wpadly*,gems +2+5 dance fairy rings neck,1399999,1764285.57,364286.57,1,364286.57,20.65,4
 2025-09-11,26588,Potion of Eagle,smoI,smol sale,2500,3149.55,649.55,36,23383.93,20.62,12
 2025-09-11,25452,Rock Gem Fragment,BlackLotus,Purble scroll  Rock gem fragment,96000,120571.0,24571.0,1,24571.0,20.38,10
-2025-09-11,22023,Green Jade,ii3,dealy fruits/green jade 250k/gre,250000,313499.8,63499.8,1,63499.8,20.26,5
 2025-09-11,30156,Jackpot Coin,Mikosita,SELL JACKPOT/REF/ROCK GEM/PPS,8499,10621.44,2122.44,200,424488.93,19.98,20
+2025-09-11,22023,Green Jade,ii3,dealy fruits/green jade 250k/gre,250000,312272.45,62272.45,1,62272.45,19.94,6
 2025-09-11,22007,Gem of Striking,AltDude,buy my stuff,1499999,1869999.8,370000.8,1,370000.8,19.79,4
 2025-09-11,22007,Gem of Striking,DodgeMyArrow,UG STRIKE,1500000,1869999.8,369999.8,1,369999.8,19.79,4
 2025-09-11,25451,Jade Gem Fragment,MarketPlace,PPS / GPS /  Fragments /Boots SS,76000,94536.93,18536.93,2,37073.85,19.61,8
 2025-09-11,22001,Furious Gem,Look7,gems,3000,3720.02,720.02,54,38880.87,19.36,9
 2025-09-11,22001,Furious Gem,Shooooop,Rush gems,3000,3720.02,720.02,31,22320.5,19.36,9
 2025-09-11,26591,Potion of Lion,Chupeteira,CHEAP DEMONIC RAGE AND UG COLO,2450,3024.38,574.38,99,56863.49,18.99,12
+2025-09-11,22012,Demonic Gem of Wind,BangkoCentral,UGs  Pharaoh Gems   Fairy Growth,1390000,1712857.0,322857.0,1,322857.0,18.85,5
 2025-09-11,27020,Gold Pirate Scroll,selleeeer1,GOLD GOLD GOLD,23999,29373.47,5374.47,62,333217.08,18.3,11
+2025-09-11,22012,Demonic Gem of Wind,Cebola,gem gem gem,1400000,1712857.0,312857.0,1,312857.0,18.27,5
+2025-09-11,22012,Demonic Gem of Wind,AAA123,1321313131321,1400000,1712857.0,312857.0,1,312857.0,18.27,5
 2025-09-11,25431,Kal Runestone,BuyingSta4ll7,KAL | JACK | BULL ++++++++++++++,1400000,1708333.0,308333.0,1,308333.0,18.05,6
 2025-09-11,28429,Dance of Evanescence,EngrAndy,U MY SODA POP,1450000,1764285.57,314285.57,1,314285.57,17.81,4
 2025-09-11,28472,Ice Sealed Bow of Enigma,Stol2,Cheap,99999,121428.29,21429.29,1,21429.29,17.65,6
@@ -130,14 +130,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,25452,Rock Gem Fragment,DoaaPepa,D O N     P E P E,100000,120571.0,20571.0,1,20571.0,17.06,10
 2025-09-11,22009,Gem of Colossus,SellMeWhole,S<gem of colo,1700000,2048747.38,348747.38,1,348747.38,17.02,7
 2025-09-11,22009,Gem of Colossus,GemSeller,UG,1700000,2048747.38,348747.38,1,348747.38,17.02,7
-2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.44,197.44,200,39488.93,16.5,8
-2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.44,197.44,200,39488.93,16.5,8
-2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.44,197.44,200,39488.93,16.5,8
-2025-09-11,27014,Moonroot Wine,G0ld,Spr Pots SPR SPR SPR SPR SPR SPR,999,1196.44,197.44,200,39488.93,16.5,8
-2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.44,197.44,199,39291.48,16.5,8
-2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.44,197.44,195,38501.7,16.5,8
-2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.44,197.44,194,38304.26,16.5,8
-2025-09-11,27014,Moonroot Wine,vnt5,Moonroot - prestige Wine ! Last!,999,1196.44,197.44,123,24285.69,16.5,8
+2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.51,197.51,200,39502.68,16.51,8
+2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.51,197.51,200,39502.68,16.51,8
+2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.51,197.51,200,39502.68,16.51,8
+2025-09-11,27014,Moonroot Wine,G0ld,Spr Pots SPR SPR SPR SPR SPR SPR,999,1196.51,197.51,200,39502.68,16.51,8
+2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.51,197.51,199,39305.17,16.51,8
+2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.51,197.51,195,38515.11,16.51,8
+2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1196.51,197.51,193,38120.09,16.51,8
+2025-09-11,27014,Moonroot Wine,vnt5,Moonroot - prestige Wine ! Last!,999,1196.51,197.51,123,24294.15,16.51,8
 2025-09-11,22000,FieryGem,EngrAndy,U MY SODA POP,6000,7143.47,1143.47,62,70895.13,16.01,11
 2025-09-11,26589,Potion of Bull,Chupeteira,CHEAP DEMONIC RAGE AND UG COLO,2450,2909.75,459.75,82,37699.13,15.8,13
 2025-09-11,27019,Purple Pirate Scroll,MiLD,rush,4900,5792.89,892.89,40,35715.56,15.41,29
