@@ -145,7 +145,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,26592,Flash Bomb,*DEATH*~#14,1k FB 1K FB 1K FB,1000,1201.5,201.5,105,21157.86,16.77,15
 2025-09-11,26346,Lantern,Muffins,CHEAP!!!!!!!!!!!!,5333,6371.06,1038.06,95,98615.98,16.29,13
 2025-09-11,26591,Potion of Lion,LotokSell,AegisRockUgColoDemoRage andMORE,2500,2981.84,481.84,61,29391.98,16.16,8
-2025-09-11,27019,Purple Pirate Scroll,North,CHEAP UG WIND/ PETS,4999,5946.75,947.75,51,48335.1,15.94,32
 2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1178.91,179.91,200,35982.21,15.26,7
 2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1178.91,179.91,200,35982.21,15.26,7
 2025-09-11,27014,Moonroot Wine,bafka1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,999,1178.91,179.91,200,35982.21,15.26,7
@@ -175,6 +174,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,27025,Radiation Lv1,MrMarket,MANU HL COOK SUP POINTS,3475,4003.39,528.39,190,100393.34,13.2,7
 2025-09-11,27025,Radiation Lv1,MrMarket,MANU HL COOK SUP POINTS,3475,4003.39,528.39,160,84541.76,13.2,7
 2025-09-11,27020,Gold Pirate Scroll,FARMBR,sell,24860,28599.81,3739.81,68,254306.88,13.08,15
+2025-09-11,27019,Purple Pirate Scroll,Satanized,Aegis And Cheap Stuff,5199,5961.76,762.76,84,64071.78,12.79,31
 2025-09-11,25431,Kal Runestone,Commerce,ww3,1500000,1717592.33,217592.33,1,217592.33,12.67,6
 2025-09-11,27025,Radiation Lv1,USEME,RADI GRENADE CHEAP,3499,4003.39,504.39,130,65570.18,12.6,7
 2025-09-11,27025,Radiation Lv1,USEME,RADI GRENADE CHEAP,3499,4003.39,504.39,86,43377.19,12.6,7
@@ -187,7 +187,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,27025,Radiation Lv1,Fith,Cheapo,3500,4003.39,503.39,156,78528.21,12.57,7
 2025-09-11,27025,Radiation Lv1,Bodeguita,radi 3.5k/iron brew 9.5k/hp food,3500,4003.39,503.39,151,76011.28,12.57,7
 2025-09-11,27025,Radiation Lv1,Bodeguita,radi 3.5k/iron brew 9.5k/hp food,3500,4003.39,503.39,150,75507.9,12.57,7
-2025-09-11,27019,Purple Pirate Scroll,Satanized,Aegis And Cheap Stuff,5199,5946.75,747.75,84,62810.75,12.57,32
 2025-09-11,27025,Radiation Lv1,Aldor,123 123,3500,4003.39,503.39,116,58392.77,12.57,7
 2025-09-11,22013,Demonic Gem of Striking,Friereeen,UG | Jade | Demo | Rock cheap,2250000,2565555.22,315555.22,1,315555.22,12.3,6
 2025-09-11,25452,Rock Gem Fragment,Buffita,all in one,110000,125327.88,15327.88,10,153278.75,12.23,11
@@ -196,10 +195,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,26578,Aegis Brew,Rambo,Sale,60000,67603.34,7603.34,5,38016.71,11.25,5
 2025-09-11,22024,Purple Jade,Friereeen,UG | Jade | Demo | Rock cheap,1000000,1125000.0,125000.0,2,250000.0,11.11,3
 2025-09-11,25428,Shining Runestone,DodgeMyArrow,UG STRIKE,400000,449996.67,49996.67,1,49996.67,11.11,3
+2025-09-11,27019,Purple Pirate Scroll,idex,idex,5300,5961.76,661.76,73,48308.43,11.1,31
 2025-09-11,22014,Demonic Gem of Colossus,Kaka5,SELL UG RAGE 2.3M/ DEM COLO 2.3M,2300000,2584444.4,284444.4,1,284444.4,11.01,5
-2025-09-11,27019,Purple Pirate Scroll,idex,idex,5300,5946.75,646.75,73,47212.53,10.88,32
 2025-09-11,28135,Crown of Poseidon,p3p1,Crown  Of  Poseidon,280000,312249.75,32249.75,1,32249.75,10.33,4
-2025-09-11,27019,Purple Pirate Scroll,xakid,PPS,5350,5946.75,596.75,77,45949.52,10.03,32
+2025-09-11,27019,Purple Pirate Scroll,xakid,PPS,5350,5961.76,611.76,77,47105.47,10.26,31
 2025-09-11,22007,Gem of Striking,GemSeller,ug,1580000,1753749.88,173749.88,1,173749.88,9.91,5
 2025-09-11,30156,Jackpot Coin,cheapstuffguys,cheap asf,9450,10479.85,1029.85,200,205969.44,9.83,21
 2025-09-11,30156,Jackpot Coin,cheapstuffguys,cheap asf,9450,10479.85,1029.85,46,47372.97,9.83,21
@@ -208,14 +207,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,22023,Green Jade,QWE123123,purple and green jades!!!,300000,331499.7,31499.7,4,125998.8,9.5,6
 2025-09-11,27028,Ship Atomizer Lv1,Bankaquaq,SELL FAST!!,3888,4295.93,407.93,158,64452.3,9.5,4
 2025-09-11,22023,Green Jade,Patrafir,Ultimate Prices ! Mega Discount!,299999,331499.7,31500.7,1,31500.7,9.5,6
+2025-09-11,27019,Purple Pirate Scroll,CrackHead,ALMOST 4 FREE,5398,5961.76,563.76,38,21422.85,9.46,31
+2025-09-11,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/REF/GPS/PPS/FB,5399,5961.76,562.76,99,55713.17,9.44,31
+2025-09-11,27019,Purple Pirate Scroll,Lira,<<< PURPLE PIRATE SCROLLS >>>,5399,5961.76,562.76,99,55713.17,9.44,31
+2025-09-11,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/REF/GPS/PPS/FB,5399,5961.76,562.76,97,54587.66,9.44,31
 2025-09-11,25431,Kal Runestone,Virginia,Kal / Pharaoh Lant / Elven Pot +,1555555,1717592.33,162037.33,1,162037.33,9.43,6
+2025-09-11,27019,Purple Pirate Scroll,8FROSTVB,PPS - PPS,5400,5961.76,561.76,99,55614.17,9.42,31
 2025-09-11,30156,Jackpot Coin,Fortis,All cheap,9500,10479.85,979.85,40,39193.89,9.35,21
 2025-09-11,30156,Jackpot Coin,NALDOCANAL,BUY SHITS HERE,9500,10479.85,979.85,22,21556.64,9.35,21
-2025-09-11,27019,Purple Pirate Scroll,CrackHead,ALMOST 4 FREE,5398,5946.75,548.75,38,20852.39,9.23,32
-2025-09-11,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/REF/GPS/PPS/FB,5399,5946.75,547.75,99,54226.95,9.21,32
-2025-09-11,27019,Purple Pirate Scroll,Lira,<<< PURPLE PIRATE SCROLLS >>>,5399,5946.75,547.75,99,54226.95,9.21,32
-2025-09-11,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/REF/GPS/PPS/FB,5399,5946.75,547.75,97,53131.46,9.21,32
-2025-09-11,27019,Purple Pirate Scroll,8FROSTVB,PPS - PPS,5400,5946.75,546.75,99,54127.95,9.19,32
 2025-09-11,27020,Gold Pirate Scroll,iMerchant,Cheap Items,26000,28599.81,2599.81,54,140389.58,9.09,15
 2025-09-11,25031,Refining Gem,Mikosita,SELL JACKPOT/REF/GPS/PPS/FB,13999,15394.61,1395.61,50,69780.36,9.07,14
 2025-09-11,25031,Refining Gem,stall1239,UG/Jade Frags|Jackpot Coin|Refs,14000,15394.61,1394.61,35,48811.25,9.06,14
@@ -223,26 +222,27 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,26571,Warlord Potion,Rambo,Sale,3900,4277.08,377.08,94,35445.13,8.82,4
 2025-09-11,22013,Demonic Gem of Striking,Benjoya,Cheapest InfernoPot/Ug/DemonicGG,2340000,2565555.22,225555.22,1,225555.22,8.79,6
 2025-09-11,22007,Gem of Striking,AltDude,cheap stuuff,1599999,1753749.88,153750.88,1,153750.88,8.77,5
+2025-09-11,27019,Purple Pirate Scroll,Zipopen,purple scroll,5450,5961.76,511.76,99,50664.17,8.58,31
+2025-09-11,27019,Purple Pirate Scroll,Zipopen,purple scroll,5450,5961.76,511.76,99,50664.17,8.58,31
+2025-09-11,27019,Purple Pirate Scroll,Zipopen,purple scroll,5450,5961.76,511.76,52,26611.49,8.58,31
 2025-09-11,26573,Demonic Potion,JewelRush,gerdgd,21500,23504.67,2004.67,15,30070.09,8.53,4
 2025-09-11,26592,Flash Bomb,Venderina,FB and Grenade CHEAPEST,1099,1201.5,102.5,200,20500.69,8.53,15
 2025-09-11,26592,Flash Bomb,dwtix,FB's / DW tix / Bunny Potion's,1100,1201.5,101.5,200,20300.69,8.45,15
 2025-09-11,26592,Flash Bomb,dwtix,FB's / DW tix / Bunny Potion's,1100,1201.5,101.5,200,20300.69,8.45,15
 2025-09-11,22013,Demonic Gem of Striking,Battlepass,JADE/ROCK/UNIV FRAG/UGs/KAL/DEMO,2350000,2565555.22,215555.22,1,215555.22,8.4,6
 2025-09-11,22013,Demonic Gem of Striking,Cebola,gem gem gem,2350000,2565555.22,215555.22,1,215555.22,8.4,6
-2025-09-11,27019,Purple Pirate Scroll,Zipopen,purple scroll,5450,5946.75,496.75,99,49177.95,8.35,32
-2025-09-11,27019,Purple Pirate Scroll,Zipopen,purple scroll,5450,5946.75,496.75,99,49177.95,8.35,32
-2025-09-11,27019,Purple Pirate Scroll,Zipopen,purple scroll,5450,5946.75,496.75,52,25830.84,8.35,32
+2025-09-11,27019,Purple Pirate Scroll,Robert1,SHIELD - PBS - PPS,5500,5961.76,461.76,99,45714.17,7.75,31
+2025-09-11,27019,Purple Pirate Scroll,iinerti,FBs/PPS/FGP/IslandCard/MVM/PBS,5500,5961.76,461.76,99,45714.17,7.75,31
+2025-09-11,27019,Purple Pirate Scroll,iinerti,FBs/PPS/FGP/IslandCard/MVM/PBS,5500,5961.76,461.76,99,45714.17,7.75,31
+2025-09-11,27019,Purple Pirate Scroll,Ludrovi,Purple pirate Scrolls,5500,5961.76,461.76,89,41096.58,7.75,31
+2025-09-11,27019,Purple Pirate Scroll,iinerti,FBs/PPS/FGP/IslandCard/MVM/PBS,5500,5961.76,461.76,58,26782.04,7.75,31
+2025-09-11,27019,Purple Pirate Scroll,SSSSS,BOE/PPS/APP TRANSFER,5500,5961.76,461.76,49,22626.21,7.75,31
+2025-09-11,27019,Purple Pirate Scroll,BlackLotus,Purble scroll  Rock gem fragment,5500,5961.76,461.76,44,20317.41,7.75,31
 2025-09-11,26585,Blessed Potion,Ptcaca,Pots cheap/Chaos Runestone,110000,119227.46,9227.46,12,110729.47,7.74,8
 2025-09-11,26585,Blessed Potion,MrMarket,MANU HL COOK SUP POINTS,110000,119227.46,9227.46,4,36909.82,7.74,8
 2025-09-11,27006,Bunny Potion,dwtix,FB's / DW tix / Bunny Potion's,1500,1624.17,124.17,192,23840.07,7.64,9
 2025-09-11,27006,Bunny Potion,dwtix,FB's / DW tix / Bunny Potion's,1500,1624.17,124.17,168,20860.06,7.64,9
 2025-09-11,22009,Gem of Colossus,Chupeteira,DEMONIC RAGE/WIND AND VIP FB Lv2,1945000,2104999.75,159999.75,1,159999.75,7.6,8
-2025-09-11,27019,Purple Pirate Scroll,Robert1,SHIELD - PBS - PPS,5500,5946.75,446.75,99,44227.95,7.51,32
-2025-09-11,27019,Purple Pirate Scroll,iinerti,FBs/PPS/FGP/IslandCard/MVM/PBS,5500,5946.75,446.75,99,44227.95,7.51,32
-2025-09-11,27019,Purple Pirate Scroll,iinerti,FBs/PPS/FGP/IslandCard/MVM/PBS,5500,5946.75,446.75,99,44227.95,7.51,32
-2025-09-11,27019,Purple Pirate Scroll,Ludrovi,Purple pirate Scrolls,5500,5946.75,446.75,89,39760.48,7.51,32
-2025-09-11,27019,Purple Pirate Scroll,iinerti,FBs/PPS/FGP/IslandCard/MVM/PBS,5500,5946.75,446.75,58,25911.33,7.51,32
-2025-09-11,27019,Purple Pirate Scroll,SSSSS,BOE/PPS/APP TRANSFER,5500,5946.75,446.75,49,21890.6,7.51,32
 2025-09-11,22008,Gem of the Wind,North,CHEAP UG WIND/ PETS,999999,1079999.8,80000.8,1,80000.8,7.41,5
 2025-09-11,22008,Gem of the Wind,conqstall2,UG wind  app transfer class card,1000000,1079999.8,79999.8,1,79999.8,7.41,5
 2025-09-11,22031,Aegis Rock,Friereeen,UG | Jade | Demo | Rock cheap,2100000,2266666.5,166666.5,2,333333.0,7.35,4
@@ -277,6 +277,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,26573,Demonic Potion,Signet,Demonic/Bless/Potion of Bull,22500,23504.67,1004.67,35,35163.55,4.27,4
 2025-09-11,26573,Demonic Potion,MrMarket,MANU HL COOK SUP POINTS,22500,23504.67,1004.67,25,25116.82,4.27,4
 2025-09-11,26585,Blessed Potion,B0SS,zzzzzzz,115000,119227.46,4227.46,14,59184.39,3.55,8
+2025-09-11,27019,Purple Pirate Scroll,Demonus,6 CON SM GLOVES - SMTHNG,5750,5961.76,211.76,99,20964.17,3.55,31
+2025-09-11,27019,Purple Pirate Scroll,Demonus,6 CON SM GLOVES - SMTHNG,5750,5961.76,211.76,98,20752.41,3.55,31
 2025-09-11,22014,Demonic Gem of Colossus,ST002,DEM Colo,2500000,2584444.4,84444.4,1,84444.4,3.27,5
 2025-09-11,22010,Gem of Rage,Pots,UG Soul-Wind-Rage/ Demonic Soul,2400000,2474999.75,74999.75,1,74999.75,3.03,4
 2025-09-11,22010,Gem of Rage,BangkoCentral,UGs  Pharaoh Gems   Fairy Growth,2400000,2474999.75,74999.75,1,74999.75,3.03,4
