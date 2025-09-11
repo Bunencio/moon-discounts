@@ -2,18 +2,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.5,28326,Divine Grace Cap,19999,159999.14,5,1,DemiMerchant,99c Bless / Cleric / Poseidon 99
 87.5,28326,Divine Grace Cap,19999,159999.14,5,1,DemiMerchant,99c Bless / Cleric / Poseidon 99
 84.56,22000,FieryGem,1100,7122.35,12,1,ST002,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
-83.33,28212,Priestly Robe,5000,29999.75,3,1,loyalty1,selling jpc
 81.25,28326,Divine Grace Cap,29999,159999.14,5,1,PureGold,DIVINE GRACE CAP WITH STAT
 81.25,28326,Divine Grace Cap,29999,159999.14,5,1,PureGold,DIVINE GRACE CAP WITH STAT
 80.0,28035,Solar Shield,10000,50000.0,6,1,Obsidian,rare fc/ds eqps|fairydust|bps
+77.36,28212,Priestly Robe,15000,66249.5,3,1,ZafirRose,pps gps coin
+77.36,28212,Priestly Robe,15000,66249.5,3,1,Rudra,sell>pps/sai/samu
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
+75.44,28403,Blade of Incantation,99999,407142.57,5,1,Vneidnha,champ itens
 75.0,28440,Fire Sealed Roar of Evanescence,5000,20000.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
-72.97,28403,Blade of Incantation,99999,369999.6,4,1,Vneidnha,champ itens
 71.7,28432,Fire Sealed Staff of Mirage,3900,13780.0,3,1,bowstalls,cheap lv40-50-60-65 items
 70.0,25478,Carsise Hairstyle Book,300,1000.0,4,40,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 68.63,25056,Willow Wood Log,400,1275.18,3,49,Wardo,S>PBS/guard /willow
@@ -32,7 +33,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.89,25483,Yellow Dye,100,249.34,3,21,2Homo,sell
 59.18,28155,Steel Platemail,4000,9800.0,3,1,Toad,equi crus+cham+ss bow+ear rock+i
 58.84,25485,Cyan Dye,100,242.96,3,17,2Homo,sell
-58.62,28401,Platemail of the Cursed Soul,120000,290000.0,3,1,Kevingstong,offers...
 57.98,25488,Purple Dye,100,238.0,3,24,2Homo,sell
 57.68,25486,Blue Dye,100,236.3,3,22,2Homo,sell
 57.14,28454,Ice Sealed Blade of Enigma,250000,583333.0,3,1,SSSSS,BOE/PPS/APP TRANSFER
@@ -45,6 +45,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.02,25440,Evanescence Stone,400,909.47,7,4,CStal1,afk
 56.01,27021,Green Pirate Scroll,199,452.34,8,5,iLilith,Cheapest STR Pet
 55.98,28458,Ice Sealed Staff of the Sphinx,18000,40888.56,8,1,Kinyu,18K
+55.1,28401,Platemail of the Cursed Soul,110000,245000.0,4,1,Kayo,Boi+4/Doe+3 3soc/Uns45/Apparel
 54.78,25507,Expert Stone,300,663.38,5,99,Shooooop,Rush gems
 51.33,2301,,10000,20545.39,6,1,burnik,buy mee
 51.09,28458,Ice Sealed Staff of the Sphinx,19999,40888.56,8,1,Stol2,Cheap
+51.02,28401,Platemail of the Cursed Soul,120000,245000.0,4,1,Kevingstong,offers...
