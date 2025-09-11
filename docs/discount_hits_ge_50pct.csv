@@ -1,12 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
+86.11,28326,Divine Grace Cap,29999,215999.2,4,1,PureGold,DIVINE GRACE CAP WITH STAT
+86.11,28326,Divine Grace Cap,29999,215999.2,4,1,PureGold,DIVINE GRACE CAP WITH STAT
 85.32,26564,Meditation Potion,99,674.56,6,31,Nikoz,loot selling
 84.86,22000,FieryGem,1100,7265.6,12,1,ST002,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 83.33,28212,Priestly Robe,5000,29999.75,3,1,loyalty1,selling
-81.9,28326,Divine Grace Cap,29999,165713.43,5,1,PureGold,DIVINE GRACE CAP WITH STAT
-81.9,28326,Divine Grace Cap,29999,165713.43,5,1,PureGold,DIVINE GRACE CAP WITH STAT
 80.0,28035,Solar Shield,10000,50000.0,6,1,Obsidian,rare fc/ds eqps|fairydust|bps
-75.86,28326,Divine Grace Cap,39999,165713.43,5,1,DemiMerchant,99c Bless Crown GPS Cleric 99c
-75.86,28326,Divine Grace Cap,39999,165713.43,5,1,DemiMerchant,99c Bless Crown GPS Cleric 99c
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
@@ -15,17 +13,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.0,28440,Fire Sealed Roar of Evanescence,5000,20000.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 72.87,26589,Potion of Bull,680,2506.07,16,34,darkghost,repu
+71.7,28432,Fire Sealed Staff of Mirage,3900,13780.0,3,1,bowstalls,cheap lv40-50-60-65 items
 71.06,25506,Expert Scroll,400,1382.19,4,52,Hunter,CHEAPEZT SOCR
 71.06,25506,Expert Scroll,400,1382.19,4,79,Hunter,CHEAPEZT SOCR
 70.35,26564,Meditation Potion,200,674.56,6,49,AtiradorAzul,SS  POT  CLERIC  RING ACC.
 70.0,25478,Carsise Hairstyle Book,300,1000.0,4,40,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-67.86,28432,Fire Sealed Staff of Mirage,3900,12133.33,3,1,bowstalls,cheap lv40-50-60-65 items
-67.86,28432,Fire Sealed Staff of Mirage,3900,12133.33,3,1,bowstalls,cheap lv40-50-60-65 items
 67.51,25056,Willow Wood Log,400,1230.98,3,69,Wardo,S>PBS/guard /willow
 67.48,30172,Ticket to Treasure Island,200,615.0,6,1,ATHALIAH,LOWEST
 67.01,25440,Evanescence Stone,300,909.47,7,3,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 64.96,28406,Earth Sealed Staff of Abraxas.,3000,8562.38,5,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 63.94,28466,Ice Sealed Judgment of Enigma,15000,41592.17,5,1,Electricman1,JpCoin/Jade gem rock gem fragmen
+63.72,28432,Fire Sealed Staff of Mirage,5000,13780.0,3,1,CallMeBaby,23344
 62.68,25439,Incantation Stone,400,1071.76,5,46,Shooooop,Rush gems
 61.89,25482,Orange Dye,100,262.42,3,19,2Homo,sell
 61.69,25490,Brown Dye,100,261.01,4,19,2Homo,sell
@@ -36,7 +34,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.89,25483,Yellow Dye,100,249.34,3,21,2Homo,sell
 59.18,28155,Steel Platemail,4000,9800.0,3,1,Toad,equi crus+cham+ss bow+ear rock+i
 58.84,25485,Cyan Dye,100,242.96,3,17,2Homo,sell
-58.79,28432,Fire Sealed Staff of Mirage,5000,12133.33,3,1,CallMeBaby,23344
 58.49,30145,Fire Seed,8000,19272.64,5,4,AtiradorAzul,SS  POT  CLERIC  RING ACC.
 58.45,25507,Expert Stone,300,721.94,5,99,Shooooop,Rush gems
 57.98,25488,Purple Dye,100,238.0,3,24,2Homo,sell
@@ -55,6 +52,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.21,28456,Ice Sealed Robe of the Sphinx,20000,41851.33,3,1,Buffita,all in one
 51.88,25503,Magical Stone,400,831.28,10,49,POPOR,CRUS ITEMS   PBS ETC.
 51.33,2301,,10000,20545.39,6,1,burnik,buy mee
+51.29,28474,Ice Sealed Mantle of the Sphinx,45555,93518.0,3,1,Sisifo,ROCK/JADE/JACK/POTS/SPHINX
 50.98,22003,Glowing Gem,999,2037.95,11,3,CStal1,afk
 50.93,22003,Glowing Gem,1000,2037.95,11,2,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 50.93,22003,Glowing Gem,1000,2037.95,11,35,Frank,GJADE ROCK FR REF GEMS DR ER EP
