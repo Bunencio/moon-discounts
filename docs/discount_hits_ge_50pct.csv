@@ -1,8 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.5,28326,Divine Grace Cap,19999,159999.14,5,1,DemiMerchant,99c Bless / Cleric / Poseidon 99
 87.5,28326,Divine Grace Cap,19999,159999.14,5,1,DemiMerchant,99c Bless / Cleric / Poseidon 99
-87.19,25418,Clam Crown,300,2341.77,3,3,TRUJILLO,Sekkkk
-84.62,22000,FieryGem,1100,7150.15,12,1,ST002,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+84.56,22000,FieryGem,1100,7122.35,12,1,ST002,CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 83.33,28212,Priestly Robe,5000,29999.75,3,1,loyalty1,selling jpc
 81.25,28326,Divine Grace Cap,29999,159999.14,5,1,PureGold,DIVINE GRACE CAP WITH STAT
 81.25,28326,Divine Grace Cap,29999,159999.14,5,1,PureGold,DIVINE GRACE CAP WITH STAT
@@ -36,6 +35,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.18,28155,Steel Platemail,4000,9800.0,3,1,Toad,equi crus+cham+ss bow+ear rock+i
 58.84,25485,Cyan Dye,100,242.96,3,17,2Homo,sell
 57.98,25488,Purple Dye,100,238.0,3,24,2Homo,sell
+57.89,30145,Fire Seed,8000,18999.88,4,4,AtiradorAzul,SS  POT  CLERIC  RING ACC.
 57.68,25486,Blue Dye,100,236.3,3,22,2Homo,sell
 57.14,28454,Ice Sealed Blade of Enigma,250000,583333.0,3,1,SSSSS,BOE/PPS/APP TRANSFER
 56.89,28466,Ice Sealed Judgment of Enigma,18000,41755.3,7,1,Kinyu,18K
