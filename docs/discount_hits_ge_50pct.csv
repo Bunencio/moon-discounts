@@ -10,7 +10,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.06,25506,Expert Scroll,400,1382.19,4,79,Hunter,CHEAPEZT SOCR
 70.81,25481,Red Dye,100,342.57,4,1,2Homo,sell
 69.28,25482,Orange Dye,100,325.48,3,19,2Homo,sell
-69.27,26590,Potion of Soul,1000,3254.05,9,1,Spartan,Cruz 45-60lvl | FB |Royal | Poti
 68.1,25440,Evanescence Stone,399,1250.62,7,2,AltDude,cheap stuuff
 68.03,25485,Cyan Dye,100,312.77,3,17,2Homo,sell
 68.02,25440,Evanescence Stone,400,1250.62,7,4,CStal1,afk
@@ -23,8 +22,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.45,28432,Fire Sealed Staff of Mirage,3900,10971.0,5,1,bowstalls,cheap lv40-50-60-65 items
 63.55,28432,Fire Sealed Staff of Mirage,3999,10971.0,5,1,iLegolas,Power PPS Rock Reput Jackp BPS@@
 62.5,25477,Lance Hairstyle Book,5000,13333.33,3,4,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-61.7,26569,Warrior's Potion,220,574.49,4,200,OverTarget,Warrior Potion Best Price 200G
-61.7,26569,Warrior's Potion,220,574.49,4,187,OverTarget,Warrior Potion Best Price 200G
+61.69,26569,Warrior's Potion,220,574.24,4,200,OverTarget,Warrior Potion Best Price 200G
+61.69,26569,Warrior's Potion,220,574.24,4,187,OverTarget,Warrior Potion Best Price 200G
 61.33,26589,Potion of Bull,999,2583.71,18,12,xBroski,Seal lvl 60 So cheap !
 61.33,26589,Potion of Bull,999,2583.71,18,5,shale,stallls
 61.3,26589,Potion of Bull,1000,2583.71,18,1,Spartan,Cruz 45-60lvl | FB |Royal | Poti
@@ -51,9 +50,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.02,25440,Evanescence Stone,600,1250.62,7,38,FreePalestine1,selll
 51.91,25503,Magical Stone,450,935.75,11,38,Demonus,6 CON SM GLOVES - SMTHNG
 51.91,25503,Magical Stone,450,935.75,11,11,iLegolas,Power PPS Rock Reput Jackp BPS@@
-50.21,26326,Elven Royal Signet,900,1807.69,9,12,Spartan,Cruz 45-60lvl | FB |Royal | Poti
 50.15,26564,Meditation Potion,349,700.13,6,6,lapada,MEDITATION/WEIGTH/WATER SED/TICK
 50.15,28474,Ice Sealed Mantle of the Sphinx,45555,91388.5,4,1,Sisifo,ROCK/JADE/JACK/POTS/SPHINX
+50.12,26326,Elven Royal Signet,900,1804.34,9,12,Spartan,Cruz 45-60lvl | FB |Royal | Poti
 50.01,26564,Meditation Potion,350,700.13,6,200,Italy,potions
 50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,CallMeBaby,Chaos/JACKPOT
 50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,Comoestas,Manufact | Potions | more
