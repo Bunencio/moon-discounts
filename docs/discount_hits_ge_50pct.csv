@@ -1,11 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.05,28326,Divine Grace Cap,19999,154374.5,3,1,DemiMerchant,99c Bless / Cleric / Poseidon 99
 87.05,28326,Divine Grace Cap,19999,154374.5,3,1,DemiMerchant,99c Bless / Cleric / Poseidon 99
+83.33,28212,Priestly Robe,5000,29999.75,3,1,loyalty1,iam selling
 82.19,28326,Divine Grace Cap,27500,154374.5,3,1,Che,El Rinco de Xiclets
 80.77,25501,Brown Colorant,500,2599.96,4,1,cheapstuffsell,cheap
 79.55,28035,Solar Shield,10000,48888.89,6,1,Obsidian,rare fc/ds eqps|red/legend bp
-77.36,28212,Priestly Robe,15000,66249.5,3,1,ZafirRose,pps gps coin
-77.36,28212,Priestly Robe,15000,66249.5,3,1,Rudra,sell>pps/sai/samu
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
 75.66,2301,,5000,20545.39,6,1,MUSACHI,CCC
@@ -18,7 +17,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.92,25056,Willow Wood Log,400,1286.97,3,44,Wardo,S>PBS/guard /willow
 68.07,30118,Vial of Strength Reset,2000,6263.16,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
 67.59,28456,Ice Sealed Robe of the Sphinx,20000,61711.0,5,1,Buffita,all in one
-67.53,30172,Ticket to Treasure Island,200,615.92,6,1,ATHALIAH,LOWEST
 67.01,25440,Evanescence Stone,300,909.47,7,3,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 66.43,25503,Magical Stone,245,729.88,9,21,iLegolas,Bow50  Rock Reput PPS Power Jack
 65.61,25478,Carsise Hairstyle Book,300,872.34,3,40,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
@@ -48,7 +46,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.13,25440,Evanescence Stone,399,909.47,7,2,AltDude,buy my stuff
 56.02,25440,Evanescence Stone,400,909.47,7,42,Shooooop,Rush gems
 56.02,25440,Evanescence Stone,400,909.47,7,4,CStal1,afk
-54.97,27021,Green Pirate Scroll,199,441.96,9,5,iLilith,Cheapest STR Pet
+55.7,27021,Green Pirate Scroll,199,449.22,11,5,iLilith,Cheapest STR Pet
 54.34,25507,Expert Stone,300,656.97,6,99,Shooooop,Rush gems
 54.2,28458,Ice Sealed Staff of the Sphinx,18000,39299.7,8,1,Kinyu,18K
 52.63,28430,Fire Sealed Robe of Malediction,5000,10555.56,4,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
