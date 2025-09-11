@@ -40,7 +40,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,25479,Phyllis Hairstyle Book,Khonsu,CHEAPEST HAIRSTYLING ITEMS!,1500,2330.36,830.36,41,34044.64,35.63,3
 2025-09-11,22004,Shining Gem,vendedolmax,2000,4400,6588.29,2188.29,14,30636.1,33.21,12
 2025-09-11,25452,Rock Gem Fragment,Rambo,SALE!!!,80000,119241.26,39241.26,8,313930.07,32.91,12
-2025-09-11,26326,Elven Royal Signet,SellMeWhole,S> Ugems /pots/PBS/LBS Cheap,1200,1781.86,581.86,70,40730.36,32.65,9
 2025-09-11,28460,Ice Sealed Robe of Enigma,KingHazee,Skating pot cheap and more,160000,236666.67,76666.67,1,76666.67,32.39,3
 2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1323.46,428.46,200,85691.61,32.37,7
 2025-09-11,26575,Guardian's Brew,SetSeller,cheapest in town,895,1323.46,428.46,192,82263.95,32.37,7
@@ -54,13 +53,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,22003,Glowing Gem,Look7,gems,1500,2199.34,699.34,57,39862.58,31.8,11
 2025-09-11,27014,Moonroot Wine,Suicide,Cheap Moonroot wine,800,1166.67,366.67,150,55000.76,31.43,8
 2025-09-11,27014,Moonroot Wine,vnt3,Heavy Crystal-Moonroot Wine,800,1166.67,366.67,149,54634.08,31.43,8
-2025-09-11,25451,Jade Gem Fragment,staller2,bomb/grenade/soul det/fragments,64500,93942.23,29442.23,1,29442.23,31.34,6
 2025-09-11,22001,Furious Gem,Look7,gems,3000,4354.32,1354.32,54,73133.29,31.1,12
 2025-09-11,22001,Furious Gem,Shooooop,Rush gems,3000,4354.32,1354.32,31,41983.92,31.1,12
 2025-09-11,27020,Gold Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/PPS,19999,28949.85,8950.85,8,71606.76,30.92,16
-2025-09-11,25451,Jade Gem Fragment,LotokSell,AegisRock UgColo Cheap,65000,93942.23,28942.23,2,57884.46,30.81,6
-2025-09-11,25451,Jade Gem Fragment,purplered,Enigmapower sunheart jadefrag,65000,93942.23,28942.23,2,57884.46,30.81,6
-2025-09-11,25451,Jade Gem Fragment,Everest,Pots,65000,93942.23,28942.23,2,57884.46,30.81,6
+2025-09-11,25451,Jade Gem Fragment,staller2,bomb/grenade/soul det/fragments,64500,93240.67,28740.67,1,28740.67,30.82,7
+2025-09-11,25451,Jade Gem Fragment,LotokSell,AegisRock UgColo Cheap,65000,93240.67,28240.67,2,56481.33,30.29,7
+2025-09-11,25451,Jade Gem Fragment,purplered,Enigmapower sunheart jadefrag,65000,93240.67,28240.67,2,56481.33,30.29,7
+2025-09-11,25451,Jade Gem Fragment,Everest,Pots,65000,93240.67,28240.67,2,56481.33,30.29,7
 2025-09-11,26344,Novice Weightless Potion,Honey,---------  Pet  Fruits   -------,3500,4917.13,1417.13,42,59519.36,28.82,6
 2025-09-11,28468,Ice Sealed Mantle of Enigma,BjornIronside,CHEAP ALLNFAST,90000,124999.67,34999.67,1,34999.67,28.0,3
 2025-09-11,25450,Chest of Demonic World,purplered,Enigmapower sunheart jadefrag,60000,83333.33,23333.33,1,23333.33,28.0,3
@@ -74,6 +73,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,28403,Blade of Incantation,AmeliaG,2ndGenStrLv10/Uns45Crus,250000,339841.14,89841.14,1,89841.14,26.44,4
 2025-09-11,28403,Blade of Incantation,AmeliaG,2ndGenStrLv10/Uns45Crus,250000,339841.14,89841.14,1,89841.14,26.44,4
 2025-09-11,30171,Ticket to Demonic World,Guerra01,cheap tix,600,810.67,210.67,141,29705.15,25.99,7
+2025-09-11,26326,Elven Royal Signet,SellMeWhole,S> Ugems /pots/PBS/LBS Cheap,1200,1613.35,413.35,70,28934.55,25.62,9
 2025-09-11,25452,Rock Gem Fragment,staller2,bomb/grenade/soul det/fragments,89000,119241.26,30241.26,5,151206.29,25.36,12
 2025-09-11,26590,Potion of Soul,Chupeteira,DEMONIC RAGE/WIND AND VIP FB Lv2,2450,3273.5,823.5,63,51880.5,25.16,8
 2025-09-11,27025,Radiation Lv1,vnt2,radiation,2999,3988.84,989.84,200,197968.96,24.82,7
@@ -116,12 +116,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,26589,Potion of Bull,Signet,Demonic/Bless/Potion of Bull,2000,2503.87,503.87,41,20658.52,20.12,16
 2025-09-11,22023,Green Jade,ii3,TS / grenade/fbs/rock/jade/etc,270000,337727.0,67727.0,1,67727.0,20.05,6
 2025-09-11,25452,Rock Gem Fragment,BlackLotus,Purble scroll  Rock gem fragment,96000,119241.26,23241.26,1,23241.26,19.49,12
-2025-09-11,25451,Jade Gem Fragment,MarketPlace,PPS / GPS /  Fragments /Boots SS,76000,93942.23,17942.23,2,35884.46,19.1,6
 2025-09-11,27020,Gold Pirate Scroll,NALDOCANAL,BUY SHITS HERE,23500,28949.85,5449.85,12,65398.14,18.83,16
 2025-09-11,28429,Dance of Evanescence,EngrAndy,U MY SODA POP,1450000,1783333.33,333333.33,1,333333.33,18.69,3
 2025-09-11,28429,Dance of Evanescence,EngrAndy,U MY SODA POP,1450000,1783333.33,333333.33,1,333333.33,18.69,3
 2025-09-11,26344,Novice Weightless Potion,LotokSell,AegisRock UgColo Cheap,4000,4917.13,917.13,62,56861.91,18.65,6
 2025-09-11,25431,Kal Runestone,BuyingSta4ll7,KAL | JACK | BULL ++++++++++++++,1400000,1717592.33,317592.33,1,317592.33,18.49,6
+2025-09-11,25451,Jade Gem Fragment,MarketPlace,PPS / GPS /  Fragments /Boots SS,76000,93240.67,17240.67,2,34481.33,18.49,7
 2025-09-11,26591,Potion of Lion,Chupeteira,DEMONIC RAGE/WIND AND VIP FB Lv2,2450,2999.33,549.33,99,54384.08,18.32,8
 2025-09-11,25426,Universe Purse Fragment.,jujhjuh,FB / UNIV FRAG / ROCK FRAG,299999,364999.75,65000.75,2,130001.5,17.81,5
 2025-09-11,25426,Universe Purse Fragment.,Uwe,HUHU,299999,364999.75,65000.75,1,65000.75,17.81,5
@@ -199,24 +199,18 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,22023,Green Jade,Patrafir,Ultimate Prices ! Mega Discount!,299999,337727.0,37728.0,1,37728.0,11.17,6
 2025-09-11,22024,Purple Jade,Friereeen,UG | Jade | Demo | Rock cheap,1000000,1125000.0,125000.0,2,250000.0,11.11,3
 2025-09-11,25428,Shining Runestone,DodgeMyArrow,UG STRIKE,400000,449996.67,49996.67,1,49996.67,11.11,3
-2025-09-11,25031,Refining Gem,Mikosita,SELL JACKPOT/GPS/REF/PPS,13499,15138.59,1639.59,90,147562.98,10.83,16
+2025-09-11,25420,Sunlight Heart,Rambo,SALE!!!,34000,38193.55,4193.55,6,25161.29,10.98,3
+2025-09-11,25031,Refining Gem,Mikosita,SELL JACKPOT/GPS/REF/PPS,13499,15096.36,1597.36,90,143762.16,10.58,15
 2025-09-11,27019,Purple Pirate Scroll,Satanized,Aegis And Cheap Stuff,5199,5814.19,615.19,84,51676.3,10.58,31
+2025-09-11,26326,Elven Royal Signet,Fiorino,SELL CHEAP SELL CHEAP SELL CHEAP,1444,1613.35,169.35,160,27096.12,10.5,9
 2025-09-11,28135,Crown of Poseidon,p3p1,Crown  Of  Poseidon,280000,312249.75,32249.75,1,32249.75,10.33,4
 2025-09-11,27020,Gold Pirate Scroll,iMerchant,Cheap Items,26000,28949.85,2949.85,54,159291.63,10.19,16
+2025-09-11,26592,Flash Bomb,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,987,1096.55,109.55,200,21910.59,9.99,18
 2025-09-11,26573,Demonic Potion,MrMarket,RADIS MANU HL COOK AND SUP POINT,21000,23329.44,2329.44,25,58235.98,9.98,5
 2025-09-11,22007,Gem of Striking,GemSeller,ug,1580000,1753749.88,173749.88,1,173749.88,9.91,5
 2025-09-11,25431,Kal Runestone,Battlepass,JADE/ROCK/UNIV FRAG/UGs/KAL/DEMO,1550000,1717592.33,167592.33,1,167592.33,9.76,6
 2025-09-11,27028,Ship Atomizer Lv1,Bankaquaq,SELL FAST!!,3888,4295.93,407.93,158,64452.3,9.5,4
 2025-09-11,25431,Kal Runestone,Virginia,Kal / Pharaoh Lant / Elven Pot +,1555555,1717592.33,162037.33,1,162037.33,9.43,6
-2025-09-11,26592,Flash Bomb,Niggo,Flash BomB-Best in Market,999,1101.03,102.03,200,20406.53,9.27,17
-2025-09-11,26592,Flash Bomb,Golpe,flasg bombs 999g,999,1101.03,102.03,200,20406.53,9.27,17
-2025-09-11,26592,Flash Bomb,Honey,---------  Pet  Fruits   -------,999,1101.03,102.03,198,20202.46,9.27,17
-2025-09-11,26592,Flash Bomb,fairyWinX,COOK FLASH,1000,1101.03,101.03,200,20206.53,9.18,17
-2025-09-11,26592,Flash Bomb,fairyWinX,COOK FLASH,1000,1101.03,101.03,200,20206.53,9.18,17
-2025-09-11,26592,Flash Bomb,Bankaquaq,SELL FAST!!,1000,1101.03,101.03,200,20206.53,9.18,17
-2025-09-11,26592,Flash Bomb,Bankaquaq,SELL FAST!!,1000,1101.03,101.03,200,20206.53,9.18,17
-2025-09-11,26592,Flash Bomb,Bankaquaq,SELL FAST!!,1000,1101.03,101.03,200,20206.53,9.18,17
-2025-09-11,26592,Flash Bomb,Bankaquaq,SELL FAST!!,1000,1101.03,101.03,200,20206.53,9.18,17
 2025-09-11,22031,Aegis Rock,LotokSell,AegisRock UgColo Cheap,2000000,2199999.83,199999.83,1,199999.83,9.09,4
 2025-09-11,27019,Purple Pirate Scroll,idex,idex,5300,5814.19,514.19,73,37536.17,8.84,31
 2025-09-11,30156,Jackpot Coin,cheapstuffguys,cheap asf,9450,10364.57,914.57,200,182913.63,8.82,25
@@ -232,7 +226,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,30176,MvM Coin,Satanized,Aegis And Cheap Stuff,2999,3274.59,275.59,99,27283.13,8.42,10
 2025-09-11,22013,Demonic Gem of Striking,Battlepass,JADE/ROCK/UNIV FRAG/UGs/KAL/DEMO,2350000,2565555.22,215555.22,1,215555.22,8.4,6
 2025-09-11,22013,Demonic Gem of Striking,Cebola,gem gem gem,2350000,2565555.22,215555.22,1,215555.22,8.4,6
-2025-09-11,27006,Bunny Potion,dwtix,FB's / DW tix / Bunny Potion's,1500,1637.5,137.5,168,23099.7,8.4,9
 2025-09-11,26346,Lantern,Dago,CB/HB/NANA/GROWTH/W8/LANTERN,5800,6327.79,527.79,108,57001.72,8.34,12
 2025-09-11,30156,Jackpot Coin,Fortis,All cheap,9500,10364.57,864.57,40,34582.73,8.34,25
 2025-09-11,26585,Blessed Potion,Ptcaca,Pots cheap/Chaos Runestone,110000,119811.85,9811.85,12,117742.25,8.19,6
@@ -240,10 +233,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,27019,Purple Pirate Scroll,xakid,PPS,5350,5814.19,464.19,77,35742.94,7.98,31
 2025-09-11,26573,Demonic Potion,JewelRush,gerdgd,21500,23329.44,1829.44,15,27441.59,7.84,5
 2025-09-11,25452,Rock Gem Fragment,Buffita,all in one,110000,119241.26,9241.26,10,92412.59,7.75,12
-2025-09-11,25031,Refining Gem,stall1239,UG/Jade Frags|Jackpot Coin|Refs,14000,15138.59,1138.59,35,39850.6,7.52,16
 2025-09-11,22008,Gem of the Wind,iLilith,CHEAP PET STR,999999,1079999.8,80000.8,1,80000.8,7.41,5
 2025-09-11,22008,Gem of the Wind,conqstall2,UG wind  app transfer class card,1000000,1079999.8,79999.8,1,79999.8,7.41,5
 2025-09-11,26585,Blessed Potion,DemiMerchant,99c Bless Crown GPS Cleric 99c,110999,119811.85,8812.85,8,70502.83,7.36,6
+2025-09-11,25031,Refining Gem,stall1239,UG/Jade Frags|Jackpot Coin|Refs,14000,15096.36,1096.36,35,38372.51,7.26,15
 2025-09-11,27019,Purple Pirate Scroll,Lira,<<< PURPLE PIRATE SCROLLS >>>,5399,5814.19,415.19,99,41104.21,7.14,31
 2025-09-11,22010,Gem of Rage,Kaka5,SELL UG RAGE 2.3M/ DEM COLO 2.3M,2300000,2474999.75,174999.75,1,174999.75,7.07,4
 2025-09-11,26578,Aegis Brew,MrMarket,RADIS MANU HL COOK AND SUP POINT,64000,68811.03,4811.03,32,153953.01,6.99,5
@@ -265,7 +258,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,30139,100x Crystal,Walmart1,S> IMPS,79780,83826.37,4046.37,55,222550.31,4.83,7
 2025-09-11,28429,Dance of Evanescence,Magatah,unsealed55cruz,1700000,1783333.33,83333.33,1,83333.33,4.67,3
 2025-09-11,28429,Dance of Evanescence,Magatah,unsealed55cruz,1700000,1783333.33,83333.33,1,83333.33,4.67,3
-2025-09-11,25031,Refining Gem,Honey,---------  Pet  Fruits   -------,14444,15138.59,694.59,42,29172.72,4.59,16
 2025-09-11,30139,100x Crystal,Duna,IMPS CHEAP,79999,83826.37,3827.37,20,76547.39,4.57,7
 2025-09-11,30139,100x Crystal,Hurricane,RING 60|IMPS|PPS|JACKPOT|POTS,79999,83826.37,3827.37,20,76547.39,4.57,7
 2025-09-11,30139,100x Crystal,Patrafir,Ultimate Prices ! Mega Discount!,79999,83826.37,3827.37,12,45928.43,4.57,7
@@ -273,6 +265,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-11,26377,Pharaoh's Lantern,Virginia,Kal / Pharaoh Lant / Elven Pot +,12999,13614.06,615.06,89,54739.94,4.52,4
 2025-09-11,26576,Iron Brew,MadeInChina,BLESS/INFERNO/IRON/ENCHANT/WARLO,8900,9308.6,408.6,116,47397.4,4.39,6
 2025-09-11,26576,Iron Brew,Cincar,Cincar pots,8900,9308.6,408.6,94,38408.24,4.39,6
+2025-09-11,25031,Refining Gem,Honey,---------  Pet  Fruits   -------,14444,15096.36,652.36,42,27399.01,4.32,15
 2025-09-11,22009,Gem of Colossus,Cebola,gem gem gem,1995000,2079999.88,84999.88,1,84999.88,4.09,7
 2025-09-11,22009,Gem of Colossus,Everest,Pots,2000000,2079999.88,79999.88,1,79999.88,3.85,7
 2025-09-11,26573,Demonic Potion,Ptcaca,Pots cheap/Chaos Runestone,22500,23329.44,829.44,36,29859.81,3.56,5
