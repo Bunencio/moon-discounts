@@ -1,5 +1,6 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-09-12,28035,Solar Shield,Obsidian,rare fc/ds eqps|red/legend bp,10000,45499.9,35499.9,1,35499.9,78.02,7
+2025-09-12,28428,Fire Sealed Dance of Evanescence,Olympus,cheap items for ds and from ds,10000,34814.67,24814.67,1,24814.67,71.28,3
 2025-09-12,25503,Magical Stone,xVENDORx,RUSH,200,670.12,470.12,99,46541.9,70.15,12
 2025-09-12,25503,Magical Stone,xVENDORx,RUSH,200,670.12,470.12,93,43721.18,70.15,12
 2025-09-12,28035,Solar Shield,TTKillGirlTT,Sealed 50   /  Jack Coin /Shield,14999,45499.9,30500.9,1,30500.9,67.04,7
@@ -16,7 +17,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-12,28458,Ice Sealed Staff of the Sphinx,Kinyu,18K,18000,40333.11,22333.11,1,22333.11,55.37,8
 2025-09-12,22003,Glowing Gem,Frank,GJADE ROCK FR REF GEMS DR ER EP,1000,2187.28,1187.28,35,41554.65,54.28,10
 2025-09-12,22003,Glowing Gem,Aldor,123 123,1000,2187.28,1187.28,32,37992.82,54.28,10
-2025-09-12,26591,Potion of Lion,Uzi,mystic,1500,3062.82,1562.82,13,20316.68,51.03,14
+2025-09-12,26591,Potion of Lion,Uzi,mystic,1500,3060.95,1560.95,13,20292.4,51.0,14
 2025-09-12,28476,Ice Sealed Kris of the Sphinx,Pardofelis,nya,50000,99374.88,49374.88,1,49374.88,49.69,7
 2025-09-12,25440,Evanescence Stone,Frank,GJADE ROCK FR REF GEMS DR ER EP,500,909.47,409.47,49,20063.85,45.02,7
 2025-09-12,25504,Standard Scroll,StepanBendera,Gem of Soul,999,1781.53,782.53,99,77470.56,43.92,3
@@ -37,11 +38,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-12,30156,Jackpot Coin,Sisifo,SEALED ARMOR OOVY60/JACKSPOT,6999,10226.24,3227.24,32,103271.65,31.56,27
 2025-09-12,22003,Glowing Gem,Shooooop,Rush gems,1500,2187.28,687.28,63,43298.36,31.42,10
 2025-09-12,22003,Glowing Gem,Look7,gems,1500,2187.28,687.28,57,39174.71,31.42,10
-2025-09-12,26590,Potion of Soul,LotokSell,DemoWind Kal AegisRock UgStrikin,2222,3213.95,991.95,49,48605.49,30.86,12
+2025-09-12,26590,Potion of Soul,LotokSell,DemoWind Kal AegisRock UgStrikin,2222,3212.13,990.13,49,48516.25,30.82,12
 2025-09-12,22006,Spirit Gem,hunterx,ug colo/repu/bp/fb etc,4999,7204.29,2205.29,18,39695.21,30.61,14
 2025-09-12,26001,Ninja Coin,Demonus,6 CON SM GLOVES - SMTHNG,599,853.74,254.74,99,25218.77,29.84,10
-2025-09-12,22004,Shining Gem,hunterx,ug colo/repu/bp/fb etc,4399,6208.09,1809.09,59,106736.29,29.14,13
-2025-09-12,22004,Shining Gem,vendedolmax,2000,4400,6208.09,1808.09,14,25313.25,29.12,13
+2025-09-12,22004,Shining Gem,hunterx,ug colo/repu/bp/fb etc,4399,6203.72,1804.72,59,106478.61,29.09,13
+2025-09-12,22004,Shining Gem,vendedolmax,2000,4400,6203.72,1803.72,14,25252.11,29.07,13
 2025-09-12,27020,Gold Pirate Scroll,AoiTodo,Promotion,21000,29392.43,8392.43,25,209810.85,28.55,12
 2025-09-12,25056,Willow Wood Log,sietemaridos,auto mvm ic red ore willow matz,1000,1394.16,394.16,99,39021.85,28.27,3
 2025-09-12,25056,Willow Wood Log,sietemaridos,auto mvm ic red ore willow matz,1000,1394.16,394.16,95,37445.21,28.27,3
@@ -79,7 +80,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-12,25451,Jade Gem Fragment,stallcito1,312312312312312312,65000,86555.74,21555.74,1,21555.74,24.9,9
 2025-09-12,25451,Jade Gem Fragment,woodensea,Potion,65000,86555.74,21555.74,1,21555.74,24.9,9
 2025-09-12,25426,Universe Purse Fragment.,stallcito1,312312312312312312,270000,357124.81,87124.81,1,87124.81,24.4,8
-2025-09-12,26590,Potion of Soul,Chupeteira,DEMONIC RAGE + FB Lv2 !!!,2450,3213.95,763.95,60,45836.93,23.77,12
+2025-09-12,26590,Potion of Soul,Chupeteira,DEMONIC RAGE + FB Lv2 !!!,2450,3212.13,762.13,60,45727.65,23.73,12
 2025-09-12,30102,1000 Reputation Scroll,fisherr,PBpS loot flash rep cheap,8200,10733.6,2533.6,14,35470.33,23.6,9
 2025-09-12,27025,Radiation Lv1,MrMarket,MANU HL COOKING SUP POINTS,2890,3775.76,885.76,200,177152.18,23.46,9
 2025-09-12,27025,Radiation Lv1,MrMarket,MANU HL COOKING SUP POINTS,2890,3775.76,885.76,200,177152.18,23.46,9
@@ -92,7 +93,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-12,22030,Earth Rock,Stello,##@@##,1950000,2529999.8,579999.8,1,579999.8,22.92,4
 2025-09-12,26559,Cooked Crab,vnt4,Best Crab for Recover HP-SP,1999,2577.54,578.54,200,115707.5,22.45,4
 2025-09-12,26559,Cooked Crab,vnt4,Best Crab for Recover HP-SP,1999,2577.54,578.54,200,115707.5,22.45,4
-2025-09-12,26589,Potion of Bull,LotokSell,DemoWind Kal AegisRock UgStrikin,2222,2850.86,628.86,81,50937.92,22.06,15
+2025-09-12,26589,Potion of Bull,LotokSell,DemoWind Kal AegisRock UgStrikin,2222,2850.29,628.29,81,50891.71,22.04,15
 2025-09-12,30156,Jackpot Coin,Mikosita,SELL IMPS/JACKPOT/REF/PPS/ROCK G,7999,10226.24,2227.24,200,445447.84,21.78,27
 2025-09-12,30156,Jackpot Coin,SamiraLEE,JACK  SKATING  PPL  POTION,8000,10226.24,2226.24,36,80144.61,21.77,27
 2025-09-12,30156,Jackpot Coin,stallcito1,312312312312312312,8000,10226.24,2226.24,11,24488.63,21.77,27
@@ -103,11 +104,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-12,27025,Radiation Lv1,Fith,123,3000,3775.76,775.76,200,155152.18,20.55,9
 2025-09-12,27025,Radiation Lv1,Fith,123,3000,3775.76,775.76,156,121018.7,20.55,9
 2025-09-12,25452,Rock Gem Fragment,Xiomarvic,Full Frag Help me,88000,110596.99,22596.99,5,112984.94,20.43,13
-2025-09-12,26591,Potion of Lion,Chupeteira,DEMONIC RAGE + FB Lv2 !!!,2450,3062.82,612.82,99,60669.31,20.01,14
+2025-09-12,26591,Potion of Lion,Chupeteira,DEMONIC RAGE + FB Lv2 !!!,2450,3060.95,610.95,99,60484.46,19.96,14
 2025-09-12,22012,Demonic Gem of Wind,LotokSell,DemoWind Kal AegisRock UgStrikin,1300000,1621111.0,321111.0,3,963333.0,19.81,6
 2025-09-12,22012,Demonic Gem of Wind,Cebola,gem gem gem,1299999,1621111.0,321112.0,1,321112.0,19.81,6
-2025-09-12,22004,Shining Gem,Shooooop,Rush gems,5000,6208.09,1208.09,28,33826.51,19.46,13
-2025-09-12,22004,Shining Gem,Frank,GJADE ROCK FR REF GEMS DR ER EP,5000,6208.09,1208.09,20,24161.79,19.46,13
+2025-09-12,22004,Shining Gem,Shooooop,Rush gems,5000,6203.72,1203.72,28,33704.22,19.4,13
+2025-09-12,22004,Shining Gem,Frank,GJADE ROCK FR REF GEMS DR ER EP,5000,6203.72,1203.72,20,24074.44,19.4,13
 2025-09-12,25426,Universe Purse Fragment.,sellerforfree,cheap,289000,357124.81,68124.81,1,68124.81,19.08,8
 2025-09-12,25426,Universe Purse Fragment.,Xiomarvic,Full Frag Help me,290000,357124.81,67124.81,1,67124.81,18.8,8
 2025-09-12,25426,Universe Purse Fragment.,stall1239,UG/Jade Frags|Jackpot Coin|Refs,290000,357124.81,67124.81,1,67124.81,18.8,8
@@ -152,7 +153,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-12,26326,Elven Royal Signet,BUYFROMME,SELL CHEAP SELL CHEAP SELL CHEAP,1499,1747.95,248.95,133,33109.69,14.24,8
 2025-09-12,26326,Elven Royal Signet,Henry,REP JACK PHG NJC RS GPS PBP EVO,1500,1747.95,247.95,163,40415.04,14.18,8
 2025-09-12,25452,Rock Gem Fragment,LotokSell,DemoWind Kal AegisRock UgStrikin,95000,110596.99,15596.99,3,46790.96,14.1,13
-2025-09-12,26589,Potion of Bull,Chupeteira,DEMONIC RAGE + FB Lv2 !!!,2450,2850.86,400.86,82,32870.78,14.06,15
+2025-09-12,26589,Potion of Bull,Chupeteira,DEMONIC RAGE + FB Lv2 !!!,2450,2850.29,400.29,82,32824.0,14.04,15
 2025-09-12,26346,Lantern,Babi04,Lantern,5000,5807.6,807.6,99,79952.33,13.91,16
 2025-09-12,26346,Lantern,Babi04,Lantern,5000,5807.6,807.6,99,79952.33,13.91,16
 2025-09-12,26346,Lantern,Babi04,Lantern,5000,5807.6,807.6,94,75914.33,13.91,16
@@ -197,7 +198,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-12,27019,Purple Pirate Scroll,Skybi,purple pirate,5100,5723.51,623.51,44,27434.39,10.89,26
 2025-09-12,25031,Refining Gem,Mikosita,SELL IMPS/JACKPOT/REF/PPS/ROCK G,12999,14574.48,1575.48,105,165424.92,10.81,13
 2025-09-12,22011,Gemof Sout,stallcito1,312312312312312312,950000,1064285.71,114285.71,1,114285.71,10.74,4
-2025-09-12,22004,Shining Gem,NainBASTARD,DemColo/Normal Gems/++,5555,6208.09,653.09,34,22205.05,10.52,13
+2025-09-12,22004,Shining Gem,NainBASTARD,DemColo/Normal Gems/++,5555,6203.72,648.72,34,22056.56,10.46,13
 2025-09-12,25428,Shining Runestone,DodgeMyArrow,UG STRIKE,400000,446663.33,46663.33,1,46663.33,10.45,3
 2025-09-12,26344,Novice Weightless Potion,LotokSell,DemoWind Kal AegisRock UgStrikin,3333,3699.3,366.3,62,22710.4,9.9,6
 2025-09-12,22023,Green Jade,CHEAPSTALL,Gren Jade/Heav Crystal/Jackpot C,245000,271666.5,26666.5,1,26666.5,9.82,8
