@@ -1,6 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 94.99,2301,,1000,19970.53,7,1,Stellar,Variety Shop
 80.77,25501,Brown Colorant,500,2599.96,4,1,cheapstuffsell,cheap
+78.02,28035,Solar Shield,10000,45499.9,7,1,Obsidian,rare fc/ds eqps|red/legend bp
 77.36,28212,Priestly Robe,15000,66249.5,3,1,ZafirRose,pps gps coin
 77.36,28212,Priestly Robe,15000,66249.5,3,1,Rudra,sell>pps/sai/samu
 74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
@@ -9,19 +10,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
 74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
 74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
+70.19,25503,Magical Stone,200,671.02,11,99,xVENDORx,RUSH
+70.19,25503,Magical Stone,200,671.02,11,93,xVENDORx,RUSH
 68.92,25056,Willow Wood Log,400,1286.97,3,44,Wardo,S>PBS/guard /willow
-68.63,28035,Solar Shield,10000,31874.88,6,1,Obsidian,rare fc/ds eqps|red/legend bp
 68.07,30118,Vial of Strength Reset,2000,6263.16,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
+67.04,28035,Solar Shield,14999,45499.9,7,1,TTKillGirlTT,Sealed 50   /  Jack Coin /Shield
 67.01,25440,Evanescence Stone,300,909.47,7,3,LazzzyBee,CHEAPEST STALL IN THIS SERVER
-65.97,25503,Magical Stone,245,719.96,11,21,iLegolas,Bow50  Rock Reput PPS Power Jack
 65.61,25478,Carsise Hairstyle Book,300,872.34,3,40,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 64.6,30121,Vial of Accuracy Reset,2000,5650.0,4,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.08,28466,Ice Sealed Judgment of Enigma,15000,41755.3,7,1,Electricman1,PPS/JP COIN/JADE%ROCK GEM FRAG
+63.49,25503,Magical Stone,245,671.02,11,21,iLegolas,Bow50  Rock Reput PPS Power Jack
 61.63,28401,Platemail of the Cursed Soul,110000,286666.67,3,1,Kayo,Boi+4/Doe+3 3soc/Uns45/Apparel
 61.6,29058,20 Crafting EXP Card,1000,2604.21,6,1,Commerce,ww3
 60.97,25481,Red Dye,100,256.2,3,1,2Homo,sell
 60.84,28458,Ice Sealed Staff of the Sphinx,15000,38299.7,9,1,Electricman1,PPS/JP COIN/JADE%ROCK GEM FRAG
-60.38,28474,Ice Sealed Mantle of the Sphinx,35000,88333.0,3,1,Sisifo,SEALED ARMOR OOVY60/JACKSPOT
 60.3,25439,Incantation Stone,400,1007.66,5,45,Shooooop,Rush gems
 60.0,28440,Fire Sealed Roar of Evanescence,5000,12500.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 59.94,2301,,8000,19970.53,7,1,HunterKim,Boot
@@ -29,8 +31,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.18,28155,Steel Platemail,4000,9800.0,3,1,Toad,equi crus+cham+ss bow+ear rock+i
 59.1,25482,Orange Dye,100,244.52,3,19,2Homo,sell
 58.84,25485,Cyan Dye,100,242.96,3,17,2Homo,sell
-58.33,25503,Magical Stone,300,719.96,11,99,xVENDORx,RUSH
-58.33,25503,Magical Stone,300,719.96,11,39,xVENDORx,RUSH
 58.06,28432,Fire Sealed Staff of Mirage,3900,9299.67,3,1,bowstalls,cheap lv40-50-60-65 items
 58.0,25488,Purple Dye,100,238.08,4,24,2Homo,sell
 57.89,30122,Vial of Spirit Reset,2000,4750.0,3,5,Akim,PVP POTIONS FB W8LES SKAT OTHER
@@ -40,17 +40,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.89,28466,Ice Sealed Judgment of Enigma,18000,41755.3,7,1,Kinyu,18K
 56.2,27000,Prosperous Packet,100,228.3,6,10,AltDude,buy my stuff
 56.13,25440,Evanescence Stone,399,909.47,7,2,AltDude,buy my stuff
+56.04,28035,Solar Shield,20000,45499.9,7,1,VENDEDORAA,APPS / SM / CRUS / SHIELD CON /+
 56.02,25440,Evanescence Stone,400,909.47,7,42,Shooooop,Rush gems
 56.02,25440,Evanescence Stone,400,909.47,7,4,CStal1,afk
-55.3,28436,Fire Sealed Staff of Evanescence,10000,22372.71,5,1,ch4n,sell
 54.22,25507,Expert Stone,300,655.25,6,99,Shooooop,Rush gems
-54.1,26590,Potion of Soul,1500,3267.81,11,1,Antares,Promotion
+53.49,28406,Earth Sealed Staff of Abraxas.,2500,5374.88,5,1,Myro,cheap itens
+53.49,28406,Earth Sealed Staff of Abraxas.,2500,5374.88,5,1,Myro,cheap itens
+53.15,26590,Potion of Soul,1500,3201.63,12,1,Antares,Promotion
 53.0,28458,Ice Sealed Staff of the Sphinx,18000,38299.7,9,1,Kinyu,18K
-52.94,28035,Solar Shield,14999,31874.88,6,1,TTKillGirlTT,Sealed 50   /  Jack Coin /Shield
-52.67,26588,Potion of Eagle,1500,3169.3,12,12,Gryffindor,pps. pots
-52.63,28406,Earth Sealed Staff of Abraxas.,3000,6333.17,4,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
-50.62,26591,Potion of Lion,1500,3037.6,11,2,Gryffindor,pps. pots
-50.62,26591,Potion of Lion,1500,3037.6,11,13,Uzi,mystic
+50.47,26591,Potion of Lion,1500,3028.41,13,13,Uzi,mystic
 50.38,25439,Incantation Stone,500,1007.66,5,1,Stellar,Variety Shop
 50.2,30145,Fire Seed,9950,19981.12,4,3,CrackHead,ALMOST 4 FREE
 50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
