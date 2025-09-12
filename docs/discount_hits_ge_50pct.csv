@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 95.07,2301,,1000,20272.67,6,1,Stellar,Variety Shop
 83.39,28432,Fire Sealed Staff of Mirage,3900,23475.0,3,1,bowstalls,cheap lv40-50-60-65 items
-80.77,25501,Brown Colorant,500,2599.96,4,1,cheapstuffsell,cheap
+80.56,25501,Brown Colorant,500,2571.39,4,1,cheapstuffsell,cheap
 80.21,26564,Meditation Potion,50,252.63,5,31,Nikoz,Stuff Selling Now
 78.02,28035,Solar Shield,10000,45499.9,7,1,Obsidian,rare fc/ds eqps|red/legend bp
 75.34,2301,,5000,20272.67,6,1,MUSACHI,CCC
@@ -12,6 +12,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.34,2301,,5000,20272.67,6,1,MUSACHI,CCC
 70.48,25503,Magical Stone,245,829.83,11,21,iLegolas,Bow50  Rock Reput PPS Power Jack
 70.31,26564,Meditation Potion,75,252.63,5,92,xColosusJr,cheaap items
+70.26,26594,Novice Explosive Ball,50,168.12,6,35,TheKingCrafit,SELL FLASH BOMB 800G
 68.42,28418,Earth Sealed Kiss of the Cursed,3000,9500.0,3,1,Olympus,cheap items for ds and from ds
 67.21,30118,Vial of Strength Reset,2000,6100.0,5,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
 67.1,28456,Ice Sealed Robe of the Sphinx,18000,54711.0,4,1,Kinyu,18K
