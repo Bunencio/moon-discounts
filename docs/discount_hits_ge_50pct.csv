@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.26,28035,Solar Shield,10000,56363.36,8,1,Obsidian,rare fc/ds eqps|red/legend bp
 81.93,28432,Fire Sealed Staff of Mirage,3900,21580.0,4,1,bowstalls,cheap lv40-50-60-65 items
-79.8,25501,Brown Colorant,500,2475.25,3,1,cheapstuffsell,cheap
+80.55,25501,Brown Colorant,500,2571.05,4,1,cheapstuffsell,cheap
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
@@ -57,4 +57,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.24,22003,Glowing Gem,1200,2460.93,12,1,xDelfina,all cheap
 51.24,26591,Potion of Lion,1500,3076.49,15,4,Gryffindor,pps. pots. normal gems
 50.31,28458,Ice Sealed Staff of the Sphinx,18000,36222.0,7,1,Kinyu,18K
+50.01,26588,Potion of Eagle,1500,3000.6,16,12,Gryffindor,pps. pots. normal gems
 50.0,28460,Ice Sealed Robe of Enigma,100000,200000.0,3,1,KingHazee,eva power rock n cheap stuff
