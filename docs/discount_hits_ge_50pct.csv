@@ -1,6 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 94.99,2301,,1000,19970.53,7,1,Stellar,Variety Shop
-83.72,26564,Meditation Potion,50,307.1,4,31,Nikoz,Cheapest
 80.77,25501,Brown Colorant,500,2599.96,4,1,cheapstuffsell,cheap
 78.02,28035,Solar Shield,10000,45499.9,7,1,Obsidian,rare fc/ds eqps|red/legend bp
 77.36,28212,Priestly Robe,15000,66249.5,3,1,ZafirRose,pps gps coin
@@ -13,15 +12,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
 70.19,25503,Magical Stone,200,671.02,11,99,xVENDORx,RUSH
 70.19,25503,Magical Stone,200,671.02,11,93,xVENDORx,RUSH
-68.92,25056,Willow Wood Log,400,1286.97,3,44,Wardo,S>PBS/guard /willow
+69.21,25056,Willow Wood Log,400,1299.09,3,39,Wardo,S>PBS/guard /willow
 68.07,30118,Vial of Strength Reset,2000,6263.16,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
 67.04,28035,Solar Shield,14999,45499.9,7,1,TTKillGirlTT,Sealed 50   /  Jack Coin /Shield
 67.01,25440,Evanescence Stone,300,909.47,7,3,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 65.61,25478,Carsise Hairstyle Book,300,872.34,3,40,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-64.26,30121,Vial of Accuracy Reset,2000,5595.19,5,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
+64.6,30121,Vial of Accuracy Reset,2000,5650.0,4,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.08,28466,Ice Sealed Judgment of Enigma,15000,41755.3,7,1,Electricman1,PPS/JP COIN/JADE%ROCK GEM FRAG
 63.49,25503,Magical Stone,245,671.02,11,21,iLegolas,Bow50  Rock Reput PPS Power Jack
-61.63,28401,Platemail of the Cursed Soul,110000,286666.67,3,1,Kayo,Boi+4/Doe+3 3soc/Uns45/Apparel
 61.6,29058,20 Crafting EXP Card,1000,2604.21,6,1,Commerce,ww3
 60.97,25481,Red Dye,100,256.2,3,1,2Homo,sell
 60.84,28458,Ice Sealed Staff of the Sphinx,15000,38299.7,9,1,Electricman1,PPS/JP COIN/JADE%ROCK GEM FRAG
@@ -47,9 +45,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.22,25507,Expert Stone,300,655.25,6,99,Shooooop,Rush gems
 53.49,28406,Earth Sealed Staff of Abraxas.,2500,5374.88,5,1,Myro,cheap itens
 53.49,28406,Earth Sealed Staff of Abraxas.,2500,5374.88,5,1,Myro,cheap itens
-53.3,26590,Potion of Soul,1500,3212.32,12,1,Antares,Promotion
+53.33,26590,Potion of Soul,1500,3213.95,12,1,Antares,Promotion
 53.0,28458,Ice Sealed Staff of the Sphinx,18000,38299.7,9,1,Kinyu,18K
-50.97,26591,Potion of Lion,1500,3059.23,15,13,Uzi,mystic
+51.07,26591,Potion of Lion,1500,3065.29,14,13,Uzi,mystic
 50.38,25439,Incantation Stone,500,1007.66,5,1,Stellar,Variety Shop
 50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,CallMeBaby,23344
