@@ -8,8 +8,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
 74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
 74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
-70.19,25503,Magical Stone,200,671.02,11,99,xVENDORx,RUSH
-70.19,25503,Magical Stone,200,671.02,11,93,xVENDORx,RUSH
+70.09,25503,Magical Stone,200,668.66,11,99,xVENDORx,RUSH
+70.09,25503,Magical Stone,200,668.66,11,93,xVENDORx,RUSH
 69.21,25056,Willow Wood Log,400,1299.09,3,39,Wardo,S>PBS/guard /willow
 68.07,30118,Vial of Strength Reset,2000,6263.16,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
 67.04,28035,Solar Shield,14999,45499.9,7,1,TTKillGirlTT,Sealed 50   /  Jack Coin /Shield
@@ -17,7 +17,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.61,25478,Carsise Hairstyle Book,300,872.34,3,40,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 64.6,30121,Vial of Accuracy Reset,2000,5650.0,4,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.08,28466,Ice Sealed Judgment of Enigma,15000,41755.3,7,1,Electricman1,PPS/JP COIN/JADE%ROCK GEM FRAG
-63.49,25503,Magical Stone,245,671.02,11,21,iLegolas,Bow50  Rock Reput PPS Power Jack
+63.36,25503,Magical Stone,245,668.66,11,21,iLegolas,Bow50  Rock Reput PPS Power Jack
 60.97,25481,Red Dye,100,256.2,3,1,2Homo,sell
 60.84,28458,Ice Sealed Staff of the Sphinx,15000,38299.7,9,1,Electricman1,PPS/JP COIN/JADE%ROCK GEM FRAG
 60.3,25439,Incantation Stone,400,1007.66,5,45,Shooooop,Rush gems
