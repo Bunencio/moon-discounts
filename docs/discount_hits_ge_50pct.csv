@@ -1,14 +1,14 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-94.99,2301,,1000,19970.53,7,1,Stellar,Variety Shop
+95.07,2301,,1000,20272.67,6,1,Stellar,Variety Shop
 83.72,26564,Meditation Potion,50,307.1,4,31,Nikoz,Stuff Selling Now
 80.77,25501,Brown Colorant,500,2599.96,4,1,cheapstuffsell,cheap
 78.02,28035,Solar Shield,10000,45499.9,7,1,Obsidian,rare fc/ds eqps|red/legend bp
-74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
-74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
-74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
-74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
-74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
-74.96,2301,,5000,19970.53,7,1,MUSACHI,CCC
+75.34,2301,,5000,20272.67,6,1,MUSACHI,CCC
+75.34,2301,,5000,20272.67,6,1,MUSACHI,CCC
+75.34,2301,,5000,20272.67,6,1,MUSACHI,CCC
+75.34,2301,,5000,20272.67,6,1,MUSACHI,CCC
+75.34,2301,,5000,20272.67,6,1,MUSACHI,CCC
+75.34,2301,,5000,20272.67,6,1,MUSACHI,CCC
 74.47,28418,Earth Sealed Kiss of the Cursed,3000,11750.0,5,1,Olympus,cheap items for ds and from ds
 71.31,25056,Willow Wood Log,400,1394.16,3,4,Wardo,S>PBS/guard /willow
 71.28,28428,Fire Sealed Dance of Evanescence,10000,34814.67,3,1,Olympus,cheap items for ds and from ds
@@ -22,15 +22,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.79,30121,Vial of Accuracy Reset,2000,5523.81,5,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 63.44,25503,Magical Stone,245,670.12,12,21,iLegolas,Bow50  Rock Reput PPS Power Jack
 62.81,28458,Ice Sealed Staff of the Sphinx,15000,40333.11,8,1,Electricman1,PPS/JP COIN/JADE%ROCK GEM FRAG
+62.79,25439,Incantation Stone,400,1074.88,5,45,Shooooop,Rush gems
 60.97,25481,Red Dye,100,256.2,3,1,2Homo,sell
-60.3,25439,Incantation Stone,400,1007.66,5,45,Shooooop,Rush gems
+60.54,2301,,8000,20272.67,6,1,HunterKim,Boot
 60.0,28440,Fire Sealed Roar of Evanescence,5000,12500.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
-59.94,2301,,8000,19970.53,7,1,HunterKim,Boot
 59.89,25483,Yellow Dye,100,249.34,3,21,2Homo,sell
 59.18,28155,Steel Platemail,4000,9800.0,3,1,Toad,equi crus+cham+ss bow+ear rock+i
 59.1,25482,Orange Dye,100,244.52,3,19,2Homo,sell
 58.9,22003,Glowing Gem,899,2187.28,10,23,hunterx,ug colo/repu/bp/fb etc
 58.84,25485,Cyan Dye,100,242.96,3,17,2Homo,sell
+58.33,2300,,1000,2400.0,3,1,kraha,Flash Bomb
 58.0,25488,Purple Dye,100,238.08,4,24,2Homo,sell
 57.89,30122,Vial of Spirit Reset,2000,4750.0,3,5,Akim,PVP POTIONS FB W8LES SKAT OTHER
 57.86,25490,Brown Dye,100,237.32,3,19,2Homo,sell
@@ -59,4 +60,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.17,22001,Furious Gem,2000,4096.25,11,2,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 51.0,26591,Potion of Lion,1500,3060.95,14,13,Uzi,mystic
 50.82,30118,Vial of Strength Reset,3000,6100.0,5,1,Olympus,cheap items for ds and from ds
-50.38,25439,Incantation Stone,500,1007.66,5,1,Stellar,Variety Shop
