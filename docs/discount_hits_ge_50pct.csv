@@ -18,7 +18,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.6,30121,Vial of Accuracy Reset,2000,5650.0,4,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.08,28466,Ice Sealed Judgment of Enigma,15000,41755.3,7,1,Electricman1,PPS/JP COIN/JADE%ROCK GEM FRAG
 63.49,25503,Magical Stone,245,671.02,11,21,iLegolas,Bow50  Rock Reput PPS Power Jack
-61.6,29058,20 Crafting EXP Card,1000,2604.21,6,1,Commerce,ww3
 60.97,25481,Red Dye,100,256.2,3,1,2Homo,sell
 60.84,28458,Ice Sealed Staff of the Sphinx,15000,38299.7,9,1,Electricman1,PPS/JP COIN/JADE%ROCK GEM FRAG
 60.3,25439,Incantation Stone,400,1007.66,5,45,Shooooop,Rush gems
@@ -27,6 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.89,25483,Yellow Dye,100,249.34,3,21,2Homo,sell
 59.18,28155,Steel Platemail,4000,9800.0,3,1,Toad,equi crus+cham+ss bow+ear rock+i
 59.1,25482,Orange Dye,100,244.52,3,19,2Homo,sell
+58.9,22003,Glowing Gem,899,2187.28,10,23,hunterx,ug colo/repu/bp/fb etc
 58.84,25485,Cyan Dye,100,242.96,3,17,2Homo,sell
 58.06,28432,Fire Sealed Staff of Mirage,3900,9299.67,3,1,bowstalls,cheap lv40-50-60-65 items
 58.0,25488,Purple Dye,100,238.08,4,24,2Homo,sell
@@ -41,13 +41,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.04,28035,Solar Shield,20000,45499.9,7,1,VENDEDORAA,APPS / SM / CRUS / SHIELD CON /+
 56.02,25440,Evanescence Stone,400,909.47,7,42,Shooooop,Rush gems
 56.02,25440,Evanescence Stone,400,909.47,7,4,CStal1,afk
+54.33,22003,Glowing Gem,999,2187.28,10,3,CStal1,afk
+54.28,22003,Glowing Gem,1000,2187.28,10,2,Unlimites,garner
+54.28,22003,Glowing Gem,1000,2187.28,10,2,LazzzyBee,CHEAPEST STALL IN THIS SERVER
+54.28,22003,Glowing Gem,1000,2187.28,10,35,Frank,GJADE ROCK FR REF GEMS DR ER EP
+54.28,22003,Glowing Gem,1000,2187.28,10,32,Aldor,123 123
 54.22,25507,Expert Stone,300,655.25,6,99,Shooooop,Rush gems
 53.49,28406,Earth Sealed Staff of Abraxas.,2500,5374.88,5,1,Myro,cheap itens
 53.49,28406,Earth Sealed Staff of Abraxas.,2500,5374.88,5,1,Myro,cheap itens
-53.33,26590,Potion of Soul,1500,3213.95,12,1,Antares,Promotion
+53.37,26590,Potion of Soul,1500,3217.06,12,1,Antares,Promotion
 53.0,28458,Ice Sealed Staff of the Sphinx,18000,38299.7,9,1,Kinyu,18K
+51.2,22001,Furious Gem,1999,4096.25,11,1,SamuSta,REF/ALL NORMAL GEM/DC/FB @CHEAP@
+51.2,22001,Furious Gem,1999,4096.25,11,2,stuffseller,cheap
+51.17,22001,Furious Gem,2000,4096.25,11,2,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 51.07,26591,Potion of Lion,1500,3065.29,14,13,Uzi,mystic
 50.38,25439,Incantation Stone,500,1007.66,5,1,Stellar,Variety Shop
-50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
-50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,CallMeBaby,23344
-50.0,28430,Fire Sealed Robe of Malediction,5000,10000.0,4,1,CallMeBaby,23344
