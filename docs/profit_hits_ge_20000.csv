@@ -13,6 +13,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,28458,Ice Sealed Staff of the Sphinx,Electricman1,Demo Soul/JpCoin/Rck Jade Frag,15000,37259.0,22259.0,1,22259.0,59.74,6
 2025-09-13,30172,Ticket to Treasure Island,A1eXxSamara,DW tix  Packet  tix,200,485.02,285.02,99,28216.6,58.76,8
 2025-09-13,30172,Ticket to Treasure Island,A1eXxSamara,DW tix  Packet  tix,200,485.02,285.02,97,27646.57,58.76,8
+2025-09-13,28403,Blade of Incantation,BlackDemon,super offers,98000,235142.86,137142.86,1,137142.86,58.32,5
 2025-09-13,25440,Evanescence Stone,Shooooop,Rush gems,400,920.45,520.45,39,20297.74,56.54,6
 2025-09-13,28468,Ice Sealed Mantle of Enigma,BjornIronside,LOOKFAST,85000,194999.33,109999.33,1,109999.33,56.41,3
 2025-09-13,28460,Ice Sealed Robe of Enigma,KingHazee,eva power rock n cheap stuff,100000,200000.0,100000.0,1,100000.0,50.0,3
@@ -23,7 +24,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,22003,Glowing Gem,Yung,CHEAPEST IN PO   104%,1399,2532.42,1133.42,21,23801.79,44.76,10
 2025-09-13,25504,Standard Scroll,StepanBendera,Gem of Soul,999,1776.0,777.0,99,76923.27,43.75,3
 2025-09-13,25504,Standard Scroll,StepanBendera,Gem of Soul,999,1776.0,777.0,39,30303.11,43.75,3
-2025-09-13,28403,Blade of Incantation,Sekiro,all you need  4 Xmas is here,149000,258000.0,109000.0,1,109000.0,42.25,4
 2025-09-13,22003,Glowing Gem,Shooooop,Rush gems,1500,2532.42,1032.42,63,65042.36,40.77,10
 2025-09-13,22003,Glowing Gem,Look7,gems,1500,2532.42,1032.42,57,58847.85,40.77,10
 2025-09-13,25439,Incantation Stone,FreePalestine1,selll       0_0,600,1007.66,407.66,51,20790.43,40.46,5
@@ -33,21 +33,19 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,30022,Buffing Card,conqstall2,buff cards heavy crystals,40000,65752.61,25752.61,9,231773.45,39.17,6
 2025-09-13,28425,Tooth of the Cursed,Cheap,UNS 45 VOY SEALED 60 CLERIC,90000,146666.67,56666.67,1,56666.67,38.64,3
 2025-09-13,22006,Spirit Gem,hunterx,ug colo/bow50/evarock/gems,4400,7086.19,2686.19,18,48351.46,37.91,14
+2025-09-13,28403,Blade of Incantation,Sekiro,all you need  4 Xmas is here,149000,235142.86,86142.86,1,86142.86,36.63,5
 2025-09-13,25428,Shining Runestone,JakubMarket,jakuuuuuuuuuuuub,480000,740494.11,260494.11,1,260494.11,35.18,6
 2025-09-13,22012,Demonic Gem of Wind,Cebola,gem gem gem,1050000,1608333.33,558333.33,1,558333.33,34.72,5
 2025-09-13,22004,Shining Gem,hunterx,ug colo/bow50/evarock/gems,3999,6045.28,2046.28,54,110498.91,33.85,11
 2025-09-13,25428,Shining Runestone,BpBuyer,Kal/Shining/Demonic Colo,490000,740494.11,250494.11,1,250494.11,33.83,6
 2025-09-13,22012,Demonic Gem of Wind,AAA123,1231313131,1100000,1608333.33,508333.33,1,508333.33,31.61,5
 2025-09-13,22000,FieryGem,SellMeWhole,5 stats/PBS/LBS/W8/REP/,5000,7240.06,2240.06,21,47041.25,30.94,11
-2025-09-13,28403,Blade of Incantation,Sekiro,all you need  4 Xmas is here,179000,258000.0,79000.0,1,79000.0,30.62,4
 2025-09-13,28476,Ice Sealed Kris of the Sphinx,Cafesito,Viyyyyy,50000,71874.75,21874.75,1,21874.75,30.43,6
 2025-09-13,28476,Ice Sealed Kris of the Sphinx,Pardofelis,nya,50000,71874.75,21874.75,1,21874.75,30.43,6
 2025-09-13,28476,Ice Sealed Kris of the Sphinx,vendedolmax,2000,50000,71874.75,21874.75,1,21874.75,30.43,6
 2025-09-13,22006,Spirit Gem,SellMeWhole,5 stats/PBS/LBS/W8/REP/,5000,7086.19,2086.19,12,25034.3,29.44,14
-2025-09-13,26590,Potion of Soul,smoI,lv20str imps minion smol,2500,3510.29,1010.29,21,21216.03,28.78,9
+2025-09-13,26590,Potion of Soul,smoI,lv20str imps minion smol,2500,3521.88,1021.88,21,21459.47,29.02,8
 2025-09-13,22030,Earth Rock,Stello,##@@##,1999999,2733333.0,733334.0,1,733334.0,26.83,3
-2025-09-13,28403,Blade of Incantation,sstido,SELL,190000,258000.0,68000.0,1,68000.0,26.36,4
-2025-09-13,28403,Blade of Incantation,sstido,SELL,190000,258000.0,68000.0,1,68000.0,26.36,4
 2025-09-13,25452,Rock Gem Fragment,stallcito1,312312312312312,85000,114545.25,29545.25,1,29545.25,25.79,8
 2025-09-13,25452,Rock Gem Fragment,Zaoliv,ROCK / JADE GEM FRAGMENTSSS,85000,114545.25,29545.25,1,29545.25,25.79,8
 2025-09-13,22012,Demonic Gem of Wind,Aois,STALL,1200000,1608333.33,408333.33,1,408333.33,25.39,5
@@ -56,10 +54,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,28460,Ice Sealed Robe of Enigma,Penelope,Flash bang,150000,200000.0,50000.0,1,50000.0,25.0,3
 2025-09-13,30156,Jackpot Coin,Mikosita,SELL IMPS/REF/PPS/JACKPOT/PURSE,7999,10613.43,2614.43,22,57517.46,24.63,17
 2025-09-13,25426,Universe Purse Fragment.,Mikosita,SELL IMPS/REF/PPS/JACKPOT/PURSE,279999,368999.9,89000.9,1,89000.9,24.12,4
-2025-09-13,29305,Ring of Destruction,Sunnyy,Everything you need here!!!!!!!!,130000,171249.75,41249.75,1,41249.75,24.09,4
-2025-09-13,29305,Ring of Destruction,Sunnyy,Everything you need here!!!!!!!!,130000,171249.75,41249.75,1,41249.75,24.09,4
 2025-09-13,30022,Buffing Card,Embracer,Stuff,49950,65752.61,15802.61,3,47407.82,24.03,6
 2025-09-13,30022,Buffing Card,Hiya,NICE CHEAP ITEEMS,49999,65752.61,15753.61,5,78768.03,23.96,6
+2025-09-13,28403,Blade of Incantation,Sekiro,all you need  4 Xmas is here,179000,235142.86,56142.86,1,56142.86,23.88,5
 2025-09-13,30102,1000 Reputation Scroll,Uzi,pps,7999,10437.13,2438.13,9,21943.19,23.36,11
 2025-09-13,30102,1000 Reputation Scroll,darkghost,repu,8000,10437.13,2437.13,17,41431.24,23.35,11
 2025-09-13,22030,Earth Rock,MyBenis,red jade earth rock water rock,2100000,2733333.0,633333.0,1,633333.0,23.17,3
@@ -72,13 +69,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,30102,1000 Reputation Scroll,fisherr,PBpS loot flash rep cheap,8200,10437.13,2237.13,11,24608.45,21.43,11
 2025-09-13,25452,Rock Gem Fragment,Electricman1,Demo Soul/JpCoin/Rck Jade Frag,89999,114545.25,24546.25,1,24546.25,21.43,8
 2025-09-13,25426,Universe Purse Fragment.,Xiomarvic,Full Frag Help me,290000,368999.9,78999.9,1,78999.9,21.41,4
+2025-09-13,29305,Ring of Destruction,Sunnyy,Everything you need here!!!!!!!!,130000,164999.8,34999.8,1,34999.8,21.21,5
+2025-09-13,29305,Ring of Destruction,Sunnyy,Everything you need here!!!!!!!!,130000,164999.8,34999.8,1,34999.8,21.21,5
 2025-09-13,26344,Novice Weightless Potion,LotokSell,AegisRock CHEAP,3000,3789.41,789.41,53,41838.82,20.83,5
 2025-09-13,27020,Gold Pirate Scroll,AltDude,buy my stuff,20999,26413.07,5414.07,22,119109.43,20.5,14
 2025-09-13,27020,Gold Pirate Scroll,AoiTodo,Promotion,21000,26413.07,5413.07,10,54130.65,20.49,14
 2025-09-13,26592,Flash Bomb,creditcard,Wallahi the cheapest FBs,800,1003.81,203.81,196,39947.47,20.3,20
 2025-09-13,26588,Potion of Eagle,Hiya,NICE CHEAP ITEEMS,2499,3093.81,594.81,99,58886.22,19.23,13
-2025-09-13,29305,Ring of Destruction,Bellion,Champ Gear,139999,171249.75,31250.75,1,31250.75,18.25,4
-2025-09-13,29305,Ring of Destruction,Bellion,Champ Gear,139999,171249.75,31250.75,1,31250.75,18.25,4
+2025-09-13,28403,Blade of Incantation,sstido,SELL,190000,235142.86,45142.86,1,45142.86,19.2,5
+2025-09-13,28403,Blade of Incantation,sstido,SELL,190000,235142.86,45142.86,1,45142.86,19.2,5
 2025-09-13,22001,Furious Gem,Look7,gems,3000,3656.21,656.21,54,35435.09,17.95,8
 2025-09-13,22001,Furious Gem,Shooooop,Rush gems,3000,3656.21,656.21,31,20342.37,17.95,8
 2025-09-13,27019,Purple Pirate Scroll,stallcito1,312312312312312,4500,5466.86,966.86,42,40608.01,17.69,25
@@ -104,6 +103,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,30156,Jackpot Coin,Che,El Rinco de Xiclets,9000,10613.43,1613.43,73,117780.41,15.2,17
 2025-09-13,30156,Jackpot Coin,Kayo,T>Rings for spr/crus eq/app/jack,9000,10613.43,1613.43,29,46789.48,15.2,17
 2025-09-13,30156,Jackpot Coin,xJavux,cheap,9000,10613.43,1613.43,22,35495.46,15.2,17
+2025-09-13,29305,Ring of Destruction,Bellion,Champ Gear,139999,164999.8,25000.8,1,25000.8,15.15,5
+2025-09-13,29305,Ring of Destruction,Bellion,Champ Gear,139999,164999.8,25000.8,1,25000.8,15.15,5
+2025-09-13,29305,Ring of Destruction,BlackDemon,super offers,140000,164999.8,24999.8,1,24999.8,15.15,5
+2025-09-13,29305,Ring of Destruction,BlackDemon,super offers,140000,164999.8,24999.8,1,24999.8,15.15,5
 2025-09-13,27020,Gold Pirate Scroll,BIlIllIS,Cheap,22500,26413.07,3913.07,8,31304.52,14.81,14
 2025-09-13,26575,Guardian's Brew,vnt3,Moonroot Wine-Guardian Brew !,850,997.29,147.29,189,27837.81,14.77,5
 2025-09-13,22014,Demonic Gem of Colossus,GemSeller,sell,1950000,2277142.86,327142.86,1,327142.86,14.37,6
