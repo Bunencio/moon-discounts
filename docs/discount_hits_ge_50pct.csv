@@ -3,12 +3,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.02,28404,Earth Sealed Robe of Abraxas,3000,17666.67,3,1,Olympus,cheap items for ds and from ds
 81.97,28035,Solar Shield,10000,55454.18,8,1,Obsidian,rare fc/ds eqps|red/legend bp
 79.63,27021,Green Pirate Scroll,100,490.86,9,3,stink,cheap cheap
-75.43,2301,,5000,20347.83,4,1,MUSACHI,CCC
-75.43,2301,,5000,20347.83,4,1,MUSACHI,CCC
-75.43,2301,,5000,20347.83,4,1,MUSACHI,CCC
-75.43,2301,,5000,20347.83,4,1,MUSACHI,CCC
-75.43,2301,,5000,20347.83,4,1,MUSACHI,CCC
-75.43,2301,,5000,20347.83,4,1,MUSACHI,CCC
+76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
+76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
+76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
+76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
+76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
+76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 73.33,28406,Earth Sealed Staff of Abraxas.,2000,7499.91,7,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER!
 72.95,28035,Solar Shield,15000,55454.18,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
 72.95,28035,Solar Shield,15000,55454.18,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
@@ -18,29 +18,30 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.81,28327,Great Aqua Cap,40000,132499.75,3,1,conqstall2,App transfer heavy crystals buff
 69.81,28327,Great Aqua Cap,40000,132499.75,3,1,conqstall2,App transfer heavy crystals buff
 69.65,22003,Glowing Gem,780,2569.79,11,22,hunterx,ug colo/bow50/evarock/gems
-69.54,26594,Novice Explosive Ball,45,147.71,9,2,Skills,Eva Rock/jack Coin/Exp Card/+/+
+69.54,26594,Novice Explosive Ball,45,147.72,10,2,Skills,Eva Rock/jack Coin/Exp Card/+/+
 67.57,30118,Vial of Strength Reset,2000,6166.67,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
 66.59,28418,Earth Sealed Kiss of the Cursed,3000,8980.0,4,1,Olympus,cheap items for ds and from ds
 64.71,30121,Vial of Accuracy Reset,2000,5666.67,3,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.71,30122,Vial of Spirit Reset,2000,5666.67,3,2,Akim,PVP POTIONS FB W8LES SKAT OTHER
+64.14,25440,Evanescence Stone,333,928.55,5,2,AltDude,buy my stuff
+62.93,2301,,8000,21583.29,5,1,HunterKim,Boot
 62.92,29009,Novice 15 Mining EXP Card,300,809.09,3,2,suu,MYSTIC LEAF/ SEED/ EXP CARD
 62.5,28434,Fire Sealed Robe of the Arcane,9999,26665.67,3,1,Tabitha,FULL STALL
 61.09,22003,Glowing Gem,1000,2569.79,11,9,vendedolmax,2000
 61.09,22003,Glowing Gem,1000,2569.79,11,35,Frank,G-JADE REF GEMS ER INS EP
-60.68,2301,,8000,20347.83,4,1,HunterKim,Boot
 60.3,25439,Incantation Stone,400,1007.66,5,45,Shooooop,Rush gems
 60.0,28406,Earth Sealed Staff of Abraxas.,3000,7499.91,7,1,Myro,CHEAP
 59.74,28458,Ice Sealed Staff of the Sphinx,15000,37259.0,6,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
-58.99,30172,Ticket to Treasure Island,199,485.21,7,1,DiscipleTwo,FROZEN ELIXIR|PurpleFruit|Others
-58.99,30172,Ticket to Treasure Island,199,485.21,7,54,CoinMaster,PROSP PBS
-58.78,30172,Ticket to Treasure Island,200,485.21,7,18,A1exSamara,Flash bombs  refs  pbs  royal
-58.78,30172,Ticket to Treasure Island,200,485.21,7,97,A1eXxSamara,DW tix  Packet  tix
-58.78,30172,Ticket to Treasure Island,200,485.21,7,70,A1eXxSamara,DW tix  Packet  tix
-58.78,30172,Ticket to Treasure Island,200,485.21,7,99,A1eXxSamara,DW tix  Packet  tix
-58.78,30172,Ticket to Treasure Island,200,485.21,7,24,A1eXxSamara,DW tix  Packet  tix
+58.86,30172,Ticket to Treasure Island,199,483.74,8,1,DiscipleTwo,FROZEN ELIXIR|PurpleFruit|Others
+58.86,30172,Ticket to Treasure Island,199,483.74,8,54,CoinMaster,PROSP PBS
+58.66,30172,Ticket to Treasure Island,200,483.74,8,18,A1exSamara,Flash bombs  refs  pbs  royal
+58.66,30172,Ticket to Treasure Island,200,483.74,8,97,A1eXxSamara,DW tix  Packet  tix
+58.66,30172,Ticket to Treasure Island,200,483.74,8,70,A1eXxSamara,DW tix  Packet  tix
+58.66,30172,Ticket to Treasure Island,200,483.74,8,99,A1eXxSamara,DW tix  Packet  tix
+58.66,30172,Ticket to Treasure Island,200,483.74,8,24,A1eXxSamara,DW tix  Packet  tix
 58.32,28403,Blade of Incantation,98000,235142.86,5,1,BlackDemon,offers
-57.42,25440,Evanescence Stone,400,939.4,5,39,Shooooop,Rush gems
 57.08,25137,Purple Fruit,49,114.16,3,99,DiscipleTwo,FROZEN ELIXIR|PurpleFruit|Others
+56.92,25440,Evanescence Stone,400,928.55,5,39,Shooooop,Rush gems
 56.77,22003,Glowing Gem,1111,2569.79,11,8,NainBASTARD,Normal Gems
 56.41,28468,Ice Sealed Mantle of Enigma,85000,194999.33,3,1,BjornIronside,LOOKFAST
 55.95,25507,Expert Stone,300,681.05,4,99,Shooooop,Rush gems
