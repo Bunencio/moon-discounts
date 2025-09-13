@@ -2,7 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.1,28035,Solar Shield,10000,59166.25,8,1,Obsidian,rare fc/ds eqps|red/legend bp
 83.02,28404,Earth Sealed Robe of Abraxas,3000,17666.67,3,1,Olympus,cheap items for ds and from ds
 80.55,25501,Brown Colorant,500,2571.05,4,1,cheapstuffsell,cheap
-78.78,27021,Green Pirate Scroll,100,471.29,8,3,stink,cheap cheap
+80.45,27021,Green Pirate Scroll,100,511.39,9,3,stink,cheap cheap
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
@@ -20,8 +20,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.43,26562,Cake,25,87.49,7,35,AtiradorAzul,BOMB  REF  PPS  COIN  SEED  SEAL
 69.0,22003,Glowing Gem,780,2515.81,11,22,hunterx,ug colo/bow50/evarock/gems
 67.57,30118,Vial of Strength Reset,2000,6166.67,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
-67.32,25522,,70,214.17,4,8,cryplz,SUPER 900
-66.59,28418,Earth Sealed Kiss of the Cursed,3000,8980.0,4,1,Olympus,cheap items for ds and from ds
 64.71,30121,Vial of Accuracy Reset,2000,5666.67,3,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.71,30122,Vial of Spirit Reset,2000,5666.67,3,2,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.14,25440,Evanescence Stone,333,928.55,5,2,AltDude,buy my stuff
@@ -33,6 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.25,22003,Glowing Gem,1000,2515.81,11,9,vendedolmax,2000
 60.25,22003,Glowing Gem,1000,2515.81,11,35,Frank,G-JADE REF GEMS ER INS EP
 60.0,28406,Earth Sealed Staff of Abraxas.,3000,7499.91,7,1,Myro,CHEAP
+59.87,28418,Earth Sealed Kiss of the Cursed,3000,7475.0,3,1,Olympus,cheap items for ds and from ds
 59.74,28458,Ice Sealed Staff of the Sphinx,15000,37259.0,6,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
 58.97,30172,Ticket to Treasure Island,199,485.02,8,54,CoinMaster,PROSP PBS
 58.76,30172,Ticket to Treasure Island,200,485.02,8,18,A1exSamara,Flash bombs  refs  pbs  royal
@@ -46,12 +45,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.41,28468,Ice Sealed Mantle of Enigma,85000,194999.33,3,1,BjornIronside,LOOKFAST
 55.84,22003,Glowing Gem,1111,2515.81,11,8,NainBASTARD,Normal Gems
 54.71,25503,Magical Stone,400,883.23,9,18,BARBANEGRA,||ALUCARD STALL O MELHOR!!
-53.31,25522,,100,214.17,4,15,Sunnyy,Everything you need here!!!!!!!!
-53.31,25522,,100,214.17,4,84,BV4,m
-53.31,25522,,100,214.17,4,64,Obsidian,rare fc/ds eqps|red/legend bp
 52.32,28466,Ice Sealed Judgment of Enigma,18000,37755.3,7,1,Kinyu,18K
 52.3,22003,Glowing Gem,1200,2515.81,11,1,xDelfina,all cheap
-51.77,25137,Purple Fruit,49,101.6,3,99,DiscipleTwo,FROZEN ELIXIR|PurpleFruit|Others
 51.69,28458,Ice Sealed Staff of the Sphinx,18000,37259.0,6,1,Kinyu,18K
 51.35,30118,Vial of Strength Reset,3000,6166.67,4,1,Olympus,cheap items for ds and from ds
 51.25,26001,Ninja Coin,450,923.04,6,5,KalazugeR,C   H   E   A   P
