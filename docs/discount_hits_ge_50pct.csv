@@ -1,8 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.2,27000,Prosperous Packet,30,189.9,8,10,EvilRian,lucky pax and more trash
 83.02,28404,Earth Sealed Robe of Abraxas,3000,17666.67,3,1,Olympus,cheap items for ds and from ds
-81.19,27021,Green Pirate Scroll,100,531.62,7,3,stink,cheap cheap
+81.25,27021,Green Pirate Scroll,100,533.31,7,2,stink,cheap cheap
 80.55,25501,Brown Colorant,500,2571.05,4,1,cheapstuffsell,cheap
+77.14,28035,Solar Shield,10000,43749.75,6,1,Obsidian,rare fc/ds eqps|red/legend bp
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
@@ -22,9 +23,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.77,26594,Novice Explosive Ball,200,601.93,7,8,EvilRian,lucky pax and more trash
 66.77,26594,Novice Explosive Ball,200,601.93,7,5,cryplz,SUPER 900
 66.77,26594,Novice Explosive Ball,200,601.93,7,21,Shop1,darkblue
+65.72,28035,Solar Shield,14999,43749.75,6,1,TTKillGirlTT,Jack Coin / Sealed 50 / Shield
+65.71,28035,Solar Shield,15000,43749.75,6,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
+65.71,28035,Solar Shield,15000,43749.75,6,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
+65.71,28035,Solar Shield,15000,43749.75,6,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
 64.71,30121,Vial of Accuracy Reset,2000,5666.67,3,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.71,30122,Vial of Spirit Reset,2000,5666.67,3,2,Akim,PVP POTIONS FB W8LES SKAT OTHER
-63.4,26589,Potion of Bull,999,2729.18,12,5,Uzi,pps
+63.4,26589,Potion of Bull,999,2729.81,12,5,Uzi,pps
 63.33,28418,Earth Sealed Kiss of the Cursed,3000,8180.0,4,1,Olympus,cheap items for ds and from ds
 62.93,2301,,8000,21583.29,5,1,HunterKim,Boot
 62.92,29009,Novice 15 Mining EXP Card,300,809.09,3,2,suu,MYSTIC LEAF/ SEED/ EXP CARD
@@ -37,8 +42,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.51,30172,Ticket to Treasure Island,200,493.94,8,24,A1eXxSamara,DW tix  Packet  tix
 58.97,28406,Earth Sealed Staff of Abraxas.,2000,4875.0,5,1,LazzzyBee,CHEAPEST BANK CLEARANCE!
 58.65,25507,Expert Stone,400,967.41,4,11,StepanBendera,Gem of Soul
-57.07,22001,Furious Gem,2000,4658.97,6,3,LazzzyBee,CHEAPEST BANK CLEARANCE!
-57.07,22001,Furious Gem,2000,4658.97,6,8,vendedolmax,2000
 55.36,28458,Ice Sealed Staff of the Sphinx,15000,33599.8,5,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
 54.22,25522,,100,218.41,6,84,BV4,m
 54.22,25522,,100,218.41,6,64,Obsidian,rare fc/ds eqps|red/legend bp
