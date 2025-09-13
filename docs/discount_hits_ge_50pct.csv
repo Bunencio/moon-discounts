@@ -10,8 +10,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
-76.47,28327,Great Aqua Cap,30000,127499.75,3,1,conqstall2,buff cards heavy crystals
-76.47,28327,Great Aqua Cap,30000,127499.75,3,1,conqstall2,buff cards heavy crystals
 75.4,26594,Novice Explosive Ball,45,182.89,9,2,Skills,Eva Rock/jack Coin/Exp Card/+/+
 74.65,28035,Solar Shield,15000,59166.25,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
 74.65,28035,Solar Shield,15000,59166.25,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
@@ -20,7 +18,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.22,28406,Earth Sealed Staff of Abraxas.,1500,5818.09,7,1,Fortis,All cheap
 73.69,28434,Fire Sealed Robe of the Arcane,9999,37999.4,5,1,Tabitha,FULL STALL
 71.43,26562,Cake,25,87.49,7,35,AtiradorAzul,BOMB  REF  PPS  COIN  SEED  SEAL
-70.17,22003,Glowing Gem,750,2514.09,10,22,hunterx,cheap ug colo/repu/lbp/signetetc
+70.24,22003,Glowing Gem,750,2519.97,10,22,hunterx,cheap ug colo/repu/lbp/signetetc
 68.41,25522,,69,218.41,6,39,TagBaligya2,Craft/Manu/Cook Items
 67.95,25522,,70,218.41,6,8,cryplz,SUPER 900
 67.57,30118,Vial of Strength Reset,2000,6166.67,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
@@ -30,9 +28,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.93,2301,,8000,21583.29,5,1,HunterKim,Boot
 62.92,29009,Novice 15 Mining EXP Card,300,809.09,3,2,suu,MYSTIC LEAF/ SEED/ EXP CARD
 61.22,25507,Expert Stone,300,773.65,5,99,Shooooop,Rush gems
-60.22,22003,Glowing Gem,1000,2514.09,10,7,LazzzyBee,CHEAPEST BANK CLEARANCE!
-60.22,22003,Glowing Gem,1000,2514.09,10,9,vendedolmax,2000
-60.22,22003,Glowing Gem,1000,2514.09,10,35,Frank,G-JADE REF GEMS ER INS EP
+60.32,22003,Glowing Gem,1000,2519.97,10,7,LazzzyBee,CHEAPEST BANK CLEARANCE!
+60.32,22003,Glowing Gem,1000,2519.97,10,9,vendedolmax,2000
+60.32,22003,Glowing Gem,1000,2519.97,10,35,Frank,G-JADE REF GEMS ER INS EP
+59.87,28418,Earth Sealed Kiss of the Cursed,3000,7475.0,3,1,Olympus,cheap items for ds and from ds
 59.74,28458,Ice Sealed Staff of the Sphinx,15000,37259.0,6,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
 59.62,30172,Ticket to Treasure Island,199,492.83,8,54,CoinMaster,PROSP PBS
 59.42,30172,Ticket to Treasure Island,200,492.83,8,18,A1exSamara,Flash bombs  refs  pbs  royal
@@ -41,14 +40,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.42,30172,Ticket to Treasure Island,200,492.83,8,99,A1eXxSamara,DW tix  Packet  tix
 59.42,30172,Ticket to Treasure Island,200,492.83,8,24,A1eXxSamara,DW tix  Packet  tix
 58.32,28403,Blade of Incantation,98000,235142.86,5,1,BlackDemon,super offers
-57.52,26590,Potion of Soul,1500,3531.04,8,1,Antares,Promotion
+57.66,26590,Potion of Soul,1500,3543.16,9,1,Antares,Promotion
 56.41,28468,Ice Sealed Mantle of Enigma,85000,194999.33,3,1,BjornIronside,LOOKFAST
-54.77,28418,Earth Sealed Kiss of the Cursed,3000,6633.33,3,1,Olympus,cheap items for ds and from ds
 54.71,25503,Magical Stone,400,883.23,9,18,BARBANEGRA,||ALUCARD STALL O MELHOR!!
 54.22,25522,,100,218.41,6,84,BV4,m
 54.22,25522,,100,218.41,6,64,Obsidian,rare fc/ds eqps|red/legend bp
+52.38,22003,Glowing Gem,1200,2519.97,10,1,xDelfina,all cheap
 52.32,28466,Ice Sealed Judgment of Enigma,18000,37755.3,7,1,Kinyu,18K
-52.27,22003,Glowing Gem,1200,2514.09,10,1,xDelfina,all cheap
+52.0,28327,Great Aqua Cap,30000,62500.0,3,1,conqstall2,buff cards heavy crystals
+52.0,28327,Great Aqua Cap,30000,62500.0,3,1,conqstall2,buff cards heavy crystals
 51.69,28458,Ice Sealed Staff of the Sphinx,18000,37259.0,6,1,Kinyu,18K
 51.35,30118,Vial of Strength Reset,3000,6166.67,4,1,Olympus,cheap items for ds and from ds
 50.05,25489,White Dye,4000,8008.36,3,2,Terrapizza,Cheap gear and stuff
