@@ -30,7 +30,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.5,28416,Earth Sealed Corset of Incantation,9999,26666.33,3,1,xCrossex,CHEAPS SEAL  LEAF
 61.05,22003,Glowing Gem,1000,2567.29,12,9,vendedolmax,2000
 61.05,22003,Glowing Gem,1000,2567.29,12,35,Frank,G-JADE REF GEMS ER INS EP
-60.79,25507,Expert Stone,300,765.06,5,99,Shooooop,Rush gems
 60.3,25439,Incantation Stone,400,1007.66,5,45,Shooooop,Rush gems
 60.0,28406,Earth Sealed Staff of Abraxas.,3000,7499.91,7,1,Myro,CHEAP
 60.0,28434,Fire Sealed Robe of the Arcane,9999,24999.25,4,1,Tabitha,FULL STALL
@@ -40,6 +39,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.76,30172,Ticket to Treasure Island,200,497.07,9,71,A1eXxSamara,DW tix  Packet  tix
 59.76,30172,Ticket to Treasure Island,200,497.07,9,99,A1eXxSamara,DW tix  Packet  tix
 59.76,30172,Ticket to Treasure Island,200,497.07,9,24,A1eXxSamara,DW tix  Packet  tix
+59.46,25507,Expert Stone,300,739.97,5,99,Shooooop,Rush gems
 58.63,28466,Ice Sealed Judgment of Enigma,15000,36255.3,7,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
 57.76,28458,Ice Sealed Staff of the Sphinx,15000,35507.71,7,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
 57.43,22000,FieryGem,2999,7045.55,13,1,TheFrost,REF / GEM / GLOVES
@@ -51,7 +51,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.33,25503,Magical Stone,400,875.88,10,18,BARBANEGRA,||ALUCARD STALL O MELHOR!!
 53.62,26001,Ninja Coin,400,862.45,8,19,ATHALIAH,LOWEST PRICE
 53.26,22003,Glowing Gem,1200,2567.29,12,1,xDelfina,all cheap
-52.9,26591,Potion of Lion,1500,3184.49,14,4,Gryffindor,pps. pots. normal gems
+52.94,26591,Potion of Lion,1500,3187.65,13,4,Gryffindor,pps. pots. normal gems
 52.15,25164,Deadly Fruit,350,731.45,4,3,UmaMaquinaTUA,fruit
 51.35,30118,Vial of Strength Reset,3000,6166.67,4,1,Olympus,cheap items for ds and from ds
 50.63,26590,Potion of Soul,1500,3038.29,8,1,Antares,Promotion
