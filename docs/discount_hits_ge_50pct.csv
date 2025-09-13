@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.4,27000,Prosperous Packet,30,192.35,9,10,EvilRian,lucky pax and more trash
-83.1,28035,Solar Shield,10000,59166.25,8,1,Obsidian,rare fc/ds eqps|red/legend bp
 83.02,28404,Earth Sealed Robe of Abraxas,3000,17666.67,3,1,Olympus,cheap items for ds and from ds
+81.97,28035,Solar Shield,10000,55454.09,8,1,Obsidian,rare fc/ds eqps|red/legend bp
 80.67,27021,Green Pirate Scroll,100,517.32,9,3,stink,cheap cheap
 80.55,25501,Brown Colorant,500,2571.05,4,1,cheapstuffsell,cheap
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
@@ -10,13 +10,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
-74.65,28035,Solar Shield,15000,59166.25,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
-74.65,28035,Solar Shield,15000,59166.25,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
-74.65,28035,Solar Shield,15000,59166.25,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
-74.65,28035,Solar Shield,14999,59166.25,8,1,TTKillGirlTT,Sealed 50   /  Jack Coin /Shield
 73.39,28406,Earth Sealed Staff of Abraxas.,1500,5636.36,7,1,Fortis,All cheap
+72.95,28035,Solar Shield,15000,55454.09,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
+72.95,28035,Solar Shield,15000,55454.09,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
+72.95,28035,Solar Shield,15000,55454.09,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
+72.95,28035,Solar Shield,14999,55454.09,8,1,TTKillGirlTT,Sealed 50   /  Jack Coin /Shield
 70.93,22003,Glowing Gem,750,2580.02,11,22,hunterx,cheap ug colo/repu/lbp/signetetc
-68.66,25503,Magical Stone,250,797.72,9,67,DingDong,Potions|Gems|Magic Stone 250g
+68.86,25503,Magical Stone,250,802.85,10,67,DingDong,Potions|Gems|Magic Stone 250g
 68.41,25522,,69,218.41,6,39,TagBaligya2,Craft/Manu/Cook Items
 67.95,25522,,70,218.41,6,8,cryplz,SUPER 900
 67.57,30118,Vial of Strength Reset,2000,6166.67,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
@@ -24,12 +24,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.71,30121,Vial of Accuracy Reset,2000,5666.67,3,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.71,30122,Vial of Spirit Reset,2000,5666.67,3,2,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.52,28406,Earth Sealed Staff of Abraxas.,2000,5636.36,7,1,LazzzyBee,CHEAPEST BANK CLEARANCE!
+64.2,28418,Earth Sealed Kiss of the Cursed,3000,8380.0,4,1,Olympus,cheap items for ds and from ds
 62.93,2301,,8000,21583.29,5,1,HunterKim,Boot
 62.92,29009,Novice 15 Mining EXP Card,300,809.09,3,2,suu,MYSTIC LEAF/ SEED/ EXP CARD
 61.24,22003,Glowing Gem,1000,2580.02,11,7,LazzzyBee,CHEAPEST BANK CLEARANCE!
 61.24,22003,Glowing Gem,1000,2580.02,11,9,vendedolmax,2000
 61.24,22003,Glowing Gem,1000,2580.02,11,35,Frank,G-JADE REF GEMS ER INS EP
-59.87,28418,Earth Sealed Kiss of the Cursed,3000,7475.0,3,1,Olympus,cheap items for ds and from ds
 59.74,28458,Ice Sealed Staff of the Sphinx,15000,37259.0,6,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
 59.72,30172,Ticket to Treasure Island,199,494.04,8,54,CoinMaster,PROSP PBS
 59.52,30172,Ticket to Treasure Island,200,494.04,8,18,A1exSamara,Flash bombs  refs  pbs  royal
@@ -54,4 +54,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.0,28460,Ice Sealed Robe of Enigma,75000,156250.0,4,1,Sauronn,AHAHAHAHAHHAHAHAHHAHAHAHHAHAHAHA
 51.69,28458,Ice Sealed Staff of the Sphinx,18000,37259.0,6,1,Kinyu,18K
 51.35,30118,Vial of Strength Reset,3000,6166.67,4,1,Olympus,cheap items for ds and from ds
+50.18,25503,Magical Stone,400,802.85,10,18,BARBANEGRA,||ALUCARD STALL O MELHOR!!
 50.05,25489,White Dye,4000,8008.36,3,2,Terrapizza,Cheap gear and stuff
