@@ -1,5 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-88.65,30156,Jackpot Coin,1200,10572.57,19,6,Liviya,******
+88.81,30156,Jackpot Coin,1200,10727.5,19,6,Liviya,******
 83.02,28404,Earth Sealed Robe of Abraxas,3000,17666.67,3,1,Olympus,cheap items for ds and from ds
 81.97,28035,Solar Shield,10000,55454.18,8,1,Obsidian,rare fc/ds eqps|red/legend bp
 80.55,25501,Brown Colorant,500,2571.05,4,1,cheapstuffsell,cheap
@@ -9,6 +9,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
 76.83,2301,,5000,21583.29,5,1,MUSACHI,CCC
+75.2,26594,Novice Explosive Ball,45,181.47,9,2,Skills,Eva Rock/jack Coin/Exp Card/+/+
 73.33,28406,Earth Sealed Staff of Abraxas.,2000,7499.91,7,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER!
 72.95,28035,Solar Shield,15000,55454.18,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
 72.95,28035,Solar Shield,15000,55454.18,8,1,VENDEDORAA,DAGGER GEMMED/SM 50/APPS/+++++++
@@ -21,25 +22,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.37,25423,Evanescence Rock,250,816.31,10,82,hunterx,ug colo/bow50/evarock/gems
 67.57,30118,Vial of Strength Reset,2000,6166.67,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
 66.59,28418,Earth Sealed Kiss of the Cursed,3000,8980.0,4,1,Olympus,cheap items for ds and from ds
-65.94,26594,Novice Explosive Ball,45,132.13,9,2,Skills,Eva Rock/jack Coin/Exp Card/+/+
 64.71,30121,Vial of Accuracy Reset,2000,5666.67,3,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
 64.71,30122,Vial of Spirit Reset,2000,5666.67,3,2,Akim,PVP POTIONS FB W8LES SKAT OTHER
 62.93,2301,,8000,21583.29,5,1,HunterKim,Boot
 62.92,29009,Novice 15 Mining EXP Card,300,809.09,3,2,suu,MYSTIC LEAF/ SEED/ EXP CARD
-62.91,26594,Novice Explosive Ball,49,132.13,9,99,CoinMaster,GBP AND MORE
-62.5,28416,Earth Sealed Corset of Incantation,9999,26666.33,3,1,xCrossex,CHEAPS SEAL  LEAF
 61.22,25507,Expert Stone,300,773.65,5,99,Shooooop,Rush gems
 61.09,22003,Glowing Gem,1000,2569.79,11,9,vendedolmax,2000
 61.09,22003,Glowing Gem,1000,2569.79,11,35,Frank,G-JADE REF GEMS ER INS EP
 60.3,25439,Incantation Stone,400,1007.66,5,45,Shooooop,Rush gems
-60.03,30172,Ticket to Treasure Island,199,497.92,9,1,DiscipleTwo,FROZEN ELIXIR|PurpleFruit|Others
+60.05,30172,Ticket to Treasure Island,199,498.17,8,1,DiscipleTwo,FROZEN ELIXIR|PurpleFruit|Others
 60.0,28406,Earth Sealed Staff of Abraxas.,3000,7499.91,7,1,Myro,CHEAP
 60.0,28434,Fire Sealed Robe of the Arcane,9999,24999.25,4,1,Tabitha,FULL STALL
-59.83,30172,Ticket to Treasure Island,200,497.92,9,18,A1exSamara,Flash bombs  refs  pbs  royal
-59.83,30172,Ticket to Treasure Island,200,497.92,9,97,A1eXxSamara,DW tix  Packet  tix
-59.83,30172,Ticket to Treasure Island,200,497.92,9,70,A1eXxSamara,DW tix  Packet  tix
-59.83,30172,Ticket to Treasure Island,200,497.92,9,99,A1eXxSamara,DW tix  Packet  tix
-59.83,30172,Ticket to Treasure Island,200,497.92,9,24,A1eXxSamara,DW tix  Packet  tix
+59.85,30172,Ticket to Treasure Island,200,498.17,8,18,A1exSamara,Flash bombs  refs  pbs  royal
+59.85,30172,Ticket to Treasure Island,200,498.17,8,97,A1eXxSamara,DW tix  Packet  tix
+59.85,30172,Ticket to Treasure Island,200,498.17,8,70,A1eXxSamara,DW tix  Packet  tix
+59.85,30172,Ticket to Treasure Island,200,498.17,8,99,A1eXxSamara,DW tix  Packet  tix
+59.85,30172,Ticket to Treasure Island,200,498.17,8,24,A1eXxSamara,DW tix  Packet  tix
 58.63,28466,Ice Sealed Judgment of Enigma,15000,36255.3,7,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
 58.32,28403,Blade of Incantation,98000,235142.86,5,1,BlackDemon,offers
 57.76,28458,Ice Sealed Staff of the Sphinx,15000,35507.71,7,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
