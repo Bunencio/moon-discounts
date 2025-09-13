@@ -38,7 +38,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,28403,Blade of Incantation,Sekiro,all you need  4 Xmas is here,179000,251333.33,72333.33,1,72333.33,28.78,4
 2025-09-13,26326,Elven Royal Signet,A1exSamara,refs pbs fb royal,1200,1683.67,483.67,157,75936.65,28.73,7
 2025-09-13,22030,Earth Rock,Stello,##@@##,1999999,2733333.0,733334.0,1,733334.0,26.83,3
-2025-09-13,30171,Ticket to Demonic World,Guerra01,tix cheap,599,816.15,217.15,146,31703.92,26.61,4
+2025-09-13,30171,Ticket to Demonic World,Guerra01,tix cheap,599,816.06,217.06,146,31690.56,26.6,4
 2025-09-13,22004,Shining Gem,EngrAndy,Make Ascaron Great Again!,4500,6078.4,1578.4,15,23676.07,25.97,7
 2025-09-13,30022,Buffing Card,conqstall2,buff cards heavy crystals,40000,53823.53,13823.53,9,124411.76,25.68,4
 2025-09-13,26589,Potion of Bull,LotokSell,AegisRock Very Cheap,2000,2657.94,657.94,81,53293.42,24.75,12
@@ -82,7 +82,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,28449,Cloak of Evanescence,North,VOY UNSEALLLLLL,1099999,1316666.33,216667.33,1,216667.33,16.46,3
 2025-09-13,25452,Rock Gem Fragment,cheapstuffguys,cheap,88000,104472.93,16472.93,5,82364.64,15.77,10
 2025-09-13,25452,Rock Gem Fragment,BIlIllIS,cheap,88000,104472.93,16472.93,2,32945.86,15.77,10
-2025-09-13,26575,Guardian's Brew,vnt3,Moonroot Wine-Guardian Brew !,850,1007.98,157.98,129,20379.12,15.67,5
+2025-09-13,26575,Guardian's Brew,vnt3,Moonroot Wine-Guardian Brew !,850,1008.03,158.03,129,20386.48,15.68,5
 2025-09-13,25426,Universe Purse Fragment.,Xiomarvic,Full Frag Help me,290000,342139.0,52139.0,1,52139.0,15.24,6
 2025-09-13,26592,Flash Bomb,A1exSamara,refs pbs fb royal,849,999.14,150.14,200,30027.34,15.03,18
 2025-09-13,26344,Novice Weightless Potion,LotokSell,AegisRock Very Cheap,3000,3526.92,526.92,48,25292.31,14.94,4
@@ -119,8 +119,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,22001,Furious Gem,Look7,ty,3000,3413.16,413.16,54,22310.53,12.1,8
 2025-09-13,27026,Soul Detector Lv1,ii3,jade rock frag/TS /pps,1400,1555.82,155.82,161,25087.05,10.02,5
 2025-09-13,22009,Gem of Colossus,hunterx,cheap ug colo/repu/lbp/signetetc,1999980,2199993.0,200013.0,1,200013.0,9.09,3
-2025-09-13,22014,Demonic Gem of Colossus,ST003,DEM Colo| Spirit Feather| PBS,2000000,2200000.0,200000.0,1,200000.0,9.09,3
-2025-09-13,22014,Demonic Gem of Colossus,Kaka5,DEMONIC COLO 2M CHEAP,2000000,2200000.0,200000.0,1,200000.0,9.09,3
+2025-09-13,22014,Demonic Gem of Colossus,ST003,DEM COLO | Spirit Feather | PBS,1999999,2199999.75,200000.75,1,200000.75,9.09,4
+2025-09-13,22014,Demonic Gem of Colossus,Kaka5,DEMONIC COLO 2M CHEAP,2000000,2199999.75,199999.75,1,199999.75,9.09,4
 2025-09-13,28449,Cloak of Evanescence,jojoba2,cheap eqs,1200000,1316666.33,116666.33,1,116666.33,8.86,3
 2025-09-13,30139,100x Crystal,Mallwart,SELLING CHEAPEST IMPS,73900,80887.59,6987.59,31,216615.33,8.64,7
 2025-09-13,30139,100x Crystal,Walmart1,S> IMPS,73975,80887.59,6912.59,97,670521.34,8.55,7
@@ -141,12 +141,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-13,25452,Rock Gem Fragment,Calamitas,gem,99999,104472.93,4473.93,5,22369.64,4.28,10
 2025-09-13,22021,Yellow Jade,Rhaegar,Purple | Yellow Jade | UG Soul,1900000,1979999.4,79999.4,1,79999.4,4.04,3
 2025-09-13,30139,100x Crystal,Merchanty,IMP/Crystal|ShiningRune|Colorant,77990,80887.59,2897.59,10,28975.91,3.58,7
-2025-09-13,26571,Warlord Potion,1231244,POTS/BLESS/FISHES,4100,4247.51,147.51,142,20946.19,3.47,5
+2025-09-13,26571,Warlord Potion,1231244,POTS/BLESS/FISHES,4100,4247.59,147.59,142,20957.53,3.47,5
 2025-09-13,22013,Demonic Gem of Striking,xABC,DEMONIK STRIK/KAL CHEAP!!!,2100000,2168750.0,68750.0,1,68750.0,3.17,3
 2025-09-13,22013,Demonic Gem of Striking,siggy,Demonic gem of striking,2100000,2168750.0,68750.0,1,68750.0,3.17,3
 2025-09-13,26377,Pharaoh's Lantern,Virginia,Kal | Pharaoh Lan | Elven P | HP,12999,13376.39,377.39,159,60005.67,2.82,5
 2025-09-13,30139,100x Crystal,Duna,Sell IMP and Bless,78999,80887.59,1888.59,16,30217.46,2.33,7
-2025-09-13,26585,Blessed Potion,1231244,POTS/BLESS/FISHES,115000,117336.88,2336.88,20,46737.61,1.99,5
+2025-09-13,26585,Blessed Potion,1231244,POTS/BLESS/FISHES,115000,117329.59,2329.59,20,46591.87,1.99,5
 2025-09-13,26573,Demonic Potion,Nads,TOTEM COOKINGS ARE SHIT B HERE,21999,22415.11,416.11,55,22886.18,1.86,3
 2025-09-13,27016,Enchanted Wine,1231244,POTS/BLESS/FISHES,5800,5910.02,110.02,200,22003.29,1.86,3
 2025-09-13,26572,Inferno Potion,GordanRamsay,Cheapest Aegis/Inferno/Iron Brew,14100,14325.36,225.36,115,25916.34,1.57,4
