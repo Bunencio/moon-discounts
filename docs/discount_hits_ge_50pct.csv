@@ -19,7 +19,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.65,22003,Glowing Gem,780,2569.79,11,22,hunterx,ug colo/bow50/evarock/gems
 69.37,25423,Evanescence Rock,250,816.31,10,82,hunterx,ug colo/bow50/evarock/gems
 67.57,30118,Vial of Strength Reset,2000,6166.67,4,1,Akim,PVP POTIONS FB W8LES SKAT OTHER
-66.94,26590,Potion of Soul,1000,3024.61,9,1,Aveyron,PPS/PG/POTS cheap
 66.59,28418,Earth Sealed Kiss of the Cursed,3000,8980.0,4,1,Olympus,cheap items for ds and from ds
 65.94,26594,Novice Explosive Ball,45,132.13,9,2,Skills,Eva Rock/jack Coin/Exp Card/+/+
 64.71,30121,Vial of Accuracy Reset,2000,5666.67,3,4,Akim,PVP POTIONS FB W8LES SKAT OTHER
@@ -32,14 +31,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.09,22003,Glowing Gem,1000,2569.79,11,9,vendedolmax,2000
 61.09,22003,Glowing Gem,1000,2569.79,11,35,Frank,G-JADE REF GEMS ER INS EP
 60.3,25439,Incantation Stone,400,1007.66,5,45,Shooooop,Rush gems
+60.18,30172,Ticket to Treasure Island,199,499.7,8,1,DiscipleTwo,FROZEN ELIXIR|PurpleFruit|Others
 60.0,28406,Earth Sealed Staff of Abraxas.,3000,7499.91,7,1,Myro,CHEAP
 60.0,28434,Fire Sealed Robe of the Arcane,9999,24999.25,4,1,Tabitha,FULL STALL
-59.99,30172,Ticket to Treasure Island,199,497.33,9,1,DiscipleTwo,FROZEN ELIXIR|PurpleFruit|Others
-59.79,30172,Ticket to Treasure Island,200,497.33,9,18,A1exSamara,Flash bombs  refs  pbs  royal
-59.79,30172,Ticket to Treasure Island,200,497.33,9,97,A1eXxSamara,DW tix  Packet  tix
-59.79,30172,Ticket to Treasure Island,200,497.33,9,70,A1eXxSamara,DW tix  Packet  tix
-59.79,30172,Ticket to Treasure Island,200,497.33,9,99,A1eXxSamara,DW tix  Packet  tix
-59.79,30172,Ticket to Treasure Island,200,497.33,9,24,A1eXxSamara,DW tix  Packet  tix
+59.98,30172,Ticket to Treasure Island,200,499.7,8,18,A1exSamara,Flash bombs  refs  pbs  royal
+59.98,30172,Ticket to Treasure Island,200,499.7,8,97,A1eXxSamara,DW tix  Packet  tix
+59.98,30172,Ticket to Treasure Island,200,499.7,8,70,A1eXxSamara,DW tix  Packet  tix
+59.98,30172,Ticket to Treasure Island,200,499.7,8,99,A1eXxSamara,DW tix  Packet  tix
+59.98,30172,Ticket to Treasure Island,200,499.7,8,24,A1eXxSamara,DW tix  Packet  tix
 58.63,28466,Ice Sealed Judgment of Enigma,15000,36255.3,7,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
 58.32,28403,Blade of Incantation,98000,235142.86,5,1,BlackDemon,offers
 57.76,28458,Ice Sealed Staff of the Sphinx,15000,35507.71,7,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
@@ -49,11 +48,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.77,22003,Glowing Gem,1111,2569.79,11,8,NainBASTARD,Normal Gems
 56.41,28468,Ice Sealed Mantle of Enigma,85000,194999.33,3,1,BjornIronside,LOOKFAST
 54.33,25503,Magical Stone,400,875.88,10,18,BARBANEGRA,||ALUCARD STALL O MELHOR!!
-53.62,26001,Ninja Coin,400,862.45,8,19,ATHALIAH,LOWEST PRICE
+53.63,26001,Ninja Coin,400,862.58,8,19,ATHALIAH,LOWEST PRICE
 53.3,22003,Glowing Gem,1200,2569.79,11,1,xDelfina,all cheap
-52.15,25164,Deadly Fruit,350,731.45,4,3,UmaMaquinaTUA,fruit
 51.35,30118,Vial of Strength Reset,3000,6166.67,4,1,Olympus,cheap items for ds and from ds
-50.41,26590,Potion of Soul,1500,3024.61,9,1,Antares,Promotion
+50.63,26590,Potion of Soul,1500,3038.29,8,1,Antares,Promotion
 50.38,25439,Incantation Stone,500,1007.66,5,1,xLiliith,New shop - new life
 50.35,28466,Ice Sealed Judgment of Enigma,18000,36255.3,7,1,Kinyu,18K
 50.0,28440,Fire Sealed Roar of Evanescence,5000,10000.0,3,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER!
