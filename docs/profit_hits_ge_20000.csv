@@ -7,7 +7,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,28132,Voyager Cap,Xn88aX,VoyCap 4 con and Another Caps,45555,118703.33,73148.33,1,73148.33,61.62,3
 2025-09-14,28132,Voyager Cap,Xn88aX,VoyCap 4 con and Another Caps,45555,118703.33,73148.33,1,73148.33,61.62,3
 2025-09-14,28132,Voyager Cap,Xn88aX,VoyCap 4 con and Another Caps,45555,118703.33,73148.33,1,73148.33,61.62,3
-2025-09-14,30172,Ticket to Treasure Island,A1eXxSamara,DW tix  Packet  tix,200,505.95,305.95,99,30288.59,60.47,7
+2025-09-14,30172,Ticket to Treasure Island,A1eXxSamara,DW tix  Packet  tix,200,506.99,306.99,99,30392.32,60.55,7
 2025-09-14,25439,Incantation Stone,FreePalestine1,S>        0_0,499,1252.64,753.64,51,38435.7,60.16,5
 2025-09-14,28454,Ice Sealed Blade of Enigma,SSSSS,PPS/BOE/APP TRANSFER,250000,599999.8,349999.8,1,349999.8,58.33,4
 2025-09-14,26589,Potion of Bull,iinerti,Jackpot/PPS/FGP/FBs/Ref/PBS/SPs+,1800,4197.56,2397.56,11,26373.15,57.12,12
@@ -61,8 +61,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,30171,Ticket to Demonic World,Guerra01,tix cheap,599,811.9,212.9,136,28953.81,26.22,7
 2025-09-14,26590,Potion of Soul,smoI,smol,2500,3362.55,862.55,27,23288.85,25.65,13
 2025-09-14,25212,Frozen Elixir,Cush,mysticleaf,599,805.56,206.56,99,20449.36,25.64,6
-2025-09-14,30156,Jackpot Coin,Mikosita,SELL JACKPOT/PPS/REF/GPS/PURSE,8499,11387.12,2888.12,36,103972.36,25.36,12
-2025-09-14,30156,Jackpot Coin,AltDude,buy my stuff,8499,11387.12,2888.12,11,31769.33,25.36,12
 2025-09-14,30022,Buffing Card,JakubMarket,Jakub Enterprises,39800,53242.42,13442.42,15,201636.36,25.25,4
 2025-09-14,30022,Buffing Card,conqstall2,Boof card  heavy crystal,40000,53242.42,13242.42,5,66212.12,24.87,4
 2025-09-14,27014,Moonroot Wine,vnt3,Moonroot Wine Ofer!!,650,854.88,204.88,200,40976.39,23.97,6
@@ -81,16 +79,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,26326,Elven Royal Signet,A1exSamara,refs pbs fb royal,1200,1543.07,343.07,141,48372.25,22.23,8
 2025-09-14,29309,Ring of Grace,iToxiK,RINGS/STUFF/ETC.,140000,180000.0,40000.0,1,40000.0,22.22,3
 2025-09-14,26588,Potion of Eagle,FreePalestine1,S>        0_0,2400,3059.55,659.55,54,35615.63,21.56,11
-2025-09-14,30156,Jackpot Coin,Sake,Coins - LVL 13 STR FAIRY,9000,11387.12,2387.12,14,33419.7,20.96,12
 2025-09-14,22012,Demonic Gem of Wind,Aois,STALL,1200000,1516666.67,316666.67,1,316666.67,20.88,5
 2025-09-14,30135,Demonic Rock,Kipay,Green Jade/DW Rocks/ etc,3000,3778.58,778.58,49,38150.25,20.61,11
 2025-09-14,25031,Refining Gem,StalingCool,cleaning,11000,13787.65,2787.65,17,47390.11,20.22,16
 2025-09-14,26344,Novice Weightless Potion,Saller,TY,3000,3760.27,760.27,48,36493.15,20.22,3
 2025-09-14,26344,Novice Weightless Potion,LotokSell,AegisRock Very Cheap,3000,3760.27,760.27,41,31171.23,20.22,3
+2025-09-14,30156,Jackpot Coin,Commerce,ww3,9500,11645.89,2145.89,56,120170.03,18.43,12
 2025-09-14,25452,Rock Gem Fragment,DoaaPepa,D O N   P E P E,100000,122423.04,22423.04,1,22423.04,18.32,7
 2025-09-14,22024,Purple Jade,Rhaegar,Purple Yellow Jade,800000,978571.0,178571.0,2,357142.0,18.25,4
 2025-09-14,26558,Cooked Salmon,Conquest,CRAB,700,841.97,141.97,172,24418.14,16.86,3
-2025-09-14,30156,Jackpot Coin,Commerce,ww3,9500,11387.12,1887.12,71,133985.61,16.57,12
 2025-09-14,26592,Flash Bomb,iinerti,Jackpot/PPS/FGP/FBs/Ref/PBS/SPs+,800,958.7,158.7,200,31740.8,16.55,21
 2025-09-14,26592,Flash Bomb,FrenchGuy971,GPS AND COIN,800,958.7,158.7,200,31740.8,16.55,21
 2025-09-14,26592,Flash Bomb,SetSeller,cheapest in town,800,958.7,158.7,196,31105.98,16.55,21
@@ -105,6 +102,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,27025,Radiation Lv1,MrMarket,RADIS AEGIS SUP POINTS,2490,2914.29,424.29,140,59401.04,14.56,6
 2025-09-14,27025,Radiation Lv1,MrMarket,RADIS AEGIS SUP POINTS,2490,2914.29,424.29,115,48793.71,14.56,6
 2025-09-14,22012,Demonic Gem of Wind,Ryzenn,UG RAGE / STRIKING / DEMON WIND,1300000,1516666.67,216666.67,1,216666.67,14.29,5
+2025-09-14,30156,Jackpot Coin,Hurricane,RING 60 | PPS | JACKPOT | POTS,9999,11645.89,1646.89,23,37878.55,14.14,12
+2025-09-14,30156,Jackpot Coin,Shopshop,....,9999,11645.89,1646.89,22,36231.65,14.14,12
+2025-09-14,30156,Jackpot Coin,FrenchGuy971,GPS AND COIN,9999,11645.89,1646.89,13,21409.61,14.14,12
+2025-09-14,30156,Jackpot Coin,AAA123,1231313131,10000,11645.89,1645.89,46,75711.09,14.13,12
+2025-09-14,30156,Jackpot Coin,TeSelloElCulo,garner,10000,11645.89,1645.89,43,70773.41,14.13,12
+2025-09-14,30156,Jackpot Coin,iMerchant,Cheap Items,10000,11645.89,1645.89,25,41147.33,14.13,12
+2025-09-14,30156,Jackpot Coin,woodensea,potion,10000,11645.89,1645.89,13,21396.61,14.13,12
 2025-09-14,25451,Jade Gem Fragment,KingHazee,Rock n Jade frag Jackpot,90000,104782.39,14782.39,2,29564.78,14.11,4
 2025-09-14,25091,Heavy Crystal,conqstall2,Boof card  heavy crystal,4500,5222.63,722.63,76,54919.71,13.84,3
 2025-09-14,22024,Purple Jade,QWE123123,Purple jade!!,850000,978571.0,128571.0,1,128571.0,13.14,4
@@ -114,13 +118,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/PPS/REF/GPS/PURSE,4899,5611.24,712.24,74,52705.9,12.69,19
 2025-09-14,30176,MvM Coin,iMerchant,Cheap Items,3100,3536.76,436.76,94,41055.62,12.35,10
 2025-09-14,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,5000,5704.76,704.76,55,38761.9,12.35,3
-2025-09-14,30156,Jackpot Coin,Hurricane,RING 60 | PPS | JACKPOT | POTS,9999,11387.12,1388.12,23,31926.79,12.19,12
-2025-09-14,30156,Jackpot Coin,Shopshop,....,9999,11387.12,1388.12,22,30538.67,12.19,12
-2025-09-14,30156,Jackpot Coin,AAA123,1231313131,10000,11387.12,1387.12,46,63807.58,12.18,12
-2025-09-14,30156,Jackpot Coin,TeSelloElCulo,garner,10000,11387.12,1387.12,43,59646.21,12.18,12
-2025-09-14,30156,Jackpot Coin,iMerchant,Cheap Items,10000,11387.12,1387.12,25,34678.03,12.18,12
-2025-09-14,26002,Pharaoh Gem,HitomiTanaka,Idk,2350,2670.95,320.95,99,31774.03,12.02,12
-2025-09-14,26002,Pharaoh Gem,HitomiTanaka,Idk,2350,2670.95,320.95,94,30169.28,12.02,12
+2025-09-14,26002,Pharaoh Gem,HitomiTanaka,Idk,2350,2670.76,320.76,99,31755.18,12.01,12
+2025-09-14,26002,Pharaoh Gem,HitomiTanaka,Idk,2350,2670.76,320.76,94,30151.38,12.01,12
 2025-09-14,26592,Flash Bomb,A1exSamara,refs pbs fb royal,849,958.7,109.7,200,21940.8,11.44,21
 2025-09-14,27019,Purple Pirate Scroll,xakid,PPS,4999,5611.24,612.24,72,44081.41,10.91,19
 2025-09-14,27019,Purple Pirate Scroll,HitomiTanaka,Idk,5000,5611.24,611.24,99,60512.94,10.89,19
@@ -128,7 +127,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,27019,Purple Pirate Scroll,SashaBraus,PPS Cheapest,5000,5611.24,611.24,60,36674.51,10.89,19
 2025-09-14,22014,Demonic Gem of Colossus,Nabiylena,Zalypa,2100000,2345000.0,245000.0,1,245000.0,10.45,5
 2025-09-14,22009,Gem of Colossus,Grzss,cheap demo and ug colo,1850000,2061536.92,211536.92,6,1269221.54,10.26,7
-2025-09-14,26002,Pharaoh Gem,stalleer,Skatings  Pharaoh gems  gyoza,2399,2670.95,271.95,92,25019.39,10.18,12
+2025-09-14,26002,Pharaoh Gem,stalleer,Skatings  Pharaoh gems  gyoza,2399,2670.76,271.76,92,25001.86,10.18,12
 2025-09-14,22021,Yellow Jade,Rhaegar,Purple Yellow Jade,1850000,2058332.83,208332.83,1,208332.83,10.12,4
 2025-09-14,26570,Bloodfire Potion,Messrve,-ALL POT U NEED DNT B PUZZYY,2250,2503.04,253.04,110,27834.46,10.11,3
 2025-09-14,28429,Dance of Evanescence,Embracer,DOE,1200000,1330000.0,130000.0,1,130000.0,9.77,3
@@ -180,4 +179,5 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,26346,Lantern,SellAndBuy,SM Staff / Lantern / Ref,5500,5651.15,151.15,181,27357.59,2.67,7
 2025-09-14,22023,Green Jade,GemMarket,JADEs UGs ROCKs TOP MARKET!,350000,359047.52,9047.52,15,135712.86,2.52,5
 2025-09-14,27020,Gold Pirate Scroll,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++,22000,22499.85,499.85,55,27491.61,2.22,11
+2025-09-14,30156,Jackpot Coin,011,bankcleaning,11500,11645.89,145.89,140,20425.07,1.25,12
 2025-09-14,22013,Demonic Gem of Striking,Cebola,gem gem gem,2150000,2172000.0,22000.0,1,22000.0,1.01,5
