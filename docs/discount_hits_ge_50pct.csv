@@ -30,12 +30,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.79,30121,Vial of Accuracy Reset,2000,5523.81,5,4,Akim,PVP POTION FB LNTRN W8LESS VIALS
 61.59,26594,Novice Explosive Ball,250,650.81,8,15,AtiradorAzul,SEALED  GEM  EXPLOSIVE  PET ACC
 61.18,25439,Incantation Stone,499,1285.42,6,51,FreePalestine1,S>        0_0
-60.81,30172,Ticket to Treasure Island,199,507.8,6,54,CoinMaster,PROSP PBS
-60.61,30172,Ticket to Treasure Island,200,507.8,6,6,sVmind,buy pls i m poor
-60.61,30172,Ticket to Treasure Island,200,507.8,6,24,A1eXxSamara,DW tix  Packet  tix
-60.61,30172,Ticket to Treasure Island,200,507.8,6,22,A1eXxSamara,DW tix  Packet  tix
-60.61,30172,Ticket to Treasure Island,200,507.8,6,99,A1eXxSamara,DW tix  Packet  tix
-60.61,30172,Ticket to Treasure Island,200,507.8,6,24,A1eXxSamara,DW tix  Packet  tix
+60.84,30172,Ticket to Treasure Island,199,508.2,6,54,CoinMaster,PROSP PBS
+60.65,30172,Ticket to Treasure Island,200,508.2,6,6,sVmind,buy pls i m poor
+60.65,30172,Ticket to Treasure Island,200,508.2,6,24,A1eXxSamara,DW tix  Packet  tix
+60.65,30172,Ticket to Treasure Island,200,508.2,6,21,A1eXxSamara,DW tix  Packet  tix
+60.65,30172,Ticket to Treasure Island,200,508.2,6,99,A1eXxSamara,DW tix  Packet  tix
+60.65,30172,Ticket to Treasure Island,200,508.2,6,24,A1eXxSamara,DW tix  Packet  tix
 59.98,25503,Magical Stone,249,622.17,13,47,KupZ,zzzzzz
 59.82,25503,Magical Stone,250,622.17,13,22,DingDong,Potions|Gems|Magic Stone 250g
 59.31,26589,Potion of Bull,1000,2457.59,13,2,PONGO,LEGENDBPS/POTIONS/FBS/JACKPOT
@@ -44,22 +44,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.86,26590,Potion of Soul,1499,3320.64,15,2,AltDude,buy my stuff
 54.83,26590,Potion of Soul,1500,3320.64,15,3,LazzzyBee,FULL THREE PAGES CHEAPEST!
 54.83,26590,Potion of Soul,1500,3320.64,15,1,Uwe,stuff u need
-54.64,25522,,78,171.96,8,99,conchmachine,Mystic leaf/pumpkin/mask/fallen
-54.64,25522,,78,171.96,8,56,conchmachine,Mystic leaf/pumpkin/mask/fallen
 54.08,25440,Evanescence Stone,499,1086.74,5,38,FreePalestine1,S>        0_0
-54.06,25522,,79,171.96,8,24,TagBaligya2,Manu/Craft/Cook Items  Potions
 53.99,25440,Evanescence Stone,500,1086.74,5,49,Frank,GREEN JADE GEM ER INS EVS
 53.9,26594,Novice Explosive Ball,300,650.81,8,17,staller2,Blessed Berry/Weightless Potion
 53.85,28454,Ice Sealed Blade of Enigma,250000,541666.5,4,1,Aang,cheap APP cruz Geras and scrolls
 53.85,28454,Ice Sealed Blade of Enigma,250000,541666.5,4,1,Aang,cheap APP cruz Geras and scrolls
 53.85,28456,Ice Sealed Robe of the Sphinx,15000,32500.0,4,1,StepanBendera,*_*
 53.71,25484,Green Dye,98,211.72,4,15,OsToWBaby,THE REAL CHEAPEST HAIR PRODUCTS
-53.48,25522,,80,171.96,8,84,xParvati,Sell>PPS/Pumpkin fair price
-53.48,25522,,80,171.96,8,47,xParvati,Sell>PPS/Pumpkin fair price
+53.3,25522,,78,167.03,8,99,conchmachine,Mystic leaf/pumpkin/mask/fallen
+53.3,25522,,78,167.03,8,56,conchmachine,Mystic leaf/pumpkin/mask/fallen
 53.04,30118,Vial of Strength Reset,3000,6388.89,4,1,VERTIGO,FIRE ROCK X2 RESET DYE
 52.77,25484,Green Dye,100,211.72,4,21,2Homo,sell
 52.77,25484,Green Dye,100,211.72,4,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-52.63,28460,Ice Sealed Robe of Enigma,75000,158333.33,3,1,Sauronn,AHAHAHAHAHHAHAHAHHAHAHAHHAHAHAHA
+52.7,25522,,79,167.03,8,24,TagBaligya2,Manu/Craft/Cook Items  Potions
+52.1,25522,,80,167.03,8,84,xParvati,Sell>PPS/Pumpkin fair price
+52.1,25522,,80,167.03,8,47,xParvati,Sell>PPS/Pumpkin fair price
 51.78,25503,Magical Stone,300,622.17,13,24,Pardofelis,nya
 51.61,22003,Glowing Gem,800,1653.36,9,1,xDelfina,all cheap
 51.47,27021,Green Pirate Scroll,240,494.53,9,10,Aang,cheap APP cruz Geras and scrolls
