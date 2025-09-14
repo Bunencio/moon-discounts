@@ -76,7 +76,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,26570,Bloodfire Potion,Messrve,--------------------------------,1999,2409.76,410.76,110,45183.99,17.05,3
 2025-09-14,25426,Universe Purse Fragment.,Sht,fbs|jackpot|pursefrag|gyoza|GPS,290000,349086.27,59086.27,1,59086.27,16.93,4
 2025-09-14,26377,Pharaoh's Lantern,SeventhHeaven,Coins/Lantern/Scrolls etc,11000,13233.4,2233.4,16,35734.36,16.88,5
-2025-09-14,26558,Cooked Salmon,Conquest,CRAB,700,841.97,141.97,172,24418.14,16.86,3
 2025-09-14,30156,Jackpot Coin,Hurricane,RING 60 | PPS | JACKPOT | POTS,9999,11969.36,1970.36,23,45318.36,16.46,15
 2025-09-14,30156,Jackpot Coin,AAA123,1231313131,10000,11969.36,1969.36,46,90590.71,16.45,15
 2025-09-14,30156,Jackpot Coin,TeSelloElCulo,garner,10000,11969.36,1969.36,28,55142.17,16.45,15
@@ -93,7 +92,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,22010,Gem of Rage,Sniiper,CHEAP UG RAGE / DEMON WIND,1900000,2239800.0,339800.0,1,339800.0,15.17,3
 2025-09-14,27019,Purple Pirate Scroll,cryplz,SUPER 900,4799,5600.81,801.81,56,44901.17,14.32,17
 2025-09-14,27025,Radiation Lv1,SetSeller,cheapest in town,2450,2855.26,405.26,200,81052.28,14.19,7
-2025-09-14,27026,Soul Detector Lv1,ii3,Ts/ legedary scroll/ jackpot,1200,1394.9,194.9,121,23582.61,13.97,7
 2025-09-14,25091,Heavy Crystal,conqstall2,Boof card  heavy crystal,4500,5222.63,722.63,76,54919.71,13.84,3
 2025-09-14,22014,Demonic Gem of Colossus,Kaka5,DEMONIC COLO 2M CHEAP,2000000,2318750.0,318750.0,1,318750.0,13.75,5
 2025-09-14,25031,Refining Gem,Mikosita,SELL JACKPOT/IMPS/REF/PPS/FBS,11999,13902.34,1903.34,89,169396.99,13.69,15
@@ -126,7 +124,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,28403,Blade of Incantation,MarketPlace,darkblue,250000,277777.78,27777.78,1,27777.78,10.0,5
 2025-09-14,22029,Fire Rock,VERTIGO,FIRE ROCK X2 RESET DYE,625000,691666.67,66666.67,1,66666.67,9.64,3
 2025-09-14,25525,,SariSariStore1,49 49 49 49 49 49 49 49 49 SALE,1099949,1214987.0,115038.0,1,115038.0,9.47,4
-2025-09-14,25431,Kal Runestone,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++,1200000,1325000.0,125000.0,2,250000.0,9.43,3
 2025-09-14,22014,Demonic Gem of Colossus,Nabiylena,Zalypa,2100000,2318750.0,218750.0,1,218750.0,9.43,5
 2025-09-14,22009,Gem of Colossus,hunterx,ug colo / flash bombs,1899980,2074998.33,175018.33,1,175018.33,8.43,6
 2025-09-14,26346,Lantern,SeventhHeaven,Coins/Lantern/Scrolls etc,5000,5450.71,450.71,159,71662.25,8.27,9
@@ -136,7 +133,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,27020,Gold Pirate Scroll,selleeeer1,GOLD GOLD GOLD,20999,22535.61,1536.61,41,63000.98,6.82,11
 2025-09-14,26578,Aegis Brew,GodCleric,AEGIS BREW CHEAP,60000,64308.7,4308.7,9,38778.29,6.7,5
 2025-09-14,26578,Aegis Brew,MrMarket,RADIS AEGIS SUP POINTS,60000,64308.7,4308.7,5,21543.49,6.7,5
-2025-09-14,30139,100x Crystal,alttt,Imps/UgWind/Gps/PPS/Pots/Cheaper,77000,82454.55,5454.55,44,240000.0,6.62,4
 2025-09-14,25451,Jade Gem Fragment,Later,Jade Gem Fragments Cheap,99999,106999.75,7000.75,5,35003.75,6.54,3
 2025-09-14,22010,Gem of Rage,BRRRRRRRRRRRRR,zzzzzz,2099000,2239800.0,140800.0,1,140800.0,6.29,3
 2025-09-14,30102,1000 Reputation Scroll,Saller,TY,10000,10636.42,636.42,50,31821.11,5.98,9
@@ -149,6 +145,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,22012,Demonic Gem of Wind,Battlepass,GEMS FRAGMENTS/RAGE/DEMO  GEMS,1500000,1580000.0,80000.0,1,80000.0,5.06,3
 2025-09-14,30021,Race Changing Card,JakubMarket,Jakub Enterprises,398000,418999.8,20999.8,5,104999.0,5.01,3
 2025-09-14,25428,Shining Runestone,BpBuyer,Cheapest Shining Runestone !!!!!,399999,420741.33,20742.33,1,20742.33,4.93,5
+2025-09-14,30139,100x Crystal,Sysh,SELL CHEAPEST IMPS AROUND,76900,80748.82,3848.82,39,150103.94,4.77,5
+2025-09-14,30139,100x Crystal,alttt,Imps/UgWind/Gps/PPS/Pots/Cheaper,77000,80748.82,3748.82,44,164948.03,4.64,5
 2025-09-14,30021,Race Changing Card,iMerchant,Cheap Items,400000,418999.8,18999.8,3,56999.4,4.53,3
 2025-09-14,22013,Demonic Gem of Striking,Traderboy,COLO/DEM STRIKE/WATER ROCK,2099000,2194800.0,95800.0,2,191600.0,4.36,5
 2025-09-14,22013,Demonic Gem of Striking,xABC,DEMONIK STRIK/KAL CHEAP!!!,2100000,2194800.0,94800.0,1,94800.0,4.32,5
