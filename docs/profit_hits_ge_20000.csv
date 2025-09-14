@@ -2,13 +2,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,28326,Divine Grace Cap,Bullz,Demonic rocks|Enigma power|cler,65555,921851.67,856296.67,1,856296.67,92.89,3
 2025-09-14,25297,Ladybug,MinionVENDOR,-      MINION QUEST ITENS      -,77777,655555.0,577778.0,1,577778.0,88.14,3
 2025-09-14,28434,Fire Sealed Robe of the Arcane,Tabitha,FULL STALL,9999,42499.5,32500.5,1,32500.5,76.47,4
-2025-09-14,28132,Voyager Cap,Piru,>> Things that can Help u <<,30000,118703.33,88703.33,1,88703.33,74.73,3
 2025-09-14,26591,Potion of Lion,LazzzyBee,FULL THREE PAGES CHEAPEST!,1800,5115.19,3315.19,10,33151.91,64.81,13
-2025-09-14,28132,Voyager Cap,Xn88aX,VoyCap 4 con and Another Caps,45555,118703.33,73148.33,1,73148.33,61.62,3
-2025-09-14,28132,Voyager Cap,Xn88aX,VoyCap 4 con and Another Caps,45555,118703.33,73148.33,1,73148.33,61.62,3
-2025-09-14,28132,Voyager Cap,Xn88aX,VoyCap 4 con and Another Caps,45555,118703.33,73148.33,1,73148.33,61.62,3
-2025-09-14,28132,Voyager Cap,Xn88aX,VoyCap 4 con and Another Caps,45555,118703.33,73148.33,1,73148.33,61.62,3
-2025-09-14,30172,Ticket to Treasure Island,A1eXxSamara,DW tix  Packet  tix,200,510.18,310.18,99,30707.81,60.8,7
+2025-09-14,30172,Ticket to Treasure Island,A1eXxSamara,DW tix  Packet  tix,200,506.63,306.63,99,30356.57,60.52,6
 2025-09-14,25439,Incantation Stone,FreePalestine1,S>        0_0,499,1252.64,753.64,51,38435.7,60.16,5
 2025-09-14,28454,Ice Sealed Blade of Enigma,SSSSS,PPS/BOE/APP TRANSFER,250000,599999.8,349999.8,1,349999.8,58.33,4
 2025-09-14,25440,Evanescence Stone,FreePalestine1,S>        0_0,499,1086.74,587.74,38,22334.26,54.08,5
@@ -32,9 +27,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,28472,Ice Sealed Bow of Enigma,XiXi0n,cheap cheap cheap cheap cheap,75000,112999.8,37999.8,1,37999.8,33.63,4
 2025-09-14,28454,Ice Sealed Blade of Enigma,Stol2,Cheap,399999,599999.8,200000.8,1,200000.8,33.33,4
 2025-09-14,27014,Moonroot Wine,StepanBendera,*_*,600,851.9,251.9,115,28968.7,29.57,6
-2025-09-14,26326,Elven Royal Signet,SellMeWhole,S>5 stat pot/lantnern/w8less,1100,1553.3,453.3,52,23571.86,29.18,9
+2025-09-14,26326,Elven Royal Signet,SellMeWhole,S>5 stat pot/lantnern/w8less,1100,1560.03,460.03,52,23921.5,29.49,9
 2025-09-14,26590,Potion of Soul,FreePalestine1,S>        0_0,2400,3344.11,944.11,39,36820.25,28.23,13
-2025-09-14,22012,Demonic Gem of Wind,AAA123,1231313131,1100000,1516666.67,416666.67,1,416666.67,27.47,5
 2025-09-14,30171,Ticket to Demonic World,Guerra01,tix cheap,599,811.9,212.9,136,28953.81,26.22,7
 2025-09-14,25212,Frozen Elixir,Cush,mysticleaf,599,805.56,206.56,99,20449.36,25.64,6
 2025-09-14,25452,Rock Gem Fragment,BIlIllIS,cheap,85000,114085.69,29085.69,2,58171.37,25.49,7
@@ -52,8 +46,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,27014,Moonroot Wine,vnt3,Moonroot Wine Ofer!!,650,851.9,201.9,190,38361.33,23.7,6
 2025-09-14,22000,FieryGem,Frank,GREEN JADE GEM ER INS EVS,5000,6519.22,1519.22,20,30384.39,23.3,7
 2025-09-14,30135,Demonic Rock,stallcito1,312321312eqweqwe1231,2900,3778.58,878.58,35,30750.18,23.25,11
+2025-09-14,26326,Elven Royal Signet,A1exSamara,refs pbs fb royal,1200,1560.03,360.03,141,50764.07,23.08,9
 2025-09-14,25452,Rock Gem Fragment,cheapstuffguys,cheap,88000,114085.69,26085.69,1,26085.69,22.86,7
-2025-09-14,26326,Elven Royal Signet,A1exSamara,refs pbs fb royal,1200,1553.3,353.3,141,49816.0,22.75,9
 2025-09-14,26559,Cooked Crab,Conquest,CRAB,2000,2578.66,578.66,200,115732.07,22.44,3
 2025-09-14,26559,Cooked Crab,Conquest,CRAB,2000,2578.66,578.66,164,94900.3,22.44,3
 2025-09-14,26559,Cooked Crab,Conquest,CRAB,2000,2578.66,578.66,125,72332.54,22.44,3
@@ -65,7 +59,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,25452,Rock Gem Fragment,Electricman1,Demonic Gem of Soul/RockGemFragm,89999,114085.69,24086.69,1,24086.69,21.11,7
 2025-09-14,25452,Rock Gem Fragment,HitomiTanaka,Idk,90000,114085.69,24085.69,1,24085.69,21.11,7
 2025-09-14,25452,Rock Gem Fragment,TeSelloElCulo,garner,90000,114085.69,24085.69,1,24085.69,21.11,7
-2025-09-14,22012,Demonic Gem of Wind,Aois,STALL,1200000,1516666.67,316666.67,1,316666.67,20.88,5
 2025-09-14,26588,Potion of Eagle,FreePalestine1,S>        0_0,2400,3029.42,629.42,54,33988.65,20.78,12
 2025-09-14,30135,Demonic Rock,Kipay,Green Jade/DW Rocks/ etc,3000,3778.58,778.58,49,38150.25,20.61,11
 2025-09-14,28472,Ice Sealed Bow of Enigma,Stol2,Cheap,90000,112999.8,22999.8,1,22999.8,20.35,4
@@ -90,18 +83,18 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,30156,Jackpot Coin,TeSelloElCulo,garner,10000,11926.03,1926.03,28,53928.87,16.15,10
 2025-09-14,27025,Radiation Lv1,SetSeller,cheapest in town,2450,2914.29,464.29,200,92858.63,15.93,6
 2025-09-14,22023,Green Jade,stallcito1,312321312eqweqwe1231,300000,354736.84,54736.84,1,54736.84,15.43,4
+2025-09-14,27019,Purple Pirate Scroll,HitomiTanaka,Idk,5000,5897.87,897.87,99,88888.69,15.22,14
+2025-09-14,27019,Purple Pirate Scroll,HitomiTanaka,Idk,5000,5897.87,897.87,75,67339.91,15.22,14
+2025-09-14,27019,Purple Pirate Scroll,SashaBraus,PPS Cheapest,5000,5897.87,897.87,60,53871.93,15.22,14
 2025-09-14,30176,MvM Coin,JakubMarket,Jakub Enterprises,2999,3535.13,536.13,99,53076.64,15.17,10
 2025-09-14,30176,MvM Coin,JakubMarket,Jakub Enterprises,2999,3535.13,536.13,89,47715.36,15.17,10
-2025-09-14,27019,Purple Pirate Scroll,HitomiTanaka,Idk,5000,5869.21,869.21,99,86052.03,14.81,15
-2025-09-14,27019,Purple Pirate Scroll,HitomiTanaka,Idk,5000,5869.21,869.21,95,82575.18,14.81,15
-2025-09-14,27019,Purple Pirate Scroll,SashaBraus,PPS Cheapest,5000,5869.21,869.21,60,52152.74,14.81,15
-2025-09-14,22014,Demonic Gem of Colossus,Kaka5,DEMONIC COLO 2M CHEAP,2000000,2345000.0,345000.0,1,345000.0,14.71,5
 2025-09-14,27025,Radiation Lv1,MrMarket,RADIS AEGIS SUP POINTS,2490,2914.29,424.29,190,80615.7,14.56,6
 2025-09-14,27025,Radiation Lv1,MrMarket,RADIS AEGIS SUP POINTS,2490,2914.29,424.29,140,59401.04,14.56,6
 2025-09-14,27025,Radiation Lv1,MrMarket,RADIS AEGIS SUP POINTS,2490,2914.29,424.29,115,48793.71,14.56,6
-2025-09-14,22012,Demonic Gem of Wind,Ryzenn,UG RAGE / STRIKING / DEMON WIND,1300000,1516666.67,216666.67,1,216666.67,14.29,5
+2025-09-14,22014,Demonic Gem of Colossus,Kaka5,DEMONIC COLO 2M CHEAP,2000000,2331250.0,331250.0,1,331250.0,14.21,4
 2025-09-14,25451,Jade Gem Fragment,KingHazee,Rock n Jade frag Jackpot,90000,104782.39,14782.39,2,29564.78,14.11,4
 2025-09-14,25091,Heavy Crystal,conqstall2,Boof card  heavy crystal,4500,5222.63,722.63,76,54919.71,13.84,3
+2025-09-14,22012,Demonic Gem of Wind,AAA123,1231313131,1100000,1275000.0,175000.0,1,175000.0,13.73,4
 2025-09-14,22024,Purple Jade,QWE123123,Purple jade!!,850000,978571.0,128571.0,1,128571.0,13.14,4
 2025-09-14,25031,Refining Gem,Mikosita,SELL JACKPOT/PPS/REF/GPS/PURSE,11999,13779.49,1780.49,116,206536.56,12.92,17
 2025-09-14,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,5000,5704.76,704.76,55,38761.9,12.35,3
@@ -109,12 +102,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,26002,Pharaoh Gem,HitomiTanaka,Idk,2350,2678.74,328.74,99,32545.43,12.27,11
 2025-09-14,26002,Pharaoh Gem,HitomiTanaka,Idk,2350,2678.74,328.74,94,30901.72,12.27,11
 2025-09-14,26592,Flash Bomb,A1exSamara,refs pbs fb royal,849,958.26,109.26,200,21852.05,11.4,22
-2025-09-14,22014,Demonic Gem of Colossus,Nabiylena,Zalypa,2100000,2345000.0,245000.0,1,245000.0,10.45,5
 2025-09-14,26002,Pharaoh Gem,stalleer,Skatings  Pharaoh gems  gyoza,2399,2678.74,279.74,92,25736.24,10.44,11
 2025-09-14,22009,Gem of Colossus,Grzss,cheap demo and ug colo,1850000,2061536.92,211536.92,6,1269221.54,10.26,7
+2025-09-14,26326,Elven Royal Signet,BIlIllIS,cheap,1400,1560.03,160.03,141,22564.07,10.26,9
 2025-09-14,22021,Yellow Jade,Rhaegar,Purple Yellow Jade,1850000,2058332.83,208332.83,1,208332.83,10.12,4
 2025-09-14,26570,Bloodfire Potion,Messrve,-ALL POT U NEED DNT B PUZZYY,2250,2503.04,253.04,110,27834.46,10.11,3
-2025-09-14,26326,Elven Royal Signet,BIlIllIS,cheap,1400,1553.3,153.3,141,21616.0,9.87,9
+2025-09-14,22014,Demonic Gem of Colossus,Nabiylena,Zalypa,2100000,2331250.0,231250.0,1,231250.0,9.92,4
 2025-09-14,22029,Fire Rock,VERTIGO,FIRE ROCK X2 RESET DYE,625000,691666.67,66666.67,1,66666.67,9.64,3
 2025-09-14,25431,Kal Runestone,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++,1200000,1325000.0,125000.0,2,250000.0,9.43,3
 2025-09-14,22009,Gem of Colossus,hunterx,ug colo / flash bombs,1899980,2061536.92,161556.92,1,161556.92,7.84,7
@@ -130,6 +123,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,30176,MvM Coin,BV10,m,3300,3535.13,235.13,200,47025.53,6.65,10
 2025-09-14,30102,1000 Reputation Scroll,Henry,REPS GPS PPS LBP PBP NC SC RYL,9900,10558.32,658.32,43,28307.8,6.24,13
 2025-09-14,26346,Lantern,DinheiroFacil,FREE LANTERN AND FB !!!,5295,5636.38,341.38,91,31065.15,6.06,9
+2025-09-14,22012,Demonic Gem of Wind,Aois,STALL,1200000,1275000.0,75000.0,1,75000.0,5.88,4
 2025-09-14,30020,Class Changing Card,iMerchant,Cheap Items,250000,264999.67,14999.67,3,44999.0,5.66,4
 2025-09-14,30020,Class Changing Card,VIP,Class And Race Changing Cards,249999,264999.67,15000.67,2,30001.33,5.66,4
 2025-09-14,26568,Skating Potion,stalleer,Skatings  Pharaoh gems  gyoza,50000,52833.33,2833.33,25,70833.33,5.36,3
@@ -148,9 +142,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,26585,Blessed Potion,Stalin,zzz,110000,113908.81,3908.81,9,35179.26,3.43,5
 2025-09-14,26585,Blessed Potion,EntterName,bless,110000,113908.81,3908.81,8,31270.45,3.43,5
 2025-09-14,26377,Pharaoh's Lantern,Virginia,Pharaoh Lantern cheap,12999,13459.2,460.2,150,69030.1,3.42,4
-2025-09-14,22013,Demonic Gem of Striking,Traderboy,COLO/DEM STRIKE/WATER ROCK,2099000,2172000.0,73000.0,2,146000.0,3.36,5
-2025-09-14,22013,Demonic Gem of Striking,xABC,DEMONIK STRIK/KAL CHEAP!!!,2100000,2172000.0,72000.0,1,72000.0,3.31,5
-2025-09-14,22013,Demonic Gem of Striking,siggy,Demonic gem of striking,2100000,2172000.0,72000.0,1,72000.0,3.31,5
 2025-09-14,27016,Enchanted Wine,1231244,POTS / FISHES,5400,5571.26,171.26,197,33739.12,3.07,4
 2025-09-14,30139,100x Crystal,KarateCruZ,S> IMPS BEST PRICE,74999,77329.25,2330.25,97,226034.42,3.01,7
 2025-09-14,30139,100x Crystal,Online,imps 75K / Support / Log/lv40bow,75000,77329.25,2329.25,66,153730.62,3.01,7
@@ -163,5 +154,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,26576,Iron Brew,MUTAA,BANKAIIII!!!!!,8799,9050.2,251.2,113,28385.2,2.78,7
 2025-09-14,26346,Lantern,SellAndBuy,SM Staff / Lantern / Ref,5500,5636.38,136.38,181,24683.93,2.42,9
 2025-09-14,27020,Gold Pirate Scroll,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++,22000,22516.78,516.78,55,28422.84,2.3,9
+2025-09-14,22013,Demonic Gem of Striking,Traderboy,COLO/DEM STRIKE/WATER ROCK,2099000,2143500.0,44500.0,2,89000.0,2.08,4
+2025-09-14,22013,Demonic Gem of Striking,xABC,DEMONIK STRIK/KAL CHEAP!!!,2100000,2143500.0,43500.0,1,43500.0,2.03,4
+2025-09-14,22013,Demonic Gem of Striking,siggy,Demonic gem of striking,2100000,2143500.0,43500.0,1,43500.0,2.03,4
 2025-09-14,22023,Green Jade,GemMarket,JADEs UGs ROCKs TOP MARKET!,350000,354736.84,4736.84,15,71052.63,1.34,4
-2025-09-14,22013,Demonic Gem of Striking,Cebola,gem gem gem,2150000,2172000.0,22000.0,1,22000.0,1.01,5
