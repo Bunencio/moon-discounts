@@ -8,7 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.02,28404,Earth Sealed Robe of Abraxas,3000,17666.67,3,1,Olympus,cheap items for ds and from ds
 82.57,28456,Ice Sealed Robe of the Sphinx,18000,103250.0,4,1,StepanBendera,Warrior/Pots/Std Scroll/Lanter
 81.25,28035,Solar Shield,10000,53333.0,7,1,Obsidian,fc/ds rare stats/legend bp
-76.07,26590,Potion of Soul,800,3343.19,11,1,Anuel,Super cheap stuff !!!!!!!!!!!!!!
+76.11,26590,Potion of Soul,800,3348.42,12,1,Anuel,Super cheap stuff !!!!!!!!!!!!!!
 75.99,26589,Potion of Bull,999,4160.73,13,6,Uzi,pps fb detector
 75.99,26589,Potion of Bull,999,4160.73,13,1,AltDude,buy my stuff
 74.73,25522,,69,273.0,5,39,TagBaligya2,Craft/Manu/Cook Items
@@ -45,19 +45,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.73,26591,Potion of Lion,2000,4846.47,13,1,StepanBendera,Warrior/Pots/Std Scroll/Lanter
 58.73,26591,Potion of Lion,2000,4846.47,13,1,BARBANEGRA,||SHOPEE - 9.9 ALL 200% OFF PRC|
 58.73,26591,Potion of Lion,2000,4846.47,13,29,Akim,PVP POTION FB LNTRN W8LESS VIALS
+58.22,26590,Potion of Soul,1399,3348.42,12,1,AltDude,buy my stuff
 58.18,25073,Magical Birch Wood Log,50,119.55,4,5,Mushroom,garner
 58.17,22003,Glowing Gem,1100,2629.74,11,28,Fortis,All cheap
-58.15,26590,Potion of Soul,1399,3343.19,11,1,AltDude,buy my stuff
 56.42,28456,Ice Sealed Robe of the Sphinx,45000,103250.0,4,1,Swird,Scroll/Steel/Sphinx
 55.56,28406,Earth Sealed Staff of Abraxas.,4000,9000.0,5,1,TOPBunshie,SELL CHEAP
-55.13,26590,Potion of Soul,1500,3343.19,11,1,Uwe,stuff u need
+55.2,26590,Potion of Soul,1500,3348.42,12,1,Uwe,stuff u need
 55.0,28460,Ice Sealed Robe of Enigma,75000,166666.67,3,1,Sauronn,AHAHAHAHAHHAHAHAHHAHAHAHHAHAHAHA
 54.63,26001,Ninja Coin,399,879.47,6,7,PONGO,SEAL CLERIC LV60/ GRANADELV2 MOR
 53.87,25440,Evanescence Stone,499,1081.72,6,38,FreePalestine1,S>        0_0
 53.78,25440,Evanescence Stone,500,1081.72,6,49,Frank,GREEN JADE GEM ER INS EVS
 53.59,22004,Shining Gem,3000,6464.76,9,1,Gryffindor,cheap
 53.16,26589,Potion of Bull,1949,4160.73,13,2,DiscipleTwo,FROZEN ELIXIR|ROBE|PBS|DEMONIC|S
-52.63,28458,Ice Sealed Staff of the Sphinx,15000,31666.33,3,1,Electricman1,Demo Soul/JpCoin/Rck Jade Frag
+52.63,28458,Ice Sealed Staff of the Sphinx,15000,31666.33,3,1,Electricman1,Demonic Gem of Soul/RockGemFragm
 51.96,26589,Potion of Bull,1999,4160.73,13,2,Skills,Eva Rock/jack Coin/Exp Card/+/+
 51.96,26589,Potion of Bull,1999,4160.73,13,13,Neku,JACK/REP/PPS/ALL POTIONS@CHEAP@
 51.93,26589,Potion of Bull,2000,4160.73,13,2,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
@@ -72,10 +72,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.85,26326,Elven Royal Signet,799,1625.61,8,3,AltDude,buy my stuff
 50.57,25422,Evanescence Power,4500,9104.63,4,4,ElGringo,Evanescence power/spirit gem
 50.48,26591,Potion of Lion,2400,4846.47,13,29,FreePalestine1,S>        0_0
-50.26,30172,Ticket to Treasure Island,199,400.1,8,54,CoinMaster,PROSP PBS
+50.24,30172,Ticket to Treasure Island,199,399.92,8,54,CoinMaster,PROSP PBS
 50.13,22001,Furious Gem,1900,3809.82,8,2,zKirbby,Things
-50.01,30172,Ticket to Treasure Island,200,400.1,8,44,A1eXxSamara,DW tix  Packet  tix
-50.01,30172,Ticket to Treasure Island,200,400.1,8,33,A1eXxSamara,DW tix  Packet  tix
-50.01,30172,Ticket to Treasure Island,200,400.1,8,99,A1eXxSamara,DW tix  Packet  tix
-50.01,30172,Ticket to Treasure Island,200,400.1,8,24,A1eXxSamara,DW tix  Packet  tix
 50.0,28466,Ice Sealed Judgment of Enigma,19999,39999.8,3,1,Stol2,Cheap
