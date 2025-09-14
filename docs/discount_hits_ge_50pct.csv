@@ -4,7 +4,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 88.14,25297,Ladybug,77777,655555.0,3,1,MinionVENDOR,-      MINION QUEST ITENS      -
 82.84,26594,Novice Explosive Ball,99,577.01,8,5,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
 82.67,26594,Novice Explosive Ball,100,577.01,8,45,Akim,PVP POTION FB LNTRN W8LESS VIALS
-77.57,28406,Earth Sealed Staff of Abraxas.,1500,6687.5,5,1,ZeDaBudega,Rep store
+78.74,28406,Earth Sealed Staff of Abraxas.,1500,7055.56,5,1,ZeDaBudega,Rep store
 76.42,25440,Evanescence Stone,100,424.01,5,1,Pipigirl27,Chop kal cheap kal somesht
 76.23,26589,Potion of Bull,999,4202.19,14,1,AltDude,buy my stuff
 75.01,26589,Potion of Bull,1050,4202.19,14,2,BigLez,Gems/ Coins/Scrolls/Gloves/ Pots
@@ -40,6 +40,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.02,28454,Ice Sealed Blade of Enigma,250000,609999.8,4,1,SSSSS,PPS/BOE/APP TRANSFER
 58.39,26590,Potion of Soul,1399,3361.98,13,1,AltDude,buy my stuff
 57.17,26589,Potion of Bull,1800,4202.19,14,11,iinerti,Jackpot/PPS/FGP/FBs/Ref/PBS/SPs+
+56.96,22000,FieryGem,3000,6970.44,10,1,BjornIronside,XDX
 56.84,22003,Glowing Gem,800,1853.74,10,1,xDelfina,all cheap
 56.63,25073,Magical Birch Wood Log,50,115.29,4,5,Mushroom,garner
 56.22,25503,Magical Stone,300,685.24,9,24,Pardofelis,nya
@@ -64,6 +65,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.41,26589,Potion of Bull,2000,4202.19,14,9,Akim,PVP POTION FB LNTRN W8LESS VIALS
 51.8,26591,Potion of Lion,2400,4979.19,13,29,FreePalestine1,S>        0_0
 51.19,28326,Divine Grace Cap,450000,921851.67,3,1,voyafarm,Some cheap sht
+50.6,28418,Earth Sealed Kiss of the Cursed,6900,13966.67,3,1,Cihandarbey,@@@@@@@@
 50.52,25522,,100,202.12,7,64,Obsidian,fc/ds rare stats/legend bp
 50.43,30172,Ticket to Treasure Island,199,401.46,7,54,CoinMaster,PROSP PBS
 50.18,30172,Ticket to Treasure Island,200,401.46,7,39,A1eXxSamara,DW tix  Packet  tix
