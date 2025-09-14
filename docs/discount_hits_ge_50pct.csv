@@ -2,9 +2,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 92.89,28326,Divine Grace Cap,65555,921851.67,3,1,Bullz,Demonic rocks|Enigma power|cler
 90.79,28400,Earth Sealed Platemail of the Cursed Soul,2000,21714.29,5,1,Mamadisimo,Random
 88.14,25297,Ladybug,77777,655555.0,3,1,MinionVENDOR,-      MINION QUEST ITENS      -
+83.67,28406,Earth Sealed Staff of Abraxas.,1500,9187.5,5,1,ZeDaBudega,Rep store
 82.84,26594,Novice Explosive Ball,99,577.01,8,5,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
 82.67,26594,Novice Explosive Ball,100,577.01,8,45,Akim,PVP POTION FB LNTRN W8LESS VIALS
-78.74,28406,Earth Sealed Staff of Abraxas.,1500,7055.56,5,1,ZeDaBudega,Rep store
 74.73,28132,Voyager Cap,30000,118703.33,3,1,Piru,>> Things that can Help u <<
 74.0,26594,Novice Explosive Ball,150,577.01,8,21,Shop1,darkblue
 73.86,25258,Spirit Feather,200,765.23,7,3,BARBANEGRA,||SHOPEE - 9.9 ALL 200% OFF PRC|
@@ -16,10 +16,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.34,26594,Novice Explosive Ball,200,577.01,8,9,EvilRian,FB-LUCKY PAX-REF-DS CHEST-TRASH
 64.71,30122,Vial of Spirit Reset,2000,5666.67,3,2,Akim,PVP POTION FB LNTRN W8LESS VIALS
 64.61,29017,Standard 15 Manufacturing EXP Card,550,1553.95,4,2,BigLez,Gems/ Coins/Scrolls/Gloves/ Pots
-63.81,26591,Potion of Lion,1800,4973.47,14,4,iinerti,Jackpot/PPS/FGP/FBs/Ref/PBS/SPs+
 63.79,30121,Vial of Accuracy Reset,2000,5523.81,5,4,Akim,PVP POTION FB LNTRN W8LESS VIALS
-63.52,25503,Magical Stone,250,685.24,9,22,DingDong,Potions|Gems|Magic Stone 250g
+63.67,26591,Potion of Lion,1800,4954.46,14,4,iinerti,Jackpot/PPS/FGP/FBs/Ref/PBS/SPs+
 63.35,26564,Meditation Potion,24,65.48,5,99,TagBaligya2,Manu/Craft/Cook Items  Potions
+63.26,25503,Magical Stone,250,680.37,9,22,DingDong,Potions|Gems|Magic Stone 250g
 61.82,26564,Meditation Potion,25,65.48,5,200,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 61.62,28132,Voyager Cap,45555,118703.33,3,1,Xn88aX,VoyCap 4 con and Another Caps
 61.62,28132,Voyager Cap,45555,118703.33,3,1,Xn88aX,VoyCap 4 con and Another Caps
@@ -28,23 +28,23 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.11,25522,,79,203.15,7,39,TagBaligya2,Manu/Craft/Cook Items  Potions
 60.62,25522,,80,203.15,7,99,xParvati,Sell>PPS/Pumpkin fair price
 60.62,25522,,80,203.15,7,47,xParvati,Sell>PPS/Pumpkin fair price
-60.5,26589,Potion of Bull,999,2529.09,14,1,AltDude,buy my stuff
-60.0,28450,Fire Sealed Tooth of Evanescence,19999,49999.0,3,1,Uzi,pps fb detector
-59.81,26591,Potion of Lion,1999,4973.47,14,1,Neku,PPS/JACK/ALL POTIONS @SO CHEAP@
+60.48,26589,Potion of Bull,999,2528.11,13,1,AltDude,buy my stuff
 59.8,25439,Incantation Stone,499,1241.19,6,51,FreePalestine1,S>        0_0
-59.79,26591,Potion of Lion,2000,4973.47,14,1,DoaaPepa,D O N   P E P E
-59.79,26591,Potion of Lion,2000,4973.47,14,1,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
-59.79,26591,Potion of Lion,2000,4973.47,14,1,StepanBendera,Warrior/Pots/Std Scroll/Lanter
-59.79,26591,Potion of Lion,2000,4973.47,14,1,BARBANEGRA,||SHOPEE - 9.9 ALL 200% OFF PRC|
-59.79,26591,Potion of Lion,2000,4973.47,14,1,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++
 59.72,25439,Incantation Stone,500,1241.19,6,1,EvilRian,FB-LUCKY PAX-REF-DS CHEST-TRASH
+59.65,26591,Potion of Lion,1999,4954.46,14,1,Neku,PPS/JACK/ALL POTIONS @SO CHEAP@
+59.63,26591,Potion of Lion,2000,4954.46,14,1,DoaaPepa,D O N   P E P E
+59.63,26591,Potion of Lion,2000,4954.46,14,1,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
+59.63,26591,Potion of Lion,2000,4954.46,14,1,StepanBendera,Warrior/Pots/Std Scroll/Lanter
+59.63,26591,Potion of Lion,2000,4954.46,14,1,BARBANEGRA,||SHOPEE - 9.9 ALL 200% OFF PRC|
+59.63,26591,Potion of Lion,2000,4954.46,14,1,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++
 59.45,26569,Warrior's Potion,250,616.54,7,48,RedZone,Iron Brew Best Price
-59.02,28454,Ice Sealed Blade of Enigma,250000,609999.8,4,1,SSSSS,PPS/BOE/APP TRANSFER
-58.48,26589,Potion of Bull,1050,2529.09,14,2,BigLez,Gems/ Coins/Scrolls/Gloves/ Pots
+58.47,26589,Potion of Bull,1050,2528.11,13,2,BigLez,Gems/ Coins/Scrolls/Gloves/ Pots
 58.33,26590,Potion of Soul,1399,3357.65,14,1,AltDude,buy my stuff
+58.33,28454,Ice Sealed Blade of Enigma,250000,599999.8,4,1,SSSSS,PPS/BOE/APP TRANSFER
 56.63,25073,Magical Birch Wood Log,50,115.29,4,5,Mushroom,garner
-56.22,25503,Magical Stone,300,685.24,9,24,Pardofelis,nya
-55.77,26591,Potion of Lion,2200,4973.47,14,2,Commerce,ww3
+56.46,28406,Earth Sealed Staff of Abraxas.,4000,9187.5,5,1,TOPBunshie,CHEAP / GEM/SEALED/COIN /RATION/
+55.91,25503,Magical Stone,300,680.37,9,24,Pardofelis,nya
+55.6,26591,Potion of Lion,2200,4954.46,14,2,Commerce,ww3
 55.33,26590,Potion of Soul,1500,3357.65,14,1,Uwe,stuff u need
 55.0,28460,Ice Sealed Robe of Enigma,75000,166666.67,3,1,Sauronn,AHAHAHAHAHHAHAHAHHAHAHAHHAHAHAHA
 53.71,25484,Green Dye,98,211.72,4,15,OsToWBaby,THE REAL CHEAPEST HAIR PRODUCTS
@@ -52,7 +52,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.77,25484,Green Dye,100,211.72,4,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 52.77,25484,Green Dye,100,211.72,4,21,2Homo,sell
 52.63,28458,Ice Sealed Staff of the Sphinx,15000,31666.33,3,1,Electricman1,Demonic Gem of Soul/RockGemFragm
-51.74,26591,Potion of Lion,2400,4973.47,14,29,FreePalestine1,S>        0_0
+51.56,26591,Potion of Lion,2400,4954.46,14,29,FreePalestine1,S>        0_0
 51.19,28326,Divine Grace Cap,450000,921851.67,3,1,voyafarm,Some cheap sht
 50.97,22003,Glowing Gem,800,1631.73,10,1,xDelfina,all cheap
 50.78,25522,,100,203.15,7,64,Obsidian,fc/ds rare stats/legend bp
