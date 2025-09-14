@@ -9,9 +9,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.54,2301,,5000,24435.35,7,1,HunterKim,Boot
 78.87,28434,Fire Sealed Robe of the Arcane,7500,35499.6,5,1,xObito7,items
 78.38,28406,Earth Sealed Staff of Abraxas.,1500,6937.5,4,1,Tabitha,FULL STALL
-76.87,26562,Cake,24,103.77,7,99,TagBaligya2,Manu/Craft/Cook Items  Potions
-75.91,26562,Cake,25,103.77,7,82,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-74.94,22004,Shining Gem,1500,5984.78,10,1,Gryffindor,pps. pots. normal gems
+76.83,26562,Cake,24,103.59,6,99,TagBaligya2,Manu/Craft/Cook Items  Potions
+75.87,26562,Cake,25,103.59,6,82,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+74.96,22004,Shining Gem,1500,5991.44,9,1,Gryffindor,pps. pots. normal gems
 74.79,26594,Novice Explosive Ball,150,595.05,5,19,Shop1,darkblue
 72.84,25427,Chest of Dark Swamp,5000,18409.05,5,1,Stellar,Variety Shop
 71.83,28434,Fire Sealed Robe of the Arcane,9999,35499.6,5,1,Tabitha,FULL STALL
@@ -20,7 +20,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.39,26594,Novice Explosive Ball,200,595.05,5,51,DingDong,Reps|Pbp|Gems|Eva Rocks
 66.26,30172,Ticket to Treasure Island,199,589.87,7,52,CoinMaster,PROSP PBS
 66.09,30172,Ticket to Treasure Island,200,589.87,7,5,sVmind,buy pls i m poor
-65.85,25503,Magical Stone,249,729.18,12,17,KupZ,zzzzzz
 65.85,28035,Solar Shield,10000,29285.43,6,1,VENDEDORAA,DREAD CAP / APPS / SM 50 / VOY/+
 65.85,28035,Solar Shield,10000,29285.43,6,1,Obsidian,fc/ds rare stats/legend bp
 64.71,30122,Vial of Spirit Reset,2000,5666.67,3,2,Akim,PVP POTION FB LNTRN W8LESS VIALS
@@ -36,14 +35,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.29,26591,Potion of Lion,2000,5166.75,14,1,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++
 60.82,25168,Sunshine Fruit,20,51.05,4,98,amador,sunshine fruit
 60.82,25168,Sunshine Fruit,20,51.05,4,99,amador,sunshine fruit
-60.0,26501,Tiny EXP Berry,2000,5000.0,3,2,cudecachorro2,ALL ITENS 1G FREEEEEE GO GO !!!!
+59.57,25503,Magical Stone,300,742.0,11,24,Pardofelis,nya
 59.18,28444,Fire Sealed Bellow of Evanescence,10000,24500.0,4,1,Celebi,Stufffsss
-58.86,25503,Magical Stone,300,729.18,12,24,Pardofelis,nya
 58.62,25439,Incantation Stone,499,1205.97,6,2,PONGO,JACK/LBPS/FB/POTION/ AND MORE
 58.49,28466,Ice Sealed Judgment of Enigma,18000,43365.0,4,1,Kinyu,18k
 57.97,29062,Field Brew,89,211.73,5,41,fisherr,cheap
 57.42,26591,Potion of Lion,2200,5166.75,14,28,FreePalestine1,S?       0_0
-57.19,26564,Meditation Potion,19,44.38,6,11,bank00001,PRO CHAMP 40 AND ITENS FREEE!!!
 57.15,28212,Priestly Robe,4999,11666.0,3,1,DiscipleTwo,FROZEN ELIXIR|ROBE|PBS|DEMONIC|S
 56.99,26591,Potion of Lion,2222,5166.75,14,14,NainBASTARD,Imps/+++
 55.91,26590,Potion of Soul,1500,3402.46,9,3,Gryffindor,pps. pots. normal gems
@@ -60,4 +57,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.61,26591,Potion of Lion,2500,5166.75,14,3,Pip0n,Boots60Voy/Pots/Craft UGRage/PBS
 51.61,26591,Potion of Lion,2500,5166.75,14,1,PALA05,AGI
 51.61,26591,Potion of Lion,2500,5166.75,14,27,SellMeWhole,S>5 stat pot/lantnern/w8less
-50.99,27021,Green Pirate Scroll,240,489.69,11,10,Aang,cheap APP cruz Geras and scrolls
+51.18,27021,Green Pirate Scroll,240,491.55,10,10,Aang,cheap APP cruz Geras and scrolls
