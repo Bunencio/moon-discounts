@@ -5,8 +5,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.48,28400,Earth Sealed Platemail of the Cursed Soul,2000,21000.0,5,1,Mamadisimo,Random
 88.14,25297,Ladybug,77777,655555.0,3,1,MinionVENDOR,-      MINION QUEST ITENS      -
 84.79,26594,Novice Explosive Ball,99,650.81,8,5,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
-81.25,28406,Earth Sealed Staff of Abraxas.,1500,8000.0,6,1,Tabitha,FULL STALL
-81.25,28406,Earth Sealed Staff of Abraxas.,1500,8000.0,6,1,ZeDaBudega,Rep store
+82.24,28406,Earth Sealed Staff of Abraxas.,1500,8444.44,5,1,Tabitha,FULL STALL
+82.24,28406,Earth Sealed Staff of Abraxas.,1500,8444.44,5,1,ZeDaBudega,Rep store
 76.95,26594,Novice Explosive Ball,150,650.81,8,21,Shop1,darkblue
 76.47,28434,Fire Sealed Robe of the Arcane,9999,42499.5,4,1,Tabitha,FULL STALL
 74.73,28132,Voyager Cap,30000,118703.33,3,1,Piru,>> Things that can Help u <<
@@ -17,9 +17,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.96,26562,Cake,24,85.58,6,99,TagBaligya2,Manu/Craft/Cook Items  Potions
 70.79,26562,Cake,25,85.58,6,82,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 69.27,26594,Novice Explosive Ball,200,650.81,8,9,EvilRian,FB-LUCKY PAX-REF-DS CHEST-TRASH
+64.81,26591,Potion of Lion,1800,5115.19,13,10,LazzzyBee,FULL THREE PAGES CHEAPEST!
 64.71,30122,Vial of Spirit Reset,2000,5666.67,3,2,Akim,PVP POTION FB LNTRN W8LESS VIALS
 64.61,29017,Standard 15 Manufacturing EXP Card,550,1553.95,4,2,BigLez,Gems/ Coins/Scrolls/Gloves/ Pots
-64.58,25503,Magical Stone,250,705.77,9,22,DingDong,Potions|Gems|Magic Stone 250g
+64.59,25503,Magical Stone,250,706.02,10,22,DingDong,Potions|Gems|Magic Stone 250g
 63.79,30121,Vial of Accuracy Reset,2000,5523.81,5,4,Akim,PVP POTION FB LNTRN W8LESS VIALS
 63.05,25522,,79,213.81,7,24,TagBaligya2,Manu/Craft/Cook Items  Potions
 62.58,25522,,80,213.81,7,84,xParvati,Sell>PPS/Pumpkin fair price
@@ -29,55 +30,42 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.62,28132,Voyager Cap,45555,118703.33,3,1,Xn88aX,VoyCap 4 con and Another Caps
 61.62,28132,Voyager Cap,45555,118703.33,3,1,Xn88aX,VoyCap 4 con and Another Caps
 61.59,26594,Novice Explosive Ball,250,650.81,8,15,AtiradorAzul,SEALED  GEM  EXPLOSIVE  PET ACC
-61.46,26591,Potion of Lion,1999,5186.33,12,1,Neku,PPS/JACK/ALL POTIONS @SO CHEAP@
-61.44,26591,Potion of Lion,2000,5186.33,12,1,StepanBendera,*_*
-61.44,26591,Potion of Lion,2000,5186.33,12,1,DoaaPepa,D O N   P E P E
-61.44,26591,Potion of Lion,2000,5186.33,12,1,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
-61.44,26591,Potion of Lion,2000,5186.33,12,1,BARBANEGRA,||SHOPEE - 9.9 ALL 200% OFF PRC|
-61.44,26591,Potion of Lion,2000,5186.33,12,1,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++
-60.86,30172,Ticket to Treasure Island,199,508.4,7,54,CoinMaster,PROSP PBS
-60.66,30172,Ticket to Treasure Island,200,508.4,7,6,sVmind,buy pls i m poor
-60.66,30172,Ticket to Treasure Island,200,508.4,7,31,A1eXxSamara,DW tix  Packet  tix
-60.66,30172,Ticket to Treasure Island,200,508.4,7,24,A1eXxSamara,DW tix  Packet  tix
-60.66,30172,Ticket to Treasure Island,200,508.4,7,99,A1eXxSamara,DW tix  Packet  tix
-60.66,30172,Ticket to Treasure Island,200,508.4,7,24,A1eXxSamara,DW tix  Packet  tix
+60.99,30172,Ticket to Treasure Island,199,510.18,7,54,CoinMaster,PROSP PBS
+60.92,26591,Potion of Lion,1999,5115.19,13,1,Neku,PPS/JACK/ALL POTIONS @SO CHEAP@
+60.9,26591,Potion of Lion,2000,5115.19,13,1,StepanBendera,*_*
+60.9,26591,Potion of Lion,2000,5115.19,13,1,DoaaPepa,D O N   P E P E
+60.9,26591,Potion of Lion,2000,5115.19,13,1,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
+60.9,26591,Potion of Lion,2000,5115.19,13,1,BARBANEGRA,||SHOPEE - 9.9 ALL 200% OFF PRC|
+60.9,26591,Potion of Lion,2000,5115.19,13,1,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++
+60.8,30172,Ticket to Treasure Island,200,510.18,7,6,sVmind,buy pls i m poor
+60.8,30172,Ticket to Treasure Island,200,510.18,7,26,A1eXxSamara,DW tix  Packet  tix
+60.8,30172,Ticket to Treasure Island,200,510.18,7,24,A1eXxSamara,DW tix  Packet  tix
+60.8,30172,Ticket to Treasure Island,200,510.18,7,99,A1eXxSamara,DW tix  Packet  tix
+60.8,30172,Ticket to Treasure Island,200,510.18,7,24,A1eXxSamara,DW tix  Packet  tix
 60.16,25439,Incantation Stone,499,1252.64,5,51,FreePalestine1,S>        0_0
 58.79,26564,Meditation Potion,24,58.24,6,99,TagBaligya2,Manu/Craft/Cook Items  Potions
 58.33,28454,Ice Sealed Blade of Enigma,250000,599999.8,4,1,SSSSS,PPS/BOE/APP TRANSFER
-57.58,26591,Potion of Lion,2200,5186.33,12,2,Commerce,ww3
-57.49,25503,Magical Stone,300,705.77,9,24,Pardofelis,nya
+57.51,25503,Magical Stone,300,706.02,10,24,Pardofelis,nya
 57.07,26564,Meditation Potion,25,58.24,6,200,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-56.98,26589,Potion of Bull,1800,4184.42,12,11,iinerti,Jackpot/PPS/FGP/FBs/Ref/PBS/SPs+
-55.42,26590,Potion of Soul,1499,3362.55,13,2,AltDude,buy my stuff
-55.39,26590,Potion of Soul,1500,3362.55,13,1,Uwe,stuff u need
+56.99,26591,Potion of Lion,2200,5115.19,13,2,Commerce,ww3
+55.17,26590,Potion of Soul,1499,3344.11,13,2,AltDude,buy my stuff
+55.15,26590,Potion of Soul,1500,3344.11,13,3,LazzzyBee,FULL THREE PAGES CHEAPEST!
+55.15,26590,Potion of Soul,1500,3344.11,13,1,Uwe,stuff u need
 54.08,25440,Evanescence Stone,499,1086.74,5,38,FreePalestine1,S>        0_0
 53.99,25440,Evanescence Stone,500,1086.74,5,49,Frank,GREEN JADE GEM ER INS EVS
 53.9,26594,Novice Explosive Ball,300,650.81,8,17,staller2,Blessed Berry/Weightless Potion
-53.72,26591,Potion of Lion,2400,5186.33,12,29,FreePalestine1,S>        0_0
 53.71,25484,Green Dye,98,211.72,4,15,OsToWBaby,THE REAL CHEAPEST HAIR PRODUCTS
-53.42,26589,Potion of Bull,1949,4184.42,12,2,DiscipleTwo,FROZEN ELIXIR|ROBE|PBS|DEMONIC|S
 53.23,25522,,100,213.81,7,64,Obsidian,fc/ds rare stats/legend bp
+53.08,26591,Potion of Lion,2400,5115.19,13,29,FreePalestine1,S>        0_0
 53.04,30118,Vial of Strength Reset,3000,6388.89,4,1,VERTIGO,FIRE ROCK X2 RESET DYE
 52.77,25484,Green Dye,100,211.72,4,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 52.77,25484,Green Dye,100,211.72,4,21,2Homo,sell
 52.63,28458,Ice Sealed Staff of the Sphinx,15000,31666.33,3,1,Electricman1,Demonic Gem of Soul/RockGemFragm
 52.63,28460,Ice Sealed Robe of Enigma,75000,158333.33,3,1,Sauronn,AHAHAHAHAHHAHAHAHHAHAHAHHAHAHAHA
-52.23,26589,Potion of Bull,1999,4184.42,12,15,Neku,PPS/JACK/ALL POTIONS @SO CHEAP@
-52.2,26589,Potion of Bull,2000,4184.42,12,5,StepanBendera,*_*
-52.2,26589,Potion of Bull,2000,4184.42,12,2,DoaaPepa,D O N   P E P E
-52.2,26589,Potion of Bull,2000,4184.42,12,2,Commerce,ww3
-52.2,26589,Potion of Bull,2000,4184.42,12,2,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
-52.2,26589,Potion of Bull,2000,4184.42,12,81,LotokSell,AegisRock Very Cheap
-52.2,26589,Potion of Bull,2000,4184.42,12,6,woodensea,potion
-52.2,26589,Potion of Bull,2000,4184.42,12,11,asdqwdq,Imps/items good stats 30k/conpot
-52.2,26589,Potion of Bull,2000,4184.42,12,1,BARBANEGRA,||SHOPEE - 9.9 ALL 200% OFF PRC|
-52.2,26589,Potion of Bull,2000,4184.42,12,9,Mamadisimo,Random
-52.2,26589,Potion of Bull,2000,4184.42,12,4,Foguinho,garner
-52.2,26589,Potion of Bull,2000,4184.42,12,6,Akim,PVP POTION FB LNTRN W8LESS VIALS
-51.8,26591,Potion of Lion,2500,5186.33,12,22,muhtar,cheap stal
-51.8,26591,Potion of Lion,2500,5186.33,12,9,GokuVendedor,Weekends OFFERS
-51.8,26591,Potion of Lion,2500,5186.33,12,1,KloC,buy  give a hand  gad is gud
-51.8,26591,Potion of Lion,2500,5186.33,12,27,SellMeWhole,S>5 stat pot/lantnern/w8less
 51.61,22003,Glowing Gem,800,1653.36,9,1,xDelfina,all cheap
 51.19,28326,Divine Grace Cap,450000,921851.67,3,1,voyafarm,Red jade cheap choal
-50.0,28406,Earth Sealed Staff of Abraxas.,4000,8000.0,6,1,TOPBunshie,CHEAP / GEM/SEALED/COIN /RATION/
+51.13,26591,Potion of Lion,2500,5115.19,13,22,muhtar,cheap stal
+51.13,26591,Potion of Lion,2500,5115.19,13,9,GokuVendedor,Weekends OFFERS
+51.13,26591,Potion of Lion,2500,5115.19,13,1,KloC,buy  give a hand  gad is gud
+51.13,26591,Potion of Lion,2500,5115.19,13,27,SellMeWhole,S>5 stat pot/lantnern/w8less
+50.49,26588,Potion of Eagle,1500,3029.42,12,8,LazzzyBee,FULL THREE PAGES CHEAPEST!
