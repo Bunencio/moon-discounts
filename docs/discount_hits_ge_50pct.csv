@@ -13,7 +13,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.3,26562,Cake,25,87.1,5,82,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 67.74,25440,Evanescence Stone,299,926.77,6,49,hunterx,ug colo/fb/signet/exp card/gem
 67.63,25440,Evanescence Stone,300,926.77,6,1,Sauronn,AHAHAHAHAHHAHAHAHHAHAHAHHAHAHAHA
-65.86,25522,,69,202.12,7,39,TagBaligya2,Craft/Manu/Cook Items
 65.66,25071,Magical Oak Log,35,101.91,3,8,Mushroom,garner
 65.34,26594,Novice Explosive Ball,200,577.01,8,15,AtiradorAzul,ITEM SEALED
 65.34,26594,Novice Explosive Ball,200,577.01,8,9,EvilRian,FB-LUCKY PAX-REF-DS CHEST-TRASH
@@ -23,12 +22,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.85,26591,Potion of Lion,1800,4979.19,13,4,iinerti,Jackpot/PPS/FGP/FBs/Ref/PBS/SPs+
 63.79,30121,Vial of Accuracy Reset,2000,5523.81,5,4,Akim,PVP POTION FB LNTRN W8LESS VIALS
 63.52,25503,Magical Stone,250,685.24,9,22,DingDong,Potions|Gems|Magic Stone 250g
+63.21,25522,,80,217.43,6,99,xParvati,Sell>PPS/Pumpkin fair price
+63.21,25522,,80,217.43,6,47,xParvati,Sell>PPS/Pumpkin fair price
 61.62,28132,Voyager Cap,45555,118703.33,3,1,Xn88aX,VoyCap 4 con and Another Caps
 61.62,28132,Voyager Cap,45555,118703.33,3,1,Xn88aX,VoyCap 4 con and Another Caps
 61.62,28132,Voyager Cap,45555,118703.33,3,1,Xn88aX,VoyCap 4 con and Another Caps
 61.62,28132,Voyager Cap,45555,118703.33,3,1,Xn88aX,VoyCap 4 con and Another Caps
-60.42,25522,,80,202.12,7,99,xParvati,Sell>PPS/Pumpkin fair price
-60.42,25522,,80,202.12,7,47,xParvati,Sell>PPS/Pumpkin fair price
 60.0,28450,Fire Sealed Tooth of Evanescence,19999,49999.0,3,1,Uzi,pps fb detector
 59.83,26591,Potion of Lion,2000,4979.19,13,1,DoaaPepa,D O N   P E P E
 59.83,26591,Potion of Lion,2000,4979.19,13,1,Nikoz,Ring/Armor/Rep/Chest/Pots/Reset
@@ -47,6 +46,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.82,26591,Potion of Lion,2200,4979.19,13,2,Commerce,ww3
 55.38,26590,Potion of Soul,1500,3361.98,13,1,Uwe,stuff u need
 55.0,28460,Ice Sealed Robe of Enigma,75000,166666.67,3,1,Sauronn,AHAHAHAHAHHAHAHAHHAHAHAHHAHAHAHA
+54.01,25522,,100,217.43,6,64,Obsidian,fc/ds rare stats/legend bp
 53.71,25484,Green Dye,98,211.72,4,15,OsToWBaby,THE REAL CHEAPEST HAIR PRODUCTS
 53.62,26589,Potion of Bull,1949,4202.19,14,2,DiscipleTwo,FROZEN ELIXIR|ROBE|PBS|DEMONIC|S
 53.04,30118,Vial of Strength Reset,3000,6388.89,4,1,VERTIGO,FIRE ROCK X2 RESET DYE
@@ -66,7 +66,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.8,26591,Potion of Lion,2400,4979.19,13,29,FreePalestine1,S>        0_0
 51.19,28326,Divine Grace Cap,450000,921851.67,3,1,voyafarm,Some cheap sht
 50.6,28418,Earth Sealed Kiss of the Cursed,6900,13966.67,3,1,Cihandarbey,@@@@@@@@
-50.52,25522,,100,202.12,7,64,Obsidian,fc/ds rare stats/legend bp
 50.43,30172,Ticket to Treasure Island,199,401.46,7,54,CoinMaster,PROSP PBS
 50.18,30172,Ticket to Treasure Island,200,401.46,7,39,A1eXxSamara,DW tix  Packet  tix
 50.18,30172,Ticket to Treasure Island,200,401.46,7,27,A1eXxSamara,DW tix  Packet  tix
