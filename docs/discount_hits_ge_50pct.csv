@@ -1,12 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 94.27,30173,Ticket to Angler's Island,19,331.45,3,60,CoinMaster,PROSP PBS
-89.77,2301,,2500,24435.35,7,1,Stellar,Variety Shop
+89.9,2301,,2500,24741.24,7,1,Stellar,Variety Shop
 87.29,25497,Blue Colorant,500,3932.45,4,1,cheapstuffsell,cheap
 84.52,26591,Potion of Lion,800,5166.75,14,8,PONGO,JACK/LBPS/FB/POTION/ AND MORE
 84.33,25430,Enigma Power,1000,6380.76,3,2,Lunity,-----
 80.73,25501,Brown Colorant,500,2594.34,4,1,cheapstuffsell,cheap
 80.11,25499,Purple Colorant,500,2513.39,4,2,cheapstuffsell,cheap
-79.54,2301,,5000,24435.35,7,1,HunterKim,Boot
+79.79,2301,,5000,24741.24,7,1,HunterKim,Boot
 78.87,28434,Fire Sealed Robe of the Arcane,7500,35499.6,5,1,xObito7,items
 78.38,28406,Earth Sealed Staff of Abraxas.,1500,6937.5,4,1,Tabitha,FULL STALL
 76.83,26562,Cake,24,103.59,6,99,TagBaligya2,Manu/Craft/Cook Items  Potions
@@ -25,7 +25,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.2,29017,Standard 15 Manufacturing EXP Card,550,1536.11,4,2,BigLez,Gems/ Coins/Scrolls/Gloves/ Pots
 63.27,28444,Fire Sealed Bellow of Evanescence,9000,24500.0,4,1,TiroAlBlanco,Dios Te Bendiga
 63.23,26591,Potion of Lion,1900,5166.75,14,2,darkghost,potion
-63.03,30121,Vial of Accuracy Reset,2000,5409.09,5,4,Akim,PVP POTION FB LNTRN W8LESS VIALS
+62.87,30121,Vial of Accuracy Reset,2000,5386.36,6,4,Akim,PVP POTION FB LNTRN W8LESS VIALS
 62.43,25440,Evanescence Stone,400,1064.73,6,38,FreePalestine1,S?       0_0
 61.31,26591,Potion of Lion,1999,5166.75,14,1,Neku,JACKPOT COIN/ALL POTIONS @CHEAP@
 61.29,26591,Potion of Lion,2000,5166.75,14,1,DoaaPepa,D O N   P E P E
@@ -34,7 +34,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.29,26591,Potion of Lion,2000,5166.75,14,1,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++
 60.82,25168,Sunshine Fruit,20,51.05,4,98,amador,sunshine fruit
 60.82,25168,Sunshine Fruit,20,51.05,4,99,amador,sunshine fruit
-59.57,25503,Magical Stone,300,742.0,11,24,Pardofelis,nya
+60.7,30118,Vial of Strength Reset,2500,6361.11,4,1,VERTIGO,DEMONIC CHEST FIRE RCK RESET
+59.55,25503,Magical Stone,300,741.7,11,24,Pardofelis,nya
 59.18,28444,Fire Sealed Bellow of Evanescence,10000,24500.0,4,1,Celebi,Stufffsss
 58.62,25439,Incantation Stone,499,1205.97,6,2,PONGO,JACK/LBPS/FB/POTION/ AND MORE
 58.49,28466,Ice Sealed Judgment of Enigma,18000,43365.0,4,1,Kinyu,18k
@@ -45,12 +46,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.91,26590,Potion of Soul,1500,3402.46,9,3,Gryffindor,pps. pots. normal gems
 55.79,28456,Ice Sealed Robe of the Sphinx,15000,33925.83,6,1,StepanBendera,*_*
 53.83,25258,Spirit Feather,490,1061.39,6,15,Anuel,[ @@@@@@@@@@@@@@@@@@@@@@@@@@@@ ]
-53.71,25484,Green Dye,98,211.72,4,15,OsToWBaby,THE REAL CHEAPEST HAIR PRODUCTS
+53.59,30121,Vial of Accuracy Reset,2500,5386.36,6,1,VERTIGO,DEMONIC CHEST FIRE RCK RESET
 53.04,25440,Evanescence Stone,500,1064.73,6,49,Frank,GREEN JADE GEM ER INS EVS
-53.04,30118,Vial of Strength Reset,3000,6388.89,4,1,VERTIGO,FIRE ROCK X2 RESET DYE
 52.89,25258,Spirit Feather,500,1061.39,6,77,bruna99,sell
-52.77,25484,Green Dye,100,211.72,4,21,2Homo,sell
-52.77,25484,Green Dye,100,211.72,4,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 51.61,26591,Potion of Lion,2500,5166.75,14,5,Everest,Pots
 51.61,26591,Potion of Lion,2500,5166.75,14,19,muhtar,cheap stal
 51.61,26591,Potion of Lion,2500,5166.75,14,3,Pip0n,Boots60Voy/Pots/Craft UGRage/PBS
