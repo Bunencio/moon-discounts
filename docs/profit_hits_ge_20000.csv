@@ -17,6 +17,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,26591,Potion of Lion,SellMeWhole,S>5 stat pot/lantnern/w8less,2500,4979.19,2479.19,27,66938.04,49.79,13
 2025-09-14,26591,Potion of Lion,GokuVendedor,Weekends OFFERS,2500,4979.19,2479.19,9,22312.68,49.79,13
 2025-09-14,28446,Fire Sealed Bow of Evanescence,Kayo,Cheap shit,30000,58462.5,28462.5,1,28462.5,48.69,4
+2025-09-14,28472,Ice Sealed Bow of Enigma,XiXi0n,cheap cheap cheap cheap cheap,75000,140833.17,65833.17,1,65833.17,46.75,5
 2025-09-14,22003,Glowing Gem,Frank,GREEN JADE GEM ER INS EVS,1000,1854.42,854.42,35,29904.72,46.07,11
 2025-09-14,26591,Potion of Lion,Tralalera,SCROLLS GYOZA KAL COINS IMPS POT,2699,4979.19,2280.19,39,88927.27,45.79,13
 2025-09-14,25428,Shining Runestone,BpBuyer,Cheapest Shining Runestone !!!!!,399999,730494.0,330495.0,1,330495.0,45.24,6
@@ -37,10 +38,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,25428,Shining Runestone,lila,sm armor lv 55 + 2 / shin rune,450000,730494.0,280494.0,1,280494.0,38.4,6
 2025-09-14,30022,Buffing Card,conqstall2,buff cards heavy crystals,40000,64375.0,24375.0,6,146250.0,37.86,4
 2025-09-14,28476,Ice Sealed Kris of the Sphinx,vendedolmax,2000,50000,79166.5,29166.5,1,29166.5,36.84,5
+2025-09-14,28472,Ice Sealed Bow of Enigma,Stol2,Cheap,90000,140833.17,50833.17,1,50833.17,36.09,5
 2025-09-14,28454,Ice Sealed Blade of Enigma,Stol2,Cheap,399999,609999.8,210000.8,1,210000.8,34.43,4
 2025-09-14,28454,Ice Sealed Blade of Enigma,muhtar,cheap stal,400000,609999.8,209999.8,1,209999.8,34.43,4
 2025-09-14,25428,Shining Runestone,JakubMarket,jakuuuuuuuuuuuub,480000,730494.0,250494.0,1,250494.0,34.29,6
-2025-09-14,28472,Ice Sealed Bow of Enigma,XiXi0n,cheap cheap cheap cheap cheap,75000,112999.8,37999.8,1,37999.8,33.63,4
 2025-09-14,22012,Demonic Gem of Wind,AAA123,1231313131,1100000,1650000.0,550000.0,1,550000.0,33.33,5
 2025-09-14,22006,Spirit Gem,Frank,GREEN JADE GEM ER INS EVS,5000,7322.58,2322.58,15,34838.72,31.72,11
 2025-09-14,25452,Rock Gem Fragment,NALDOCANAL,SHITS CHEAP,79000,115529.24,36529.24,1,36529.24,31.62,10
@@ -48,13 +49,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,25452,Rock Gem Fragment,Ragnark23,rock gem-ninja coin,80000,115529.24,35529.24,2,71058.47,30.75,10
 2025-09-14,26326,Elven Royal Signet,SellMeWhole,S>5 stat pot/lantnern/w8less,1100,1582.74,482.74,90,43446.7,30.5,10
 2025-09-14,22004,Shining Gem,hunterx,ug colo/fb/signet/exp card/gem,3999,5730.96,1731.96,50,86598.17,30.22,9
+2025-09-14,28472,Ice Sealed Bow of Enigma,282,SEALEDS 60,100000,140833.17,40833.17,1,40833.17,28.99,5
+2025-09-14,28472,Ice Sealed Bow of Enigma,282,SEALEDS 60,100000,140833.17,40833.17,1,40833.17,28.99,5
 2025-09-14,26590,Potion of Soul,FreePalestine1,S>        0_0,2400,3361.98,961.98,49,47137.06,28.61,13
 2025-09-14,22012,Demonic Gem of Wind,Aois,STALL,1200000,1650000.0,450000.0,1,450000.0,27.27,5
 2025-09-14,22030,Earth Rock,Stello,##@@##,1999999,2733333.0,733334.0,1,733334.0,26.83,3
 2025-09-14,25452,Rock Gem Fragment,stallcito1,312321312eqweqwe1231,85000,115529.24,30529.24,1,30529.24,26.43,10
 2025-09-14,26590,Potion of Soul,smoI,smol,2500,3361.98,861.98,27,23273.48,25.64,13
 2025-09-14,26326,Elven Royal Signet,MetalBolt,S> PharoahLantern +5 SPR ACC pot,1188,1582.74,394.74,52,20526.54,24.94,10
-2025-09-14,30171,Ticket to Demonic World,Guerra01,tix cheap,599,797.66,198.66,136,27017.5,24.91,8
+2025-09-14,30171,Ticket to Demonic World,Guerra01,tix cheap,599,797.77,198.77,136,27033.17,24.92,8
 2025-09-14,27014,Moonroot Wine,vnt3,Moonroot Wine Ofer!!,650,864.76,214.76,200,42952.52,24.83,5
 2025-09-14,27014,Moonroot Wine,vnt3,Moonroot Wine Ofer!!,650,864.76,214.76,200,42952.52,24.83,5
 2025-09-14,27014,Moonroot Wine,vnt3,Moonroot Wine Ofer!!,650,864.76,214.76,200,42952.52,24.83,5
@@ -73,11 +76,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,25452,Rock Gem Fragment,TeSelloElCulo,garner,90000,115529.24,25529.24,1,25529.24,22.1,10
 2025-09-14,26588,Potion of Eagle,FreePalestine1,S>        0_0,2400,3079.75,679.75,54,36706.27,22.07,11
 2025-09-14,30168,Gyoza,Truoo,cleaning,15000,19133.85,4133.85,5,20669.23,21.6,4
-2025-09-14,25426,Universe Purse Fragment.,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++,280000,355555.56,75555.56,1,75555.56,21.25,3
 2025-09-14,22012,Demonic Gem of Wind,Ryzenn,UG RAGE / STRIKING / DEMON WIND,1300000,1650000.0,350000.0,1,350000.0,21.21,5
 2025-09-14,30135,Demonic Rock,stallcito1,312321312eqweqwe1231,2900,3670.37,770.37,66,50844.33,20.99,12
 2025-09-14,26589,Potion of Bull,LotokSell,AegisRock Very Cheap,2000,2518.82,518.82,81,42024.47,20.6,14
-2025-09-14,28472,Ice Sealed Bow of Enigma,Stol2,Cheap,90000,112999.8,22999.8,1,22999.8,20.35,4
 2025-09-14,26344,Novice Weightless Potion,Saller,TY,3000,3754.9,754.9,48,36235.29,20.1,5
 2025-09-14,26344,Novice Weightless Potion,LotokSell,AegisRock Very Cheap,3000,3754.9,754.9,41,30950.98,20.1,5
 2025-09-14,30156,Jackpot Coin,zSamanthaCurvy,pet lv shop,9000,11257.29,2257.29,88,198641.89,20.05,11
@@ -98,12 +99,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,25525,,sstido,chaos jewel fragment,1200000,1433316.0,233316.0,1,233316.0,16.28,3
 2025-09-14,22014,Demonic Gem of Colossus,Kaka5,DEMONIC COLO 2M CHEAP,2000000,2383333.33,383333.33,1,383333.33,16.08,3
 2025-09-14,30156,Jackpot Coin,Commerce,ww3,9500,11257.29,1757.29,71,124767.89,15.61,11
-2025-09-14,30139,100x Crystal,alttt,Imps/UgWind/Gps/PPS/Pots/Cheaper,77000,90449.41,13449.41,48,645571.8,14.87,5
+2025-09-14,30139,100x Crystal,alttt,Imps/UgWind/Gps/PPS/Pots/Cheaper,77000,90527.77,13527.77,48,649333.13,14.94,5
 2025-09-14,27025,Radiation Lv1,SetSeller,cheapest in town,2450,2859.62,409.62,200,81923.88,14.32,8
 2025-09-14,29305,Ring of Destruction,Sunnyy,EVERYTHING YOU NEED HERE!!!!,125000,145833.33,20833.33,1,20833.33,14.29,3
 2025-09-14,25451,Jade Gem Fragment,KingHazee,Rock n Jade frag Jackpot,90000,104782.39,14782.39,2,29564.78,14.11,4
 2025-09-14,25091,Heavy Crystal,conqstall2,buff cards heavy crystals,4500,5222.63,722.63,76,54919.71,13.84,3
-2025-09-14,30139,100x Crystal,Merchanty,IMP/Crystal|ShiningRune|Colorant,77990,90449.41,12459.41,2,24918.83,13.78,5
 2025-09-14,25452,Rock Gem Fragment,Calamitas,gem,99999,115529.24,15530.24,5,77651.18,13.44,10
 2025-09-14,27019,Purple Pirate Scroll,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR,4950,5697.24,747.24,31,23164.32,13.12,19
 2025-09-14,27025,Radiation Lv1,MrMarket,RADIS AEGIS SUP POINTS,2490,2859.62,369.62,200,73923.88,12.93,8
@@ -118,7 +118,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-14,22009,Gem of Colossus,ShowerBro,afk,2000000,2269998.43,269998.43,1,269998.43,11.89,6
 2025-09-14,26002,Pharaoh Gem,HitomiTanaka,Idk,2350,2660.52,310.52,99,30741.97,11.67,10
 2025-09-14,26002,Pharaoh Gem,HitomiTanaka,Idk,2350,2660.52,310.52,99,30741.97,11.67,10
-2025-09-14,30139,100x Crystal,asdqwdq,Imps/items good stats 30k/conpot,80000,90449.41,10449.41,2,20898.83,11.55,5
+2025-09-14,30139,100x Crystal,asdqwdq,Imps/items good stats 30k/conpot,80000,90527.77,10527.77,2,21055.55,11.63,5
 2025-09-14,26592,Flash Bomb,A1exSamara,refs pbs fb royal,849,956.2,107.2,200,21440.67,11.21,19
 2025-09-14,30156,Jackpot Coin,Hurricane,RING 60 | PPS | JACKPOT | POTS,9999,11257.29,1258.29,23,28940.77,11.18,11
 2025-09-14,30156,Jackpot Coin,Shopshop,....,9999,11257.29,1258.29,22,27682.47,11.18,11
