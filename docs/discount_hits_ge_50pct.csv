@@ -4,6 +4,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 89.73,28326,Divine Grace Cap,65555,638518.33,3,1,Bullz,Demonic rocks|Enigma power|cler
 89.58,25442,Chest of Incantation,1000,9592.59,3,1,KloC,123
 87.37,25497,Blue Colorant,500,3958.24,5,1,cheapstuffsell,cheap
+85.3,26591,Potion of Lion,750,5101.95,14,2,Gappie,cheap pharao lanten
+84.32,26591,Potion of Lion,800,5101.95,14,8,PONGO,JACK/LBPS/FB/POTION/ AND MORE
 81.58,28035,Solar Shield,10000,54285.29,7,1,Obsidian,fc/ds rare stats/legend bp
 81.35,25501,Brown Colorant,500,2681.45,5,1,cheapstuffsell,cheap
 80.62,25499,Purple Colorant,500,2580.32,5,2,cheapstuffsell,cheap
@@ -11,31 +13,36 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.49,28406,Earth Sealed Staff of Abraxas.,1500,7312.5,5,1,Tabitha,FULL STALL
 76.87,26562,Cake,24,103.77,7,99,TagBaligya2,Manu/Craft/Cook Items  Potions
 76.47,28434,Fire Sealed Robe of the Arcane,9999,42499.5,4,1,Tabitha,FULL STALL
-75.92,22004,Shining Gem,1500,6229.1,10,1,Gryffindor,pps. pots. normal gems
+76.26,22004,Shining Gem,1500,6319.57,9,1,Gryffindor,pps. pots. normal gems
 75.91,26562,Cake,25,103.77,7,82,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-74.73,26591,Potion of Lion,750,2968.05,14,2,Gappie,cheap pharao lanten
-74.59,26594,Novice Explosive Ball,150,590.22,6,21,Shop1,darkblue
+74.67,26594,Novice Explosive Ball,150,592.22,5,21,Shop1,darkblue
 73.71,26002,Pharaoh Gem,700,2662.88,15,8,Ragnark23,jacpok coin-gold pirate scroll
-73.05,26591,Potion of Lion,800,2968.05,14,8,PONGO,JACK/LBPS/FB/POTION/ AND MORE
 72.84,25427,Chest of Dark Swamp,5000,18409.05,5,1,Stellar,Variety Shop
 72.37,28035,Solar Shield,14999,54285.29,7,1,TTKillGirlTT,Jack Coin / Sealed 50 / Shield
-67.55,22001,Furious Gem,1000,3081.62,10,1,Undead2509,La Bodeguita
+67.74,22001,Furious Gem,1000,3099.95,10,1,Undead2509,La Bodeguita
 67.37,26589,Potion of Bull,800,2451.83,14,2,PONGO,JACK/LBPS/FB/POTION/ AND MORE
 66.35,30172,Ticket to Treasure Island,199,591.31,6,54,CoinMaster,PROSP PBS
 66.29,28444,Fire Sealed Bellow of Evanescence,10000,29666.67,3,1,Comoestas,FLASH BOMB  SEALs
+66.23,26594,Novice Explosive Ball,200,592.22,5,51,DingDong,Reps|Pbp|Gems|Eva Rocks
 66.18,30172,Ticket to Treasure Island,200,591.31,6,6,sVmind,buy pls i m poor
-66.11,26594,Novice Explosive Ball,200,590.22,6,51,DingDong,Reps|Pbp|Gems|Eva Rocks
 65.68,28458,Ice Sealed Staff of the Sphinx,15000,43711.0,5,1,Electricman1,Demonic Gem of Soul/RockGemFragm
 64.71,30122,Vial of Spirit Reset,2000,5666.67,3,2,Akim,PVP POTION FB LNTRN W8LESS VIALS
 64.2,29017,Standard 15 Manufacturing EXP Card,550,1536.11,4,2,BigLez,Gems/ Coins/Scrolls/Gloves/ Pots
 63.82,25503,Magical Stone,249,688.18,11,47,KupZ,zzzzzz
 63.03,30121,Vial of Accuracy Reset,2000,5409.09,5,4,Akim,PVP POTION FB LNTRN W8LESS VIALS
-60.64,25168,Sunshine Fruit,20,50.81,4,98,amador,sunshine fruit
-60.64,25168,Sunshine Fruit,20,50.81,4,99,amador,sunshine fruit
+62.76,26591,Potion of Lion,1900,5101.95,14,2,darkghost,potion
+60.82,25168,Sunshine Fruit,20,51.05,4,98,amador,sunshine fruit
+60.82,25168,Sunshine Fruit,20,51.05,4,99,amador,sunshine fruit
+60.82,26591,Potion of Lion,1999,5101.95,14,1,Neku,JACKPOT COIN/ALL POTIONS @CHEAP@
+60.8,26591,Potion of Lion,2000,5101.95,14,1,DoaaPepa,D O N   P E P E
+60.8,26591,Potion of Lion,2000,5101.95,14,1,Stellar,Variety Shop
+60.8,26591,Potion of Lion,2000,5101.95,14,1,KloC,123
+60.8,26591,Potion of Lion,2000,5101.95,14,1,BuyingSta4ll7,KAL | GPS | PHARAOH | FRAG +++++
 60.0,26501,Tiny EXP Berry,2000,5000.0,3,2,cudecachorro2,ALL ITENS 1G FREEEEEE GO GO !!!!
 59.54,25439,Incantation Stone,499,1233.41,5,2,PONGO,JACK/LBPS/FB/POTION/ AND MORE
 59.54,25439,Incantation Stone,499,1233.41,5,51,FreePalestine1,S>        0_0
 58.82,28458,Ice Sealed Staff of the Sphinx,18000,43711.0,5,1,Kinyu,18k
+58.49,28466,Ice Sealed Judgment of Enigma,18000,43365.0,4,1,Kinyu,18k
 57.19,26564,Meditation Potion,19,44.38,6,11,bank00001,EQUIPES PRO CHAMP/ MED/ELVEN/PIR
 57.15,28212,Priestly Robe,4999,11666.0,3,1,DiscipleTwo,FROZEN ELIXIR|ROBE|PBS|DEMONIC|S
 56.41,25503,Magical Stone,300,688.18,11,24,Pardofelis,nya
@@ -46,8 +53,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.35,25440,Evanescence Stone,500,1071.86,6,4,GABRAS,SELL MYSTIC LEAF
 53.35,25440,Evanescence Stone,500,1071.86,6,49,Frank,GREEN JADE GEM ER INS EVS
 53.04,30118,Vial of Strength Reset,3000,6388.89,4,1,VERTIGO,FIRE ROCK X2 RESET DYE
+52.96,26591,Potion of Lion,2400,5101.95,14,27,FreePalestine1,S>        0_0
 52.77,25484,Green Dye,100,211.72,4,21,2Homo,sell
 52.77,25484,Green Dye,100,211.72,4,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-51.63,22003,Glowing Gem,800,1653.96,10,1,xDelfina,all cheap
-51.32,22001,Furious Gem,1500,3081.62,10,11,Liviya,**************
+52.51,22003,Glowing Gem,800,1684.61,10,1,xDelfina,all cheap
+51.61,22001,Furious Gem,1500,3099.95,10,11,Liviya,**************
 51.26,27021,Green Pirate Scroll,240,492.4,11,10,Aang,cheap APP cruz Geras and scrolls
+51.0,26591,Potion of Lion,2500,5101.95,14,5,Everest,Pots
+51.0,26591,Potion of Lion,2500,5101.95,14,19,muhtar,cheap stal
+51.0,26591,Potion of Lion,2500,5101.95,14,3,Pip0n,Boots60Voy/Pots/Craft UGRage/PBS
+51.0,26591,Potion of Lion,2500,5101.95,14,10,GokuVendedor,Last Weekends Offers
+51.0,26591,Potion of Lion,2500,5101.95,14,27,SellMeWhole,S>5 stat pot/lantnern/w8less
