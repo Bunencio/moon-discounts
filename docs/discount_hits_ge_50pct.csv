@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-96.14,26568,Skating Potion,2000,51793.1,3,1,Aveyron,GPS/Jackcoin/Pharao/pots/Cheapgo
 89.9,2301,,2500,24741.24,7,1,Stellar,Variety Shop
 82.14,25498,Black Colorant,1000,5600.0,3,1,sstido,colorand uns ring and more
 79.79,2301,,5000,24741.24,7,1,HunterKim,Boot
@@ -8,22 +7,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.57,28406,Earth Sealed Staff of Abraxas.,1500,6687.5,5,1,Tabitha,FULL STALL
 76.3,26562,Cake,24,101.28,7,99,TagBaligya2,Manu/Craft/Cook Items  Potions
 75.32,26562,Cake,25,101.28,7,82,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-73.84,26002,Pharaoh Gem,700,2676.01,18,6,Ragnark23,jacpok coin-gold pirate scroll
-73.84,26002,Pharaoh Gem,700,2676.01,18,12,xAstax,gold pirate scroll -ninja coin-jacpok coin
+73.83,26002,Pharaoh Gem,700,2674.93,18,6,Ragnark23,jacpok coin-gold pirate scroll
+73.83,26002,Pharaoh Gem,700,2674.93,18,12,xAstax,gold pirate scroll -ninja coin-jacpok coin
 73.07,26594,Novice Explosive Ball,50,185.66,7,57,*DEATH*~#14,(CARIOCA) FB 900g 900g FB CHEAP
-70.4,26591,Potion of Lion,1500,5067.61,12,1,Gryffindor,PPS.LBS.POTS.NORMALGEMS
+71.56,22001,Furious Gem,999,3512.17,11,5,Uzi,detect
+70.34,26591,Potion of Lion,1500,5057.16,13,1,Gryffindor,PPS.LBS.POTS.NORMALGEMS
 68.0,28035,Solar Shield,15000,46874.75,7,1,VENDEDORAA,DREAD CAP / APPS / SM 50 / VOY/+
 68.0,28035,Solar Shield,14999,46874.75,7,1,TTKillGirlTT,Jack Coin / Sealed 50 / Shield
-67.97,22004,Shining Gem,2000,6243.87,12,1,Gryffindor,PPS.LBS.POTS.NORMALGEMS
+67.92,22004,Shining Gem,2000,6233.72,12,1,Gryffindor,PPS.LBS.POTS.NORMALGEMS
 66.74,25439,Incantation Stone,400,1202.66,6,51,FreePalestine1,S?       0_0
-64.51,25418,Clam Crown,1000,2817.41,3,3,xNerox,::::
 64.15,30121,Vial of Accuracy Reset,2000,5578.95,4,4,Akim,PVP POTION FB LNTRN W8LESS VIALS
 62.4,25440,Evanescence Stone,400,1063.81,7,38,FreePalestine1,S?       0_0
 62.26,26589,Potion of Bull,1500,3974.57,16,2,Gryffindor,PPS.LBS.POTS.NORMALGEMS
 61.49,26562,Cake,39,101.28,7,21,cudecachorro2,EVENTO ALL ITENS 1G GO FAST !!@#
-60.53,26591,Potion of Lion,2000,5067.61,12,1,DoaaPepa,D O N    P E P E
-60.53,26591,Potion of Lion,2000,5067.61,12,19,muhtar,cheap stal
-60.53,26591,Potion of Lion,2000,5067.61,12,1,Stellar,Variety Shop
+60.45,26591,Potion of Lion,2000,5057.16,13,1,DoaaPepa,D O N    P E P E
+60.45,26591,Potion of Lion,2000,5057.16,13,19,muhtar,cheap stal
+60.45,26591,Potion of Lion,2000,5057.16,13,1,Stellar,Variety Shop
 60.01,28212,Priestly Robe,3999,9999.25,4,1,DiscipleTwo,lv50 SS Boots|Frozen Elixir|Pots
 59.12,28456,Ice Sealed Robe of the Sphinx,15000,36694.38,6,1,StepanBendera,*_*
 59.01,28403,Blade of Incantation,99000,241500.0,3,1,Kevingstong,asdasd
@@ -32,27 +31,29 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.89,28472,Ice Sealed Bow of Enigma,100000,237499.75,3,1,282,SEALED 60 ALL CLASSES
 57.89,28472,Ice Sealed Bow of Enigma,100000,237499.75,3,1,282,SEALED 60 ALL CLASSES
 57.8,28466,Ice Sealed Judgment of Enigma,18000,42650.71,4,1,Kinyu,18k
-57.65,22001,Furious Gem,1500,3542.08,9,2,CStal1,sell
-57.65,22001,Furious Gem,1500,3542.08,9,5,Uzi,detector
 57.31,26001,Ninja Coin,399,934.65,5,5,PONGO,REP/MYSTIC/FB/JACKPOT/MORE COME
+57.29,22001,Furious Gem,1500,3512.17,11,2,CStal1,sell
 57.25,26589,Potion of Bull,1699,3974.57,16,4,DiscipleTwo,lv50 SS Boots|Frozen Elixir|Pots
-56.59,26591,Potion of Lion,2200,5067.61,12,28,FreePalestine1,S?       0_0
+56.5,26591,Potion of Lion,2200,5057.16,13,28,FreePalestine1,S?       0_0
 55.97,26589,Potion of Bull,1750,3974.57,16,3,stuffseller,cheap
 55.14,28406,Earth Sealed Staff of Abraxas.,3000,6687.5,5,1,Pyriael,GEM/SEALEDS/XP CARDS CHEAP
 54.71,26589,Potion of Bull,1800,3974.57,16,1,XiXi0n,--------------------------------
 54.71,26589,Potion of Bull,1800,3974.57,16,11,iinerti,Jackpot/PPS/FGP/Ref/FBs/MVM/PBS+
 54.4,26590,Potion of Soul,1500,3289.54,13,3,Gryffindor,PPS.LBS.POTS.NORMALGEMS
-53.07,25258,Spirit Feather,490,1044.13,6,5,Anuel,[ @@@@@@@@@@@@@@@@@@@@@@@@@@@@ ]
 53.0,25440,Evanescence Stone,500,1063.81,7,49,Frank,GREEN JADE GEM ER INS EVS
-52.11,25258,Spirit Feather,500,1044.13,6,47,burnik,chep
+52.75,25258,Spirit Feather,490,1036.95,5,5,Anuel,[ @@@@@@@@@@@@@@@@@@@@@@@@@@@@ ]
+52.54,26591,Potion of Lion,2400,5057.16,13,2,BigLez,Coins/ Scrolls/ Gems/ Swords++++
+51.89,22004,Shining Gem,2999,6233.72,12,2,Uzi,detect
+51.78,25258,Spirit Feather,500,1036.95,5,77,bruna99,sell
+51.78,25258,Spirit Feather,500,1036.95,5,47,burnik,chep
+51.06,25168,Sunshine Fruit,20,40.87,5,98,amador,sunshine fruit
+51.06,25168,Sunshine Fruit,20,40.87,5,99,amador,sunshine fruit
 50.95,28456,Ice Sealed Robe of the Sphinx,18000,36694.38,6,1,Kinyu,18k
-50.8,26588,Potion of Eagle,1500,3048.82,14,2,Gryffindor,PPS.LBS.POTS.NORMALGEMS
-50.77,25168,Sunshine Fruit,20,40.62,5,98,amador,sunshine fruit
-50.77,25168,Sunshine Fruit,20,40.62,5,99,amador,sunshine fruit
-50.67,26591,Potion of Lion,2500,5067.61,12,4,SSTTAALL,PPS/RIFLESEALED/PBS/JC/10FGP/POT
-50.67,26591,Potion of Lion,2500,5067.61,12,5,Everest,Pots
-50.67,26591,Potion of Lion,2500,5067.61,12,12,GokuVendedor,New Week new Offers come!!
-50.67,26591,Potion of Lion,2500,5067.61,12,3,Pip0n,Boots60Voy/Pots/Craft UGRage/PBS
-50.67,26591,Potion of Lion,2500,5067.61,12,1,PALA02,garner
+50.78,26588,Potion of Eagle,1500,3047.62,15,2,Gryffindor,PPS.LBS.POTS.NORMALGEMS
 50.63,26562,Cake,50,101.28,7,9,Nikoz,Ring/Boots/Rep/Coin/Armor/IMPS
 50.63,26562,Cake,50,101.28,7,56,PALA02,garner
+50.57,26591,Potion of Lion,2500,5057.16,13,4,SSTTAALL,PPS/RIFLESEALED/PBS/JC/10FGP/POT
+50.57,26591,Potion of Lion,2500,5057.16,13,5,Everest,Pots
+50.57,26591,Potion of Lion,2500,5057.16,13,12,GokuVendedor,New Week new Offers come!!
+50.57,26591,Potion of Lion,2500,5057.16,13,3,Pip0n,Boots60Voy/Pots/Craft UGRage/PBS
+50.57,26591,Potion of Lion,2500,5057.16,13,1,PALA02,garner
