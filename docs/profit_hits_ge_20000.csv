@@ -72,8 +72,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-15,26592,Flash Bomb,Mikosita,SELL JACKPOT/GPS/REF/PPS,749,923.59,174.59,150,26189.07,18.9,23
 2025-09-15,27026,Soul Detector Lv1,Uzi,detect,1099,1353.56,254.56,113,28765.39,18.81,6
 2025-09-15,26592,Flash Bomb,MiLD,rush,750,923.59,173.59,159,27601.42,18.8,23
+2025-09-15,22007,Gem of Striking,Kevur,sell unique gem striking cheap,1500000,1841666.33,341666.33,2,683332.67,18.55,4
 2025-09-15,30156,Jackpot Coin,Hurricane,RING 60|PPS|JACKPOT|IMPS|POTS,8999,10982.03,1983.03,64,126913.67,18.06,17
-2025-09-15,22007,Gem of Striking,Hinatsuru,Strike|Jade|Rock Frags,1650000,2012499.5,362499.5,1,362499.5,18.01,3
 2025-09-15,26344,Novice Weightless Potion,Saller,TY,3000,3649.39,649.39,46,29871.95,17.79,3
 2025-09-15,26344,Novice Weightless Potion,LotokSell,AegisRock Very Cheap,3000,3649.39,649.39,35,22728.66,17.79,3
 2025-09-15,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,4000,4861.31,861.31,99,85270.07,17.72,3
@@ -114,6 +114,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-15,27019,Purple Pirate Scroll,XiXi0n,--------------------------------,4800,5401.79,601.79,37,22266.17,11.14,19
 2025-09-15,25451,Jade Gem Fragment,selleeeer1,GOLD GOLD GOLD GOLD,89999,101178.29,11179.29,10,111792.86,11.05,7
 2025-09-15,26002,Pharaoh Gem,stalleer,Skatings  Pharaoh gems  gyoza,2399,2694.68,295.68,92,27202.23,10.97,17
+2025-09-15,22007,Gem of Striking,Hinatsuru,Strike|Jade|Rock Frags,1650000,1841666.33,191666.33,1,191666.33,10.41,4
 2025-09-15,30176,MvM Coin,iMerchant,Cheap Items,3100,3449.94,349.94,94,32894.3,10.14,11
 2025-09-15,25426,Universe Purse Fragment.,naysmar,universe pur,340000,378180.91,38180.91,1,38180.91,10.1,5
 2025-09-15,22009,Gem of Colossus,baf,demo strike/ug colo hella cheap,1845000,2045416.67,200416.67,1,200416.67,9.8,6
@@ -165,4 +166,3 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-15,26377,Pharaoh's Lantern,Virginia,Pharaoh Lantern cheap,12999,13133.74,134.74,150,20210.83,1.03,5
 2025-09-15,30139,100x Crystal,Hurricane,RING 60|PPS|JACKPOT|IMPS|POTS,79899,80591.42,692.42,42,29081.72,0.86,8
 2025-09-15,30139,100x Crystal,alttt,Imps/UgWind/Warlord Pot/Cheapest,79999,80591.42,592.42,40,23696.88,0.74,8
-2025-09-15,22007,Gem of Striking,Sysh,SELL CHEAPEST IMPS/RAGE/STRIKING,1999999,2012499.5,12500.5,2,25001.0,0.62,3
