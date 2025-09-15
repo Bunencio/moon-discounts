@@ -2,7 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.14,26568,Skating Potion,2000,51793.1,3,1,Aveyron,GPS/Jackcoin/Pharao/pots/Cheapgo
 89.9,2301,,2500,24741.24,7,1,Stellar,Variety Shop
 88.78,26594,Novice Explosive Ball,50,445.63,7,57,*DEATH*~#14,(CARIOCA) FB 900g 900g FB CHEAP
-84.33,25430,Enigma Power,1000,6380.76,3,2,Lunity,-----
+84.5,25430,Enigma Power,1000,6452.42,3,2,Lunity,-----
 82.47,25498,Black Colorant,1000,5704.0,4,1,sstido,colorand uns ring and more
 81.05,28035,Solar Shield,10000,52777.44,7,1,VENDEDORAA,DREAD CAP / APPS / SM 50 / VOY/+
 81.05,28035,Solar Shield,10000,52777.44,7,1,Obsidian,fc/ds rare stats/legend bp
@@ -11,9 +11,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.47,28434,Fire Sealed Robe of the Arcane,9999,42499.5,4,1,Tabitha,FULL STALL
 76.3,26562,Cake,24,101.28,7,99,TagBaligya2,Manu/Craft/Cook Items  Potions
 75.32,26562,Cake,25,101.28,7,82,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-74.52,26589,Potion of Bull,666,2613.48,16,2,PONGO,REP/MYSTIC/FB/JACKPOT/MORE COME
-73.68,26002,Pharaoh Gem,700,2659.46,17,6,Ragnark23,jacpok coin-gold pirate scroll
-73.68,26002,Pharaoh Gem,700,2659.46,17,12,xAstax,gold pirate scroll -ninja coin-jacpok coin
+74.56,26589,Potion of Bull,666,2617.87,16,2,PONGO,REP/MYSTIC/FB/JACKPOT/MORE COME
+73.66,26002,Pharaoh Gem,700,2657.34,17,6,Ragnark23,jacpok coin-gold pirate scroll
+73.66,26002,Pharaoh Gem,700,2657.34,17,12,xAstax,gold pirate scroll -ninja coin-jacpok coin
 71.58,28035,Solar Shield,15000,52777.44,7,1,VENDEDORAA,DREAD CAP / APPS / SM 50 / VOY/+
 71.58,28035,Solar Shield,14999,52777.44,7,1,TTKillGirlTT,Jack Coin / Sealed 50 / Shield
 70.4,26591,Potion of Lion,1500,5067.2,14,1,Gryffindor,PPS.LBS.POTS.NORMALGEMS
