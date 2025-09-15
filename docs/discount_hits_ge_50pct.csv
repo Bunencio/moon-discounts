@@ -1,12 +1,15 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-81.25,26562,Cake,19,101.33,7,19,cudecachorro2,fiery/pro champ/golden scroll !!
+94.54,26564,Meditation Potion,24,439.53,5,99,TagBaligya2,Manu/Craft/Cook Items  Potions
+94.31,26564,Meditation Potion,25,439.53,5,199,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+88.62,26564,Meditation Potion,50,439.53,5,17,Nikoz,Ring/Boots/Rep/Coin/Armor/IMPS
+88.62,26564,Meditation Potion,50,439.53,5,200,Italy,**********
+88.62,26564,Meditation Potion,50,439.53,5,130,PALA02,garner
+83.47,26562,Cake,24,145.17,7,99,TagBaligya2,Manu/Craft/Cook Items  Potions
+82.78,26562,Cake,25,145.17,7,82,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 80.64,28444,Fire Sealed Bellow of Evanescence,3000,15499.5,4,1,LazzzyBee,CHEAPEST THREE PAGER STALL!
 80.14,2301,,5000,25178.43,6,1,HunterKim,Boot
 79.31,28035,Solar Shield,10000,48333.11,8,1,VENDEDORAA,DREAD CAP / APPS / SM 50 / VOY/+
 79.31,28035,Solar Shield,10000,48333.11,8,1,Obsidian,fc/ds rare stats/legend bp
-78.0,26565,Mana Potion,50,227.27,3,12,PALA02,garner
-76.32,26562,Cake,24,101.33,7,99,TagBaligya2,Manu/Craft/Cook Items  Potions
-75.33,26562,Cake,25,101.33,7,82,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 74.58,28406,Earth Sealed Staff of Abraxas.,1500,5900.0,4,1,Tabitha,FULL STALL
 68.97,28035,Solar Shield,15000,48333.11,8,1,VENDEDORAA,DREAD CAP / APPS / SM 50 / VOY/+
 68.97,28035,Solar Shield,14999,48333.11,8,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
@@ -14,32 +17,33 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.28,28458,Ice Sealed Staff of the Sphinx,15000,47283.67,7,1,Electricman1,DemoSoul/PPS/Jp MvMCoin/
 68.01,28212,Priestly Robe,3999,12499.25,4,1,DiscipleTwo,lv50 SS Boots|Frozen Elixir|Pots
 67.5,25440,Evanescence Stone,400,1230.62,6,38,FreePalestine1,selll    pot
-64.86,22004,Shining Gem,1999,5688.32,11,1,cudecachorro2,fiery/pro champ/golden scroll !!
+65.56,26562,Cake,50,145.17,7,9,Nikoz,Ring/Boots/Rep/Coin/Armor/IMPS
+65.56,26562,Cake,50,145.17,7,56,PALA02,garner
+64.7,22006,Spirit Gem,2500,7081.94,7,2,Inferna,Buy my stuff please!
 64.5,25439,Incantation Stone,400,1126.62,4,51,FreePalestine1,selll    pot
 63.64,28436,Fire Sealed Staff of Evanescence,19999,54999.33,3,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
 62.59,22001,Furious Gem,1150,3073.69,12,8,hunterx,ug wind/signet/bp/gem/repu/xppot
 61.9,28456,Ice Sealed Robe of the Sphinx,15000,39365.0,5,1,StepanBendera,*_*
-61.3,30172,Ticket to Treasure Island,199,514.16,7,60,A1eXxSamara,tix
-61.3,30172,Ticket to Treasure Island,199,514.16,7,96,A1eXxSamara,tix
+61.23,30172,Ticket to Treasure Island,199,513.3,7,60,A1eXxSamara,tix
+61.23,30172,Ticket to Treasure Island,199,513.3,7,96,A1eXxSamara,tix
 59.23,30121,Vial of Accuracy Reset,2500,6131.58,5,1,Undead2509,Sell Boots/Gem/Bomb/Scroll
+58.67,26562,Cake,60,145.17,7,20,Jop4V,IMPS/CODFISH/JACKPOT/PPS/BREWS
 58.62,28035,Solar Shield,20000,48333.11,8,1,Zekrom,Pro Beginner Items
 58.03,26001,Ninja Coin,395,941.17,7,13,Celebi,Random Stuffss
-57.99,22006,Spirit Gem,3000,7140.69,6,3,FrenchGuy971,gems and GPS
 57.7,28458,Ice Sealed Staff of the Sphinx,19999,47283.67,7,1,BjornIronside,BUY OR DEATH
+57.64,22006,Spirit Gem,3000,7081.94,7,3,FrenchGuy971,gems and GPS
 57.61,26001,Ninja Coin,399,941.17,7,5,PONGO,REP/MYSTIC/FB/JACKPOT/MORE COME
 57.52,26594,Novice Explosive Ball,95,223.66,5,32,staller2,Blessed berry/Weightless potion
+57.5,22000,FieryGem,2500,5882.16,10,1,Inferna,Buy my stuff please!
 55.86,28418,Earth Sealed Kiss of the Cursed,3500,7928.57,6,1,Fortis,All cheap
 55.76,25212,Frozen Elixir,250,565.15,6,84,Online,cheap ash
 55.76,25212,Frozen Elixir,250,565.15,6,70,Online,cheap ash
 55.76,25212,Frozen Elixir,250,565.15,6,99,Online,cheap ash
 55.71,25439,Incantation Stone,499,1126.62,4,2,PONGO,REP/MYSTIC/FB/JACKPOT/MORE COME
 55.55,28440,Fire Sealed Roar of Evanescence,5000,11249.75,3,1,LazzzyBee,CHEAPEST THREE PAGER STALL!
-54.81,26590,Potion of Soul,1499,3317.01,10,1,cudecachorro2,fiery/pro champ/golden scroll !!
 54.45,25260,Elder's Fur Cloak,200,439.05,4,26,Celebi,Random Stuffss
 53.85,28432,Fire Sealed Staff of Mirage,9999,21666.33,3,1,bowstalls,lv40-50-60-65 gear 3Pages
+52.54,25258,Spirit Feather,450,948.09,7,77,bruna99,mnm
 51.88,28430,Fire Sealed Robe of Malediction,4800,9975.0,4,1,iLegolas,bow50 reput power pps rock jackp
 51.2,22001,Furious Gem,1500,3073.69,12,2,CStal1,sell
-51.08,25258,Spirit Feather,500,1022.13,6,56,sstido,blessed potion and more
-51.08,25258,Spirit Feather,500,1022.13,6,37,burnik,chep
-50.66,26562,Cake,50,101.33,7,9,Nikoz,Ring/Boots/Rep/Coin/Armor/IMPS
-50.66,26562,Cake,50,101.33,7,56,PALA02,garner
+51.17,26565,Mana Potion,50,102.39,3,12,PALA02,garner
