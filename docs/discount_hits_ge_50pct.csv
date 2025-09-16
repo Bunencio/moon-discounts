@@ -18,12 +18,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.62,25212,Frozen Elixir,200,637.33,6,53,Online,cheap asf
 68.62,25212,Frozen Elixir,200,637.33,6,5,cheapcheapcheap,cheap
 66.05,25440,Evanescence Stone,350,1030.97,7,38,FreePalestine1,sell    0_0
-65.65,26589,Potion of Bull,999,2908.52,14,1,AltDude,buy my stuff
-65.65,26589,Potion of Bull,999,2908.52,14,5,Uzi,ref
-64.78,26590,Potion of Soul,999,2836.57,12,9,Uzi,ref
+65.62,26589,Potion of Bull,999,2905.94,15,5,Uzi,detec
+65.62,26589,Potion of Bull,999,2905.94,15,1,AltDude,buy my stuff
+64.74,26590,Potion of Soul,999,2832.86,13,9,Uzi,detec
 63.7,22001,Furious Gem,1000,2755.16,10,1,stuffseller,cheap
-63.32,22004,Shining Gem,1999,5449.31,14,1,cudecachorro2,REF/SPIRIT/FIERY/SWORD CRUS/CHAM
 63.32,30121,Vial of Accuracy Reset,2000,5452.38,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
+63.07,22004,Shining Gem,1999,5413.15,13,1,Uzi,detec
+63.07,22004,Shining Gem,1999,5413.15,13,1,cudecachorro2,REF/SPIRIT/FIERY/SWORD CRUS/CHAM
 62.01,28430,Fire Sealed Robe of Malediction,4950,13030.0,5,1,iLegolas,sealed 50 . pps . lighting .rock
 61.63,28430,Fire Sealed Robe of Malediction,5000,13030.0,5,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
 59.73,26594,Novice Explosive Ball,100,248.33,6,1,AltDude,buy my stuff
@@ -31,16 +32,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.09,25493,Orange Colorant,1000,2385.81,4,2,cheapstuffsell,5
 56.81,25397,Enchanted Stone,300,694.61,3,72,S0phi,Treasure / Dolphin  /  Minion
 56.56,25439,Incantation Stone,499,1148.63,5,2,PONGO,REP/MYSTIC/FB/JACKPOT/MORE COME
-55.04,22004,Shining Gem,2450,5449.31,14,5,stuffseller,cheap
-54.17,26589,Potion of Bull,1333,2908.52,14,13,stallcito1,32131231231231231
+54.74,22004,Shining Gem,2450,5413.15,13,5,stuffseller,cheap
+54.13,26589,Potion of Bull,1333,2905.94,15,13,stallcito1,32131231231231231
 53.94,28456,Ice Sealed Robe of the Sphinx,15000,32569.38,6,1,Pablo,CHEAP CHEAPER CHIPOTLE
 53.94,28456,Ice Sealed Robe of the Sphinx,15000,32569.38,6,1,MUSACHI,CCC
-52.26,25258,Spirit Feather,399,835.71,9,26,Disciplined1,Cheapest EnigmaPower DemonicRock
+53.19,25258,Spirit Feather,399,852.4,8,26,Disciplined1,Cheapest EnigmaPower DemonicRock
 52.14,28418,Earth Sealed Kiss of the Cursed,3500,7312.25,5,1,Fortis,All cheap
-51.81,27021,Green Pirate Scroll,200,415.04,9,5,xGoliath,RUSH
 51.79,29013,Novice 15 Treasure Hunting EXP Card,250,518.52,4,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 51.5,25440,Evanescence Stone,500,1030.97,7,7,LunaMaya,S>HiddenHoney LambSkull PPS
 51.5,25440,Evanescence Stone,500,1030.97,7,48,Frank,GR JADE REF GEMS ER INS EVS
-50.71,26591,Potion of Lion,1500,3043.5,16,7,Uzi,ref
+51.49,27021,Green Pirate Scroll,200,412.31,8,5,xGoliath,RUSH
+50.84,26591,Potion of Lion,1500,3051.3,16,7,Uzi,detec
 50.06,28400,Earth Sealed Platemail of the Cursed Soul,10000,20022.2,8,1,bankerrr,Demonic Rage | Bank Cleaning
 50.06,28400,Earth Sealed Platemail of the Cursed Soul,10000,20022.2,8,1,bankerrr,Demonic Rage | Bank Cleaning
