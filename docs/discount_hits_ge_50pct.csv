@@ -9,14 +9,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.61,2301,,5000,28749.67,4,1,HunterKim,Boot
 81.78,26345,Elven Potion,1800,9877.21,3,3,amiix,JACK COIN 7K FB 600 PPS 3K RBS
 81.25,28444,Fire Sealed Bellow of Evanescence,3000,16000.0,3,1,LazzzyBee,CHEAPEST THREE PAGER STALL!
-78.02,26589,Potion of Bull,700,3185.12,13,1,TOPBunshie,SUPER CHEAP BUY MORE
-77.29,28406,Earth Sealed Staff of Abraxas.,999,4399.8,4,1,Tabitha,FULL STALL
-74.88,26589,Potion of Bull,800,3185.12,13,9,amiix,JACK COIN 7K FB 600 PPS 3K RBS
+78.0,26589,Potion of Bull,700,3182.47,13,1,TOPBunshie,SUPER CHEAP BUY MORE
+74.86,26589,Potion of Bull,800,3182.47,13,9,amiix,JACK COIN 7K FB 600 PPS 3K RBS
 68.91,25439,Incantation Stone,350,1125.66,6,51,FreePalestine1,sell    0_0
 68.42,28035,Solar Shield,5000,15833.0,6,1,Obsidian,fairydust/legenbp/cap/shield/sm
 68.01,28212,Priestly Robe,3999,12499.25,4,1,DiscipleTwo,lv50 SS Boots|Frozen Elixir|Pots
 67.38,26562,Cake,50,153.26,7,2,PALA05,garner
 67.38,26562,Cake,50,153.26,7,56,PALA02,ITEM ITEM ITEM
+66.7,28406,Earth Sealed Staff of Abraxas.,999,2999.75,3,1,Tabitha,FULL STALL
 66.67,25440,Evanescence Stone,350,1050.24,7,38,FreePalestine1,sell    0_0
 65.7,25212,Frozen Elixir,200,583.16,7,13,sellerforfree,cheap asf
 64.55,25439,Incantation Stone,399,1125.66,6,1,VoldemortT,CHESTES/REPU/STR/VOODOOOOOOOOOOO
@@ -40,6 +40,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.46,28436,Fire Sealed Staff of Evanescence,19999,44899.4,5,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
 53.75,26563,Mushroom Soup,129,278.93,4,3,cudecachorro2,UG/DEMON/REF/RAGE/PURPLE FREE
 53.74,30121,Vial of Accuracy Reset,2500,5404.76,5,1,Undead2509,Sell Boots/Gem/Bomb/Scroll
-52.91,26589,Potion of Bull,1500,3185.12,13,7,Gryffindor,GPS... POTS.... CHEAP...
+52.87,26589,Potion of Bull,1500,3182.47,13,7,Gryffindor,GPS... POTS.... CHEAP...
 52.39,25440,Evanescence Stone,500,1050.24,7,49,Frank,GR JADE REF GEMS ER INS EVS
 52.05,28418,Earth Sealed Kiss of the Cursed,3500,7300.0,4,1,Fortis,All cheap
