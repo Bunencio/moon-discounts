@@ -8,7 +8,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.61,2301,,5000,28749.67,4,1,HunterKim,Boot
 81.78,26345,Elven Potion,1800,9877.21,3,3,amiix,JACK COIN 7K FB 600 PPS 3K RBS
 81.25,28444,Fire Sealed Bellow of Evanescence,3000,16000.0,3,1,LazzzyBee,CHEAPEST THREE PAGER STALL!
-79.91,26594,Novice Explosive Ball,95,472.9,6,32,staller2,Blessed berry/Weightless potion
 78.02,26589,Potion of Bull,700,3185.12,13,1,TOPBunshie,SUPER CHEAP BUY MORE
 77.29,28406,Earth Sealed Staff of Abraxas.,999,4399.8,4,1,Tabitha,FULL STALL
 74.88,26589,Potion of Bull,800,3185.12,13,9,amiix,JACK COIN 7K FB 600 PPS 3K RBS
@@ -20,18 +19,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.38,26562,Cake,50,153.26,7,2,PALA05,garner
 67.38,26562,Cake,50,153.26,7,56,PALA02,ITEM ITEM ITEM
 66.67,25440,Evanescence Stone,350,1050.24,7,38,FreePalestine1,sell    0_0
-66.67,28434,Fire Sealed Robe of the Arcane,10000,29999.5,4,1,amiix,JACK COIN 7K FB 600 PPS 3K RBS
 65.7,25212,Frozen Elixir,200,583.16,7,13,sellerforfree,cheap asf
 64.53,25439,Incantation Stone,399,1124.98,6,1,VoldemortT,CHESTES/REPU/STR/VOODOOOOOOOOOOO
 63.0,30121,Vial of Accuracy Reset,2000,5404.76,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
 62.5,28410,Earth Sealed Staff of Incantation,10000,26666.67,3,1,Acnologia,Cheap         (o o )
 61.16,30172,Ticket to Treasure Island,199,512.32,7,60,A1eXxSamara,tix
 61.16,30172,Ticket to Treasure Island,199,512.32,7,96,A1eXxSamara,tix
+60.87,28400,Earth Sealed Platemail of the Cursed Soul,10000,25555.22,8,1,bankerrr,Demonic Rage | Bank Cleaning
+60.87,28400,Earth Sealed Platemail of the Cursed Soul,10000,25555.22,8,1,bankerrr,Demonic Rage | Bank Cleaning
+60.87,28400,Earth Sealed Platemail of the Cursed Soul,9999,25555.22,8,1,cudecachorro2,UG/DEMON/REF/RAGE/PURPLE FREE
 60.85,26562,Cake,60,153.26,7,20,Jop4V,IMPS/CODFISH/JACKPOT/PPS/BREWS
+58.82,26594,Novice Explosive Ball,95,230.7,6,32,staller2,Blessed berry/Weightless potion
 58.62,22001,Furious Gem,1111,2684.74,10,13,NainBASTARD,+++
 58.3,28456,Ice Sealed Robe of the Sphinx,15000,35972.12,6,1,StepanBendera,*_*
-57.71,26594,Novice Explosive Ball,200,472.9,6,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
-57.71,26594,Novice Explosive Ball,200,472.9,6,97,bertobank,Prospe | ExploBalls
 57.7,28458,Ice Sealed Staff of the Sphinx,19999,47283.67,7,1,BjornIronside,BUY OR DEATH
 57.13,25212,Frozen Elixir,250,583.16,7,84,Online,cheap ash
 57.13,25212,Frozen Elixir,250,583.16,7,70,Online,cheap ash
@@ -48,5 +48,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.38,28448,Fire Sealed Cloak of Evanescence,10000,21000.0,4,1,Wallnut,The Corner SHop
 52.38,28448,Fire Sealed Cloak of Evanescence,10000,21000.0,4,1,loyalty1,iam selling sssssssss
 52.05,28418,Earth Sealed Kiss of the Cursed,3500,7300.0,4,1,Fortis,All cheap
-50.63,22004,Shining Gem,2999,6074.41,11,1,Uzi,pps
-50.63,22004,Shining Gem,2999,6074.41,11,1,cudecachorro2,UG/DEMON/REF/RAGE/PURPLE FREE
