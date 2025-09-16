@@ -2,7 +2,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.1,28132,Voyager Cap,20000,290000.0,3,1,Obsidian,fairydust/legenbp/cap/shield/sm
 91.1,2301,,2000,22482.66,5,1,HunterKim,Evan
 87.75,26564,Meditation Potion,8,65.29,4,100,Shop1,darkblue
-84.28,30156,Jackpot Coin,1500,9544.82,24,3,Gryffindor,gps.pps.jackpot.pots.repu
 76.13,25495,Green Colorant,1000,4189.3,6,2,cheapstuffsell,5
 75.72,25496,Cyan Colorant.,1000,4119.28,6,1,cheapstuffsell,5
 74.54,28400,Earth Sealed Platemail of the Cursed Soul,3500,13746.89,7,1,Sulumania,Cheapy
@@ -10,13 +9,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.53,25439,Incantation Stone,350,1148.63,5,51,FreePalestine1,sell    0_0
 69.37,26564,Meditation Potion,20,65.29,4,17,Nikoz,sell
 69.24,28212,Priestly Robe,2999,9749.25,4,1,DiscipleTwo,Legend BP|ALL BPS|FROZEN ELIX|BO
-69.06,25212,Frozen Elixir,200,646.48,7,5,cheapcheapcheap,cheap
+68.19,25212,Frozen Elixir,200,628.78,6,99,Online,cheap asf
+68.19,25212,Frozen Elixir,200,628.78,6,99,Online,cheap asf
+68.19,25212,Frozen Elixir,200,628.78,6,53,Online,cheap asf
+68.19,25212,Frozen Elixir,200,628.78,6,5,cheapcheapcheap,cheap
 67.87,25503,Magical Stone,200,622.45,10,57,POPOR,PPS PBS COAT STONE(SOO CHEAP)
 66.69,26589,Potion of Bull,999,2999.37,15,1,AltDude,buy my stuff
 66.69,26589,Potion of Bull,999,2999.37,15,5,Uzi,ref
-66.12,25212,Frozen Elixir,219,646.48,7,25,DiscipleTwo,Legend BP|ALL BPS|FROZEN ELIX|BO
 66.05,25440,Evanescence Stone,350,1030.97,7,38,FreePalestine1,sell    0_0
 65.62,26563,Mushroom Soup,99,288.0,3,3,cudecachorro2,SWORD/STAFF/GLOVES PRO/REF/GEM!!
+65.17,25212,Frozen Elixir,219,628.78,6,25,DiscipleTwo,Legend BP|ALL BPS|FROZEN ELIX|BO
 64.77,26590,Potion of Soul,999,2835.44,11,9,Uzi,ref
 63.41,26562,Cake,60,163.96,4,20,Jop4V,IMPS/CODFISH/JACKPOT/PPS/BREWS
 63.19,22004,Shining Gem,1999,5430.17,14,1,cudecachorro2,SWORD/STAFF/GLOVES PRO/REF/GEM!!
@@ -25,9 +27,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.57,28430,Fire Sealed Robe of Malediction,5000,13358.33,6,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
 62.39,30121,Vial of Accuracy Reset,2000,5318.18,6,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
 61.58,28436,Fire Sealed Staff of Evanescence,19500,50749.5,6,1,Wallnut,The Corner SHop
-61.33,25212,Frozen Elixir,250,646.48,7,82,Online,cheap ash
-61.33,25212,Frozen Elixir,250,646.48,7,70,Online,cheap ash
-61.33,25212,Frozen Elixir,250,646.48,7,99,Online,cheap ash
 60.59,28436,Fire Sealed Staff of Evanescence,19999,50749.5,6,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
 60.16,25503,Magical Stone,248,622.45,10,99,MinionVENDOR,*     MINION QUEST ITENS       *
 60.16,25503,Magical Stone,248,622.45,10,99,MinionVENDOR,*     MINION QUEST ITENS       *
