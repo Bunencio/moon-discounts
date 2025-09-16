@@ -13,9 +13,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,25503,Magical Stone,MinionVENDOR,*     MINION QUEST ITENS       *,248,622.45,374.45,99,37070.91,60.16,10
 2025-09-16,30172,Ticket to Treasure Island,A1eXxSamara,tix,199,472.28,273.28,85,23228.85,57.86,6
 2025-09-16,26589,Potion of Bull,stallcito1,32131231231231231,1333,2999.37,1666.37,13,21662.86,55.56,15
-2025-09-16,28466,Ice Sealed Judgment of Enigma,MUSACHI,CCC,20000,42936.43,22936.43,1,22936.43,53.42,4
 2025-09-16,25440,Evanescence Stone,Frank,GR JADE REF GEMS ER INS EVS,500,1030.97,530.97,48,25486.65,51.5,7
-2025-09-16,28476,Ice Sealed Kris of the Sphinx,vendedolmax,2000,50000,95714.14,45714.14,1,45714.14,47.76,6
+2025-09-16,27034,Grenade Lv2,Bankaquaq,LOW PRICE FAST!!!,3399,6800.75,3401.75,43,146275.25,50.02,5
+2025-09-16,28476,Ice Sealed Kris of the Sphinx,vendedolmax,2000,50000,98333.17,48333.17,1,48333.17,49.15,5
 2025-09-16,26326,Elven Royal Signet,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT,1500,2827.01,1327.01,55,72985.4,46.94,4
 2025-09-16,25258,Spirit Feather,bruna99,mvm,450,836.76,386.76,69,26686.59,46.22,9
 2025-09-16,25258,Spirit Feather,LunaMaya,S>HiddenHoney LambSkull PPS,450,836.76,386.76,54,20885.16,46.22,9
@@ -23,12 +23,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,28474,Ice Sealed Mantle of the Sphinx,MiLD,rush,55000,98333.0,43333.0,1,43333.0,44.07,3
 2025-09-16,22000,FieryGem,EngrAndy,What it do?,3500,5943.18,2443.18,55,134374.74,41.11,9
 2025-09-16,25258,Spirit Feather,tiendaonline,offer offer offer,499,836.76,337.76,99,33438.45,40.37,9
+2025-09-16,28476,Ice Sealed Kris of the Sphinx,BjornIronside,BUY OR DEATH,60000,98333.17,38333.17,1,38333.17,38.98,5
 2025-09-16,22003,Glowing Gem,Frank,GR JADE REF GEMS ER INS EVS,1000,1636.23,636.23,34,21631.95,38.88,10
 2025-09-16,25504,Standard Scroll,Pots,Lumber Rock/ evolution/pots,700,1132.21,432.21,99,42788.35,38.17,5
 2025-09-16,25504,Standard Scroll,Pots,Lumber Rock/ evolution/pots,700,1132.21,432.21,64,27661.15,38.17,5
 2025-09-16,26589,Potion of Bull,stuffseller,cheap,1875,2999.37,1124.37,23,25860.59,37.49,15
 2025-09-16,25506,Expert Scroll,siggy,mermaid heart explo tentacle scr,1750,2797.46,1047.46,28,29328.96,37.44,3
-2025-09-16,28476,Ice Sealed Kris of the Sphinx,BjornIronside,BUY OR DEATH,60000,95714.14,35714.14,1,35714.14,37.31,6
 2025-09-16,28403,Blade of Incantation,SalvadorJr,:D,182222,285111.0,102889.0,1,102889.0,36.09,4
 2025-09-16,22004,Shining Gem,EngrAndy,What it do?,3500,5430.17,1930.17,12,23162.03,35.55,14
 2025-09-16,26591,Potion of Lion,Traderboy,DemoStrike/MoonlightHeart more,2000,3059.25,1059.25,32,33895.95,34.62,16
@@ -36,8 +36,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,25504,Standard Scroll,muhtar,cheap stal,750,1132.21,382.21,79,30194.24,33.76,5
 2025-09-16,28423,Mantle of the Cursed Flame,Halimuyak,Rings and voy items,149000,222999.67,73999.67,1,73999.67,33.18,3
 2025-09-16,22004,Shining Gem,Hiya,ALOT CHEAP ITENZ,3699,5430.17,1731.17,71,122913.0,31.88,14
-2025-09-16,30171,Ticket to Demonic World,Wardo,DW tickets,500,733.59,233.59,98,22891.87,31.84,7
-2025-09-16,30171,Ticket to Demonic World,Wardo,DW tickets,500,733.59,233.59,89,20789.56,31.84,7
+2025-09-16,30171,Ticket to Demonic World,Wardo,DW tickets,500,733.64,233.64,98,22896.59,31.85,7
+2025-09-16,30171,Ticket to Demonic World,Wardo,DW tickets,500,733.64,233.64,89,20793.85,31.85,7
 2025-09-16,26559,Cooked Crab,Conquest,CRAB CHEAP ASF,1500,2127.07,627.07,200,125414.54,29.48,4
 2025-09-16,26559,Cooked Crab,Conquest,CRAB CHEAP ASF,1500,2127.07,627.07,200,125414.54,29.48,4
 2025-09-16,26559,Cooked Crab,Ninja17,recover nib,1500,2127.07,627.07,70,43895.09,29.48,4
@@ -52,7 +52,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,25451,Jade Gem Fragment,Later,Ref/Jade Gem FRagment/Growth Pot,66666,91002.07,24336.07,4,97344.29,26.74,9
 2025-09-16,25527,,Dreamify,<<< CHAOS RUNESTONE >>>,1200000,1637499.75,437499.75,1,437499.75,26.72,4
 2025-09-16,26589,Potion of Bull,stalleer,Skatings  gyoza  potion stats,2200,2999.37,799.37,200,159874.72,26.65,15
-2025-09-16,30171,Ticket to Demonic World,cheapstuffsell,5,540,733.59,193.59,130,25166.77,26.39,7
+2025-09-16,30171,Ticket to Demonic World,cheapstuffsell,5,540,733.64,193.64,130,25173.03,26.39,7
 2025-09-16,26588,Potion of Eagle,Hiya,ALOT CHEAP ITENZ,1999,2641.91,642.91,99,63648.34,24.34,14
 2025-09-16,25426,Universe Purse Fragment.,Soneview,GROWTH/PPS/LBS/PBS/PURSE/,279999,369999.69,90000.69,1,90000.69,24.32,5
 2025-09-16,26588,Potion of Eagle,stalleer,Skatings  gyoza  potion stats,2000,2641.91,641.91,200,128382.51,24.3,14
@@ -67,7 +67,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,27014,Moonroot Wine,vnt3,Moonroot Wine Cheap Come!,650,845.13,195.13,179,34928.08,23.09,6
 2025-09-16,27014,Moonroot Wine,cheapstuffsell,5,650,845.13,195.13,111,21659.31,23.09,6
 2025-09-16,25451,Jade Gem Fragment,Pip0n,JadeFrag/PBS/Pots/MagicalStone,69999,91002.07,21003.07,1,21003.07,23.08,9
-2025-09-16,28472,Ice Sealed Bow of Enigma,ii3,chaos frag/fbs/jackpot/deadly,70000,90000.0,20000.0,1,20000.0,22.22,3
 2025-09-16,26591,Potion of Lion,stalleer,Skatings  gyoza  potion stats,2400,3059.25,659.25,200,131849.71,21.55,16
 2025-09-16,25452,Rock Gem Fragment,Mikosita,SELL JACKPOT/PPS/REF/GPS,78999,98921.94,19922.94,16,318767.02,20.14,12
 2025-09-16,25452,Rock Gem Fragment,LightAngel,STUFFz,79000,98921.94,19921.94,2,39843.88,20.14,12
@@ -136,8 +135,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,22021,Yellow Jade,stallerx,Gem of striking  fire  yellow jd,1580000,1793333.0,213333.0,1,213333.0,11.9,3
 2025-09-16,26346,Lantern,SellAndBuy,Lantern,5200,5889.88,689.88,106,73127.46,11.71,7
 2025-09-16,25525,,ii3,chaos frag/fbs/jackpot/deadly,1250000,1412499.5,162499.5,1,162499.5,11.5,4
+2025-09-16,26575,Guardian's Brew,Vnta1,Guardian Brew - Guardian Brew !,850,958.93,108.93,200,21786.04,11.36,6
 2025-09-16,25416,Cloud Heart,Traderboy,DemoStrike/MoonlightHeart more,19000,21428.13,2428.13,12,29137.57,11.33,6
-2025-09-16,26575,Guardian's Brew,Vnta1,Guardian Brew - Guardian Brew !,850,958.59,108.59,200,21719.0,11.33,6
 2025-09-16,30156,Jackpot Coin,Neku,JACK/PPS/ALL POTIONS>@SO CHEAP@<,8499,9565.42,1066.42,32,34125.35,11.15,23
 2025-09-16,30156,Jackpot Coin,011,bank cleaning,8500,9565.42,1065.42,192,204560.11,11.14,23
 2025-09-16,25452,Rock Gem Fragment,Tralalera,COINS SCROLL FRAGS GYOZA POTS,87999,98921.94,10922.94,2,21845.88,11.04,12

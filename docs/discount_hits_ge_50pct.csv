@@ -38,8 +38,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.84,28456,Ice Sealed Robe of the Sphinx,15000,33968.14,6,1,MUSACHI,CCC
 55.56,26589,Potion of Bull,1333,2999.37,15,13,stallcito1,32131231231231231
 54.88,22004,Shining Gem,2450,5430.17,14,5,stuffseller,cheap
-54.36,27021,Green Pirate Scroll,200,438.23,11,6,xGoliath,RUSH
-53.42,28466,Ice Sealed Judgment of Enigma,20000,42936.43,4,1,MUSACHI,CCC
+54.4,27021,Green Pirate Scroll,200,438.62,11,6,xGoliath,RUSH
 52.99,30121,Vial of Accuracy Reset,2500,5318.18,6,1,Undead2509,Sell Boots/Gem/Bomb/Scroll
 52.63,28418,Earth Sealed Kiss of the Cursed,3500,7388.67,5,1,Fortis,All cheap
 51.79,29013,Novice 15 Treasure Hunting EXP Card,250,518.52,4,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
@@ -50,3 +49,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.1,28458,Ice Sealed Staff of the Sphinx,15000,30061.44,6,1,MUSACHI,CCC
 50.1,28458,Ice Sealed Staff of the Sphinx,15000,30061.44,6,1,Electricman1,DemoSoul/Jp MvMCoin/PPS/Glv+5spr
 50.1,28458,Ice Sealed Staff of the Sphinx,15000,30061.44,6,1,Electricman1,DemoSoul/Jp MvMCoin/PPS/Glv+5spr
+50.02,27034,Grenade Lv2,3399,6800.75,5,43,Bankaquaq,LOW PRICE FAST!!!
