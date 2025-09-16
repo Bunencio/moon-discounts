@@ -11,7 +11,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.91,25439,Incantation Stone,350,1125.66,6,51,FreePalestine1,sell    0_0
 67.86,28154,Iron Platemail,3000,9333.33,3,1,sVmind,buy pls i m poor
 66.7,28406,Earth Sealed Staff of Abraxas.,999,2999.75,3,1,Tabitha,FULL STALL
-66.6,25440,Evanescence Stone,350,1047.85,8,38,FreePalestine1,sell    0_0
+66.45,25440,Evanescence Stone,350,1043.32,8,38,FreePalestine1,sell    0_0
 65.25,26562,Cake,60,172.65,6,20,Jop4V,IMPS/CODFISH/JACKPOT/PPS/BREWS
 64.55,25439,Incantation Stone,399,1125.66,6,1,VoldemortT,CHESTES/REPU/STR/VOODOOOOOOOOOOO
 63.0,30121,Vial of Accuracy Reset,2000,5404.76,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
@@ -25,9 +25,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.0,2301,,10000,24999.73,5,1,KaiSaMaMiTa,cheap fast
 60.0,2301,,10000,24999.73,5,1,KaiSaMaMiTa,cheap fast
 58.82,26594,Novice Explosive Ball,95,230.7,6,32,staller2,Blessed berry/Weightless potion
+58.68,22001,Furious Gem,1111,2688.86,10,13,NainBASTARD,+++
 58.68,26591,Potion of Lion,1333,3225.7,15,12,stallcito1,32131231231231231
-58.3,28456,Ice Sealed Robe of the Sphinx,15000,35972.12,6,1,StepanBendera,*_*
-57.98,22001,Furious Gem,1111,2643.93,10,13,NainBASTARD,+++
 57.2,26589,Potion of Bull,1333,3114.74,15,33,stallcito1,32131231231231231
 56.57,28436,Fire Sealed Staff of Evanescence,19500,44899.4,5,1,Wallnut,The Corner SHop
 56.38,26563,Mushroom Soup,129,295.72,5,3,cudecachorro2,UG/DEMON/REF/RAGE/PURPLE FREE
@@ -39,5 +38,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.11,30172,Ticket to Treasure Island,199,443.28,7,60,A1eXxSamara,tix
 55.11,30172,Ticket to Treasure Island,199,443.28,7,87,A1eXxSamara,tix
 53.74,30121,Vial of Accuracy Reset,2500,5404.76,5,1,Undead2509,Sell Boots/Gem/Bomb/Scroll
-52.28,25440,Evanescence Stone,500,1047.85,8,48,Frank,GR JADE REF GEMS ER INS EVS
+52.08,25440,Evanescence Stone,500,1043.32,8,48,Frank,GR JADE REF GEMS ER INS EVS
 51.84,26589,Potion of Bull,1500,3114.74,15,7,Gryffindor,GPS... POTS.... CHEAP...
+51.84,28430,Fire Sealed Robe of Malediction,4800,9966.67,3,1,iLegolas,bow50 reput power pps rock jackp
+50.01,22000,FieryGem,2999,5999.21,11,1,shale,stalls
