@@ -1,34 +1,32 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.1,28132,Voyager Cap,20000,290000.0,3,1,Obsidian,fairydust/legenbp/cap/shield/sm
-92.96,30173,Ticket to Angler's Island,30,426.12,3,13,Shop1,darkblue
 89.71,2301,,2000,19428.36,4,1,HunterKim,Evan
-79.73,26564,Meditation Potion,8,39.46,3,100,Shop1,darkblue
-77.68,26589,Potion of Bull,700,3135.91,15,1,TOPBunshie,SUPER CHEAP BUY MORE
+77.8,26589,Potion of Bull,700,3153.42,16,1,TOPBunshie,SUPER CHEAP BUY MORE
 76.13,25495,Green Colorant,1000,4189.3,6,2,cheapstuffsell,5
 75.72,25496,Cyan Colorant.,1000,4119.28,6,1,cheapstuffsell,5
-74.49,26589,Potion of Bull,800,3135.91,15,9,amiix,JACK COIN 7K FB 600 PPS 3K RBS
+74.63,26589,Potion of Bull,800,3153.42,16,9,amiix,JACK COIN 7K FB 600 PPS 3K RBS
+74.14,26564,Meditation Potion,8,30.93,3,100,Shop1,darkblue
 72.64,25503,Magical Stone,200,731.04,10,87,POPOR,PPS PBS COAT STONE(SOO CHEAP)
-72.53,26594,Novice Explosive Ball,150,546.0,7,6,Scrolls,DE RAGE PPS GPS REF REP DW CHEST
 71.9,28406,Earth Sealed Staff of Abraxas.,999,3555.17,5,1,Tabitha,FULL STALL
 69.24,28212,Priestly Robe,2999,9749.25,4,1,DiscipleTwo,Legend BP|ALL BPS|FROZEN ELIX|BO
 69.18,26562,Cake,50,162.24,5,2,PALA05,GOLD GOLD
 69.02,25439,Incantation Stone,350,1129.61,5,51,FreePalestine1,sell    0_0
 65.88,25440,Evanescence Stone,350,1025.79,8,38,FreePalestine1,sell    0_0
 64.23,25212,Frozen Elixir,200,559.09,6,5,cheapcheapcheap,cheap
-63.46,22004,Shining Gem,1999,5470.99,13,1,cudecachorro2,SWORD CRUS/PRO CHAMP/REF/STR !!!
-63.37,26594,Novice Explosive Ball,200,546.0,7,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
-63.37,26594,Novice Explosive Ball,200,546.0,7,97,bertobank,Prospe | ExploBalls
+63.12,22004,Shining Gem,1999,5420.3,14,1,cudecachorro2,SWORD CRUS/PRO CHAMP/REF/STR !!!
 63.02,26562,Cake,60,162.24,5,20,Jop4V,IMPS/CODFISH/JACKPOT/PPS/BREWS
 63.0,30121,Vial of Accuracy Reset,2000,5404.76,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
+62.93,22001,Furious Gem,1000,2697.58,9,1,stuffseller,cheap
+62.72,26594,Novice Explosive Ball,150,402.33,6,6,Scrolls,DE RAGE PPS GPS REF REP DW CHEST
 61.58,28436,Fire Sealed Staff of Evanescence,19500,50749.5,6,1,Wallnut,The Corner SHop
 60.83,25212,Frozen Elixir,219,559.09,6,25,DiscipleTwo,Legend BP|ALL BPS|FROZEN ELIX|BO
 60.59,28436,Fire Sealed Staff of Evanescence,19999,50749.5,6,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
 59.52,28458,Ice Sealed Staff of the Sphinx,15000,37055.3,7,1,MUSACHI,CCC
 59.52,28458,Ice Sealed Staff of the Sphinx,15000,37055.3,7,1,Electricman1,DemoSoul/Jp MvMCoin/PPS/Glv+5spr
 59.52,28458,Ice Sealed Staff of the Sphinx,15000,37055.3,7,1,Electricman1,DemoSoul/Jp MvMCoin/PPS/Glv+5spr
-59.11,22001,Furious Gem,1111,2717.09,8,8,NainBASTARD,+++
+58.81,22001,Furious Gem,1111,2697.58,9,8,NainBASTARD,+++
 58.09,25493,Orange Colorant,1000,2385.81,4,2,cheapstuffsell,5
-57.49,26589,Potion of Bull,1333,3135.91,15,33,stallcito1,32131231231231231
+57.73,26589,Potion of Bull,1333,3153.42,16,13,stallcito1,32131231231231231
 57.11,26326,Elven Royal Signet,1200,2798.16,5,6,TuoTuo,All you need HERE
 55.84,28456,Ice Sealed Robe of the Sphinx,15000,33968.14,6,1,MUSACHI,CCC
 55.83,25439,Incantation Stone,499,1129.61,5,2,PONGO,REP/MYSTIC/FB/JACKPOT/MORE COME
@@ -36,18 +34,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.28,25212,Frozen Elixir,250,559.09,6,70,Online,cheap ash
 55.28,25212,Frozen Elixir,250,559.09,6,99,Online,cheap ash
 55.26,26563,Mushroom Soup,129,288.34,3,3,cudecachorro2,SWORD CRUS/PRO CHAMP/REF/STR !!!
-54.87,30172,Ticket to Treasure Island,199,440.91,7,59,A1eXxSamara,tix
-54.87,30172,Ticket to Treasure Island,199,440.91,7,86,A1eXxSamara,tix
+54.81,30172,Ticket to Treasure Island,199,440.35,6,59,A1eXxSamara,tix
+54.81,30172,Ticket to Treasure Island,199,440.35,6,86,A1eXxSamara,tix
+54.8,22004,Shining Gem,2450,5420.3,14,5,stuffseller,cheap
 54.47,28418,Earth Sealed Kiss of the Cursed,3500,7687.25,4,1,Fortis,All cheap
-54.21,26594,Novice Explosive Ball,250,546.0,7,11,CStal1,sell
 53.74,30121,Vial of Accuracy Reset,2500,5404.76,5,1,Undead2509,Sell Boots/Gem/Bomb/Scroll
 53.42,28466,Ice Sealed Judgment of Enigma,20000,42936.43,4,1,MUSACHI,CCC
 53.38,28430,Fire Sealed Robe of Malediction,4950,10618.75,5,1,iLegolas,sealed 50 . pps . lighting .rock
 52.91,28430,Fire Sealed Robe of Malediction,5000,10618.75,5,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
-52.17,26589,Potion of Bull,1500,3135.91,15,2,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
-52.17,26589,Potion of Bull,1500,3135.91,15,8,Gryffindor,jackpot.pps.gps.pots
+52.43,26589,Potion of Bull,1500,3153.42,16,2,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
+52.43,26589,Potion of Bull,1500,3153.42,16,8,Gryffindor,jackpot.pps.gps.pots
 51.72,28400,Earth Sealed Platemail of the Cursed Soul,10000,20714.29,5,1,bankerrr,Demonic Rage | Bank Cleaning
 51.72,28400,Earth Sealed Platemail of the Cursed Soul,10000,20714.29,5,1,bankerrr,Demonic Rage | Bank Cleaning
 51.26,25440,Evanescence Stone,500,1025.79,8,7,LunaMaya,S>HiddenHoney LambSkull PPS
 51.26,25440,Evanescence Stone,500,1025.79,8,48,Frank,GR JADE REF GEMS ER INS EVS
 50.97,25258,Spirit Feather,419,854.5,8,18,Disciplined1,ENIGMA POWER|DEMONIC ROCK|CLOTH
+50.29,26594,Novice Explosive Ball,200,402.33,6,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
+50.29,26594,Novice Explosive Ball,200,402.33,6,97,bertobank,Prospe | ExploBalls
