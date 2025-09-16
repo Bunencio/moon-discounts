@@ -1,9 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.1,28132,Voyager Cap,20000,290000.0,3,1,Obsidian,fairydust/legenbp/cap/shield/sm
 84.49,30168,Gyoza,2999,19338.7,5,1,Gappie,cheap pharao lantern
-82.35,2301,,5000,28333.07,6,1,HunterKim,Boot
 81.78,26345,Elven Potion,1800,9877.21,3,3,amiix,JACK COIN 7K FB 600 PPS 3K RBS
 81.25,28444,Fire Sealed Bellow of Evanescence,3000,16000.0,3,1,LazzzyBee,CHEAPEST THREE PAGER STALL!
+80.0,2301,,5000,24999.73,5,1,HunterKim,Boot
 77.57,26589,Potion of Bull,700,3120.45,14,1,TOPBunshie,SUPER CHEAP BUY MORE
 74.36,26589,Potion of Bull,800,3120.45,14,9,amiix,JACK COIN 7K FB 600 PPS 3K RBS
 69.86,26562,Cake,50,165.88,6,2,PALA05,garner
@@ -12,33 +12,35 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.01,28212,Priestly Robe,3999,12499.25,4,1,DiscipleTwo,lv50 SS Boots|Frozen Elixir|Pots
 66.7,28406,Earth Sealed Staff of Abraxas.,999,2999.75,3,1,Tabitha,FULL STALL
 66.67,25440,Evanescence Stone,350,1050.24,7,38,FreePalestine1,sell    0_0
-65.7,25212,Frozen Elixir,200,583.16,7,13,sellerforfree,cheap asf
+65.31,30209,Island Card,1200,3459.67,10,3,BigLez,Rings/Coins/Gems/Swords/Pots++++
 64.55,25439,Incantation Stone,399,1125.66,6,1,VoldemortT,CHESTES/REPU/STR/VOODOOOOOOOOOOO
 63.83,26562,Cake,60,165.88,6,20,Jop4V,IMPS/CODFISH/JACKPOT/PPS/BREWS
 63.0,30121,Vial of Accuracy Reset,2000,5404.76,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
+62.97,25212,Frozen Elixir,250,675.1,7,82,Online,cheap ash
+62.97,25212,Frozen Elixir,250,675.1,7,70,Online,cheap ash
+62.97,25212,Frozen Elixir,250,675.1,7,99,Online,cheap ash
 62.5,28410,Earth Sealed Staff of Incantation,10000,26666.67,3,1,Acnologia,Cheap         (o o )
 61.45,30172,Ticket to Treasure Island,199,516.26,7,60,A1eXxSamara,tix
 61.45,30172,Ticket to Treasure Island,199,516.26,7,87,A1eXxSamara,tix
 60.73,28458,Ice Sealed Staff of the Sphinx,15000,38194.12,6,1,Electricman1,DemoSoul/PPS/Jp MvM Coin/Strm +3
 60.73,28458,Ice Sealed Staff of the Sphinx,15000,38194.12,6,1,Electricman1,DemoSoul/PPS/Jp MvM Coin/Strm +3
+60.0,2301,,10000,24999.73,5,1,KaiSaMaMiTa,cheap fast
+60.0,2301,,10000,24999.73,5,1,KaiSaMaMiTa,cheap fast
+60.0,2301,,10000,24999.73,5,1,KaiSaMaMiTa,cheap fast
 58.82,26594,Novice Explosive Ball,95,230.7,6,32,staller2,Blessed berry/Weightless potion
 58.69,26591,Potion of Lion,1333,3226.87,15,12,stallcito1,32131231231231231
-58.62,22001,Furious Gem,1111,2684.74,10,13,NainBASTARD,+++
+58.46,22001,Furious Gem,1111,2674.63,10,13,NainBASTARD,+++
 58.3,28456,Ice Sealed Robe of the Sphinx,15000,35972.12,6,1,StepanBendera,*_*
 57.28,26589,Potion of Bull,1333,3120.45,14,33,stallcito1,32131231231231231
-57.13,25212,Frozen Elixir,250,583.16,7,84,Online,cheap ash
-57.13,25212,Frozen Elixir,250,583.16,7,70,Online,cheap ash
-57.13,25212,Frozen Elixir,250,583.16,7,99,Online,cheap ash
 56.57,28436,Fire Sealed Staff of Evanescence,19500,44899.4,5,1,Wallnut,The Corner SHop
+56.38,26563,Mushroom Soup,129,295.72,5,3,cudecachorro2,UG/DEMON/REF/RAGE/PURPLE FREE
 55.7,28418,Earth Sealed Kiss of the Cursed,3500,7900.0,3,1,Fortis,All cheap
 55.67,25439,Incantation Stone,499,1125.66,6,2,PONGO,REP/MYSTIC/FB/JACKPOT/MORE COME
 55.56,28448,Fire Sealed Cloak of Evanescence,10000,22500.0,3,1,Wallnut,The Corner SHop
 55.56,28448,Fire Sealed Cloak of Evanescence,10000,22500.0,3,1,loyalty1,iam selling sssssssss
 55.46,28436,Fire Sealed Staff of Evanescence,19999,44899.4,5,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
-53.75,26563,Mushroom Soup,129,278.93,4,3,cudecachorro2,UG/DEMON/REF/RAGE/PURPLE FREE
 53.74,30121,Vial of Accuracy Reset,2500,5404.76,5,1,Undead2509,Sell Boots/Gem/Bomb/Scroll
 53.58,26564,Meditation Potion,20,43.09,3,17,Nikoz,IMPS/POTS/SCROLLS/ARMOR/CHEST!!!
 52.39,25440,Evanescence Stone,500,1050.24,7,49,Frank,GR JADE REF GEMS ER INS EVS
 51.93,26589,Potion of Bull,1500,3120.45,14,7,Gryffindor,GPS... POTS.... CHEAP...
 50.69,27034,Grenade Lv2,3500,7098.48,3,43,Bankaquaq,FLASH BOMBS AND GRENADE
-50.59,2301,,14000,28333.07,6,1,KaiSaMaMiTa,SELL FAST
