@@ -1,14 +1,15 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-98.83,26564,Meditation Potion,8,682.44,4,100,Shop1,darkblue
+98.82,26564,Meditation Potion,8,678.66,4,100,Shop1,darkblue
+96.32,26564,Meditation Potion,25,678.66,4,130,PALA02,garner
 93.1,28132,Voyager Cap,20000,290000.0,3,1,Obsidian,fairydust/legenbp/cap/shield/sm
-92.67,26564,Meditation Potion,50,682.44,4,130,PALA02,ITEM ITEM ITEM
 91.1,2301,,2000,22482.66,5,1,HunterKim,Evan
 84.13,28212,Priestly Robe,1999,12599.4,5,1,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
+81.47,22004,Shining Gem,1000,5397.72,14,1,LuBu+,imp/ Gnight
 76.13,25495,Green Colorant,1000,4189.3,6,2,cheapstuffsell,5
 73.05,26563,Mushroom Soup,50,185.53,4,99,SellMeWhole,S>imps/5 stat/rep
 73.05,26563,Mushroom Soup,50,185.53,4,99,SellMeWhole,S>imps/5 stat/rep
-71.0,22001,Furious Gem,799,2755.16,10,2,iLilith,Cheapest ITEMS ever
-70.69,26564,Meditation Potion,200,682.44,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
+70.94,22001,Furious Gem,799,2749.84,10,2,iLilith,Cheapest ITEMS ever
+70.53,26564,Meditation Potion,200,678.66,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 70.03,28406,Earth Sealed Staff of Abraxas.,999,3333.0,6,1,Tabitha,FULL STALL
 70.02,28035,Solar Shield,14999,50033.0,5,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
 69.53,25439,Incantation Stone,350,1148.63,5,51,FreePalestine1,sell    0_0
@@ -18,30 +19,33 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.62,25212,Frozen Elixir,200,637.33,6,53,Online,cheap asf
 68.62,25212,Frozen Elixir,200,637.33,6,5,cheapcheapcheap,cheap
 66.05,25440,Evanescence Stone,350,1030.97,7,38,FreePalestine1,sell    0_0
-65.62,26589,Potion of Bull,999,2905.94,15,5,Uzi,detec
-65.62,26589,Potion of Bull,999,2905.94,15,1,AltDude,buy my stuff
+65.65,26589,Potion of Bull,999,2908.53,15,5,Uzi,detec
+65.65,26589,Potion of Bull,999,2908.53,15,1,AltDude,buy my stuff
 64.74,26590,Potion of Soul,999,2832.86,13,9,Uzi,detec
-63.7,22001,Furious Gem,1000,2755.16,10,1,stuffseller,cheap
+63.63,22001,Furious Gem,1000,2749.84,10,1,stuffseller,cheap
+63.63,22001,Furious Gem,1000,2749.84,10,1,LuBu+,imp/ Gnight
 63.32,30121,Vial of Accuracy Reset,2000,5452.38,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
-63.07,22004,Shining Gem,1999,5413.15,13,1,Uzi,detec
-63.07,22004,Shining Gem,1999,5413.15,13,1,cudecachorro2,REF/SPIRIT/FIERY/SWORD CRUS/CHAM
+62.97,22004,Shining Gem,1999,5397.72,14,1,Uzi,detec
+62.97,22004,Shining Gem,1999,5397.72,14,1,cudecachorro2,REF/SPIRIT/FIERY/SWORD CRUS/CHAM
+62.7,26594,Novice Explosive Ball,150,402.18,6,5,Scrolls,DE RAGE PPS GPS REF REP DW CHEST
 62.01,28430,Fire Sealed Robe of Malediction,4950,13030.0,5,1,iLegolas,sealed 50 . pps . lighting .rock
 61.63,28430,Fire Sealed Robe of Malediction,5000,13030.0,5,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
-59.73,26594,Novice Explosive Ball,100,248.33,6,1,AltDude,buy my stuff
-59.68,22001,Furious Gem,1111,2755.16,10,8,NainBASTARD,+++
+59.6,22001,Furious Gem,1111,2749.84,10,8,NainBASTARD,+++
 58.09,25493,Orange Colorant,1000,2385.81,4,2,cheapstuffsell,5
 56.81,25397,Enchanted Stone,300,694.61,3,72,S0phi,Treasure / Dolphin  /  Minion
 56.56,25439,Incantation Stone,499,1148.63,5,2,PONGO,REP/MYSTIC/FB/JACKPOT/MORE COME
-54.74,22004,Shining Gem,2450,5413.15,13,5,stuffseller,cheap
-54.13,26589,Potion of Bull,1333,2905.94,15,13,stallcito1,32131231231231231
+55.9,28418,Earth Sealed Kiss of the Cursed,3500,7937.25,6,1,Fortis,All cheap
+54.61,22004,Shining Gem,2450,5397.72,14,5,stuffseller,cheap
+54.17,26589,Potion of Bull,1333,2908.53,15,13,stallcito1,32131231231231231
 53.94,28456,Ice Sealed Robe of the Sphinx,15000,32569.38,6,1,Pablo,CHEAP CHEAPER CHIPOTLE
 53.94,28456,Ice Sealed Robe of the Sphinx,15000,32569.38,6,1,MUSACHI,CCC
 53.19,25258,Spirit Feather,399,852.4,8,26,Disciplined1,Cheapest EnigmaPower DemonicRock
-52.14,28418,Earth Sealed Kiss of the Cursed,3500,7312.25,5,1,Fortis,All cheap
 51.79,29013,Novice 15 Treasure Hunting EXP Card,250,518.52,4,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 51.5,25440,Evanescence Stone,500,1030.97,7,7,LunaMaya,S>HiddenHoney LambSkull PPS
 51.5,25440,Evanescence Stone,500,1030.97,7,48,Frank,GR JADE REF GEMS ER INS EVS
 51.49,27021,Green Pirate Scroll,200,412.31,8,5,xGoliath,RUSH
-50.84,26591,Potion of Lion,1500,3051.3,16,7,Uzi,detec
+50.98,26591,Potion of Lion,1500,3059.72,16,7,Uzi,detec
+50.27,26594,Novice Explosive Ball,200,402.18,6,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
+50.27,26594,Novice Explosive Ball,200,402.18,6,97,bertobank,Prospe | ExploBalls
 50.06,28400,Earth Sealed Platemail of the Cursed Soul,10000,20022.2,8,1,bankerrr,Demonic Rage | Bank Cleaning
 50.06,28400,Earth Sealed Platemail of the Cursed Soul,10000,20022.2,8,1,bankerrr,Demonic Rage | Bank Cleaning
