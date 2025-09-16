@@ -20,7 +20,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,25258,Spirit Feather,bruna99,mnm,450,840.26,390.26,62,24195.84,46.44,9
 2025-09-16,25258,Spirit Feather,LunaMaya,S>HiddenHoney LambSkull PPS,450,840.26,390.26,54,21073.8,46.44,9
 2025-09-16,28421,Bow of Incantation,ch4n,65k shop SS needs rush,65000,117370.33,52370.33,1,52370.33,44.62,3
-2025-09-16,28401,Platemail of the Cursed Soul,Kayo,Cheap!,110000,196666.67,86666.67,1,86666.67,44.07,3
 2025-09-16,22000,FieryGem,EngrAndy,What it do?,3500,5949.16,2449.16,55,134703.64,41.17,9
 2025-09-16,26589,Potion of Bull,stuffseller,cheap,1875,3169.77,1294.77,23,29779.67,40.85,15
 2025-09-16,25258,Spirit Feather,tiendaonline,offer offer offer,499,840.26,341.26,99,33784.29,40.61,9
@@ -28,7 +27,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,25504,Standard Scroll,Pots,Lumber Rock/ evolution/pots,700,1132.21,432.21,99,42788.35,38.17,5
 2025-09-16,25504,Standard Scroll,Pots,Lumber Rock/ evolution/pots,700,1132.21,432.21,64,27661.15,38.17,5
 2025-09-16,26591,Potion of Lion,Traderboy,DemoStrike/MoonlightHeart more,2000,3210.09,1210.09,32,38722.89,37.7,14
-2025-09-16,28472,Ice Sealed Bow of Enigma,ii3,chaos frag/fbs/jackpot/deadly,70000,112000.0,42000.0,1,42000.0,37.5,4
 2025-09-16,28476,Ice Sealed Kris of the Sphinx,BjornIronside,BUY OR DEATH,60000,95714.14,35714.14,1,35714.14,37.31,6
 2025-09-16,28474,Ice Sealed Mantle of the Sphinx,iToxiK,stuiffs/ pps/ gps/etc,55000,87499.75,32499.75,1,32499.75,37.14,3
 2025-09-16,28474,Ice Sealed Mantle of the Sphinx,MiLD,rush,55000,87499.75,32499.75,1,32499.75,37.14,3
@@ -49,8 +47,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,30156,Jackpot Coin,SariSariStore1,RESTOCK,6949,9632.89,2683.89,8,21471.11,27.86,22
 2025-09-16,30156,Jackpot Coin,Mikosita,SELL JACKPOT/PPS/REF/GPS,6999,9632.89,2633.89,158,416154.33,27.34,22
 2025-09-16,30156,Jackpot Coin,AAA123,12313131312,7000,9632.89,2632.89,31,81619.53,27.33,22
+2025-09-16,30171,Ticket to Demonic World,cheapstuffsell,5,540,740.16,200.16,130,26021.22,27.04,7
 2025-09-16,25426,Universe Purse Fragment.,Mikosita,SELL JACKPOT/PPS/REF/GPS,269999,369999.69,100000.69,1,100000.69,27.03,5
-2025-09-16,30171,Ticket to Demonic World,cheapstuffsell,5,540,739.39,199.39,130,25920.24,26.97,7
 2025-09-16,25527,,Dreamify,<<< CHAOS RUNESTONE >>>,1200000,1637499.75,437499.75,1,437499.75,26.72,4
 2025-09-16,25451,Jade Gem Fragment,Later,Ref/Jade Gem FRagment/Growth Pot,66666,90388.57,23722.57,4,94890.29,26.25,11
 2025-09-16,25506,Expert Scroll,Pots,Lumber Rock/ evolution/pots,1999,2708.07,709.07,66,46798.46,26.18,4
@@ -59,9 +57,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,25426,Universe Purse Fragment.,Soneview,GROWTH/PPS/LBS/PBS/PURSE/,279999,369999.69,90000.69,1,90000.69,24.32,5
 2025-09-16,26592,Flash Bomb,ii3,chaos frag/fbs/jackpot/deadly,700,921.6,221.6,161,35677.93,24.05,15
 2025-09-16,28423,Mantle of the Cursed Flame,Winchest3r,change clazz,169999,222999.67,53000.67,1,53000.67,23.77,3
-2025-09-16,28401,Platemail of the Cursed Soul,XiXi0n,--------------------------------,150000,196666.67,46666.67,1,46666.67,23.73,3
 2025-09-16,25451,Jade Gem Fragment,SariSariStore1,RESTOCK,69949,90388.57,20439.57,10,204395.73,22.61,11
 2025-09-16,25451,Jade Gem Fragment,Pip0n,JadeFrag/PBS/Pots/MagicalStone,69999,90388.57,20389.57,1,20389.57,22.56,11
+2025-09-16,28472,Ice Sealed Bow of Enigma,ii3,chaos frag/fbs/jackpot/deadly,70000,90000.0,20000.0,1,20000.0,22.22,3
 2025-09-16,26377,Pharaoh's Lantern,Gappie,cheapest pharao lanten,10000,12842.07,2842.07,35,99472.61,22.13,7
 2025-09-16,26591,Potion of Lion,Barya,Pharaoh Lantern  bull  lion  ETC,2500,3210.09,710.09,198,140597.89,22.12,14
 2025-09-16,26591,Potion of Lion,Barya,Pharaoh Lantern  bull  lion  ETC,2500,3210.09,710.09,176,124975.9,22.12,14
@@ -71,7 +69,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-16,26588,Potion of Eagle,NainBASTARD,+++,2222,2815.76,593.76,60,35625.42,21.09,13
 2025-09-16,25452,Rock Gem Fragment,Mikosita,SELL JACKPOT/PPS/REF/GPS,78999,98921.94,19922.94,16,318767.02,20.14,12
 2025-09-16,25452,Rock Gem Fragment,LightAngel,STUFFz,79000,98921.94,19921.94,2,39843.88,20.14,12
-2025-09-16,28472,Ice Sealed Bow of Enigma,Stol2,Cheap,90000,112000.0,22000.0,1,22000.0,19.64,4
 2025-09-16,25393,Blessed Heart,214214124,bless heart cheap,1250,1553.54,303.54,99,30050.47,19.54,5
 2025-09-16,25393,Blessed Heart,214214124,bless heart cheap,1250,1553.54,303.54,99,30050.47,19.54,5
 2025-09-16,25031,Refining Gem,Later,Ref/Jade Gem FRagment/Growth Pot,11111,13775.15,2664.15,12,31969.79,19.34,18
