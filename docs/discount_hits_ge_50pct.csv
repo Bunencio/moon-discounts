@@ -6,8 +6,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.49,30168,Gyoza,2999,19338.7,5,1,Gappie,cheap pharao lantern
 81.35,26345,Elven Potion,1800,9653.92,3,3,amiix,JACK COIN 7K FB 600 PPS 3K RBS
 80.0,2301,,5000,24999.73,5,1,HunterKim,Boot
-77.53,26589,Potion of Bull,700,3115.65,14,1,TOPBunshie,SUPER CHEAP BUY MORE
-74.32,26589,Potion of Bull,800,3115.65,14,9,amiix,JACK COIN 7K FB 600 PPS 3K RBS
+77.53,26589,Potion of Bull,700,3114.74,15,1,TOPBunshie,SUPER CHEAP BUY MORE
+74.32,26589,Potion of Bull,800,3114.74,15,9,amiix,JACK COIN 7K FB 600 PPS 3K RBS
 71.04,26562,Cake,50,172.65,6,2,PALA05,garner
 68.91,25439,Incantation Stone,350,1125.66,6,51,FreePalestine1,sell    0_0
 67.86,28154,Iron Platemail,3000,9333.33,3,1,sVmind,buy pls i m poor
@@ -27,9 +27,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.0,2301,,10000,24999.73,5,1,KaiSaMaMiTa,cheap fast
 58.82,26594,Novice Explosive Ball,95,230.7,6,32,staller2,Blessed berry/Weightless potion
 58.68,26591,Potion of Lion,1333,3225.7,15,12,stallcito1,32131231231231231
-58.32,22001,Furious Gem,1111,2665.64,10,13,NainBASTARD,+++
 58.3,28456,Ice Sealed Robe of the Sphinx,15000,35972.12,6,1,StepanBendera,*_*
-57.22,26589,Potion of Bull,1333,3115.65,14,33,stallcito1,32131231231231231
+57.98,22001,Furious Gem,1111,2643.93,10,13,NainBASTARD,+++
+57.2,26589,Potion of Bull,1333,3114.74,15,33,stallcito1,32131231231231231
 56.57,28436,Fire Sealed Staff of Evanescence,19500,44899.4,5,1,Wallnut,The Corner SHop
 56.38,26563,Mushroom Soup,129,295.72,5,3,cudecachorro2,UG/DEMON/REF/RAGE/PURPLE FREE
 55.7,28418,Earth Sealed Kiss of the Cursed,3500,7900.0,3,1,Fortis,All cheap
@@ -41,5 +41,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.11,30172,Ticket to Treasure Island,199,443.28,7,87,A1eXxSamara,tix
 53.74,30121,Vial of Accuracy Reset,2500,5404.76,5,1,Undead2509,Sell Boots/Gem/Bomb/Scroll
 52.28,25440,Evanescence Stone,500,1047.85,8,48,Frank,GR JADE REF GEMS ER INS EVS
-51.86,26589,Potion of Bull,1500,3115.65,14,7,Gryffindor,GPS... POTS.... CHEAP...
-50.1,22000,FieryGem,2999,6010.29,10,1,shale,stalls
+51.84,26589,Potion of Bull,1500,3114.74,15,7,Gryffindor,GPS... POTS.... CHEAP...
