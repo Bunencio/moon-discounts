@@ -5,10 +5,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,25439,Incantation Stone,FreePalestine1,sell,300,1137.94,837.94,44,36869.17,73.64,7
 2025-09-17,28458,Ice Sealed Staff of the Sphinx,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch,10000,35611.0,25611.0,1,25611.0,71.92,8
 2025-09-17,25440,Evanescence Stone,FreePalestine1,sell,300,1014.36,714.36,37,26431.3,70.42,9
+2025-09-17,28442,Fire Sealed Coat of Evanescence,Che,Xiclets,10000,32500.0,22500.0,1,22500.0,69.23,4
 2025-09-17,25476,Hairstyling Voucher,ShowMaker,GPS / Ref / Hair Vouch,25000,80500.0,55500.0,2,111000.0,68.94,3
 2025-09-17,26564,Meditation Potion,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++,200,636.28,436.28,63,27485.49,68.57,4
 2025-09-17,26002,Pharaoh Gem,Ragnark23,tooth jackpot coin gold,700,2220.03,1520.03,19,28880.53,68.47,11
-2025-09-17,28442,Fire Sealed Coat of Evanescence,Che,Xiclets,10000,30909.09,20909.09,1,20909.09,67.65,4
 2025-09-17,25258,Spirit Feather,LunaMaya,S>HiddenHoney LamSkull FairyFood,300,803.63,503.63,54,27195.85,62.67,9
 2025-09-17,28456,Ice Sealed Robe of the Sphinx,MUSACHI,60,15000,40138.62,25138.62,1,25138.62,62.63,7
 2025-09-17,28456,Ice Sealed Robe of the Sphinx,Pablo,CHEAP CHEAPER CHIPOTLE,15000,40138.62,25138.62,1,25138.62,62.63,7
@@ -56,7 +56,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,25056,Willow Wood Log,Olympus,Willow Wood Log cheap,400,603.33,203.33,99,20129.31,33.7,3
 2025-09-17,26559,Cooked Crab,vnt4,Recover HP-SP Crab Come!,1499,2241.47,742.47,199,147751.8,33.12,5
 2025-09-17,26559,Cooked Crab,vnt4,Recover HP-SP Crab Come!,1499,2241.47,742.47,91,67564.9,33.12,5
-2025-09-17,30171,Ticket to Demonic World,Wardo,S>DW tickets/PBS,500,739.27,239.27,94,22491.57,32.37,12
+2025-09-17,30171,Ticket to Demonic World,Wardo,S>DW tickets/PBS,500,739.34,239.34,94,22498.14,32.37,12
 2025-09-17,22004,Shining Gem,NainBASTARD,Dem Wind,3333,4882.4,1549.4,42,65074.63,31.73,16
 2025-09-17,30022,Buffing Card,JakubMarket,Cards,35000,48332.93,13332.93,8,106663.43,27.59,7
 2025-09-17,22030,Earth Rock,Stello,EARTH ROCK,1800000,2433333.33,633333.33,1,633333.33,26.03,3
@@ -117,12 +117,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,30156,Jackpot Coin,011,bank cleaning,8500,9960.39,1460.39,169,246805.53,14.66,14
 2025-09-17,30156,Jackpot Coin,Acnologia,Cheap! (o o )!!,8500,9960.39,1460.39,20,29207.76,14.66,14
 2025-09-17,30156,Jackpot Coin,Ragnark23,tooth jackpot coin gold,8500,9960.39,1460.39,15,21905.82,14.66,14
+2025-09-17,22006,Spirit Gem,Kikiroto2,Selling Voy Eqs Dm On uba Offers,6000,7011.08,1011.08,35,35387.63,14.42,13
 2025-09-17,28136,Crown of Decendant,Seller1,HL SM ITENS,599999,699999.67,100000.67,1,100000.67,14.29,3
 2025-09-17,30020,Class Changing Card,Hiya,ALOT CHEAP ITENZ,219999,255999.6,36000.6,3,108001.8,14.06,3
 2025-09-17,25451,Jade Gem Fragment,Duna,Purple Jade Red Jade Fragment,78999,91603.19,12604.19,5,63020.95,13.76,8
 2025-09-17,28454,Ice Sealed Blade of Enigma,Ghotter,free palestine,250000,287500.0,37500.0,1,37500.0,13.04,3
 2025-09-17,28454,Ice Sealed Blade of Enigma,vendedolmax,2000,250000,287500.0,37500.0,1,37500.0,13.04,3
-2025-09-17,22006,Spirit Gem,Kikiroto2,Selling Voy Eqs Dm On uba Offers,6000,6898.62,898.62,35,31451.74,13.03,15
 2025-09-17,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,11444,13147.02,1703.02,24,40872.58,12.95,20
 2025-09-17,27025,Radiation Lv1,SetSeller,cheapest in town,4000,4594.0,594.0,200,118800.0,12.93,4
 2025-09-17,27025,Radiation Lv1,SetSeller,cheapest in town,4000,4594.0,594.0,75,44550.0,12.93,4

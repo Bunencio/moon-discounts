@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 98.74,26564,Meditation Potion,8,636.28,4,100,Shop1,darkblue
 95.29,26564,Meditation Potion,30,636.28,4,151,PALA02,garner
-90.78,30173,Ticket to Angler's Island,30,325.5,3,13,Shop1,darkblue
+90.7,30173,Ticket to Angler's Island,30,322.5,3,13,Shop1,darkblue
 86.23,22000,FieryGem,800,5810.27,10,2,M0Nster,Cheap
 77.79,28212,Priestly Robe,1999,8999.67,3,1,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
 75.85,26594,Novice Explosive Ball,99,409.88,7,35,Uzi,detector
@@ -16,16 +16,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.42,25440,Evanescence Stone,300,1014.36,9,37,FreePalestine1,sell
 70.4,30119,Vial of Consitution Reset,999,3374.75,3,1,cudecachorro2,RING|DAGGER|ARMOR|SOUL|FLASH|REP
 69.64,22001,Furious Gem,888,2924.65,10,2,iLilith,Cheap
+69.23,28442,Fire Sealed Coat of Evanescence,10000,32500.0,4,1,Che,Xiclets
 68.94,25476,Hairstyling Voucher,25000,80500.0,3,2,ShowMaker,GPS / Ref / Hair Vouch
 68.57,26564,Meditation Potion,200,636.28,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 68.47,26002,Pharaoh Gem,700,2220.03,11,19,Ragnark23,tooth jackpot coin gold
-67.65,28442,Fire Sealed Coat of Evanescence,10000,30909.09,4,1,Che,Xiclets
 65.92,26590,Potion of Soul,1000,2933.95,18,1,Anuel,:D
 65.81,22001,Furious Gem,1000,2924.65,10,1,loyalty1,selling sssssssssss
 65.81,22001,Furious Gem,1000,2924.65,10,1,xDelfina,Potion
 65.81,22001,Furious Gem,1000,2924.65,10,1,stuffseller,cheap
 64.85,25439,Incantation Stone,400,1137.94,7,1,SSTTAALL,ICE-FIRE-EARTH STAFF/PBS/JC/POTS
-64.57,22006,Spirit Gem,2444,6898.62,15,1,stallcito1,QWEQWEQWEQWEQW
 64.41,26562,Cake,50,140.5,4,43,PALA02,garner
 63.92,25440,Evanescence Stone,366,1014.36,9,4,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 63.64,30121,Vial of Accuracy Reset,2000,5500.0,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
@@ -69,7 +68,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.81,28450,Fire Sealed Tooth of Evanescence,15000,34730.69,6,1,Ludopat1n,Fairy skating cheap equip
 56.74,28430,Fire Sealed Robe of Malediction,5000,11558.82,7,1,Ghotter,free palestine
 56.74,28430,Fire Sealed Robe of Malediction,5000,11558.82,7,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
-56.53,22006,Spirit Gem,2999,6898.62,15,5,Bebang,CHEAPO CRAP ITEMS
 56.52,28326,Divine Grace Cap,49999,114999.5,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
 56.41,25439,Incantation Stone,496,1137.94,7,3,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 56.32,28458,Ice Sealed Staff of the Sphinx,15555,35611.0,8,1,iFennec,PBS PURPLE
@@ -79,13 +77,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.29,28476,Ice Sealed Kris of the Sphinx,40000,87499.75,7,1,ImNotPino,45 CLER UNS MC NECK SPR RING 60
 54.15,29056,20 Cooking EXP Card,1000,2181.14,4,1,bankerrr,Demonic Rage | Bank Cleaning
 54.15,29056,20 Cooking EXP Card,1000,2181.14,4,1,Commerce,ww3
+53.85,28442,Fire Sealed Coat of Evanescence,15000,32500.0,4,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 53.0,25484,Green Dye,44,93.62,3,15,OsToWBaby,THE CHEAPEST HAIR PRODUTCS
 52.61,28400,Earth Sealed Platemail of the Cursed Soul,7500,15826.38,6,1,bankerrr,Demonic Rage | Bank Cleaning
 52.61,28406,Earth Sealed Staff of Abraxas.,999,2108.0,4,1,Tabitha,FULL STALL
 51.87,22003,Glowing Gem,750,1558.41,12,1,pisslow,Cheep stuf sir
 51.74,25490,Brown Dye,44,91.18,3,21,OsToWBaby,THE CHEAPEST HAIR PRODUTCS
-51.47,28442,Fire Sealed Coat of Evanescence,15000,30909.09,4,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
-51.47,28442,Fire Sealed Coat of Evanescence,15000,30909.09,4,1,POPOR,PPS PBS JACKPOT C. ETC. SO CHEAP
 51.2,26594,Novice Explosive Ball,200,409.88,7,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
 50.94,30172,Ticket to Treasure Island,300,611.46,7,6,ShowMaker,GPS / Ref / Hair Vouch
 50.94,30172,Ticket to Treasure Island,300,611.46,7,18,GodSpeed,REF DW TX
