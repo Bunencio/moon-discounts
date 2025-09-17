@@ -21,8 +21,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.22,22001,Furious Gem,1000,3146.58,12,1,stuffseller,cheap
 67.33,28400,Earth Sealed Platemail of the Cursed Soul,5000,15302.44,7,1,bankerrr,Demonic Rage | Bank Cleaning
 66.91,22000,FieryGem,2222,6714.03,7,4,stallcito1,QWEQWEQWEQWEQW
-65.47,26590,Potion of Soul,999,2892.97,16,10,hunterx,DErage/fb/bp/pots/xp/repu
-65.44,26589,Potion of Bull,999,2890.49,14,1,AltDude,buy my stuff
+65.41,26589,Potion of Bull,999,2888.32,14,1,AltDude,buy my stuff
+65.33,26590,Potion of Soul,999,2881.1,16,10,hunterx,DErage/fb/bp/pots/xp/repu
 65.15,28035,Solar Shield,14999,43039.6,5,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
 64.98,22006,Spirit Gem,2444,6979.59,13,4,stallcito1,QWEQWEQWEQWEQW
 64.93,28466,Ice Sealed Judgment of Enigma,10000,28518.33,3,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
@@ -31,8 +31,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.72,25440,Evanescence Stone,366,1008.87,9,4,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 63.64,30121,Vial of Accuracy Reset,2000,5500.0,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
 63.35,25211,Tropical Drumstick,30,81.86,5,91,darkghost,potion
-62.32,26591,Potion of Lion,1150,3051.7,14,11,hunterx,DErage/fb/bp/pots/xp/repu
-61.56,26589,Potion of Bull,1111,2890.49,14,13,stallcito1,QWEQWEQWEQWEQW
+62.29,26591,Potion of Lion,1150,3049.89,14,11,hunterx,DErage/fb/bp/pots/xp/repu
+61.53,26589,Potion of Bull,1111,2888.32,14,13,stallcito1,QWEQWEQWEQWEQW
 61.11,29056,20 Cooking EXP Card,1000,2571.43,3,1,Commerce,ww3
 61.11,29056,20 Cooking EXP Card,1000,2571.43,3,1,bankerrr,Demonic Rage | Bank Cleaning
 60.88,26594,Novice Explosive Ball,200,511.25,8,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
@@ -69,7 +69,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.1,26594,Novice Explosive Ball,250,511.25,8,2,PALA02,garner
 51.04,29013,Novice 15 Treasure Hunting EXP Card,250,510.67,5,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 50.99,28400,Earth Sealed Platemail of the Cursed Soul,7500,15302.44,7,1,bankerrr,Demonic Rage | Bank Cleaning
-50.85,26591,Potion of Lion,1500,3051.7,14,1,Pablo,CHEAP CHEAPER CHIPOTLE
+50.82,26591,Potion of Lion,1500,3049.89,14,1,Pablo,CHEAP CHEAPER CHIPOTLE
 50.65,28434,Fire Sealed Robe of the Arcane,19999,40526.21,7,1,Ludopat1n,Fairy Skating cheap stuff
 50.44,25440,Evanescence Stone,500,1008.87,9,48,Frank,GR JADE REF GEIMS ER INS EVS
 50.44,25440,Evanescence Stone,500,1008.87,9,7,LunaMaya,S>HiddenHoney LambSkull PPS
