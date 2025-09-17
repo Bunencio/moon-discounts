@@ -2,7 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.07,2301,,2000,22399.9,5,1,HunterKim,Evan
 86.66,26564,Meditation Potion,8,59.97,4,100,Shop1,darkblue
 83.79,28212,Priestly Robe,1999,12333.0,3,1,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
-78.47,26594,Novice Explosive Ball,100,464.56,7,5,Scrolls,DE RAGE PPS GPS REF REPS DW CHES
+80.44,26594,Novice Explosive Ball,100,511.25,8,5,Scrolls,DE RAGE PPS GPS REF REPS DW CHES
 76.13,25495,Green Colorant,1000,4189.3,6,2,cheapstuffsell,5
 74.73,22001,Furious Gem,799,3161.77,12,2,iLilith,Cheapest ITEMS ever
 74.49,26563,Mushroom Soup,50,196.03,3,99,SellMeWhole,S>imps/5 stat/rep
@@ -24,32 +24,28 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.35,26589,Potion of Bull,999,2882.84,14,1,AltDude,buy my stuff
 65.27,26590,Potion of Soul,999,2876.83,16,10,hunterx,DErage/fb/bp/pots/xp/repu
 65.15,28035,Solar Shield,14999,43039.6,5,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
+64.98,22006,Spirit Gem,2444,6979.59,13,4,stallcito1,QWEQWEQWEQWEQW
 64.93,28466,Ice Sealed Judgment of Enigma,10000,28518.33,3,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
-64.88,22006,Spirit Gem,2444,6958.41,13,4,stallcito1,QWEQWEQWEQWEQW
+64.79,26594,Novice Explosive Ball,180,511.25,8,31,#14DEATH#14,BANK CLEANING
 63.73,25440,Evanescence Stone,366,1009.0,8,4,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 63.64,30121,Vial of Accuracy Reset,2000,5500.0,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
 62.32,26591,Potion of Lion,1150,3051.7,14,11,hunterx,DErage/fb/bp/pots/xp/repu
 62.26,29056,20 Cooking EXP Card,1000,2650.0,3,1,Commerce,ww3
 61.46,26589,Potion of Bull,1111,2882.84,14,13,stallcito1,QWEQWEQWEQWEQW
-61.25,26594,Novice Explosive Ball,180,464.56,7,31,#14DEATH#14,BANK CLEANING
+60.88,26594,Novice Explosive Ball,200,511.25,8,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
 60.0,25477,Lance Hairstyle Book,5000,12500.0,3,6,Khonsu,CHEAPEST HAIRSTYLING ITEMS
 59.64,30118,Vial of Strength Reset,2500,6194.44,4,1,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
+59.61,28472,Ice Sealed Bow of Enigma,90000,222833.17,5,1,Stol2,Cheap
+59.61,28472,Ice Sealed Bow of Enigma,90000,222833.17,5,1,SDrakoS,LightningH/Pumpkin/PurpleP/Bow60
 59.48,28430,Fire Sealed Robe of Malediction,4950,12214.7,7,1,iLegolas,sealed 50 . pps . lighting .rock
 59.07,28430,Fire Sealed Robe of Malediction,5000,12214.7,7,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
 58.62,28326,Divine Grace Cap,29999,72499.25,4,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
-58.6,28472,Ice Sealed Bow of Enigma,90000,217399.8,4,1,Stol2,Cheap
-58.6,28472,Ice Sealed Bow of Enigma,90000,217399.8,4,1,SDrakoS,LightningH/Pumpkin/PurpleP/Bow60
 58.31,26564,Meditation Potion,25,59.97,4,130,PALA02,garner
 58.09,25493,Orange Colorant,1000,2385.81,4,2,cheapstuffsell,5
 57.69,22004,Shining Gem,1999,4724.12,16,1,cudecachorro2,REPU|REF|RAGE|SOUL|BLADE|STAFF!!
-57.58,28428,Fire Sealed Dance of Evanescence,20000,47142.86,4,1,PopeyeTheSailor,sealed gear for all classes
 57.39,28418,Earth Sealed Kiss of the Cursed,3500,8214.0,6,1,Fortis,All cheap
-56.95,26594,Novice Explosive Ball,200,464.56,7,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
-56.9,22006,Spirit Gem,2999,6958.41,13,9,Bebang,CHEAPO CRAP ITEMS
+57.03,22006,Spirit Gem,2999,6979.59,13,8,Bebang,CHEAPO CRAP ITEMS
 56.81,25397,Enchanted Stone,300,694.61,3,72,S0phi,Treasure / Dolphin  /  Minion
-56.53,28438,Fire Sealed Tattoo of Evanescence,9999,22999.62,5,1,LightCores1,SLEL
-56.53,28438,Fire Sealed Tattoo of Evanescence,9999,22999.62,5,1,Sunshard1,sell
-56.53,28438,Fire Sealed Tattoo of Evanescence,9999,22999.62,5,1,Sunshard1,sell
 55.92,22003,Glowing Gem,700,1588.03,14,1,Scrolls,DE RAGE PPS GPS REF REPS DW CHES
 55.64,25439,Incantation Stone,496,1118.22,5,3,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 54.32,28458,Ice Sealed Staff of the Sphinx,15000,32839.33,7,1,Electricman1,DemoSoul/Jp MvM/StrmGlv+5spr/Rck
@@ -58,16 +54,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.94,28456,Ice Sealed Robe of the Sphinx,15000,32569.38,6,1,MUSACHI,CCC
 53.94,28456,Ice Sealed Robe of the Sphinx,15000,32569.38,6,1,Pablo,CHEAP CHEAPER CHIPOTLE
 53.84,28404,Earth Sealed Robe of Abraxas,3000,6499.75,3,1,Olympus,Willow Wood Log cheap
+53.52,28442,Fire Sealed Coat of Evanescence,14999,32272.64,5,1,CallMeBaby,Cheiap
+53.52,28442,Fire Sealed Coat of Evanescence,15000,32272.64,5,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
 52.77,22003,Glowing Gem,750,1588.03,14,1,pisslow,Cheep stuf sir
 52.56,22001,Furious Gem,1500,3161.77,12,1,loyalty1,iam selling this
 52.56,22001,Furious Gem,1500,3161.77,12,10,sstido,selling
 52.43,25258,Spirit Feather,399,838.69,8,11,Disciplined1,Cheapest EnigmaPower DemonicRock
-51.75,28442,Fire Sealed Coat of Evanescence,14999,31083.25,6,1,CallMeBaby,Cheiap
-51.74,28442,Fire Sealed Coat of Evanescence,15000,31083.25,6,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
+51.98,28472,Ice Sealed Bow of Enigma,107000,222833.17,5,1,Pablo,CHEAP CHEAPER CHIPOTLE
 51.16,28450,Fire Sealed Tooth of Evanescence,19000,38900.0,3,1,Ludopat1n,Fairy Skating cheap stuff
+51.1,26594,Novice Explosive Ball,250,511.25,8,2,PALA02,garner
 51.04,29013,Novice 15 Treasure Hunting EXP Card,250,510.67,5,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 50.85,26591,Potion of Lion,1500,3051.7,14,1,Pablo,CHEAP CHEAPER CHIPOTLE
-50.78,28472,Ice Sealed Bow of Enigma,107000,217399.8,4,1,Pablo,CHEAP CHEAPER CHIPOTLE
 50.65,28434,Fire Sealed Robe of the Arcane,19999,40526.21,7,1,Ludopat1n,Fairy Skating cheap stuff
 50.45,25440,Evanescence Stone,500,1009.0,8,48,Frank,GR JADE REF GEIMS ER INS EVS
 50.45,25440,Evanescence Stone,500,1009.0,8,7,LunaMaya,S>HiddenHoney LambSkull PPS
