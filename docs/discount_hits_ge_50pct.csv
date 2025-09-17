@@ -10,7 +10,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.35,25439,Incantation Stone,300,1125.5,5,47,FreePalestine1,sell
 70.66,28406,Earth Sealed Staff of Abraxas.,999,3405.17,6,1,Tabitha,FULL STALL
 70.33,25440,Evanescence Stone,300,1011.19,9,38,FreePalestine1,sell
-69.74,22004,Shining Gem,1350,4460.66,14,5,Darcy,********************************
+69.55,22004,Shining Gem,1350,4433.45,15,5,Darcy,********************************
 69.55,28458,Ice Sealed Staff of the Sphinx,10000,32839.33,7,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
 69.43,25212,Frozen Elixir,199,651.0,6,10,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
 69.28,25212,Frozen Elixir,200,651.0,6,99,Online,cheap asf
@@ -20,7 +20,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.73,22001,Furious Gem,1000,3197.59,12,1,xDelfina,Potion
 68.73,22001,Furious Gem,1000,3197.59,12,1,stuffseller,cheap
 67.33,28400,Earth Sealed Platemail of the Cursed Soul,5000,15302.44,7,1,bankerrr,Demonic Rage | Bank Cleaning
-66.83,22000,FieryGem,2222,6698.3,7,4,stallcito1,QWEQWEQWEQWEQW
+65.76,22000,FieryGem,2222,6488.88,7,4,stallcito1,QWEQWEQWEQWEQW
+65.76,22000,FieryGem,2222,6488.88,7,8,Mikzx,IMPS
 65.41,26589,Potion of Bull,999,2888.32,14,1,AltDude,buy my stuff
 65.15,28035,Solar Shield,14999,43039.6,5,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
 64.97,22006,Spirit Gem,2444,6976.03,12,4,stallcito1,QWEQWEQWEQWEQW
@@ -51,7 +52,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.53,22003,Glowing Gem,700,1610.35,13,1,Scrolls,DE RAGE PPS GPS REF REPS DW CHES
 55.93,25439,Incantation Stone,496,1125.5,5,3,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 55.48,28436,Fire Sealed Staff of Evanescence,19999,44916.42,5,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
-55.19,22004,Shining Gem,1999,4460.66,14,1,cudecachorro2,REPU|REF|RAGE|SOUL|BLADE|STAFF!!
+54.91,22004,Shining Gem,1999,4433.45,15,1,cudecachorro2,REPU|REF|RAGE|SOUL|BLADE|STAFF!!
 54.32,28458,Ice Sealed Staff of the Sphinx,15000,32839.33,7,1,Electricman1,DemoSoul/Jp MvM/StrmGlv+5spr/Rck
 54.32,28458,Ice Sealed Staff of the Sphinx,15000,32839.33,7,1,Electricman1,DemoSoul/Jp MvM/StrmGlv+5spr/Rck
 54.32,28458,Ice Sealed Staff of the Sphinx,15000,32839.33,7,1,MUSACHI,CCC
@@ -66,12 +67,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.05,25258,Spirit Feather,399,832.19,9,11,Disciplined1,Cheapest EnigmaPower DemonicRock
 51.16,28450,Fire Sealed Tooth of Evanescence,19000,38900.0,3,1,Ludopat1n,Fairy Skating cheap stuff
 51.1,26594,Novice Explosive Ball,250,511.25,8,2,PALA02,garner
-51.04,29013,Novice 15 Treasure Hunting EXP Card,250,510.67,5,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 50.99,28400,Earth Sealed Platemail of the Cursed Soul,7500,15302.44,7,1,bankerrr,Demonic Rage | Bank Cleaning
 50.82,26591,Potion of Lion,1500,3049.89,14,1,Pablo,CHEAP CHEAPER CHIPOTLE
 50.65,28434,Fire Sealed Robe of the Arcane,19999,40526.21,7,1,Ludopat1n,Fairy Skating cheap stuff
 50.55,25440,Evanescence Stone,500,1011.19,9,47,Frank,GR JADE REF GEIMS ER INS EVS
 50.55,25440,Evanescence Stone,500,1011.19,9,7,LunaMaya,S>HiddenHoney LambSkull PPS
+50.4,29013,Novice 15 Treasure Hunting EXP Card,250,504.05,4,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 50.32,22003,Glowing Gem,800,1610.35,13,1,xDelfina,Potion
 50.32,22003,Glowing Gem,800,1610.35,13,34,Frank,GR JADE REF GEIMS ER INS EVS
 50.13,28456,Ice Sealed Robe of the Sphinx,15000,30079.29,6,1,MUSACHI,CCC
