@@ -17,7 +17,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.32,25503,Magical Stone,198,625.09,8,25,PpsBps,APP SWORDS / LANCE APP / PET STR
 67.65,28442,Fire Sealed Coat of Evanescence,10000,30909.09,4,1,Che,Xiclets
 67.14,22004,Shining Gem,1350,4108.68,16,5,Darcy,********************************
-66.83,25211,Tropical Drumstick,29,87.44,4,20,cheapstuffsell,5
 66.18,22001,Furious Gem,1000,2957.06,10,1,xDelfina,Potion
 66.18,22001,Furious Gem,1000,2957.06,10,1,stuffseller,cheap
 64.29,22006,Spirit Gem,2444,6844.74,15,1,stallcito1,QWEQWEQWEQWEQW
@@ -46,6 +45,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.77,28418,Earth Sealed Kiss of the Cursed,3500,8700.0,5,1,Fortis,All cheap
 59.64,30118,Vial of Strength Reset,2500,6194.44,4,1,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 59.23,30172,Ticket to Treasure Island,250,613.23,7,16,A1exSamara,Refs  pbs  fb  pots  DW tix
+59.0,25211,Tropical Drumstick,29,70.73,5,20,cheapstuffsell,5
 58.96,28456,Ice Sealed Robe of the Sphinx,15555,37901.0,8,1,iFennec,PBS PURPLE
 58.62,26501,Tiny EXP Berry,1500,3625.0,3,1,staller2,Soul detect/field brew/cloud/BB
 58.4,22000,FieryGem,2222,5341.81,9,4,stallcito1,QWEQWEQWEQWEQW
