@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-98.8,26564,Meditation Potion,8,665.03,4,100,Shop1,darkblue
-96.24,26564,Meditation Potion,25,665.03,4,130,PALA02,garner
+98.79,26564,Meditation Potion,8,661.75,4,100,Shop1,darkblue
+96.22,26564,Meditation Potion,25,661.75,4,130,PALA02,garner
 92.38,30173,Ticket to Angler's Island,30,393.77,3,13,Shop1,darkblue
 91.04,2301,,2000,22322.48,5,1,HunterKim,Evan
 83.79,28212,Priestly Robe,1999,12333.0,3,1,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
@@ -8,11 +8,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.13,25495,Green Colorant,1000,4189.3,6,2,cheapstuffsell,5
 75.56,26563,Mushroom Soup,50,204.61,4,99,SellMeWhole,S>imps/5 stat/rep
 75.56,26563,Mushroom Soup,50,204.61,4,99,SellMeWhole,S>imps/5 stat/rep
-73.32,22004,Shining Gem,1350,5060.42,15,8,Darcy,********************************
+73.57,22004,Shining Gem,1350,5108.37,15,5,Darcy,********************************
 73.01,25439,Incantation Stone,300,1111.66,5,50,FreePalestine1,sell
 70.46,27034,Grenade Lv2,3499,11844.72,4,3,barako,FB GRENADE EXPLOSICE POTS ETC
 70.26,25440,Evanescence Stone,300,1008.87,9,38,FreePalestine1,sell
-69.93,26564,Meditation Potion,200,665.03,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
+69.78,26564,Meditation Potion,200,661.75,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 69.7,22001,Furious Gem,799,2636.93,10,2,iLilith,Cheapest ITEMS ever
 68.82,28406,Earth Sealed Staff of Abraxas.,999,3204.43,7,1,Tabitha,FULL STALL
 68.78,25212,Frozen Elixir,199,637.33,6,25,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
@@ -32,9 +32,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.26,29056,20 Cooking EXP Card,1000,2650.0,3,1,Commerce,ww3
 62.08,22001,Furious Gem,1000,2636.93,10,1,xDelfina,Potion
 62.08,22001,Furious Gem,1000,2636.93,10,1,stuffseller,cheap
+60.87,22004,Shining Gem,1999,5108.37,15,1,cudecachorro2,REPU|REF|RAGE|SOUL|BLADE|STAFF!!
 60.87,28326,Divine Grace Cap,29999,76665.67,3,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
-60.5,22004,Shining Gem,1999,5060.42,15,1,Uzi,detec
-60.5,22004,Shining Gem,1999,5060.42,15,1,cudecachorro2,REPU|REF|RAGE|SOUL|BLADE|STAFF!!
 59.75,26595,Standard Explosive Ball,1500,3727.0,4,3,Poliwag,asdasdasd
 59.28,30118,Vial of Strength Reset,2500,6138.89,4,1,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 58.92,26594,Novice Explosive Ball,200,486.91,8,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
@@ -49,15 +48,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.53,28458,Ice Sealed Staff of the Sphinx,15000,34506.0,6,1,MUSACHI,CCC
 55.92,22003,Glowing Gem,700,1588.03,14,1,Scrolls,DE RAGE PPS GPS REF REPS DW CHES
 55.38,25439,Incantation Stone,496,1111.66,5,3,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
-55.15,22000,FieryGem,2999,6686.5,9,2,cudecachorro2,REPU|REF|RAGE|SOUL|BLADE|STAFF!!
 53.94,28456,Ice Sealed Robe of the Sphinx,15000,32569.38,6,1,MUSACHI,CCC
 53.94,28456,Ice Sealed Robe of the Sphinx,15000,32569.38,6,1,Pablo,CHEAP CHEAPER CHIPOTLE
 53.19,25258,Spirit Feather,399,852.4,8,26,Disciplined1,Cheapest EnigmaPower DemonicRock
 52.77,22003,Glowing Gem,750,1588.03,14,1,pisslow,Cheep stuf sir
+52.04,22004,Shining Gem,2450,5108.37,15,5,stuffseller,cheap
 52.0,28434,Fire Sealed Robe of the Arcane,20000,41666.5,6,1,amiix,jack coin 7k coins cheap cleric
-51.59,22004,Shining Gem,2450,5060.42,15,5,stuffseller,cheap
 51.39,26591,Potion of Lion,1500,3085.82,12,1,Pablo,CHEAP CHEAPER CHIPOTLE
-50.6,22004,Shining Gem,2500,5060.42,15,1,pisslow,Cheep stuf sir
+51.06,22004,Shining Gem,2500,5108.37,15,1,pisslow,Cheep stuf sir
 50.44,25440,Evanescence Stone,500,1008.87,9,48,Frank,GR JADE REF GEIMS ER INS EVS
 50.44,25440,Evanescence Stone,500,1008.87,9,7,LunaMaya,S>HiddenHoney LambSkull PPS
 50.41,29013,Novice 15 Treasure Hunting EXP Card,250,504.11,5,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
