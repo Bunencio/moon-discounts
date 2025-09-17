@@ -7,10 +7,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.6,26594,Novice Explosive Ball,100,409.88,7,5,Scrolls,REF PPS GPS REPS DW CHEST  JACK
 74.56,25423,Evanescence Rock,200,786.3,13,1,PpsBps,APP SWORDS / LANCE APP / PET STR
 73.91,28326,Divine Grace Cap,29999,114999.5,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
+70.4,30119,Vial of Consitution Reset,999,3374.75,3,1,cudecachorro2,RING|DAGGER|ARMOR|SOUL|FLASH|REP
 69.97,22001,Furious Gem,888,2957.06,10,2,iLilith,Cheap
 69.3,26564,Meditation Potion,200,651.51,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 69.14,26002,Pharaoh Gem,700,2268.17,13,19,Ragnark23,tooth jackpot coin gold
-67.67,25503,Magical Stone,198,612.53,8,25,PpsBps,APP SWORDS / LANCE APP / PET STR
+68.32,25503,Magical Stone,198,625.09,8,25,PpsBps,APP SWORDS / LANCE APP / PET STR
 67.65,28442,Fire Sealed Coat of Evanescence,10000,30909.09,4,1,Che,Xiclets
 67.14,22004,Shining Gem,1350,4108.68,16,5,Darcy,********************************
 66.83,25211,Tropical Drumstick,29,87.44,4,20,cheapstuffsell,5
@@ -23,7 +24,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.64,30121,Vial of Accuracy Reset,2000,5500.0,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
 63.4,26594,Novice Explosive Ball,150,409.88,7,15,CStal1,afk
 63.06,25258,Spirit Feather,300,812.09,9,54,LunaMaya,S>HiddenHoney LamSkull FairyFood
-61.81,25507,Expert Stone,200,523.67,6,11,POPOR,PPS PBS JACKPOT C. ETC. SO CHEAP
+62.02,25507,Expert Stone,200,526.62,6,11,POPOR,PPS PBS JACKPOT C. ETC. SO CHEAP
 60.87,28155,Steel Platemail,4500,11500.0,3,1,Toad,equip crus+cham+ear rock+bow+st
 59.77,28418,Earth Sealed Kiss of the Cursed,3500,8700.0,5,1,Fortis,All cheap
 59.64,30118,Vial of Strength Reset,2500,6194.44,4,1,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
@@ -33,7 +34,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.62,26501,Tiny EXP Berry,1500,3625.0,3,1,staller2,Soul detect/field brew/cloud/BB
 58.09,25493,Orange Colorant,1000,2385.81,4,2,cheapstuffsell,5
 57.18,28430,Fire Sealed Robe of Malediction,4950,11558.82,7,1,iLegolas,sealed 50 . pps . lighting .rock
-57.17,30119,Vial of Consitution Reset,1499,3499.75,3,1,cudecachorro2,SOUL|FLASH|DAGGER|ARMOR|REPU!!!!
 56.81,28450,Fire Sealed Tooth of Evanescence,15000,34730.69,6,1,Ludopat1n,Fairy skating cheap equip
 56.74,28430,Fire Sealed Robe of Malediction,5000,11558.82,7,1,Ghotter,free palestine
 56.74,28430,Fire Sealed Robe of Malediction,5000,11558.82,7,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
@@ -41,8 +41,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.52,28326,Divine Grace Cap,49999,114999.5,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
 56.19,22006,Spirit Gem,2999,6844.74,15,5,Bebang,CHEAPO CRAP ITEMS
 56.16,28423,Mantle of the Cursed Flame,89000,202999.67,3,1,Halimuyak,Rings/gears/etc
-55.55,26590,Potion of Soul,1499,3372.47,16,1,AltDude,buy my stuff
-55.52,26590,Potion of Soul,1500,3372.47,16,9,Vendedor,Promotion
+55.67,26590,Potion of Soul,1499,3381.76,16,1,AltDude,buy my stuff
+55.64,26590,Potion of Soul,1500,3381.76,16,9,Vendedor,Promotion
 55.27,28436,Fire Sealed Staff of Evanescence,19500,43590.82,5,1,SSTTAALL,ICE-FIRE-EARTH STAFF/PBS/JC/POTS
 54.92,28400,Earth Sealed Platemail of the Cursed Soul,7500,16635.78,7,1,bankerrr,Demonic Rage | Bank Cleaning
 54.54,28440,Fire Sealed Roar of Evanescence,5000,10999.6,3,1,Wallnut,The Corner SHop
@@ -54,7 +54,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.21,22003,Glowing Gem,750,1569.43,12,1,pisslow,Cheep stuf sir
 51.47,28442,Fire Sealed Coat of Evanescence,15000,30909.09,4,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 51.47,28442,Fire Sealed Coat of Evanescence,15000,30909.09,4,1,POPOR,PPS PBS JACKPOT C. ETC. SO CHEAP
-51.35,22004,Shining Gem,1999,4108.68,16,1,cudecachorro2,SOUL|FLASH|DAGGER|ARMOR|REPU!!!!
+51.35,22004,Shining Gem,1999,4108.68,16,1,cudecachorro2,RING|DAGGER|ARMOR|SOUL|FLASH|REP
 51.2,26594,Novice Explosive Ball,200,409.88,7,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
 51.09,30172,Ticket to Treasure Island,300,613.35,7,18,GodSpeed,REF DW TX
 50.93,26559,Cooked Crab,1100,2241.47,5,70,Ninja17,heal up nib
