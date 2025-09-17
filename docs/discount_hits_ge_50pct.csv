@@ -1,13 +1,13 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.07,2301,,2000,22399.9,5,1,HunterKim,Evan
+86.98,25476,Hairstyling Voucher,10000,76785.71,4,1,Sulumania,C H E A P Y - S H O P Y
 86.66,26564,Meditation Potion,8,59.97,4,100,Shop1,darkblue
-83.79,28212,Priestly Robe,1999,12333.0,3,1,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
 80.44,26594,Novice Explosive Ball,100,511.25,8,5,Scrolls,DE RAGE PPS GPS REF REPS DW CHES
 76.13,25495,Green Colorant,1000,4189.3,6,2,cheapstuffsell,5
-74.73,22001,Furious Gem,799,3161.77,12,2,iLilith,Cheapest ITEMS ever
+74.61,22001,Furious Gem,799,3146.58,12,2,iLilith,Cheapest ITEMS ever
 74.49,26563,Mushroom Soup,50,196.03,3,99,SellMeWhole,S>imps/5 stat/rep
 74.49,26563,Mushroom Soup,50,196.03,3,99,SellMeWhole,S>imps/5 stat/rep
-73.12,25439,Incantation Stone,300,1116.22,5,49,FreePalestine1,sell
+73.35,25439,Incantation Stone,300,1125.5,5,47,FreePalestine1,sell
 71.42,22004,Shining Gem,1350,4724.12,16,5,Darcy,********************************
 70.66,28406,Earth Sealed Staff of Abraxas.,999,3405.17,6,1,Tabitha,FULL STALL
 70.26,25440,Evanescence Stone,300,1008.87,9,38,FreePalestine1,sell
@@ -17,9 +17,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.28,25212,Frozen Elixir,200,651.0,6,84,Online,cheap asf
 69.28,25212,Frozen Elixir,200,651.0,6,47,Online,cheap asf
 69.28,25212,Frozen Elixir,200,651.0,6,5,cheapcheapcheap,cheap
-68.47,28400,Earth Sealed Platemail of the Cursed Soul,5000,15858.0,8,1,bankerrr,Demonic Rage | Bank Cleaning
-68.37,22001,Furious Gem,1000,3161.77,12,1,xDelfina,Potion
-68.37,22001,Furious Gem,1000,3161.77,12,1,stuffseller,cheap
+68.22,22001,Furious Gem,1000,3146.58,12,1,xDelfina,Potion
+68.22,22001,Furious Gem,1000,3146.58,12,1,stuffseller,cheap
+67.33,28400,Earth Sealed Platemail of the Cursed Soul,5000,15302.44,7,1,bankerrr,Demonic Rage | Bank Cleaning
 66.91,22000,FieryGem,2222,6714.03,7,4,stallcito1,QWEQWEQWEQWEQW
 65.47,26590,Potion of Soul,999,2892.97,16,10,hunterx,DErage/fb/bp/pots/xp/repu
 65.44,26589,Potion of Bull,999,2890.49,14,1,AltDude,buy my stuff
@@ -50,8 +50,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.39,28418,Earth Sealed Kiss of the Cursed,3500,8214.0,6,1,Fortis,All cheap
 57.03,22006,Spirit Gem,2999,6979.59,13,8,Bebang,CHEAPO CRAP ITEMS
 56.81,25397,Enchanted Stone,300,694.61,3,72,S0phi,Treasure / Dolphin  /  Minion
+55.93,25439,Incantation Stone,496,1125.5,5,3,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 55.92,22003,Glowing Gem,700,1588.03,14,1,Scrolls,DE RAGE PPS GPS REF REPS DW CHES
-55.56,25439,Incantation Stone,496,1116.22,5,3,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 54.32,28458,Ice Sealed Staff of the Sphinx,15000,32839.33,7,1,Electricman1,DemoSoul/Jp MvM/StrmGlv+5spr/Rck
 54.32,28458,Ice Sealed Staff of the Sphinx,15000,32839.33,7,1,Electricman1,DemoSoul/Jp MvM/StrmGlv+5spr/Rck
 54.32,28458,Ice Sealed Staff of the Sphinx,15000,32839.33,7,1,MUSACHI,CCC
@@ -61,14 +61,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.52,28442,Fire Sealed Coat of Evanescence,14999,32272.64,5,1,CallMeBaby,Cheiap
 53.52,28442,Fire Sealed Coat of Evanescence,15000,32272.64,5,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
 52.77,22003,Glowing Gem,750,1588.03,14,1,pisslow,Cheep stuf sir
-52.71,28400,Earth Sealed Platemail of the Cursed Soul,7500,15858.0,8,1,bankerrr,Demonic Rage | Bank Cleaning
-52.56,22001,Furious Gem,1500,3161.77,12,1,loyalty1,iam selling this
-52.56,22001,Furious Gem,1500,3161.77,12,10,sstido,selling
-52.42,25258,Spirit Feather,399,838.56,8,11,Disciplined1,Cheapest EnigmaPower DemonicRock
+52.33,22001,Furious Gem,1500,3146.58,12,1,loyalty1,iam selling this
+52.33,22001,Furious Gem,1500,3146.58,12,10,sstido,selling
+52.05,25258,Spirit Feather,399,832.19,9,11,Disciplined1,Cheapest EnigmaPower DemonicRock
 51.98,28472,Ice Sealed Bow of Enigma,107000,222833.17,5,1,Pablo,CHEAP CHEAPER CHIPOTLE
 51.16,28450,Fire Sealed Tooth of Evanescence,19000,38900.0,3,1,Ludopat1n,Fairy Skating cheap stuff
 51.1,26594,Novice Explosive Ball,250,511.25,8,2,PALA02,garner
 51.04,29013,Novice 15 Treasure Hunting EXP Card,250,510.67,5,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
+50.99,28400,Earth Sealed Platemail of the Cursed Soul,7500,15302.44,7,1,bankerrr,Demonic Rage | Bank Cleaning
 50.85,26591,Potion of Lion,1500,3051.7,14,1,Pablo,CHEAP CHEAPER CHIPOTLE
 50.65,28434,Fire Sealed Robe of the Arcane,19999,40526.21,7,1,Ludopat1n,Fairy Skating cheap stuff
 50.44,25440,Evanescence Stone,500,1008.87,9,48,Frank,GR JADE REF GEIMS ER INS EVS
