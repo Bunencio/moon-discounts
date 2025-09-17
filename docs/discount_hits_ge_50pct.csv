@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-98.8,26564,Meditation Potion,8,668.25,4,100,Shop1,darkblue
-96.26,26564,Meditation Potion,25,668.25,4,130,PALA02,garner
+98.8,26564,Meditation Potion,8,665.03,4,100,Shop1,darkblue
+96.24,26564,Meditation Potion,25,665.03,4,130,PALA02,garner
 92.38,30173,Ticket to Angler's Island,30,393.77,3,13,Shop1,darkblue
 91.04,2301,,2000,22322.48,5,1,HunterKim,Evan
 83.79,28212,Priestly Robe,1999,12333.0,3,1,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
@@ -12,7 +12,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.01,25439,Incantation Stone,300,1111.66,5,50,FreePalestine1,sell
 70.46,27034,Grenade Lv2,3499,11844.72,4,3,barako,FB GRENADE EXPLOSICE POTS ETC
 70.26,25440,Evanescence Stone,300,1008.87,9,38,FreePalestine1,sell
-70.07,26564,Meditation Potion,200,668.25,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
+69.93,26564,Meditation Potion,200,665.03,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 69.7,22001,Furious Gem,799,2636.93,10,2,iLilith,Cheapest ITEMS ever
 68.82,28406,Earth Sealed Staff of Abraxas.,999,3204.43,7,1,Tabitha,FULL STALL
 68.78,25212,Frozen Elixir,199,637.33,6,25,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
@@ -56,7 +56,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.77,22003,Glowing Gem,750,1588.03,14,1,pisslow,Cheep stuf sir
 52.0,28434,Fire Sealed Robe of the Arcane,20000,41666.5,6,1,amiix,jack coin 7k coins cheap cleric
 51.59,22004,Shining Gem,2450,5060.42,15,5,stuffseller,cheap
-51.4,26591,Potion of Lion,1500,3086.33,12,1,Pablo,CHEAP CHEAPER CHIPOTLE
+51.39,26591,Potion of Lion,1500,3085.82,12,1,Pablo,CHEAP CHEAPER CHIPOTLE
 50.6,22004,Shining Gem,2500,5060.42,15,1,pisslow,Cheep stuf sir
 50.44,25440,Evanescence Stone,500,1008.87,9,48,Frank,GR JADE REF GEIMS ER INS EVS
 50.44,25440,Evanescence Stone,500,1008.87,9,7,LunaMaya,S>HiddenHoney LambSkull PPS
