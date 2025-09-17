@@ -34,6 +34,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,25506,Expert Scroll,siggy,Mermaid heart expo tenta expscro,1750,2873.85,1123.85,19,21353.22,39.11,3
 2025-09-17,25258,Spirit Feather,tiendaonline,offer offer offer,499,812.09,313.09,90,28177.98,38.55,9
 2025-09-17,22000,FieryGem,EngrAndy,CHEAPEST GEMS IN TOWN ALMOST OUT,3500,5399.3,1899.3,55,104461.71,35.18,8
+2025-09-17,28417,Corset of Incantation,Myro,SS itens 45 - Soul Detector,55000,83703.67,28703.67,1,28703.67,34.29,3
 2025-09-17,30022,Buffing Card,Cardano,Golden Rock / Std Pos / Exp Poss,31999,48332.93,16333.93,8,130671.43,33.79,7
 2025-09-17,25056,Willow Wood Log,Olympus,Willow Wood Log cheap,400,603.33,203.33,99,20129.31,33.7,3
 2025-09-17,28468,Ice Sealed Mantle of Enigma,Defender,SS EQUIPS 60-65 BOW SEAL GEMMED,50000,75000.0,25000.0,1,25000.0,33.33,3
@@ -104,7 +105,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,26346,Lantern,DinheiroFacil,CHEAP LANTERNS FREE,5250,6208.29,958.29,66,63247.37,15.44,8
 2025-09-17,26592,Flash Bomb,teryy,CHEAP FB FB FB FB FB FB FB,745,878.84,133.84,200,26767.38,15.23,23
 2025-09-17,26377,Pharaoh's Lantern,Gappie,cheap,9999,11772.23,1773.23,35,62063.04,15.06,10
-2025-09-17,25416,Cloud Heart,Traderboy,DemoStrike/WaterRock,18000,21167.76,3167.76,12,38013.12,14.97,6
 2025-09-17,26592,Flash Bomb,JUMANJI,FBs FBs FBs FBs FBs FBs FBs FBs,749,878.84,129.84,200,25967.38,14.77,23
 2025-09-17,26592,Flash Bomb,JUMANJI,FBs FBs FBs FBs FBs FBs FBs FBs,749,878.84,129.84,200,25967.38,14.77,23
 2025-09-17,30140,10x Crystal,Kayn1,sell imps,9500,11122.3,1622.3,44,71381.29,14.59,3
@@ -122,6 +122,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,11444,13155.79,1711.79,24,41082.98,13.01,17
 2025-09-17,27025,Radiation Lv1,SetSeller,cheapest in town,4000,4594.0,594.0,200,118800.0,12.93,4
 2025-09-17,27025,Radiation Lv1,SetSeller,cheapest in town,4000,4594.0,594.0,75,44550.0,12.93,4
+2025-09-17,28449,Cloak of Evanescence,jojoba2,cheap,1200000,1375000.0,175000.0,1,175000.0,12.73,3
 2025-09-17,25031,Refining Gem,Stol2,Cheap,11500,13155.79,1655.79,26,43050.56,12.59,17
 2025-09-17,25031,Refining Gem,Frank,GR JADE REF GEIMS ER INS EVS,11500,13155.79,1655.79,14,23181.07,12.59,17
 2025-09-17,22011,Gemof Sout,stallzunha,Ug Soul Cheap !!,1100000,1255714.29,155714.29,1,155714.29,12.4,4
@@ -137,7 +138,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,22007,Gem of Striking,Sniiper,UG RAGE STRIKI DEMON SOUL  +++,1500000,1677777.78,177777.78,1,177777.78,10.6,3
 2025-09-17,22007,Gem of Striking,GemSeller,ug and demo,1500000,1677777.78,177777.78,1,177777.78,10.6,3
 2025-09-17,25031,Refining Gem,Shop1,darkblue,11777,13155.79,1378.79,25,34469.77,10.48,17
-2025-09-17,28449,Cloak of Evanescence,jojoba2,cheap,1200000,1333333.33,133333.33,1,133333.33,10.0,3
 2025-09-17,22004,Shining Gem,Hiya,ALOT CHEAP ITENZ,3699,4108.68,409.68,51,20893.46,9.97,16
 2025-09-17,26002,Pharaoh Gem,pisslow,Cheep stuf sir,2050,2268.17,218.17,99,21598.87,9.62,13
 2025-09-17,26002,Pharaoh Gem,cheapstuffguys,cheap,2050,2268.17,218.17,99,21598.87,9.62,13
@@ -164,6 +164,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/IMPS/FB,4799,5242.15,443.15,99,43872.0,8.45,15
 2025-09-17,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/IMPS/FB,4799,5242.15,443.15,99,43872.0,8.45,15
 2025-09-17,27020,Gold Pirate Scroll,PasarGelap,LV22 2ND AGI PET / GPS / CHAOS,20899,22744.91,1845.91,44,81220.13,8.12,15
+2025-09-17,30135,Demonic Rock,MyDick,Demonic rock / enig power,3000,3265.25,265.25,99,26260.2,8.12,9
 2025-09-17,25430,Enigma Power,Garp,ENIGMA POWER SO CHEAP FAST,2500,2717.6,217.6,99,21541.96,8.01,5
 2025-09-17,25430,Enigma Power,Garp,ENIGMA POWER SO CHEAP FAST,2500,2717.6,217.6,97,21106.77,8.01,5
 2025-09-17,29313,Ring of Spell,Seller1,HL SM ITENS,374999,407499.5,32500.5,1,32500.5,7.98,3
@@ -171,7 +172,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,27020,Gold Pirate Scroll,Pandemia,cleaning bank... all u need,20999,22744.91,1745.91,25,43647.8,7.68,15
 2025-09-17,27020,Gold Pirate Scroll,Gryffindor,GPS.PPS.REPU.JACKPOT.POTS,21000,22744.91,1744.91,15,26173.68,7.67,15
 2025-09-17,22021,Yellow Jade,Mikosita,SELL JACKPOT/GPS/REF/IMPS/FB,1599999,1729999.8,130000.8,1,130000.8,7.51,3
-2025-09-17,30135,Demonic Rock,MyDick,Demonic rock / enig power,3000,3229.17,229.17,99,22687.77,7.1,10
 2025-09-17,26377,Pharaoh's Lantern,Akim,PVP POTIONS LNTRN W8LES SKAT FB,11000,11772.23,772.23,54,41700.41,6.56,10
 2025-09-17,27019,Purple Pirate Scroll,xWind,DOE PPS LIGHTNING,4900,5242.15,342.15,99,33873.0,6.53,15
 2025-09-17,27019,Purple Pirate Scroll,xWind,DOE PPS LIGHTNING,4900,5242.15,342.15,99,33873.0,6.53,15
@@ -188,6 +188,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,26377,Pharaoh's Lantern,Virginia,Pharaoh Lantern CHEAPEST,11111,11772.23,661.23,150,99184.47,5.62,10
 2025-09-17,27019,Purple Pirate Scroll,FARMBR,sell,4950,5242.15,292.15,76,22203.52,5.57,15
 2025-09-17,27020,Gold Pirate Scroll,FrenchGuy971,GPS AND COINS,21500,22744.91,1244.91,34,42327.01,5.47,15
+2025-09-17,28449,Cloak of Evanescence,KyloRen,Lv 55 Unseal Voy Armor Gemmed,1300000,1375000.0,75000.0,1,75000.0,5.45,3
 2025-09-17,22016,Demonic Gem of Sout,stallcito1,QWEQWEQWEQWEQW,1750000,1843749.88,93749.88,1,93749.88,5.08,4
 2025-09-17,26585,Blessed Potion,DeedOfSale,BLESS AND PUSH FULL WAVE 109K EA,109999,115824.05,5825.05,22,128151.1,5.03,5
 2025-09-17,26576,Iron Brew,MUTAA,MUTA SA IRING!,7899,8297.47,398.47,93,37057.71,4.8,10
@@ -217,7 +218,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-17,30139,100x Crystal,IamSellingThis,Cheapest IMPs IN the Server !!!!,93000,95883.11,2883.11,65,187402.24,3.01,8
 2025-09-17,30139,100x Crystal,Jop4V,IMPS/MVM/JACKPOT/CODFISH/SALMON,92999,95883.11,2884.11,16,46145.78,3.01,8
 2025-09-17,30139,100x Crystal,KarateCruZ,S> IMPS,93400,95883.11,2483.11,54,134088.02,2.59,8
-2025-09-17,28449,Cloak of Evanescence,KyloRen,Lv 55 Unseal Voy Armor Gemmed,1300000,1333333.33,33333.33,1,33333.33,2.5,3
 2025-09-17,22016,Demonic Gem of Sout,Kikiroto2,Selling Voy Eqs Dm On uba Offers,1800000,1843749.88,43749.88,3,131249.62,2.37,4
 2025-09-17,22016,Demonic Gem of Sout,Freya,demo soul // gbs / 60 sealed,1800000,1843749.88,43749.88,1,43749.88,2.37,4
 2025-09-17,26573,Demonic Potion,TotemCookings,Totem Cookings Made wLove n Weed,19500,19879.73,379.73,99,37593.39,1.91,5
