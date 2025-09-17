@@ -19,7 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.23,28442,Fire Sealed Coat of Evanescence,10000,32500.0,4,1,Che,Xiclets
 68.94,25476,Hairstyling Voucher,25000,80500.0,3,2,ShowMaker,GPS / Ref / Hair Vouch
 68.57,26564,Meditation Potion,200,636.28,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
-68.47,26002,Pharaoh Gem,700,2220.03,11,19,Ragnark23,tooth jackpot coin gold
+68.49,26002,Pharaoh Gem,700,2221.85,11,19,Ragnark23,tooth jackpot coin gold
 65.92,26590,Potion of Soul,1000,2933.95,18,1,Anuel,:D
 65.81,22001,Furious Gem,1000,2924.65,10,1,loyalty1,selling sssssssssss
 65.81,22001,Furious Gem,1000,2924.65,10,1,xDelfina,Potion
@@ -54,7 +54,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.0,2301,,20000,49999.9,5,1,Djay,>> Make The best Cap <<
 60.0,2301,,20000,49999.9,5,1,Djay,>> Make The best Cap <<
 59.64,30118,Vial of Strength Reset,2500,6194.44,4,1,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
-59.11,30172,Ticket to Treasure Island,250,611.46,7,16,A1exSamara,Refs  pbs  fb  pots  DW tix
+59.47,30172,Ticket to Treasure Island,250,616.77,7,16,A1exSamara,Refs  pbs  fb  pots  DW tix
 59.06,22004,Shining Gem,1999,4882.4,16,1,cudecachorro2,RING|DAGGER|ARMOR|SOUL|FLASH|REP
 59.0,25211,Tropical Drumstick,29,70.73,5,20,cheapstuffsell,5
 58.62,26501,Tiny EXP Berry,1500,3625.0,3,1,staller2,Soul detect/field brew/cloud/BB
@@ -83,9 +83,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.61,28406,Earth Sealed Staff of Abraxas.,999,2108.0,4,1,Tabitha,FULL STALL
 51.87,22003,Glowing Gem,750,1558.41,12,1,pisslow,Cheep stuf sir
 51.74,25490,Brown Dye,44,91.18,3,21,OsToWBaby,THE CHEAPEST HAIR PRODUTCS
+51.36,30172,Ticket to Treasure Island,300,616.77,7,6,ShowMaker,GPS / Ref / Hair Vouch
+51.36,30172,Ticket to Treasure Island,300,616.77,7,18,GodSpeed,REF DW TX
 51.2,26594,Novice Explosive Ball,200,409.88,7,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
-50.94,30172,Ticket to Treasure Island,300,611.46,7,6,ShowMaker,GPS / Ref / Hair Vouch
-50.94,30172,Ticket to Treasure Island,300,611.46,7,18,GodSpeed,REF DW TX
 50.93,26559,Cooked Crab,1100,2241.47,5,70,Ninja17,heal up nib
 50.78,26000,Sandy Coin,190,386.02,8,1,Anuel,:D
 50.71,25440,Evanescence Stone,500,1014.36,9,47,Frank,GR JADE REF GEIMS ER INS EVS
