@@ -1,6 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 98.77,26564,Meditation Potion,8,651.51,4,100,Shop1,darkblue
 96.16,26564,Meditation Potion,25,651.51,4,130,PALA02,garner
+85.02,22000,FieryGem,800,5341.81,9,2,M0Nster,Cheap
 77.79,28212,Priestly Robe,1999,8999.67,3,1,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
 75.85,26594,Novice Explosive Ball,99,409.88,7,35,Uzi,pps
 75.74,25495,Green Colorant,1000,4121.44,5,2,cheapstuffsell,5
@@ -10,7 +11,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.92,28458,Ice Sealed Staff of the Sphinx,10000,35611.0,8,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
 69.97,22001,Furious Gem,888,2957.06,10,2,iLilith,Cheap
 69.3,26564,Meditation Potion,200,651.51,4,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
-69.14,26002,Pharaoh Gem,700,2268.17,13,19,Ragnark23,tooth jackpot coin gold
+69.23,26002,Pharaoh Gem,700,2274.73,13,19,Ragnark23,tooth jackpot coin gold
 68.32,25503,Magical Stone,198,625.09,8,25,PpsBps,APP SWORDS / LANCE APP / PET STR
 67.65,28442,Fire Sealed Coat of Evanescence,10000,30909.09,4,1,Che,Xiclets
 67.14,22004,Shining Gem,1350,4108.68,16,5,Darcy,********************************
@@ -31,9 +32,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.64,30118,Vial of Strength Reset,2500,6194.44,4,1,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 59.24,30172,Ticket to Treasure Island,250,613.35,7,16,A1exSamara,Refs  pbs  fb  pots  DW tix
 58.96,28456,Ice Sealed Robe of the Sphinx,15555,37901.0,8,1,iFennec,PBS PURPLE
-58.85,22000,FieryGem,2222,5399.3,8,4,stallcito1,QWEQWEQWEQWEQW
-58.85,22000,FieryGem,2222,5399.3,8,8,Mikzx,IMPS
 58.62,26501,Tiny EXP Berry,1500,3625.0,3,1,staller2,Soul detect/field brew/cloud/BB
+58.4,22000,FieryGem,2222,5341.81,9,4,stallcito1,QWEQWEQWEQWEQW
+58.4,22000,FieryGem,2222,5341.81,9,8,Mikzx,IMPS
 58.09,25493,Orange Colorant,1000,2385.81,4,2,cheapstuffsell,5
 57.9,28428,Fire Sealed Dance of Evanescence,19999,47499.83,5,1,xWest,Cheapest crussss
 57.88,28458,Ice Sealed Staff of the Sphinx,15000,35611.0,8,1,MUSACHI,60
