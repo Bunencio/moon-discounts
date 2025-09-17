@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 98.97,26564,Meditation Potion,8,774.36,3,100,Shop1,darkblue
 90.78,30173,Ticket to Angler's Island,30,325.5,3,13,Shop1,darkblue
-85.02,22000,FieryGem,800,5341.81,9,2,M0Nster,Cheap
+86.23,22000,FieryGem,800,5810.27,10,2,M0Nster,Cheap
 77.79,28212,Priestly Robe,1999,8999.67,3,1,DiscipleTwo,Acc Boots|All BPS|Frozen Elix|PF
 75.89,26594,Novice Explosive Ball,99,410.6,6,35,Uzi,detector
 75.74,25495,Green Colorant,1000,4121.44,5,2,cheapstuffsell,5
@@ -9,22 +9,29 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.57,25423,Evanescence Rock,200,786.39,12,1,PpsBps,APP SWORDS / LANCE APP / PET STR
 74.17,26564,Meditation Potion,200,774.36,3,63,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 73.91,28326,Divine Grace Cap,29999,114999.5,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
+73.64,25439,Incantation Stone,300,1137.94,7,44,FreePalestine1,sell
+72.35,22004,Shining Gem,1350,4882.4,16,5,Darcy,********************************
+72.16,26589,Potion of Bull,700,2514.63,16,1,Anuel,:D
 71.92,28458,Ice Sealed Staff of the Sphinx,10000,35611.0,8,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
+70.42,25440,Evanescence Stone,300,1014.36,9,37,FreePalestine1,sell
 70.4,30119,Vial of Consitution Reset,999,3374.75,3,1,cudecachorro2,RING|DAGGER|ARMOR|SOUL|FLASH|REP
-70.15,22001,Furious Gem,888,2975.05,10,2,iLilith,Cheap
-69.09,26002,Pharaoh Gem,700,2264.41,12,19,Ragnark23,tooth jackpot coin gold
+70.25,22001,Furious Gem,888,2985.03,10,2,iLilith,Cheap
+69.06,26002,Pharaoh Gem,700,2262.72,12,19,Ragnark23,tooth jackpot coin gold
 68.94,25476,Hairstyling Voucher,25000,80500.0,3,2,ShowMaker,GPS / Ref / Hair Vouch
 68.22,25503,Magical Stone,198,622.94,9,25,PpsBps,APP SWORDS / LANCE APP / PET STR
-68.19,26589,Potion of Bull,800,2514.77,16,1,Anuel,IMS | EQUIP | GPS | 50 SPR RING
 67.65,28442,Fire Sealed Coat of Evanescence,10000,30909.09,4,1,Che,Xiclets
-67.44,22004,Shining Gem,1350,4145.84,15,5,Darcy,********************************
-66.39,22001,Furious Gem,1000,2975.05,10,1,xDelfina,Potion
-66.39,22001,Furious Gem,1000,2975.05,10,1,stuffseller,cheap
-64.29,22006,Spirit Gem,2444,6844.74,15,1,stallcito1,QWEQWEQWEQWEQW
+66.5,22001,Furious Gem,1000,2985.03,10,1,xDelfina,Potion
+66.5,22001,Furious Gem,1000,2985.03,10,1,stuffseller,cheap
+65.85,26590,Potion of Soul,1000,2928.46,18,1,Anuel,:D
+64.85,25439,Incantation Stone,400,1137.94,7,1,SSTTAALL,ICE-FIRE-EARTH STAFF/PBS/JC/POTS
+64.57,22006,Spirit Gem,2444,6898.62,15,1,stallcito1,QWEQWEQWEQWEQW
+63.92,25440,Evanescence Stone,366,1014.36,9,4,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 63.64,30121,Vial of Accuracy Reset,2000,5500.0,5,4,Tom,PVP POTIONS LNTRN W8LESS EB DW
 63.47,26594,Novice Explosive Ball,150,410.6,6,15,CStal1,afk
-63.06,25258,Spirit Feather,300,812.09,9,54,LunaMaya,S>HiddenHoney LamSkull FairyFood
-62.44,26590,Potion of Soul,1100,2928.65,18,1,Anuel,IMS | EQUIP | GPS | 50 SPR RING
+62.67,25258,Spirit Feather,300,803.63,9,54,LunaMaya,S>HiddenHoney LamSkull FairyFood
+62.54,25440,Evanescence Stone,380,1014.36,9,7,LunaMaya,S>HiddenHoney LamSkull FairyFood
+61.76,22000,FieryGem,2222,5810.27,10,4,stallcito1,QWEQWEQWEQWEQW
+61.76,22000,FieryGem,2222,5810.27,10,8,Mikzx,A
 60.87,28155,Steel Platemail,4500,11500.0,3,1,Toad,equip crus+cham+ear rock+bow+st
 60.42,28456,Ice Sealed Robe of the Sphinx,15000,37901.0,8,1,MUSACHI,60
 60.42,28456,Ice Sealed Robe of the Sphinx,15000,37901.0,8,1,Pablo,CHEAP CHEAPER CHIPOTLE
@@ -45,12 +52,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.0,2301,,20000,49999.9,5,1,Djay,>> Make The best Cap <<
 60.0,2301,,20000,49999.9,5,1,Djay,>> Make The best Cap <<
 59.64,30118,Vial of Strength Reset,2500,6194.44,4,1,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
-59.09,30172,Ticket to Treasure Island,250,611.11,7,16,A1exSamara,Refs  pbs  fb  pots  DW tix
+59.09,30172,Ticket to Treasure Island,250,611.05,7,16,A1exSamara,Refs  pbs  fb  pots  DW tix
+59.06,22004,Shining Gem,1999,4882.4,16,1,cudecachorro2,RING|DAGGER|ARMOR|SOUL|FLASH|REP
 59.0,25211,Tropical Drumstick,29,70.73,5,20,cheapstuffsell,5
 58.96,28456,Ice Sealed Robe of the Sphinx,15555,37901.0,8,1,iFennec,PBS PURPLE
 58.62,26501,Tiny EXP Berry,1500,3625.0,3,1,staller2,Soul detect/field brew/cloud/BB
-58.4,22000,FieryGem,2222,5341.81,9,4,stallcito1,QWEQWEQWEQWEQW
-58.4,22000,FieryGem,2222,5341.81,9,8,Mikzx,A
 58.09,25493,Orange Colorant,1000,2385.81,4,2,cheapstuffsell,5
 57.9,28428,Fire Sealed Dance of Evanescence,19999,47499.83,5,1,xWest,Cheapest crussss
 57.88,28458,Ice Sealed Staff of the Sphinx,15000,35611.0,8,1,MUSACHI,60
@@ -60,9 +66,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.81,28450,Fire Sealed Tooth of Evanescence,15000,34730.69,6,1,Ludopat1n,Fairy skating cheap equip
 56.74,28430,Fire Sealed Robe of Malediction,5000,11558.82,7,1,Ghotter,free palestine
 56.74,28430,Fire Sealed Robe of Malediction,5000,11558.82,7,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
+56.53,22006,Spirit Gem,2999,6898.62,15,5,Bebang,CHEAPO CRAP ITEMS
 56.52,28326,Divine Grace Cap,49999,114999.5,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
+56.41,25439,Incantation Stone,496,1137.94,7,3,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 56.32,28458,Ice Sealed Staff of the Sphinx,15555,35611.0,8,1,iFennec,PBS PURPLE
-56.19,22006,Spirit Gem,2999,6844.74,15,5,Bebang,CHEAPO CRAP ITEMS
 55.27,28436,Fire Sealed Staff of Evanescence,19500,43590.82,5,1,SSTTAALL,ICE-FIRE-EARTH STAFF/PBS/JC/POTS
 54.92,26563,Mushroom Soup,99,219.62,3,9,cudecachorro2,RING|DAGGER|ARMOR|SOUL|FLASH|REP
 54.55,28418,Earth Sealed Kiss of the Cursed,3500,7700.0,4,1,Fortis,All cheap
@@ -72,19 +79,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.29,28476,Ice Sealed Kris of the Sphinx,40000,87499.75,7,1,ImNotPino,45 CLER UNS MC NECK SPR RING 60
 54.15,29056,20 Cooking EXP Card,1000,2181.14,4,1,bankerrr,Demonic Rage | Bank Cleaning
 54.15,29056,20 Cooking EXP Card,1000,2181.14,4,1,Commerce,ww3
-53.13,25439,Incantation Stone,300,640.1,6,44,FreePalestine1,sell
 53.0,25484,Green Dye,44,93.62,3,15,OsToWBaby,THE CHEAPEST HAIR PRODUTCS
-52.21,22003,Glowing Gem,750,1569.43,12,1,pisslow,Cheep stuf sir
 52.12,28406,Earth Sealed Staff of Abraxas.,999,2086.4,5,1,Tabitha,FULL STALL
-51.78,22004,Shining Gem,1999,4145.84,15,1,cudecachorro2,RING|DAGGER|ARMOR|SOUL|FLASH|REP
+51.87,22003,Glowing Gem,750,1558.41,12,1,pisslow,Cheep stuf sir
 51.74,25490,Brown Dye,44,91.18,3,21,OsToWBaby,THE CHEAPEST HAIR PRODUTCS
 51.47,28442,Fire Sealed Coat of Evanescence,15000,30909.09,4,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 51.47,28442,Fire Sealed Coat of Evanescence,15000,30909.09,4,1,POPOR,PPS PBS JACKPOT C. ETC. SO CHEAP
 51.29,26594,Novice Explosive Ball,200,410.6,6,84,Tom,PVP POTIONS LNTRN W8LESS EB DW
 50.93,26559,Cooked Crab,1100,2241.47,5,70,Ninja17,heal up nib
-50.91,30172,Ticket to Treasure Island,300,611.11,7,6,ShowMaker,GPS / Ref / Hair Vouch
-50.91,30172,Ticket to Treasure Island,300,611.11,7,18,GodSpeed,REF DW TX
-50.87,25258,Spirit Feather,399,812.09,9,11,Disciplined1,Cheapest EnigmaPower DemonicRock
-50.74,25258,Spirit Feather,400,812.09,9,69,bruna99,mvm
-50.57,25440,Evanescence Stone,300,606.92,8,37,FreePalestine1,sell
+50.9,30172,Ticket to Treasure Island,300,611.05,7,6,ShowMaker,GPS / Ref / Hair Vouch
+50.9,30172,Ticket to Treasure Island,300,611.05,7,18,GodSpeed,REF DW TX
+50.78,26000,Sandy Coin,190,386.02,8,1,Anuel,:D
+50.71,25440,Evanescence Stone,500,1014.36,9,47,Frank,GR JADE REF GEIMS ER INS EVS
 50.47,25486,Blue Dye,44,88.84,3,26,OsToWBaby,THE CHEAPEST HAIR PRODUTCS
+50.35,25258,Spirit Feather,399,803.63,9,11,Disciplined1,Cheapest EnigmaPower DemonicRock
+50.23,25258,Spirit Feather,400,803.63,9,69,bruna99,mvm
