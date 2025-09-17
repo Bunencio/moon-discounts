@@ -21,9 +21,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.71,22001,Furious Gem,1000,3196.24,12,1,xDelfina,Potion
 68.71,22001,Furious Gem,1000,3196.24,12,1,stuffseller,cheap
 67.33,28400,Earth Sealed Platemail of the Cursed Soul,5000,15302.44,7,1,bankerrr,Demonic Rage | Bank Cleaning
-67.33,28458,Ice Sealed Staff of the Sphinx,10000,30610.9,8,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
 65.66,22006,Spirit Gem,2444,7117.92,11,1,stallcito1,QWEQWEQWEQWEQW
 64.95,26594,Novice Explosive Ball,150,427.92,9,15,CStal1,afk
+64.86,28458,Ice Sealed Staff of the Sphinx,10000,28456.67,7,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
 64.6,25439,Incantation Stone,400,1130.04,7,1,SSTTAALL,ICE-FIRE-EARTH STAFF/PBS/JC/POTS
 64.57,25211,Tropical Drumstick,29,81.86,5,20,cheapstuffsell,5
 64.1,25476,Hairstyling Voucher,25000,69642.86,4,4,ShowMaker,Ref / hair vouch / skating cheap
@@ -35,6 +35,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.43,22000,FieryGem,2222,5761.5,8,8,Mikzx,IMPS
 61.11,29056,20 Cooking EXP Card,1000,2571.43,3,1,bankerrr,Demonic Rage | Bank Cleaning
 61.11,29056,20 Cooking EXP Card,1000,2571.43,3,1,Commerce,ww3
+60.16,30172,Ticket to Treasure Island,250,627.47,5,18,A1exSamara,Refs  pbs  fb  pots  DW tix
 59.64,30118,Vial of Strength Reset,2500,6194.44,4,1,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
 59.48,28430,Fire Sealed Robe of Malediction,4950,12214.7,7,1,iLegolas,sealed 50 . pps . lighting .rock
 59.07,28430,Fire Sealed Robe of Malediction,5000,12214.7,7,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
@@ -50,8 +51,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.21,28035,Solar Shield,14999,35049.5,4,1,TTKillGirlTT,Jewell Frag  /  Jack  Coin  ++
 56.81,25397,Enchanted Stone,300,694.61,3,72,S0phi,Treasure / Dolphin  /  Minion
 56.11,25439,Incantation Stone,496,1130.04,7,3,PONGO,MVM/JACKPT/REP1K/FB/AND MORE
-55.71,26591,Potion of Lion,1500,3387.13,12,4,CStal1,afk
-55.71,26591,Potion of Lion,1500,3387.13,12,1,Pablo,CHEAP CHEAPER CHIPOTLE
+55.73,26591,Potion of Lion,1500,3388.32,12,4,CStal1,afk
+55.73,26591,Potion of Lion,1500,3388.32,12,1,Pablo,CHEAP CHEAPER CHIPOTLE
 53.84,28404,Earth Sealed Robe of Abraxas,3000,6499.75,3,1,Olympus,Willow Wood Log cheap
 53.52,28442,Fire Sealed Coat of Evanescence,14999,32272.64,5,1,CallMeBaby,Cheiap
 53.52,28442,Fire Sealed Coat of Evanescence,15000,32272.64,5,1,LazzzyBee,CHEAAAAAAAAAAPEEEEEEEEEESTTTTTTT
@@ -62,14 +63,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.6,22004,Shining Gem,2222,4687.85,16,4,Mikzx,IMPS
 52.05,25258,Spirit Feather,399,832.19,9,11,Disciplined1,Cheapest EnigmaPower DemonicRock
 51.16,28450,Fire Sealed Tooth of Evanescence,19000,38900.0,3,1,Ludopat1n,Fairy Skating cheap stuff
-51.0,28458,Ice Sealed Staff of the Sphinx,15000,30610.9,8,1,MUSACHI,60
-51.0,28458,Ice Sealed Staff of the Sphinx,15000,30610.9,8,1,Electricman1,DemoSoul/PPS/Jp MvM/RockGemFrg
-51.0,28458,Ice Sealed Staff of the Sphinx,15000,30610.9,8,1,Electricman1,DemoSoul/PPS/Jp MvM/RockGemFrg
 50.99,28400,Earth Sealed Platemail of the Cursed Soul,7500,15302.44,7,1,bankerrr,Demonic Rage | Bank Cleaning
 50.69,25440,Evanescence Stone,500,1014.09,10,47,Frank,GR JADE REF GEIMS ER INS EVS
 50.69,25440,Evanescence Stone,500,1014.09,10,7,LunaMaya,S>HiddenHoney LambSkull PPS
 50.65,28434,Fire Sealed Robe of the Arcane,19999,40526.21,7,1,Ludopat1n,Fairy Skating cheap stuff
-50.4,26589,Potion of Bull,1500,3024.47,13,7,CStal1,afk
+50.41,26589,Potion of Bull,1500,3024.76,13,7,CStal1,afk
 50.4,29013,Novice 15 Treasure Hunting EXP Card,250,504.05,4,32,VendedoraJequiti,SM 50 / VOY 50 / POTIONS SP / ++
 50.23,28456,Ice Sealed Robe of the Sphinx,15000,30138.62,7,1,MUSACHI,60
 50.23,28456,Ice Sealed Robe of the Sphinx,15000,30138.62,7,1,Pablo,CHEAP CHEAPER CHIPOTLE
