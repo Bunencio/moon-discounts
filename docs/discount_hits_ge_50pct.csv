@@ -1,8 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.35,30173,Ticket to Angler's Island,30,451.16,3,13,Shop1,darkblue
-88.84,25212,Frozen Elixir,100,895.98,7,5,cheapcheapcheap,cheap
+88.9,25212,Frozen Elixir,100,900.95,7,5,cheapcheapcheap,cheap
 87.33,25495,Green Colorant,500,3945.45,3,2,cheapstuffsell,cheap
-86.61,25212,Frozen Elixir,120,895.98,7,9,Anuel,SHOP FOR GIGACHADS
+86.68,25212,Frozen Elixir,120,900.95,7,9,Anuel,SHOP FOR GIGACHADS
 83.58,26564,Meditation Potion,8,48.73,5,99,TagBaligya2,Cook/Manu/Craft Items
 79.95,25493,Orange Colorant,500,2494.12,4,2,cheapstuffsell,cheap
 77.79,28212,Priestly Robe,1999,8999.67,3,1,DiscipleTwo,CHEAPEST ACC BOOTS|FROZEN EL|BPs
@@ -16,7 +16,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.94,22001,Furious Gem,900,3097.05,9,1,stuffseller,cheap
 70.71,25440,Evanescence Stone,300,1024.1,9,37,FreePalestine1,sell
 68.13,28474,Ice Sealed Mantle of the Sphinx,30000,94142.71,5,1,MiLD,rush
-67.99,30172,Ticket to Treasure Island,200,624.86,7,9,A1exSamara,CHEAP REFS  dw tix  bps
+67.99,30172,Ticket to Treasure Island,200,624.72,7,9,A1exSamara,CHEAP REFS  dw tix  bps
 67.71,22001,Furious Gem,1000,3097.05,9,6,LazzzyBee,CHEAPEST BANK CLEARANCE!
 67.71,22001,Furious Gem,1000,3097.05,9,1,loyalty1,selling sssssssssss
 67.71,22001,Furious Gem,1000,3097.05,9,1,xDelfina,Potion
@@ -29,11 +29,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.78,28458,Ice Sealed Staff of the Sphinx,10000,28395.0,6,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
 64.14,28035,Solar Shield,9999,27885.29,5,1,MiningGPU,cheeeeeeeeep
 63.48,30121,Vial of Accuracy Reset,2000,5476.19,5,4,Tom,PVP POTIONS LNTRN W8LESS BB DW
-62.91,25258,Spirit Feather,300,808.89,9,39,LunaMaya,S>HiddenHoney LamSkull FairyFood
+63.13,25258,Spirit Feather,300,813.78,9,39,LunaMaya,S>HiddenHoney LamSkull FairyFood
 62.89,25440,Evanescence Stone,380,1024.1,9,7,LunaMaya,S>HiddenHoney LamSkull FairyFood
 62.26,29056,20 Cooking EXP Card,1000,2650.0,3,1,Commerce,ww3
 61.54,26588,Potion of Eagle,1000,2599.93,19,6,amiix,jack coin 7k GPS 19k cheall all
-60.87,28155,Steel Platemail,4500,11500.0,3,1,Toad,equip crus+cham+ear rock+bow+st
 60.72,25400,Explosive Tentacle,150,381.87,5,2,stuffseller,cheap
 60.05,26591,Potion of Lion,1200,3003.55,11,1,Anuel,SHOP FOR GIGACHADS
 59.67,28416,Earth Sealed Corset of Incantation,5000,12398.0,5,1,Myro,SS itens Lv 40- 45
@@ -61,7 +60,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.36,28446,Fire Sealed Bow of Evanescence,20000,41116.67,6,1,amiix,jack coin 7k GPS 19k cheall all
 51.18,25440,Evanescence Stone,500,1024.1,9,47,Frank,GREEN JADE REF GEMS ER INS EVS
 50.9,25503,Magical Stone,350,712.88,7,13,loyalty1,selling sssssssssss
+50.85,25258,Spirit Feather,400,813.78,9,69,bruna99,mvm
+50.85,25258,Spirit Feather,400,813.78,9,24,Anuel,SHOP FOR GIGACHADS
 50.68,28436,Fire Sealed Staff of Evanescence,19500,39541.5,6,1,SSTTAALL,ICE-FIRE-EARTH STAFF/PBS/JC/POTS
-50.55,25258,Spirit Feather,400,808.89,9,69,bruna99,mvm
-50.55,25258,Spirit Feather,400,808.89,9,24,Anuel,SHOP FOR GIGACHADS
 50.41,28442,Fire Sealed Coat of Evanescence,15000,30250.0,6,1,LazzzyBee,CHEAPEST BANK CLEARANCE!
+50.38,25423,Evanescence Rock,400,806.1,14,31,LunaMaya,S>HiddenHoney LamSkull FairyFood
