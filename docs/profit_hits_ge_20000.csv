@@ -1,13 +1,14 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-09-18,25476,Hairstyling Voucher,ShowMaker,IMPS / Dem frag / Ref !,20000,79500.0,59500.0,2,119000.0,74.84,3
 2025-09-18,25439,Incantation Stone,FreePalestine1,sell,300,1153.98,853.98,44,37575.19,74.0,6
-2025-09-18,28442,Fire Sealed Coat of Evanescence,Myro,SS itens Lv 40- 45,8000,30250.0,22250.0,1,22250.0,73.55,6
 2025-09-18,28326,Divine Grace Cap,SaveMore,DIVINE GRACE CAP WITH RARE STATS,29999,109999.57,80000.57,1,80000.57,72.73,6
 2025-09-18,25440,Evanescence Stone,FreePalestine1,sell,300,1024.1,724.1,37,26791.83,70.71,9
+2025-09-18,28442,Fire Sealed Coat of Evanescence,Che,Xiclets,10000,33750.0,23750.0,1,23750.0,70.37,6
 2025-09-18,28474,Ice Sealed Mantle of the Sphinx,MiLD,rush,30000,94142.71,64142.71,1,64142.71,68.13,5
-2025-09-18,28442,Fire Sealed Coat of Evanescence,Che,Xiclets,10000,30250.0,20250.0,1,20250.0,66.94,6
 2025-09-18,22003,Glowing Gem,Frank,GREEN JADE REF GEMS ER INS EVS,500,1480.41,980.41,34,33334.08,66.23,10
 2025-09-18,26326,Elven Royal Signet,Sauronn,Free eeeeeeeeeeeeeeeeeeeeeeeeeee,899,2656.43,1757.43,15,26361.38,66.16,6
+2025-09-18,28428,Fire Sealed Dance of Evanescence,Demonyk,stash,35000,97777.78,62777.78,1,62777.78,64.2,4
+2025-09-18,28428,Fire Sealed Dance of Evanescence,CallMeBaby,123123123,35000,97777.78,62777.78,1,62777.78,64.2,4
 2025-09-18,25258,Spirit Feather,LunaMaya,S>HiddenHoney LamSkull FairyFood,300,813.78,513.78,39,20037.42,63.13,9
 2025-09-18,28326,Divine Grace Cap,SaveMore,DIVINE GRACE CAP WITH RARE STATS,49999,109999.57,60000.57,1,60000.57,54.55,6
 2025-09-18,28446,Fire Sealed Bow of Evanescence,amiix,jack coin 7k GPS 19k cheall all,20000,41116.67,21116.67,1,21116.67,51.36,6
@@ -17,8 +18,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-18,22000,FieryGem,EngrAndy,CHEAPEST GEMS IN TOWN ALMOST OUT,3500,6746.8,3246.8,55,178574.17,48.12,11
 2025-09-18,28466,Ice Sealed Judgment of Enigma,BjornIronside,SS//CHAMP//VOY CHEAP ALL,25000,46759.17,21759.17,1,21759.17,46.53,3
 2025-09-18,28326,Divine Grace Cap,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch,60000,109999.57,49999.57,1,49999.57,45.45,6
-2025-09-18,28428,Fire Sealed Dance of Evanescence,Demonyk,stash,35000,63125.0,28125.0,1,28125.0,44.55,4
-2025-09-18,28428,Fire Sealed Dance of Evanescence,CallMeBaby,123123123,35000,63125.0,28125.0,1,28125.0,44.55,4
 2025-09-18,27025,Radiation Lv1,PITAYA,RADIATIONS,2500,4484.83,1984.83,25,49620.77,44.26,5
 2025-09-18,22004,Shining Gem,FreePalestine1,sell,3000,5192.31,2192.31,19,41653.98,42.22,10
 2025-09-18,22004,Shining Gem,vendedolmax,2000,3000,5192.31,2192.31,10,21923.15,42.22,10
@@ -34,6 +33,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-18,22004,Shining Gem,EngrAndy,CHEAPEST GEMS IN TOWN ALMOST OUT,3500,5192.31,1692.31,12,20307.78,32.59,10
 2025-09-18,28421,Bow of Incantation,BjornIronside,SS//CHAMP//VOY CHEAP ALL,99999,147036.67,47037.67,1,47037.67,31.99,3
 2025-09-18,30022,Buffing Card,JakubMarket,Cards,35000,49756.41,14756.41,7,103294.84,29.66,6
+2025-09-18,28428,Fire Sealed Dance of Evanescence,SinnerZ,DoE Uns DoE Sealed,70000,97777.78,27777.78,1,27777.78,28.41,4
+2025-09-18,28428,Fire Sealed Dance of Evanescence,*DracoMalfoy#14,sell ds crus,70000,97777.78,27777.78,1,27777.78,28.41,4
+2025-09-18,28428,Fire Sealed Dance of Evanescence,*DracoMalfoy#14,sell ds crus,70000,97777.78,27777.78,1,27777.78,28.41,4
 2025-09-18,28326,Divine Grace Cap,Belmont,Divine con,80000,109999.57,29999.57,1,29999.57,27.27,6
 2025-09-18,28409,Coat of Invocation,Hihi,Cleric UNS,80000,109666.67,29666.67,1,29666.67,27.05,3
 2025-09-18,26590,Potion of Soul,Yennefer,PURSE ROCK SUN BP POTS ITEM60,2000,2720.79,720.79,62,44689.26,26.49,17
@@ -96,7 +98,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-18,22007,Gem of Striking,Dago,IMP/SS ITEMS RINGS UGS COD ALOT,1400000,1619444.44,219444.44,2,438888.89,13.55,4
 2025-09-18,28136,Crown of Decendant,voyo,FAST SALE !,549999,633332.67,83333.67,1,83333.67,13.16,3
 2025-09-18,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,11111,12793.64,1682.64,24,40383.46,13.15,15
-2025-09-18,30139,100x Crystal,youknowmyface,Divine Grace 3spr/Crystal 82k,82000,94250.87,12250.87,8,98006.99,13.0,9
 2025-09-18,26592,Flash Bomb,Bankaquaq,Radiation/FB/Grenade/Ships,777,891.28,114.28,200,22855.26,12.82,18
 2025-09-18,26592,Flash Bomb,Bankaquaq,Radiation/FB/Grenade/Ships,777,891.28,114.28,200,22855.26,12.82,18
 2025-09-18,26592,Flash Bomb,Bankaquaq,Radiation/FB/Grenade/Ships,777,891.28,114.28,200,22855.26,12.82,18
@@ -120,8 +121,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-18,27025,Radiation Lv1,SetSeller,cheapest in town,4000,4484.83,484.83,75,36362.3,10.81,5
 2025-09-18,22021,Yellow Jade,Mikosita,SELL JACKPOT/GPS/REF/PPS/FB,1499999,1674833.0,174834.0,2,349668.0,10.44,3
 2025-09-18,26568,Skating Potion,stalleer,Skatings  pharaoh  gyoza  pots,50000,55799.93,5799.93,20,115998.67,10.39,5
-2025-09-18,30139,100x Crystal,Embracer,IMPS/GLOVE,85000,94250.87,9250.87,99,915836.46,9.82,9
 2025-09-18,26326,Elven Royal Signet,A1eXxSamara,royal,2400,2656.43,256.43,128,32822.45,9.65,6
+2025-09-18,30139,100x Crystal,Embracer,IMPS/GLOVE,85000,93517.07,8517.07,97,826155.71,9.11,8
+2025-09-18,30139,100x Crystal,KarateCruZ,SELLING IMPS BEST PRICE EVER,84999,93517.07,8518.07,53,451457.67,9.11,8
 2025-09-18,22010,Gem of Rage,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch,2500000,2735714.29,235714.29,1,235714.29,8.62,4
 2025-09-18,27019,Purple Pirate Scroll,MiLD,rush,4499,4909.9,410.9,88,36159.39,8.37,19
 2025-09-18,27019,Purple Pirate Scroll,MrBeast,CHEAP PPS / +5 SPR VOY GLOVES,4499,4909.9,410.9,86,35337.59,8.37,19
@@ -131,7 +133,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-18,22016,Demonic Gem of Sout,Pescadora,CHEAP DEMONIC SOUL + UG STRIKING,1650000,1792857.0,142857.0,1,142857.0,7.97,4
 2025-09-18,26578,Aegis Brew,TotemCookings,Totem Cookings Made wLove n Weed,59999,64932.62,4933.62,13,64137.04,7.6,3
 2025-09-18,22011,Gemof Sout,stallzunha,Ug Soul Cheap !!,1100000,1185714.0,85714.0,1,85714.0,7.23,4
-2025-09-18,30139,100x Crystal,alttt,Cheapest Imp Ever/Gps/PPs/Get it,87500,94250.87,6750.87,51,344294.54,7.16,9
 2025-09-18,25451,Jade Gem Fragment,Duna,Purple Jade Red Jade Fragment,78999,84922.07,5923.07,5,29615.34,6.97,6
 2025-09-18,22013,Demonic Gem of Striking,DayOne,Cheapest,1800000,1934000.0,134000.0,2,268000.0,6.93,4
 2025-09-18,27016,Enchanted Wine,MUTAA,MUTA SA IRING!,4999,5354.84,355.84,77,27399.61,6.65,7
@@ -141,6 +142,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-18,27020,Gold Pirate Scroll,STALLSSDS,GPS/CI/EXP CARD-MANU COOK SAL WO,21000,22470.37,1470.37,18,26466.58,6.54,7
 2025-09-18,27020,Gold Pirate Scroll,Gryffindor,GPS/REPU/Pots,21000,22470.37,1470.37,14,20585.12,6.54,7
 2025-09-18,22009,Gem of Colossus,Kikiroto2,Selling Voy Eqs Dm On uba Offers,1800000,1924857.07,124857.07,2,249714.14,6.49,7
+2025-09-18,30139,100x Crystal,alttt,Cheapest Imp Ever/Gps/PPs/Get it,87500,93517.07,6017.07,51,306870.53,6.43,8
 2025-09-18,27019,Purple Pirate Scroll,HitomiTanaka,FingersEntangledAsiApproachUrNec,4600,4909.9,309.9,99,30680.31,6.31,19
 2025-09-18,27019,Purple Pirate Scroll,HitomiTanaka,FingersEntangledAsiApproachUrNec,4600,4909.9,309.9,86,26651.59,6.31,19
 2025-09-18,26578,Aegis Brew,Kumbini,pots,60889,64932.62,4043.62,28,113221.32,6.23,3
@@ -159,7 +161,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-18,28136,Crown of Decendant,Seller1,HL SM ITENS,599999,633332.67,33333.67,1,33333.67,5.26,3
 2025-09-18,22016,Demonic Gem of Sout,SellMeWhole,S>imps/de soul/ref/pots,1700000,1792857.0,92857.0,1,92857.0,5.18,4
 2025-09-18,26377,Pharaoh's Lantern,Virginia,Pharaoh Lantern CHEAPEST,11111,11681.92,570.92,150,85638.75,4.89,9
-2025-09-18,30139,100x Crystal,stalleraa,IMPS,90000,94250.87,4250.87,5,21254.37,4.51,9
 2025-09-18,25428,Shining Runestone,jajaaaaja,GEMS,380000,397857.14,17857.14,9,160714.29,4.49,3
 2025-09-18,26576,Iron Brew,MUTAA,MUTA SA IRING!,7899,8267.25,368.25,91,33511.06,4.45,9
 2025-09-18,25426,Universe Purse Fragment.,Yennefer,PURSE ROCK SUN BP POTS ITEM60,325000,339999.73,14999.73,4,59998.91,4.41,5
@@ -187,4 +188,3 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-18,22010,Gem of Rage,Deity,ssss,2700000,2735714.29,35714.29,1,35714.29,1.31,4
 2025-09-18,22009,Gem of Colossus,jajaaaaja,GEMS,1900000,1924857.07,24857.07,1,24857.07,1.29,7
 2025-09-18,26573,Demonic Potion,TotemCookings,Totem Cookings Made wLove n Weed,19200,19418.38,218.38,99,21619.52,1.12,4
-2025-09-18,30139,100x Crystal,KarateCruZ,S> IMPS,93400,94250.87,850.87,53,45096.29,0.9,9
