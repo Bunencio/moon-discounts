@@ -3,6 +3,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.1,25495,Green Colorant,500,3875.68,4,2,cheapstuffsell,cheap
 81.84,26564,Meditation Potion,8,44.06,5,99,TagBaligya2,Cook/Manu/Craft Items
 81.84,26564,Meditation Potion,8,44.06,5,100,Shop1,darkblue
+80.92,26568,Skating Potion,10000,52424.18,8,2,ghost26,scroll
 79.43,25493,Orange Colorant,500,2430.32,5,2,cheapstuffsell,cheap
 77.79,28212,Priestly Robe,1999,8999.67,3,1,DiscipleTwo,CHEAPEST ACC BOOTS|FROZEN EL|BPs
 77.24,26563,Mushroom Soup,49,215.3,3,9,cudecachorro2,RING|> TS <|SOUL|DAGGER|ARMOR!!!
@@ -12,7 +13,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.51,25212,Frozen Elixir,100,392.26,7,5,cheapcheapcheap,cheap
 74.4,26589,Potion of Bull,700,2734.06,15,1,Anuel,SHOP FOR GIGACHADS
 74.0,25439,Incantation Stone,300,1153.98,6,44,FreePalestine1,sell
-73.91,28326,Divine Grace Cap,29999,114999.5,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
+72.73,28326,Divine Grace Cap,29999,109999.57,6,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
 71.44,25211,Tropical Drumstick,20,70.03,5,20,cheapstuffsell,cheap
 71.2,28434,Fire Sealed Robe of the Arcane,10000,34722.22,5,1,CallMeBaby,123123123
 70.74,22001,Furious Gem,888,3034.92,10,2,iLilith,Cheapest
@@ -51,7 +52,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.74,26591,Potion of Lion,1200,2980.65,12,1,Anuel,SHOP FOR GIGACHADS
 59.65,30172,Ticket to Treasure Island,250,619.6,7,16,A1exSamara,Refs  pbs  fb  pots  DW tix
 57.03,28450,Fire Sealed Tooth of Evanescence,15000,34909.09,4,1,Ludopat1n,Fairy skating cheap equip
-56.52,28326,Divine Grace Cap,49999,114999.5,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
 56.05,28430,Fire Sealed Robe of Malediction,4950,11262.17,8,1,iLegolas,sealed 50 . pps . lighting .rock
 55.94,28035,Solar Shield,14999,34039.8,4,1,TTKillGirlTT,PPS / Jack Coin / Equips 50
 55.61,28430,Fire Sealed Robe of Malediction,4999,11262.17,8,1,CallMeBaby,123123123
@@ -59,6 +59,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.6,28430,Fire Sealed Robe of Malediction,5000,11262.17,8,1,Ghotter,free palestine
 54.6,26564,Meditation Potion,20,44.06,5,151,PALA02,garner
 54.6,26564,Meditation Potion,20,44.06,5,198,Obsidian,gems/legendbp|lion|glovesm|pots
+54.55,28326,Divine Grace Cap,49999,109999.57,6,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
 53.85,28442,Fire Sealed Coat of Evanescence,15000,32500.0,4,1,LazzzyBee,CHEAPEST BANK CLEARANCE!
 53.55,26563,Mushroom Soup,100,215.3,3,12,Shab7,cheeeeeeeeeeeeeeeep
 53.15,28436,Fire Sealed Staff of Evanescence,19500,41624.83,6,1,SSTTAALL,ICE-FIRE-EARTH STAFF/PBS/JC/POTS
