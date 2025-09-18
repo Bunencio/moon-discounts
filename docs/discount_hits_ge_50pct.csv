@@ -5,7 +5,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.49,25212,Frozen Elixir,120,685.49,5,9,Anuel,BUY OR GHEY :D
 80.8,26589,Potion of Bull,500,2604.62,15,4,STALLING11,PPS/REFINING GEM/ POTS
 79.95,25493,Orange Colorant,500,2494.12,4,2,cheapstuffsell,cheap
-78.93,26563,Mushroom Soup,49,232.54,3,9,cudecachorro2,SOUL DETECTOR|FLASH|SOUP|POTION
 77.79,28212,Priestly Robe,1999,8999.67,3,1,DiscipleTwo,CHEAPEST ACC BOOTS|FROZEN EL|BPs
 77.32,26564,Meditation Potion,8,35.27,4,99,TagBaligya2,Cook/Manu/Craft Items
 76.96,26589,Potion of Bull,600,2604.62,15,1,Anuel,BUY OR GHEY :D
@@ -19,6 +18,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.57,22001,Furious Gem,900,3281.2,13,1,stuffseller,cheap
 70.49,28442,Fire Sealed Coat of Evanescence,10000,33888.89,3,1,Che,Xiclets
 70.47,29058,20 Crafting EXP Card,700,2370.31,5,4,Shagidi,STR PET  | APP PHY | EXP CARDS
+70.03,25260,Elder's Fur Cloak,190,634.07,4,12,Necromancer,sell
 69.52,22001,Furious Gem,1000,3281.2,13,1,loyalty1,selling sssssssssss
 69.52,22001,Furious Gem,1000,3281.2,13,1,xDelfina,Potion
 69.24,28430,Fire Sealed Robe of Malediction,3000,9754.25,9,1,LazzzyBee,CHEAPEST THREE PAGER STALL!
@@ -27,10 +27,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.63,25440,Evanescence Stone,300,956.4,8,37,FreePalestine1,sell
 68.18,22003,Glowing Gem,500,1571.14,13,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 68.18,22003,Glowing Gem,500,1571.14,13,34,Frank,GREEN JADE REF GEMS ER INS EVS
-68.16,30172,Ticket to Treasure Island,200,628.16,6,9,A1exSamara,CHEAP REFS  dw tix  bps
 67.68,26594,Novice Explosive Ball,200,618.73,4,2,PALA02,garner
 67.68,26594,Novice Explosive Ball,200,618.73,4,7,vendedolmax,2000
-65.93,27021,Green Pirate Scroll,500,1467.6,4,3,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
+67.19,27021,Green Pirate Scroll,400,1219.07,4,29,RuaDaValeta,MINE 2 /PURPLE BP
 65.27,28458,Ice Sealed Staff of the Sphinx,15000,43194.38,5,1,MUSACHI,money to randomly box
 65.27,28458,Ice Sealed Staff of the Sphinx,15000,43194.38,5,1,Electricman1,DemoSoul/UniFrag/PPS/RBS/MvM
 65.27,28458,Ice Sealed Staff of the Sphinx,15000,43194.38,5,1,Electricman1,DemoSoul/UniFrag/PPS/RBS/MvM
@@ -46,21 +45,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.98,25503,Magical Stone,200,540.28,10,99,xGoliath,RUSH
 62.98,25503,Magical Stone,200,540.28,10,36,xGoliath,RUSH
 62.6,25490,Brown Dye,100,267.39,3,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-62.59,27021,Green Pirate Scroll,549,1467.6,4,2,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
 61.99,25491,Decolorant,100,263.12,4,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 61.78,26326,Elven Royal Signet,950,2485.39,8,13,SSTTAALL,ICE FIRE BABY!!! TINTINTINTINTIN
 61.71,29056,20 Cooking EXP Card,1000,2611.36,4,1,Commerce,ww3
-61.08,26588,Potion of Eagle,1000,2569.28,17,1,lAlpraMl,Inca Weap sealed Cham-Voy.Cler
+61.1,26588,Potion of Eagle,1000,2570.87,17,1,lAlpraMl,Inca Weap sealed Cham-Voy.Cler
 60.72,25400,Explosive Tentacle,150,381.87,5,2,stuffseller,cheap
 60.28,30118,Vial of Strength Reset,2500,6294.12,3,2,Yennefer,PURSE ROCK LEGENDBP ROYAL ++
 59.58,25484,Green Dye,100,247.41,3,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
+58.99,27021,Green Pirate Scroll,500,1219.07,4,3,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 58.18,29018,Standard 15 Crafting EXP Card,500,1195.57,4,8,Shagidi,STR PET  | APP PHY | EXP CARDS
 57.75,28326,Divine Grace Cap,49999,118332.83,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
 57.03,28450,Fire Sealed Tooth of Evanescence,15000,34909.09,4,1,Ludopat1n,Fairy skating cheap equip
-56.25,2301,,10000,22857.04,5,1,Puscifer,S H O P Y  C H E A P Y
 55.74,28442,Fire Sealed Coat of Evanescence,15000,33888.89,3,1,LazzzyBee,CHEAPEST THREE PAGER STALL!
 55.56,25477,Lance Hairstyle Book,5000,11250.0,3,2,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 55.45,22003,Glowing Gem,700,1571.14,13,15,LazzzyBee,CHEAPEST THREE PAGER STALL!
+54.97,27021,Green Pirate Scroll,549,1219.07,4,2,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
 54.54,22000,FieryGem,2999,6596.34,12,4,Demonus,6 CON SM GLOVES - SMTHNG
 54.29,22001,Furious Gem,1500,3281.2,13,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 54.15,30121,Vial of Accuracy Reset,2500,5452.38,5,1,Yennefer,PURSE ROCK LEGENDBP ROYAL ++
