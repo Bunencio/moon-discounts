@@ -4,6 +4,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.33,25495,Green Colorant,500,3945.45,3,2,cheapstuffsell,cheap
 86.68,25212,Frozen Elixir,120,900.95,7,9,Anuel,SHOP FOR GIGACHADS
 83.58,26564,Meditation Potion,8,48.73,5,99,TagBaligya2,Cook/Manu/Craft Items
+81.36,25258,Spirit Feather,150,804.57,9,25,burnik,buy mee
 79.95,25493,Orange Colorant,500,2494.12,4,2,cheapstuffsell,cheap
 77.79,28212,Priestly Robe,1999,8999.67,3,1,DiscipleTwo,CHEAPEST ACC BOOTS|FROZEN EL|BPs
 77.43,26564,Meditation Potion,11,48.73,5,200,NoDelete,e.e
@@ -21,12 +22,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.26,28035,Solar Shield,9999,32524.62,6,1,MiningGPU,cheeeeeeeeep
 69.03,22003,Glowing Gem,500,1614.53,11,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 69.03,22003,Glowing Gem,500,1614.53,11,34,Frank,GREEN JADE REF GEMS ER INS EVS
-67.99,30172,Ticket to Treasure Island,200,624.81,7,9,A1exSamara,CHEAP REFS  dw tix  bps
+68.0,30172,Ticket to Treasure Island,200,625.02,7,9,A1exSamara,CHEAP REFS  dw tix  bps
 65.9,25440,Evanescence Stone,350,1026.31,9,8,DontDelete7,e.e
 65.34,25439,Incantation Stone,400,1153.98,6,1,SSTTAALL,ICE FIRE BABY!!! TINTINTINTINTIN
 63.32,30121,Vial of Accuracy Reset,2000,5452.38,5,4,Tom,PVP POTIONS LNTRN W8LESS BB DW
-63.13,25258,Spirit Feather,300,813.78,9,39,LunaMaya,S>HiddenHomey LamnSkull FairyFoo
 62.96,26326,Elven Royal Signet,899,2427.03,9,15,Sauronn,Free eeeeeeeeeeeeeeeeeeeeeeeeeee
+62.71,25258,Spirit Feather,300,804.57,9,39,LunaMaya,S>HiddenHomey LamnSkull FairyFoo
 62.6,25490,Brown Dye,100,267.39,3,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 62.16,29056,20 Cooking EXP Card,1000,2642.86,3,1,Commerce,ww3
 61.99,25491,Decolorant,100,263.12,4,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
@@ -34,7 +35,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.86,26326,Elven Royal Signet,950,2427.03,9,13,SSTTAALL,ICE FIRE BABY!!! TINTINTINTINTIN
 60.72,25400,Explosive Tentacle,150,381.87,5,2,stuffseller,cheap
 60.64,26591,Potion of Lion,1200,3048.6,11,1,Anuel,SHOP FOR GIGACHADS
-59.67,28416,Earth Sealed Corset of Incantation,5000,12398.0,5,1,Myro,SS itens Lv 40- 45
 59.58,25484,Green Dye,100,247.41,3,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 58.96,26564,Meditation Potion,20,48.73,5,151,PALA02,garner
 58.96,26564,Meditation Potion,20,48.73,5,198,Obsidian,gems/legendbp|lion|glovesm|pots
@@ -65,7 +65,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.1,22004,Shining Gem,2500,5112.14,9,1,pisslow,Cheep stuf sir
 50.95,25168,Sunshine Fruit,50,101.94,3,13,xLiliith,Some good materials :3
 50.95,25168,Sunshine Fruit,50,101.94,3,64,Godsky,Go bbp
-50.85,25258,Spirit Feather,400,813.78,9,69,bruna99,mvm
-50.85,25258,Spirit Feather,400,813.78,9,24,Anuel,SHOP FOR GIGACHADS
 50.56,26326,Elven Royal Signet,1200,2427.03,9,22,TuoTuo,Gens and random items
 50.45,22003,Glowing Gem,800,1614.53,11,1,xDelfina,Potion
+50.28,25258,Spirit Feather,400,804.57,9,69,bruna99,mvm
+50.28,25258,Spirit Feather,400,804.57,9,24,Anuel,SHOP FOR GIGACHADS
