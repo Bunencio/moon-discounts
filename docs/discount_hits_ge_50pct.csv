@@ -8,18 +8,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.33,25495,Green Colorant,500,3945.45,3,2,cheapstuffsell,cheap
 86.68,25212,Frozen Elixir,120,900.95,7,9,Anuel,SHOP FOR GIGACHADS
 83.58,26564,Meditation Potion,8,48.73,5,99,TagBaligya2,Cook/Manu/Craft Items
-81.59,26589,Potion of Bull,500,2716.63,16,4,STALLING11,PPS/REFINING GEM/ POTS
+81.65,26589,Potion of Bull,500,2724.48,16,4,STALLING11,PPS/REFINING GEM/ POTS
 81.36,25258,Spirit Feather,150,804.57,9,25,burnik,buy mee
-80.42,26588,Potion of Eagle,500,2553.02,18,5,STALLING11,PPS/REFINING GEM/ POTS
+80.46,26588,Potion of Eagle,500,2558.51,18,5,STALLING11,PPS/REFINING GEM/ POTS
 79.95,25493,Orange Colorant,500,2494.12,4,2,cheapstuffsell,cheap
-78.77,26590,Potion of Soul,500,2354.85,19,7,STALLING11,PPS/REFINING GEM/ POTS
+78.74,26590,Potion of Soul,500,2352.2,19,7,STALLING11,PPS/REFINING GEM/ POTS
 77.79,28212,Priestly Robe,1999,8999.67,3,1,DiscipleTwo,CHEAPEST ACC BOOTS|FROZEN EL|BPs
 77.43,26564,Meditation Potion,11,48.73,5,200,NoDelete,e.e
 76.06,25478,Carsise Hairstyle Book,200,835.29,3,43,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 75.59,26344,Novice Weightless Potion,1000,4097.4,4,1,STALLING11,PPS/REFINING GEM/ POTS
 75.26,22001,Furious Gem,888,3589.26,12,2,iLilith,Cheapest
+75.03,26594,Novice Explosive Ball,150,600.65,5,15,CStal1,afk
 74.93,22001,Furious Gem,900,3589.26,12,1,stuffseller,cheap
-74.23,26589,Potion of Bull,700,2716.63,16,1,Anuel,SHOP FOR GIGACHADS
+74.31,26589,Potion of Bull,700,2724.48,16,1,Anuel,SHOP FOR GIGACHADS
 73.96,25439,Incantation Stone,300,1152.12,6,44,FreePalestine1,sell
 72.73,28326,Divine Grace Cap,29999,109999.57,6,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
 72.14,22001,Furious Gem,1000,3589.26,12,6,LazzzyBee,CHEAPEST BANK CLEARANCE!
@@ -30,7 +31,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.26,28035,Solar Shield,9999,32524.62,6,1,MiningGPU,cheeeeeeeeep
 69.03,22003,Glowing Gem,500,1614.53,11,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 69.03,22003,Glowing Gem,500,1614.53,11,34,Frank,GREEN JADE REF GEMS ER INS EVS
-68.05,30172,Ticket to Treasure Island,200,625.98,7,9,A1exSamara,CHEAP REFS  dw tix  bps
+68.06,30172,Ticket to Treasure Island,200,626.19,7,9,A1exSamara,CHEAP REFS  dw tix  bps
+66.7,26594,Novice Explosive Ball,200,600.65,5,2,PALA02,garner
+66.7,26594,Novice Explosive Ball,200,600.65,5,7,vendedolmax,2000
 65.29,25440,Evanescence Stone,350,1008.46,8,8,DontDelete7,e.e
 65.28,25439,Incantation Stone,400,1152.12,6,1,SSTTAALL,ICE FIRE BABY!!! TINTINTINTINTIN
 63.96,26568,Skating Potion,20000,55499.93,5,1,XiXi0n,CHEAP CHEAP CHEAP CHEAP CHEAP
@@ -41,7 +44,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.99,25491,Decolorant,100,263.12,4,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 61.91,26326,Elven Royal Signet,950,2494.39,7,13,SSTTAALL,ICE FIRE BABY!!! TINTINTINTINTIN
 61.08,28458,Ice Sealed Staff of the Sphinx,10000,25694.38,5,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
-60.83,26588,Potion of Eagle,1000,2553.02,18,1,lAlpraMl,Inca Weap sealed Cham-Voy.Cler
+60.91,26588,Potion of Eagle,1000,2558.51,18,1,lAlpraMl,Inca Weap sealed Cham-Voy.Cler
 60.72,25400,Explosive Tentacle,150,381.87,5,2,stuffseller,cheap
 60.28,30118,Vial of Strength Reset,2500,6294.12,3,2,Yennefer,PURSE ROCK LEGENDBP ROYAL ++
 59.58,25484,Green Dye,100,247.41,3,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
