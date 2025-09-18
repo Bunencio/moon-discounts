@@ -1,10 +1,11 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.35,30173,Ticket to Angler's Island,30,451.16,3,13,Shop1,darkblue
+91.96,27021,Green Pirate Scroll,85,1057.59,5,2,Online,garner
 87.33,25495,Green Colorant,500,3945.45,3,2,cheapstuffsell,cheap
 86.69,25212,Frozen Elixir,100,751.39,6,5,cheapcheapcheap,cheap
 84.03,25212,Frozen Elixir,120,751.39,6,9,Anuel,SHOP FOR GIGACHADS
 83.58,26564,Meditation Potion,8,48.73,5,99,TagBaligya2,Cook/Manu/Craft Items
-81.69,26589,Potion of Bull,500,2730.79,15,4,STALLING11,PPS/REFINING GEM/ POTS
+81.68,26589,Potion of Bull,500,2729.49,15,4,STALLING11,PPS/REFINING GEM/ POTS
 81.36,25258,Spirit Feather,150,804.57,9,25,burnik,buy mee
 79.95,25493,Orange Colorant,500,2494.12,4,2,cheapstuffsell,cheap
 78.93,26563,Mushroom Soup,49,232.54,3,9,cudecachorro2,SOUL DETECTOR|ARMOR|SOUP
@@ -13,16 +14,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.06,25478,Carsise Hairstyle Book,200,835.29,3,43,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 75.76,26594,Novice Explosive Ball,150,618.73,4,15,CStal1,afk
 74.65,28326,Divine Grace Cap,29999,118332.83,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
-74.37,26589,Potion of Bull,700,2730.79,15,1,Anuel,SHOP FOR GIGACHADS
-73.86,22001,Furious Gem,888,3397.29,12,2,iLilith,Cheapest
-73.51,22001,Furious Gem,900,3397.29,12,1,stuffseller,cheap
-73.21,25439,Incantation Stone,300,1119.74,5,43,FreePalestine1,sell
+74.35,26589,Potion of Bull,700,2729.49,15,1,Anuel,SHOP FOR GIGACHADS
+73.34,22001,Furious Gem,888,3330.75,12,2,iLilith,Cheapest
+73.19,25439,Incantation Stone,300,1118.98,5,43,FreePalestine1,sell
+72.98,22001,Furious Gem,900,3330.75,12,1,stuffseller,cheap
+72.88,28430,Fire Sealed Robe of Malediction,3000,11062.58,9,1,LazzzyBee,CHEAPEST THREE PAGER STALL!
 70.58,29058,20 Crafting EXP Card,700,2379.26,4,4,Shagidi,STR PET  | APP PHY | EXP CARDS
-70.56,22001,Furious Gem,1000,3397.29,12,1,loyalty1,selling sssssssssss
-70.56,22001,Furious Gem,1000,3397.29,12,1,xDelfina,Potion
-70.55,22003,Glowing Gem,500,1697.94,11,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
-70.55,22003,Glowing Gem,500,1697.94,11,34,Frank,GREEN JADE REF GEMS ER INS EVS
-68.61,25440,Evanescence Stone,300,955.77,7,37,FreePalestine1,sell
+70.49,28442,Fire Sealed Coat of Evanescence,10000,33888.89,3,1,Che,Xiclets
+69.98,22001,Furious Gem,1000,3330.75,12,1,loyalty1,selling sssssssssss
+69.98,22001,Furious Gem,1000,3330.75,12,1,xDelfina,Potion
+68.78,22003,Glowing Gem,500,1601.36,12,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
+68.78,22003,Glowing Gem,500,1601.36,12,34,Frank,GREEN JADE REF GEMS ER INS EVS
+68.47,25440,Evanescence Stone,300,951.41,7,37,FreePalestine1,sell
 68.15,30172,Ticket to Treasure Island,200,628.01,6,9,A1exSamara,CHEAP REFS  dw tix  bps
 67.68,26594,Novice Explosive Ball,200,618.73,4,2,PALA02,garner
 67.68,26594,Novice Explosive Ball,200,618.73,4,7,vendedolmax,2000
@@ -30,10 +33,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.27,28458,Ice Sealed Staff of the Sphinx,15000,43194.38,5,1,Electricman1,DemoSoul/UniFrag/PPS/RBS/MvM
 65.27,28458,Ice Sealed Staff of the Sphinx,15000,43194.38,5,1,Electricman1,DemoSoul/UniFrag/PPS/RBS/MvM
 65.27,28458,Ice Sealed Staff of the Sphinx,15000,43194.38,5,1,iFennec,FERAL BOOTS PPS PBS
-64.28,25439,Incantation Stone,400,1119.74,5,1,SSTTAALL,ICE FIRE BABY!!! TINTINTINTINTIN
+64.25,25439,Incantation Stone,400,1118.98,5,1,SSTTAALL,ICE FIRE BABY!!! TINTINTINTINTIN
 63.96,26568,Skating Potion,20000,55499.93,5,1,XiXi0n,CHEAP CHEAP CHEAP CHEAP CHEAP
-63.38,25440,Evanescence Stone,350,955.77,7,8,DontDelete7,e.e
 63.32,30121,Vial of Accuracy Reset,2000,5452.38,5,4,Tom,PVP POTIONS LNTRN W8LESS BB DW
+63.21,25440,Evanescence Stone,350,951.41,7,8,DontDelete7,e.e
 63.2,28035,Solar Shield,9999,27171.0,5,1,MiningGPU,cheeeeeeeeep
 62.71,25258,Spirit Feather,300,804.57,9,39,LunaMaya,S>HiddenHomey LamnSkull FairyFoo
 62.6,25490,Brown Dye,100,267.39,3,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
@@ -49,24 +52,26 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.84,25178,Small Branch,100,242.94,3,99,trd,5agi gloves
 58.84,25178,Small Branch,100,242.94,3,99,trd,5agi gloves
 58.18,29018,Standard 15 Crafting EXP Card,500,1195.57,4,8,Shagidi,STR PET  | APP PHY | EXP CARDS
-57.92,27021,Green Pirate Scroll,450,1069.38,4,63,xSsnowBeaRx,SALE SALE SALE
 57.75,28326,Divine Grace Cap,49999,118332.83,5,1,SaveMore,DIVINE GRACE CAP WITH RARE STATS
-57.62,28430,Fire Sealed Robe of Malediction,4999,11795.55,8,1,CallMeBaby,123123123
-57.61,28430,Fire Sealed Robe of Malediction,5000,11795.55,8,1,Ghotter,free palestine
+57.45,27021,Green Pirate Scroll,450,1057.59,5,63,xSsnowBeaRx,SALE SALE SALE
 57.03,28450,Fire Sealed Tooth of Evanescence,15000,34909.09,4,1,Ludopat1n,Fairy skating cheap equip
+56.29,22003,Glowing Gem,700,1601.36,12,15,LazzzyBee,CHEAPEST THREE PAGER STALL!
 56.25,2301,,10000,22857.04,5,1,Puscifer,S H O P Y  C H E A P Y
-55.85,22001,Furious Gem,1500,3397.29,12,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
-55.83,22003,Glowing Gem,750,1697.94,11,1,pisslow,Cheep stuf sir
+55.74,28442,Fire Sealed Coat of Evanescence,15000,33888.89,3,1,LazzzyBee,CHEAPEST THREE PAGER STALL!
 55.56,25477,Lance Hairstyle Book,5000,11250.0,3,2,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
+54.97,22001,Furious Gem,1500,3330.75,12,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
+54.81,28430,Fire Sealed Robe of Malediction,4999,11062.58,9,1,CallMeBaby,123123123
+54.8,28430,Fire Sealed Robe of Malediction,5000,11062.58,9,1,Ghotter,free palestine
 54.29,26501,Tiny EXP Berry,1000,2187.5,3,5,trd,5agi gloves
 54.15,30121,Vial of Accuracy Reset,2500,5452.38,5,1,Yennefer,PURSE ROCK LEGENDBP ROYAL ++
 53.7,28458,Ice Sealed Staff of the Sphinx,20000,43194.38,5,1,CStal1,afk
-53.24,27021,Green Pirate Scroll,500,1069.38,4,3,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
-52.92,25440,Evanescence Stone,450,955.77,7,7,LunaMaya,S>HiddenHomey LamnSkull FairyFoo
-52.88,22003,Glowing Gem,800,1697.94,11,1,xDelfina,Potion
+53.16,22003,Glowing Gem,750,1601.36,12,1,pisslow,Cheep stuf sir
+52.72,27021,Green Pirate Scroll,500,1057.59,5,3,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
+52.7,25440,Evanescence Stone,450,951.41,7,7,LunaMaya,S>HiddenHomey LamnSkull FairyFoo
 51.46,28400,Earth Sealed Platemail of the Cursed Soul,6999,14419.09,8,1,DarkKillerJr,S>lv40 sealed equips/45 sword
 50.95,25168,Sunshine Fruit,50,101.94,3,13,xLiliith,Some good materials :3
 50.95,25168,Sunshine Fruit,50,101.94,3,64,Godsky,Go bbp
 50.77,28456,Ice Sealed Robe of the Sphinx,12700,25798.29,6,1,Pablo,CHEAP CHEAPER CHIPOTLE
 50.28,25258,Spirit Feather,400,804.57,9,69,bruna99,mvm
 50.28,25258,Spirit Feather,400,804.57,9,24,Anuel,SHOP FOR GIGACHADS
+50.04,22003,Glowing Gem,800,1601.36,12,1,xDelfina,Potion
