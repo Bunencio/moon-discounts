@@ -36,6 +36,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.6,25490,Brown Dye,100,267.39,3,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 62.37,26589,Potion of Bull,999,2655.1,14,1,AltDude,buy my stuff
 62.34,26589,Potion of Bull,1000,2655.1,14,4,STALLING11,REFINING GEM CHEAP/POTS
+62.24,25423,Evanescence Rock,300,794.41,15,14,FreePalestine1,sell
 61.99,25491,Decolorant,100,263.12,4,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 61.9,22001,Furious Gem,1999,5246.96,11,1,SamuSta,ROCK/JADE/REF/DC/SPR/FIR/ALL GEM
 61.88,22001,Furious Gem,2000,5246.96,11,2,Sulumania,C H E A P Y   S H O P Y
@@ -44,7 +45,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.88,25504,Standard Scroll,400,1022.45,8,99,StepanBendera,Souk/Warrior/MoonrooT
 60.88,25504,Standard Scroll,400,1022.45,8,17,StepanBendera,Souk/Warrior/MoonrooT
 60.72,25400,Explosive Tentacle,150,381.9,5,2,stuffseller,cheap
-59.72,25423,Evanescence Rock,300,744.77,15,14,FreePalestine1,sell
 59.6,29056,20 Cooking EXP Card,1000,2475.0,4,1,Commerce,ww3
 59.58,25484,Green Dye,100,247.41,3,99,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 57.03,28450,Fire Sealed Tooth of Evanescence,15000,34909.09,4,1,Ludopat1n,Fairy skating cheap equip
