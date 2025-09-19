@@ -3,7 +3,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 95.58,2301,,1000,22629.52,5,1,Stellar,Variety Shop
 87.8,25495,Green Colorant,500,4099.15,5,2,cheapstuffsell,cheap
 81.44,25258,Spirit Feather,150,808.37,11,10,burnik,buy mee
-81.07,26589,Potion of Bull,500,2640.66,15,1,Anuel,ONLY FOR ALPHA MALES
+81.11,26589,Potion of Bull,500,2646.5,15,1,Anuel,ONLY FOR ALPHA MALES
 79.7,26564,Meditation Potion,8,39.41,4,99,TagBaligya2,Cook/Manu/Craft Items
 79.4,25493,Orange Colorant,500,2427.67,5,2,cheapstuffsell,cheap
 76.06,25478,Carsise Hairstyle Book,200,835.29,3,43,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
@@ -25,8 +25,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.29,30121,Vial of Accuracy Reset,2000,5447.37,4,4,Tom,PVP POTIONS LNTRN W8LESS BB DW
 62.89,25258,Spirit Feather,300,808.37,11,39,LunaMaya,S>HiddenHoney FairyFood LambSkul
 62.72,28155,Steel Platemail,4500,12071.43,5,1,Toad,equip crus+cham+ear rock+bow+st
-62.13,26589,Potion of Bull,1000,2640.66,15,4,STALLING11,REFINING GEM CHEAP/POTS
-62.13,26589,Potion of Bull,1000,2640.66,15,1,TOPBunshie,SUPER CHEAp CHEAP
+62.21,26589,Potion of Bull,1000,2646.5,15,4,STALLING11,REFINING GEM CHEAP/POTS
+62.21,26589,Potion of Bull,1000,2646.5,15,1,TOPBunshie,SUPER CHEAp CHEAP
 61.97,22001,Furious Gem,2000,5258.82,11,10,sstido,buy please
 61.97,22001,Furious Gem,2000,5258.82,11,6,LazzzyBee,CHEAPEST THREE PAGER STALL!
 61.73,25423,Evanescence Rock,300,783.99,14,14,FreePalestine1,sell
@@ -38,7 +38,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.02,26590,Potion of Soul,1200,2858.71,13,1,Anuel,ONLY FOR ALPHA MALES
 57.92,22003,Glowing Gem,700,1663.52,13,15,LazzzyBee,CHEAPEST THREE PAGER STALL!
 56.7,25258,Spirit Feather,350,808.37,11,57,bruna99,mvm
-55.94,26591,Potion of Lion,1200,2723.59,12,1,Anuel,ONLY FOR ALPHA MALES
+55.96,26591,Potion of Lion,1200,2724.78,12,1,Anuel,ONLY FOR ALPHA MALES
 55.56,25477,Lance Hairstyle Book,5000,11250.0,3,2,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 55.51,22000,FieryGem,3333,7491.58,14,5,Mikzx,A
 55.06,28442,Fire Sealed Coat of Evanescence,10000,22250.0,4,1,Che,Xiclets
