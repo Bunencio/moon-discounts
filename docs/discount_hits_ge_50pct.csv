@@ -2,7 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 98.98,25485,Cyan Dye,1,98.29,3,1,KloC,buy
 95.58,2301,,1000,22629.52,5,1,Stellar,Variety Shop
 87.8,25495,Green Colorant,500,4099.15,5,2,cheapstuffsell,cheap
-81.28,25258,Spirit Feather,150,801.33,11,10,burnik,buy mee
+81.44,25258,Spirit Feather,150,808.37,11,10,burnik,buy mee
 81.07,26589,Potion of Bull,500,2640.66,15,1,Anuel,ONLY FOR ALPHA MALES
 79.7,26564,Meditation Potion,8,39.41,4,99,TagBaligya2,Cook/Manu/Craft Items
 79.4,25493,Orange Colorant,500,2427.67,5,2,cheapstuffsell,cheap
@@ -14,8 +14,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.09,26564,Meditation Potion,11,39.41,4,200,NoDelete,e.e
 71.58,22001,Furious Gem,1499,5273.65,11,1,SamuSta,ROCK/REF/DC/FB/SPR/FIE/GEMS@CHEA
 71.56,22001,Furious Gem,1500,5273.65,11,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
-70.19,25503,Magical Stone,150,503.23,9,99,xVENDORx,RUSH
-70.19,25503,Magical Stone,150,503.23,9,19,xVENDORx,RUSH
 69.94,22003,Glowing Gem,500,1663.52,13,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 69.94,22003,Glowing Gem,500,1663.52,13,34,Frank,GREEN JADE REF GEMS ER INS EVS
 69.09,30135,Demonic Rock,1000,3234.89,10,1,Darcy,********************************
@@ -26,7 +24,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.39,25504,Standard Scroll,400,1092.57,7,79,StepanBendera,Souk/Warrior/MoonrooT
 63.39,25504,Standard Scroll,400,1092.57,7,17,StepanBendera,Souk/Warrior/MoonrooT
 63.29,30121,Vial of Accuracy Reset,2000,5447.37,4,4,Tom,PVP POTIONS LNTRN W8LESS BB DW
-62.56,25258,Spirit Feather,300,801.33,11,39,LunaMaya,S>HiddenHomey LamnSkull FairyFoo
+62.89,25258,Spirit Feather,300,808.37,11,39,LunaMaya,S>HiddenHomey LamnSkull FairyFoo
 62.13,26589,Potion of Bull,1000,2640.66,15,4,STALLING11,REFINING GEM CHEAP/POTS
 62.13,26589,Potion of Bull,1000,2640.66,15,1,Myro,Fairy-Ring-Soul detector-potion
 62.08,22001,Furious Gem,2000,5273.65,11,10,sstido,buy please
@@ -39,7 +37,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.02,26590,Potion of Soul,1200,2858.71,13,1,Anuel,ONLY FOR ALPHA MALES
 57.92,22003,Glowing Gem,700,1663.52,13,15,LazzzyBee,CHEAPEST THREE PAGER STALL!
 56.83,28155,Steel Platemail,5000,11583.33,5,1,Swird,Tribal/Boots/Storm/Sphinx/Steel
-56.32,25258,Spirit Feather,350,801.33,11,72,bruna99,mvm
+56.7,25258,Spirit Feather,350,808.37,11,57,bruna99,mvm
 55.93,26591,Potion of Lion,1200,2723.12,12,1,Anuel,ONLY FOR ALPHA MALES
 55.77,28403,Blade of Incantation,115000,259999.62,5,1,Vendedor,Promotion
 55.77,28403,Blade of Incantation,115000,259999.62,5,1,Vendedor,Promotion
@@ -54,6 +52,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.59,22001,Furious Gem,2500,5273.65,11,2,Obsidian,gems/legendbp|lion|glovesm|pots
 52.17,29010,Novice 15 Fishing EXP Card,300,627.27,4,2,Shagidi,STR PET  | APP PHY | EXP CARDS
 51.93,30171,Ticket to Demonic World,350,728.15,16,2,Myro,Fairy-Ring-Soul detector-potion
-51.33,25258,Spirit Feather,390,801.33,11,24,Anuel,ONLY FOR ALPHA MALES
+51.75,25258,Spirit Feather,390,808.37,11,24,Anuel,ONLY FOR ALPHA MALES
 50.58,28035,Solar Shield,7999,16184.83,5,1,MiningGPU,GPS/PPS/Jack/Ring Conlv40/more
 50.05,26562,Cake,47,94.1,6,20,Jop4V,RAW SALMON-PPS-JACKPOT-MVM-PBS
