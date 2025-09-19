@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-99.68,25485,Cyan Dye,1,307.98,3,1,KloC,buy
 94.82,2301,,1000,19302.94,7,1,Stellar,Variety Shop
 92.31,28454,Ice Sealed Blade of Enigma,250000,3250000.0,3,1,vendedolmax,2000
 92.1,22003,Glowing Gem,150,1898.43,13,1,CrackHead,ALMOST 4 FREE
@@ -26,7 +25,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.09,26564,Meditation Potion,11,39.41,4,200,NoDelete,e.e
 71.91,22001,Furious Gem,1500,5340.05,10,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 69.85,25491,Decolorant,95,315.1,3,23,OsToWBaby,PURPL JADE | CHEAPESTHAIRPRODUCT
-69.15,25485,Cyan Dye,95,307.98,3,22,OsToWBaby,PURPL JADE | CHEAPESTHAIRPRODUCT
 68.98,25440,Evanescence Stone,300,966.99,8,35,FreePalestine1,sell
 68.76,28430,Fire Sealed Robe of Malediction,4999,15999.8,5,1,iLegolas,100x 10x Crystals Power Rock PPs
 68.02,25258,Spirit Feather,288,900.6,10,9,Anuel,Testosterone shop
@@ -56,18 +54,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.95,25178,Small Branch,100,243.61,3,99,trd,40-50
 58.63,25440,Evanescence Stone,400,966.99,8,7,LunaMaya,S>HiddenHoney FairyFood LambSkul
 57.62,28403,Blade of Incantation,115000,271363.27,8,1,Vendedor,Promotion
-57.43,26562,Cake,40,93.96,8,99,PALA02,ITEM + + + + + + + + + + + + + +
 57.14,28088,Bow of Wisdom,7000,16333.33,3,1,SoyCapi,sell!!
 56.83,25423,Evanescence Rock,299,692.68,14,46,hunterx,BP/gems/evarock/xp/fireseed
 56.69,25423,Evanescence Rock,300,692.68,14,14,FreePalestine1,sell
-56.46,28446,Fire Sealed Bow of Evanescence,10000,22966.67,4,1,OfflineBank,CHEAP MUNKS
+56.49,26562,Cake,40,91.94,7,99,PALA02,ITEM + + + + + + + + + + + + + +
+53.62,28446,Fire Sealed Bow of Evanescence,10000,21560.0,4,1,OfflineBank,CHEAP MUNKS
 53.18,22001,Furious Gem,2500,5340.05,10,2,Obsidian,gems/legendbp|lion|glovesm|pots
 53.03,26000,Sandy Coin,280,596.16,7,9,BigLez,Ref/GPS/PBS/Coins/Gems/Pots+++
 51.95,26344,Novice Weightless Potion,2000,4162.13,5,2,Segador,sheap shits
 51.05,25090,Limestone Crystal,195,398.39,4,27,vendedolmax,2000
 51.05,28434,Fire Sealed Robe of the Arcane,19500,39833.0,3,1,iLegolas,100x 10x Crystals Power Rock PPs
 50.42,28458,Ice Sealed Staff of the Sphinx,12000,24205.33,5,1,MUSACHI,60 and 50
-50.31,26326,Elven Royal Signet,1000,2012.53,8,38,Segador,sheap shits
 50.3,25090,Limestone Crystal,198,398.39,4,19,Coal4V,LV 50 RING // LIMESTONE CRYSTAL
 50.3,25090,Limestone Crystal,198,398.39,4,99,Coal4V,LV 50 RING // LIMESTONE CRYSTAL
 50.24,26563,Mushroom Soup,50,100.48,4,99,SellMeWhole,S>De Soul/lantern/+5pots/ref
