@@ -1,4 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
+99.01,30144,Ticket to Respawn,777777,78337337.0,3,1,IMMORTALLITY,PBS
 98.98,25485,Cyan Dye,1,98.29,3,1,KloC,buy
 95.58,2301,,1000,22629.52,5,1,Stellar,Variety Shop
 87.8,25495,Green Colorant,500,4099.15,5,2,cheapstuffsell,cheap
@@ -27,11 +28,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.77,25258,Spirit Feather,300,805.82,11,39,LunaMaya,S>HiddenHoney FairyFood LambSkul
 62.51,22001,Furious Gem,2000,5334.62,10,10,sstido,buy please
 62.51,22001,Furious Gem,2000,5334.62,10,6,LazzzyBee,CHEAPEST THREE PAGER STALL!
-62.21,25423,Evanescence Rock,300,793.82,12,14,FreePalestine1,sell
-61.96,22006,Spirit Gem,3000,7887.15,8,1,CrackHead,ALMOST 4 FREE
+61.51,22006,Spirit Gem,3000,7794.97,9,1,CrackHead,ALMOST 4 FREE
 60.87,25489,White Dye,5000,12777.78,3,1,Puscifer,S H O P Y
+60.65,25423,Evanescence Rock,299,759.9,13,46,hunterx,BP/gems/evarock/xp/fireseed
+60.52,25423,Evanescence Rock,300,759.9,13,14,FreePalestine1,sell
 60.28,30118,Vial of Strength Reset,2500,6294.12,3,2,Yennefer,UNIV PURSE ROCK ROYAL SUN  SPIRI
-59.68,26594,Novice Explosive Ball,150,372.03,3,33,Net1,Cheap Flash bomb / explosive bal
 59.57,25400,Explosive Tentacle,150,371.0,4,2,stuffseller,cheap
 59.17,28403,Blade of Incantation,115000,281666.33,7,1,Vendedor,Promotion
 58.95,25178,Small Branch,100,243.61,3,97,trd,40-50
@@ -41,11 +42,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.57,25258,Spirit Feather,350,805.82,11,57,bruna99,mvm
 55.56,25477,Lance Hairstyle Book,5000,11250.0,3,2,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 55.13,22000,FieryGem,3333,7428.1,14,5,Mikzx,A
-54.29,28436,Fire Sealed Staff of Evanescence,19999,43749.5,4,1,TTKillGirlTT,PPS / Jack Coin / Equips 50
 54.15,30121,Vial of Accuracy Reset,2500,5452.38,5,1,Yennefer,UNIV PURSE ROCK ROYAL SUN  SPIRI
 53.14,22001,Furious Gem,2500,5334.62,10,2,Obsidian,gems/legendbp|lion|glovesm|pots
-52.81,28406,Earth Sealed Staff of Abraxas.,1250,2649.14,5,1,DarkKillerJr,S>lv40 sealed equips/45 sword
 52.17,29010,Novice 15 Fishing EXP Card,300,627.27,4,2,Shagidi,STR PET  | APP PHY | EXP CARDS
+51.75,28406,Earth Sealed Staff of Abraxas.,1250,2590.67,5,1,DarkKillerJr,S>lv40 sealed equips/45 sword
 50.44,25090,Limestone Crystal,198,399.52,4,19,Coal4V,LV 50 RING // LIMESTONE CRYSTAL
 50.44,25090,Limestone Crystal,198,399.52,4,99,Coal4V,LV 50 RING // LIMESTONE CRYSTAL
 50.44,26562,Cake,47,94.83,8,20,Jop4V,RAW SALMON/MVM/PPS/PBS/BREWS
