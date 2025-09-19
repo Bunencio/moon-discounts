@@ -4,7 +4,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.0,30145,Fire Seed,9000,128567.78,4,4,suu,FIRE  AIR   WATER  SEED/EXP CARD
 92.22,30145,Fire Seed,10000,128567.78,4,1,Cihandarbey,kkkkkkkkkkk
 87.8,25495,Green Colorant,500,4099.15,5,2,cheapstuffsell,cheap
-81.69,25258,Spirit Feather,150,819.07,10,10,burnik,buy mee
+81.39,25258,Spirit Feather,150,805.82,11,10,burnik,buy mee
 79.7,26564,Meditation Potion,8,39.41,4,99,TagBaligya2,Cook/Manu/Craft Items
 79.4,25493,Orange Colorant,500,2427.67,5,2,cheapstuffsell,cheap
 78.83,22003,Glowing Gem,400,1889.11,13,4,Demonus,6 CON SM GLOVES - SMTHNG
@@ -13,18 +13,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.53,22003,Glowing Gem,500,1889.11,13,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 73.53,22003,Glowing Gem,500,1889.11,13,34,Frank,GREEN JADE REF GEMS ER INS EVS
 73.37,25439,Incantation Stone,300,1126.42,3,42,FreePalestine1,sell
+72.73,28327,Great Aqua Cap,29999,109999.67,3,1,Demicoin3,Caps Cleric / Poseidon / Voy
 72.09,26564,Meditation Potion,11,39.41,4,200,NoDelete,e.e
 71.88,22001,Furious Gem,1500,5334.62,10,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 68.77,25440,Evanescence Stone,300,960.58,8,37,FreePalestine1,sell
 68.18,28035,Solar Shield,14999,47142.71,6,1,TTKillGirlTT,PPS / Jack Coin / Equips 50
 67.94,26594,Novice Explosive Ball,150,467.82,4,33,Net1,Cheap Flash bomb / explosive bal
 66.37,28326,Divine Grace Cap,35355,105118.33,3,1,stallerx,Earth rock  sealds 60  ring
+64.26,25258,Spirit Feather,288,805.82,11,24,Anuel,Testosterone shop
 63.56,25440,Evanescence Stone,350,960.58,8,6,DontDelete7,e.e
 63.43,25504,Standard Scroll,400,1093.68,6,79,StepanBendera,Souk/Warrior/MoonrooT
 63.43,25504,Standard Scroll,400,1093.68,6,17,StepanBendera,Souk/Warrior/MoonrooT
-63.37,25258,Spirit Feather,300,819.07,10,39,LunaMaya,S>HiddenHoney FairyFood LambSkul
 63.32,30121,Vial of Accuracy Reset,2000,5452.38,5,4,Tom,PVP POTIONS LNTRN W8LESS BB DW
 62.95,22003,Glowing Gem,700,1889.11,13,15,LazzzyBee,CHEAPEST THREE PAGER STALL!
+62.77,25258,Spirit Feather,300,805.82,11,39,LunaMaya,S>HiddenHoney FairyFood LambSkul
 62.51,22001,Furious Gem,2000,5334.62,10,10,sstido,buy please
 62.51,22001,Furious Gem,2000,5334.62,10,6,LazzzyBee,CHEAPEST THREE PAGER STALL!
 61.96,22006,Spirit Gem,3000,7887.15,8,1,CrackHead,ALMOST 4 FREE
@@ -35,16 +37,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.95,25178,Small Branch,100,243.61,3,97,trd,40-50
 58.95,25178,Small Branch,100,243.61,3,99,trd,40-50
 58.36,25440,Evanescence Stone,400,960.58,8,7,LunaMaya,S>HiddenHoney FairyFood LambSkul
-57.27,25258,Spirit Feather,350,819.07,10,57,bruna99,mvm
 57.25,26594,Novice Explosive Ball,200,467.82,4,5,vendedolmax,2000
+56.57,25258,Spirit Feather,350,805.82,11,57,bruna99,mvm
 56.47,28403,Blade of Incantation,115000,264166.17,5,1,Vendedor,Promotion
 55.56,25477,Lance Hairstyle Book,5000,11250.0,3,2,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-55.51,22000,FieryGem,3333,7491.58,14,5,Mikzx,A
 55.06,28442,Fire Sealed Coat of Evanescence,10000,22250.0,4,1,Che,Xiclets
 54.34,26326,Elven Royal Signet,1000,2190.29,9,176,SailinSnail,S>DE rage/flashbomb
 54.29,28436,Fire Sealed Staff of Evanescence,19999,43749.5,4,1,TTKillGirlTT,PPS / Jack Coin / Equips 50
 54.15,30121,Vial of Accuracy Reset,2500,5452.38,5,1,Yennefer,UNIV PURSE ROCK ROYAL SUN  SPIRI
 53.14,22001,Furious Gem,2500,5334.62,10,2,Obsidian,gems/legendbp|lion|glovesm|pots
+53.03,22000,FieryGem,3333,7095.58,15,5,Mikzx,A
 52.81,28406,Earth Sealed Staff of Abraxas.,1250,2649.14,5,1,DarkKillerJr,S>lv40 sealed equips/45 sword
 52.17,29010,Novice 15 Fishing EXP Card,300,627.27,4,2,Shagidi,STR PET  | APP PHY | EXP CARDS
 50.44,25090,Limestone Crystal,198,399.52,4,19,Coal4V,LV 50 RING // LIMESTONE CRYSTAL
