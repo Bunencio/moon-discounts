@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.68,25485,Cyan Dye,1,307.98,3,1,KloC,buy
-99.01,30144,Ticket to Respawn,777777,78337337.0,3,1,IMMORTALLITY,PBS
+99.01,30144,Ticket to Respawn,777777,78340039.67,3,1,IMMORTALLITY,PBS
 95.58,2301,,1000,22629.52,5,1,Stellar,Variety Shop
 87.8,25495,Green Colorant,500,4099.15,5,2,cheapstuffsell,cheap
 82.03,25258,Spirit Feather,150,834.53,10,10,burnik,buy mee
@@ -33,11 +33,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.51,22001,Furious Gem,2000,5334.62,10,10,sstido,buy please
 62.51,22001,Furious Gem,2000,5334.62,10,6,LazzzyBee,CHEAPEST THREE PAGER STALL!
 62.26,26594,Novice Explosive Ball,200,529.88,3,5,vendedolmax,2000
-61.53,22006,Spirit Gem,3000,7799.22,9,1,CrackHead,ALMOST 4 FREE
 60.87,25489,White Dye,5000,12777.78,3,1,Puscifer,S H O P Y
-60.65,25423,Evanescence Rock,299,759.9,13,46,hunterx,BP/gems/evarock/xp/fireseed
-60.52,25423,Evanescence Rock,300,759.9,13,14,FreePalestine1,sell
 60.28,30118,Vial of Strength Reset,2500,6294.12,3,2,Yennefer,UNIV PURSE ROCK ROYAL SUN  SPIRI
+59.99,25423,Evanescence Rock,299,747.39,12,46,hunterx,BP/gems/evarock/xp/fireseed
+59.86,25423,Evanescence Rock,300,747.39,12,14,FreePalestine1,sell
 59.57,25400,Explosive Tentacle,150,371.0,4,2,stuffseller,cheap
 58.95,25178,Small Branch,100,243.61,3,97,trd,40-50
 58.95,25178,Small Branch,100,243.61,3,99,trd,40-50
