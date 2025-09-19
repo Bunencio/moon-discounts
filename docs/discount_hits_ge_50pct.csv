@@ -10,7 +10,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.95,22003,Glowing Gem,400,1663.52,13,4,Demonus,6 CON SM GLOVES - SMTHNG
 74.6,28035,Solar Shield,4111,16184.83,5,1,MiningGPU,GPS/PPS/Jack/Ring Conlv40/more
 73.38,22001,Furious Gem,1400,5258.82,11,1,loyalty1,selling
-73.24,25439,Incantation Stone,300,1121.11,5,42,FreePalestine1,sell
+73.35,25439,Incantation Stone,300,1125.62,4,42,FreePalestine1,sell
 72.09,26564,Meditation Potion,11,39.41,4,200,NoDelete,e.e
 71.5,22001,Furious Gem,1499,5258.82,11,1,SamuSta,ROCK/REF/DC/FB/SPR/FIE/GEMS@CHEA
 71.48,22001,Furious Gem,1500,5258.82,11,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
@@ -19,7 +19,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.94,22003,Glowing Gem,500,1663.52,13,34,Frank,GREEN JADE REF GEMS ER INS EVS
 68.61,25440,Evanescence Stone,300,955.79,9,37,FreePalestine1,sell
 66.37,28326,Divine Grace Cap,35355,105118.33,3,1,stallerx,Earth rock  sealds 60  ring
-64.32,25439,Incantation Stone,400,1121.11,5,1,SSTTAALL,ICE FIRE BABY!!! TINTINTINTINTIN
 63.39,25504,Standard Scroll,400,1092.57,7,79,StepanBendera,Souk/Warrior/MoonrooT
 63.39,25504,Standard Scroll,400,1092.57,7,17,StepanBendera,Souk/Warrior/MoonrooT
 63.38,25440,Evanescence Stone,350,955.79,9,8,DontDelete7,e.e
