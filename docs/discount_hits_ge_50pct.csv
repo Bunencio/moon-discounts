@@ -4,8 +4,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.83,22003,Glowing Gem,125,2026.98,14,1,CrackHead,ALMOST 4 FREE
 92.31,28454,Ice Sealed Blade of Enigma,250000,3250000.0,3,1,vendedolmax,2000
 87.8,25495,Green Colorant,500,4099.15,5,2,cheapstuffsell,cheap
-85.29,28035,Solar Shield,5000,33999.8,4,1,VENDEDORAA,CAP LANCE / SM 50 / APPS / MORE
-85.29,28035,Solar Shield,5000,33999.8,4,1,VENDEDORAA,CAP LANCE / SM 50 / APPS / MORE
 84.04,26564,Meditation Potion,8,50.12,3,99,TagBaligya2,Cook/Manu/Craft Items
 80.07,25522,,50,250.89,4,94,RuaDaValeta,Sell PupleBP/MINE 2
 80.07,25522,,50,250.89,4,6,cheapcheapcheap,cheap
@@ -15,16 +13,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
 78.05,26564,Meditation Potion,11,50.12,3,200,NoDelete,e.e
-76.39,22001,Furious Gem,1500,6352.71,8,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
+76.23,22001,Furious Gem,1500,6310.61,8,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 75.38,22003,Glowing Gem,499,2026.98,14,2,TheMystic,REF / GEM / SOCKET
 75.33,22003,Glowing Gem,500,2026.98,14,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 75.33,22003,Glowing Gem,500,2026.98,14,33,Frank,GREEN JADE REF GEMS ER INS EVS
 74.1,2301,,5000,19302.94,7,1,MUSACHI,60 and 50
 74.1,2301,,5000,19302.94,7,1,MUSACHI,60 and 50
-68.7,26594,Novice Explosive Ball,200,638.89,3,5,vendedolmax,2000
-68.7,26594,Novice Explosive Ball,200,638.89,3,4,PALA02,ITEM + + + + + + + + + + + + + +
-68.52,22001,Furious Gem,2000,6352.71,8,10,sstido,buy please
-68.52,22001,Furious Gem,2000,6352.71,8,6,LazzzyBee,CHEAPEST THREE PAGER STALL!
+68.63,28430,Fire Sealed Robe of Malediction,4800,15299.83,6,1,iLegolas,pps jackpot reput rock bow50 pbs
+68.42,28035,Solar Shield,10000,31666.5,4,1,VENDEDORAA,SM 50 . APPS   MORE
+68.42,28035,Solar Shield,10000,31666.5,4,1,VENDEDORAA,SM 50 . APPS   MORE
+68.42,28035,Solar Shield,10000,31666.5,4,1,VENDEDORAA,SM 50 . APPS   MORE
+68.31,22001,Furious Gem,2000,6310.61,8,10,sstido,buy please
+68.31,22001,Furious Gem,2000,6310.61,8,6,LazzzyBee,CHEAPEST THREE PAGER STALL!
 66.37,28326,Divine Grace Cap,35355,105118.33,3,1,stallerx,Earth rock  sealds 60  ring
 65.92,30118,Vial of Strength Reset,2000,5868.42,4,3,Yennefer,ROYAL ROCK BP SUN POTION
 65.47,22003,Glowing Gem,700,2026.98,14,15,LazzzyBee,CHEAPEST THREE PAGER STALL!
@@ -34,25 +34,27 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.66,25258,Spirit Feather,288,771.27,7,9,Anuel,Testosterone shop
 61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,2,Yennefer,ROYAL ROCK BP SUN POTION
 61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,4,Tom,PVP POTIONS LNTRN W8LESS BB DW
-61.16,28430,Fire Sealed Robe of Malediction,4800,12359.8,5,1,iLegolas,pps jackpot reput rock bow50 pbs
 61.1,25258,Spirit Feather,300,771.27,7,39,LunaMaya,S>HiddenHoney FairyFood LambSkul
 60.87,25489,White Dye,5000,12777.78,3,1,Sulumania,S H O P P Y
 59.66,25400,Explosive Tentacle,150,371.81,3,2,stuffseller,cheap
 58.95,25178,Small Branch,100,243.61,3,97,trd,40-50
 58.95,25178,Small Branch,100,243.61,3,99,trd,40-50
-57.76,25423,Evanescence Rock,299,707.91,13,46,hunterx,BP/gems/evarock/xp/fireseed
-57.62,25423,Evanescence Rock,300,707.91,13,14,FreePalestine1,sell
+57.14,28088,Bow of Wisdom,7000,16333.33,3,1,SoyCapi,sell!!
 56.96,28403,Blade of Incantation,115000,267221.89,8,1,Vendedor,Promotion
 56.56,22000,FieryGem,3500,8057.25,14,2,TuoTuo,Cleaning Bank
 56.49,26562,Cake,40,91.94,7,99,PALA02,ITEM + + + + + + + + + + + + + +
-55.89,28035,Solar Shield,14999,33999.8,4,1,TTKillGirlTT,PPS  /  Sealed Euip  50
-55.51,25503,Magical Stone,299,671.99,9,5,iLegolas,pps jackpot reput rock bow50 pbs
-52.78,22001,Furious Gem,3000,6352.71,8,1,Mamadisimo,PBS/JackPot/SealedDoE
-52.78,22001,Furious Gem,3000,6352.71,8,1,HunterKim,eVAN
-52.78,22001,Furious Gem,3000,6352.71,8,2,Obsidian,gem/FC/DSsmgloves/lant/explo/
+54.88,25423,Evanescence Rock,299,662.62,13,46,hunterx,BP/gems/evarock/xp/fireseed
+54.72,25423,Evanescence Rock,300,662.62,13,14,FreePalestine1,sell
+54.41,26594,Novice Explosive Ball,200,438.73,4,5,vendedolmax,2000
+54.41,26594,Novice Explosive Ball,200,438.73,4,4,PALA02,ITEM + + + + + + + + + + + + + +
+52.91,25503,Magical Stone,299,634.98,10,5,iLegolas,pps jackpot reput rock bow50 pbs
+52.63,28035,Solar Shield,14999,31666.5,4,1,TTKillGirlTT,PPS  /  Sealed Euip  50
+52.46,22001,Furious Gem,3000,6310.61,8,1,Mamadisimo,PBS/JackPot/SealedDoE
+52.46,22001,Furious Gem,3000,6310.61,8,1,HunterKim,eVAN
+52.46,22001,Furious Gem,3000,6310.61,8,2,Obsidian,gem/FC/DSsmgloves/lant/explo/
 52.25,28406,Earth Sealed Staff of Abraxas.,1250,2618.0,4,1,DarkKillerJr,S>lv40 sealed equips/45 sword
 52.1,28434,Fire Sealed Robe of the Arcane,18999,39666.0,3,1,iLegolas,pps jackpot reput rock bow50 pbs
-51.95,26344,Novice Weightless Potion,2000,4162.13,5,2,Segador,sheap shits
+51.89,26344,Novice Weightless Potion,2000,4157.49,6,2,Segador,sheap shits
 51.05,25090,Limestone Crystal,195,398.39,4,27,vendedolmax,2000
 51.03,26000,Sandy Coin,300,612.66,7,89,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin
 50.67,22003,Glowing Gem,1000,2026.98,14,1,Undead2509,Sell  Scroll/Boots/Ring/Gem
