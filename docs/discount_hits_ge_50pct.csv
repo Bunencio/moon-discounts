@@ -1,8 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 98.98,25485,Cyan Dye,1,98.29,3,1,KloC,buy
 95.58,2301,,1000,22629.52,5,1,Stellar,Variety Shop
-93.0,30145,Fire Seed,9000,128567.78,4,4,suu,FIRE  AIR   WATER  SEED/EXP CARD
-92.22,30145,Fire Seed,10000,128567.78,4,1,Cihandarbey,kkkkkkkkkkk
 87.8,25495,Green Colorant,500,4099.15,5,2,cheapstuffsell,cheap
 81.39,25258,Spirit Feather,150,805.82,11,10,burnik,buy mee
 79.7,26564,Meditation Potion,8,39.41,4,99,TagBaligya2,Cook/Manu/Craft Items
@@ -29,8 +27,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.77,25258,Spirit Feather,300,805.82,11,39,LunaMaya,S>HiddenHoney FairyFood LambSkul
 62.51,22001,Furious Gem,2000,5334.62,10,10,sstido,buy please
 62.51,22001,Furious Gem,2000,5334.62,10,6,LazzzyBee,CHEAPEST THREE PAGER STALL!
+62.21,25423,Evanescence Rock,300,793.82,12,14,FreePalestine1,sell
 61.96,22006,Spirit Gem,3000,7887.15,8,1,CrackHead,ALMOST 4 FREE
-61.49,25423,Evanescence Rock,300,779.03,13,14,FreePalestine1,sell
 60.87,25489,White Dye,5000,12777.78,3,1,Puscifer,S H O P Y
 60.28,30118,Vial of Strength Reset,2500,6294.12,3,2,Yennefer,UNIV PURSE ROCK ROYAL SUN  SPIRI
 59.57,25400,Explosive Tentacle,150,371.0,4,2,stuffseller,cheap
@@ -52,4 +50,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.44,25090,Limestone Crystal,198,399.52,4,19,Coal4V,LV 50 RING // LIMESTONE CRYSTAL
 50.44,25090,Limestone Crystal,198,399.52,4,99,Coal4V,LV 50 RING // LIMESTONE CRYSTAL
 50.19,25090,Limestone Crystal,199,399.52,4,99,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
-50.05,26562,Cake,47,94.1,6,20,Jop4V,RAW SALMON/MVM/PPS/PBS/BREWS
+50.06,26562,Cake,47,94.11,7,20,Jop4V,RAW SALMON/MVM/PPS/PBS/BREWS
