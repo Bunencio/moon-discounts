@@ -39,8 +39,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.63,28430,Fire Sealed Robe of Malediction,4800,15299.83,6,1,iLegolas,pps jackpot reput rock bow50 pbs
 68.44,28212,Priestly Robe,1999,6333.0,3,1,DiscipleTwo,CHEAPEST ACC BOOTS|FROZEN EL|BPs
 66.62,22001,Furious Gem,2000,5991.94,9,10,sstido,buy please
+66.4,28403,Blade of Incantation,100000,297654.0,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 65.92,30118,Vial of Strength Reset,2000,5868.42,4,3,Yennefer,ROYAL ROCK BP SUN POTION
-65.67,28403,Blade of Incantation,100000,291269.43,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 65.0,28456,Ice Sealed Robe of the Sphinx,10000,28573.38,8,1,Scrolls,GEM SEAL  65 SM
 64.56,28088,Bow of Wisdom,7000,19750.0,3,1,SoyCapi,sell!!
 63.73,27000,Prosperous Packet,80,220.59,6,40,LazzzyBee,QUITTING PRICE!
@@ -53,7 +53,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,2,Yennefer,ROYAL ROCK BP SUN POTION
 60.87,25489,White Dye,5000,12777.78,3,1,Sulumania,S H O P P Y
 60.64,26562,Cake,39,99.09,8,30,TagBaligya2,Cook/Manu/Craft Items
-59.87,26588,Potion of Eagle,1000,2491.82,13,1,Avey,StrPetlv15 100k Potions Cheaps
+59.8,26588,Potion of Eagle,1000,2487.74,13,1,Avey,StrPetlv15 100k Potions Cheaps
 59.69,26589,Potion of Bull,900,2232.93,18,2,Drakss,gps GYOZA JcoIN   CHEAP
 59.63,26562,Cake,40,99.09,8,99,PALA02,garner
 59.5,22003,Glowing Gem,2000,4938.53,13,3,Mamadisimo,PBS/JackPot/SealedDoE
@@ -72,7 +72,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.29,25090,Limestone Crystal,190,415.68,4,19,Coal4V,LL RING //  CRYSTALS // UNIVERSE
 54.29,25090,Limestone Crystal,190,415.68,4,5,Coal4V,LL RING //  CRYSTALS // UNIVERSE
 54.01,25504,Standard Scroll,400,869.73,3,76,StepanBendera,WarrioR/Bood/Guard/Moonroot
-53.85,30172,Ticket to Treasure Island,300,650.11,4,8,LazzzyBee,QUITTING PRICE!
+53.85,30172,Ticket to Treasure Island,300,650.08,4,8,LazzzyBee,QUITTING PRICE!
 53.58,26594,Novice Explosive Ball,199,428.66,6,7,TagBaligya2,Cook/Manu/Craft Items
 53.34,26594,Novice Explosive Ball,200,428.66,6,4,PALA02,garner
 53.34,26594,Novice Explosive Ball,200,428.66,6,5,vendedolmax,2000
@@ -81,6 +81,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.14,26000,Sandy Coin,300,626.86,5,89,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin
 52.01,25423,Evanescence Rock,300,625.07,12,14,FreePalestine1,sell
 51.12,28035,Solar Shield,5499,11249.5,4,1,MiningGPU,Saled stuff lv60 cheep sm and cl
-50.81,28442,Fire Sealed Coat of Evanescence,10000,20330.0,3,1,LazzzyBee,QUITTING PRICE!
+51.05,27021,Green Pirate Scroll,250,510.71,7,9,SoulDrainZ,COPRA CULIAU
 50.13,27000,Prosperous Packet,110,220.59,6,10,Bankaquaq,Radiation/Grenade/FB/Potion/Ship
 50.0,28429,Dance of Evanescence,1100000,2200000.0,3,1,Caiser,cheap cruz items
