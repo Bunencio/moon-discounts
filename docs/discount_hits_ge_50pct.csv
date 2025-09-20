@@ -18,8 +18,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.12,25522,,50,239.46,3,94,RuaDaValeta,Sell PupleBP/MINE 2
 78.49,25481,Red Dye,30,139.45,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 78.48,25483,Yellow Dye,30,139.39,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
-77.57,26589,Potion of Bull,500,2229.44,18,1,Anuel,SHOP FOR REAL MEN
-77.57,26589,Potion of Bull,500,2229.44,18,1,Myro,Gold-Soul-Flash -Jackpot-gloves
+77.53,26589,Potion of Bull,500,2225.16,19,1,Anuel,SHOP FOR REAL MEN
+77.53,26589,Potion of Bull,500,2225.16,19,1,Myro,Gold-Soul-Flash -Jackpot-gloves
 76.8,25482,Orange Dye,30,129.3,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 76.51,25491,Decolorant,30,127.7,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 76.08,25488,Purple Dye,30,125.41,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
@@ -40,26 +40,29 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.82,22001,Furious Gem,2000,6028.38,9,10,sstido,buy please
 65.92,30118,Vial of Strength Reset,2000,5868.42,4,3,Yennefer,ROYAL ROCK BP SUN POTION
 65.67,28403,Blade of Incantation,100000,291269.43,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
-65.66,30121,Vial of Accuracy Reset,2000,5824.95,6,2,Yennefer,ROYAL ROCK BP SUN POTION
 64.56,28088,Bow of Wisdom,7000,19750.0,3,1,SoyCapi,sell!!
 64.54,28456,Ice Sealed Robe of the Sphinx,12000,33838.67,6,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 63.73,27000,Prosperous Packet,80,220.59,6,40,LazzzyBee,QUITTING PRICE!
 62.47,28456,Ice Sealed Robe of the Sphinx,12700,33838.67,6,1,Pablo,CHEAP CHEAPER CHIPOTLE
 62.43,28472,Ice Sealed Bow of Enigma,75000,199616.5,6,1,Stol2,Cheap
-62.21,26591,Potion of Lion,900,2381.58,11,2,Anuel,SHOP FOR REAL MEN
-61.49,26590,Potion of Soul,1000,2596.4,15,1,Avey,StrPetlv15 100k Potions Cheaps
+62.28,26591,Potion of Lion,900,2385.73,12,2,Anuel,SHOP FOR REAL MEN
+61.64,26590,Potion of Soul,1000,2606.99,15,1,Avey,StrPetlv15 100k Potions Cheaps
+61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,4,Bron,DW TIX VIALS
+61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,2,Yennefer,ROYAL ROCK BP SUN POTION
 60.87,25489,White Dye,5000,12777.78,3,1,Sulumania,S H O P P Y
 59.66,26562,Cake,40,99.15,8,99,PALA02,garner
 59.64,22003,Glowing Gem,2000,4955.09,13,3,Mamadisimo,PBS/JackPot/SealedDoE
-59.39,26588,Potion of Eagle,1000,2462.61,16,1,Avey,StrPetlv15 100k Potions Cheaps
-57.63,26590,Potion of Soul,1100,2596.4,15,1,Anuel,SHOP FOR REAL MEN
+59.55,26589,Potion of Bull,900,2225.16,19,2,Drakss,gps GYOZA JcoIN   CHEAP
+59.41,26588,Potion of Eagle,1000,2463.81,16,1,Avey,StrPetlv15 100k Potions Cheaps
+58.08,26591,Potion of Lion,1000,2385.73,12,1,Drakss,gps GYOZA JcoIN   CHEAP
+57.81,26590,Potion of Soul,1100,2606.99,15,1,Anuel,SHOP FOR REAL MEN
 57.14,28458,Ice Sealed Staff of the Sphinx,15000,34999.6,4,1,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr
 57.14,28458,Ice Sealed Staff of the Sphinx,15000,34999.6,4,1,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr
 57.08,25258,Spirit Feather,189,440.32,6,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 57.08,25258,Spirit Feather,189,440.32,6,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.7,25090,Limestone Crystal,180,415.68,4,99,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
-55.73,30171,Ticket to Demonic World,300,677.58,12,8,LazzzyBee,QUITTING PRICE!
-55.15,26589,Potion of Bull,1000,2229.44,18,1,Avey,StrPetlv15 100k Potions Cheaps
+55.7,30171,Ticket to Demonic World,300,677.23,12,8,LazzzyBee,QUITTING PRICE!
+55.06,26589,Potion of Bull,1000,2225.16,19,1,Avey,StrPetlv15 100k Potions Cheaps
 54.91,28472,Ice Sealed Bow of Enigma,90000,199616.5,6,1,Chupeteira,CHEAP SS EQS Lv2 FB VIP POTS !
 54.81,25258,Spirit Feather,199,440.32,6,9,Anuel,SHOP FOR REAL MEN
 54.69,25503,Magical Stone,299,659.86,8,5,iLegolas,pps jackpot reput rock bow50 pbs
