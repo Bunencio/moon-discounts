@@ -12,7 +12,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.0,28406,Earth Sealed Staff of Abraxas.,1000,4999.86,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 79.01,25522,,50,238.26,3,94,RuaDaValeta,Sell PupleBP/MINE 2
 78.46,25490,Brown Dye,95,441.04,3,29,OsToWBaby,PURPL JADE | CHEAPESTHAIRPRODUCT
-77.95,26589,Potion of Bull,500,2267.41,15,1,Anuel,SHOP FOR REAL MEN
+77.89,26589,Potion of Bull,500,2261.87,16,1,Anuel,SHOP FOR REAL MEN
 71.1,30145,Fire Seed,35000,121111.0,3,1,Aang,chek this out
 69.78,22003,Glowing Gem,499,1650.98,12,2,Kanzaki,BIG STUFF
 69.71,22003,Glowing Gem,500,1650.98,12,33,Frank,INS EVS ER GEMS
@@ -26,14 +26,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,2,Yennefer,HAIRVOUCHER SUN CLOUD ROYAL EVA
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,4,Bron,DW TIX VIALS
 62.47,2301,,8300,22117.75,6,1,Tsukiko,items
-62.37,26591,Potion of Lion,900,2391.67,13,2,Anuel,SHOP FOR REAL MEN
+62.32,26591,Potion of Lion,900,2388.47,14,2,Anuel,SHOP FOR REAL MEN
 61.99,28456,Ice Sealed Robe of the Sphinx,12000,31571.33,9,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 60.94,28476,Ice Sealed Kris of the Sphinx,25000,63999.8,4,1,ImNotPino,MS NECK RING SPR LV60 CLER EQ 45
 60.59,25491,Decolorant,200,507.55,4,1,Manager,BARBER SHOP
 60.02,28406,Earth Sealed Staff of Abraxas.,1999,4999.86,6,1,Tabitha,BOI +4 fiery and more
 59.93,28458,Ice Sealed Staff of the Sphinx,14000,34936.14,6,1,ghost26,scroll
 59.77,28456,Ice Sealed Robe of the Sphinx,12700,31571.33,9,1,Pablo,CHEAP CHEAPER CHIPOTLE
-59.69,26588,Potion of Eagle,1000,2480.72,12,1,Avey,StrPetlv15 100k Potions Cheaps
+59.4,26588,Potion of Eagle,1000,2463.14,13,1,Avey,StrPetlv15 100k Potions Cheaps
 59.02,25440,Evanescence Stone,300,732.07,7,46,Frank,INS EVS ER GEMS
 59.02,25440,Evanescence Stone,300,732.07,7,35,FreePalestine1,sell
 58.18,26000,Sandy Coin,350,836.9,5,9,BigLez,ClerStaffUns+2/GPS/Pots/GemsCoin
@@ -44,7 +44,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.97,25258,Spirit Feather,189,439.19,7,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.97,25258,Spirit Feather,189,439.19,7,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.61,26562,Cake,40,92.19,8,99,PALA02,crusader etc.
-55.9,26589,Potion of Bull,1000,2267.41,15,1,Avey,StrPetlv15 100k Potions Cheaps
+55.79,26589,Potion of Bull,1000,2261.87,16,1,Avey,StrPetlv15 100k Potions Cheaps
 54.69,25258,Spirit Feather,199,439.19,7,9,Anuel,SHOP FOR REAL MEN
 54.54,28442,Fire Sealed Coat of Evanescence,10000,21996.67,3,1,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 53.48,25090,Limestone Crystal,195,419.15,3,17,vendedolmax,2000
