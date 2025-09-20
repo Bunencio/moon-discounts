@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.2,28155,Steel Platemail,1000,7812.5,6,1,Swird,Steel/Bow50/Tribal/Sphinx/Storm
-86.34,25440,Evanescence Stone,100,732.07,7,2,LazzzyBee,LAST CLEANING BEFORE I QUIT!
+86.43,25440,Evanescence Stone,100,736.85,6,2,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 83.13,22003,Glowing Gem,300,1778.23,14,3,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 80.0,28406,Earth Sealed Staff of Abraxas.,1000,4999.88,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 78.24,25484,Green Dye,20,91.92,3,3,HyjoCrv,TAKE A LOOK
@@ -14,7 +14,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.76,26564,Meditation Potion,20,60.17,3,200,fffffeff,START COOK ---------------------
 66.67,28432,Fire Sealed Staff of Mirage,5000,15000.0,4,1,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 66.59,25439,Incantation Stone,300,897.97,3,38,FreePalestine1,selll
-65.62,30176,MvM Coin,1100,3199.83,4,4,Baphisto,str pet and more cheap
 64.29,28458,Ice Sealed Staff of the Sphinx,15000,41999.8,4,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
 64.29,28458,Ice Sealed Staff of the Sphinx,15000,41999.8,4,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,2,Yennefer,HAIRVOUCHER SUN CLOUD ROYAL EVA
@@ -25,9 +24,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.02,28406,Earth Sealed Staff of Abraxas.,1999,4999.88,6,1,Tabitha,BOI +4 fiery and more
 59.32,25090,Limestone Crystal,180,442.49,3,17,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
 59.3,25479,Phyllis Hairstyle Book,2000,4913.46,3,1,2Homo,sell
+59.29,25440,Evanescence Stone,300,736.85,6,46,Frank,INS EVS ER GEMS
+59.29,25440,Evanescence Stone,300,736.85,6,35,FreePalestine1,selll
 59.25,22004,Shining Gem,1999,4905.87,8,1,AltDude,buy my stuff
-59.02,25440,Evanescence Stone,300,732.07,7,46,Frank,INS EVS ER GEMS
-59.02,25440,Evanescence Stone,300,732.07,7,35,FreePalestine1,selll
 57.72,25505,Standard Stone,1500,3547.56,3,2,Shab7,cheeeeeeeeeeep
 57.66,25478,Carsise Hairstyle Book,2000,4724.14,3,2,2Homo,sell
 56.69,25480,Ami Hairstyle Book,2000,4617.65,4,5,2Homo,sell
@@ -35,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.62,25258,Spirit Feather,189,435.69,7,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.49,22000,FieryGem,2500,5745.24,11,14,Caiser,cheap stuff
 55.93,25090,Limestone Crystal,195,442.49,3,9,vendedolmax,2000
-55.74,27021,Green Pirate Scroll,250,564.78,11,1,SeventhHeaven,Scrolls/Lantern etc
+54.65,27021,Green Pirate Scroll,250,551.21,11,1,SeventhHeaven,Scrolls/Lantern etc
 54.33,25258,Spirit Feather,199,435.69,7,9,Anuel,SHOP FOR REAL MEN
 53.79,26594,Novice Explosive Ball,199,430.61,6,7,TagBaligya2,Cook/Manu/Craft Items
 53.55,26594,Novice Explosive Ball,200,430.61,6,5,vendedolmax,2000
