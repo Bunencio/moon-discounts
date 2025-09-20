@@ -19,7 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.12,25522,,50,239.46,3,94,RuaDaValeta,Sell PupleBP/MINE 2
 78.49,25481,Red Dye,30,139.45,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 78.48,25483,Yellow Dye,30,139.39,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
-77.63,26589,Potion of Bull,500,2234.74,18,1,Anuel,SHOP FOR REAL MEN
+77.62,26589,Potion of Bull,500,2233.83,18,1,Anuel,SHOP FOR REAL MEN
 76.8,25482,Orange Dye,30,129.3,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 76.6,25491,Decolorant,30,128.18,4,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 76.08,25488,Purple Dye,30,125.41,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
@@ -30,7 +30,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.1,2301,,5000,19302.94,7,1,MUSACHI,60 and 50
 74.1,2301,,5000,19302.94,7,1,MUSACHI,60 and 50
 72.64,28127,Lightborn Healer Hat,30000,109666.33,3,1,Ludopat1n,Fairy skating cheap equip
-71.15,25423,Evanescence Rock,180,623.9,12,57,hunterx,cheap rep/bps/gem/eva/exp
+70.68,25423,Evanescence Rock,180,613.86,13,57,hunterx,cheap rep/bps/gem/eva/exp
 69.65,22003,Glowing Gem,1499,4938.53,13,2,SamuSta,ROCK/REF/DC/FB/SPR/FIE/GEMS@CHEA
 69.63,22003,Glowing Gem,1500,4938.53,13,4,Gryffindor,GPS/PPS/Jackpot/POTS
 69.63,22003,Glowing Gem,1500,4938.53,13,5,FreePalestine1,sell
@@ -45,27 +45,28 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.51,28408,Earth Sealed Coat of Invocation,4999,13333.0,3,1,zHeaven,EVERYTHING FOR YOU
 62.5,28410,Earth Sealed Staff of Incantation,5000,13333.33,3,1,lAlpraMl,afk
 62.5,28476,Ice Sealed Kris of the Sphinx,25000,66666.33,5,1,ImNotPino,MS NECK RING SPR LV60 CLER EQ 45
-62.28,26591,Potion of Lion,900,2385.73,12,2,Anuel,SHOP FOR REAL MEN
-61.64,26590,Potion of Soul,1000,2606.99,15,1,Avey,StrPetlv15 100k Potions Cheaps
+62.28,22006,Spirit Gem,3500,9278.35,9,1,XiXi0n,cheap cheap cheap cheap cheap
+62.25,26591,Potion of Lion,900,2384.3,12,2,Anuel,SHOP FOR REAL MEN
+61.58,26590,Potion of Soul,1000,2602.76,15,1,Avey,StrPetlv15 100k Potions Cheaps
 61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,4,Bron,DW TIX VIALS
 61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,2,Yennefer,ROYAL ROCK BP SUN POTION
 60.87,25489,White Dye,5000,12777.78,3,1,Sulumania,S H O P P Y
 60.64,26562,Cake,39,99.09,8,30,TagBaligya2,Cook/Manu/Craft Items
-59.8,26588,Potion of Eagle,1000,2487.74,13,1,Avey,StrPetlv15 100k Potions Cheaps
-59.73,26589,Potion of Bull,900,2234.74,18,2,Drakss,gps GYOZA JcoIN   CHEAP
+59.71,26589,Potion of Bull,900,2233.83,18,2,Drakss,gps GYOZA JcoIN   CHEAP
+59.69,26588,Potion of Eagle,1000,2480.95,13,1,Avey,StrPetlv15 100k Potions Cheaps
 59.63,26562,Cake,40,99.09,8,99,PALA02,garner
 59.5,22003,Glowing Gem,2000,4938.53,13,3,Mamadisimo,PBS/JackPot/SealedDoE
-58.08,26591,Potion of Lion,1000,2385.73,12,1,Drakss,gps GYOZA JcoIN   CHEAP
+58.06,26591,Potion of Lion,1000,2384.3,12,1,Drakss,gps GYOZA JcoIN   CHEAP
 58.0,28456,Ice Sealed Robe of the Sphinx,12000,28573.38,8,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
-57.81,26590,Potion of Soul,1100,2606.99,15,1,Anuel,SHOP FOR REAL MEN
-57.76,25258,Spirit Feather,189,447.42,6,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
-57.76,25258,Spirit Feather,189,447.42,6,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
+57.74,26590,Potion of Soul,1100,2602.76,15,1,Anuel,SHOP FOR REAL MEN
+56.97,25258,Spirit Feather,189,439.19,7,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
+56.97,25258,Spirit Feather,189,439.19,7,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.7,25090,Limestone Crystal,180,415.68,4,99,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
 55.77,30171,Ticket to Demonic World,300,678.22,11,8,LazzzyBee,QUITTING PRICE!
 55.56,28458,Ice Sealed Staff of the Sphinx,14000,31499.67,5,1,ghost26,scroll
 55.55,28456,Ice Sealed Robe of the Sphinx,12700,28573.38,8,1,Pablo,CHEAP CHEAPER CHIPOTLE
-55.52,25258,Spirit Feather,199,447.42,6,9,Anuel,SHOP FOR REAL MEN
-55.25,26589,Potion of Bull,1000,2234.74,18,1,Avey,StrPetlv15 100k Potions Cheaps
+55.23,26589,Potion of Bull,1000,2233.83,18,1,Avey,StrPetlv15 100k Potions Cheaps
+54.69,25258,Spirit Feather,199,439.19,7,9,Anuel,SHOP FOR REAL MEN
 54.54,28442,Fire Sealed Coat of Evanescence,10000,21996.67,3,1,LazzzyBee,QUITTING PRICE!
 54.29,25090,Limestone Crystal,190,415.68,4,19,Coal4V,LL RING //  CRYSTALS // UNIVERSE
 54.29,25090,Limestone Crystal,190,415.68,4,5,Coal4V,LL RING //  CRYSTALS // UNIVERSE
@@ -78,7 +79,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.38,28458,Ice Sealed Staff of the Sphinx,15000,31499.67,5,1,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr
 52.38,28458,Ice Sealed Staff of the Sphinx,15000,31499.67,5,1,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr
 52.14,26000,Sandy Coin,300,626.86,5,89,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin
-51.92,25423,Evanescence Rock,300,623.9,12,14,FreePalestine1,sell
+51.13,25423,Evanescence Rock,300,613.86,13,14,FreePalestine1,sell
 51.12,28035,Solar Shield,5499,11249.5,4,1,MiningGPU,Saled stuff lv60 cheep sm and cl
 50.13,27000,Prosperous Packet,110,220.59,6,10,Bankaquaq,Radiation/Grenade/FB/Potion/Ship
 50.12,25504,Standard Scroll,400,801.92,3,76,StepanBendera,WarrioR/Bood/Guard/Moonroot
