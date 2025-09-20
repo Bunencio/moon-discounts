@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-98.85,26564,Meditation Potion,8,697.98,3,99,TagBaligya2,Cook/Manu/Craft Items
 94.82,2301,,1000,19302.94,7,1,Stellar,Variety Shop
 89.9,22003,Glowing Gem,499,4938.53,13,2,Kanzaki,BIG STUFF
 89.88,22003,Glowing Gem,500,4938.53,13,15,LazzzyBee,QUITTING PRICE!
@@ -10,7 +9,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.31,22001,Furious Gem,1000,5991.94,9,1,Scrolls,GEM SEAL  65 SM
 82.14,28406,Earth Sealed Staff of Abraxas.,1000,5600.0,4,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 81.46,22001,Furious Gem,1111,5991.94,9,8,NainBASTARD,+++
-81.37,26564,Meditation Potion,130,697.98,3,60,amiix,pots cheap GBS
 80.0,30197,Time Sand Refil,2000,9999.67,3,1,LazzzyBee,QUITTING PRICE!
 79.75,22003,Glowing Gem,1000,4938.53,13,1,Undead2509,Sell  Scroll/Boots/Ring/Gem
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
@@ -56,8 +54,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.87,25489,White Dye,5000,12777.78,3,1,Sulumania,S H O P P Y
 60.57,28456,Ice Sealed Robe of the Sphinx,12000,30433.14,7,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 59.8,26588,Potion of Eagle,1000,2487.74,13,1,Avey,StrPetlv15 100k Potions Cheaps
+59.78,26562,Cake,40,99.46,7,99,PALA02,garner
 59.69,26589,Potion of Bull,900,2232.93,18,2,Drakss,gps GYOZA JcoIN   CHEAP
-59.66,26562,Cake,40,99.15,8,99,PALA02,garner
 59.5,22003,Glowing Gem,2000,4938.53,13,3,Mamadisimo,PBS/JackPot/SealedDoE
 58.27,28456,Ice Sealed Robe of the Sphinx,12700,30433.14,7,1,Pablo,CHEAP CHEAPER CHIPOTLE
 58.08,26591,Potion of Lion,1000,2385.73,12,1,Drakss,gps GYOZA JcoIN   CHEAP
@@ -77,7 +75,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.01,25504,Standard Scroll,400,869.73,3,76,StepanBendera,WarrioR/Bood/Guard/Moonroot
 53.86,30172,Ticket to Treasure Island,300,650.15,4,8,LazzzyBee,QUITTING PRICE!
 53.09,25090,Limestone Crystal,195,415.68,4,17,vendedolmax,2000
-52.6,26562,Cake,47,99.15,8,20,Jop4V,RAW SALMON/MVM/PPS/PBS/BREWS
+52.75,26562,Cake,47,99.46,7,20,Jop4V,RAW SALMON/MVM/PPS/PBS/BREWS
 52.55,25503,Magical Stone,400,843.03,10,3,voyafarm,Chop chop cheap sht
 52.55,25503,Magical Stone,400,843.03,10,1,Stellar,Variety Shop
 52.55,25503,Magical Stone,400,843.03,10,7,xkom,Pine Log and Gemss
@@ -85,6 +83,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.01,25423,Evanescence Rock,300,625.07,12,14,FreePalestine1,sell
 51.12,28035,Solar Shield,5499,11249.5,4,1,MiningGPU,Saled stuff lv60 cheep sm and cl
 50.81,28442,Fire Sealed Coat of Evanescence,10000,20330.0,3,1,LazzzyBee,QUITTING PRICE!
-50.58,26562,Cake,49,99.15,8,30,TagBaligya2,Cook/Manu/Craft Items
 50.13,27000,Prosperous Packet,110,220.59,6,10,Bankaquaq,Radiation/Grenade/FB/Potion/Ship
 50.0,28429,Dance of Evanescence,1100000,2200000.0,3,1,Caiser,cheap cruz items
