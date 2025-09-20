@@ -14,7 +14,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.0,28406,Earth Sealed Staff of Abraxas.,1000,4999.86,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 79.12,25522,,50,239.46,3,94,RuaDaValeta,Sell PupleBP/MINE 2
 78.46,25490,Brown Dye,95,441.04,3,29,OsToWBaby,PURPL JADE | CHEAPESTHAIRPRODUCT
-77.93,26589,Potion of Bull,500,2265.61,17,1,Anuel,SHOP FOR REAL MEN
+77.92,26589,Potion of Bull,500,2265.0,17,1,Anuel,SHOP FOR REAL MEN
 69.78,22003,Glowing Gem,499,1650.98,12,2,Kanzaki,BIG STUFF
 69.71,22003,Glowing Gem,500,1650.98,12,33,Frank,INS EVS ER GEMS
 69.71,22003,Glowing Gem,500,1650.98,12,1,Scrolls,GEM SEAL  65 SM
@@ -34,24 +34,26 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.59,25491,Decolorant,200,507.55,4,1,Manager,BARBER SHOP
 60.18,28474,Ice Sealed Mantle of the Sphinx,75000,188333.0,3,1,BjornIronside,ITEMS VOY CHAMP Ss SM
 60.02,28406,Earth Sealed Staff of Abraxas.,1999,4999.86,6,1,Tabitha,BOI +4 fiery and more
-59.48,26588,Potion of Eagle,1000,2468.14,13,1,Avey,StrPetlv15 100k Potions Cheaps
+59.45,26588,Potion of Eagle,1000,2465.8,13,1,Avey,StrPetlv15 100k Potions Cheaps
 59.02,25440,Evanescence Stone,300,732.07,7,46,Frank,INS EVS ER GEMS
 59.02,25440,Evanescence Stone,300,732.07,7,35,FreePalestine1,sell
-58.25,26562,Cake,39,93.41,7,30,TagBaligya2,Cook/Manu/Craft Items
 58.05,26591,Potion of Lion,1000,2383.64,13,1,Drakss,gps GYOZA JcoIN   CHEAP
 58.0,28456,Ice Sealed Robe of the Sphinx,12000,28573.38,8,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 57.97,26000,Sandy Coin,350,832.68,5,9,BigLez,ClerStaffUns+2/GPS/Pots/GemsCoin
+57.7,26562,Cake,39,92.19,8,30,TagBaligya2,Cook/Manu/Craft Items
 57.06,25090,Limestone Crystal,180,419.15,3,99,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
 56.97,25258,Spirit Feather,189,439.19,7,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.97,25258,Spirit Feather,189,439.19,7,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
-55.86,26589,Potion of Bull,1000,2265.61,17,1,Avey,StrPetlv15 100k Potions Cheaps
+56.61,26562,Cake,40,92.19,8,99,PALA02,crusader etc.
+55.85,26589,Potion of Bull,1000,2265.0,17,1,Avey,StrPetlv15 100k Potions Cheaps
 55.56,28458,Ice Sealed Staff of the Sphinx,14000,31499.67,5,1,ghost26,scroll
 55.55,28456,Ice Sealed Robe of the Sphinx,12700,28573.38,8,1,Pablo,CHEAP CHEAPER CHIPOTLE
 54.69,25258,Spirit Feather,199,439.19,7,9,Anuel,SHOP FOR REAL MEN
 54.54,28442,Fire Sealed Coat of Evanescence,10000,21996.67,3,1,LazzzyBee,LAST CLEANING BEFORE I QUIT!
-53.83,26594,Novice Explosive Ball,199,431.03,6,7,TagBaligya2,Cook/Manu/Craft Items
-53.6,26594,Novice Explosive Ball,200,431.03,6,5,vendedolmax,2000
 53.48,25090,Limestone Crystal,195,419.15,3,17,vendedolmax,2000
+53.41,26594,Novice Explosive Ball,199,427.17,6,7,TagBaligya2,Cook/Manu/Craft Items
+53.18,26594,Novice Explosive Ball,200,427.17,6,5,vendedolmax,2000
+53.18,26594,Novice Explosive Ball,200,427.17,6,4,PALA02,crusader etc.
 52.49,30101,500 Reputation Scroll,2500,5261.53,7,1,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 52.38,28458,Ice Sealed Staff of the Sphinx,15000,31499.67,5,1,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr
 52.38,28458,Ice Sealed Staff of the Sphinx,15000,31499.67,5,1,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr
