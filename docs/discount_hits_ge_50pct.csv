@@ -5,6 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.0,28406,Earth Sealed Staff of Abraxas.,1000,4999.88,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 78.24,25484,Green Dye,20,91.92,3,3,HyjoCrv,TAKE A LOOK
 77.51,26589,Potion of Bull,500,2223.6,17,1,Anuel,SHOP FOR REAL MEN
+77.4,2301,,8300,36724.89,5,1,Tsukiko,items
 75.31,25481,Red Dye,100,405.07,3,1,2Homo,sell
 71.57,22003,Glowing Gem,499,1755.09,13,2,Kanzaki,BIG STUFF
 71.51,22003,Glowing Gem,500,1755.09,13,33,Frank,INS EVS ER GEMS
@@ -28,14 +29,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.3,25479,Phyllis Hairstyle Book,2000,4913.46,3,1,2Homo,sell
 59.29,25440,Evanescence Stone,300,736.85,6,46,Frank,INS EVS ER GEMS
 59.29,25440,Evanescence Stone,300,736.85,6,35,FreePalestine1,selll
-59.15,2301,,8300,20319.15,3,1,Tsukiko,items
 57.66,25478,Carsise Hairstyle Book,2000,4724.14,3,2,2Homo,sell
 56.69,25480,Ami Hairstyle Book,2000,4617.65,4,5,2Homo,sell
-56.52,22000,FieryGem,2500,5749.57,11,14,Caiser,cheap stuff
+55.79,22000,FieryGem,2500,5655.25,11,14,Caiser,cheap stuff
+53.31,27000,Prosperous Packet,175,374.82,6,20,Segador,NEW PRICES
 52.28,28456,Ice Sealed Robe of the Sphinx,12000,25148.0,6,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 51.73,27021,Green Pirate Scroll,250,517.94,10,1,SeventhHeaven,Scrolls/Lantern etc
 51.7,25258,Spirit Feather,189,391.27,6,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 51.7,25258,Spirit Feather,189,391.27,6,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 50.82,30145,Fire Seed,5000,10166.67,3,1,Cihandarbey,semicenk
 50.72,28442,Fire Sealed Coat of Evanescence,8000,16233.33,3,1,Alente,Stuffssss
-50.43,22000,FieryGem,2850,5749.57,11,3,hunterx,UGrage/wind/bps/repu/FBs etc
