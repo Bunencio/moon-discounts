@@ -1,5 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-98.9,26564,Meditation Potion,8,726.03,3,99,TagBaligya2,Cook/Manu/Craft Items
+98.88,26564,Meditation Potion,8,711.86,3,99,TagBaligya2,Cook/Manu/Craft Items
 97.59,25485,Cyan Dye,1,41.48,3,1,KloC,things sharp might need
 94.82,2301,,1000,19302.94,7,1,Stellar,Variety Shop
 90.55,22003,Glowing Gem,499,5280.1,13,2,Kanzaki,BIG STUFF
@@ -7,13 +7,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.2,28155,Steel Platemail,1000,7812.5,6,1,Swird,Steel/Bow50/Tribal/Sphinx/Storm
 82.25,22001,Furious Gem,1111,6258.69,8,8,NainBASTARD,+++
 82.14,28406,Earth Sealed Staff of Abraxas.,1000,5600.0,4,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
-82.09,26564,Meditation Potion,130,726.03,3,60,amiix,pots cheap GBS
+81.74,26564,Meditation Potion,130,711.86,3,60,amiix,pots cheap GBS
 81.06,22003,Glowing Gem,1000,5280.1,13,1,Undead2509,Sell  Scroll/Boots/Ring/Gem
-80.65,25522,,50,258.46,4,94,RuaDaValeta,Sell PupleBP/MINE 2
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
+79.12,25522,,50,239.46,3,94,RuaDaValeta,Sell PupleBP/MINE 2
 78.49,25481,Red Dye,30,139.45,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 78.48,25483,Yellow Dye,30,139.39,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 78.26,26589,Potion of Bull,500,2300.41,17,1,Myro,Gold-Soul-Flash -Jackpot-gloves
@@ -70,7 +70,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.07,22001,Furious Gem,3000,6258.69,8,1,Mamadisimo,PBS/JackPot/SealedDoE
 52.07,22001,Furious Gem,3000,6258.69,8,1,HunterKim,eVAN
 52.07,22001,Furious Gem,3000,6258.69,8,2,Obsidian,gem/FC/DSsmgloves/lant/explo/
-51.84,25212,Frozen Elixir,499,1036.09,3,9,DiscipleTwo,CHEAPEST ACC BOOTS|FROZEN EL|BPs
 51.84,28456,Ice Sealed Robe of the Sphinx,15000,31147.43,7,1,iFennec,FERAL BOOTS PPS PBS
 51.39,28476,Ice Sealed Kris of the Sphinx,35000,71999.8,4,1,ImNotPino,MS NECK SPR RING 60 CLER 45 UNSE
 51.12,28035,Solar Shield,5499,11249.5,4,1,MiningGPU,Saled stuff lv60 cheep sm and cl
