@@ -11,11 +11,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-20,22001,Furious Gem,sstido,buy please,2000,5991.94,3991.94,10,39919.42,66.62,9
 2025-09-20,28403,Blade of Incantation,DarkKillerJr,lv45/lv40 sealed/othersCHEAP,100000,297654.0,197654.0,1,197654.0,66.4,6
 2025-09-20,28476,Ice Sealed Kris of the Sphinx,ImNotPino,MS NECK RING SPR LV60 CLER EQ 45,25000,66666.33,41666.33,1,41666.33,62.5,5
-2025-09-20,25258,Spirit Feather,DarkKillerJr,lv45/lv40 sealed/othersCHEAP,189,440.32,251.32,99,24880.96,57.08,6
+2025-09-20,25258,Spirit Feather,DarkKillerJr,lv45/lv40 sealed/othersCHEAP,189,440.18,251.18,99,24866.33,57.06,6
 2025-09-20,25090,Limestone Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,180,415.68,235.68,99,23332.4,56.7,4
 2025-09-20,25504,Standard Scroll,StepanBendera,WarrioR/Bood/Guard/Moonroot,400,869.73,469.73,76,35699.18,54.01,3
 2025-09-20,26000,Sandy Coin,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin,300,626.86,326.86,89,29090.97,52.14,5
-2025-09-20,28429,Dance of Evanescence,Caiser,cheap cruz items,1100000,2200000.0,1100000.0,1,1100000.0,50.0,3
 2025-09-20,22000,FieryGem,xkom,Pine Log and Gemss,3999,7926.89,3927.89,6,23567.31,49.55,11
 2025-09-20,22003,Glowing Gem,TuoTuo,Cleaning Bank,2500,4938.53,2438.53,11,26823.81,49.38,13
 2025-09-20,22006,Spirit Gem,Segador,sheap shits,5000,9297.34,4297.34,6,25784.05,46.22,8
@@ -30,7 +29,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-20,22003,Glowing Gem,yeswedothat,chaos rune,2999,4938.53,1939.53,32,62064.89,39.27,13
 2025-09-20,28425,Tooth of the Cursed,Tontonha,ur last chance,70000,114000.0,44000.0,1,44000.0,38.6,4
 2025-09-20,22000,FieryGem,GEm01,UP GEARs +4,5000,7926.89,2926.89,20,58537.71,36.92,11
-2025-09-20,28429,Dance of Evanescence,Taknaydamo,cruz items and cleric,1400000,2200000.0,800000.0,1,800000.0,36.36,3
 2025-09-20,29302,Ring of Longevity,Myro,Gold-Soul-Flash -Jackpot-gloves,38000,59200.0,21200.0,1,21200.0,35.81,4
 2025-09-20,28462,Ice Sealed Staff of Enigma,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr,45000,70000.0,25000.0,1,25000.0,35.71,4
 2025-09-20,28421,Bow of Incantation,Anuel,SHOP FOR REAL MEN,79000,122259.0,43259.0,1,43259.0,35.38,6
@@ -44,7 +42,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-20,28472,Ice Sealed Bow of Enigma,Pablo,CHEAP CHEAPER CHIPOTLE,92700,132950.0,40250.0,1,40250.0,30.27,6
 2025-09-20,28421,Bow of Incantation,stallerx,std poss  ring str  shield  seal,85555,122259.0,36704.0,1,36704.0,30.02,6
 2025-09-20,26326,Elven Royal Signet,LillyBuffer,Cheap Stuff !!!,1299,1833.52,534.52,176,94075.52,29.15,7
-2025-09-20,26002,Pharaoh Gem,dsadsa,go,1800,2531.46,731.46,83,60711.0,28.89,11
+2025-09-20,26002,Pharaoh Gem,dsadsa,go,1800,2532.61,732.61,83,60806.48,28.93,11
 2025-09-20,28462,Ice Sealed Staff of Enigma,xKail,Seri i love u,50000,70000.0,20000.0,1,20000.0,28.57,4
 2025-09-20,26588,Potion of Eagle,Chupeteira,CHEAP SS EQS Lv2 FB VIP POTS !,1790,2487.74,697.74,74,51632.46,28.05,13
 2025-09-20,26588,Potion of Eagle,Stol3,Cheap,1800,2487.74,687.74,80,55018.87,27.65,13
@@ -59,19 +57,19 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-20,27014,Moonroot Wine,vnt3,MOONROOT  WINE- RADIATION !!!!!,650,847.48,197.48,200,39496.58,23.3,8
 2025-09-20,27014,Moonroot Wine,vnt3,MOONROOT  WINE- RADIATION !!!!!,650,847.48,197.48,149,29424.95,23.3,8
 2025-09-20,27014,Moonroot Wine,StepanBendera,WarrioR/Bood/Guard/Moonroot,650,847.48,197.48,103,20340.74,23.3,8
-2025-09-20,26002,Pharaoh Gem,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49,1949,2531.46,582.46,48,27957.98,23.01,11
+2025-09-20,26002,Pharaoh Gem,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49,1949,2532.61,583.61,48,28013.19,23.04,11
 2025-09-20,25452,Rock Gem Fragment,Jhoa,Potion/PBS/PPS/Rock F/Rep/Tk Dw,80000,101416.58,21416.58,1,21416.58,21.12,6
 2025-09-20,23002,Iron Treasure,S0phi,CHEAP,1000,1262.49,262.49,99,25986.98,20.79,4
-2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,677.96,137.96,200,27592.58,20.35,12
-2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,677.96,137.96,200,27592.58,20.35,12
-2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,677.96,137.96,193,26626.84,20.35,12
-2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,677.96,137.96,187,25799.06,20.35,12
-2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,677.96,137.96,158,21798.14,20.35,12
-2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,677.96,137.96,153,21108.33,20.35,12
+2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,678.22,138.22,200,27644.74,20.38,11
+2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,678.22,138.22,200,27644.74,20.38,11
+2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,678.22,138.22,193,26677.18,20.38,11
+2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,678.22,138.22,187,25847.84,20.38,11
+2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,678.22,138.22,157,21701.12,20.38,11
+2025-09-20,30171,Ticket to Demonic World,Guerra01,Tix DW Cheap   (o o )!     500g!,540,678.22,138.22,153,21148.23,20.38,11
 2025-09-20,25031,Refining Gem,Space,REF/ RAD LV2 / SHINING,9000,11291.01,2291.01,21,48111.2,20.29,15
-2025-09-20,26589,Potion of Bull,Chupeteira,CHEAP SS EQS Lv2 FB VIP POTS !,1790,2232.93,442.93,94,41635.75,19.84,18
+2025-09-20,26589,Potion of Bull,Chupeteira,CHEAP SS EQS Lv2 FB VIP POTS !,1790,2234.74,444.74,94,41805.25,19.9,18
+2025-09-20,26589,Potion of Bull,Stol3,Cheap,1800,2234.74,434.74,70,30431.57,19.45,18
 2025-09-20,26377,Pharaoh's Lantern,Acnologia,Very Cheap (o o )!,9000,11171.09,2171.09,14,30395.33,19.43,9
-2025-09-20,26589,Potion of Bull,Stol3,Cheap,1800,2232.93,432.93,70,30305.34,19.39,18
 2025-09-20,22014,Demonic Gem of Colossus,LotokSell,Ug WInd Demo Striking Colos Fair,2400000,2967500.0,567500.0,1,567500.0,19.12,3
 2025-09-20,30102,1000 Reputation Scroll,hunterx,cheap rep/bps/gem/eva/exp,7200,8872.75,1672.75,51,85310.17,18.85,11
 2025-09-20,28421,Bow of Incantation,BjornIronside,ITEMS VOY CHAMP Ss SM,99999,122259.0,22260.0,1,22260.0,18.21,6
@@ -107,8 +105,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-20,26592,Flash Bomb,iinerti,Jackpot/PPS/FB/PBS/Ref/FGP/MVM++,800,901.77,101.77,200,20353.16,11.29,14
 2025-09-20,22023,Green Jade,ShowerBro,AFK,350000,393333.19,43333.19,2,86666.38,11.02,5
 2025-09-20,30102,1000 Reputation Scroll,Henry,REPS PPF ROYAL JACK PBP EVO LOOT,7900,8872.75,972.75,29,28209.7,10.96,11
+2025-09-20,26589,Potion of Bull,Barya,LANTERN|FGT|ROCKS|LION|BULL,2000,2234.74,234.74,191,44834.72,10.5,18
 2025-09-20,26377,Pharaoh's Lantern,Gappie,cheap,9999,11171.09,1172.09,31,36334.94,10.49,9
-2025-09-20,26589,Potion of Bull,Barya,LANTERN|FGT|ROCKS|LION|BULL,2000,2232.93,232.93,191,44490.29,10.43,18
 2025-09-20,25420,Sunlight Heart,NainBASTARD,+++,22222,24734.67,2512.67,10,25126.67,10.16,3
 2025-09-20,26576,Iron Brew,Stol3,Cheap,7800,8616.78,816.78,50,40838.96,9.48,6
 2025-09-20,27020,Gold Pirate Scroll,Truoo,more discounts,18000,19848.95,1848.95,99,183046.24,9.32,17
@@ -118,14 +116,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-20,27020,Gold Pirate Scroll,xShanoa,GPS,18000,19848.95,1848.95,29,53619.61,9.32,17
 2025-09-20,27020,Gold Pirate Scroll,AAA123,123131313131,18000,19848.95,1848.95,18,33281.13,9.32,17
 2025-09-20,27020,Gold Pirate Scroll,Uzi,gps,17999,19848.95,1849.95,17,31449.18,9.32,17
-2025-09-20,27019,Purple Pirate Scroll,FBandGrenadeSell,Cheap Ass Items,4299,4698.63,399.63,99,39563.6,8.51,23
-2025-09-20,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/IMPS/PPS,4300,4698.63,398.63,99,39464.6,8.48,23
+2025-09-20,27019,Purple Pirate Scroll,FBandGrenadeSell,Cheap Ass Items,4299,4704.05,405.05,99,40099.56,8.61,23
+2025-09-20,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/IMPS/PPS,4300,4704.05,404.05,99,40000.56,8.59,23
 2025-09-20,26568,Skating Potion,stalleer,potions and skatings,50000,54615.33,4615.33,20,92306.67,8.45,3
 2025-09-20,26568,Skating Potion,stallerx,std poss  ring str  shield  seal,50000,54615.33,4615.33,12,55384.0,8.45,3
 2025-09-20,26346,Lantern,DinheiroFacil,CHEAP LANTERNS FREE QUITING PRIC,4750,5157.12,407.12,62,25241.32,7.89,7
 2025-09-20,25527,,KingKing,CA RUNE CHEAP,1800000,1950000.0,150000.0,1,150000.0,7.69,3
+2025-09-20,27019,Purple Pirate Scroll,FreePalestine1,sell,4350,4704.05,354.05,94,33280.33,7.53,23
 2025-09-20,27025,Radiation Lv1,MrMarket,RADIS SUPPORT POINTS,3700,3998.16,298.16,200,59631.94,7.46,6
-2025-09-20,27019,Purple Pirate Scroll,FreePalestine1,sell,4350,4698.63,348.63,94,32771.44,7.42,23
 2025-09-20,30156,Jackpot Coin,Paka01,SM armor60 Repu PPS Jackpot ref,9999,10797.36,798.36,145,115762.02,7.39,14
 2025-09-20,30156,Jackpot Coin,Stol2,Cheap,9999,10797.36,798.36,49,39119.58,7.39,14
 2025-09-20,26576,Iron Brew,Lucifer,Guard Brew 849   Iron Brew 7999,7999,8616.78,617.78,126,77840.17,7.17,6
@@ -137,9 +135,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-20,25508,Demonic Gem Fragment,Stol2,Cheap,129999,138426.71,8427.71,6,50566.29,6.09,3
 2025-09-20,26377,Pharaoh's Lantern,Virginia,Std Poss / Pharaoh Lant 10k,10500,11171.09,671.09,49,32883.65,6.01,9
 2025-09-20,25451,Jade Gem Fragment,Stol2,Cheap,78000,82574.76,4574.76,6,27448.59,5.54,7
+2025-09-20,27019,Purple Pirate Scroll,BankerY,SMTHNG,4450,4704.05,254.05,99,25150.56,5.4,23
 2025-09-20,26572,Inferno Potion,MadeInChina,INFERNO/WARLORD/ENCHANT/GUARDIAN,11999,12679.19,680.19,46,31288.57,5.36,4
-2025-09-20,27019,Purple Pirate Scroll,BankerY,SMTHNG,4450,4698.63,248.63,99,24614.6,5.29,23
 2025-09-20,25527,,Cush,cheapest CHAOS RUNE,1850000,1950000.0,100000.0,1,100000.0,5.13,3
+2025-09-20,27019,Purple Pirate Scroll,Emeritus,CHEAPEST PPS,4499,4704.05,205.05,99,20299.56,4.36,23
 2025-09-20,26585,Blessed Potion,DeedOfSaIe,BLESS AND PUSH FULL WAVE 109K EA,109000,113947.36,4947.36,11,54421.0,4.34,4
 2025-09-20,26585,Blessed Potion,Stol3,Cheap,109999,113947.36,3948.36,16,63173.82,3.47,4
 2025-09-20,25451,Jade Gem Fragment,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49,79949,82574.76,2625.76,8,21006.12,3.18,7

@@ -19,8 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.12,25522,,50,239.46,3,94,RuaDaValeta,Sell PupleBP/MINE 2
 78.49,25481,Red Dye,30,139.45,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 78.48,25483,Yellow Dye,30,139.39,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
-77.61,26589,Potion of Bull,500,2232.93,18,1,Anuel,SHOP FOR REAL MEN
-77.61,26589,Potion of Bull,500,2232.93,18,1,Myro,Gold-Soul-Flash -Jackpot-gloves
+77.63,26589,Potion of Bull,500,2234.74,18,1,Anuel,SHOP FOR REAL MEN
 76.8,25482,Orange Dye,30,129.3,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 76.6,25491,Decolorant,30,128.18,4,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 76.08,25488,Purple Dye,30,125.41,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
@@ -37,7 +36,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.63,22003,Glowing Gem,1500,4938.53,13,5,FreePalestine1,sell
 69.63,22003,Glowing Gem,1500,4938.53,13,7,DingDong,Repu|Statue|Skating|Gems|Pots
 68.63,28430,Fire Sealed Robe of Malediction,4800,15299.83,6,1,iLegolas,pps jackpot reput rock bow50 pbs
-68.44,28212,Priestly Robe,1999,6333.0,3,1,DiscipleTwo,CHEAPEST ACC BOOTS|FROZEN EL|BPs
 66.62,22001,Furious Gem,2000,5991.94,9,10,sstido,buy please
 66.4,28403,Blade of Incantation,100000,297654.0,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 65.92,30118,Vial of Strength Reset,2000,5868.42,4,3,Yennefer,ROYAL ROCK BP SUN POTION
@@ -54,7 +52,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.87,25489,White Dye,5000,12777.78,3,1,Sulumania,S H O P P Y
 60.64,26562,Cake,39,99.09,8,30,TagBaligya2,Cook/Manu/Craft Items
 59.8,26588,Potion of Eagle,1000,2487.74,13,1,Avey,StrPetlv15 100k Potions Cheaps
-59.69,26589,Potion of Bull,900,2232.93,18,2,Drakss,gps GYOZA JcoIN   CHEAP
+59.73,26589,Potion of Bull,900,2234.74,18,2,Drakss,gps GYOZA JcoIN   CHEAP
 59.63,26562,Cake,40,99.09,8,99,PALA02,garner
 59.5,22003,Glowing Gem,2000,4938.53,13,3,Mamadisimo,PBS/JackPot/SealedDoE
 58.08,26591,Potion of Lion,1000,2385.73,12,1,Drakss,gps GYOZA JcoIN   CHEAP
@@ -62,13 +60,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.81,26590,Potion of Soul,1100,2606.99,15,1,Anuel,SHOP FOR REAL MEN
 57.14,28458,Ice Sealed Staff of the Sphinx,15000,34999.6,4,1,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr
 57.14,28458,Ice Sealed Staff of the Sphinx,15000,34999.6,4,1,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr
-57.08,25258,Spirit Feather,189,440.32,6,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
-57.08,25258,Spirit Feather,189,440.32,6,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
+57.06,25258,Spirit Feather,189,440.18,6,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
+57.06,25258,Spirit Feather,189,440.18,6,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.7,25090,Limestone Crystal,180,415.68,4,99,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
-55.75,30171,Ticket to Demonic World,300,677.96,12,8,LazzzyBee,QUITTING PRICE!
+55.77,30171,Ticket to Demonic World,300,678.22,11,8,LazzzyBee,QUITTING PRICE!
 55.55,28456,Ice Sealed Robe of the Sphinx,12700,28573.38,8,1,Pablo,CHEAP CHEAPER CHIPOTLE
-55.22,26589,Potion of Bull,1000,2232.93,18,1,Avey,StrPetlv15 100k Potions Cheaps
-54.81,25258,Spirit Feather,199,440.32,6,9,Anuel,SHOP FOR REAL MEN
+55.25,26589,Potion of Bull,1000,2234.74,18,1,Avey,StrPetlv15 100k Potions Cheaps
+54.79,25258,Spirit Feather,199,440.18,6,9,Anuel,SHOP FOR REAL MEN
 54.29,25090,Limestone Crystal,190,415.68,4,19,Coal4V,LL RING //  CRYSTALS // UNIVERSE
 54.29,25090,Limestone Crystal,190,415.68,4,5,Coal4V,LL RING //  CRYSTALS // UNIVERSE
 54.01,25504,Standard Scroll,400,869.73,3,76,StepanBendera,WarrioR/Bood/Guard/Moonroot
@@ -83,4 +81,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.12,28035,Solar Shield,5499,11249.5,4,1,MiningGPU,Saled stuff lv60 cheep sm and cl
 51.05,27021,Green Pirate Scroll,250,510.71,7,9,SoulDrainZ,COPRA CULIAU
 50.13,27000,Prosperous Packet,110,220.59,6,10,Bankaquaq,Radiation/Grenade/FB/Potion/Ship
-50.0,28429,Dance of Evanescence,1100000,2200000.0,3,1,Caiser,cheap cruz items
