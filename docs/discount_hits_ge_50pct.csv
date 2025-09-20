@@ -17,12 +17,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.62,30176,MvM Coin,1100,3199.83,4,4,Baphisto,str pet and more cheap
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,2,Yennefer,HAIRVOUCHER SUN CLOUD ROYAL EVA
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,4,Bron,DW TIX VIALS
-63.76,2301,,8300,22899.89,5,1,Tsukiko,items
 63.67,26591,Potion of Lion,900,2477.27,17,2,Anuel,SHOP FOR REAL MEN
+62.03,2301,,8300,21857.62,4,1,Tsukiko,items
 60.24,28456,Ice Sealed Robe of the Sphinx,10000,25148.0,6,1,Scrolls,GEM SEAL  65 SM
 60.02,28406,Earth Sealed Staff of Abraxas.,1999,4999.88,6,1,Tabitha,BOI +4 fiery and more
 59.32,25090,Limestone Crystal,180,442.49,3,17,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
 59.3,25479,Phyllis Hairstyle Book,2000,4913.46,3,1,2Homo,sell
+59.25,22004,Shining Gem,1999,4905.87,8,1,AltDude,buy my stuff
 59.02,25440,Evanescence Stone,300,732.07,7,46,Frank,INS EVS ER GEMS
 59.02,25440,Evanescence Stone,300,732.07,7,35,FreePalestine1,selll
 57.72,25505,Standard Stone,1500,3547.56,3,2,Shab7,cheeeeeeeeeeep
@@ -37,7 +38,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.33,25258,Spirit Feather,199,435.69,7,9,Anuel,SHOP FOR REAL MEN
 53.79,26594,Novice Explosive Ball,199,430.61,6,7,TagBaligya2,Cook/Manu/Craft Items
 53.55,26594,Novice Explosive Ball,200,430.61,6,5,vendedolmax,2000
-53.55,26594,Novice Explosive Ball,200,430.61,6,2,PALA02,CRUS  PET ACC  SPR  RING STR
+53.55,26594,Novice Explosive Ball,200,430.61,6,2,PALA02,crusader
 52.99,25503,Magical Stone,500,1063.5,5,67,sstido,ring 60 con
 52.28,28456,Ice Sealed Robe of the Sphinx,12000,25148.0,6,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 50.82,30145,Fire Seed,5000,10166.67,3,1,Cihandarbey,semicenk
