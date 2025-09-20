@@ -1,17 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 94.82,2301,,1000,19302.94,7,1,Stellar,Variety Shop
-89.9,22003,Glowing Gem,499,4938.53,13,2,Kanzaki,BIG STUFF
-89.88,22003,Glowing Gem,500,4938.53,13,15,LazzzyBee,QUITTING PRICE!
-89.88,22003,Glowing Gem,500,4938.53,13,33,Frank,INS EVS ER GEMS
-89.88,22003,Glowing Gem,500,4938.53,13,1,Scrolls,GEM SEAL  65 SM
 87.2,28155,Steel Platemail,1000,7812.5,6,1,Swird,Steel/Bow50/Tribal/Sphinx/Storm
 86.17,26564,Meditation Potion,99,716.07,3,99,TagBaligya2,Cook/Manu/Craft Items
-83.31,22001,Furious Gem,1000,5991.94,9,6,LazzzyBee,QUITTING PRICE!
-83.31,22001,Furious Gem,1000,5991.94,9,1,Scrolls,GEM SEAL  65 SM
-82.14,28406,Earth Sealed Staff of Abraxas.,1000,5600.0,4,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 81.85,26564,Meditation Potion,130,716.07,3,60,amiix,pots cheap GBS
-81.46,22001,Furious Gem,1111,5991.94,9,8,NainBASTARD,+++
-79.75,22003,Glowing Gem,1000,4938.53,13,1,Undead2509,Sell  Scroll/Boots/Ring/Gem
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
@@ -24,6 +15,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.6,25491,Decolorant,30,128.18,4,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 76.08,25488,Purple Dye,30,125.41,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 75.58,25485,Cyan Dye,30,122.86,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
+75.45,22003,Glowing Gem,499,2032.35,12,2,Kanzaki,BIG STUFF
+75.4,22003,Glowing Gem,500,2032.35,12,15,LazzzyBee,QUITTING PRICE!
+75.4,22003,Glowing Gem,500,2032.35,12,33,Frank,INS EVS ER GEMS
+75.4,22003,Glowing Gem,500,2032.35,12,1,Scrolls,GEM SEAL  65 SM
 75.32,25484,Green Dye,30,121.55,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 74.92,25486,Blue Dye,30,119.6,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 74.27,25490,Brown Dye,30,116.61,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
@@ -31,31 +26,28 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.1,2301,,5000,19302.94,7,1,MUSACHI,60 and 50
 72.64,28127,Lightborn Healer Hat,30000,109666.33,3,1,Ludopat1n,Fairy skating cheap equip
 70.68,25423,Evanescence Rock,180,613.86,13,57,hunterx,cheap rep/bps/gem/eva/exp
-69.65,22003,Glowing Gem,1499,4938.53,13,2,SamuSta,ROCK/REF/DC/FB/SPR/FIE/GEMS@CHEA
-69.63,22003,Glowing Gem,1500,4938.53,13,4,Gryffindor,GPS/PPS/Jackpot/POTS
-69.63,22003,Glowing Gem,1500,4938.53,13,5,FreePalestine1,sell
-69.63,22003,Glowing Gem,1500,4938.53,13,7,DingDong,Repu|Statue|Skating|Gems|Pots
+68.97,22001,Furious Gem,1000,3222.21,8,6,LazzzyBee,QUITTING PRICE!
+68.97,22001,Furious Gem,1000,3222.21,8,1,Scrolls,GEM SEAL  65 SM
 68.63,28430,Fire Sealed Robe of Malediction,4800,15299.83,6,1,iLegolas,pps jackpot reput rock bow50 pbs
-66.62,22001,Furious Gem,2000,5991.94,9,10,sstido,buy please
-66.4,28403,Blade of Incantation,100000,297654.0,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 65.92,30118,Vial of Strength Reset,2000,5868.42,4,3,Yennefer,ROYAL ROCK BP SUN POTION
+65.76,28403,Blade of Incantation,100000,292098.33,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
+65.52,22001,Furious Gem,1111,3222.21,8,8,NainBASTARD,+++
 65.0,28456,Ice Sealed Robe of the Sphinx,10000,28573.38,8,1,Scrolls,GEM SEAL  65 SM
 64.56,28088,Bow of Wisdom,7000,19750.0,3,1,SoyCapi,sell!!
 63.73,27000,Prosperous Packet,80,220.59,6,40,LazzzyBee,QUITTING PRICE!
 62.51,28408,Earth Sealed Coat of Invocation,4999,13333.0,3,1,zHeaven,EVERYTHING FOR YOU
 62.5,28410,Earth Sealed Staff of Incantation,5000,13333.33,3,1,lAlpraMl,afk
 62.5,28476,Ice Sealed Kris of the Sphinx,25000,66666.33,5,1,ImNotPino,MS NECK RING SPR LV60 CLER EQ 45
-62.28,22006,Spirit Gem,3500,9278.35,9,1,XiXi0n,cheap cheap cheap cheap cheap
 62.25,26591,Potion of Lion,900,2384.3,12,2,Anuel,SHOP FOR REAL MEN
 61.58,26590,Potion of Soul,1000,2602.76,15,1,Avey,StrPetlv15 100k Potions Cheaps
 61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,4,Bron,DW TIX VIALS
 61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,2,Yennefer,ROYAL ROCK BP SUN POTION
 60.87,25489,White Dye,5000,12777.78,3,1,Sulumania,S H O P P Y
 60.64,26562,Cake,39,99.09,8,30,TagBaligya2,Cook/Manu/Craft Items
+60.0,28406,Earth Sealed Staff of Abraxas.,1000,2499.75,4,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 59.71,26589,Potion of Bull,900,2233.83,18,2,Drakss,gps GYOZA JcoIN   CHEAP
 59.69,26588,Potion of Eagle,1000,2480.95,13,1,Avey,StrPetlv15 100k Potions Cheaps
 59.63,26562,Cake,40,99.09,8,99,PALA02,garner
-59.5,22003,Glowing Gem,2000,4938.53,13,3,Mamadisimo,PBS/JackPot/SealedDoE
 58.06,26591,Potion of Lion,1000,2384.3,12,1,Drakss,gps GYOZA JcoIN   CHEAP
 58.0,28456,Ice Sealed Robe of the Sphinx,12000,28573.38,8,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 57.74,26590,Potion of Soul,1100,2602.76,15,1,Anuel,SHOP FOR REAL MEN
@@ -81,6 +73,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.14,26000,Sandy Coin,300,626.86,5,89,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin
 51.13,25423,Evanescence Rock,300,613.86,13,14,FreePalestine1,sell
 51.12,28035,Solar Shield,5499,11249.5,4,1,MiningGPU,Saled stuff lv60 cheep sm and cl
+50.8,22003,Glowing Gem,1000,2032.35,12,1,Undead2509,Sell  Scroll/Boots/Ring/Gem
 50.13,27000,Prosperous Packet,110,220.59,6,10,Bankaquaq,Radiation/Grenade/FB/Potion/Ship
 50.12,25504,Standard Scroll,400,801.92,3,76,StepanBendera,WarrioR/Bood/Guard/Moonroot
 50.0,28429,Dance of Evanescence,1100000,2200000.0,3,1,Caiser,cheap cruz items
