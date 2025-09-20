@@ -21,7 +21,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.53,26589,Potion of Bull,500,2225.16,19,1,Anuel,SHOP FOR REAL MEN
 77.53,26589,Potion of Bull,500,2225.16,19,1,Myro,Gold-Soul-Flash -Jackpot-gloves
 76.8,25482,Orange Dye,30,129.3,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
-76.51,25491,Decolorant,30,127.7,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
+76.6,25491,Decolorant,30,128.18,4,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 76.08,25488,Purple Dye,30,125.41,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 75.58,25485,Cyan Dye,30,122.86,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
 75.32,25484,Green Dye,30,121.55,3,99,Khonsu,QUITTING HAIRSTYLING  PRICE
@@ -42,6 +42,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.67,28403,Blade of Incantation,100000,291269.43,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 64.56,28088,Bow of Wisdom,7000,19750.0,3,1,SoyCapi,sell!!
 64.54,28456,Ice Sealed Robe of the Sphinx,12000,33838.67,6,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
+64.53,25503,Magical Stone,299,843.03,10,5,iLegolas,pps jackpot reput rock bow50 pbs
+64.29,28476,Ice Sealed Kris of the Sphinx,25000,69999.8,4,1,ImNotPino,MS NECK RING SPR LV60 CLER EQ 45
 63.73,27000,Prosperous Packet,80,220.59,6,40,LazzzyBee,QUITTING PRICE!
 62.47,28456,Ice Sealed Robe of the Sphinx,12700,33838.67,6,1,Pablo,CHEAP CHEAPER CHIPOTLE
 62.43,28472,Ice Sealed Bow of Enigma,75000,199616.5,6,1,Stol2,Cheap
@@ -52,8 +54,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.87,25489,White Dye,5000,12777.78,3,1,Sulumania,S H O P P Y
 59.66,26562,Cake,40,99.15,8,99,PALA02,garner
 59.64,22003,Glowing Gem,2000,4955.09,13,3,Mamadisimo,PBS/JackPot/SealedDoE
+59.57,26588,Potion of Eagle,1000,2473.45,14,1,Avey,StrPetlv15 100k Potions Cheaps
 59.55,26589,Potion of Bull,900,2225.16,19,2,Drakss,gps GYOZA JcoIN   CHEAP
-59.41,26588,Potion of Eagle,1000,2463.81,16,1,Avey,StrPetlv15 100k Potions Cheaps
 58.08,26591,Potion of Lion,1000,2385.73,12,1,Drakss,gps GYOZA JcoIN   CHEAP
 57.81,26590,Potion of Soul,1100,2606.99,15,1,Anuel,SHOP FOR REAL MEN
 57.14,28458,Ice Sealed Staff of the Sphinx,15000,34999.6,4,1,Electricman1,DemSoul/GPS/PPS/JpCoin/Weap Armr
@@ -61,19 +63,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.08,25258,Spirit Feather,189,440.32,6,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 57.08,25258,Spirit Feather,189,440.32,6,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.7,25090,Limestone Crystal,180,415.68,4,99,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
-55.7,30171,Ticket to Demonic World,300,677.23,12,8,LazzzyBee,QUITTING PRICE!
+55.72,30171,Ticket to Demonic World,300,677.51,12,8,LazzzyBee,QUITTING PRICE!
 55.06,26589,Potion of Bull,1000,2225.16,19,1,Avey,StrPetlv15 100k Potions Cheaps
 54.91,28472,Ice Sealed Bow of Enigma,90000,199616.5,6,1,Chupeteira,CHEAP SS EQS Lv2 FB VIP POTS !
 54.81,25258,Spirit Feather,199,440.32,6,9,Anuel,SHOP FOR REAL MEN
-54.69,25503,Magical Stone,299,659.86,8,5,iLegolas,pps jackpot reput rock bow50 pbs
 54.29,25090,Limestone Crystal,190,415.68,4,19,Coal4V,LL RING //  CRYSTALS // UNIVERSE
 54.29,25090,Limestone Crystal,190,415.68,4,5,Coal4V,LL RING //  CRYSTALS // UNIVERSE
 54.09,26594,Novice Explosive Ball,200,435.65,5,4,PALA02,garner
 54.09,26594,Novice Explosive Ball,200,435.65,5,5,vendedolmax,2000
-53.86,30172,Ticket to Treasure Island,300,650.17,4,8,LazzzyBee,QUITTING PRICE!
+54.01,25504,Standard Scroll,400,869.73,3,76,StepanBendera,WarrioR/Bood/Guard/Moonroot
+53.86,30172,Ticket to Treasure Island,300,650.15,4,8,LazzzyBee,QUITTING PRICE!
 53.56,28472,Ice Sealed Bow of Enigma,92700,199616.5,6,1,Pablo,CHEAP CHEAPER CHIPOTLE
 53.09,25090,Limestone Crystal,195,415.68,4,17,vendedolmax,2000
 52.6,26562,Cake,47,99.15,8,20,Jop4V,RAW SALMON/MVM/PPS/PBS/BREWS
+52.55,25503,Magical Stone,400,843.03,10,3,voyafarm,Chop chop cheap sht
+52.55,25503,Magical Stone,400,843.03,10,1,Stellar,Variety Shop
+52.55,25503,Magical Stone,400,843.03,10,7,xkom,Pine Log and Gemss
 52.14,26000,Sandy Coin,300,626.86,5,89,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin
 52.01,25423,Evanescence Rock,300,625.07,12,14,FreePalestine1,sell
 51.12,28035,Solar Shield,5499,11249.5,4,1,MiningGPU,Saled stuff lv60 cheep sm and cl
