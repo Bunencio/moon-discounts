@@ -1,12 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 95.87,30145,Fire Seed,5000,121111.0,3,1,Cihandarbey,semicenk
 95.48,2301,,1000,22117.75,6,1,Stellar,Variety Shop
-89.81,25487,Black Dye,100,981.37,3,1,HyjoCrv,TAKE A LOOK
 87.2,28155,Steel Platemail,1000,7812.5,6,1,Swird,Steel/Bow50/Tribal/Sphinx/Storm
 86.34,25440,Evanescence Stone,100,732.07,7,2,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 84.95,26564,Meditation Potion,99,657.63,3,99,TagBaligya2,Cook/Manu/Craft Items
-84.59,25477,Lance Hairstyle Book,3500,22708.33,3,5,VERTIGO,HAIRSTYLE ALL YOU NEED
-84.31,25489,White Dye,1000,6375.0,3,19,VERTIGO,HAIRSTYLE ALL YOU NEED
 81.83,22003,Glowing Gem,300,1650.98,12,15,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 81.34,25482,Orange Dye,95,509.12,3,16,OsToWBaby,PURPL JADE | CHEAPESTHAIRPRODUCT
 81.28,25491,Decolorant,95,507.55,4,23,OsToWBaby,PURPL JADE | CHEAPESTHAIRPRODUCT
@@ -21,33 +18,33 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.71,22003,Glowing Gem,500,1650.98,12,33,Frank,INS EVS ER GEMS
 69.71,22003,Glowing Gem,500,1650.98,12,1,Scrolls,GEM SEAL  65 SM
 68.75,30118,Vial of Strength Reset,2000,6400.05,4,3,Yennefer,HAIRVOUCHER SUN CLOUD ROYAL EVA
+68.33,28456,Ice Sealed Robe of the Sphinx,10000,31571.33,9,1,Scrolls,GEM SEAL  65 SM
 66.62,25439,Incantation Stone,300,898.63,3,38,FreePalestine1,sell
 66.0,22001,Furious Gem,1111,3267.98,7,5,NainBASTARD,+++
-65.0,28456,Ice Sealed Robe of the Sphinx,10000,28573.38,8,1,Scrolls,GEM SEAL  65 SM
-64.56,28088,Bow of Wisdom,7000,19750.0,3,1,SoyCapi,sell!!
 64.29,28432,Fire Sealed Staff of Mirage,5000,14000.0,4,1,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 64.15,26000,Sandy Coin,300,836.9,5,20,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,2,Yennefer,HAIRVOUCHER SUN CLOUD ROYAL EVA
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,4,Bron,DW TIX VIALS
 62.47,2301,,8300,22117.75,6,1,Tsukiko,items
-62.34,26591,Potion of Lion,900,2390.04,14,2,Anuel,SHOP FOR REAL MEN
+62.37,26591,Potion of Lion,900,2391.67,13,2,Anuel,SHOP FOR REAL MEN
+61.99,28456,Ice Sealed Robe of the Sphinx,12000,31571.33,9,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 60.94,28476,Ice Sealed Kris of the Sphinx,25000,63999.8,4,1,ImNotPino,MS NECK RING SPR LV60 CLER EQ 45
 60.59,25491,Decolorant,200,507.55,4,1,Manager,BARBER SHOP
 60.02,28406,Earth Sealed Staff of Abraxas.,1999,4999.86,6,1,Tabitha,BOI +4 fiery and more
+59.93,28458,Ice Sealed Staff of the Sphinx,14000,34936.14,6,1,ghost26,scroll
+59.77,28456,Ice Sealed Robe of the Sphinx,12700,31571.33,9,1,Pablo,CHEAP CHEAPER CHIPOTLE
 59.69,26588,Potion of Eagle,1000,2480.72,12,1,Avey,StrPetlv15 100k Potions Cheaps
 59.02,25440,Evanescence Stone,300,732.07,7,46,Frank,INS EVS ER GEMS
 59.02,25440,Evanescence Stone,300,732.07,7,35,FreePalestine1,sell
 58.18,26000,Sandy Coin,350,836.9,5,9,BigLez,ClerStaffUns+2/GPS/Pots/GemsCoin
-58.16,26591,Potion of Lion,1000,2390.04,14,1,Drakss,gps GYOZA JcoIN   CHEAP
-58.0,28456,Ice Sealed Robe of the Sphinx,12000,28573.38,8,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 57.7,26562,Cake,39,92.19,8,30,TagBaligya2,Cook/Manu/Craft Items
 57.06,25090,Limestone Crystal,180,419.15,3,99,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
+57.06,28458,Ice Sealed Staff of the Sphinx,15000,34936.14,6,1,Electricman1,DemoSoul/Lv60 sealed weap/boots
+57.06,28458,Ice Sealed Staff of the Sphinx,15000,34936.14,6,1,Electricman1,DemoSoul/Lv60 sealed weap/boots
 56.97,25258,Spirit Feather,189,439.19,7,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.97,25258,Spirit Feather,189,439.19,7,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.61,26562,Cake,40,92.19,8,99,PALA02,crusader etc.
 55.9,26589,Potion of Bull,1000,2267.41,15,1,Avey,StrPetlv15 100k Potions Cheaps
-55.56,28458,Ice Sealed Staff of the Sphinx,14000,31499.67,5,1,ghost26,scroll
-55.55,28456,Ice Sealed Robe of the Sphinx,12700,28573.38,8,1,Pablo,CHEAP CHEAPER CHIPOTLE
 54.69,25258,Spirit Feather,199,439.19,7,9,Anuel,SHOP FOR REAL MEN
 54.54,28442,Fire Sealed Coat of Evanescence,10000,21996.67,3,1,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 53.48,25090,Limestone Crystal,195,419.15,3,17,vendedolmax,2000
@@ -55,8 +52,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.18,26594,Novice Explosive Ball,200,427.17,6,5,vendedolmax,2000
 53.18,26594,Novice Explosive Ball,200,427.17,6,4,PALA02,crusader etc.
 52.83,28446,Fire Sealed Bow of Evanescence,15000,31800.0,4,1,Alente,Random stuffsss
-52.38,28458,Ice Sealed Staff of the Sphinx,15000,31499.67,5,1,Electricman1,DemoSoul/Lv60 sealed weap/boots
-52.38,28458,Ice Sealed Staff of the Sphinx,15000,31499.67,5,1,Electricman1,DemoSoul/Lv60 sealed weap/boots
 51.14,22000,FieryGem,2850,5832.62,12,11,hunterx,UGrage/wind/bps/repu/FBs etc
 51.12,28035,Solar Shield,5499,11249.5,4,1,MiningGPU,Saled stuff lv60 cheep sm and cl
+50.91,25501,Brown Colorant,1500,3055.58,4,7,Manager,BARBER SHOP
+50.73,28456,Ice Sealed Robe of the Sphinx,15555,31571.33,9,1,iFennec,FERAL
 50.12,25504,Standard Scroll,400,801.92,3,76,StepanBendera,WarrioR/Bood/Guard/Moonroot
