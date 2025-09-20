@@ -21,11 +21,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.15,26000,Sandy Coin,300,836.9,5,20,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,2,Yennefer,HAIRVOUCHER SUN CLOUD ROYAL EVA
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,4,Bron,DW TIX VIALS
-63.64,28476,Ice Sealed Kris of the Sphinx,25000,68749.75,3,1,ImNotPino,MS NECK RING SPR LV60 CLER EQ 45
 63.49,28456,Ice Sealed Robe of the Sphinx,10000,27392.88,8,1,Scrolls,GEM SEAL  65 SM
 62.49,28442,Fire Sealed Coat of Evanescence,8000,21330.0,3,1,Caiser,cheap stuff
 62.47,2301,,8300,22117.75,6,1,Tsukiko,items
 62.45,26591,Potion of Lion,900,2397.05,15,2,Anuel,SHOP FOR REAL MEN
+60.94,28476,Ice Sealed Kris of the Sphinx,25000,63999.8,4,1,ImNotPino,MS NECK RING SPR LV60 CLER EQ 45
 60.02,28406,Earth Sealed Staff of Abraxas.,1999,4999.86,6,1,Tabitha,BOI +4 fiery and more
 59.71,26588,Potion of Eagle,1000,2481.89,12,1,Avey,StrPetlv15 100k Potions Cheaps
 59.3,25479,Phyllis Hairstyle Book,2000,4913.46,3,1,2Homo,sell
@@ -44,6 +44,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.59,26589,Potion of Bull,1000,2251.98,17,1,Avey,StrPetlv15 100k Potions Cheaps
 55.32,25090,Limestone Crystal,195,436.47,3,17,vendedolmax,2000
 54.79,25258,Spirit Feather,199,440.16,7,9,Anuel,SHOP FOR REAL MEN
+54.7,28458,Ice Sealed Staff of the Sphinx,15000,33110.8,4,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
+54.7,28458,Ice Sealed Staff of the Sphinx,15000,33110.8,4,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
 53.64,28456,Ice Sealed Robe of the Sphinx,12700,27392.88,8,1,Pablo,CHEAP CHEAPER CHIPOTLE
 53.62,26594,Novice Explosive Ball,199,429.08,6,7,TagBaligya2,Cook/Manu/Craft Items
 53.39,26594,Novice Explosive Ball,200,429.08,6,5,vendedolmax,2000
