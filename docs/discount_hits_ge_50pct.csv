@@ -5,7 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.13,22003,Glowing Gem,300,1778.23,14,3,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 80.0,28406,Earth Sealed Staff of Abraxas.,1000,4999.88,6,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 78.24,25484,Green Dye,20,91.92,3,3,HyjoCrv,TAKE A LOOK
-77.63,26589,Potion of Bull,500,2235.46,16,1,Anuel,SHOP FOR REAL MEN
+77.49,26589,Potion of Bull,500,2220.78,16,1,Anuel,SHOP FOR REAL MEN
 75.31,25481,Red Dye,100,405.07,3,1,2Homo,sell
 71.94,22003,Glowing Gem,499,1778.23,14,2,Kanzaki,BIG STUFF
 71.88,22003,Glowing Gem,500,1778.23,14,33,Frank,INS EVS ER GEMS
@@ -19,7 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.29,28458,Ice Sealed Staff of the Sphinx,15000,41999.8,4,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,2,Yennefer,HAIRVOUCHER SUN CLOUD ROYAL EVA
 64.13,30121,Vial of Accuracy Reset,2000,5575.96,6,4,Bron,DW TIX VIALS
-63.7,26591,Potion of Lion,900,2479.64,17,2,Anuel,SHOP FOR REAL MEN
+63.65,26591,Potion of Lion,900,2476.26,17,2,Anuel,SHOP FOR REAL MEN
 62.35,2301,,22222,59024.75,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 62.35,2301,,22222,59024.75,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 62.35,2301,,22222,59024.75,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -29,21 +29,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.35,2301,,22222,59024.75,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 62.35,2301,,22222,59024.75,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 62.35,2301,,22222,59024.75,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-61.54,22004,Shining Gem,1999,5197.74,8,1,AltDude,buy my stuff
 60.24,28456,Ice Sealed Robe of the Sphinx,10000,25148.0,6,1,Scrolls,GEM SEAL  65 SM
 60.02,28406,Earth Sealed Staff of Abraxas.,1999,4999.88,6,1,Tabitha,BOI +4 fiery and more
-59.71,26594,Novice Explosive Ball,99,245.73,6,200,DontDelete6,e.e
+59.52,26594,Novice Explosive Ball,99,244.57,7,200,DontDelete6,e.e
 59.3,25479,Phyllis Hairstyle Book,2000,4913.46,3,1,2Homo,sell
 59.29,25440,Evanescence Stone,300,736.85,6,46,Frank,INS EVS ER GEMS
 59.29,25440,Evanescence Stone,300,736.85,6,35,FreePalestine1,selll
+59.25,22004,Shining Gem,1999,4905.87,8,1,AltDude,buy my stuff
 57.72,25505,Standard Stone,1500,3547.56,3,2,Shab7,cheeeeeeeeeeep
 57.66,25478,Carsise Hairstyle Book,2000,4724.14,3,2,2Homo,sell
 56.69,25480,Ami Hairstyle Book,2000,4617.65,4,5,2Homo,sell
 56.62,25258,Spirit Feather,189,435.69,7,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 56.62,25258,Spirit Feather,189,435.69,7,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
-56.45,22000,FieryGem,2500,5740.85,10,14,Caiser,cheap stuff
+56.52,22000,FieryGem,2500,5749.57,11,14,Caiser,cheap stuff
 54.33,25258,Spirit Feather,199,435.69,7,9,Anuel,SHOP FOR REAL MEN
-53.73,27021,Green Pirate Scroll,250,540.33,10,1,SeventhHeaven,Scrolls/Lantern etc
+52.87,27021,Green Pirate Scroll,250,530.43,10,1,SeventhHeaven,Scrolls/Lantern etc
 52.28,28456,Ice Sealed Robe of the Sphinx,12000,25148.0,6,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 50.82,30145,Fire Seed,5000,10166.67,3,1,Cihandarbey,semicenk
-50.36,22000,FieryGem,2850,5740.85,10,3,hunterx,UGrage/wind/bps/repu/FBs etc
+50.43,22000,FieryGem,2850,5749.57,11,3,hunterx,UGrage/wind/bps/repu/FBs etc
