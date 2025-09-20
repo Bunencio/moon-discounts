@@ -1,9 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 98.98,25485,Cyan Dye,1,98.29,3,1,KloC,things sharp might need
-98.92,26564,Meditation Potion,8,739.15,3,99,TagBaligya2,Cook/Manu/Craft Items
+98.9,26564,Meditation Potion,8,726.03,3,99,TagBaligya2,Cook/Manu/Craft Items
 94.82,2301,,1000,19302.94,7,1,Stellar,Variety Shop
 93.86,22003,Glowing Gem,125,2034.25,14,1,CrackHead,ALMOST 4 FREE
-87.2,28155,Steel Platemail,1000,7812.5,6,1,Swird,Steel/Bow50/Tribal/Sphinx/Storm
+87.59,28155,Steel Platemail,1000,8055.56,6,1,Swird,Steel/Bow50/Tribal/Sphinx/Storm
+82.09,26564,Meditation Potion,130,726.03,3,60,amiix,pots cheap GBS
 81.58,22001,Furious Gem,1111,6031.57,9,8,NainBASTARD,+++
 80.6,25522,,50,257.74,4,94,RuaDaValeta,Sell PupleBP/MINE 2
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
@@ -11,7 +12,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
 79.28,2301,,4000,19302.94,7,1,MUSACHI,60 and 50
 77.88,28406,Earth Sealed Staff of Abraxas.,1250,5650.0,4,1,DarkKillerJr,S>lv40 sealed equips/45 sword
-75.47,22003,Glowing Gem,499,2034.25,14,2,TheMystic,REF / GEM / SOCKET
+76.67,26325,Elven Signet,25,107.14,3,64,monodedo,SHARPSHOT
+75.47,22003,Glowing Gem,499,2034.25,14,2,Kanzaki,BIG STUFF
 75.42,22003,Glowing Gem,500,2034.25,14,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
 75.42,22003,Glowing Gem,500,2034.25,14,33,Frank,GREEN JADE REF GEMS ER INS EVS
 75.13,22001,Furious Gem,1500,6031.57,9,1,Scrolls,REF GEM EVA ROCK SEAL 65 SM
@@ -25,44 +27,44 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.42,28035,Solar Shield,10000,31666.5,4,1,VENDEDORAA,SM 50 . APPS   MORE
 66.84,22001,Furious Gem,2000,6031.57,9,10,sstido,buy please
 66.84,22001,Furious Gem,2000,6031.57,9,6,LazzzyBee,CHEAPEST THREE PAGER STALL!
-66.18,26564,Meditation Potion,250,739.15,3,60,amiix,jack coin 7k GPS 19k cheall all
 65.92,30118,Vial of Strength Reset,2000,5868.42,4,3,Yennefer,ROYAL ROCK BP SUN POTION
 65.59,22003,Glowing Gem,700,2034.25,14,15,LazzzyBee,CHEAPEST THREE PAGER STALL!
 64.78,25503,Magical Stone,299,849.0,10,5,iLegolas,pps jackpot reput rock bow50 pbs
 64.56,28088,Bow of Wisdom,7000,19750.0,3,1,SoyCapi,sell!!
-63.67,25504,Standard Scroll,400,1101.12,4,59,StepanBendera,Souk/Warrior/MoonrooT
-63.67,25504,Standard Scroll,400,1101.12,4,17,StepanBendera,Souk/Warrior/MoonrooT
+63.67,25504,Standard Scroll,400,1101.12,4,76,StepanBendera,WarrioR/Bood/Guard/Moonroot
 61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,2,Yennefer,ROYAL ROCK BP SUN POTION
 61.45,30121,Vial of Accuracy Reset,2000,5187.46,6,4,Tom,PVP POTIONS LNTRN W8LESS BB DW
 60.87,25489,White Dye,5000,12777.78,3,1,Sulumania,S H O P P Y
 59.51,25258,Spirit Feather,300,740.84,6,58,bruna99,mvm
 59.51,25258,Spirit Feather,300,740.84,6,39,LunaMaya,S>HiddenHoney FairyFood LambSkul
 58.73,22000,FieryGem,3500,8481.01,13,1,TuoTuo,Cleaning Bank
-57.48,28458,Ice Sealed Staff of the Sphinx,12000,28222.0,6,1,MUSACHI,60 and 50
-56.49,26562,Cake,40,91.94,7,99,PALA02,ITEM + + + + + + + + + + + + + +
-56.13,28403,Blade of Incantation,115000,262142.43,6,1,Vendedor,Promotion
-55.8,26588,Potion of Eagle,1111,2513.43,18,60,NainBASTARD,+++
-54.54,28456,Ice Sealed Robe of the Sphinx,12000,26398.67,8,1,MUSACHI,60 and 50
-54.26,25090,Limestone Crystal,190,415.38,4,19,Coal4V,LL RING //  CRYSTALS // UNIVERSE
-54.26,25090,Limestone Crystal,190,415.38,4,5,Coal4V,LL RING //  CRYSTALS // UNIVERSE
-53.88,26594,Novice Explosive Ball,200,433.63,5,5,vendedolmax,2000
-53.88,26594,Novice Explosive Ball,200,433.63,5,4,PALA02,ITEM + + + + + + + + + + + + + +
+57.53,26562,Cake,40,94.19,8,99,PALA02,crusader etc.
+56.49,25090,Limestone Crystal,180,413.67,4,99,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
+54.46,25423,Evanescence Rock,300,658.69,13,14,FreePalestine1,sell
+54.28,26588,Potion of Eagle,1111,2429.88,17,60,NainBASTARD,+++
+54.09,26594,Novice Explosive Ball,200,435.65,5,4,PALA02,crusader etc.
+54.09,26594,Novice Explosive Ball,200,435.65,5,5,vendedolmax,2000
+54.07,25090,Limestone Crystal,190,413.67,4,19,Coal4V,LL RING //  CRYSTALS // UNIVERSE
+54.07,25090,Limestone Crystal,190,413.67,4,5,Coal4V,LL RING //  CRYSTALS // UNIVERSE
+53.96,28456,Ice Sealed Robe of the Sphinx,12000,26065.33,8,1,MUSACHI,60 and 50
+53.96,28456,Ice Sealed Robe of the Sphinx,12000,26065.33,8,1,StepanBendera,WarrioR/Bood/Guard/Moonroot
 53.58,26326,Elven Royal Signet,900,1938.89,6,28,Chad,Cheap
-53.41,25423,Evanescence Rock,299,641.71,13,46,hunterx,BP/gems/evarock/xp/fireseed
-53.25,25423,Evanescence Rock,300,641.71,13,14,FreePalestine1,sell
-53.06,25090,Limestone Crystal,195,415.38,4,27,vendedolmax,2000
 52.89,25503,Magical Stone,400,849.0,10,3,voyafarm,Chop chop cheap sht
 52.89,25503,Magical Stone,400,849.0,10,1,Stellar,Variety Shop
 52.89,25503,Magical Stone,400,849.0,10,7,xkom,Pine Log and Gemss
+52.86,25090,Limestone Crystal,195,413.67,4,27,vendedolmax,2000
 52.85,22000,FieryGem,3999,8481.01,13,6,xkom,Pine Log and Gemss
 52.84,22000,FieryGem,4000,8481.01,13,1,Frank,GREEN JADE REF GEMS ER INS EVS
 52.63,28035,Solar Shield,14999,31666.5,4,1,TTKillGirlTT,PPS  /  Sealed Euip  50
 52.62,28434,Fire Sealed Robe of the Arcane,15990,33747.0,4,1,JuanTwoThree,cheap af
-52.39,27000,Prosperous Packet,110,231.03,5,10,Bankaquaq,Radiation/Grenade/FB/Potion/Ship
-52.09,25090,Limestone Crystal,199,415.38,4,99,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
-51.89,28456,Ice Sealed Robe of the Sphinx,12700,26398.67,8,1,Pablo,CHEAP CHEAPER CHIPOTLE
-51.03,26000,Sandy Coin,300,612.66,7,89,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin
+52.41,27000,Prosperous Packet,110,231.14,5,10,Bankaquaq,Radiation/Grenade/FB/Potion/Ship
+52.24,28417,Corset of Incantation,89000,186333.33,3,1,CHEAPSTALL,Jade frag/Uns ss 45/Bles Heart/
+51.68,26000,Sandy Coin,300,620.88,6,89,SCORPION21,Birch/Ore/Sword/Ninja Sandy Coin
+51.5,28458,Ice Sealed Staff of the Sphinx,15000,30925.67,5,1,Electricman1,GPS/PPS/DEMO SOUL/WEAP/ARMOR
+51.5,28458,Ice Sealed Staff of the Sphinx,15000,30925.67,5,1,Electricman1,GPS/PPS/DEMO SOUL/WEAP/ARMOR
+51.28,28456,Ice Sealed Robe of the Sphinx,12700,26065.33,8,1,Pablo,CHEAP CHEAPER CHIPOTLE
 50.84,22003,Glowing Gem,1000,2034.25,14,1,Undead2509,Sell  Scroll/Boots/Ring/Gem
 50.26,22001,Furious Gem,3000,6031.57,9,1,Mamadisimo,PBS/JackPot/SealedDoE
 50.26,22001,Furious Gem,3000,6031.57,9,1,HunterKim,eVAN
 50.26,22001,Furious Gem,3000,6031.57,9,2,Obsidian,gem/FC/DSsmgloves/lant/explo/
+50.1,26562,Cake,47,94.19,8,20,Jop4V,RAW SALMON/MVM/PPS/PBS/BREWS
