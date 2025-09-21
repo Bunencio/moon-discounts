@@ -6,7 +6,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-21,25440,Evanescence Stone,Frank,INS EVS ER GEMS,300,843.09,543.09,45,24438.85,64.42,4
 2025-09-21,22000,FieryGem,Tiichin,UG Soul 1.1m and more cheap!,2000,5030.44,3030.44,16,48487.11,60.24,12
 2025-09-21,28458,Ice Sealed Staff of the Sphinx,BjornIronside,COMPRA CULIAU,19999,43571.29,23572.29,1,23572.29,54.1,6
-2025-09-21,30171,Ticket to Demonic World,bertobank,Ref|PurpleBP|FB1|ProsPacket,300,624.27,324.27,198,64206.36,51.94,13
+2025-09-21,30171,Ticket to Demonic World,bertobank,Ref|PurpleBP|FB1|ProsPacket,300,624.26,324.26,198,64203.0,51.94,13
 2025-09-21,25258,Spirit Feather,DarkKillerJr,lv45/lv40 sealed/othersCHEAP,189,393.1,204.1,99,20205.92,51.92,8
 2025-09-21,22000,FieryGem,Caiser,cheap cruz items,2500,5030.44,2530.44,14,35426.22,50.3,12
 2025-09-21,28128,Warmth of the Cleric,FARMBR,sell,50000,100000.0,50000.0,1,50000.0,50.0,3
@@ -27,15 +27,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-21,26001,Ninja Coin,FARMBR,sell,450,696.2,246.2,99,24373.36,35.36,6
 2025-09-21,28476,Ice Sealed Kris of the Sphinx,BjornIronside,COMPRA CULIAU,49999,75999.6,26000.6,1,26000.6,34.21,3
 2025-09-21,28476,Ice Sealed Kris of the Sphinx,Yuuichi,BoI+3  AoE+5shining  BoE,49999,75999.6,26000.6,1,26000.6,34.21,3
+2025-09-21,26002,Pharaoh Gem,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49,1749,2625.0,876.0,25,21900.0,33.37,5
+2025-09-21,26002,Pharaoh Gem,dsadsa,half price,1750,2625.0,875.0,39,34125.0,33.33,5
 2025-09-21,27028,Ship Atomizer Lv1,Bankaquaq,RADIATION/GRENADE/FB/POISON/SHIP,1799,2683.37,884.37,153,135308.31,32.96,3
 2025-09-21,28421,Bow of Incantation,Anuel,SHOP FOR REAL MEN,79000,115799.6,36799.6,1,36799.6,31.78,5
 2025-09-21,28421,Bow of Incantation,stallerx,standard poss,79999,115799.6,35800.6,1,35800.6,30.92,5
 2025-09-21,28421,Bow of Incantation,CHEAPSTALL,Blessed Heart/Uns bow-armor 45,80000,115799.6,35799.6,1,35799.6,30.92,5
-2025-09-21,26002,Pharaoh Gem,dsadsa,half price,1750,2514.44,764.44,39,29813.22,30.4,6
 2025-09-21,25452,Rock Gem Fragment,Ankhseram,Hairstyle/imp/RockFrag (o o )!!,90000,126818.15,36818.15,4,147272.61,29.03,7
 2025-09-21,25452,Rock Gem Fragment,Oil,Fragments,90000,126818.15,36818.15,4,147272.61,29.03,7
 2025-09-21,25452,Rock Gem Fragment,Ragnark23,Gold pirate scroll -Rock Gem Fragmento,90000,126818.15,36818.15,1,36818.15,29.03,7
-2025-09-21,27025,Radiation Lv1,vnt3,Moonroot Wine - Radiation Come!,2499,3517.57,1018.57,44,44817.1,28.96,7
 2025-09-21,30104,5000 Reputation Scroll,Karius,REPU,32500,45557.95,13057.95,2,26115.91,28.66,3
 2025-09-21,30102,1000 Reputation Scroll,Aois,STALL,6000,8375.66,2375.66,13,30883.52,28.36,11
 2025-09-21,26588,Potion of Eagle,Stol3,CHEAP POTS,1800,2491.67,691.67,80,55333.49,27.76,13
@@ -115,7 +115,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-21,25451,Jade Gem Fragment,selleeeer1,GOLD GOLD GOLD,79999,89214.04,9215.04,14,129010.52,10.33,7
 2025-09-21,25451,Jade Gem Fragment,FukPolice,rockjadefrg/pps/jackpot/gem/bp,80000,89214.04,9214.04,12,110568.44,10.33,7
 2025-09-21,25431,Kal Runestone,PasarGelap,KAL / DEMO STRIKE / UG WIND,1450000,1616666.67,166666.67,1,166666.67,10.31,3
-2025-09-21,27020,Gold Pirate Scroll,Uzi,gps,17999,20060.31,2061.31,10,20613.12,10.28,11
 2025-09-21,30022,Buffing Card,Cardano,Golden / Expert Poss / Std Poss,32999,36761.48,3762.48,6,22574.86,10.23,5
 2025-09-21,27006,Bunny Potion,DontDeelete6,e.e,1150,1278.13,128.13,161,20628.87,10.02,10
 2025-09-21,25031,Refining Gem,dada4,Ref's / Elven Signet's new price,10500,11612.59,1112.59,30,33377.73,9.58,14
@@ -139,20 +138,21 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-21,30102,1000 Reputation Scroll,Saller,ty,7777,8375.66,598.66,99,59266.87,7.15,11
 2025-09-21,22009,Gem of Colossus,Space,CHEAP USEFUL THINGS  U SHOULD TA,1900000,2035000.0,135000.0,1,135000.0,6.63,6
 2025-09-21,22007,Gem of Striking,Aois,STALL,1500000,1605000.0,105000.0,1,105000.0,6.54,4
+2025-09-21,27020,Gold Pirate Scroll,Mikosita,SELL IMPS/GPS/REF/PPS,18999,20278.3,1279.3,43,55009.72,6.31,10
+2025-09-21,27020,Gold Pirate Scroll,SSTTAALL,ICE-STAFF GUN/SB CLERIC/SHLD/GPS,19000,20278.3,1278.3,18,23009.33,6.3,10
 2025-09-21,22008,Gem of the Wind,PasarGelap,KAL / DEMO STRIKE / UG WIND,950000,1012499.75,62499.75,1,62499.75,6.17,4
 2025-09-21,28429,Dance of Evanescence,Embracer,DOE,1200000,1269999.8,69999.8,1,69999.8,5.51,5
-2025-09-21,27020,Gold Pirate Scroll,Mikosita,SELL IMPS/GPS/REF/PPS,18999,20060.31,1061.31,93,98701.97,5.29,11
 2025-09-21,22007,Gem of Striking,Demonus,CLERIC - GEM of Strik,1525000,1605000.0,80000.0,1,80000.0,4.98,4
 2025-09-21,26576,Iron Brew,Bodeguita,radi 3.5k/iron brew 8.5k/guardia,8500,8938.92,438.92,160,70227.94,4.91,4
 2025-09-21,26576,Iron Brew,Messrve,DEMO/INF/GUAR/WAR/LANT+++++++++,8500,8938.92,438.92,62,27213.33,4.91,4
 2025-09-21,26571,Warlord Potion,DwShops,the finest cookings for DW,3850,4043.6,193.6,149,28846.04,4.79,6
 2025-09-21,27019,Purple Pirate Scroll,TTKillGirlTT,Jack Coin / PPS  / Sealed 50,4699,4934.77,235.77,99,23341.06,4.78,10
 2025-09-21,27019,Purple Pirate Scroll,TTKillGirlTT,Jack Coin / PPS  / Sealed 50,4699,4934.77,235.77,99,23341.06,4.78,10
+2025-09-21,27025,Radiation Lv1,SellMe,cheapest rad in town,3400,3541.25,141.25,200,28249.13,3.99,6
+2025-09-21,27025,Radiation Lv1,SellMe,cheapest rad in town,3400,3541.25,141.25,200,28249.13,3.99,6
 2025-09-21,26577,Cupid Brew,vnt2,Cupid Brew! Last! Come,39999,41594.23,1595.23,16,25523.65,3.84,3
 2025-09-21,26571,Warlord Potion,TotemCookings,Totem Cookings Made wLove n Weed,3890,4043.6,153.6,173,26572.38,3.8,6
 2025-09-21,26571,Warlord Potion,Nads,TOTEM COOKINGS ARE SHIT B HERE,3899,4043.6,144.6,198,28630.32,3.58,6
-2025-09-21,27025,Radiation Lv1,SellMe,cheapest rad in town,3400,3517.57,117.57,200,23514.09,3.34,7
-2025-09-21,27025,Radiation Lv1,SellMe,cheapest rad in town,3400,3517.57,117.57,200,23514.09,3.34,7
 2025-09-21,25426,Universe Purse Fragment.,sirenita99,demo wind + fragment,350000,359990.64,9990.64,4,39962.55,2.78,4
 2025-09-21,26377,Pharaoh's Lantern,Virginia,Std Poss / Pharaoh Lantern 9k,9999,10249.58,250.58,200,50116.45,2.44,8
 2025-09-21,22009,Gem of Colossus,Deity,ssssss,2000000,2035000.0,35000.0,2,70000.0,1.72,6
