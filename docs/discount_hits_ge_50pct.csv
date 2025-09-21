@@ -1,11 +1,11 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-83.39,22003,Glowing Gem,300,1805.87,12,3,LazzzyBee,LAST CLEANING BEFORE I QUIT!
-82.14,28406,Earth Sealed Staff of Abraxas.,1000,5600.0,4,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
+84.0,28406,Earth Sealed Staff of Abraxas.,1000,6250.0,3,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
+83.25,22003,Glowing Gem,300,1791.51,11,3,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 79.75,25390,Mermaid Heart,50,246.86,3,46,siggy,Sea shit
 77.14,26589,Potion of Bull,500,2187.26,18,1,Anuel,SHOP FOR REAL MEN
-72.31,22003,Glowing Gem,500,1805.87,12,27,Frank,INS EVS ER GEMS
-72.31,22003,Glowing Gem,500,1805.87,12,1,Scrolls,GEM SEAL  65 SM
 72.31,30121,Vial of Accuracy Reset,1499,5412.88,7,1,VoldemortT,STAFF GEMED|ROCK GEM
+72.09,22003,Glowing Gem,500,1791.51,11,27,Frank,INS EVS ER GEMS
+72.09,22003,Glowing Gem,500,1791.51,11,1,Scrolls,GEM SEAL  65 SM
 71.89,25439,Incantation Stone,250,889.45,4,1,Godsky,ITEMS SELADOS
 70.3,25490,Brown Dye,100,336.73,3,19,2Homo,sell
 69.91,25491,Decolorant,200,664.71,3,1,Manager,BARBER SHOP
@@ -29,9 +29,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.01,25090,Limestone Crystal,180,418.73,3,17,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
 56.77,25480,Ami Hairstyle Book,2000,4626.87,3,5,2Homo,sell
 56.76,28155,Steel Platemail,3000,6937.5,6,1,Swird,Tribal/Steel/Bow55/Sphinx
-56.11,22000,FieryGem,2500,5695.99,12,14,Caiser,cheap stuff
+56.04,22000,FieryGem,2500,5687.41,12,14,Caiser,cheap cruz items
 54.87,25491,Decolorant,300,664.71,3,2,SinAutumn,dyeeeee's
 54.28,26589,Potion of Bull,1000,2187.26,18,2,amiix,PPS GPS JackC pet PBS RBS cheap
+52.95,28418,Earth Sealed Kiss of the Cursed,3999,8499.5,4,1,Lupaa,YOU WILL NEED THESE CHEAP ITEMS
 52.24,25090,Limestone Crystal,200,418.73,3,99,Pipigirl27,Chaos Jewel Frag
 51.97,26501,Tiny EXP Berry,500,1040.91,3,16,Truoo,damn cheap items
 51.29,27000,Prosperous Packet,175,359.24,7,20,Segador,NEW PRICES
