@@ -1,5 +1,6 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-09-21,25503,Magical Stone,DoaaPepa,D O N    P E P E,400,1550.38,1150.38,99,113888.02,74.2,4
+2025-09-21,28421,Bow of Incantation,Anuel,Post-patch store!,85000,245000.0,160000.0,1,160000.0,65.31,3
 2025-09-21,2301,,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,22222,54545.18,32323.18,1,32323.18,59.26,3
 2025-09-21,2301,,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,22222,54545.18,32323.18,1,32323.18,59.26,3
 2025-09-21,2301,,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,22222,54545.18,32323.18,1,32323.18,59.26,3
@@ -14,8 +15,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-21,25503,Magical Stone,Pip0n,MagicalStone/Pots/Craft UG Rage,999,1550.38,551.38,39,21503.98,35.56,4
 2025-09-21,30168,Gyoza,ZSOLOZ,GYOZA @SO CHEAP@,18999,26678.0,7679.0,3,23037.0,28.78,4
 2025-09-21,25431,Kal Runestone,farmip54,Kal Runestone 1.4m,1400000,1633333.33,233333.33,1,233333.33,14.29,3
-2025-09-21,26575,Guardian's Brew,Stalinha,Pots / Bless / Manus,849,959.02,110.02,185,20353.34,11.47,5
+2025-09-21,26575,Guardian's Brew,Bodeguita,RADI 3.5K/IRON BREW 8.5K GUARDI,800,923.0,123.0,194,23862.0,13.33,6
+2025-09-21,26575,Guardian's Brew,Bodeguita,RADI 3.5K/IRON BREW 8.5K GUARDI,800,923.0,123.0,172,21156.0,13.33,6
+2025-09-21,26575,Guardian's Brew,Bodeguita,RADI 3.5K/IRON BREW 8.5K GUARDI,800,923.0,123.0,169,20787.0,13.33,6
 2025-09-21,25431,Kal Runestone,Systembuff,Ugs/Kal/Rocks,1500000,1633333.33,133333.33,1,133333.33,8.16,3
+2025-09-21,26576,Iron Brew,Bodeguita,RADI 3.5K/IRON BREW 8.5K GUARDI,8500,9035.08,535.08,160,85613.57,5.92,4
 2025-09-21,22011,Gemof Sout,Tiichin,Gem of Soul 1.1m   more goodies,1099999,1133333.0,33334.0,1,33334.0,2.94,3
 2025-09-21,22011,Gemof Sout,demu,gem of soul,1100000,1133333.0,33333.0,1,33333.0,2.94,3
 2025-09-21,25031,Refining Gem,Lancelot,SELL CHEAP SELL CHEAP SELL CHEAP,9987,10213.6,226.6,110,24925.89,2.22,5
