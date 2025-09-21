@@ -1,5 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-83.33,28406,Earth Sealed Staff of Abraxas.,1000,6000.0,4,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
+97.25,26594,Novice Explosive Ball,6,218.14,6,16,CocoBro,1232131313211
+84.62,28406,Earth Sealed Staff of Abraxas.,1000,6500.0,3,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 77.91,26589,Potion of Bull,500,2263.18,14,1,cudecachorro2,>>>>>STAFF GEMED CLERIC<<<<<<<<<
 77.91,26589,Potion of Bull,500,2263.18,14,1,Anuel,SHOP FOR REAL MEN
 76.31,25439,Incantation Stone,250,1055.46,4,1,trd,sll
@@ -32,12 +33,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.48,25478,Carsise Hairstyle Book,2000,4703.12,3,2,2Homo,sell
 57.07,28456,Ice Sealed Robe of the Sphinx,10000,23296.17,6,1,Scrolls,GEM SEAL  65 SM
 57.01,25480,Ami Hairstyle Book,2000,4652.78,3,5,2Homo,sell
-56.76,26594,Novice Explosive Ball,100,231.25,5,1,EvilRian,lucky pax and more trash????????
 56.52,25487,Black Dye,500,1150.0,3,2,Manager,BARBER SHOP
 54.93,25440,Evanescence Stone,380,843.09,4,7,LunaMaya,S>HiddenHoney LambSkull FairyFoo
-54.84,25413,Samurai's Mask,70,155.0,3,55,Kubutusuji,SELL>PPS/Pumpkin/mask/lantern
 54.54,28440,Fire Sealed Roar of Evanescence,5000,10999.86,5,1,CallMeBaby,Cheap
 54.54,28440,Fire Sealed Roar of Evanescence,5000,10999.86,5,1,TocoDeJegue,Fairy-Purple blueprint-Greatswor
+54.16,26594,Novice Explosive Ball,100,218.14,6,1,EvilRian,lucky pax and more trash????????
 54.1,28458,Ice Sealed Staff of the Sphinx,19999,43571.29,6,1,BjornIronside,COMPRA CULIAU
 53.14,27000,Prosperous Packet,175,373.46,7,20,Segador,NEW PRICES
 52.95,28418,Earth Sealed Kiss of the Cursed,3999,8499.5,4,1,zHeaven,CHEAP SHT
@@ -46,6 +46,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.92,25258,Spirit Feather,189,393.1,8,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 51.85,30209,Island Card,2000,4154.11,6,4,Uwe,trash
 51.79,30171,Ticket to Demonic World,300,622.23,13,198,bertobank,Ref|PurpleBP|FB1|ProsPacket
-51.71,28436,Fire Sealed Staff of Evanescence,7000,14497.25,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 50.25,22000,FieryGem,2500,5025.03,13,14,Caiser,cheap cruz items
 50.0,28128,Warmth of the Cleric,50000,100000.0,3,1,FARMBR,sell
