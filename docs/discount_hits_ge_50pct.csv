@@ -1,12 +1,11 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-76.52,22003,Glowing Gem,500,2129.2,9,24,Frank,GEM GLOW INS EVS
-74.79,25503,Magical Stone,400,1586.62,7,99,DoaaPepa,D O N    P E P E
-68.55,25503,Magical Stone,499,1586.62,7,4,loyalty1,ZzZzzzzZzzZzZzzZ
-68.49,25503,Magical Stone,500,1586.62,7,5,EvolutionPet,CHEAP EVO LOOT
-63.98,25258,Spirit Feather,300,832.92,5,43,bruna99,mvm
+85.19,22003,Glowing Gem,300,2026.12,9,1,Scrolls,SEAL SM 65 GLOWING GEM
+80.1,25493,Orange Colorant,500,2512.5,3,2,cheapstuffsell,cheap
+75.32,22003,Glowing Gem,500,2026.12,9,24,Frank,GEM GLOW INS EVS
 62.5,28400,Earth Sealed Platemail of the Cursed Soul,10000,26666.67,3,1,PALA02,garner
+62.47,25503,Magical Stone,333,887.32,7,13,Demonus,Gem of Striking
+60.76,25258,Spirit Feather,300,764.59,6,43,bruna99,mvm
 60.74,28421,Bow of Incantation,79999,203749.75,4,1,CHEAPSTALL,Blesed Heart/Uns bow 45/Heav Cry
-60.66,25478,Carsise Hairstyle Book,1500,3812.5,3,1,dsadsa,bless
 59.26,2301,,22222,54545.18,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 59.26,2301,,22222,54545.18,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 59.26,2301,,22222,54545.18,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -18,5 +17,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.26,2301,,22222,54545.18,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 58.28,28421,Bow of Incantation,85000,203749.75,4,1,Anuel,Post-patch store!
 58.12,25439,Incantation Stone,250,596.94,3,1,trd,sell
-52.36,26592,Flash Bomb,400,839.56,11,3,DDsaasqq,REF/HAIRSTYLING/BOMB
-51.69,26326,Elven Royal Signet,1200,2483.92,6,4,Bechil,afk
+57.11,25504,Standard Scroll,200,466.33,3,75,StepanBendera,Warrior/Blood/Guardian/Moonroot
+54.92,25503,Magical Stone,400,887.32,7,99,DoaaPepa,D O N    P E P E
+52.76,25478,Carsise Hairstyle Book,1500,3175.0,4,1,dsadsa,bless
+52.25,26592,Flash Bomb,400,837.65,12,3,DDsaasqq,REF/HAIRSTYLING/BOMB
+51.59,26326,Elven Royal Signet,1200,2478.82,7,4,Bechil,afk
