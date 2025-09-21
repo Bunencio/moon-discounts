@@ -8,19 +8,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.65,25485,Cyan Dye,100,410.66,3,16,2Homo,sell
 71.71,22003,Glowing Gem,500,1767.43,8,27,Frank,INS EVS ER GEMS
 71.71,22003,Glowing Gem,500,1767.43,8,1,Scrolls,GEM SEAL  65 SM
-68.94,22004,Shining Gem,1500,4829.72,9,3,ST003,CHEEEEEEEEEEEEEEEEEEEEEEP
-68.75,28400,Earth Sealed Platemail of the Cursed Soul,4000,12800.0,4,1,Aang,Cheap cruz gears App ref and mor
+68.94,22004,Shining Gem,1500,4828.94,9,3,ST003,CHEEEEEEEEEEEEEEEEEEEEEEP
 68.75,30118,Vial of Strength Reset,2000,6400.05,4,3,Yennefer,EVA SUN CLOUD LEGEND ROYAL VOUCH
-67.9,25503,Magical Stone,449,1398.63,10,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
+68.7,25503,Magical Stone,449,1434.29,10,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
+67.35,28400,Earth Sealed Platemail of the Cursed Soul,4000,12250.0,4,1,Aang,Cheap cruz gears App ref and mor
 65.63,25260,Elder's Fur Cloak,190,552.85,3,5,bruna99,mvm
 65.57,28458,Ice Sealed Staff of the Sphinx,15000,43571.29,6,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
 65.57,28458,Ice Sealed Staff of the Sphinx,15000,43571.29,6,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
 65.18,25491,Decolorant,200,574.42,3,1,Manager,BARBER SHOP
+65.14,25503,Magical Stone,500,1434.29,10,38,JunoJuno,cheap
+65.14,25503,Magical Stone,500,1434.29,10,47,sstido,buy offer
 64.75,30121,Vial of Accuracy Reset,2000,5673.77,5,2,Yennefer,EVA SUN CLOUD LEGEND ROYAL VOUCH
 64.75,30121,Vial of Accuracy Reset,2000,5673.77,5,4,Bron,DW TIX VIALS
-64.27,25440,Evanescence Stone,300,839.54,4,46,Frank,INS EVS ER GEMS
-64.25,25503,Magical Stone,500,1398.63,10,38,JunoJuno,cheap
-64.25,25503,Magical Stone,500,1398.63,10,67,sstido,buy offer
+64.42,25440,Evanescence Stone,300,843.09,4,45,Frank,INS EVS ER GEMS
 63.16,28430,Fire Sealed Robe of Malediction,5000,13571.29,7,1,CallMeBaby,Cheap
 62.18,26591,Potion of Lion,900,2379.99,17,2,Anuel,SHOP FOR REAL MEN
 61.25,2301,,8300,21418.44,4,1,Tsukiko,items
@@ -34,8 +34,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.01,25480,Ami Hairstyle Book,2000,4652.78,3,5,2Homo,sell
 56.76,26594,Novice Explosive Ball,100,231.25,5,1,EvilRian,lucky pax and more trash????????
 56.52,25487,Black Dye,500,1150.0,3,2,Manager,BARBER SHOP
+54.93,25440,Evanescence Stone,380,843.09,4,7,LunaMaya,S>HiddenHoney LambSkull FairyFoo
 54.84,25413,Samurai's Mask,70,155.0,3,55,Kubutusuji,SELL>PPS/Pumpkin/mask/lantern
-54.74,25440,Evanescence Stone,380,839.54,4,7,LunaMaya,S>HiddenHoney LambSkull FairyFoo
 54.54,28440,Fire Sealed Roar of Evanescence,5000,10999.86,5,1,CallMeBaby,Cheap
 54.54,28440,Fire Sealed Roar of Evanescence,5000,10999.86,5,1,TocoDeJegue,Fairy-Purple blueprint-Greatswor
 54.1,28458,Ice Sealed Staff of the Sphinx,19999,43571.29,6,1,BjornIronside,COMPRA CULIAU
@@ -45,7 +45,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.92,25258,Spirit Feather,189,393.1,8,99,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 51.92,25258,Spirit Feather,189,393.1,8,57,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 51.85,30209,Island Card,2000,4154.11,6,4,Uwe,trash
-51.78,30171,Ticket to Demonic World,300,622.11,13,198,bertobank,Ref|PurpleBP|FB1|ProsPacket
+51.79,30171,Ticket to Demonic World,300,622.23,13,198,bertobank,Ref|PurpleBP|FB1|ProsPacket
 51.71,28436,Fire Sealed Staff of Evanescence,7000,14497.25,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 50.25,22000,FieryGem,2500,5025.03,13,14,Caiser,cheap cruz items
 50.0,28128,Warmth of the Cleric,50000,100000.0,3,1,FARMBR,sell
