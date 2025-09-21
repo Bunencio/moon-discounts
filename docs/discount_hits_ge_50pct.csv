@@ -1,11 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-97.07,26564,Meditation Potion,20,682.76,3,200,fffffeff,START COOK ---------------------
-85.5,26564,Meditation Potion,99,682.76,3,99,TagBaligya2,Cook/Manu/Craft Items
-84.17,22003,Glowing Gem,300,1894.98,12,3,LazzzyBee,LAST CLEANING BEFORE I QUIT!
+83.39,22003,Glowing Gem,300,1805.87,12,3,LazzzyBee,LAST CLEANING BEFORE I QUIT!
+82.14,28406,Earth Sealed Staff of Abraxas.,1000,5600.0,4,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 79.75,25390,Mermaid Heart,50,246.86,3,46,siggy,Sea shit
-77.07,26589,Potion of Bull,500,2180.5,18,1,Anuel,SHOP FOR REAL MEN
-73.61,22003,Glowing Gem,500,1894.98,12,27,Frank,INS EVS ER GEMS
-73.61,22003,Glowing Gem,500,1894.98,12,1,Scrolls,GEM SEAL  65 SM
+77.14,26589,Potion of Bull,500,2187.26,18,1,Anuel,SHOP FOR REAL MEN
+72.31,22003,Glowing Gem,500,1805.87,12,27,Frank,INS EVS ER GEMS
+72.31,22003,Glowing Gem,500,1805.87,12,1,Scrolls,GEM SEAL  65 SM
 72.31,30121,Vial of Accuracy Reset,1499,5412.88,7,1,VoldemortT,STAFF GEMED|ROCK GEM
 71.89,25439,Incantation Stone,250,889.45,4,1,Godsky,ITEMS SELADOS
 69.57,25212,Frozen Elixir,499,1639.59,4,3,DiscipleTwo,PBs/Cheapest acc ss boots rush
@@ -15,9 +14,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.05,30121,Vial of Accuracy Reset,2000,5412.88,7,4,Bron,DW TIX VIALS
 62.5,28458,Ice Sealed Staff of the Sphinx,15000,39999.71,6,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
 62.5,28458,Ice Sealed Staff of the Sphinx,15000,39999.71,6,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
-61.79,26591,Potion of Lion,900,2355.29,19,2,Anuel,SHOP FOR REAL MEN
+61.82,26591,Potion of Lion,900,2357.37,19,2,Anuel,SHOP FOR REAL MEN
 61.25,2301,,8300,21418.44,4,1,Tsukiko,items
-60.0,28406,Earth Sealed Staff of Abraxas.,1000,2499.75,4,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
 59.54,26562,Cake,40,98.86,6,34,Godsky,ITEMS SELADOS
 59.41,25440,Evanescence Stone,300,739.09,4,46,Frank,INS EVS ER GEMS
 59.41,25440,Evanescence Stone,300,739.09,4,35,FreePalestine1,selll
@@ -32,9 +30,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.77,25480,Ami Hairstyle Book,2000,4626.87,3,5,2Homo,sell
 56.76,28155,Steel Platemail,3000,6937.5,6,1,Swird,Tribal/Steel/Bow55/Sphinx
 56.11,22000,FieryGem,2500,5695.99,12,14,Caiser,cheap stuff
-54.14,26589,Potion of Bull,1000,2180.5,18,2,amiix,PPS GPS JackC pet PBS RBS cheap
+54.28,26589,Potion of Bull,1000,2187.26,18,2,amiix,PPS GPS JackC pet PBS RBS cheap
 52.24,25090,Limestone Crystal,200,418.73,3,99,Pipigirl27,Chaos Jewel Frag
 51.97,26501,Tiny EXP Berry,500,1040.91,3,16,Truoo,damn cheap items
 51.29,27000,Prosperous Packet,175,359.24,7,20,Segador,NEW PRICES
-51.17,26591,Potion of Lion,1150,2355.29,19,19,hunterx,cheap ug rage/repu/fb etc
+51.22,26591,Potion of Lion,1150,2357.37,19,19,hunterx,cheap ug rage/repu/fb etc
 50.0,28458,Ice Sealed Staff of the Sphinx,19999,39999.71,6,1,BjornIronside,COMPRA CULIAU
+50.0,29058,20 Crafting EXP Card,1000,2000.0,3,1,Commerce,777
+50.0,29058,20 Crafting EXP Card,1000,2000.0,3,1,xLiliith,Good materials :3
