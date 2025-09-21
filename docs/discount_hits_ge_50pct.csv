@@ -1,7 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-75.04,25503,Magical Stone,400,1602.51,6,99,DoaaPepa,D O N    P E P E
-73.5,22003,Glowing Gem,500,1886.82,9,24,Frank,GEM GLOW INS EVS
-68.86,25503,Magical Stone,499,1602.51,6,4,loyalty1,ZzZzzzzZzzZzZzzZ
+76.52,22003,Glowing Gem,500,2129.2,9,24,Frank,GEM GLOW INS EVS
+74.79,25503,Magical Stone,400,1586.62,7,99,DoaaPepa,D O N    P E P E
+68.55,25503,Magical Stone,499,1586.62,7,4,loyalty1,ZzZzzzzZzzZzZzzZ
+68.49,25503,Magical Stone,500,1586.62,7,5,EvolutionPet,CHEAP EVO LOOT
 63.98,25258,Spirit Feather,300,832.92,5,43,bruna99,mvm
 62.5,28400,Earth Sealed Platemail of the Cursed Soul,10000,26666.67,3,1,PALA02,garner
 60.74,28421,Bow of Incantation,79999,203749.75,4,1,CHEAPSTALL,Blesed Heart/Uns bow 45/Heav Cry
@@ -17,5 +18,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.26,2301,,22222,54545.18,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 58.28,28421,Bow of Incantation,85000,203749.75,4,1,Anuel,Post-patch store!
 58.12,25439,Incantation Stone,250,596.94,3,1,trd,sell
-52.33,26592,Flash Bomb,400,839.1,11,3,DDsaasqq,REF/HAIRSTYLING/BOMB
-51.47,26326,Elven Royal Signet,1200,2472.53,7,4,Bechil,afk
+52.36,26592,Flash Bomb,400,839.56,11,3,DDsaasqq,REF/HAIRSTYLING/BOMB
+51.69,26326,Elven Royal Signet,1200,2483.92,6,4,Bechil,afk
