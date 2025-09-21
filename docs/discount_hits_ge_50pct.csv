@@ -1,20 +1,16 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.0,28406,Earth Sealed Staff of Abraxas.,1000,6250.0,3,1,DarkKillerJr,lv45/lv40 sealed/othersCHEAP
-83.25,22003,Glowing Gem,300,1791.51,11,3,LazzzyBee,LAST CLEANING BEFORE I QUIT!
+83.42,22003,Glowing Gem,300,1809.66,10,3,LazzzyBee,LAST CLEANING BEFORE I QUIT!
 79.75,25390,Mermaid Heart,50,246.86,3,46,siggy,Sea shit
 77.14,26589,Potion of Bull,500,2187.26,18,1,Anuel,SHOP FOR REAL MEN
-72.31,30121,Vial of Accuracy Reset,1499,5412.88,7,1,VoldemortT,STAFF GEMED|ROCK GEM
-72.09,22003,Glowing Gem,500,1791.51,11,27,Frank,INS EVS ER GEMS
-72.09,22003,Glowing Gem,500,1791.51,11,1,Scrolls,GEM SEAL  65 SM
-71.89,25439,Incantation Stone,250,889.45,4,1,Godsky,ITEMS SELADOS
-70.3,25490,Brown Dye,100,336.73,3,19,2Homo,sell
-69.91,25491,Decolorant,200,664.71,3,1,Manager,BARBER SHOP
-68.75,30118,Vial of Strength Reset,2000,6400.05,4,3,Yennefer,HAIRVOUCHER SUN CLOUD ROYAL EVA
-66.27,25439,Incantation Stone,300,889.45,4,38,FreePalestine1,selll
+73.75,30121,Vial of Accuracy Reset,1499,5709.65,7,1,VoldemortT,STAFF GEMED|ROCK GEM
+72.37,22003,Glowing Gem,500,1809.66,10,27,Frank,INS EVS ER GEMS
+72.37,22003,Glowing Gem,500,1809.66,10,1,Scrolls,GEM SEAL  65 SM
+71.41,25439,Incantation Stone,250,874.28,5,1,Godsky,ITEMS SELADOS
 66.2,28458,Ice Sealed Staff of the Sphinx,15000,44374.75,7,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
 66.2,28458,Ice Sealed Staff of the Sphinx,15000,44374.75,7,1,Electricman1,DemoSoul/Jp MvM/GPS/PPS/JdeFrag
-63.05,30121,Vial of Accuracy Reset,2000,5412.88,7,2,Yennefer,HAIRVOUCHER SUN CLOUD ROYAL EVA
-63.05,30121,Vial of Accuracy Reset,2000,5412.88,7,4,Bron,DW TIX VIALS
+65.69,25439,Incantation Stone,300,874.28,5,38,FreePalestine1,selll
+64.97,30121,Vial of Accuracy Reset,2000,5709.65,7,4,Bron,DW TIX VIALS
 61.25,2301,,8300,21418.44,4,1,Tsukiko,items
 60.99,26591,Potion of Lion,900,2307.04,18,2,Anuel,SHOP FOR REAL MEN
 59.54,26562,Cake,40,98.86,6,34,Godsky,ITEMS SELADOS
@@ -24,17 +20,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.82,28430,Fire Sealed Robe of Malediction,5000,12142.86,6,1,CallMeBaby,Cheap
 58.82,28430,Fire Sealed Robe of Malediction,5000,12142.86,6,1,CallMeBaby,Cheap
 57.66,25478,Carsise Hairstyle Book,2000,4724.14,3,2,2Homo,sell
-57.43,25090,Limestone Crystal,180,422.79,3,9,vendedolmax,2000
 57.07,28456,Ice Sealed Robe of the Sphinx,10000,23296.17,6,1,Scrolls,GEM SEAL  65 SM
 56.77,25480,Ami Hairstyle Book,2000,4626.87,3,5,2Homo,sell
 56.76,28155,Steel Platemail,3000,6937.5,6,1,Swird,Tribal/Steel/Bow55/Sphinx
+56.61,25090,Limestone Crystal,180,414.8,3,34,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
+56.61,25090,Limestone Crystal,180,414.8,3,9,vendedolmax,2000
 56.04,22000,FieryGem,2500,5687.41,12,14,Caiser,cheap cruz items
 54.93,28458,Ice Sealed Staff of the Sphinx,19999,44374.75,7,1,BjornIronside,COMPRA CULIAU
-54.87,25491,Decolorant,300,664.71,3,2,SinAutumn,dyeeeee's
 54.28,26589,Potion of Bull,1000,2187.26,18,2,amiix,PPS GPS JackC pet PBS RBS cheap
 52.95,28418,Earth Sealed Kiss of the Cursed,3999,8499.5,4,1,Lupaa,YOU WILL NEED THESE CHEAP ITEMS
-52.7,25090,Limestone Crystal,200,422.79,3,99,Pipigirl27,Chaos Jewel Frag
 51.97,26501,Tiny EXP Berry,500,1040.91,3,16,Truoo,damn cheap items
+51.78,25090,Limestone Crystal,200,414.8,3,99,Pipigirl27,Chaos Jewel Frag
+51.56,30118,Vial of Strength Reset,3500,7225.06,3,1,TuoTuo,Help me im POOR
 51.29,27000,Prosperous Packet,175,359.24,7,20,Segador,NEW PRICES
 50.15,26591,Potion of Lion,1150,2307.04,18,19,hunterx,cheap ug rage/repu/fb etc
 50.0,29058,20 Crafting EXP Card,1000,2000.0,3,1,Commerce,777
