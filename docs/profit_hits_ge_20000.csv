@@ -30,8 +30,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-21,28472,Ice Sealed Bow of Enigma,BjornIronside,COMPRA CULIAU,75000,109166.5,34166.5,1,34166.5,31.3,5
 2025-09-21,30156,Jackpot Coin,Neku,GPS/PPS/JACK/REP/ALL POTION@CHEA,7499,10869.08,3370.08,9,30330.7,31.01,12
 2025-09-21,30156,Jackpot Coin,amiix,PPS GPS JackC pet PBS RBS cheap,7500,10869.08,3369.08,16,53905.25,31.0,12
+2025-09-21,27014,Moonroot Wine,Stol3,CHEAP POTS,600,854.46,254.46,186,47328.88,29.78,8
 2025-09-21,22000,FieryGem,GEm01,UP Gears +4,4000,5695.99,1695.99,20,33919.74,29.78,12
-2025-09-21,27014,Moonroot Wine,Stol3,CHEAP POTS,600,854.2,254.2,190,48298.24,29.76,8
 2025-09-21,30209,Island Card,Tralalera,MANY GYOZA POTS COINS IMPS SCROL,2999,4256.34,1257.34,18,22632.16,29.54,4
 2025-09-21,28462,Ice Sealed Staff of Enigma,xJavux,DOE +4,50000,70000.0,20000.0,1,20000.0,28.57,4
 2025-09-21,30102,1000 Reputation Scroll,Aois,STALL,6000,8388.04,2388.04,13,31044.52,28.47,10
@@ -44,12 +44,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-21,30156,Jackpot Coin,2iqSm,jackpot/warrior pot/600hp pot,8000,10869.08,2869.08,29,83203.26,26.4,12
 2025-09-21,30156,Jackpot Coin,AoiTodo,Fragments gems,8000,10869.08,2869.08,19,54512.48,26.4,12
 2025-09-21,26588,Potion of Eagle,Chupeteira,CHEAP SS EQS Lv2 FB VIP POTS !,1790,2430.85,640.85,72,46140.84,26.36,15
-2025-09-21,30171,Ticket to Demonic World,BloodRevenge,sell,480,649.0,169.0,188,31771.06,26.04,10
-2025-09-21,30171,Ticket to Demonic World,BloodRevenge,sell,480,649.0,169.0,163,27546.19,26.04,10
-2025-09-21,30171,Ticket to Demonic World,BloodRevenge,sell,480,649.0,169.0,147,24842.27,26.04,10
 2025-09-21,26588,Potion of Eagle,Stol3,CHEAP POTS,1800,2430.85,630.85,80,50467.6,25.95,15
 2025-09-21,28403,Blade of Incantation,Mikzx,A,210000,283333.11,73333.11,1,73333.11,25.88,7
 2025-09-21,28403,Blade of Incantation,Mikzx,A,210000,283333.11,73333.11,1,73333.11,25.88,7
+2025-09-21,30171,Ticket to Demonic World,BloodRevenge,sell,480,643.83,163.83,188,30800.53,25.45,11
+2025-09-21,30171,Ticket to Demonic World,BloodRevenge,sell,480,643.83,163.83,163,26704.71,25.45,11
+2025-09-21,30171,Ticket to Demonic World,BloodRevenge,sell,480,643.83,163.83,147,24083.39,25.45,11
 2025-09-21,25428,Shining Runestone,pisslow,Free palstineee,250000,333333.0,83333.0,1,83333.0,25.0,3
 2025-09-21,25428,Shining Runestone,creditcard,shining and eva powers,250000,333333.0,83333.0,1,83333.0,25.0,3
 2025-09-21,28429,Dance of Evanescence,Taknaydamo,cruz items and cleric,1400000,1859999.8,459999.8,1,459999.8,24.73,5
@@ -57,8 +57,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-21,26591,Potion of Lion,Chupeteira,CHEAP SS EQS Lv2 FB VIP POTS !,1790,2357.37,567.37,117,66382.5,24.07,19
 2025-09-21,25452,Rock Gem Fragment,Oil,Fragments,90000,118488.35,28488.35,9,256395.14,24.04,7
 2025-09-21,25452,Rock Gem Fragment,Itadori,Rock Fragment//Ring lv50 SPR,90000,118488.35,28488.35,9,256395.14,24.04,7
-2025-09-21,27014,Moonroot Wine,vnt3,MOONROOT  WINE- RADIATION !!!!!,650,854.2,204.2,180,36756.23,23.91,8
-2025-09-21,27014,Moonroot Wine,vnt3,MOONROOT  WINE- RADIATION !!!!!,650,854.2,204.2,138,28179.77,23.91,8
+2025-09-21,27014,Moonroot Wine,vnt3,MOONROOT  WINE- RADIATION !!!!!,650,854.46,204.46,180,36802.14,23.93,8
+2025-09-21,27014,Moonroot Wine,vnt3,MOONROOT  WINE- RADIATION !!!!!,650,854.46,204.46,138,28214.98,23.93,8
 2025-09-21,28421,Bow of Incantation,stallerx,Demonic colo  std poss  sheilds,89899,117779.6,27880.6,1,27880.6,23.67,5
 2025-09-21,26591,Potion of Lion,Stol3,CHEAP POTS,1800,2357.37,557.37,90,50163.46,23.64,19
 2025-09-21,22023,Green Jade,Mikosita,SELL IMPS/GPS/REF/PPS,299999,392142.71,92143.71,1,92143.71,23.5,5
@@ -74,9 +74,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-21,25452,Rock Gem Fragment,Tralalera,MANY GYOZA POTS COINS IMPS SCROL,94999,118488.35,23489.35,1,23489.35,19.82,7
 2025-09-21,28429,Dance of Evanescence,xJavux,DOE +4,1500000,1859999.8,359999.8,1,359999.8,19.35,5
 2025-09-21,26589,Potion of Bull,Chupeteira,CHEAP SS EQS Lv2 FB VIP POTS !,1790,2187.26,397.26,79,31383.28,18.16,18
-2025-09-21,27014,Moonroot Wine,eeee,Kifro is Fish Seller,700,854.2,154.2,200,30840.25,18.05,8
-2025-09-21,27014,Moonroot Wine,eeee,Kifro is Fish Seller,700,854.2,154.2,200,30840.25,18.05,8
-2025-09-21,27014,Moonroot Wine,eeee,Kifro is Fish Seller,700,854.2,154.2,168,25905.81,18.05,8
+2025-09-21,27014,Moonroot Wine,eeee,Kifro is Fish Seller,700,854.46,154.46,200,30891.27,18.08,8
+2025-09-21,27014,Moonroot Wine,eeee,Kifro is Fish Seller,700,854.46,154.46,200,30891.27,18.08,8
+2025-09-21,27014,Moonroot Wine,eeee,Kifro is Fish Seller,700,854.46,154.46,168,25948.67,18.08,8
 2025-09-21,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,10444,12663.8,2219.8,24,53275.12,17.53,13
 2025-09-21,26346,Lantern,dwtix,Tix / Elven Potion's / Lantern's,4500,5447.03,947.03,67,63451.08,17.39,7
 2025-09-21,30102,1000 Reputation Scroll,CallMeBaby,Cheap,7000,8388.04,1388.04,45,62461.8,16.55,10
