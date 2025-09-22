@@ -62,12 +62,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,27014,Moonroot Wine,eeee,Kifro Healing Shit,700,836.16,136.16,166,22602.33,16.28,9
 2025-09-22,26571,Warlord Potion,WhoIsMyBraSize,syghrs,3250,3873.17,623.17,68,42375.52,16.09,5
 2025-09-22,25426,Universe Purse Fragment.,Mikosita,SELL JACKPOT/GPS/REF/PPS,279999,333571.29,53572.29,1,53572.29,16.06,6
+2025-09-22,30102,1000 Reputation Scroll,darkghost,wcroll,6990,8310.07,1320.07,20,26401.34,15.89,12
 2025-09-22,26377,Pharaoh's Lantern,fisherr,SALE,8999,10684.75,1685.75,22,37086.59,15.78,5
 2025-09-22,26377,Pharaoh's Lantern,Akim,"PVP STORE ""FRAG FOR SPEED"" CHEAP",9000,10684.75,1684.75,21,35379.84,15.77,5
+2025-09-22,30102,1000 Reputation Scroll,CallMeBaby,CHEAP,7000,8310.07,1310.07,45,58953.01,15.76,12
 2025-09-22,30156,Jackpot Coin,RanqueWisss,alaahu eee,8999,10669.39,1670.39,20,33407.78,15.66,12
 2025-09-22,30156,Jackpot Coin,GokuVendedor,Offers for next PATCH,9000,10669.39,1669.39,23,38395.95,15.65,12
-2025-09-22,30102,1000 Reputation Scroll,darkghost,wcroll,6990,8273.4,1283.4,20,25667.98,15.51,12
-2025-09-22,30102,1000 Reputation Scroll,CallMeBaby,CHEAP,7000,8273.4,1273.4,45,57302.96,15.39,12
 2025-09-22,22011,Gemof Sout,BuyOrGay,UG Soul 1.1m,1099999,1299999.67,200000.67,1,200000.67,15.38,3
 2025-09-22,28421,Bow of Incantation,Nikoz,Rage/Rep/Boots/Armor/Scrolls/Pot,120000,141199.8,21199.8,1,21199.8,15.01,5
 2025-09-22,26002,Pharaoh Gem,freeee,cheap,2150,2525.06,375.06,99,37131.1,14.85,9
@@ -105,10 +105,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,25431,Kal Runestone,PasarGelap,KAL / UG WIND,1399999,1499999.8,100000.8,1,100000.8,6.67,4
 2025-09-22,26377,Pharaoh's Lantern,Virginia,Std Poss / Pharaoh Lantern,9999,10684.75,685.75,200,137150.83,6.42,5
 2025-09-22,26377,Pharaoh's Lantern,stallzunha,Cheap Things,9999,10684.75,685.75,59,40459.49,6.42,5
+2025-09-22,30102,1000 Reputation Scroll,Saller,ty,7777,8310.07,533.07,99,52773.62,6.41,12
 2025-09-22,30156,Jackpot Coin,Paka01,SM Armor60 Tatto OfEva Repu Jack,9999,10669.39,670.39,167,111954.97,6.28,12
 2025-09-22,25428,Shining Runestone,jajaaaaja,Shining rune,300000,319999.82,19999.82,5,99999.09,6.25,4
 2025-09-22,25451,Jade Gem Fragment,ii3,jackpots/frags/grenade,95000,101303.03,6303.03,15,94545.45,6.22,6
-2025-09-22,30102,1000 Reputation Scroll,Saller,ty,7777,8273.4,496.4,99,49143.51,6.0,12
 2025-09-22,28429,Dance of Evanescence,Nerox,cruz,1100000,1166666.67,66666.67,1,66666.67,5.71,3
 2025-09-22,25031,Refining Gem,MiLD,r,9800,10380.1,580.1,36,20883.6,5.59,12
 2025-09-22,22007,Gem of Striking,Demonus,Gem of Striking,1480000,1561428.43,81428.43,1,81428.43,5.21,5
@@ -116,6 +116,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,27020,Gold Pirate Scroll,selleeeer1,GOLD GOLD GOLD,18999,19975.14,976.14,22,21475.1,4.89,6
 2025-09-22,27020,Gold Pirate Scroll,Donaldy*,CHEAP GPS !,19000,19975.14,975.14,49,47781.91,4.88,6
 2025-09-22,26591,Potion of Lion,stalleer,Potions  skatings  shields,2444,2565.3,121.3,200,24260.53,4.73,13
+2025-09-22,30139,100x Crystal,3AP,imps 80k per 100,80000,83833.5,3833.5,7,26834.48,4.57,10
 2025-09-22,22027,Lumber Rock,Clyde,Lumber Rock,1250000,1306666.67,56666.67,1,56666.67,4.34,3
 2025-09-22,25426,Universe Purse Fragment.,Nikoz,Rage/Rep/Boots/Armor/Scrolls/Pot,320000,333571.29,13571.29,2,27142.57,4.07,6
 2025-09-22,22010,Gem of Rage,Pornhub,110% Items / UG Rage / UG colo,2300000,2394949.95,94949.95,12,1139399.4,3.96,6
@@ -125,9 +126,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,26585,Blessed Potion,dsadsa,rush cheapest in market,99000,102754.25,3754.25,7,26279.72,3.65,4
 2025-09-22,22023,Green Jade,GemMarket,ANY JADES PURSE,299999,311249.6,11250.6,8,90004.8,3.61,5
 2025-09-22,22023,Green Jade,SHOPCHIPCHOP,GREEN JADE STD POSS,300000,311249.6,11249.6,5,56248.0,3.61,5
+2025-09-22,22012,Demonic Gem of Wind,Ashiiiit,DEMONIC GEM OF WIND,1700000,1762500.0,62500.0,1,62500.0,3.55,3
 2025-09-22,26577,Cupid Brew,vnt2,Cupid Wine,39999,41302.63,1303.63,16,20858.07,3.16,3
 2025-09-22,26585,Blessed Potion,Stalinha,BLESS POTS AND RAD CHEAP,100000,102754.25,2754.25,41,112924.06,2.68,4
 2025-09-22,22009,Gem of Colossus,baf,ug colo / demonic strike cheap,1850000,1881249.88,31249.88,1,31249.88,1.66,5
-2025-09-22,30139,100x Crystal,hhhhhh,IMPS BEST PRICE !!! 83K EA,83000,84061.77,1061.77,50,53088.41,1.26,8
-2025-09-22,30139,100x Crystal,sApollo,Cheapest Crystal in the Game,83000,84061.77,1061.77,28,29729.51,1.26,8
+2025-09-22,30139,100x Crystal,hhhhhh,IMPS BEST PRICE !!! 83K EA,83000,83833.5,833.5,50,41674.83,0.99,10
+2025-09-22,30139,100x Crystal,sApollo,Cheapest Crystal in the Game,83000,83833.5,833.5,28,23337.9,0.99,10
 2025-09-22,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,18000,18141.16,141.16,198,27948.71,0.78,4
