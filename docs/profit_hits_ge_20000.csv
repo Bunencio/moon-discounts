@@ -55,7 +55,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,25525,,Systembuff,Frag/Sealeds,999999,1224999.88,225000.88,3,675002.62,18.37,7
 2025-09-22,25525,,AoiTodo,Promotion,1000000,1224999.88,224999.88,1,224999.88,18.37,7
 2025-09-22,26377,Pharaoh's Lantern,fisherr,very cheap TAKE AND RUN,8700,10596.44,1896.44,22,41721.6,17.9,6
-2025-09-22,30171,Ticket to Demonic World,Guerra01,Tix DW/FairyRation (o o  )!! wtf,500,607.47,107.47,200,21494.9,17.69,7
+2025-09-22,30171,Ticket to Demonic World,Guerra01,Tix DW/FairyRation (o o  )!! wtf,500,608.14,108.14,200,21628.67,17.78,6
 2025-09-22,30102,1000 Reputation Scroll,CallMeBaby,CHEAP,7000,8494.12,1494.12,45,67235.23,17.59,11
 2025-09-22,30102,1000 Reputation Scroll,BBankery,Repu 7k ea!!!,7000,8494.12,1494.12,15,22411.74,17.59,11
 2025-09-22,25426,Universe Purse Fragment.,FreePalestine1,sell,269000,325933.2,56933.2,1,56933.2,17.47,8
@@ -88,10 +88,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,26592,Flash Bomb,Lark,KABOOOOOM!,787,895.06,108.06,200,21612.03,12.07,17
 2025-09-22,26592,Flash Bomb,Lark,KABOOOOOM!,787,895.06,108.06,200,21612.03,12.07,17
 2025-09-22,30156,Jackpot Coin,GokuVendedor,Offers for next PATCH,9000,10216.21,1216.21,23,27972.76,11.9,11
-2025-09-22,26559,Cooked Crab,DemiMerchant,99c Cooked Goodies! Tuna! 99c,2999,3403.53,404.53,200,80906.98,11.89,3
-2025-09-22,26559,Cooked Crab,DemiMerchant,99c Cooked Goodies! Tuna! 99c,2999,3403.53,404.53,101,40858.02,11.89,3
 2025-09-22,25431,Kal Runestone,farmip54,Kal  Runestone 1.3m,1300000,1474999.75,174999.75,1,174999.75,11.86,4
-2025-09-22,22012,Demonic Gem of Wind,Giyu,My body is prepared uwu,1500000,1690000.0,190000.0,1,190000.0,11.24,4
 2025-09-22,26002,Pharaoh Gem,freeee,cheap,2150,2403.14,253.14,99,25060.63,10.53,11
 2025-09-22,26002,Pharaoh Gem,freeee,cheap,2150,2403.14,253.14,99,25060.63,10.53,11
 2025-09-22,26002,Pharaoh Gem,freeee,cheap,2150,2403.14,253.14,90,22782.39,10.53,11
@@ -100,7 +97,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,27020,Gold Pirate Scroll,SSTTAALL,Dem Gem Wind/Chaos Jewell Frag/IceSealed,18000,19867.83,1867.83,18,33620.9,9.4,11
 2025-09-22,25428,Shining Runestone,Space,GEMAS PURA EMOCAO,290000,319999.82,29999.82,2,59999.64,9.37,4
 2025-09-22,25428,Shining Runestone,smoI,cleric shop 6 con champ discount,290000,319999.82,29999.82,1,29999.82,9.37,4
-2025-09-22,22009,Gem of Colossus,Space,GEMAS PURA EMOCAO,1700000,1864278.29,164278.29,1,164278.29,8.81,6
 2025-09-22,26576,Iron Brew,Stalinha,Cheapest Bless and POTS,7999,8753.2,754.2,95,71648.66,8.62,4
 2025-09-22,25031,Refining Gem,MiLD,rush,9500,10388.99,888.99,36,32003.69,8.56,11
 2025-09-22,30102,1000 Reputation Scroll,Saller,ty,7777,8494.12,717.12,99,70994.5,8.44,11
@@ -108,18 +104,19 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,25426,Universe Purse Fragment.,xkom,UNIVERSE FRAGMENT |  ETC......,299999,325933.2,25934.2,1,25934.2,7.96,8
 2025-09-22,25451,Jade Gem Fragment,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49,89949,97631.93,7682.93,9,69146.36,7.87,6
 2025-09-22,25451,Jade Gem Fragment,ii3,jade rock purse frag/grenade,90000,97631.93,7631.93,15,114478.93,7.82,6
+2025-09-22,22009,Gem of Colossus,Space,GEMAS PURA EMOCAO,1700000,1841658.0,141658.0,1,141658.0,7.69,5
+2025-09-22,22012,Demonic Gem of Wind,Giyu,My body is prepared uwu,1500000,1616666.67,116666.67,1,116666.67,7.22,3
 2025-09-22,25091,Heavy Crystal,conqstall2,dagger app heavy crystal boofnot,4000,4297.47,297.47,71,21120.07,6.92,5
 2025-09-22,28403,Blade of Incantation,Suplada,Rush Sale,300000,321249.62,21249.62,1,21249.62,6.61,6
 2025-09-22,22015,Demonic Gem of Rage,Giyu,My body is prepared uwu,2500000,2670000.0,170000.0,2,340000.0,6.37,3
 2025-09-22,25428,Shining Runestone,jajaaaaja,Shining rune,300000,319999.82,19999.82,5,99999.09,6.25,4
 2025-09-22,26591,Potion of Lion,stalleer,Potions  skatings  shields,2444,2606.67,162.67,200,32533.43,6.24,17
-2025-09-22,22009,Gem of Colossus,Pornhub,110% Items / UG Rage / UG colo,1750000,1864278.29,114278.29,2,228556.57,6.13,6
 2025-09-22,30102,1000 Reputation Scroll,iinerti,Repu1k/PPS/FB/Jackpot/Ref/MVM/PB,8000,8494.12,494.12,44,21741.11,5.82,11
 2025-09-22,26377,Pharaoh's Lantern,Virginia,Std Poss / Pharaoh Lantern,9999,10596.44,597.44,196,117097.52,5.64,6
 2025-09-22,26377,Pharaoh's Lantern,stallzunha,cheap things,9999,10596.44,597.44,59,35248.74,5.64,6
 2025-09-22,27020,Gold Pirate Scroll,FreePalestine1,sell,18800,19867.83,1067.83,34,36306.15,5.37,11
-2025-09-22,22012,Demonic Gem of Wind,SSTTAALL,Dem Gem Wind/Chaos Jewell Frag/IceSealed,1600000,1690000.0,90000.0,1,90000.0,5.33,4
 2025-09-22,25431,Kal Runestone,PasarGelap,KAL / UG WIND,1399999,1474999.75,75000.75,1,75000.75,5.08,4
+2025-09-22,22009,Gem of Colossus,Pornhub,110% Items / UG Rage / UG colo,1750000,1841658.0,91658.0,2,183316.0,4.98,5
 2025-09-22,27020,Gold Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/PPS,18999,19867.83,868.83,43,37359.6,4.37,11
 2025-09-22,22010,Gem of Rage,Tiichin,Rage 2.2m,2200000,2295238.1,95238.1,1,95238.1,4.15,5
 2025-09-22,25031,Refining Gem,Lancelot,SELL CHEAP SELL CHEAP SELL CHEAP,9987,10388.99,401.99,95,38189.18,3.87,11
@@ -130,8 +127,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,22008,Gem of the Wind,Giyu,My body is prepared uwu,920000,947142.57,27142.57,4,108570.29,2.87,3
 2025-09-22,30156,Jackpot Coin,Paka01,JadeFrag SM Armor EvaTatto Repu,9999,10216.21,217.21,174,37793.99,2.13,11
 2025-09-22,25525,,buyme,FREE,1200000,1224999.88,24999.88,2,49999.75,2.04,7
-2025-09-22,26585,Blessed Potion,DeedOfSaIe,BLESS AND PUSH FULL WAVE 100K EA,100000,101910.72,1910.72,46,87893.08,1.87,5
-2025-09-22,26585,Blessed Potion,Stalinha,Cheapest Bless and POTS,100000,101910.72,1910.72,41,78339.49,1.87,5
 2025-09-22,27020,Gold Pirate Scroll,NALDOCANAL,ALOT SHITS FKING,19500,19867.83,367.83,62,22805.34,1.85,11
 2025-09-22,22007,Gem of Striking,sstido,ug strikin,1450000,1476666.67,26666.67,1,26666.67,1.81,3
 2025-09-22,30139,100x Crystal,Mallwart,IMPS AND SCROLLS,84999,85897.55,898.55,40,35941.88,1.05,6
