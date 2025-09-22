@@ -1,22 +1,25 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.15,25485,Cyan Dye,100,1130.3,3,16,2Homo,sell
-83.78,25439,Incantation Stone,250,1541.67,3,1,Godsky,SELL ITENS SEALED
-83.78,25439,Incantation Stone,250,1541.67,3,1,trd,sell
+84.15,25439,Incantation Stone,250,1576.92,4,1,Godsky,SELL ITENS SEALED
+84.15,25439,Incantation Stone,250,1576.92,4,1,trd,sell
 83.7,25481,Red Dye,100,613.33,3,1,2Homo,sell
 83.1,28406,Earth Sealed Staff of Abraxas.,750,4437.5,4,1,DarkKillerJr,S>Sealed40 more CHEAP
-80.34,26588,Potion of Eagle,500,2542.8,20,1,TocoDeJegue,Legendary - Ref - Flash - Champ
+80.32,26588,Potion of Eagle,500,2541.15,21,1,TocoDeJegue,Legendary - Ref - Flash - Champ
 79.95,25493,Orange Colorant,500,2493.83,4,2,cheapstuffsell,cheap
 79.15,26589,Potion of Bull,499,2393.77,22,1,Zapdos,cheap stuff
 79.11,26589,Potion of Bull,500,2393.77,22,1,cudecachorro2,>>>>ITENS CLERIC GEMED<<<<
 78.19,2301,,4999,22916.42,4,1,D3stiny,Cheap items HERE!!!!
-73.67,22003,Glowing Gem,500,1899.23,8,1,Bathroom,Free gold free free free freeeee
-73.67,22003,Glowing Gem,500,1899.23,8,18,Frank,GLOWING GEM INCA EVA STONES
+73.59,22003,Glowing Gem,500,1893.17,8,1,Bathroom,Free gold free free free freeeee
+73.59,22003,Glowing Gem,500,1893.17,8,18,Frank,GLOWING GEM INCA EVA STONES
 71.93,28462,Ice Sealed Staff of Enigma,20000,71250.0,4,1,DarkAngelz,YOU MAY NEED THIS
 70.77,26562,Cake,40,136.84,5,16,PALA02,BOI  STEEL+5STR  RING STR  BOOTS
+69.85,22004,Shining Gem,1400,4643.39,7,1,Anuel,BUY HERE OR YOU ARE SUPER GHEY
 69.82,25491,Decolorant,200,662.71,4,1,Manager,CHEAP HAIRSTYLE
 68.75,30118,Vial of Strength Reset,2000,6400.05,4,3,Yennefer,HAIRVOUCH SPIRIT REP GPS EXPSTON
 68.07,30121,Vial of Accuracy Reset,2000,6264.68,7,3,Yennefer,HAIRVOUCH SPIRIT REP GPS EXPSTON
-67.82,22004,Shining Gem,1500,4661.82,7,3,ST003,CHEEEEEEEEEEEEEEEEEEEEEEEEEP
+67.7,22004,Shining Gem,1500,4643.39,7,3,ST003,CHEEEEEEEEEEEEEEEEEEEEEEEEEP
+65.52,28454,Ice Sealed Blade of Enigma,250000,725000.0,5,1,vendedolmax,2000
+63.99,26326,Elven Royal Signet,890,2471.2,8,2,Anuel,BUY HERE OR YOU ARE SUPER GHEY
 63.64,28400,Earth Sealed Platemail of the Cursed Soul,4000,11000.0,3,1,Aang,App and cruz gears
 63.57,25503,Magical Stone,200,548.97,12,99,xVENDORx,RUSH
 63.57,25503,Magical Stone,200,548.97,12,71,xVENDORx,RUSH
@@ -30,7 +33,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.42,28436,Fire Sealed Staff of Evanescence,6999,16833.0,6,1,Ludopat1n,Fairy Warmth cheap equip
 58.27,26589,Potion of Bull,999,2393.77,22,2,Starry,cheap stuff
 57.98,25504,Standard Scroll,200,475.92,4,75,StepanBendera,Warrior/Blood/Guardian/Moonroot
-57.41,28456,Ice Sealed Robe of the Sphinx,15000,35222.17,6,1,StepanBendera,Warrior/Blood/Guardian/Moonroot
+56.49,28456,Ice Sealed Robe of the Sphinx,15000,34476.14,7,1,StepanBendera,Warrior/Blood/Guardian/Moonroot
 56.15,28430,Fire Sealed Robe of Malediction,4888,11147.83,5,1,CallMeBaby,CHEAP
 55.76,25485,Cyan Dye,500,1130.3,3,26,Grana01,Style of Your Hair
 54.93,28406,Earth Sealed Staff of Abraxas.,2000,4437.5,4,1,TOPBunshie,SUPER CHEAP !! RUSH!
@@ -38,9 +41,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.64,25503,Magical Stone,249,548.97,12,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
 54.43,25258,Spirit Feather,189,414.71,6,99,DarkKillerJr,S>Sealed40 more CHEAP
 54.43,25258,Spirit Feather,189,414.71,6,57,DarkKillerJr,S>Sealed40 more CHEAP
-53.49,28454,Ice Sealed Blade of Enigma,250000,537500.0,4,1,vendedolmax,2000
-52.76,28421,Bow of Incantation,80000,169333.17,6,1,Nikoz,Rage/Imps/Rep/Boots/Armor/Bow
-52.76,28421,Bow of Incantation,79999,169333.17,6,1,CHEAPSTALL,Blesed Heart/Uns bow 45/Heav Cry
 52.46,22000,FieryGem,3000,6310.63,9,1,ZafirRose,1
 51.97,29058,20 Crafting EXP Card,1000,2081.82,3,1,ShowMaker,Skating / LPS / cards potions
 51.97,29058,20 Crafting EXP Card,1000,2081.82,3,1,Commerce,ww3
+51.72,28454,Ice Sealed Blade of Enigma,350000,725000.0,5,1,Vendedor,Promotion
