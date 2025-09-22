@@ -17,6 +17,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,28472,Ice Sealed Bow of Enigma,OsToWBaby,LVL 60 SEALED | POTION,200000,380000.0,180000.0,1,180000.0,47.37,4
 2025-09-22,28472,Ice Sealed Bow of Enigma,OsToWBaby,LVL 60 SEALED | POTION,200000,380000.0,180000.0,1,180000.0,47.37,4
 2025-09-22,25423,Evanescence Rock,Kasyadex,FAIRY DUST/EVA POWER/STR PET/GEM,450,821.34,371.34,64,23765.83,45.21,5
+2025-09-22,28474,Ice Sealed Mantle of the Sphinx,TeckDx,Free,45000,81666.33,36666.33,1,36666.33,44.9,3
 2025-09-22,30209,Island Card,RanqueWisss,alaahu eee,2499,4267.94,1768.94,12,21227.3,41.45,4
 2025-09-22,25503,Magical Stone,MUSACHI,AAA,850,1410.76,560.76,74,41496.54,39.75,9
 2025-09-22,25452,Rock Gem Fragment,Ankhseram,Hairstyle/RockFragment (o o )!!,90000,143600.0,53600.0,4,214400.0,37.33,5
@@ -54,7 +55,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,30156,Jackpot Coin,2iqSm,pots 40dagamnte/600hp cheap/jack,8000,9626.67,1626.67,14,22773.44,16.9,16
 2025-09-22,29305,Ring of Destruction,Taknaydamo,uns items,130000,155714.14,25714.14,1,25714.14,16.51,4
 2025-09-22,29305,Ring of Destruction,Taknaydamo,uns items,130000,155714.14,25714.14,1,25714.14,16.51,4
-2025-09-22,25451,Jade Gem Fragment,selleeeer1,GOLD GOLD GOLD,79999,95249.56,15250.56,14,213507.88,16.01,6
 2025-09-22,26377,Pharaoh's Lantern,fisherr,SALE,8999,10684.75,1685.75,22,37086.59,15.78,5
 2025-09-22,26377,Pharaoh's Lantern,Akim,"PVP STORE ""FRAG FOR SPEED"" CHEAP",9000,10684.75,1684.75,21,35379.84,15.77,5
 2025-09-22,30102,1000 Reputation Scroll,darkghost,wcroll,6990,8273.4,1283.4,20,25667.98,15.51,12
@@ -84,6 +84,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,25428,Shining Runestone,Space,GEMAS PURA EMOCAO,290000,319166.5,29166.5,2,58333.0,9.14,4
 2025-09-22,22030,Earth Rock,Systembuff,Ugs/Kal/Rocks,2500000,2750000.0,250000.0,1,250000.0,9.09,3
 2025-09-22,22007,Gem of Striking,sstido,ug strikin,1450000,1588333.33,138333.33,1,138333.33,8.71,4
+2025-09-22,25451,Jade Gem Fragment,sirenita99,demonic wind,99000,108411.76,9411.76,7,65882.35,8.68,4
 2025-09-22,30168,Gyoza,Tralalera,POTS GYOZA LANTERN LION BUNNY,24999,27143.84,2144.84,16,34317.47,7.9,4
 2025-09-22,22011,Gemof Sout,Systembuff,Ugs/Kal/Rocks,1200000,1299999.67,99999.67,1,99999.67,7.69,3
 2025-09-22,25431,Kal Runestone,PasarGelap,KAL / UG WIND,1399999,1509999.8,110000.8,1,110000.8,7.28,5
@@ -102,7 +103,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,28429,Dance of Evanescence,Nerox,cruz,1100000,1166666.33,66666.33,1,66666.33,5.71,3
 2025-09-22,22007,Gem of Striking,Systembuff,Ugs/Kal/Rocks,1500000,1588333.33,88333.33,1,88333.33,5.56,4
 2025-09-22,22007,Gem of Striking,Aois,STALL,1500000,1588333.33,88333.33,1,88333.33,5.56,4
-2025-09-22,27020,Gold Pirate Scroll,Donaldy*,CHEAP GPS !,19000,20046.96,1046.96,49,51300.87,5.22,8
+2025-09-22,27020,Gold Pirate Scroll,Donaldy*,CHEAP GPS !,19000,20026.5,1026.5,49,50298.54,5.13,8
 2025-09-22,22009,Gem of Colossus,Pornhub,110% sword / lv65 armor / Rages,1799999,1893749.62,93750.62,2,187501.25,4.95,5
 2025-09-22,26591,Potion of Lion,stalleer,Potions  skatings  shields,2444,2566.36,122.36,200,24471.3,4.77,13
 2025-09-22,22027,Lumber Rock,Clyde,Lumber Rock,1250000,1306666.67,56666.67,1,56666.67,4.34,3
@@ -115,6 +116,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-22,22023,Green Jade,SHOPCHIPCHOP,GREEN JADE STD POSS,300000,311249.6,11249.6,5,56248.0,3.61,5
 2025-09-22,26577,Cupid Brew,vnt2,Cupid Wine,39999,41302.63,1303.63,16,20858.07,3.16,3
 2025-09-22,30139,100x Crystal,3AP,imps 81k per 100,81000,83391.51,2391.51,13,31089.65,2.87,9
-2025-09-22,27020,Gold Pirate Scroll,Jhoa,PPS/GPS/LPS/CHAMP/JACK C/POTION,19500,20046.96,546.96,42,22972.17,2.73,8
+2025-09-22,27020,Gold Pirate Scroll,Jhoa,PPS/GPS/LPS/CHAMP/JACK C/POTION,19500,20026.5,526.5,42,22113.04,2.63,8
 2025-09-22,22009,Gem of Colossus,baf,ug colo / demonic strike cheap,1850000,1893749.62,43749.62,1,43749.62,2.31,5
 2025-09-22,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,18000,18141.16,141.16,198,27948.71,0.78,4
