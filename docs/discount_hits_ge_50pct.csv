@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.7,25481,Red Dye,100,613.33,3,1,2Homo,sell
 82.09,28406,Earth Sealed Staff of Abraxas.,750,4187.5,4,1,DarkKillerJr,S>Sealed40 more CHEAP
-80.42,26588,Potion of Eagle,500,2553.02,21,1,TocoDeJegue,Legendary - Ref - Flash - Champ
+80.42,26588,Potion of Eagle,500,2553.02,21,1,TocoDeJegue,Legendary-Soul Detector-Champ
 79.95,25493,Orange Colorant,500,2493.83,4,2,cheapstuffsell,cheap
 79.79,25439,Incantation Stone,250,1236.84,5,1,Godsky,SELL ITENS SEALED
 79.79,25439,Incantation Stone,250,1236.84,5,1,trd,sell
@@ -12,15 +12,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.4,22003,Glowing Gem,500,1879.56,9,18,Frank,GLOWING GEM INCA EVA STONES
 71.93,28462,Ice Sealed Staff of Enigma,20000,71250.0,4,1,DarkAngelz,YOU MAY NEED THIS
 70.77,26562,Cake,40,136.84,5,16,PALA02,BOI  STEEL+5STR  RING STR  BOOTS
-70.56,22004,Shining Gem,1400,4755.1,8,1,Anuel,BUY HERE OR YOU ARE SUPER GHEY
-70.22,28436,Fire Sealed Staff of Evanescence,6999,23499.67,6,1,Ludopat1n,Fairy Warmth cheap equip
-70.21,28436,Fire Sealed Staff of Evanescence,7000,23499.67,6,1,SuperComboFinish,pls buy because I'm poooor
 68.75,30118,Vial of Strength Reset,2000,6400.05,4,3,Yennefer,HAIRVOUCH SPIRIT REP GPS EXPSTON
-68.45,22004,Shining Gem,1500,4755.1,8,3,ST003,CHEEEEEEEEEEEEEEEEEEEEEEEEEP
 67.14,30121,Vial of Accuracy Reset,2000,6086.81,6,3,Yennefer,HAIRVOUCH SPIRIT REP GPS EXPSTON
+65.82,28400,Earth Sealed Platemail of the Cursed Soul,9000,26333.33,3,1,Halimuyak,Good items
 64.75,25491,Decolorant,200,567.39,3,1,Manager,CHEAP HAIRSTYLE
 63.86,28454,Ice Sealed Blade of Enigma,250000,691666.33,5,1,vendedolmax,2000
-63.64,28400,Earth Sealed Platemail of the Cursed Soul,4000,11000.0,3,1,Aang,App and cruz gears
 63.57,25503,Magical Stone,200,548.97,12,99,xVENDORx,RUSH
 63.57,25503,Magical Stone,200,548.97,12,71,xVENDORx,RUSH
 61.01,22000,FieryGem,2500,6411.33,9,13,Caiser,cheap stuff
@@ -31,15 +27,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.9,25493,Orange Colorant,1000,2493.83,4,1,Traffy,fb
 59.57,25439,Incantation Stone,500,1236.84,5,6,DingDong,GPS/PPS/Pots/MVM/Jackpots/Reps!
 58.51,26589,Potion of Bull,999,2407.65,22,2,Starry,cheap stuff
+58.42,28436,Fire Sealed Staff of Evanescence,7000,16833.0,6,1,SuperComboFinish,pls buy because I'm poooor
+58.42,28436,Fire Sealed Staff of Evanescence,6999,16833.0,6,1,Ludopat1n,Fairy Warmth cheap equip
 57.98,25504,Standard Scroll,200,475.92,4,75,StepanBendera,Warrior/Blood/Guardian/Moonroot
-56.49,28456,Ice Sealed Robe of the Sphinx,15000,34476.14,7,1,StepanBendera,Warrior/Blood/Guardian/Moonroot
+57.37,28456,Ice Sealed Robe of the Sphinx,15000,35190.43,6,1,StepanBendera,Warrior/Blood/Guardian/Moonroot
 56.15,28430,Fire Sealed Robe of Malediction,4888,11147.83,5,1,CallMeBaby,CHEAP
 54.88,26001,Ninja Coin,500,1108.1,4,2,trd,sell
 54.64,25503,Magical Stone,249,548.97,12,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
 54.43,25258,Spirit Feather,189,414.71,6,99,DarkKillerJr,S>Sealed40 more CHEAP
 54.43,25258,Spirit Feather,189,414.71,6,57,DarkKillerJr,S>Sealed40 more CHEAP
 53.85,28446,Fire Sealed Bow of Evanescence,20000,43333.33,3,1,DingDong,GPS/PPS/Pots/MVM/Jackpots/Reps!
-52.95,28442,Fire Sealed Coat of Evanescence,9999,21249.75,4,1,CallMeBaby,CHEAP
+52.94,28442,Fire Sealed Coat of Evanescence,10000,21250.0,4,1,OfflineBank,CHEAP MUNKS
 52.24,28406,Earth Sealed Staff of Abraxas.,2000,4187.5,4,1,TOPBunshie,SUPER CHEAP !! RUSH!
 51.97,29058,20 Crafting EXP Card,1000,2081.82,3,1,Commerce,ww3
 51.97,29058,20 Crafting EXP Card,1000,2081.82,3,1,ShowMaker,Skating / LPS / cards potions
+50.88,28440,Fire Sealed Roar of Evanescence,7000,14249.75,3,1,TocoDeJegue,Legendary-Soul Detector-Champ
