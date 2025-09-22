@@ -1,6 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-89.4,27000,Prosperous Packet,30,283.13,3,5,Traffy,fb
-86.21,28456,Ice Sealed Robe of the Sphinx,5000,36269.71,7,1,Scrolls,SEAL SM 65 GLOWING GEM
 82.22,25439,Incantation Stone,250,1406.25,3,1,Godsky,SELL ITENS SEALED
 82.22,25439,Incantation Stone,250,1406.25,3,1,trd,sell
 81.85,25485,Cyan Dye,100,550.82,3,16,2Homo,sell
@@ -10,7 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.18,2301,,5000,22916.5,4,1,D3stiny,Cheap items HERE!!!!
 76.45,25483,Yellow Dye,100,424.64,3,21,2Homo,sell
 73.68,28472,Ice Sealed Bow of Enigma,100000,380000.0,4,1,Chupeteira,CHEAPEST SS EQS + VIP POTS !!!
-72.93,22003,Glowing Gem,500,1847.04,8,24,Frank,GEM GLOW INS EVS
+72.8,22003,Glowing Gem,500,1838.5,8,24,Frank,GLOWING GEM INCA EVA STONES
 72.31,28458,Ice Sealed Staff of the Sphinx,10000,36111.0,4,1,Electricman1,DemoSoul/PPS/GPS/JpCoin/Bow Eva
 72.31,28458,Ice Sealed Staff of the Sphinx,10000,36111.0,4,1,Electricman1,DemoSoul/PPS/GPS/JpCoin/Bow Eva
 71.93,28462,Ice Sealed Staff of Enigma,20000,71250.0,4,1,DarkAngelz,YOU MAY NEED THIS
@@ -22,23 +20,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.61,22006,Spirit Gem,2000,6370.75,7,1,MadeAStink,cheap
 67.82,22004,Shining Gem,1500,4661.82,7,3,ST003,CHEEEEEEEEEEEEEEEEEEEEEEEEEP
 67.14,30121,Vial of Accuracy Reset,2000,6086.81,6,3,Yennefer,HAIRVOUCH SPIRIT REP GPS EXPSTON
-61.45,28403,Blade of Incantation,115000,298333.0,7,1,Faststall,FB/INCA SWORD/ DPP/HR
-60.32,28035,Solar Shield,5000,12599.6,4,1,VENDEDORAA,APP /  50 SM / 50 VOY / CHEAP
-60.32,28035,Solar Shield,5000,12599.6,4,1,VENDEDORAA,APP /  50 SM / 50 VOY / CHEAP
+60.66,28456,Ice Sealed Robe of the Sphinx,15000,38126.86,7,1,StepanBendera,Warrior/Blood/Guardian/Moonroot
+60.36,22000,FieryGem,2500,6306.13,8,14,Caiser,cheap stuff
 60.24,25503,Magical Stone,333,837.56,9,13,Demonus,Gem of Striking
-60.17,22000,FieryGem,2500,6276.61,9,14,Caiser,cheap stuff
-59.43,28421,Bow of Incantation,79999,197199.8,5,1,CHEAPSTALL,Blesed Heart/Uns bow 45/Heav Cry
 59.08,25493,Orange Colorant,1000,2443.75,4,1,Traffy,fb
 58.82,29058,20 Crafting EXP Card,1000,2428.29,3,1,Commerce,ww3
-58.64,28456,Ice Sealed Robe of the Sphinx,15000,36269.71,7,1,StepanBendera,Warrior/Blood/Guardian/Moonroot
 58.33,28454,Ice Sealed Blade of Enigma,250000,600000.0,3,1,vendedolmax,2000
-57.79,25504,Standard Scroll,200,473.82,3,75,StepanBendera,Warrior/Blood/Guardian/Moonroot
+57.29,25504,Standard Scroll,200,468.3,3,75,StepanBendera,Warrior/Blood/Guardian/Moonroot
+57.27,28421,Bow of Incantation,79999,187199.8,5,1,CHEAPSTALL,Blesed Heart/Uns bow 45/Heav Cry
+57.04,28430,Fire Sealed Robe of Malediction,4888,11377.4,5,1,CallMeBaby,CHEAP
 56.83,28436,Fire Sealed Staff of Evanescence,10000,23166.33,6,1,OfflineBank,CHEAP MUNKS
-56.39,28421,Bow of Incantation,86000,197199.8,5,1,Anuel,CRUS / SS /  CLERIC / SH!T
-56.15,28430,Fire Sealed Robe of Malediction,4888,11147.83,5,1,CallMeBaby,CHEAP
 55.96,26594,Novice Explosive Ball,60,136.25,6,16,AAA123,12313131312
 54.88,26001,Ninja Coin,500,1108.1,4,2,trd,sell
+54.72,28035,Solar Shield,7999,17666.0,3,1,DarkKillerJr,S>Sealed40 more CHEAP
 54.43,25258,Spirit Feather,189,414.71,6,99,DarkKillerJr,S>Sealed40 more CHEAP
 54.43,25258,Spirit Feather,189,414.71,6,57,DarkKillerJr,S>Sealed40 more CHEAP
+54.06,28421,Bow of Incantation,86000,187199.8,5,1,Anuel,CRUS / SS /  CLERIC / SH!T
+52.79,28456,Ice Sealed Robe of the Sphinx,18000,38126.86,7,1,ShinChan,NEW STALL
 52.24,25503,Magical Stone,400,837.56,9,99,DoaaPepa,D O N    P E P E
-52.2,22000,FieryGem,3000,6276.61,9,1,ZafirRose,GPS repu
