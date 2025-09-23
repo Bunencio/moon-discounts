@@ -3,13 +3,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.7,25481,Red Dye,100,613.33,3,1,2Homo,sell
 79.8,25493,Orange Colorant,500,2475.61,4,2,cheapstuffsell,cheap
 76.27,30118,Vial of Strength Reset,1500,6321.11,4,3,Yennefer,EXPSTONE HAIRVOUCH GPS
+75.97,22003,Glowing Gem,499,2076.77,9,1,Bathroom,Freeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+75.92,22003,Glowing Gem,500,2076.77,9,18,Frank,INS EVS GLOWING GEM
 75.71,30121,Vial of Accuracy Reset,1500,6174.89,5,3,Yennefer,EXPSTONE HAIRVOUCH GPS
-75.47,22003,Glowing Gem,499,2034.13,10,1,Bathroom,Freeeeeeeeeeeeeeeeeeeeeeeeeeeeee
-75.42,22003,Glowing Gem,500,2034.13,10,18,Frank,INS EVS GLOWING GEM
 74.23,25497,Blue Colorant,1000,3880.93,5,1,Traffy,all trashfasdkfjahfkjh jdkljshfl
 73.95,25494,Yellow Colorant.,1000,3838.4,4,2,Traffy,all trashfasdkfjahfkjh jdkljshfl
-73.23,25503,Magical Stone,150,560.29,14,11,xVENDORx,RUSH
-73.23,25503,Magical Stone,150,560.29,14,99,xVENDORx,RUSH
 72.66,28035,Solar Shield,3449,12613.12,7,1,MiningGPU,Very Very Cheep dont lose it....
 70.38,28418,Earth Sealed Kiss of the Cursed,1999,6749.75,3,1,zHeaven,PLEASE BUY
 67.61,26562,Cake,40,123.51,5,16,PALA02,crus
@@ -22,6 +20,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.77,28454,Ice Sealed Blade of Enigma,250000,689999.71,6,1,vendedolmax,2000
 62.62,28406,Earth Sealed Staff of Abraxas.,2000,5350.0,4,1,TOPBunshie,SUPER CHEAP RUSHHHH!!!!
 62.32,26501,Tiny EXP Berry,800,2123.08,5,3,DDsaasqq,REF ETC...
+61.99,25503,Magical Stone,249,655.11,13,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
 60.97,28438,Fire Sealed Tattoo of Evanescence,4000,10249.75,4,1,TocoDeJegue,Soul Detector - Greatsword
 60.58,26564,Meditation Potion,10,25.37,6,200,NoDelete,e.e
 60.53,28428,Fire Sealed Dance of Evanescence,14999,37999.67,3,1,Pandemia,all u need...
@@ -32,14 +31,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.76,22000,FieryGem,1999,4732.04,11,13,Caiser,cheap stuff
 57.14,28442,Fire Sealed Coat of Evanescence,10000,23333.33,3,1,OfflineBank,CHEAP MUNKS
 56.77,28421,Bow of Incantation,78000,180424.83,6,1,Anuel,Reduced prices  :)
-56.61,26589,Potion of Bull,1000,2304.94,16,1,Kinyu,50 Fairy
+56.72,26589,Potion of Bull,1000,2310.42,16,1,Kinyu,50 Fairy
 55.62,26326,Elven Royal Signet,1000,2253.15,10,2,EvilRian,sellsellsellsellsellsellselll
-55.56,25503,Magical Stone,249,560.29,14,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
-54.97,23001,Guardian's Treasure,100,222.09,5,99,xVENDORx,RUSH
-54.97,23001,Guardian's Treasure,100,222.09,5,51,xVENDORx,RUSH
-54.97,23001,Guardian's Treasure,100,222.09,5,99,xVENDORx,RUSH
-54.97,23001,Guardian's Treasure,100,222.09,5,35,xVENDORx,RUSH
-54.97,23001,Guardian's Treasure,100,222.09,5,12,xVENDORx,RUSH
 54.72,28403,Blade of Incantation,119999,264999.58,8,1,Pandemia,all u need...
 54.69,29058,20 Crafting EXP Card,1000,2207.14,3,1,Commerce,ww3
 54.48,26001,Ninja Coin,500,1098.53,5,6,MangPaseng,gg
@@ -51,5 +44,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.02,28458,Ice Sealed Staff of the Sphinx,10000,21285.57,5,1,Electricman1,DemoSoul/Ref Gem cheap/ Etc.@@@@
 52.46,26345,Elven Potion,4000,8414.24,5,1,ShowMaker,potions / judgment
 51.8,25440,Evanescence Stone,300,622.45,3,45,Frank,INS EVS GLOWING GEM
-51.7,26588,Potion of Eagle,1200,2484.3,20,1,Anuel,Reduced prices  :)
-50.84,22003,Glowing Gem,1000,2034.13,10,4,Gryffindor,gps. jackpot. pps. pots
+51.77,26588,Potion of Eagle,1200,2487.83,20,1,Anuel,Reduced prices  :)
