@@ -2,7 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 85.98,28406,Earth Sealed Staff of Abraxas.,750,5350.0,4,1,DarkKillerJr,S>Sealed40 more CHEAP
 83.7,25481,Red Dye,100,613.33,3,1,2Homo,sell
 79.95,25493,Orange Colorant,500,2493.83,4,2,cheapstuffsell,cheap
-78.55,26589,Potion of Bull,499,2326.08,17,1,Zapdos,cheap stuff
+78.59,26589,Potion of Bull,499,2330.77,17,1,Zapdos,cheap stuff
 75.06,25503,Magical Stone,150,601.55,13,11,xVENDORx,RUSH
 75.06,25503,Magical Stone,150,601.55,13,99,xVENDORx,RUSH
 74.23,25497,Blue Colorant,1000,3880.93,5,1,Traffy,alll useless
@@ -20,7 +20,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.75,25491,Decolorant,200,567.39,3,1,Manager,CHEAP HAIRSTYLE
 64.49,25258,Spirit Feather,189,532.27,8,99,DarkKillerJr,S>Sealed40 more CHEAP
 64.49,25258,Spirit Feather,189,532.27,8,42,DarkKillerJr,S>Sealed40 more CHEAP
-64.29,28454,Ice Sealed Blade of Enigma,250000,699999.67,5,1,vendedolmax,2000
 63.64,28440,Fire Sealed Roar of Evanescence,5000,13749.75,3,1,TocoDeJegue,Legendary-Soul Detector-Champ
 62.62,28406,Earth Sealed Staff of Abraxas.,2000,5350.0,4,1,TOPBunshie,SUPER CHEAP RUSHHHH!!!!
 62.34,26564,Meditation Potion,10,26.56,8,200,NoDelete,e.e
@@ -34,12 +33,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.36,28456,Ice Sealed Robe of the Sphinx,15000,34370.17,6,1,StepanBendera,Warrior/Blood/Guardian/Moonroot
 55.53,22000,FieryGem,2500,5621.58,10,13,Caiser,cheap stuff
 55.53,22000,FieryGem,2500,5621.58,10,18,Qwe,MOONROOT STONE BULL POTION!
+54.97,23001,Guardian's Treasure,100,222.09,5,99,xVENDORx,RUSH
+54.97,23001,Guardian's Treasure,100,222.09,5,51,xVENDORx,RUSH
+54.97,23001,Guardian's Treasure,100,222.09,5,99,xVENDORx,RUSH
+54.97,23001,Guardian's Treasure,100,222.09,5,35,xVENDORx,RUSH
+54.97,23001,Guardian's Treasure,100,222.09,5,12,xVENDORx,RUSH
+54.55,28454,Ice Sealed Blade of Enigma,250000,550000.0,4,1,vendedolmax,2000
 54.43,28458,Ice Sealed Staff of the Sphinx,9000,19749.88,6,1,ghost26,scroll
-54.4,23001,Guardian's Treasure,100,219.29,5,99,xVENDORx,RUSH
-54.4,23001,Guardian's Treasure,100,219.29,5,51,xVENDORx,RUSH
-54.4,23001,Guardian's Treasure,100,219.29,5,99,xVENDORx,RUSH
-54.4,23001,Guardian's Treasure,100,219.29,5,99,xVENDORx,RUSH
-54.4,23001,Guardian's Treasure,100,219.29,5,12,xVENDORx,RUSH
 52.96,28410,Earth Sealed Staff of Incantation,5000,10629.33,3,1,lAlpraMl,here fre
 52.73,29058,20 Crafting EXP Card,1000,2115.38,3,1,Commerce,ww3
 52.38,28438,Fire Sealed Tattoo of Evanescence,5000,10499.75,4,1,TocoDeJegue,Legendary-Soul Detector-Champ
