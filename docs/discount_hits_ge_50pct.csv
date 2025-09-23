@@ -3,14 +3,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.7,25481,Red Dye,100,613.33,3,1,2Homo,sell
 83.31,30121,Vial of Accuracy Reset,1000,5991.15,6,1,VoldemortT,>>>!!!!GOLDEN|LANTERNA!!!!!<<<<<
 79.95,25493,Orange Colorant,500,2493.83,4,2,cheapstuffsell,cheap
-78.9,26589,Potion of Bull,499,2365.39,17,1,Zapdos,cheap stuff
+78.82,26589,Potion of Bull,499,2355.74,18,1,Zapdos,cheap stuff
 78.19,2301,,4999,22916.42,4,1,D3stiny,Cheap items HERE!!!!
 74.91,27024,Grenade Lv1,200,797.19,4,1,EvilRian,lucky pax and more????
 74.23,25497,Blue Colorant,1000,3880.93,5,1,Traffy,alll useless
 74.07,25503,Magical Stone,150,578.52,13,41,xVENDORx,RUSH
 74.07,25503,Magical Stone,150,578.52,13,99,xVENDORx,RUSH
-73.31,22003,Glowing Gem,500,1873.38,9,1,Bathroom,Free gold free free free freeeee
-73.31,22003,Glowing Gem,500,1873.38,9,18,Frank,GLOWING GEM INCA EVA STONES
+73.34,22003,Glowing Gem,500,1875.16,10,1,Bathroom,Free gold free free free freeeee
+73.34,22003,Glowing Gem,500,1875.16,10,18,Frank,GLOWING GEM INCA EVA STONES
 72.09,28462,Ice Sealed Staff of Enigma,15000,53749.75,4,1,NALDOCANAL,ALOT SHITS IS HERE
 70.79,26562,Cake,40,136.94,3,16,PALA02,crus
 68.75,30118,Vial of Strength Reset,2000,6400.05,4,3,Yennefer,HAIRVOUCH SPIRIT REP GPS EXPSTON
@@ -25,7 +25,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.29,28454,Ice Sealed Blade of Enigma,250000,699999.67,5,1,vendedolmax,2000
 62.79,28462,Ice Sealed Staff of Enigma,20000,53749.75,4,1,DarkAngelz,YOU MAY NEED THIS
 62.62,28406,Earth Sealed Staff of Abraxas.,2000,5350.0,4,1,TOPBunshie,SUPER CHEAP RUSHHHH!!!!
-61.95,26589,Potion of Bull,900,2365.39,17,1,TOPBunshie,SUPER CHEAP RUSHHHH!!!!
+61.8,26589,Potion of Bull,900,2355.74,18,1,TOPBunshie,SUPER CHEAP RUSHHHH!!!!
 60.03,25211,Tropical Drumstick,45,112.57,3,99,Uwe,trash
 60.03,25211,Tropical Drumstick,45,112.57,3,99,Uwe,trash
 60.03,25211,Tropical Drumstick,45,112.57,3,99,Uwe,trash
@@ -36,8 +36,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.93,25504,Standard Scroll,200,475.41,4,75,StepanBendera,Warrior/Blood/Guardian/Moonroot
 57.16,28418,Earth Sealed Kiss of the Cursed,2999,6999.75,3,1,zHeaven,CHEAP FOR YOU  SM+4 CON BOOTS
 56.96,25503,Magical Stone,249,578.52,13,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
-54.84,22000,FieryGem,2500,5535.6,9,13,Caiser,cheap stuff
-54.84,22000,FieryGem,2500,5535.6,9,22,Qwe,MOONROOT STONE BULL POTION!
+54.89,22000,FieryGem,2500,5541.54,10,13,Caiser,cheap stuff
+54.89,22000,FieryGem,2500,5541.54,10,22,Qwe,MOONROOT STONE BULL POTION!
 54.4,23001,Guardian's Treasure,100,219.29,5,99,xVENDORx,RUSH
 54.4,23001,Guardian's Treasure,100,219.29,5,51,xVENDORx,RUSH
 54.4,23001,Guardian's Treasure,100,219.29,5,99,xVENDORx,RUSH
@@ -45,5 +45,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.4,23001,Guardian's Treasure,100,219.29,5,12,xVENDORx,RUSH
 52.51,29058,20 Crafting EXP Card,1000,2105.56,4,1,Commerce,ww3
 50.88,28440,Fire Sealed Roar of Evanescence,7000,14249.75,3,1,TocoDeJegue,Legendary-Soul Detector-Champ
-50.09,26588,Potion of Eagle,1300,2604.56,17,1,Anuel,BUY HERE OR YOU ARE SUPER GHEY
 50.0,28472,Ice Sealed Bow of Enigma,75000,150000.0,5,1,BjornIronside,LOOK ME OFERTS
