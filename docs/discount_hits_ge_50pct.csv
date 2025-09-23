@@ -1,6 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 94.12,28440,Fire Sealed Roar of Evanescence,10000,169999.75,4,1,NICE,cheap
 88.24,28440,Fire Sealed Roar of Evanescence,19999,169999.75,4,1,xvc,CHEAP
+84.75,28406,Earth Sealed Staff of Abraxas.,750,4916.67,3,1,DarkKillerJr,S>Sealed40 more CHEAP
 83.25,30121,Vial of Accuracy Reset,999,5964.37,5,1,cudecachorro2,CLERIC STAFF GEMED|LANTERN!!!!!!
 81.97,25258,Spirit Feather,189,1048.01,8,99,DarkKillerJr,S>Sealed40 more CHEAP
 81.97,25258,Spirit Feather,189,1048.01,8,42,DarkKillerJr,S>Sealed40 more CHEAP
@@ -20,19 +21,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.07,28444,Fire Sealed Bellow of Evanescence,3333,10777.0,3,1,Alente,Stufffss
 67.61,26562,Cake,40,123.51,5,16,PALA02,crusader
 67.25,28454,Ice Sealed Blade of Enigma,250000,763333.17,5,1,vendedolmax,2000
-66.67,28406,Earth Sealed Staff of Abraxas.,750,2250.0,3,1,DarkKillerJr,S>Sealed40 more CHEAP
+67.18,25439,Incantation Stone,250,761.8,5,1,trd,sell
 65.95,28035,Solar Shield,3449,10129.29,6,1,MiningGPU,Very Very Cheep dont lose it....
-65.74,25439,Incantation Stone,250,729.81,5,1,trd,sell
-65.74,25439,Incantation Stone,250,729.81,5,1,Godsky,SELL ITENS SEALED
-64.43,26001,Ninja Coin,300,843.48,6,1,Alente,Stufffss
-64.11,26589,Potion of Bull,799,2226.21,17,3,AltDude,buy my stuff
+63.98,26589,Potion of Bull,799,2217.92,18,3,AltDude,buy my stuff
+62.19,26001,Ninja Coin,300,793.48,7,1,Alente,Stufffss
 61.62,26501,Tiny EXP Berry,800,2084.62,5,3,DDsaasqq,REF ETC...
-60.58,26564,Meditation Potion,10,25.37,6,200,NoDelete,e.e
+60.39,26564,Meditation Potion,10,25.25,5,200,NoDelete,e.e
 59.86,28446,Fire Sealed Bow of Evanescence,14500,36125.0,4,1,iLegolas,PRICE DROP!!
 59.59,25493,Orange Colorant,1000,2474.68,4,2,Traffy,all trashfasdkfjahfkjh jdkljshfl
 57.14,28442,Fire Sealed Coat of Evanescence,10000,23333.33,3,1,OfflineBank,CHEAP MUNKS
 55.98,28035,Solar Shield,4459,10129.29,6,1,MiningGPU,Very Very Cheep dont lose it....
-55.08,26589,Potion of Bull,1000,2226.21,17,1,Kinyu,50 Fairy
+54.91,26589,Potion of Bull,1000,2217.92,18,1,Kinyu,50 Fairy
 54.69,29058,20 Crafting EXP Card,1000,2207.14,3,1,Commerce,ww3
 53.2,25503,Magical Stone,249,532.07,11,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
 53.17,27021,Green Pirate Scroll,230,491.18,10,1,GrudgE,TAKE ALL
@@ -43,4 +42,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.29,25258,Spirit Feather,500,1048.01,8,41,sstido,buy
 52.29,25258,Spirit Feather,500,1048.01,8,93,ST003,CHEEEEEEEEEEEEEEEEEEEEEEEEEP
 51.42,28456,Ice Sealed Robe of the Sphinx,12000,24703.5,5,1,Pablo,CHEAP CHEAPER CHIPOTLE
-50.16,26588,Potion of Eagle,1200,2407.56,19,1,Anuel,Reduced prices  :)
