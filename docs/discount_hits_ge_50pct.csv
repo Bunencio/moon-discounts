@@ -13,7 +13,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.38,28418,Earth Sealed Kiss of the Cursed,1999,6749.75,3,1,zHeaven,PLEASE BUY
 68.75,30118,Vial of Strength Reset,2000,6400.05,4,3,Yennefer,GPS EXPSTONE HAIR VOUCHER POTS
 68.02,30121,Vial of Accuracy Reset,2000,6253.84,5,3,Yennefer,GPS EXPSTONE HAIR VOUCHER POTS
-67.82,28436,Fire Sealed Staff of Evanescence,7000,21749.75,4,1,SuperComboFinish,pls buy because I'm poooor
 67.61,26562,Cake,40,123.51,5,16,PALA02,crus
 66.93,28454,Ice Sealed Blade of Enigma,250000,756000.0,4,1,vendedolmax,2000
 65.74,25439,Incantation Stone,250,729.81,5,1,trd,sell
@@ -32,6 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.89,28442,Fire Sealed Coat of Evanescence,10000,23750.0,4,1,OfflineBank,CHEAP MUNKS
 57.86,25504,Standard Scroll,200,474.61,4,75,StepanBendera,Warrior/Blood/Guardian/Moonroot
 57.0,22000,FieryGem,1999,4649.06,11,13,Caiser,cheap stuff
+56.66,26589,Potion of Bull,1000,2307.34,16,1,Kinyu,50 Fairy
 55.74,26326,Elven Royal Signet,1000,2259.4,9,2,EvilRian,sellsellsellsellsellsellselll
 55.56,25503,Magical Stone,249,560.29,14,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
 54.97,23001,Guardian's Treasure,100,222.09,5,99,xVENDORx,RUSH
@@ -40,14 +40,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.97,23001,Guardian's Treasure,100,222.09,5,35,xVENDORx,RUSH
 54.97,23001,Guardian's Treasure,100,222.09,5,12,xVENDORx,RUSH
 54.72,28403,Blade of Incantation,119999,264999.58,8,1,Pandemia,all u need...
-54.02,28436,Fire Sealed Staff of Evanescence,10000,21749.75,4,1,OfflineBank,CHEAP MUNKS
 53.85,28446,Fire Sealed Bow of Evanescence,20000,43333.33,3,1,DingDong,PPS | Eagle|Soul|Bull
-53.74,25258,Spirit Feather,189,408.58,8,99,DarkKillerJr,S>Sealed40 more CHEAP
-53.74,25258,Spirit Feather,189,408.58,8,42,DarkKillerJr,S>Sealed40 more CHEAP
+53.57,25258,Spirit Feather,189,407.11,8,99,DarkKillerJr,S>Sealed40 more CHEAP
+53.57,25258,Spirit Feather,189,407.11,8,42,DarkKillerJr,S>Sealed40 more CHEAP
 53.02,28458,Ice Sealed Staff of the Sphinx,10000,21285.57,5,1,Electricman1,DemoSoul/Ref Gem cheap/ Etc.@@@@
 53.02,28458,Ice Sealed Staff of the Sphinx,10000,21285.57,5,1,Electricman1,DemoSoul/Ref Gem cheap/ Etc.@@@@
 52.38,28438,Fire Sealed Tattoo of Evanescence,5000,10499.75,4,1,TocoDeJegue,Legendary-Soul Detector-Champ
+52.36,26588,Potion of Eagle,1200,2519.01,20,1,Anuel,Reduced prices  :)
 52.3,26345,Elven Potion,4000,8386.21,4,1,ShowMaker,potions / judgment
-51.7,26588,Potion of Eagle,1200,2484.3,20,1,Anuel,Reduced prices  :)
 51.39,26001,Ninja Coin,500,1028.61,5,6,MangPaseng,gg
 51.21,22003,Glowing Gem,1000,2049.47,11,4,Gryffindor,gps. jackpot. pps. pots
