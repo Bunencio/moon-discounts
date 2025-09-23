@@ -2,7 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 85.98,28406,Earth Sealed Staff of Abraxas.,750,5350.0,4,1,DarkKillerJr,S>Sealed40 more CHEAP
 83.7,25481,Red Dye,100,613.33,3,1,2Homo,sell
 79.95,25493,Orange Colorant,500,2493.83,4,2,cheapstuffsell,cheap
-78.51,26589,Potion of Bull,499,2322.04,18,1,Zapdos,cheap stuff
+78.51,26589,Potion of Bull,499,2322.16,17,1,Zapdos,cheap stuff
 78.19,2301,,4999,22916.42,4,1,D3stiny,Cheap items HERE!!!!
 74.91,27024,Grenade Lv1,200,797.19,4,1,EvilRian,lucky pax and more????
 74.23,25497,Blue Colorant,1000,3880.93,5,1,Traffy,alll useless
@@ -23,7 +23,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.46,25258,Spirit Feather,189,531.75,8,42,DarkKillerJr,S>Sealed40 more CHEAP
 64.29,28454,Ice Sealed Blade of Enigma,250000,699999.67,5,1,vendedolmax,2000
 62.62,28406,Earth Sealed Staff of Abraxas.,2000,5350.0,4,1,TOPBunshie,SUPER CHEAP RUSHHHH!!!!
-61.24,26589,Potion of Bull,900,2322.04,18,1,TOPBunshie,SUPER CHEAP RUSHHHH!!!!
+61.24,26589,Potion of Bull,900,2322.16,17,1,TOPBunshie,SUPER CHEAP RUSHHHH!!!!
 60.03,25211,Tropical Drumstick,45,112.57,3,99,Uwe,trash
 60.03,25211,Tropical Drumstick,45,112.57,3,99,Uwe,trash
 60.03,25211,Tropical Drumstick,45,112.57,3,99,Uwe,trash
@@ -34,7 +34,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.27,28456,Ice Sealed Robe of the Sphinx,13999,34370.17,6,1,MiningGPU,Very Very Cheep dont lose it....
 57.93,25504,Standard Scroll,200,475.41,4,75,StepanBendera,Warrior/Blood/Guardian/Moonroot
 57.89,28462,Ice Sealed Staff of Enigma,20000,47500.0,4,1,DarkAngelz,YOU MAY NEED THIS
-57.16,28418,Earth Sealed Kiss of the Cursed,2999,6999.75,3,1,zHeaven,CHEAP FOR YOU  SM+4 CON BOOTS
 56.96,25503,Magical Stone,249,578.52,13,21,SariSariStore1,49 49 49 49 49 49 49 49 49 49 49
 56.36,28456,Ice Sealed Robe of the Sphinx,15000,34370.17,6,1,StepanBendera,Warrior/Blood/Guardian/Moonroot
 54.89,22000,FieryGem,2500,5541.54,10,13,Caiser,cheap stuff
