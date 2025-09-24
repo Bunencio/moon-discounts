@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-96.16,25489,White Dye,500,13009.62,3,3,Hyacinth,Free
 88.43,30101,500 Reputation Scroll,500,4322.0,4,1,Bathroom,Sell MB<>B?B><>?B<?N
 86.43,28035,Solar Shield,3449,25415.0,7,1,MiningGPU,Very Very Cheep dont lose it....
 83.86,25503,Magical Stone,100,619.75,9,30,xVENDORx,RUSH
@@ -7,13 +6,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.46,28035,Solar Shield,4459,25415.0,7,1,MiningGPU,Very Very Cheep dont lose it....
 82.46,30121,Vial of Accuracy Reset,999,5696.5,7,1,cudecachorro2,CLERIC STAFF GEMED|LANTERN!!!!!!
 81.85,25439,Incantation Stone,250,1377.15,7,1,trd,sell
-79.81,25493,Orange Colorant,500,2475.9,4,2,cheapstuffsell,cheap
+79.28,25493,Orange Colorant,500,2413.58,3,2,cheapstuffsell,cheap
 78.22,25439,Incantation Stone,300,1377.15,7,2,LazzzyBee,POTS|REP|RUNE|FB|BP|ROYAL
 76.27,30118,Vial of Strength Reset,1500,6321.11,4,3,Yennefer,EXPSTONE HAIRVOUCH GPS
-74.52,25497,Blue Colorant,1000,3923.89,4,1,Traffy,all trashfasdkfjahfkjh jdkljshfl
+74.72,25497,Blue Colorant,1000,3955.53,3,1,Traffy,all trashfasdkfjahfkjh jdkljshfl
+74.49,25494,Yellow Colorant.,1000,3919.92,4,2,Traffy,all trashfasdkfjahfkjh jdkljshfl
 74.41,22003,Glowing Gem,500,1954.08,10,5,Hyacinth,Free
 74.41,22003,Glowing Gem,500,1954.08,10,1,xDelfina,all cheap
-73.84,25494,Yellow Colorant.,1000,3822.57,5,2,Traffy,all trashfasdkfjahfkjh jdkljshfl
 73.67,30121,Vial of Accuracy Reset,1500,5696.5,7,3,Yennefer,EXPSTONE HAIRVOUCH GPS
 72.59,25440,Evanescence Stone,300,1094.67,3,45,Frank,INS EVS GLOWING GEM
 72.59,25440,Evanescence Stone,300,1094.67,3,2,LazzzyBee,POTS|REP|RUNE|FB|BP|ROYAL
@@ -27,12 +26,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.07,28440,Fire Sealed Roar of Evanescence,4999,13536.5,6,1,BjornIronside,@@@@@
 61.98,28458,Ice Sealed Staff of the Sphinx,13999,36819.25,6,1,MiningGPU,Very Very Cheep dont lose it....
 59.66,25503,Magical Stone,250,619.75,9,16,iFennec,VOY SET UNS 65 RUSH
-59.61,25493,Orange Colorant,1000,2475.9,4,2,Traffy,all trashfasdkfjahfkjh jdkljshfl
 59.26,28458,Ice Sealed Staff of the Sphinx,15000,36819.25,6,1,Electricman1,Jp MvM Coin/DemoSoul/Ref Gem
 59.26,28458,Ice Sealed Staff of the Sphinx,15000,36819.25,6,1,Electricman1,Jp MvM Coin/DemoSoul/Ref Gem
 59.17,26562,Cake,40,97.96,4,36,PALA02,boi  ring str  steel gautlet
+58.57,25493,Orange Colorant,1000,2413.58,3,2,Traffy,all trashfasdkfjahfkjh jdkljshfl
 56.63,28403,Blade of Incantation,119999,276666.11,7,1,Pandemia,all u need...
-56.52,25479,Phyllis Hairstyle Book,2000,4600.0,3,1,smoI,QU8TNGPRICES
 55.48,22000,FieryGem,2000,4492.15,11,3,Hyacinth,Free
 55.48,22000,FieryGem,2000,4492.15,11,35,SellMeWhole,S>+5pots
 54.49,25260,Elder's Fur Cloak,119,261.46,6,6,DiscipleTwo,FREE SS BOOTS|FROSTY CLOTH|BPs|E
@@ -40,7 +38,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.15,25258,Spirit Feather,400,853.75,6,90,sietemaridos,5 fairy auto mvm jp pots matz+
 51.76,25503,Magical Stone,299,619.75,9,21,SariSariStore1,SALE
 51.61,28212,Priestly Robe,5000,10332.67,3,1,Skebedep,free
-51.47,28466,Ice Sealed Judgment of Enigma,15000,30911.0,5,1,Electricman1,Jp MvM Coin/DemoSoul/Ref Gem
 51.39,28434,Fire Sealed Robe of the Arcane,14000,28800.0,4,1,Ludopat1n,Fairy tilapia jackpot sealed equ
 51.22,28438,Fire Sealed Tattoo of Evanescence,10000,20500.0,4,1,EvilRian,sellsellsellsellsellsellselll
 50.66,25260,Elder's Fur Cloak,129,261.46,6,84,Niggo,deadly fruit/snail food/elderfur
