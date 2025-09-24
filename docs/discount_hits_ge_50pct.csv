@@ -1,7 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 88.43,30101,500 Reputation Scroll,500,4322.0,4,1,Bathroom,Sell MB<>B?B><>?B<?N
 86.43,28035,Solar Shield,3449,25415.0,7,1,MiningGPU,Very Very Cheep dont lose it....
-82.91,29062,Field Brew,40,234.1,3,30,sellerforfree,cheap
 82.46,28035,Solar Shield,4459,25415.0,7,1,MiningGPU,Very Very Cheep dont lose it....
 82.46,30121,Vial of Accuracy Reset,999,5696.5,7,1,cudecachorro2,CLERIC STAFF GEMED|LANTERN!!!!!!
 81.85,25439,Incantation Stone,250,1377.15,7,1,trd,sell
@@ -9,32 +8,30 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.22,25439,Incantation Stone,300,1377.15,7,2,LazzzyBee,POTS|REP|RUNE|FB|BP|ROYAL
 77.14,25503,Magical Stone,100,437.52,7,30,xVENDORx,RUSH
 76.27,30118,Vial of Strength Reset,1500,6321.11,4,3,Yennefer,EXPSTONE HAIRVOUCH GPS
-74.72,25497,Blue Colorant,1000,3955.53,3,1,Traffy,all trashfasdkfjahfkjh jdkljshfl
-74.61,25494,Yellow Colorant.,1000,3938.71,3,2,Traffy,all trashfasdkfjahfkjh jdkljshfl
 74.41,22003,Glowing Gem,500,1954.08,10,5,Hyacinth,Free
 74.41,22003,Glowing Gem,500,1954.08,10,1,xDelfina,all cheap
 73.67,30121,Vial of Accuracy Reset,1500,5696.5,7,3,Yennefer,EXPSTONE HAIRVOUCH GPS
 72.59,25440,Evanescence Stone,300,1094.67,3,45,Frank,INS EVS GLOWING GEM
 72.59,25440,Evanescence Stone,300,1094.67,3,2,LazzzyBee,POTS|REP|RUNE|FB|BP|ROYAL
-71.44,28418,Earth Sealed Kiss of the Cursed,1999,6999.6,4,1,zHeaven,PLEASURE DOING  BUSINESS WIT U
 70.95,25439,Incantation Stone,400,1377.15,7,1,vendedolmax,1000
 70.72,25258,Spirit Feather,250,853.75,6,27,LunaMaya,S>HiddenHoney LambSkull FairyFoo
+68.01,28418,Earth Sealed Kiss of the Cursed,1999,6249.5,4,1,zHeaven,PLEASURE DOING  BUSINESS WIT U
 64.84,28401,Platemail of the Cursed Soul,100000,284444.33,3,1,BuySome,Buy Some Crus/SS
-64.31,28458,Ice Sealed Staff of the Sphinx,13999,39222.0,6,1,MiningGPU,Very Very Cheep dont lose it....
-63.79,22001,Furious Gem,1000,2761.65,10,6,Hyacinth,Free
-63.79,22001,Furious Gem,1000,2761.65,10,1,Unlimites,garner
+64.31,22001,Furious Gem,1000,2801.57,10,6,Hyacinth,Free
+64.31,22001,Furious Gem,1000,2801.57,10,1,Unlimites,garner
 63.69,25439,Incantation Stone,500,1377.15,7,6,DingDong,PPS | Eagle|Soul|Bull
 63.46,25440,Evanescence Stone,400,1094.67,3,4,vendedolmax,1000
+63.23,28458,Ice Sealed Staff of the Sphinx,13999,38069.25,7,1,MiningGPU,Very Very Cheep dont lose it....
 63.07,28440,Fire Sealed Roar of Evanescence,4999,13536.5,6,1,BjornIronside,@@@@@
 61.99,28436,Fire Sealed Staff of Evanescence,7000,18416.5,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
-61.76,28458,Ice Sealed Staff of the Sphinx,15000,39222.0,6,1,Electricman1,Jp MvM Coin/DemoSoul/Ref Gem
-61.76,28458,Ice Sealed Staff of the Sphinx,15000,39222.0,6,1,Electricman1,Jp MvM Coin/DemoSoul/Ref Gem
-59.17,26562,Cake,40,97.96,4,36,PALA02,boi  ring str  steel gautlet
+60.6,28458,Ice Sealed Staff of the Sphinx,15000,38069.25,7,1,Electricman1,Jp MvM Coin/DemoSoul/Ref Gem
+60.6,28458,Ice Sealed Staff of the Sphinx,15000,38069.25,7,1,Electricman1,Jp MvM Coin/DemoSoul/Ref Gem
 58.57,25493,Orange Colorant,1000,2413.58,3,2,Traffy,all trashfasdkfjahfkjh jdkljshfl
-56.63,28403,Blade of Incantation,119999,276666.11,7,1,Pandemia,all u need...
+57.58,28403,Blade of Incantation,119999,282856.43,6,1,Pandemia,all u need...
 55.73,25260,Elder's Fur Cloak,119,268.82,5,6,DiscipleTwo,FREE SS BOOTS|FROSTY CLOTH|BPs|E
-55.48,22000,FieryGem,2000,4492.15,11,3,Hyacinth,Free
-55.48,22000,FieryGem,2000,4492.15,11,35,SellMeWhole,S>+5pots
+55.23,22000,FieryGem,2000,4467.33,11,3,Hyacinth,Free
+55.23,22000,FieryGem,2000,4467.33,11,35,SellMeWhole,S>+5pots
+55.2,26564,Meditation Potion,10,22.32,3,200,NoDelete,e.e
 54.24,27000,Prosperous Packet,99,216.34,4,99,stalling1,prosp packets 99g
 54.24,27000,Prosperous Packet,99,216.34,4,99,stalling1,prosp packets 99g
 54.24,27000,Prosperous Packet,99,216.34,4,99,stalling1,prosp packets 99g
@@ -50,5 +47,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.15,25258,Spirit Feather,400,853.75,6,90,sietemaridos,5 fairy auto mvm jp pots matz+
 51.61,28212,Priestly Robe,5000,10332.67,3,1,Skebedep,free
 51.22,28438,Fire Sealed Tattoo of Evanescence,10000,20500.0,4,1,EvilRian,sellsellsellsellsellsellselll
-50.18,28466,Ice Sealed Judgment of Enigma,15000,30111.0,4,1,Electricman1,Jp MvM Coin/DemoSoul/Ref Gem
+50.15,28466,Ice Sealed Judgment of Enigma,15000,30092.5,4,1,Electricman1,Jp MvM Coin/DemoSoul/Ref Gem
 50.0,28446,Fire Sealed Bow of Evanescence,20000,40000.0,3,1,DingDong,PPS | Eagle|Soul|Bull
