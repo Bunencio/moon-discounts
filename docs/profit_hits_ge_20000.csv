@@ -81,7 +81,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-24,25451,Jade Gem Fragment,ii3,jackpot/jade frags/pots/skating,75000,86833.12,11833.12,8,94664.95,13.63,8
 2025-09-24,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3500,4050.38,550.38,93,51185.1,13.59,4
 2025-09-24,25091,Heavy Crystal,conqstall2,Chaos rune jwl frag buff greenjd,3500,4050.38,550.38,71,39076.8,13.59,4
-2025-09-24,27006,Bunny Potion,A1exSamara,PPS  Refs  bunny potions  fb,1050,1213.55,163.55,155,25350.47,13.48,9
+2025-09-24,27006,Bunny Potion,A1exSamara,PPS  Refs  bunny potions  fb,1050,1213.64,163.64,155,25364.56,13.48,9
 2025-09-24,26377,Pharaoh's Lantern,Ladystall,Cheap potions,8990,10378.82,1388.82,51,70829.86,13.38,9
 2025-09-24,26377,Pharaoh's Lantern,thewata,Lanter-ElvenPot-5stats,8990,10378.82,1388.82,51,70829.86,13.38,9
 2025-09-24,25426,Universe Purse Fragment.,xkom,UNIV FRAG | JACKPOT  | ETC | | |,289999,334320.56,44321.56,1,44321.56,13.26,6
@@ -147,7 +147,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-24,26560,Cooked Bluefin Tuna,Liora,Bluefin tuna,4000,4141.54,141.54,200,28307.48,3.42,3
 2025-09-24,26560,Cooked Bluefin Tuna,Liora,Bluefin tuna,4000,4141.54,141.54,200,28307.48,3.42,3
 2025-09-24,26560,Cooked Bluefin Tuna,Liora,Bluefin tuna,4000,4141.54,141.54,197,27882.86,3.42,3
-2025-09-24,30139,100x Crystal,Gogosar,Cheap Crystals !!!,86999,89892.77,2893.77,18,52087.78,3.22,7
 2025-09-24,27025,Radiation Lv1,Bankaquaq,Radiation/FB/Grenade/Brew/Poison,3250,3353.04,103.04,200,20607.59,3.07,9
 2025-09-24,27025,Radiation Lv1,Bankaquaq,Radiation/FB/Grenade/Brew/Poison,3250,3353.04,103.04,200,20607.59,3.07,9
 2025-09-24,27025,Radiation Lv1,Bankaquaq,Radiation/FB/Grenade/Brew/Poison,3250,3353.04,103.04,200,20607.59,3.07,9
@@ -157,11 +156,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-24,25031,Refining Gem,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,9987,10283.19,296.19,78,23103.04,2.88,14
 2025-09-24,25031,Refining Gem,Mikosita,SELL IMPS/REF/PPS/GPS,9999,10283.19,284.19,170,48312.77,2.76,14
 2025-09-24,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,9999,10283.19,284.19,82,23303.81,2.76,14
-2025-09-24,30139,100x Crystal,Kayn3,sell imps,87500,89892.77,2392.77,66,157922.53,2.66,7
 2025-09-24,26576,Iron Brew,Cincar,Cincar pots,8400,8613.59,213.59,200,42717.65,2.48,9
 2025-09-24,22010,Gem of Rage,Pornhub,UG RAGE / DEMO RAGE / 110% Apps,2100000,2150000.0,50000.0,12,600000.0,2.33,4
+2025-09-24,30139,100x Crystal,Mikosita,SELL IMPS/REF/PPS/GPS,88999,90851.72,1852.72,50,92635.84,2.04,5
 2025-09-24,22015,Demonic Gem of Rage,Pornhub,UG RAGE / DEMO RAGE / 110% Apps,2200000,2244999.9,44999.9,6,269999.4,2.0,4
+2025-09-24,30139,100x Crystal,Aois,STALL,89400,90851.72,1451.72,99,143719.97,1.6,5
 2025-09-24,26585,Blessed Potion,BlessIfMan,BLESS IF MAN,109999,111224.83,1225.83,17,20839.09,1.1,7
-2025-09-24,30139,100x Crystal,Mikosita,SELL IMPS/REF/PPS/GPS,88999,89892.77,893.77,50,44688.28,0.99,7
 2025-09-24,22014,Demonic Gem of Colossus,zzzzz,zzzzz,2900000,2925000.0,25000.0,1,25000.0,0.85,3
-2025-09-24,30139,100x Crystal,Aois,STALL,89400,89892.77,492.77,99,48783.8,0.55,7
