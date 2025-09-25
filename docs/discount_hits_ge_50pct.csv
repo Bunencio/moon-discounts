@@ -7,9 +7,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.77,28458,Ice Sealed Staff of the Sphinx,10000,36728.33,6,1,Electricman1,PharaoGem/Jp MvMCoin/GPS/PPS/ETC
 72.77,28458,Ice Sealed Staff of the Sphinx,10000,36728.33,6,1,Electricman1,PharaoGem/Jp MvMCoin/GPS/PPS/ETC
 69.24,28418,Earth Sealed Kiss of the Cursed,1999,6499.6,5,1,zHeaven,THIS ONE FOR U
-68.9,22003,Glowing Gem,480,1543.59,11,42,Stol,CHEAP
+68.66,22003,Glowing Gem,480,1531.7,10,42,Stol,CHEAP
 67.59,28436,Fire Sealed Staff of Evanescence,10000,30856.71,6,1,OfflineBank,CHEAP MUNKS
-66.79,22006,Spirit Gem,2500,7527.5,6,1,STALLING11,GEMFRAG/GYOZA/NORMAL GEMS/DEMR
+66.5,22006,Spirit Gem,2500,7463.72,7,1,STALLING11,GEMFRAG/GYOZA/NORMAL GEMS/DEMR
 64.98,25258,Spirit Feather,189,539.71,7,27,DarkKillerJr,S> CHEAP items
 64.98,25258,Spirit Feather,189,539.71,7,99,DarkKillerJr,S> CHEAP items
 64.35,28436,Fire Sealed Staff of Evanescence,11000,30856.71,6,1,Nixm,Fire Sealed
@@ -23,6 +23,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.48,22001,Furious Gem,800,2024.39,14,1,TocoDeJegue,Roar-Flash-Purple-Glove- Boots
 60.36,28403,Blade of Incantation,110000,277499.5,6,1,batcat,crus
 60.18,30145,Fire Seed,5000,12555.33,5,1,Cihandarbey,5k 5k 5k
+59.82,22006,Spirit Gem,2999,7463.72,7,1,JEEDOO,jedo
 58.36,27000,Prosperous Packet,85,204.12,5,13,Carmens,De River Desde la cuna al cajon
 58.01,22001,Furious Gem,850,2024.39,14,46,hunterx,imps/rep/bp/signet/ref/gem/fb/xp
 57.96,26564,Meditation Potion,9,21.41,4,99,TagBaligya2,Manu/Cook/Craft Items
