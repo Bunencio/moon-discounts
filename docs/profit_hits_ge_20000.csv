@@ -1,7 +1,9 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
+2025-09-25,25164,Deadly Fruit,zHeaven,PLEASURE DOING  BUSINESS WIT U,490,746778.28,746288.28,99,73882540.07,99.93,3
+2025-09-25,25164,Deadly Fruit,zHeaven,PLEASURE DOING  BUSINESS WIT U,490,746778.28,746288.28,22,16418342.24,99.93,3
+2025-09-25,25164,Deadly Fruit,conchmachine,tropical/frosty/mystic/,750,746778.28,746028.28,12,8952339.4,99.9,3
 2025-09-25,28035,Solar Shield,MiningGPU,ever cheep u will seen on this m,3111,39015.29,35904.29,1,35904.29,92.03,7
 2025-09-25,25498,Black Colorant,VERTIGO,HAIR STYLE AND DYE COLORANT,4500,27166.67,22666.67,1,22666.67,83.44,3
-2025-09-25,28400,Earth Sealed Platemail of the Cursed Soul,bank12,Cheep1,5999,28333.0,22334.0,1,22334.0,78.83,3
 2025-09-25,28446,Fire Sealed Bow of Evanescence,DingDong,Skating | Sealeds | Animal Pots,10000,33749.75,23749.75,1,23749.75,70.37,4
 2025-09-25,28035,Solar Shield,TTKillGirlTT,Sealed Equips 50  /   SM glove,14999,39015.29,24016.29,1,24016.29,61.56,7
 2025-09-25,28425,Tooth of the Cursed,iFennec,VOY CRUS UNS 65,120000,286999.67,166999.67,1,166999.67,58.19,3
@@ -47,14 +49,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,27014,Moonroot Wine,vnt3,Last moonroot Wine,650,840.02,190.02,129,24512.41,22.62,10
 2025-09-25,26590,Potion of Soul,Dad,kkkkk,2000,2575.76,575.76,53,30515.28,22.35,11
 2025-09-25,26570,Bloodfire Potion,Messrve,<[P][O][T][S]>  [S][T][A][L][L]>,1900,2420.48,520.48,68,35392.38,21.5,4
-2025-09-25,26002,Pharaoh Gem,NALDOCANAL,ALOT SHITS FK,1500,1903.61,403.61,99,39957.5,21.2,11
 2025-09-25,25426,Universe Purse Fragment.,HanmaBaki,ROCK/JADE/UNIVERSE FRAG RUSH,260000,325999.8,65999.8,1,65999.8,20.25,6
 2025-09-25,26591,Potion of Lion,Stol3,Cheapest,1799,2245.32,446.32,47,20977.07,19.88,13
 2025-09-25,26326,Elven Royal Signet,A1eXxSamara,ROYAL SIGNETS,1750,2162.08,412.08,200,82415.82,19.06,9
 2025-09-25,25420,Sunlight Heart,NainBASTARD,Frag++,22222,27414.09,5192.09,10,51920.91,18.94,3
 2025-09-25,22008,Gem of the Wind,PasarGelap,LUMBER/ PURPLE JADE/ UG WIND,890000,1096666.33,206666.33,1,206666.33,18.84,5
 2025-09-25,22004,Shining Gem,Dad,kkkkk,3000,3675.98,675.98,90,60838.32,18.39,9
-2025-09-25,26002,Pharaoh Gem,Shoper,pharoah 1 5k gps 17k lbp 7k,1555,1903.61,348.61,92,32072.22,18.31,11
+2025-09-25,26002,Pharaoh Gem,NALDOCANAL,ALOT SHITS FK,1500,1833.31,333.31,99,32998.04,18.18,11
+2025-09-25,26002,Pharaoh Gem,Bathroom,Sell freeeeeeeee,1500,1833.31,333.31,99,32998.04,18.18,11
+2025-09-25,26002,Pharaoh Gem,Bathroom,Sell freeeeeeeee,1500,1833.31,333.31,99,32998.04,18.18,11
 2025-09-25,22008,Gem of the Wind,Tiichin,UG Colo Wind Dem Wind,899999,1096666.33,196667.33,1,196667.33,17.93,5
 2025-09-25,25503,Magical Stone,GRAVITY,MAGICAL STONE,1350,1642.69,292.69,99,28976.28,17.82,5
 2025-09-25,25503,Magical Stone,GRAVITY,MAGICAL STONE,1350,1642.69,292.69,99,28976.28,17.82,5
@@ -75,6 +78,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,22000,FieryGem,EngrAndy,GG Galore,3500,4150.52,650.52,44,28623.0,15.67,13
 2025-09-25,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3400,4024.76,624.76,93,58102.45,15.52,5
 2025-09-25,30022,Buffing Card,Stol,Cheap,30000,35384.62,5384.62,9,48461.54,15.22,3
+2025-09-25,26002,Pharaoh Gem,Shoper,pharoah 1 5k gps 17k lbp 7k,1555,1833.31,278.31,92,25604.84,15.18,11
 2025-09-25,26377,Pharaoh's Lantern,stallerx,Pharao lantern,8200,9618.04,1418.04,99,140385.77,14.74,9
 2025-09-25,25031,Refining Gem,EIlIIliah,ewqeqweqw,9000,10463.62,1463.62,91,133189.16,13.99,11
 2025-09-25,30102,1000 Reputation Scroll,Saller,ty,7000,8126.68,1126.68,99,111541.49,13.86,11
@@ -103,7 +107,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,25452,Rock Gem Fragment,FreePalestine1,sell,99000,111248.11,12248.11,5,61240.54,11.01,6
 2025-09-25,26591,Potion of Lion,stalleer,Sheilds and Potion of,2000,2245.32,245.32,200,49064.14,10.93,13
 2025-09-25,26591,Potion of Lion,Barya,BULL|LION|FGP|P LANTERN,2000,2245.32,245.32,185,45384.33,10.93,13
-2025-09-25,27019,Purple Pirate Scroll,FBandGrenadeSell,Cheap PPS/Purple Crystal,3999,4477.64,478.64,99,47385.36,10.69,23
+2025-09-25,27019,Purple Pirate Scroll,FBandGrenadeSell,Cheap PPS/Purple Crystal,3999,4479.03,480.03,99,47522.94,10.72,22
 2025-09-25,25452,Rock Gem Fragment,JohnCena2,Imps/Bless/PJade/RGem/Pots/Frags,100000,111248.11,11248.11,9,101232.96,10.11,6
 2025-09-25,22007,Gem of Striking,Seller1,HL SM - UG STRIKE,1450000,1612499.88,162499.88,1,162499.88,10.08,6
 2025-09-25,22024,Purple Jade,JohnCena2,Imps/Bless/PJade/RGem/Pots/Frags,880000,978332.83,98332.83,1,98332.83,10.05,4
@@ -119,8 +123,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,26588,Potion of Eagle,stalleer,Sheilds and Potion of,2000,2189.9,189.9,147,27915.74,8.67,16
 2025-09-25,26346,Lantern,Ladystall,Cheap potions,4990,5453.7,463.7,87,40342.14,8.5,8
 2025-09-25,26346,Lantern,thewata,Lanter-ElvenPot-5stats,4990,5453.7,463.7,65,30140.68,8.5,8
-2025-09-25,27019,Purple Pirate Scroll,7FROSTVB,PPS - PPS,4100,4477.64,377.64,69,26057.16,8.43,23
-2025-09-25,27019,Purple Pirate Scroll,7FROSTVB,PPS - PPS,4100,4477.64,377.64,59,22280.76,8.43,23
+2025-09-25,27019,Purple Pirate Scroll,7FROSTVB,PPS - PPS,4100,4479.03,379.03,69,26153.05,8.46,22
+2025-09-25,27019,Purple Pirate Scroll,7FROSTVB,PPS - PPS,4100,4479.03,379.03,59,22362.75,8.46,22
+2025-09-25,30140,10x Crystal,Bathroom,Sell freeeeeeeee,8450,9214.26,764.26,29,22163.51,8.29,4
 2025-09-25,26326,Elven Royal Signet,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,1987,2162.08,175.08,200,35015.82,8.1,9
 2025-09-25,26326,Elven Royal Signet,DontDelete7,e.e,1999,2162.08,163.08,179,29191.16,7.54,9
 2025-09-25,22007,Gem of Striking,Brunis,UG,1500000,1612499.88,112499.88,1,112499.88,6.98,6
@@ -133,8 +138,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,26377,Pharaoh's Lantern,Ladystall,Cheap potions,8990,9618.04,628.04,51,32029.94,6.53,9
 2025-09-25,26377,Pharaoh's Lantern,thewata,Lanter-ElvenPot-5stats,8990,9618.04,628.04,48,30145.83,6.53,9
 2025-09-25,26589,Potion of Bull,thewata,Lanter-ElvenPot-5stats,1990,2125.27,135.27,200,27054.23,6.36,12
-2025-09-25,27019,Purple Pirate Scroll,MatsBk,S>PBS/REP/IMP/DE WIND/POSE,4200,4477.64,277.64,99,27486.36,6.2,23
-2025-09-25,27019,Purple Pirate Scroll,CStal4,sell,4200,4477.64,277.64,99,27486.36,6.2,23
+2025-09-25,27019,Purple Pirate Scroll,MatsBk,S>PBS/REP/IMP/DE WIND/POSE,4200,4479.03,279.03,99,27623.94,6.23,22
+2025-09-25,27019,Purple Pirate Scroll,CStal4,sell,4200,4479.03,279.03,99,27623.94,6.23,22
 2025-09-25,26589,Potion of Bull,Dad,kkkkk,2000,2125.27,125.27,200,25054.23,5.89,12
 2025-09-25,26589,Potion of Bull,stalleer,Sheilds and Potion of,2000,2125.27,125.27,200,25054.23,5.89,12
 2025-09-25,26589,Potion of Bull,Barya,BULL|LION|FGP|P LANTERN,2000,2125.27,125.27,191,23926.79,5.89,12
@@ -163,7 +168,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,22015,Demonic Gem of Rage,Pornhub,UG RAGE / DEMO RAGE / 110%armor,2200000,2262500.0,62500.0,6,375000.0,2.76,3
 2025-09-25,22010,Gem of Rage,Pornhub,UG RAGE / DEMO RAGE / 110%armor,2000000,2044444.28,44444.28,12,533331.33,2.17,4
 2025-09-25,22010,Gem of Rage,Nikoz,CHEAP AF BUY ALL THANKS!!!,2000000,2044444.28,44444.28,1,44444.28,2.17,4
-2025-09-25,22012,Demonic Gem of Wind,Systembuff,DemWind/GreatAquaCap,1444444,1467930.38,23486.38,1,23486.38,1.6,6
+2025-09-25,22012,Demonic Gem of Wind,Systembuff,Sealeds,1444444,1467930.38,23486.38,1,23486.38,1.6,6
 2025-09-25,26377,Pharaoh's Lantern,Virginia,Std Poss // Pharaoh Lantern,9499,9618.04,119.04,190,22617.23,1.24,9
 2025-09-25,22007,Gem of Striking,Deity,zzzzzz,1600000,1612499.88,12499.88,2,24999.75,0.78,6
 2025-09-25,30139,100x Crystal,JohnCena2,Imps/Bless/PJade/RGem/Pots/Frags,88888,89467.82,579.82,80,46385.74,0.65,8
