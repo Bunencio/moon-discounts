@@ -41,7 +41,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,28421,Bow of Incantation,Sakaki,ring/boots/bow,75000,103630.88,28630.88,1,28630.88,27.63,8
 2025-09-25,28423,Mantle of the Cursed Flame,iFennec,VOY  UNSNLV60,99999,137499.67,37500.67,1,37500.67,27.27,6
 2025-09-25,30156,Jackpot Coin,dogdogdog,GPS.Purse.Phara.Growth.JPs,7990,10803.77,2813.77,12,33765.27,26.04,9
-2025-09-25,28429,Dance of Evanescence,Embracer,stuff,1000000,1350000.0,350000.0,1,350000.0,25.93,3
 2025-09-25,30102,1000 Reputation Scroll,CallMeBaby,CHEAP,6000,8068.48,2068.48,62,128245.68,25.64,11
 2025-09-25,25525,,Uzi,fairy food,399999,531665.7,131666.7,1,131666.7,24.76,11
 2025-09-25,25525,,stall1239,chaos jewell frag / rock frag,400000,531665.7,131665.7,1,131665.7,24.76,11
@@ -158,16 +157,16 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,27020,Gold Pirate Scroll,Bathroom,Freeeeeeeeeeeeeeeeeeee,18999,20992.36,1993.36,22,43854.01,9.5,12
 2025-09-25,27020,Gold Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/PPS,18999,20992.36,1993.36,19,37873.91,9.5,12
 2025-09-25,22008,Gem of the Wind,Na0fumi,darkblue,990000,1089999.67,99999.67,1,99999.67,9.17,5
-2025-09-25,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,8888,9782.63,894.63,200,178926.93,9.15,14
-2025-09-25,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,8888,9782.63,894.63,192,171769.85,9.15,14
+2025-09-25,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,8888,9783.71,895.71,200,179142.88,9.16,14
+2025-09-25,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,8888,9783.71,895.71,192,171977.17,9.16,14
 2025-09-25,25451,Jade Gem Fragment,SariSariStore1,SALE,74999,82287.27,7288.27,9,65594.44,8.86,11
 2025-09-25,25426,Universe Purse Fragment.,Mikosita,SELL JACKPOT/GPS/REF/PPS,279999,307070.5,27071.5,2,54143.0,8.82,8
 2025-09-25,26588,Potion of Eagle,zzzzz,pots,2000,2184.31,184.31,200,36862.12,8.44,14
 2025-09-25,26588,Potion of Eagle,stalleer,Sheilds and Potion of,2000,2184.31,184.31,147,27093.66,8.44,14
 2025-09-25,22008,Gem of the Wind,Pots,Gem of Wind,999999,1089999.67,90000.67,1,90000.67,8.26,5
-2025-09-25,25031,Refining Gem,dwtix,Flash Bomb / Elven Bunny Pot's,8999,9782.63,783.63,44,34479.92,8.01,14
-2025-09-25,25031,Refining Gem,dada4,Ref's / Elven Signet's,8999,9782.63,783.63,43,33696.29,8.01,14
-2025-09-25,25031,Refining Gem,EIlIIliah,ewqeqweqw,9000,9782.63,782.63,76,59480.23,8.0,14
+2025-09-25,25031,Refining Gem,dwtix,Flash Bomb / Elven Bunny Pot's,8999,9783.71,784.71,44,34527.43,8.02,14
+2025-09-25,25031,Refining Gem,dada4,Ref's / Elven Signet's,8999,9783.71,784.71,43,33742.72,8.02,14
+2025-09-25,25031,Refining Gem,EIlIIliah,ewqeqweqw,9000,9783.71,783.71,76,59562.3,8.01,14
 2025-09-25,27025,Radiation Lv1,alttere,Cheap Radiations Take All PLOX<3,3400,3681.95,281.95,200,56390.0,7.66,7
 2025-09-25,27025,Radiation Lv1,alttere,Cheap Radiations Take All PLOX<3,3400,3681.95,281.95,112,31578.4,7.66,7
 2025-09-25,27020,Gold Pirate Scroll,smoI,gps skating hats cheap,19500,20992.36,1492.36,82,122373.84,7.11,12
@@ -199,14 +198,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,26559,Cooked Crab,Signet,Aegis/Attkpot/Tuna/Crab Cheap,3000,3133.51,133.51,200,26702.46,4.26,3
 2025-09-25,26559,Cooked Crab,Signet,Aegis/Attkpot/Tuna/Crab Cheap,3000,3133.51,133.51,190,25367.34,4.26,3
 2025-09-25,22013,Demonic Gem of Striking,baf,demo strik,1880000,1959999.67,79999.67,1,79999.67,4.08,3
+2025-09-25,30139,100x Crystal,DarknessL,sell imps,88000,91522.6,3522.6,19,66929.48,3.85,4
 2025-09-25,25527,,Stello,CHAOS FRAGMENTS CHEAP,800000,831537.46,31537.46,5,157687.31,3.79,8
 2025-09-25,25527,,Satanized,Chaos Suff - 55 Unseal Cheap,799999,831537.46,31538.46,2,63076.92,3.79,8
-2025-09-25,30139,100x Crystal,DarknessL,sell imps,88000,91450.71,3450.71,20,69014.29,3.77,4
 2025-09-25,26585,Blessed Potion,Space,BLESS CHEAPEST | RAD LV 2,101000,104902.48,3902.48,9,35122.31,3.72,7
-2025-09-25,28429,Dance of Evanescence,Ozy,RUSHHH,1300000,1350000.0,50000.0,1,50000.0,3.7,3
-2025-09-25,28429,Dance of Evanescence,Ozy,RUSHHH,1300000,1350000.0,50000.0,1,50000.0,3.7,3
 2025-09-25,22015,Demonic Gem of Rage,Pornhub,UG RAGE / DEMO RAGE / 110%armor,2200000,2271428.57,71428.57,5,357142.86,3.14,3
-2025-09-25,30139,100x Crystal,NankNa,[cheap] KAL BP   CRYSTALS [cheap,88888,91450.71,2562.71,17,43566.14,2.8,4
+2025-09-25,30139,100x Crystal,NankNa,[cheap] KAL BP   CRYSTALS [cheap,88888,91522.6,2634.6,17,44788.27,2.88,4
 2025-09-25,26578,Aegis Brew,GeorgeFloyd,CHEAPEST POTS,60000,61672.13,1672.13,14,23409.84,2.71,4
 2025-09-25,22010,Gem of Rage,Pornhub,UG RAGE / DEMO RAGE / 110%armor,2000000,2052631.42,52631.42,12,631577.05,2.56,4
 2025-09-25,22010,Gem of Rage,BabyBank,cheap,2000000,2052631.42,52631.42,1,52631.42,2.56,4
