@@ -1,7 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-09-25,28035,Solar Shield,DarkKillerJr,S> CHEAP items,7499,35499.6,28000.6,1,28000.6,78.88,5
-2025-09-25,28458,Ice Sealed Staff of the Sphinx,Electricman1,PharaoGem/Jp MvMCoin/GPS/PPS/ETC,10000,36728.33,26728.33,1,26728.33,72.77,6
-2025-09-25,28458,Ice Sealed Staff of the Sphinx,Electricman1,PharaoGem/Jp MvMCoin/GPS/PPS/ETC,10000,36728.33,26728.33,1,26728.33,72.77,6
+2025-09-25,28458,Ice Sealed Staff of the Sphinx,Electricman1,PharaoGem/Jp MvMCoin/GPS/PPS/ETC,10000,37569.38,27569.38,1,27569.38,73.38,6
+2025-09-25,28458,Ice Sealed Staff of the Sphinx,Electricman1,PharaoGem/Jp MvMCoin/GPS/PPS/ETC,10000,37569.38,27569.38,1,27569.38,73.38,6
 2025-09-25,22003,Glowing Gem,Stol,CHEAP,480,1565.98,1085.98,42,45610.97,69.35,9
 2025-09-25,28436,Fire Sealed Staff of Evanescence,OfflineBank,CHEAP MUNKS,10000,30856.71,20856.71,1,20856.71,67.59,6
 2025-09-25,25258,Spirit Feather,DarkKillerJr,S> CHEAP items,189,539.71,350.71,99,34720.73,64.98,7
@@ -26,7 +26,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,28476,Ice Sealed Kris of the Sphinx,Shopshop,.,49999,80999.8,31000.8,1,31000.8,38.27,4
 2025-09-25,28454,Ice Sealed Blade of Enigma,God,zzzzz,400000,637500.0,237500.0,1,237500.0,37.25,3
 2025-09-25,25416,Cloud Heart,LazzzyBee,CHEAPEST STALL IN THIS SERVER,25000,39250.0,14250.0,2,28500.0,36.31,4
-2025-09-25,27014,Moonroot Wine,Stol3,CHEAPEST POTS,550,841.01,291.01,146,42487.1,34.6,10
+2025-09-25,27014,Moonroot Wine,Stol3,CHEAPEST POTS,550,845.11,295.11,96,28330.86,34.92,10
 2025-09-25,28421,Bow of Incantation,Anuel,Super cheap stuff.,69999,107006.71,37007.71,1,37007.71,34.58,7
 2025-09-25,28401,Platemail of the Cursed Soul,batcat,crus,110000,167499.75,57499.75,1,57499.75,34.33,4
 2025-09-25,25525,,stallerx,Lanters  kal  chaos rune  frags,350000,520311.59,170311.59,2,340623.19,32.73,12
@@ -34,8 +34,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,25417,Moonlight Heart,Chad,Cheap,120000,173800.0,53800.0,1,53800.0,30.96,3
 2025-09-25,28421,Bow of Incantation,Piu,Unseal 45 Stall -30% OFF!,74999,107006.71,32007.71,1,32007.71,29.91,7
 2025-09-25,28421,Bow of Incantation,Sakaki,ring/boots/bow,75000,107006.71,32006.71,1,32006.71,29.91,7
+2025-09-25,25527,,stallerx,Lanters  kal  chaos rune  frags,600000,839229.77,239229.77,1,239229.77,28.51,7
 2025-09-25,22000,FieryGem,Dad,zzzzz,3000,4174.79,1174.79,83,97507.23,28.14,15
-2025-09-25,25527,,stallerx,Lanters  kal  chaos rune  frags,600000,829284.79,229284.79,1,229284.79,27.65,8
 2025-09-25,30156,Jackpot Coin,Tralalera,GYOZAS!!! COINS SCROLLS IMPS,8999,12394.54,3395.54,10,33955.41,27.4,4
 2025-09-25,28421,Bow of Incantation,CHEAPSTALL,Uns bow 45/Heavy Crystal,79050,107006.71,27956.71,1,27956.71,26.13,7
 2025-09-25,28472,Ice Sealed Bow of Enigma,Stol2,CHEAPEST,59999,80599.8,20600.8,1,20600.8,25.56,4
@@ -44,7 +44,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,25416,Cloud Heart,BabyBank,cheap,30000,39250.0,9250.0,3,27750.0,23.57,4
 2025-09-25,25525,,Uzi,fairy food,399999,520311.59,120312.59,1,120312.59,23.12,12
 2025-09-25,25525,,stall1239,chaos jewell frag / rock frag,400000,520311.59,120311.59,1,120311.59,23.12,12
-2025-09-25,27014,Moonroot Wine,vnt3,Last moonroot Wine,650,841.01,191.01,119,22729.89,22.71,10
+2025-09-25,27014,Moonroot Wine,vnt3,Last moonroot Wine,650,845.11,195.11,119,23218.46,23.09,10
 2025-09-25,26346,Lantern,Stol3,CHEAPEST POTS,3950,5059.99,1109.99,80,88799.52,21.94,8
 2025-09-25,26570,Bloodfire Potion,Messrve,<[P][O][T][S]>  [S][T][A][L][L]>,1900,2420.48,520.48,68,35392.38,21.5,4
 2025-09-25,26002,Pharaoh Gem,Pardofelis,nya,1350,1717.34,367.34,94,34530.42,21.39,9
@@ -60,13 +60,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,30135,Demonic Rock,STALLING11,GEMFRAG/GYOZA/NORMAL GEMS/DEMR,3000,3663.01,663.01,37,24531.32,18.1,3
 2025-09-25,30102,1000 Reputation Scroll,Ragnark23,ice,6500,7927.58,1427.58,15,21413.76,18.01,9
 2025-09-25,26326,Elven Royal Signet,BL4CKM4RK3T,blackmarket,1700,2059.02,359.02,99,35543.08,17.44,7
+2025-09-25,27014,Moonroot Wine,Messrve,<[P][O][T][S]>  [S][T][A][L][L]>,699,845.11,146.11,184,26884.82,17.29,10
+2025-09-25,27014,Moonroot Wine,eeee,Cheap healing shit,700,845.11,145.11,191,27716.61,17.17,10
+2025-09-25,27014,Moonroot Wine,eeee,Cheap healing shit,700,845.11,145.11,188,27281.27,17.17,10
+2025-09-25,27014,Moonroot Wine,eeee,Cheap healing shit,700,845.11,145.11,166,24088.78,17.17,10
 2025-09-25,26589,Potion of Bull,Qwe,MOOONROOT STONE POTION BULL!!,1750,2106.79,356.79,108,38533.2,16.94,15
 2025-09-25,25451,Jade Gem Fragment,ii3,jade frags/ pots,69000,83052.66,14052.66,7,98368.62,16.92,10
 2025-09-25,25452,Rock Gem Fragment,stall1239,chaos jewell frag / rock frag,99000,119155.05,20155.05,1,20155.05,16.91,5
-2025-09-25,27014,Moonroot Wine,Messrve,<[P][O][T][S]>  [S][T][A][L][L]>,699,841.01,142.01,184,26129.38,16.89,10
-2025-09-25,27014,Moonroot Wine,eeee,Cheap healing shit,700,841.01,141.01,191,26932.43,16.77,10
-2025-09-25,27014,Moonroot Wine,eeee,Cheap healing shit,700,841.01,141.01,188,26509.41,16.77,10
-2025-09-25,27014,Moonroot Wine,eeee,Cheap healing shit,700,841.01,141.01,166,23407.25,16.77,10
 2025-09-25,26591,Potion of Lion,BoogeyMan,pots/sm eqs,1999,2384.72,385.72,88,33943.79,16.17,13
 2025-09-25,22000,FieryGem,EngrAndy,GG Galore,3500,4174.79,674.79,44,29690.58,16.16,15
 2025-09-25,25426,Universe Purse Fragment.,sellerforfree,cheap,269000,320817.91,51817.91,1,51817.91,16.15,7
@@ -76,7 +76,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,25451,Jade Gem Fragment,FreePalestine1,selll,70000,83052.66,13052.66,6,78315.96,15.72,10
 2025-09-25,25451,Jade Gem Fragment,CallMeBaby,CHEAP,70000,83052.66,13052.66,2,26105.32,15.72,10
 2025-09-25,22004,Shining Gem,hunterx,imps/rep/bp/signet/ref/gem/fb/xp,2950,3498.77,548.77,81,44450.29,15.68,11
-2025-09-25,25527,,xTrueHistory,Chaos Runestone cheap,700000,829284.79,129284.79,1,129284.79,15.59,8
 2025-09-25,26002,Pharaoh Gem,Electricman1,PharaoGem/Jp MvMCoin/GPS/PPS/ETC,1450,1717.34,267.34,75,20050.87,15.57,9
 2025-09-25,26326,Elven Royal Signet,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,1744,2059.02,315.02,200,63004.19,15.3,7
 2025-09-25,26326,Elven Royal Signet,Lancelot,SELL CHEAP SELL CHEAP SELL CHEAP,1744,2059.02,315.02,160,50403.36,15.3,7
@@ -129,17 +128,17 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,25452,Rock Gem Fragment,SellerPirate,staff,105000,119155.05,14155.05,5,70775.26,11.88,5
 2025-09-25,30102,1000 Reputation Scroll,Saller,ty,7000,7927.58,927.58,99,91830.83,11.7,9
 2025-09-25,30102,1000 Reputation Scroll,MatsBk,S>rep/imp/PPS/Dust/PBS,7000,7927.58,927.58,66,61220.56,11.7,9
+2025-09-25,26592,Flash Bomb,Honey,--------  Pet  Fruits  ---------,799,901.97,102.97,200,20593.51,11.42,10
+2025-09-25,26592,Flash Bomb,Honey,--------  Pet  Fruits  ---------,799,901.97,102.97,200,20593.51,11.42,10
 2025-09-25,27020,Gold Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/PPS,18999,21446.3,2447.3,19,46498.78,11.41,9
 2025-09-25,25505,Standard Stone,LotokSell,DemoSoul UgSoul DemoColo Fairy,2900,3269.82,369.82,60,22189.26,11.31,3
-2025-09-25,26592,Flash Bomb,Honey,--------  Pet  Fruits  ---------,799,900.63,101.63,200,20326.22,11.28,10
-2025-09-25,26592,Flash Bomb,Honey,--------  Pet  Fruits  ---------,799,900.63,101.63,200,20326.22,11.28,10
 2025-09-25,30156,Jackpot Coin,cheapstuffsell,cheap,11000,12394.54,1394.54,73,101801.46,11.25,4
+2025-09-25,25527,,staller2,Cooked Tilapia/chaos rune/dw,745000,839229.77,94229.77,1,94229.77,11.23,7
 2025-09-25,26346,Lantern,SeventhHeaven,Lantern,4500,5059.99,559.99,63,35279.62,11.07,8
 2025-09-25,27025,Radiation Lv1,Bodeguita,RADI 3.3K/IRONBREW 8.5K/GUARD800,3300,3710.36,410.36,144,59091.48,11.06,8
 2025-09-25,27025,Radiation Lv1,Bodeguita,RADI 3.3K/IRONBREW 8.5K/GUARD800,3300,3710.36,410.36,135,55398.26,11.06,8
 2025-09-25,26558,Cooked Salmon,Croissant,fesh,899,1003.47,104.47,200,20894.6,10.41,4
 2025-09-25,27025,Radiation Lv1,Benjoya,Kal/Radiation Lv1,3333,3710.36,377.36,200,75471.5,10.17,8
-2025-09-25,25527,,staller2,Cooked Tilapia/chaos rune/dw,745000,829284.79,84284.79,1,84284.79,10.16,8
 2025-09-25,22024,Purple Jade,PasarGelap,PURPLE JADE / LUMBER / WIND,900000,999999.4,99999.4,1,99999.4,10.0,3
 2025-09-25,25451,Jade Gem Fragment,SariSariStore1,SALE,74999,83052.66,8053.66,9,72482.95,9.7,10
 2025-09-25,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,8888,9833.5,945.5,200,189100.41,9.62,14
@@ -170,6 +169,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/PPS,4100,4320.28,220.28,99,21807.88,5.1,18
 2025-09-25,26589,Potion of Bull,stalleer,Sheilds and Potion of,2000,2106.79,106.79,200,21357.78,5.07,15
 2025-09-25,26589,Potion of Bull,zzzzz,pots,2000,2106.79,106.79,200,21357.78,5.07,15
+2025-09-25,25527,,Stello,CHAOS FRAGMENTS CHEAP,800000,839229.77,39229.77,5,196148.85,4.67,7
+2025-09-25,25527,,Satanized,Chaos Suff - 55 Unseal Cheap,799999,839229.77,39230.77,2,78461.54,4.67,7
+2025-09-25,25527,,Starry,cheap stuff,799999,839229.77,39230.77,1,39230.77,4.67,7
 2025-09-25,26559,Cooked Crab,Signet,Aegis/Attkpot/Tuna/Crab Cheap,3000,3129.74,129.74,200,25947.83,4.15,3
 2025-09-25,26559,Cooked Crab,Signet,Aegis/Attkpot/Tuna/Crab Cheap,3000,3129.74,129.74,190,24650.43,4.15,3
 2025-09-25,22013,Demonic Gem of Striking,baf,demo strik,1880000,1959999.67,79999.67,1,79999.67,4.08,3
@@ -179,9 +181,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-25,25525,,AoiTodo,Promotion,500000,520311.59,20311.59,1,20311.59,3.9,12
 2025-09-25,22015,Demonic Gem of Rage,Okno,Demonic Rage,2150000,2235714.29,85714.29,1,85714.29,3.83,3
 2025-09-25,26377,Pharaoh's Lantern,stallzunha,CHEAP THINGS,8999,9340.95,341.95,59,20175.28,3.66,9
-2025-09-25,25527,,Stello,CHAOS FRAGMENTS CHEAP,800000,829284.79,29284.79,5,146423.93,3.53,8
-2025-09-25,25527,,Satanized,Chaos Suff - 55 Unseal Cheap,799999,829284.79,29285.79,2,58571.57,3.53,8
-2025-09-25,25527,,Starry,cheap stuff,799999,829284.79,29285.79,1,29285.79,3.53,8
 2025-09-25,22010,Gem of Rage,Pornhub,UG RAGE / DEMO RAGE / 110%armor,2000000,2055555.39,55555.39,12,666664.67,2.7,4
 2025-09-25,22010,Gem of Rage,BabyBank,cheap,2000000,2055555.39,55555.39,1,55555.39,2.7,4
 2025-09-25,22015,Demonic Gem of Rage,Pornhub,UG RAGE / DEMO RAGE / 110%armor,2200000,2235714.29,35714.29,5,178571.43,1.6,3
