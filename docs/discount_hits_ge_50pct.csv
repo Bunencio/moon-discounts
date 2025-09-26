@@ -1,7 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
+94.35,2301,,1000,17699.93,5,1,Stellar,Variety Shop
 90.64,25275,Spiritcallers Flask,9,96.19,5,99,berrtiibank,Spiritcaller's Flask
 87.15,25080,Iron Ore,10,77.82,3,99,BancoPopular,IRON/PINE/SMarmor
 87.15,25080,Iron Ore,10,77.82,3,58,BancoPopular,IRON/PINE/SMarmor
+85.76,30101,500 Reputation Scroll,400,2809.14,6,7,Undead2509,Sell  Scroll/Potion/jackpot/Coat
 83.11,25478,Carsise Hairstyle Book,500,2960.32,4,4,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 81.57,30121,Vial of Accuracy Reset,999,5420.1,6,1,KalazugeR,i i i.
 81.54,28035,Solar Shield,7499,40624.75,4,1,DarkKillerJr,S> CHEAP items
@@ -13,7 +15,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.97,28458,Ice Sealed Staff of the Sphinx,9999,32221.86,5,1,Electricman1,DemoSoul/PPS/PharaohGem/MvM/Etc.
 68.97,28458,Ice Sealed Staff of the Sphinx,9999,32221.86,5,1,Electricman1,DemoSoul/PPS/PharaohGem/MvM/Etc.
 68.75,28436,Fire Sealed Staff of Evanescence,11000,35199.8,5,1,Nixm,Fire Sealed
-66.67,28126,Cleric Cap,10000,30000.0,3,1,smoI,gps skating hats cheap
 66.39,22006,Spirit Gem,2500,7437.27,9,1,STALLING11,GEMFRAG/GYOZA/NORMAL GEMS/DEMR
 65.86,22003,Glowing Gem,480,1406.16,8,42,Stol,CHEAP
 64.44,22003,Glowing Gem,500,1406.16,8,2,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
@@ -25,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.35,25439,Incantation Stone,250,646.88,5,1,Godsky,Sell all itens
 61.05,22001,Furious Gem,900,2310.77,12,48,Stol,CHEAP
 60.55,26564,Meditation Potion,9,22.81,3,99,TagBaligya2,Manu/Cook/Craft Items
-60.03,22000,FieryGem,1800,4503.39,11,22,Stol,CHEAP
+60.11,22000,FieryGem,1800,4512.05,10,22,Stol,CHEAP
 60.02,25258,Spirit Feather,200,500.24,9,99,LunaMaya,S>HiddenHoney RBS FairyFood
 60.0,28434,Fire Sealed Robe of the Arcane,9999,24999.67,5,1,hoku,CHEAP EVA
 60.0,28434,Fire Sealed Robe of the Arcane,10000,24999.67,5,1,Mamadisimo,UG Striking/Rep 1000/500/SldDoE
@@ -37,12 +38,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.36,27000,Prosperous Packet,85,204.11,4,18,Carmens,River el mas grande de todos
 57.75,25522,,49,115.98,4,41,TagBaligya,5kRep PBS GBS Gaunts Manu Items
 57.5,26568,Skating Potion,20000,47058.76,3,1,TocoDeJegue,Purple - Fairy dust - Skating
-57.37,26588,Potion of Eagle,1000,2345.64,13,4,Pablo,CHEAP CHEAPER CHIPOTLE
+57.24,26588,Potion of Eagle,1000,2338.74,12,4,Pablo,CHEAP CHEAPER CHIPOTLE
 56.77,22001,Furious Gem,999,2310.77,12,1,stuffseller,cheap
 56.72,22001,Furious Gem,1000,2310.77,12,9,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
-55.59,22000,FieryGem,2000,4503.39,11,3,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
-55.59,22000,FieryGem,2000,4503.39,11,3,Bebang,CHEAPO NORMAL GEMS
-55.59,22000,FieryGem,2000,4503.39,11,3,Unlimites,garner
+55.67,22000,FieryGem,2000,4512.05,10,3,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
+55.67,22000,FieryGem,2000,4512.05,10,3,Bebang,CHEAPO NORMAL GEMS
+55.67,22000,FieryGem,2000,4512.05,10,3,Unlimites,garner
 54.54,30145,Fire Seed,5000,10999.71,3,1,Cihandarbey,5k 5k 5k
 53.85,28454,Ice Sealed Blade of Enigma,300000,650000.0,3,1,Bodeguita1,alot of sh1t
 52.27,28476,Ice Sealed Kris of the Sphinx,35000,73333.17,5,1,AoiTodo,Promotion
