@@ -31,7 +31,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,25416,Cloud Heart,BabyBank,cheap,30000,44000.0,14000.0,3,42000.0,31.82,3
 2025-09-26,28476,Ice Sealed Kris of the Sphinx,Shopshop,.,49999,73333.17,23334.17,1,23334.17,31.82,5
 2025-09-26,25527,,Stello,LoWeR,450000,654686.62,204686.62,5,1023433.12,31.26,10
-2025-09-26,30171,Ticket to Demonic World,ShowMaker,So cheap !,399,573.09,174.09,197,34295.13,30.38,12
+2025-09-26,30171,Ticket to Demonic World,ShowMaker,So cheap !,399,573.21,174.21,192,33448.58,30.39,11
 2025-09-26,25503,Magical Stone,GRAVITY,MAGICAL STONE,1350,1936.61,586.61,99,58074.22,30.29,3
 2025-09-26,25503,Magical Stone,GRAVITY,MAGICAL STONE,1350,1936.61,586.61,99,58074.22,30.29,3
 2025-09-26,25503,Magical Stone,GRAVITY,MAGICAL STONE,1350,1936.61,586.61,63,36956.32,30.29,3
@@ -71,6 +71,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,26002,Pharaoh Gem,NALDOCANAL,ALOT SHIT IS HERE,1499,1832.46,333.46,99,33012.5,18.2,11
 2025-09-26,26002,Pharaoh Gem,NALDOCANAL,ALOT SHIT IS HERE,1499,1832.46,333.46,85,28344.07,18.2,11
 2025-09-26,25451,Jade Gem Fragment,ii3,jade frags/ pots,69000,84331.79,15331.79,4,61327.15,18.18,9
+2025-09-26,25091,Heavy Crystal,conqstall2,chaos jwl frag heavy cryst boofc,3500,4263.47,763.47,71,54206.48,17.91,3
 2025-09-26,26344,Novice Weightless Potion,Tiichin,Cheap gems  pots  fb's,2999,3644.64,645.64,38,24534.32,17.71,3
 2025-09-26,27025,Radiation Lv1,MrMarket,MANU AND SUPPORT POINTS,3190,3872.11,682.11,170,115958.88,17.62,6
 2025-09-26,27025,Radiation Lv1,MrMarket,MANU AND SUPPORT POINTS,3190,3872.11,682.11,96,65482.66,17.62,6
@@ -95,15 +96,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,26588,Potion of Eagle,stalleer,Sheilds and Potion of,2000,2351.56,351.56,147,51679.15,14.95,14
 2025-09-26,26588,Potion of Eagle,Bodeguita1,alot of sh1t,2000,2351.56,351.56,87,30585.62,14.95,14
 2025-09-26,25031,Refining Gem,DontDelete7,e.e,7777,9118.1,1341.1,62,83148.42,14.71,11
-2025-09-26,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3400,3982.69,582.69,93,54190.38,14.63,4
 2025-09-26,26589,Potion of Bull,ezgoezgoezg1,sell 0_),1800,2107.02,307.02,73,22412.65,14.57,16
+2025-09-26,27034,Grenade Lv2,Bankaquaq,Radiation/FB/Brew/Poison/Grenade,3180,3714.8,534.8,111,59363.1,14.4,3
 2025-09-26,30135,Demonic Rock,Disciplined1,CHEAPEST DemoRock EnigPower Ref,2995,3492.08,497.08,82,40760.43,14.23,8
 2025-09-26,25505,Standard Stone,VendedoraJequiti,fairy dust / standard stone   ++,2798,3259.82,461.82,99,45719.71,14.17,4
 2025-09-26,25505,Standard Stone,VendedoraJequiti,fairy dust / standard stone   ++,2798,3259.82,461.82,99,45719.71,14.17,4
 2025-09-26,25505,Standard Stone,VendedoraJequiti,fairy dust / standard stone   ++,2798,3259.82,461.82,52,24014.39,14.17,4
 2025-09-26,26326,Elven Royal Signet,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,1744,2031.23,287.23,200,57446.59,14.14,8
 2025-09-26,26326,Elven Royal Signet,Lancelot,SELL CHEAP SELL CHEAP SELL CHEAP,1744,2031.23,287.23,84,24127.57,14.14,8
-2025-09-26,27034,Grenade Lv2,Bankaquaq,Radiation/FB/Brew/Poison/Grenade,3180,3703.47,523.47,111,58105.32,14.13,4
 2025-09-26,26377,Pharaoh's Lantern,fisherr,VERY VERY CHEAP NEW 26.09,7900,9196.72,1296.72,36,46681.94,14.1,9
 2025-09-26,30135,Demonic Rock,Chad,Cheap,3000,3492.08,492.08,83,40842.51,14.09,8
 2025-09-26,30135,Demonic Rock,HitomiTanaka,God gave us 2 arms to hold2girls,3000,3492.08,492.08,78,38382.11,14.09,8
@@ -121,7 +121,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,26560,Cooked Bluefin Tuna,SeaMaterials,Cooked Tuna 3.1k only fast!!!,3100,3542.94,442.94,99,43850.75,12.5,6
 2025-09-26,26560,Cooked Bluefin Tuna,SeaMaterials,Cooked Tuna 3.1k only fast!!!,3100,3542.94,442.94,97,42964.88,12.5,6
 2025-09-26,25479,Phyllis Hairstyle Book,Manager,HAIRSTYLE CHEAP,3000,3428.57,428.57,47,20142.86,12.5,3
-2025-09-26,25091,Heavy Crystal,conqstall2,chaos jwl frag heavy cryst boofc,3500,3982.69,482.69,71,34271.15,12.12,4
 2025-09-26,25452,Rock Gem Fragment,iinerti,Rage/RockGem/GPS/PPS/Repu1k/Jack,95000,107855.6,12855.6,8,102844.8,11.92,8
 2025-09-26,25452,Rock Gem Fragment,HitomiTanaka,God gave us 2 arms to hold2girls,95000,107855.6,12855.6,3,38566.8,11.92,8
 2025-09-26,26585,Blessed Potion,Nana,BLESS IF MAN,90000,102153.43,12153.43,13,157994.55,11.9,6
@@ -132,25 +131,23 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,25527,,Meguminn,EXPLOOOOSIOOOON!!!,585000,654686.62,69686.62,1,69686.62,10.64,10
 2025-09-26,30102,1000 Reputation Scroll,Saller,ty,7000,7821.63,821.63,99,81340.92,10.5,10
 2025-09-26,30102,1000 Reputation Scroll,MatsBk,S>de wind/dust/PPS/PBS/REP,7000,7821.63,821.63,66,54227.28,10.5,10
+2025-09-26,27019,Purple Pirate Scroll,HitomiTanaka,God gave us 2 arms to hold2girls,4000,4433.09,433.09,89,38545.31,9.77,13
 2025-09-26,26560,Cooked Bluefin Tuna,P02,Tuna,3200,3542.94,342.94,200,68587.37,9.68,6
 2025-09-26,26560,Cooked Bluefin Tuna,P02,Tuna,3200,3542.94,342.94,200,68587.37,9.68,6
 2025-09-26,26560,Cooked Bluefin Tuna,P02,Tuna,3200,3542.94,342.94,190,65158.0,9.68,6
 2025-09-26,26560,Cooked Bluefin Tuna,P02,Tuna,3200,3542.94,342.94,175,60013.95,9.68,6
-2025-09-26,27019,Purple Pirate Scroll,HitomiTanaka,God gave us 2 arms to hold2girls,4000,4427.19,427.19,89,38019.98,9.65,14
 2025-09-26,22012,Demonic Gem of Wind,MatsBk,S>de wind/dust/PPS/PBS/REP,1300000,1431249.88,131249.88,1,131249.88,9.17,4
 2025-09-26,22012,Demonic Gem of Wind,Systembuff,Sealeds60++,1300000,1431249.88,131249.88,1,131249.88,9.17,4
 2025-09-26,22023,Green Jade,Sunnyy,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,280000,307666.6,27666.6,1,27666.6,8.99,5
 2025-09-26,25525,,stallerx,Lanters  kal  chaos rune  frags,350000,382481.72,32481.72,2,64963.45,8.49,11
 2025-09-26,25527,,pisslow,voy apiral  chaos gold inventory,599999,654686.62,54687.62,1,54687.62,8.35,10
 2025-09-26,25527,,stallerx,Lanters  kal  chaos rune  frags,600000,654686.62,54686.62,1,54686.62,8.35,10
-2025-09-26,27019,Purple Pirate Scroll,Sakaki,PPS/GPS/BOOTS/RINGS ACC,4100,4427.19,327.19,99,32391.89,7.39,14
+2025-09-26,27019,Purple Pirate Scroll,Sakaki,PPS/GPS/BOOTS/RINGS ACC,4100,4433.09,333.09,99,32976.25,7.51,13
 2025-09-26,22013,Demonic Gem of Striking,baf,demo strik cheap,1850000,1969999.8,119999.8,1,119999.8,6.09,3
 2025-09-26,26346,Lantern,Ladystall,Cheap pots,4900,5210.97,310.97,87,27054.59,5.97,8
 2025-09-26,22012,Demonic Gem of Wind,Anuel,CRUS | CRune | Demo Wind | SS,1350000,1431249.88,81249.88,1,81249.88,5.68,4
 2025-09-26,26589,Potion of Bull,thewata,Lanter-ElvenPot-5stats,1990,2107.02,117.02,200,23404.52,5.55,16
-2025-09-26,27020,Gold Pirate Scroll,pisslow,voy apiral  chaos gold inventory,18200,19201.25,1001.25,36,36044.92,5.21,12
 2025-09-26,26589,Potion of Bull,stalleer,Sheilds and Potion of,2000,2107.02,107.02,200,21404.52,5.08,16
-2025-09-26,26573,Demonic Potion,Timotron,Cheapest Potions Ever Just LOOK,17999,18957.12,958.12,36,34492.39,5.05,5
 2025-09-26,26585,Blessed Potion,Sellerxdxd,Bless,97500,102153.43,4653.43,18,83761.69,4.56,6
 2025-09-26,22010,Gem of Rage,farmip54,UG RAGE/ UG COLO,1950000,2042857.0,92857.0,1,92857.0,4.55,5
 2025-09-26,22010,Gem of Rage,Machoman,ug rage,1950000,2042857.0,92857.0,1,92857.0,4.55,5
@@ -170,7 +167,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,22010,Gem of Rage,BabyBank,cheap,2000000,2042857.0,42857.0,1,42857.0,2.1,5
 2025-09-26,22010,Gem of Rage,Nikoz,Sleeping.....,2000000,2042857.0,42857.0,1,42857.0,2.1,5
 2025-09-26,26578,Aegis Brew,Timotron,Cheapest Potions Ever Just LOOK,58000,59158.62,1158.62,55,63723.93,1.96,4
-2025-09-26,30139,100x Crystal,KarateCruZ,S>IMPS,86450,87676.94,1226.94,86,105516.72,1.4,9
-2025-09-26,30139,100x Crystal,IamSellingThis,Cheapest IMPs EVER !!!!!!!!!!!!!,86500,87676.94,1176.94,55,64731.62,1.34,9
+2025-09-26,27020,Gold Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/IMPS,18999,19303.88,304.88,86,26219.39,1.58,11
+2025-09-26,30139,100x Crystal,KarateCruZ,S>IMPS,86450,87700.41,1250.41,86,107535.41,1.43,9
+2025-09-26,30139,100x Crystal,IamSellingThis,Cheapest IMPs EVER !!!!!!!!!!!!!,86500,87700.41,1200.41,55,66022.65,1.37,9
 2025-09-26,25031,Refining Gem,Mikosita,SELL JACKPOT/GPS/REF/IMPS,8999,9118.1,119.1,200,23820.72,1.31,11
 2025-09-26,25428,Shining Runestone,jajaaaaja,Shining rune,300000,303124.81,3124.81,12,37497.75,1.03,3
