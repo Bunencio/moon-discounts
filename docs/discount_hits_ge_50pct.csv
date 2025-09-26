@@ -31,7 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.46,26588,Potion of Eagle,1000,2350.9,16,1,cudecachorro2,CLERIC STAF'S|GOLDEN|REPU|LEGEND
 57.28,28458,Ice Sealed Staff of the Sphinx,20000,46819.25,6,1,BjornIronside,ZXZX
 57.13,22001,Furious Gem,900,2099.48,14,48,Stol,CHEAP
-56.4,26591,Potion of Lion,1000,2293.38,17,1,TocoDeJegue,Roar +3 - Gloves - Boots
+56.46,26591,Potion of Lion,1000,2296.52,16,1,TocoDeJegue,Roar +3 - Gloves - Boots
 56.25,28456,Ice Sealed Robe of the Sphinx,7000,15999.67,5,1,Pablo,CHEAP CHEAPER CHIPOTLE
 56.02,25439,Incantation Stone,300,682.14,4,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
 55.92,22000,FieryGem,1800,4083.65,11,22,Stol,CHEAP
@@ -49,6 +49,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.02,22000,FieryGem,2000,4083.65,11,3,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 51.02,22000,FieryGem,2000,4083.65,11,3,Bebang,CHEAPO NORMAL GEMS
 51.02,22000,FieryGem,2000,4083.65,11,3,Unlimites,garner
-50.66,26556,Cooked Tilapia,100,202.69,7,28,EvilRian,welcome to buy all ty
+50.37,27000,Prosperous Packet,99,199.47,4,99,SELLER228,ss
+50.37,27000,Prosperous Packet,99,199.47,4,49,SELLER228,ss
+50.37,27000,Prosperous Packet,99,199.47,4,99,SELLER228,ss
+50.37,27000,Prosperous Packet,99,199.47,4,99,SELLER228,ss
+50.37,27000,Prosperous Packet,99,199.47,4,99,SELLER228,ss
+50.37,27000,Prosperous Packet,99,199.47,4,17,SELLER228,ss
 50.36,30121,Vial of Accuracy Reset,999,2012.38,9,1,KalazugeR,i i i.
 50.31,30121,Vial of Accuracy Reset,1000,2012.38,9,1,cudecachorro2,CLERIC STAF'S|GOLDEN|REPU|LEGEND
