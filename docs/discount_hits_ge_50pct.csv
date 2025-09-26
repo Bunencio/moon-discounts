@@ -1,16 +1,15 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-98.93,26564,Meditation Potion,9,844.32,3,99,TagBaligya2,Manu/Cook/Craft Items
-95.85,26564,Meditation Potion,35,844.32,3,9,Godsky,Sell all itens
 93.97,2301,,1000,16586.14,4,1,Stellar,Variety Shop
+83.96,25080,Iron Ore,10,62.33,3,99,BancoPopular,IRON/PINE/SMarmor
+83.96,25080,Iron Ore,10,62.33,3,46,BancoPopular,IRON/PINE/SMarmor
 83.92,25478,Carsise Hairstyle Book,500,3110.29,4,4,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
-83.74,25080,Iron Ore,10,61.52,3,99,BancoPopular,IRON/PINE/SMarmor
-83.74,25080,Iron Ore,10,61.52,3,58,BancoPopular,IRON/PINE/SMarmor
 82.36,28035,Solar Shield,7499,42499.67,3,1,DarkKillerJr,S> CHEAP items
 82.01,25439,Incantation Stone,250,1389.91,5,1,trd,sell
 82.01,25439,Incantation Stone,250,1389.91,5,1,Godsky,Sell all itens
 81.88,30121,Vial of Accuracy Reset,999,5514.0,6,1,KalazugeR,i i i.
 79.86,25493,Orange Colorant,500,2482.14,4,2,cheapstuffsell,cheap
 79.37,28456,Ice Sealed Robe of the Sphinx,7000,33936.29,6,1,Pablo,CHEAP CHEAPER CHIPOTLE
+75.24,26501,Tiny EXP Berry,250,1009.52,4,2,Piu,FULL STALL WITH -40% OFF! ^^
 73.82,28458,Ice Sealed Staff of the Sphinx,9999,38194.12,5,1,Electricman1,DemoSoul/PPS/PharaohGem/MvM/Etc.
 73.82,28458,Ice Sealed Staff of the Sphinx,9999,38194.12,5,1,Electricman1,DemoSoul/PPS/PharaohGem/MvM/Etc.
 72.8,30121,Vial of Accuracy Reset,1500,5514.0,6,2,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
@@ -20,6 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.62,25439,Incantation Stone,450,1389.91,5,1,Anuel,CRUS | CRune | Demo Wind | SS
 66.83,26589,Potion of Bull,700,2110.33,15,1,TOPBunshie,ALMOST FREE RUSH BUY NOW
 64.73,22003,Glowing Gem,480,1361.07,10,42,Stol,CHEAP
+64.07,26564,Meditation Potion,9,25.05,3,99,TagBaligya2,Manu/Cook/Craft Items
 64.05,28440,Fire Sealed Roar of Evanescence,4999,13907.0,3,1,BjornIronside,@@@@@
 64.03,25439,Incantation Stone,500,1389.91,5,6,DingDong,Skating | Sealeds | Animal Pots
 63.73,30121,Vial of Accuracy Reset,2000,5514.0,6,4,Yennefer,EXPSTONE CLOUD EVA JADE HAIRVOU
@@ -36,7 +36,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.66,25499,Purple Colorant,1000,2418.92,3,3,CaloNord,hats
 58.05,22001,Furious Gem,999,2381.64,13,1,stuffseller,cheap
 58.01,22001,Furious Gem,1000,2381.64,13,9,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
-57.5,26568,Skating Potion,20000,47058.76,3,1,TocoDeJegue,Purple - Fairy dust - Skating
+57.69,28403,Blade of Incantation,110000,259999.83,5,1,ch4nz,RUSH CRUS ITEMS
 56.0,25503,Magical Stone,850,1931.92,4,2,Stellar,Variety Shop
 55.93,22000,FieryGem,1800,4084.56,9,22,Stol,CHEAP
 55.8,28456,Ice Sealed Robe of the Sphinx,14999,33936.29,6,1,Paka01,SM Armor60  Jackpot  PPS Repu FB
