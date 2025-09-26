@@ -40,7 +40,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,28474,Ice Sealed Mantle of the Sphinx,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch,40000,61999.8,21999.8,1,21999.8,35.48,4
 2025-09-26,25506,Expert Scroll,dsadsa,discount,1200,1848.19,648.19,44,28520.26,35.07,4
 2025-09-26,26591,Potion of Lion,MiLD,1,1500,2296.52,796.52,44,35046.7,34.68,16
-2025-09-26,26592,Flash Bomb,A1exSamara,refs dw tix fb,599,885.93,286.93,200,57385.91,32.39,14
+2025-09-26,26592,Flash Bomb,A1exSamara,refs dw tix fb,599,887.64,288.64,200,57728.87,32.52,14
 2025-09-26,25503,Magical Stone,Nael,zzzzzzzzzzzzzzz,999,1477.4,478.4,70,33487.88,32.38,6
 2025-09-26,26326,Elven Royal Signet,A1eXxSamara,signets,1500,2217.58,717.58,136,97590.38,32.36,7
 2025-09-26,28476,Ice Sealed Kris of the Sphinx,Shopshop,.,49999,73333.17,23334.17,1,23334.17,31.82,5
@@ -60,18 +60,23 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,26560,Cooked Bluefin Tuna,P02,TUNA,2500,3311.7,811.7,198,160716.64,24.51,5
 2025-09-26,27014,Moonroot Wine,Jackson,SP POTs ATK HP SPR COOKING!,690,902.82,212.82,99,21069.21,23.57,8
 2025-09-26,26326,Elven Royal Signet,BL4CKM4RK3T,blackmarket,1700,2217.58,517.58,39,20185.48,23.34,7
-2025-09-26,30102,1000 Reputation Scroll,hunterx,ug soul/bp/repu/signet/pots/fb,5850,7622.91,1772.91,49,86872.42,23.26,11
+2025-09-26,30102,1000 Reputation Scroll,hunterx,ug soul/bp/repu/signet/pots/fb,5850,7622.37,1772.37,49,86846.05,23.25,10
 2025-09-26,27014,Moonroot Wine,Messrve,<[P][O][T][S]>  [S][T][A][L][L]>,699,902.82,203.82,179,36483.83,22.58,8
 2025-09-26,22004,Shining Gem,hunterx,ug soul/bp/repu/signet/pots/fb,2800,3593.28,793.28,91,72188.21,22.08,6
 2025-09-26,26570,Bloodfire Potion,Messrve,<[P][O][T][S]>  [S][T][A][L][L]>,1900,2431.88,531.88,68,36167.92,21.87,5
 2025-09-26,22012,Demonic Gem of Wind,Tiichin,Cheap gems  pots  fb's,1099999,1399888.78,299889.78,1,299889.78,21.42,5
 2025-09-26,26326,Elven Royal Signet,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,1744,2217.58,473.58,200,94715.26,21.36,7
 2025-09-26,26326,Elven Royal Signet,Lancelot,SELL CHEAP SELL CHEAP SELL CHEAP,1744,2217.58,473.58,84,39780.41,21.36,7
-2025-09-26,30102,1000 Reputation Scroll,Saller,ty,6000,7622.91,1622.91,99,160667.75,21.29,11
-2025-09-26,30102,1000 Reputation Scroll,CallMeBaby,CHEAP,6000,7622.91,1622.91,62,100620.21,21.29,11
-2025-09-26,30102,1000 Reputation Scroll,Ragnark23,ice,6000,7622.91,1622.91,15,24343.6,21.29,11
+2025-09-26,30102,1000 Reputation Scroll,Saller,ty,6000,7622.37,1622.37,99,160614.47,21.28,10
+2025-09-26,30102,1000 Reputation Scroll,CallMeBaby,CHEAP,6000,7622.37,1622.37,62,100586.84,21.28,10
+2025-09-26,30102,1000 Reputation Scroll,Ragnark23,ice,6000,7622.37,1622.37,15,24335.53,21.28,10
 2025-09-26,26002,Pharaoh Gem,Electricman1,Cheap Items Here,1450,1840.96,390.96,85,33231.76,21.24,10
 2025-09-26,25527,,xTrueHistory,Chaos runestone,500000,632749.12,132749.12,1,132749.12,20.98,9
+2025-09-26,30171,Ticket to Demonic World,Guerra01,Tix DW 300g//LanternPharaoh 7k,390,490.71,100.71,200,20141.42,20.52,11
+2025-09-26,30171,Ticket to Demonic World,Guerra01,Tix DW 300g//LanternPharaoh 7k,390,490.71,100.71,200,20141.42,20.52,11
+2025-09-26,30171,Ticket to Demonic World,Guerra01,Tix DW 300g//LanternPharaoh 7k,390,490.71,100.71,200,20141.42,20.52,11
+2025-09-26,30171,Ticket to Demonic World,Guerra01,Tix DW 300g//LanternPharaoh 7k,390,490.71,100.71,200,20141.42,20.52,11
+2025-09-26,30171,Ticket to Demonic World,Guerra01,Tix DW 300g//LanternPharaoh 7k,390,490.71,100.71,200,20141.42,20.52,11
 2025-09-26,25451,Jade Gem Fragment,Yennefer,EXPSTONE CLOUD EVA JADE HAIRVOU,80000,100527.53,20527.53,1,20527.53,20.42,6
 2025-09-26,28136,Crown of Decendant,Stol2,CHEAP,799999,999999.67,200000.67,1,200000.67,20.0,3
 2025-09-26,30156,Jackpot Coin,Neku,GPS/JACK/PPS/REP/ALL POTION,8499,10524.92,2025.92,11,22285.11,19.25,7
@@ -104,10 +109,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,26588,Potion of Eagle,zzzzz,zzzzzz,2000,2350.9,350.9,200,70180.11,14.93,16
 2025-09-26,26588,Potion of Eagle,stalleer,Sheilds and Potion of,2000,2350.9,350.9,147,51582.38,14.93,16
 2025-09-26,26588,Potion of Eagle,Bodeguita1,alot of sh1t,2000,2350.9,350.9,87,30528.35,14.93,16
-2025-09-26,30135,Demonic Rock,Disciplined1,CHEAPEST DemoRock EnigPower Ref,2995,3509.03,514.03,82,42150.42,14.65,7
+2025-09-26,30135,Demonic Rock,Disciplined1,CHEAPEST DemoRock EnigPower Ref,2995,3511.54,516.54,82,42356.54,14.71,7
 2025-09-26,26377,Pharaoh's Lantern,stallerx,Cheap ca frags  rune  phara lant,7800,9133.66,1333.66,60,80019.9,14.6,10
-2025-09-26,30135,Demonic Rock,HitomiTanaka,God gave us 2 arms to hold2girls,3000,3509.03,509.03,78,39704.3,14.51,7
-2025-09-26,30135,Demonic Rock,Chad,Cheap,3000,3509.03,509.03,73,37159.15,14.51,7
+2025-09-26,30135,Demonic Rock,HitomiTanaka,God gave us 2 arms to hold2girls,3000,3511.54,511.54,78,39900.37,14.57,7
+2025-09-26,30135,Demonic Rock,Chad,Cheap,3000,3511.54,511.54,73,37342.65,14.57,7
 2025-09-26,22012,Demonic Gem of Wind,Cancerr,IMPS / DEMON WIND,1200000,1399888.78,199888.78,1,199888.78,14.28,5
 2025-09-26,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3400,3966.61,566.61,93,52694.58,14.28,4
 2025-09-26,25452,Rock Gem Fragment,iinerti,RockgemFrag/Ref/Repu/MVM/PBS/SPs,95000,110137.33,15137.33,8,121098.67,13.74,9
@@ -141,7 +146,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-26,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k CHEAP,3000,3311.7,311.7,200,62340.04,9.41,5
 2025-09-26,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k CHEAP,3000,3311.7,311.7,100,31170.02,9.41,5
 2025-09-26,25452,Rock Gem Fragment,Hinatsuru,FBs|Rock Frags,100000,110137.33,10137.33,2,20274.67,9.2,9
-2025-09-26,30102,1000 Reputation Scroll,MatsBk,S>dust/PPS/PBS/De Wind/rep,7000,7622.91,622.91,66,41111.84,8.17,11
+2025-09-26,30102,1000 Reputation Scroll,MatsBk,S>dust/PPS/PBS/De Wind/rep,7000,7622.37,622.37,66,41076.32,8.17,10
 2025-09-26,26572,Inferno Potion,Timotron,Cheapest Pots Ever Just Look !!!,10000,10884.71,884.71,27,23887.27,8.13,6
 2025-09-26,26346,Lantern,Ladystall,Cheap pots,4900,5325.72,425.72,87,37037.86,7.99,6
 2025-09-26,26585,Blessed Potion,Sellerxdxd,Bless,97500,105819.95,8319.95,17,141439.09,7.86,5
