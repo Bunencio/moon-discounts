@@ -1,6 +1,14 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 92.69,28035,Solar Shield,2999,40999.67,3,1,MiningGPU,Very Cheep look at buy
 92.13,28327,Great Aqua Cap,70000,890000.0,3,1,smoI,hats skating 6 con champsmol
+88.96,26562,Cake,35,317.15,3,200,MiLD,1
+88.96,26562,Cake,35,317.15,3,200,MiLD,1
+88.96,26562,Cake,35,317.15,3,200,MiLD,1
+88.96,26562,Cake,35,317.15,3,200,MiLD,1
+88.96,26562,Cake,35,317.15,3,200,MiLD,1
+88.96,26562,Cake,35,317.15,3,163,MiLD,1
+88.96,26562,Cake,35,317.15,3,200,MiLD,1
+88.96,26562,Cake,35,317.15,3,200,MiLD,1
 83.62,25478,Carsise Hairstyle Book,500,3053.03,4,4,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
 80.78,28458,Ice Sealed Staff of the Sphinx,8999,46819.25,6,1,MiningGPU,Very Cheep look at buy
 79.57,25493,Orange Colorant,500,2447.67,5,2,cheapstuffsell,cheap
@@ -8,14 +16,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.41,25494,Yellow Colorant.,1000,3908.16,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 72.73,28436,Fire Sealed Staff of Evanescence,11000,40333.0,3,1,Nixm,Fire Sealed
 71.44,28418,Earth Sealed Kiss of the Cursed,1999,6999.8,4,1,zHeaven,PLEASE BUY VERY CHEAP
-70.55,22003,Glowing Gem,480,1629.71,12,35,Stol,CHEAP
-69.38,22003,Glowing Gem,499,1629.71,12,3,Pandemia,all u need  cleaning...
-69.32,22003,Glowing Gem,500,1629.71,12,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
-69.32,22003,Glowing Gem,500,1629.71,12,1,xDelfina,all cheap
-69.32,22003,Glowing Gem,500,1629.71,12,1,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
+68.78,26562,Cake,99,317.15,3,200,Shop1,darkblue
+68.78,26562,Cake,99,317.15,3,200,Shop1,darkblue
+68.78,26562,Cake,99,317.15,3,199,Shop1,darkblue
+68.78,26562,Cake,99,317.15,3,200,Shop1,darkblue
+68.78,26562,Cake,99,317.15,3,200,Shop1,darkblue
+68.78,26562,Cake,99,317.15,3,170,Shop1,darkblue
+68.0,22003,Glowing Gem,480,1499.82,12,35,Stol,CHEAP
 67.96,28458,Ice Sealed Staff of the Sphinx,15000,46819.25,6,1,Electricman1,Cheap Items Here
 67.96,28458,Ice Sealed Staff of the Sphinx,15000,46819.25,6,1,Electricman1,Cheap Items Here
 67.74,28434,Fire Sealed Robe of the Arcane,9999,30999.6,5,1,hoku,CHEAP EVA
+66.73,22003,Glowing Gem,499,1499.82,12,3,Pandemia,all u need  cleaning...
+66.66,22003,Glowing Gem,500,1499.82,12,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
+66.66,22003,Glowing Gem,500,1499.82,12,1,xDelfina,all cheap
+66.66,22003,Glowing Gem,500,1499.82,12,1,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 65.89,30100,100 Reputation Scroll,300,879.47,3,6,Carmens,River el mas grande lejos 09/12
 65.65,28466,Ice Sealed Judgment of Enigma,10000,29111.0,4,1,ShowMaker,So cheap !
 63.35,25439,Incantation Stone,250,682.14,4,1,trd,sell
@@ -23,26 +37,24 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.39,30121,Vial of Accuracy Reset,777,2012.38,9,12,Saller,ty
 61.33,25258,Spirit Feather,189,488.81,11,27,DarkKillerJr,S> CHEAP items
 61.33,25258,Spirit Feather,189,488.81,11,99,DarkKillerJr,S> CHEAP items
-59.51,22001,Furious Gem,850,2099.48,14,52,hunterx,ug soul/bp/repu/signet/pots/fb
 59.14,25493,Orange Colorant,1000,2447.67,5,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 59.08,25258,Spirit Feather,200,488.81,11,84,LunaMaya,S>HiddenHoney RBS FairyFood
 58.64,25499,Purple Colorant,1000,2417.81,3,3,CaloNord,hats
 58.22,25522,,49,117.29,4,26,TagBaligya,5kRep PBS GBS Gaunts Manu Items
-57.74,26588,Potion of Eagle,1000,2366.17,16,1,cudecachorro2,CLERIC STAF'S|GOLDEN|REPU|LEGEND
+57.95,22001,Furious Gem,850,2021.18,14,52,hunterx,ug soul/bp/repu/signet/pots/fb
+57.46,26588,Potion of Eagle,1000,2350.9,16,1,cudecachorro2,CLERIC STAF'S|GOLDEN|REPU|LEGEND
 57.28,28458,Ice Sealed Staff of the Sphinx,20000,46819.25,6,1,BjornIronside,ZXZX
-57.13,22001,Furious Gem,900,2099.48,14,48,Stol,CHEAP
-56.61,26591,Potion of Lion,1000,2304.65,18,1,TocoDeJegue,Roar +3 - Gloves - Boots
+56.45,26591,Potion of Lion,1000,2296.05,18,1,TocoDeJegue,Roar +3 - Gloves - Boots
 56.25,28456,Ice Sealed Robe of the Sphinx,7000,15999.67,5,1,Pablo,CHEAP CHEAPER CHIPOTLE
 56.02,25439,Incantation Stone,300,682.14,4,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
 55.92,22000,FieryGem,1800,4083.65,11,22,Stol,CHEAP
+55.47,22001,Furious Gem,900,2021.18,14,48,Stol,CHEAP
 54.43,25416,Cloud Heart,24000,52666.67,4,1,Yennefer,EXPSTONE CLOUD EVA JADE HAIRVOU
 52.62,25503,Magical Stone,700,1477.4,6,99,AkameChan,PBS Magical Uns45Cruz
 52.62,25503,Magical Stone,700,1477.4,6,99,AkameChan,PBS Magical Uns45Cruz
-52.42,22001,Furious Gem,999,2099.48,14,1,stuffseller,cheap
-52.37,22001,Furious Gem,1000,2099.48,14,9,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 52.27,28476,Ice Sealed Kris of the Sphinx,35000,73333.17,5,1,CrackHead,ALMOST 4 FREE
+52.05,28432,Fire Sealed Staff of Mirage,5000,10428.29,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
 52.0,28454,Ice Sealed Blade of Enigma,300000,625000.0,3,1,Bodeguita1,alot of sh1t
-51.81,28432,Fire Sealed Staff of Mirage,5000,10374.75,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
 51.56,30118,Vial of Strength Reset,3500,7225.06,3,1,TuoTuo,Cleaning bank
 51.05,22000,FieryGem,1999,4083.65,11,47,Tiichin,Cheap gems  pots  fb's
 51.02,22000,FieryGem,2000,4083.65,11,1,corvios,Stuff
@@ -50,5 +62,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.02,22000,FieryGem,2000,4083.65,11,3,Bebang,CHEAPO NORMAL GEMS
 51.02,22000,FieryGem,2000,4083.65,11,3,Unlimites,garner
 50.66,26556,Cooked Tilapia,100,202.69,7,28,EvilRian,welcome to buy all ty
+50.57,22001,Furious Gem,999,2021.18,14,1,stuffseller,cheap
+50.52,22001,Furious Gem,1000,2021.18,14,9,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 50.36,30121,Vial of Accuracy Reset,999,2012.38,9,1,KalazugeR,i i i.
 50.31,30121,Vial of Accuracy Reset,1000,2012.38,9,1,cudecachorro2,CLERIC STAF'S|GOLDEN|REPU|LEGEND
+50.0,2301,,9999,19999.73,3,1,cudecachorro2,CLERIC STAF'S|GOLDEN|REPU|LEGEND
