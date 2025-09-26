@@ -1,8 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 98.93,26564,Meditation Potion,9,844.32,3,99,TagBaligya2,Manu/Cook/Craft Items
 95.85,26564,Meditation Potion,35,844.32,3,9,Godsky,Sell all itens
-94.35,2301,,1000,17699.93,5,1,Stellar,Variety Shop
-86.37,25507,Expert Stone,250,1834.23,6,14,Poporay,PPSP.BPS JACKPOT C. VERY CHEAP
+93.97,2301,,1000,16586.14,4,1,Stellar,Variety Shop
+86.37,25507,Expert Stone,250,1834.23,6,14,Poporay,PPS P.BPS  JACKPOT C. VERY CHEAP
 83.74,25080,Iron Ore,10,61.52,3,99,BancoPopular,IRON/PINE/SMarmor
 83.74,25080,Iron Ore,10,61.52,3,58,BancoPopular,IRON/PINE/SMarmor
 83.11,25478,Carsise Hairstyle Book,500,2960.32,4,4,Khonsu,CHEAPEST HAIRSTYLING ITEMS!
@@ -13,10 +13,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.82,28458,Ice Sealed Staff of the Sphinx,9999,38194.12,5,1,Electricman1,DemoSoul/PPS/PharaohGem/MvM/Etc.
 71.59,28436,Fire Sealed Staff of Evanescence,10000,35199.8,5,1,OfflineBank,CHEAP MUNKS
 68.75,28436,Fire Sealed Staff of Evanescence,11000,35199.8,5,1,Nixm,Fire Sealed
-67.36,28418,Earth Sealed Kiss of the Cursed,1999,6124.75,4,1,zHeaven,THIS ONE FOR U
-67.21,26589,Potion of Bull,700,2135.04,13,1,TOPBunshie,ALMOST FREE RUSH BUY NOW
+66.52,26589,Potion of Bull,700,2090.72,13,1,TOPBunshie,ALMOST FREE RUSH BUY NOW
 66.39,22006,Spirit Gem,2500,7437.27,9,1,STALLING11,GEMFRAG/GYOZA/NORMAL GEMS/DEMR
 65.09,22003,Glowing Gem,480,1374.91,8,42,Stol,CHEAP
+64.72,28418,Earth Sealed Kiss of the Cursed,1999,5666.33,3,1,zHeaven,THIS ONE FOR U
 64.05,28440,Fire Sealed Roar of Evanescence,4999,13907.0,3,1,BjornIronside,@@@@@
 63.64,28474,Ice Sealed Mantle of the Sphinx,20000,54999.83,5,1,NALDOCANAL,ALOT SHIT IS HERE
 63.63,22003,Glowing Gem,500,1374.91,8,2,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
@@ -24,26 +24,27 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.82,25258,Spirit Feather,189,508.28,10,99,DarkKillerJr,S> CHEAP items
 62.31,25439,Incantation Stone,250,663.33,4,1,trd,sell
 62.31,25439,Incantation Stone,250,663.33,4,1,Godsky,Sell all itens
-61.23,22001,Furious Gem,900,2321.2,12,48,Stol,CHEAP
+61.17,22001,Furious Gem,900,2317.89,12,48,Stol,CHEAP
 61.11,28434,Fire Sealed Robe of the Arcane,9999,25714.0,6,1,hoku,CHEAP EVA
 61.11,28434,Fire Sealed Robe of the Arcane,10000,25714.0,6,1,Mamadisimo,UG Striking/Rep 1000/500/SldDoE
 61.11,28434,Fire Sealed Robe of the Arcane,10000,25714.0,6,1,Mamadisimo,UG Striking/Rep 1000/500/SldDoE
 60.65,25258,Spirit Feather,200,508.28,10,99,LunaMaya,S>HiddenHoney RBS FairyFood
 60.05,22000,FieryGem,1800,4505.58,9,22,Stol,CHEAP
 59.66,22006,Spirit Gem,3000,7437.27,9,1,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
-59.49,28438,Fire Sealed Tattoo of Evanescence,8000,19749.75,4,1,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 59.09,25522,,49,119.79,3,41,TagBaligya,5kRep PBS GBS Gaunts Manu Items
 58.66,25499,Purple Colorant,1000,2418.92,3,3,CaloNord,hats
 58.55,27000,Prosperous Packet,85,205.08,3,18,Carmens,River el mas grande de todos
 57.5,26568,Skating Potion,20000,47058.76,3,1,TocoDeJegue,Purple - Fairy dust - Skating
-57.24,26588,Potion of Eagle,1000,2338.74,12,4,Pablo,CHEAP CHEAPER CHIPOTLE
-56.96,22001,Furious Gem,999,2321.2,12,1,stuffseller,cheap
-56.92,22001,Furious Gem,1000,2321.2,12,9,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
+57.22,26588,Potion of Eagle,1000,2337.77,12,4,Pablo,CHEAP CHEAPER CHIPOTLE
+56.9,22001,Furious Gem,999,2317.89,12,1,stuffseller,cheap
+56.86,22001,Furious Gem,1000,2317.89,12,9,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 55.8,28456,Ice Sealed Robe of the Sphinx,14999,33936.29,6,1,Paka01,SM Armor60  Jackpot  PPS Repu FB
 55.61,22000,FieryGem,2000,4505.58,9,3,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 55.61,22000,FieryGem,2000,4505.58,9,3,Bebang,CHEAPO NORMAL GEMS
 55.61,22000,FieryGem,2000,4505.58,9,3,Unlimites,garner
 54.54,30145,Fire Seed,5000,10999.71,3,1,Cihandarbey,5k 5k 5k
-53.85,28454,Ice Sealed Blade of Enigma,300000,650000.0,3,1,Bodeguita1,alot of sh1t
 52.98,30121,Vial of Accuracy Reset,999,2124.75,4,1,KalazugeR,i i i.
 52.27,28476,Ice Sealed Kris of the Sphinx,35000,73333.17,5,1,AoiTodo,Promotion
+51.79,28444,Fire Sealed Bellow of Evanescence,10000,20740.67,3,1,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch
+51.02,28438,Fire Sealed Tattoo of Evanescence,8000,16333.0,3,1,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
+50.85,28454,Ice Sealed Blade of Enigma,290000,590000.0,5,1,OsToWBaby,GEMS 40-60 SEALED KALS
