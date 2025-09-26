@@ -20,14 +20,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.52,25497,Blue Colorant,1000,3923.91,4,1,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 74.23,25494,Yellow Colorant.,1000,3880.0,4,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 72.73,28436,Fire Sealed Staff of Evanescence,11000,40333.0,3,1,Nixm,Fire Sealed
-70.75,22003,Glowing Gem,480,1641.19,9,42,Stol,CHEAP
-69.53,22003,Glowing Gem,500,1641.19,9,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
-69.53,22003,Glowing Gem,500,1641.19,9,1,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
+71.44,28418,Earth Sealed Kiss of the Cursed,1999,6999.8,4,1,zHeaven,PLEASE BUY VERY CHEAP
+71.09,22003,Glowing Gem,480,1660.46,9,42,Stol,CHEAP
+69.89,22003,Glowing Gem,500,1660.46,9,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
+69.89,22003,Glowing Gem,500,1660.46,9,1,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 69.24,28456,Ice Sealed Robe of the Sphinx,7000,22758.83,5,1,Pablo,CHEAP CHEAPER CHIPOTLE
-68.01,28418,Earth Sealed Kiss of the Cursed,1999,6249.75,4,1,zHeaven,PLEASE BUY VERY CHEAP
 67.2,30121,Vial of Accuracy Reset,999,3045.27,5,1,KalazugeR,i i i.
-66.05,26589,Potion of Bull,700,2061.94,15,1,TOPBunshie,ALMOST FREE RUSH BUY NOW
+66.1,26589,Potion of Bull,700,2064.72,16,1,TOPBunshie,ALMOST FREE RUSH BUY NOW
 65.82,28466,Ice Sealed Judgment of Enigma,10000,29259.17,4,1,ShowMaker,So cheap !
+64.85,30100,100 Reputation Scroll,300,853.43,4,6,Carmens,River el mas grande lejos 09/12
 64.71,28434,Fire Sealed Robe of the Arcane,9999,28333.0,6,1,hoku,CHEAP EVA
 64.71,28434,Fire Sealed Robe of the Arcane,10000,28333.0,6,1,Mamadisimo,UG Striking/Rep 1000/500/SldDoE
 64.07,26564,Meditation Potion,9,25.05,3,99,TagBaligya2,Manu/Cook/Craft Items
@@ -40,19 +41,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.72,25258,Spirit Feather,200,509.19,10,84,LunaMaya,S>HiddenHoney RBS FairyFood
 60.46,28456,Ice Sealed Robe of the Sphinx,8999,22758.83,5,1,MiningGPU,Very Cheep look at buy
 59.14,25493,Orange Colorant,1000,2447.67,5,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-59.12,30100,100 Reputation Scroll,350,856.11,4,6,Carmens,River el mas grande de todos
 58.66,25499,Purple Colorant,1000,2418.92,3,3,CaloNord,hats
 58.4,28458,Ice Sealed Staff of the Sphinx,15000,36061.56,6,1,Electricman1,Cheap Items Here
 58.4,28458,Ice Sealed Staff of the Sphinx,15000,36061.56,6,1,Electricman1,Cheap Items Here
-56.53,26591,Potion of Lion,1000,2300.55,13,1,TocoDeJegue,Roar +3 - Gloves - Boots
+56.57,26591,Potion of Lion,1000,2302.36,14,1,TocoDeJegue,Roar +3 - Gloves - Boots
 56.35,28403,Blade of Incantation,110000,251999.8,4,1,ch4nz,RUSH CRUS ITEMS
 54.55,28446,Fire Sealed Bow of Evanescence,15000,33000.0,5,1,NICE,garner
+54.26,22001,Furious Gem,850,1858.37,12,52,hunterx,ug soul/bp/repu/signet/pots/fb
 54.08,25439,Incantation Stone,300,653.33,4,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
 54.03,28416,Earth Sealed Corset of Incantation,3999,8699.6,5,1,MiningGPU,Very Cheep look at buy
-53.89,22001,Furious Gem,850,1843.48,12,52,hunterx,ug soul/bp/repu/signet/pots/fb
 51.99,28442,Fire Sealed Coat of Evanescence,7000,14580.0,7,1,Undead2509,Sell  Scroll/Potion/jackpot/Coat
 51.81,28432,Fire Sealed Staff of Mirage,5000,10374.75,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
-51.5,26589,Potion of Bull,1000,2061.94,15,1,TocoDeJegue,Roar +3 - Gloves - Boots
-51.18,22001,Furious Gem,900,1843.48,12,48,Stol,CHEAP
+51.57,22001,Furious Gem,900,1858.37,12,48,Stol,CHEAP
+51.57,26589,Potion of Bull,1000,2064.72,16,1,TocoDeJegue,Roar +3 - Gloves - Boots
 51.0,26556,Cooked Tilapia,100,204.09,5,28,EvilRian,welcome to buy all ty
 50.74,30121,Vial of Accuracy Reset,1500,3045.27,5,2,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
