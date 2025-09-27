@@ -1,15 +1,14 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-09-27,28454,Ice Sealed Blade of Enigma,Bodeguita1,ALOT OF SH1T,250000,500000.0,250000.0,1,250000.0,50.0,3
 2025-09-27,28454,Ice Sealed Blade of Enigma,God,zzzz,250000,500000.0,250000.0,1,250000.0,50.0,3
-2025-09-27,22000,FieryGem,Dad,zzzzzzzz,3000,5577.09,2577.09,64,164933.53,46.21,5
+2025-09-27,22000,FieryGem,Dad,zzzzzzzz,3000,5599.33,2599.33,64,166356.82,46.42,6
 2025-09-27,28423,Mantle of the Cursed Flame,HellSpecter,Con pet lv20,80000,147499.75,67499.75,1,67499.75,45.76,4
 2025-09-27,26578,Aegis Brew,MrMarket,MANU BLESS SUPP POINTS,59000,108243.48,49243.48,18,886382.61,45.49,4
 2025-09-27,26578,Aegis Brew,Nads,TOTEM COOKINGS ARE TRASH B HERE,62000,108243.48,46243.48,28,1294817.39,42.72,4
 2025-09-27,27014,Moonroot Wine,Messrve,-15% OFF WEEKEND OFFFFFFFFFFFFFF,599,912.77,313.77,200,62753.56,34.38,7
 2025-09-27,28423,Mantle of the Cursed Flame,iFennec,WING PBS,99999,147499.75,47500.75,1,47500.75,32.2,4
-2025-09-27,26591,Potion of Lion,MiLD,cake,1500,2167.94,667.94,44,29389.57,30.81,9
+2025-09-27,26591,Potion of Lion,MiLD,cake,1500,2174.15,674.15,44,29662.79,31.01,9
 2025-09-27,26571,Warlord Potion,TotemCookings,Totem Cookings Made wLove n Weed,3700,5154.43,1454.43,168,244344.29,28.22,5
-2025-09-27,22012,Demonic Gem of Wind,MatsBk,S>de win/PPS/PBS/DUST/REP,1200000,1671285.71,471285.71,1,471285.71,28.2,3
 2025-09-27,26576,Iron Brew,Cincar,Cincar pots,8400,11624.94,3224.94,200,644987.53,27.74,5
 2025-09-27,26576,Iron Brew,BlessIfMan,BLESS IF MAN,8400,11624.94,3224.94,122,393442.39,27.74,5
 2025-09-27,26576,Iron Brew,BlessIfManCA,BLESS IF MAN,8400,11624.94,3224.94,95,306369.08,27.74,5
@@ -21,35 +20,34 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,26560,Cooked Bluefin Tuna,SeaMaterials,Cheapest Tuna in town!,2400,3266.37,866.37,55,47650.22,26.52,5
 2025-09-27,26560,Cooked Bluefin Tuna,SeaMaterials,Cheapest Tuna in town!,2400,3266.37,866.37,50,43318.38,26.52,5
 2025-09-27,26571,Warlord Potion,12361,Pots,3800,5154.43,1354.43,33,44696.2,26.28,5
-2025-09-27,26589,Potion of Bull,MiLD,cake,1500,2012.25,512.25,86,44053.31,25.46,11
+2025-09-27,26589,Potion of Bull,MiLD,cake,1500,2025.02,525.02,86,45151.76,25.93,11
 2025-09-27,28423,Mantle of the Cursed Flame,HanSoHee,Strongest Voyager Armor,110000,147499.75,37499.75,1,37499.75,25.42,4
 2025-09-27,26568,Skating Potion,ezgoezgoezg1,sell,45000,60000.0,15000.0,2,30000.0,25.0,3
 2025-09-27,26571,Warlord Potion,Messrve,-15% OFF WEEKEND OFFFFFFFFFFFFFF,3899,5154.43,1255.43,102,128053.89,24.36,5
-2025-09-27,22004,Shining Gem,Dad,zzzzzzzz,3000,3950.6,950.6,71,67492.43,24.06,6
+2025-09-27,22004,Shining Gem,Dad,zzzzzzzz,3000,3944.84,944.84,71,67083.38,23.95,6
 2025-09-27,26560,Cooked Bluefin Tuna,P02,TUNA,2500,3266.37,766.37,118,90431.37,23.46,5
 2025-09-27,26576,Iron Brew,Bodeguita,radi / iron brew /guardian brew,9000,11624.94,2624.94,28,73498.25,22.58,5
 2025-09-27,26576,Iron Brew,12361,Pots,9000,11624.94,2624.94,17,44623.94,22.58,5
 2025-09-27,26576,Iron Brew,ChocolateDaddy,Supplies,9000,11624.94,2624.94,15,39374.06,22.58,5
-2025-09-27,26591,Potion of Lion,BoogeyMan,gbs/pots/sm eqs,1699,2167.94,468.94,88,41267.15,21.63,9
+2025-09-27,26591,Potion of Lion,BoogeyMan,gbs/pots/sm eqs,1699,2174.15,475.15,88,41813.57,21.85,9
 2025-09-27,25031,Refining Gem,Error8191,Cheap Stuff !,8999,11343.11,2344.11,11,25785.24,20.67,6
 2025-09-27,27015,Prestige Wine,WhoIsMyBraSize,dgdr,1550,1924.46,374.46,54,20221.1,19.46,5
 2025-09-27,23002,Iron Treasure,Hold01,iron treasure,950,1172.98,222.98,99,22075.19,19.01,5
 2025-09-27,26576,Iron Brew,FlashBomb,Supplies,9500,11624.94,2124.94,10,21249.38,18.28,5
 2025-09-27,26573,Demonic Potion,WhoIsMyBraSize,dgdr,15500,18674.85,3174.85,14,44447.85,17.0,4
-2025-09-27,26589,Potion of Bull,BoogeyMan,gbs/pots/sm eqs,1699,2012.25,313.25,99,31011.53,15.57,11
+2025-09-27,26589,Potion of Bull,BoogeyMan,gbs/pots/sm eqs,1699,2025.02,326.02,99,32276.03,16.1,11
 2025-09-27,27014,Moonroot Wine,Artemida,ATK SPR HP CHEAP COOKING,785,912.77,127.77,198,25298.03,14.0,7
 2025-09-27,27014,Moonroot Wine,Jackson,SUPERMAN'S FOOD,789,912.77,123.77,198,24506.03,13.56,7
-2025-09-27,30156,Jackpot Coin,Vendedor,Promotion,8000,9207.93,1207.93,43,51941.0,13.12,8
+2025-09-27,30156,Jackpot Coin,Vendedor,Promotion,8000,9203.2,1203.2,43,51737.8,13.07,8
 2025-09-27,25031,Refining Gem,dada4,Ref's / Elven Signet's,9999,11343.11,1344.11,50,67205.66,11.85,6
 2025-09-27,25031,Refining Gem,galina1,Ref's / Elven Signet's,9999,11343.11,1344.11,50,67205.66,11.85,6
 2025-09-27,25031,Refining Gem,dwtix,Elven bunny Potion's,9999,11343.11,1344.11,44,59140.98,11.85,6
 2025-09-27,25031,Refining Gem,SouHomiPUTA,SELL ALL MINE 2,10000,11343.11,1343.11,15,20146.7,11.84,6
 2025-09-27,27019,Purple Pirate Scroll,Sakamoto,Scroll,4000,4519.24,519.24,59,30635.27,11.49,11
-2025-09-27,22012,Demonic Gem of Wind,Anuel,Only for cool people,1499000,1671285.71,172285.71,1,172285.71,10.31,3
-2025-09-27,26588,Potion of Eagle,zzzzz,zzzzzzz,2000,2201.63,201.63,200,40326.06,9.16,8
-2025-09-27,27020,Gold Pirate Scroll,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,19990,21943.44,1953.44,42,82044.3,8.9,5
-2025-09-27,27020,Gold Pirate Scroll,MiLD,cake,20000,21943.44,1943.44,53,103002.1,8.86,5
-2025-09-27,27020,Gold Pirate Scroll,pisslow,sell gold jackpot chaos Refining,19999,21943.44,1944.44,36,69999.69,8.86,5
+2025-09-27,26588,Potion of Eagle,zzzzz,zzzzzzz,2000,2213.15,213.15,200,42629.53,9.63,8
+2025-09-27,27020,Gold Pirate Scroll,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,19990,21928.18,1938.18,42,81403.58,8.84,6
+2025-09-27,27020,Gold Pirate Scroll,pisslow,sell gold jackpot chaos Refining,19999,21928.18,1929.18,36,69450.5,8.8,6
+2025-09-27,27020,Gold Pirate Scroll,MiLD,cake,20000,21928.18,1928.18,53,102193.56,8.79,6
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k /evo fruit / app,3000,3266.37,266.37,200,53273.51,8.15,5
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k /evo fruit / app,3000,3266.37,266.37,200,53273.51,8.15,5
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k /evo fruit / app,3000,3266.37,266.37,100,26636.76,8.15,5
@@ -57,7 +55,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,22024,Purple Jade,PasarGelap,darkblue,850000,916666.67,66666.67,1,66666.67,7.27,3
 2025-09-27,26572,Inferno Potion,GeorgeFloyd,POTS,10400,11102.82,702.82,53,37249.29,6.33,5
 2025-09-27,26585,Blessed Potion,PITAYA,blessed pots,104000,111000.0,7000.0,6,42000.0,6.31,5
-2025-09-27,22010,Gem of Rage,Machoman,GEM OF RAGE,2150000,2283333.33,133333.33,1,133333.33,5.84,3
 2025-09-27,27025,Radiation Lv1,SetSeller,cheapest itens in town,3200,3395.78,195.78,200,39156.02,5.77,5
 2025-09-27,27025,Radiation Lv1,SetSeller,cheapest itens in town,3200,3395.78,195.78,200,39156.02,5.77,5
 2025-09-27,27025,Radiation Lv1,Bodeguita,radi / iron brew /guardian brew,3200,3395.78,195.78,142,27800.78,5.77,5
