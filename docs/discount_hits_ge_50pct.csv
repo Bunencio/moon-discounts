@@ -1,14 +1,13 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-93.06,25439,Incantation Stone,100,1441.66,4,2,LazzzyBee,VOY Lv45 Armor +4|Gems|Pots
+93.08,25439,Incantation Stone,100,1445.79,3,2,LazzzyBee,VOY Lv45 Armor +4|Gems|Pots
 84.59,30121,Vial of Accuracy Reset,1000,6489.65,3,2,LazzzyBee,VOY Lv45 Armor +4|Gems|Pots
+82.77,30101,500 Reputation Scroll,700,4061.9,3,1,corvios,Stuff
 74.65,22004,Shining Gem,1000,3944.84,6,3,CoroaDaPoshe,SELL PURPLE BP/ GENS
-72.52,22003,Glowing Gem,450,1637.6,10,2,Anuel,Demo Wind | ChRune | Crus | Cler
-69.47,22003,Glowing Gem,500,1637.6,10,1,LazzzyBee,VOY Lv45 Armor +4|Gems|Pots
+72.63,22003,Glowing Gem,450,1643.99,9,2,Anuel,Demo Wind | ChRune | Crus | Cler
+69.59,22003,Glowing Gem,500,1643.99,9,1,LazzzyBee,VOY Lv45 Armor +4|Gems|Pots
 60.82,22001,Furious Gem,1000,2552.14,5,10,Merrrppp,boi/gems/scroll/pps/ice gloves/
 60.82,22001,Furious Gem,1000,2552.14,5,1,CoroaDaPoshe,SELL PURPLE BP/ GENS
 60.82,22001,Furious Gem,1000,2552.14,5,9,LazzzyBee,VOY Lv45 Armor +4|Gems|Pots
-57.1,26590,Potion of Soul,999,2328.45,10,8,Uzi,pps
-56.4,22006,Spirit Gem,4000,9174.93,4,1,Merrrppp,boi/gems/scroll/pps/ice gloves/
 54.08,25168,Sunshine Fruit,32,69.69,4,99,Pimpollo,clery-scroll-boot ss.sunshine.it
 54.08,25168,Sunshine Fruit,32,69.69,4,99,Pimpollo,clery-scroll-boot ss.sunshine.it
 54.08,25168,Sunshine Fruit,32,69.69,4,99,Pimpollo,clery-scroll-boot ss.sunshine.it
@@ -23,7 +22,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.65,25168,Sunshine Fruit,33,69.69,4,99,Toad,equi sruss ss cham clery+ iten++
 52.65,25168,Sunshine Fruit,33,69.69,4,99,Toad,equi sruss ss cham clery+ iten++
 52.65,25168,Sunshine Fruit,33,69.69,4,99,Toad,equi sruss ss cham clery+ iten++
-51.5,22006,Spirit Gem,4450,9174.93,4,1,iLegolas,@@      !!DROP PRICE!!        @@
-50.67,26589,Potion of Bull,999,2025.02,11,4,Uzi,pps
+50.67,26589,Potion of Bull,999,2024.97,11,4,Uzi,pps
 50.0,28454,Ice Sealed Blade of Enigma,250000,500000.0,3,1,Bodeguita1,ALOT OF SH1T
 50.0,28454,Ice Sealed Blade of Enigma,250000,500000.0,3,1,God,zzzz
