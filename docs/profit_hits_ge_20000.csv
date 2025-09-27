@@ -14,13 +14,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,25503,Magical Stone,Cush,lvl50 neck|5accu boots,799,2099.18,1300.18,99,128718.29,61.94,3
 2025-09-27,22000,FieryGem,Stol,CHEAP,1800,4631.18,2831.18,22,62285.93,61.13,11
 2025-09-27,25258,Spirit Feather,DarkKillerJr,S> CHEAP items,189,463.17,274.17,99,27142.74,59.19,10
+2025-09-27,28403,Blade of Incantation,RecklessCruz,Cheapest Eveeeer <33333333333333,100000,241666.67,141666.67,1,141666.67,58.62,4
+2025-09-27,28403,Blade of Incantation,RecklessCruz,Cheapest Eveeeer <33333333333333,100000,241666.67,141666.67,1,141666.67,58.62,4
 2025-09-27,22001,Furious Gem,hunterx,bp/evarock/gems/jc/xp etc,899,2161.57,1262.57,52,65653.38,58.41,14
 2025-09-27,22001,Furious Gem,Stol,CHEAP,900,2161.57,1261.57,46,58031.99,58.36,14
 2025-09-27,28458,Ice Sealed Staff of the Sphinx,BjornIronside,ZXZX,20000,46819.25,26819.25,1,26819.25,57.28,6
 2025-09-27,25258,Spirit Feather,LunaMaya,S>LambSkull PBS RBS IslandCard,200,463.17,263.17,99,26053.74,56.82,10
 2025-09-27,25258,Spirit Feather,LunaMaya,S>LambSkull PBS RBS IslandCard,200,463.17,263.17,86,22632.54,56.82,10
-2025-09-27,28403,Blade of Incantation,RecklessCruz,Cheapest Eveeeer <33333333333333,100000,230000.0,130000.0,1,130000.0,56.52,3
-2025-09-27,28403,Blade of Incantation,RecklessCruz,Cheapest Eveeeer <33333333333333,100000,230000.0,130000.0,1,130000.0,56.52,3
 2025-09-27,28476,Ice Sealed Kris of the Sphinx,CrackHead,ALMOST 4 FREE,35000,75000.0,40000.0,1,40000.0,53.33,5
 2025-09-27,25525,,Rambo,SALE!!!,150000,306743.35,156743.35,2,313486.69,51.1,10
 2025-09-27,25416,Cloud Heart,BabyBank,cheap,30000,58571.43,28571.43,3,85714.29,48.78,3
@@ -30,9 +30,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,28454,Ice Sealed Blade of Enigma,Bodeguita1,alotof sh1t,300000,527142.86,227142.86,1,227142.86,43.09,6
 2025-09-27,30168,Gyoza,DingDong,Eagle Bull Soul Gyoza,15000,26225.0,11225.0,2,22450.0,42.8,6
 2025-09-27,28464,Ice Sealed Tattoo of Enigma,BjornIronside,ZXZX,35000,58333.33,23333.33,1,23333.33,40.0,3
-2025-09-27,26589,Potion of Bull,hunterx,bp/evarock/gems/jc/xp etc,1250,2058.11,808.11,52,42021.65,39.26,18
+2025-09-27,26589,Potion of Bull,hunterx,bp/evarock/gems/jc/xp etc,1250,2056.69,806.69,52,41948.03,39.22,18
 2025-09-27,28423,Mantle of the Cursed Flame,iFennec,PAK PAK NG PEK PEK NG MAMA MO,99999,159999.67,60000.67,1,60000.67,37.5,5
-2025-09-27,26589,Potion of Bull,MiLD,1,1300,2058.11,758.11,86,65197.34,36.84,18
+2025-09-27,26589,Potion of Bull,MiLD,1,1300,2056.69,756.69,86,65075.59,36.79,18
 2025-09-27,26588,Potion of Eagle,Neku,GPS/JACK/ALL POTION@SO CHEAP@,1499,2357.19,858.19,45,38618.69,36.41,16
 2025-09-27,22000,FieryGem,Dad,zzzzzz,3000,4631.18,1631.18,69,112551.32,35.22,11
 2025-09-27,30156,Jackpot Coin,hunterx,bp/evarock/gems/jc/xp etc,6999,10752.49,3753.49,10,37534.86,34.91,12
@@ -63,7 +63,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,30156,Jackpot Coin,darkghost,jackpot,7990,10752.49,2762.49,9,24862.37,25.69,12
 2025-09-27,30156,Jackpot Coin,Neku,GPS/JACK/ALL POTION@SO CHEAP@,7999,10752.49,2753.49,21,57823.2,25.61,12
 2025-09-27,25452,Rock Gem Fragment,SellerPirate,staff,105000,140166.6,35166.6,5,175833.0,25.09,6
-2025-09-27,25427,Chest of Dark Swamp,011,cleaning bank,10000,13310.0,3310.0,16,52960.0,24.87,3
 2025-09-27,27025,Radiation Lv1,Bodeguita,RADI 3K/BREW 800 AND 8500,3000,3971.1,971.1,144,139838.45,24.45,7
 2025-09-27,27025,Radiation Lv1,Bodeguita,RADI 3K/BREW 800 AND 8500,3000,3971.1,971.1,75,72832.53,24.45,7
 2025-09-27,28454,Ice Sealed Blade of Enigma,God,zzzzz,400000,527142.86,127142.86,1,127142.86,24.12,6
@@ -108,13 +107,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,26346,Lantern,PotsStore,Lantern/5stats pots/Gyoza/fairy,4500,5457.03,957.03,23,22011.64,17.54,6
 2025-09-27,26002,Pharaoh Gem,Electricman1,GPS/PPS/JPCOIN/P.GEM/LBPS/UGSOUL,1450,1757.54,307.54,99,30446.54,17.5,17
 2025-09-27,26591,Potion of Lion,BoogeyMan,pps/pbs/gbs/pots/sm boots,1899,2290.96,391.96,88,34492.1,17.11,18
-2025-09-27,30022,Buffing Card,Stol,CHEAP,29999,35999.25,6000.25,5,30001.25,16.67,5
 2025-09-27,22023,Green Jade,DarknessL,sell imps,265000,317500.0,52500.0,1,52500.0,16.54,4
 2025-09-27,27006,Bunny Potion,EIlIIliah,cheap,999,1196.13,197.13,163,32131.57,16.48,4
 2025-09-27,25422,Evanescence Power,Nikoz,Selling All Items Included,8000,9500.0,1500.0,14,21000.0,15.79,4
 2025-09-27,25451,Jade Gem Fragment,FukPolice,gps/pps/jadefrg/lbp/bp/gems,86000,101382.35,15382.35,12,184588.24,15.17,6
 2025-09-27,26588,Potion of Eagle,zzzzz,zzzzzz,2000,2357.19,357.19,200,71438.62,15.15,16
 2025-09-27,26588,Potion of Eagle,Bodeguita1,alotof sh1t,2000,2357.19,357.19,93,33218.96,15.15,16
+2025-09-27,30022,Buffing Card,Stol,CHEAP,29999,35076.23,5077.23,5,25386.15,14.47,4
 2025-09-27,22004,Shining Gem,Dad,zzzzzz,3000,3477.39,477.39,71,33894.48,13.73,5
 2025-09-27,27020,Gold Pirate Scroll,Mikosita,SELL IMPS/GPS/REF/JACKPOT,18999,21961.97,2962.97,32,94814.99,13.49,7
 2025-09-27,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH +++++,19000,21961.97,2961.97,21,62201.34,13.49,7
@@ -171,7 +170,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,22016,Demonic Gem of Sout,OsToWBaby,GEMS |KAL |60 SEALED | JADE,1599999,1673076.69,73077.69,2,146155.38,4.37,5
 2025-09-27,22016,Demonic Gem of Sout,Deity,zzzz,1600000,1673076.69,73076.69,2,146153.38,4.37,5
 2025-09-27,22010,Gem of Rage,Machoman,SELL RAGE,1950000,2028571.43,78571.43,1,78571.43,3.87,4
-2025-09-27,30140,10x Crystal,Itadori,imp Cheap .I.,8950,9277.29,327.29,98,32074.69,3.53,3
+2025-09-27,30140,10x Crystal,Itadori,imp Cheap .I.,8950,9279.46,329.46,98,32287.11,3.55,3
 2025-09-27,26572,Inferno Potion,MadeInChina,INFERNO/WARLORD/GUARIDAN/ENCHANT,10400,10741.28,341.28,200,68255.79,3.18,7
 2025-09-27,26572,Inferno Potion,MadeInChina,INFERNO/WARLORD/GUARIDAN/ENCHANT,10400,10741.28,341.28,106,36175.57,3.18,7
 2025-09-27,26573,Demonic Potion,Messrve,<;;;;;;;;]====>  <====[;;;;;;;;>,18500,19107.28,607.28,41,24898.3,3.18,6
