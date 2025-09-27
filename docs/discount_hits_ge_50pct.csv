@@ -1,15 +1,15 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 92.69,28035,Solar Shield,2999,40999.67,3,1,MiningGPU,Very Cheep look at buy
 91.5,28327,Great Aqua Cap,70000,823333.33,3,1,smoI,hats skating 6 con champsmol
+91.14,25478,Carsise Hairstyle Book,300,3387.5,3,4,Khonsu,CHEAPEST HAIRSTYLING ITEMS
 88.46,28036,Emerald Shield,9999,86666.33,3,1,BuySome,Buy SOME
 85.08,28158,Iron Chainmail,1999,13399.4,4,1,SalvadorJr,bye
 79.26,25493,Orange Colorant,500,2410.71,4,2,cheapstuffsell,cheap
 79.05,25212,Frozen Elixir,200,954.67,5,21,SCORPION21,come to the story
 78.61,28458,Ice Sealed Staff of the Sphinx,8999,42079.0,6,1,MiningGPU,Very Cheep look at buy
-76.5,22003,Glowing Gem,490,2085.5,9,1,Bechil,CRAP FOR YOU!!!!!!!!!!!!!!!!!!!!
-76.02,22003,Glowing Gem,500,2085.5,9,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
-76.02,22003,Glowing Gem,500,2085.5,9,1,xDelfina,all cheap
-76.02,22003,Glowing Gem,500,2085.5,9,1,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
+76.12,22003,Glowing Gem,500,2094.08,8,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
+76.12,22003,Glowing Gem,500,2094.08,8,1,xDelfina,all cheap
+76.12,22003,Glowing Gem,500,2094.08,8,1,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 74.58,29062,Field Brew,30,118.04,3,144,F0X01,Iron Brew Best Price EVER
 73.96,25497,Blue Colorant,1000,3840.89,4,1,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 73.16,25494,Yellow Colorant.,1000,3725.49,4,1,EvilRian,buy all of these trash please
@@ -26,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.62,26590,Potion of Soul,999,2474.13,10,8,Uzi,cheap
 58.52,25493,Orange Colorant,1000,2410.71,4,1,EvilRian,buy all of these trash please
 58.52,25493,Orange Colorant,1000,2410.71,4,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-58.51,26588,Potion of Eagle,1000,2410.18,15,1,VoldemortT,ITENS CLERIC HERE !!!!!!!!!!!!!!
+58.45,26588,Potion of Eagle,1000,2406.98,16,1,VoldemortT,ITENS CLERIC HERE !!!!!!!!!!!!!!
 57.39,22001,Furious Gem,1000,2347.05,11,9,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 56.79,26591,Potion of Lion,1000,2314.17,17,1,amiix,Jack C GPS PBS PPS mvsmC PharG L
 56.47,30121,Vial of Accuracy Reset,1000,2297.29,7,1,VoldemortT,ITENS CLERIC HERE !!!!!!!!!!!!!!
@@ -34,14 +34,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.52,25522,,100,224.83,4,41,Cush,Spr lvl20|Accu 5|PPS|Jackpot
 55.52,25522,,100,224.83,4,11,KloC,sharp  used all ur money already
 55.31,26000,Sandy Coin,111,248.4,4,9,cudecachorro2,ALL ITENS FREE EVENTO 1K|CRYSTAL
-54.44,26344,Novice Weightless Potion,1800,3950.57,4,1,Cheap,ASDF
-54.27,29002,Green Statue,333,728.12,5,9,cudecachorro2,ALL ITENS FREE EVENTO 1K|CRYSTAL
+55.17,25479,Phyllis Hairstyle Book,2000,4461.54,3,1,Khonsu,CHEAPEST HAIRSTYLING ITEMS
+54.45,29002,Green Statue,333,731.09,6,9,cudecachorro2,ALL ITENS FREE EVENTO 1K|CRYSTAL
+54.44,26344,Novice Weightless Potion,1800,3951.16,3,1,Cheap,ASDF
 53.19,25480,Ami Hairstyle Book,2000,4272.73,3,1,HyjoSeller,LOTOFSTUFF
 52.98,28454,Ice Sealed Blade of Enigma,250000,531666.67,4,1,God,zzzzz
 52.94,28423,Mantle of the Cursed Flame,80000,169999.6,5,1,HellSpecter,PET LV20 CON - VOY EQUIPS
 52.47,26591,Potion of Lion,1100,2314.17,17,2,Undead2509,Sell  Scroll/Potion/Coat
 52.47,28458,Ice Sealed Staff of the Sphinx,19999,42079.0,6,1,BjornIronside,LZLZLZLLZLZLZ
-52.05,22003,Glowing Gem,1000,2085.5,9,1,VoldemortT,ITENS CLERIC HERE !!!!!!!!!!!!!!
-52.05,22003,Glowing Gem,1000,2085.5,9,5,Bebang,CHEAPO NORMAL GEMS
-52.05,22003,Glowing Gem,1000,2085.5,9,4,Unlimites,garner
-51.5,26589,Potion of Bull,999,2059.81,19,4,Uzi,cheap
+52.25,22003,Glowing Gem,1000,2094.08,8,1,VoldemortT,ITENS CLERIC HERE !!!!!!!!!!!!!!
+52.25,22003,Glowing Gem,1000,2094.08,8,5,Bebang,CHEAPO NORMAL GEMS
+52.25,22003,Glowing Gem,1000,2094.08,8,4,Unlimites,garner
+51.49,26589,Potion of Bull,999,2059.39,20,4,Uzi,cheap
