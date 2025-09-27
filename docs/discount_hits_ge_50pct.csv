@@ -5,13 +5,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.78,28458,Ice Sealed Staff of the Sphinx,8999,46819.25,6,1,MiningGPU,Very Cheep look at buy
 79.13,25493,Orange Colorant,500,2396.34,3,2,cheapstuffsell,cheap
 78.73,28158,Iron Chainmail,1999,9399.4,4,1,SalvadorJr,bye
-75.56,25440,Evanescence Stone,500,2045.45,3,4,vendedolmax,2000
-75.56,25440,Evanescence Stone,500,2045.45,3,6,DontDelete7,e.e
+75.53,25440,Evanescence Stone,500,2043.48,4,4,vendedolmax,2000
+75.53,25440,Evanescence Stone,500,2043.48,4,6,DontDelete7,e.e
 74.02,25212,Frozen Elixir,200,769.84,3,36,SCORPION21,come to the story
 73.48,25494,Yellow Colorant.,1000,3770.83,3,1,EvilRian,buy all of these trash please
 73.48,25494,Yellow Colorant.,1000,3770.83,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 70.37,22003,Glowing Gem,480,1619.71,10,35,Stol,CHEAP
-70.23,28456,Ice Sealed Robe of the Sphinx,7000,23510.8,5,1,Pablo,CHEAP CHEAPER CHIPOTLE
 69.75,22003,Glowing Gem,490,1619.71,10,1,Bechil,CRAP FOR YOU!!!!!!!!!!!!!!!!!!!!
 69.39,28436,Fire Sealed Staff of Evanescence,12500,40833.0,3,1,Nixm,Lv50 Items
 69.13,22003,Glowing Gem,500,1619.71,10,1,Anuel,CRUS | GEM | CLERIC | ChRUNE
@@ -20,8 +19,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.0,28434,Fire Sealed Robe of the Arcane,9999,31249.75,4,1,hoku,CHEAP EVA
 67.96,28458,Ice Sealed Staff of the Sphinx,15000,46819.25,6,1,Electricman1,GPS/PPS/JPCOIN/P.GEM/LBPS/UGSOUL
 67.96,28458,Ice Sealed Staff of the Sphinx,15000,46819.25,6,1,Electricman1,GPS/PPS/JPCOIN/P.GEM/LBPS/UGSOUL
-67.07,28442,Fire Sealed Coat of Evanescence,5000,15185.17,5,1,Undead2509,Sell  Scroll/Potion/Coat
 65.65,28466,Ice Sealed Judgment of Enigma,9999,29110.8,4,1,ShowMaker,DW tickets so cheap !
+65.21,28442,Fire Sealed Coat of Evanescence,5000,14373.0,6,1,Undead2509,Sell  Scroll/Potion/Coat
+65.09,30121,Vial of Accuracy Reset,777,2225.86,7,12,Saller,ty
 64.96,28408,Earth Sealed Coat of Invocation,4899,13979.4,4,1,OsToWBaby,GEMS |KAL |60 SEALED | JADE
 64.24,28408,Earth Sealed Coat of Invocation,4999,13979.4,4,1,cudecachorro2,STAFF CLERIC|REPU|CRYSTAL!!!!!!!
 64.11,22001,Furious Gem,900,2507.76,13,46,Stol,CHEAP
@@ -32,7 +32,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.57,25499,Purple Colorant,999,2471.0,3,1,CaloNord,boots acc / purple
 59.15,25258,Spirit Feather,189,462.62,11,27,DarkKillerJr,S> CHEAP items
 59.15,25258,Spirit Feather,189,462.62,11,99,DarkKillerJr,S> CHEAP items
-58.95,30121,Vial of Accuracy Reset,777,1892.96,7,12,Saller,ty
 58.9,29062,Field Brew,30,72.99,3,200,F0X01,Iron Brew Best Price EVER
 58.9,29062,Field Brew,30,72.99,3,193,F0X01,Iron Brew Best Price EVER
 58.9,29062,Field Brew,30,72.99,3,144,F0X01,Iron Brew Best Price EVER
@@ -41,23 +40,23 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.27,25493,Orange Colorant,1000,2396.34,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 58.05,26588,Potion of Eagle,1000,2383.72,16,1,cudecachorro2,STAFF CLERIC|REPU|CRYSTAL!!!!!!!
 57.28,28458,Ice Sealed Staff of the Sphinx,20000,46819.25,6,1,BjornIronside,ZXZX
-56.9,26591,Potion of Lion,1000,2320.42,17,1,amiix,Jack C GPS PBS PPS mvsmC PharG L
 56.77,25258,Spirit Feather,200,462.62,11,99,LunaMaya,S>LambSkull PBS RBS IslandCard
 56.77,25258,Spirit Feather,200,462.62,11,86,LunaMaya,S>LambSkull PBS RBS IslandCard
+56.68,26591,Potion of Lion,1000,2308.55,17,1,amiix,Jack C GPS PBS PPS mvsmC PharG L
 55.78,22000,FieryGem,2000,4522.62,11,1,corvios,Stuff
 55.78,22000,FieryGem,2000,4522.62,11,3,LazzzyBee,Uns45Voy|Pots|Gems|Sealeds|Repu
 55.78,22000,FieryGem,2000,4522.62,11,3,Bebang,CHEAPO NORMAL GEMS
 55.78,22000,FieryGem,2000,4522.62,11,3,Unlimites,garner
-54.52,26590,Potion of Soul,1100,2418.65,14,1,Undead2509,Sell  Scroll/Potion/Coat
+55.07,30121,Vial of Accuracy Reset,1000,2225.86,7,1,cudecachorro2,STAFF CLERIC|REPU|CRYSTAL!!!!!!!
+55.07,30121,Vial of Accuracy Reset,1000,2225.86,7,1,Cihandarbey,bank clean
 54.46,26344,Novice Weightless Potion,1800,3952.22,4,1,Cheap,ASDF
+53.87,26590,Potion of Soul,1100,2384.36,14,1,Undead2509,Sell  Scroll/Potion/Coat
 53.33,28476,Ice Sealed Kris of the Sphinx,35000,75000.0,5,1,CrackHead,ALMOST 4 FREE
-52.59,26591,Potion of Lion,1100,2320.42,17,2,Undead2509,Sell  Scroll/Potion/Coat
+52.84,28456,Ice Sealed Robe of the Sphinx,7000,14844.2,5,1,Pablo,CHEAP CHEAPER CHIPOTLE
+52.35,26591,Potion of Lion,1100,2308.55,17,2,Undead2509,Sell  Scroll/Potion/Coat
 52.33,25503,Magical Stone,700,1468.48,5,99,AkameChan,PBS Magical Uns45Cruz
 52.33,25503,Magical Stone,700,1468.48,5,99,AkameChan,PBS Magical Uns45Cruz
-52.05,28432,Fire Sealed Staff of Mirage,5000,10428.29,4,1,HyjoSeller,LOTOFSTUFF
-52.05,28432,Fire Sealed Staff of Mirage,5000,10428.29,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
-51.56,30118,Vial of Strength Reset,3500,7225.06,3,1,TuoTuo,Cleaning BANK
-51.5,30171,Ticket to Demonic World,250,515.48,11,2,HyjoSeller,LOTOFSTUFF
-51.11,25440,Evanescence Stone,1000,2045.45,3,5,Nikoz,Selling All Items Included
+51.53,30171,Ticket to Demonic World,250,515.81,11,2,HyjoSeller,LOTOFSTUFF
+51.06,25440,Evanescence Stone,1000,2043.48,4,5,Nikoz,Selling All Items Included
 50.68,25506,Expert Scroll,1200,2433.14,3,44,dsadsa,discount
 50.65,26592,Flash Bomb,450,911.84,11,3,BigLez,ClerUns45+2/Gem/Ref/Pot/Coins+++
