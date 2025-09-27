@@ -1,15 +1,17 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-09-27,28454,Ice Sealed Blade of Enigma,Bodeguita1,ALOT OF SH1T,250000,500000.0,250000.0,1,250000.0,50.0,3
 2025-09-27,28454,Ice Sealed Blade of Enigma,God,zzzz,250000,500000.0,250000.0,1,250000.0,50.0,3
-2025-09-27,28472,Ice Sealed Bow of Enigma,Alente,Stfffsfsf,30000,58666.33,28666.33,1,28666.33,48.86,3
+2025-09-27,28472,Ice Sealed Bow of Enigma,Alente,Acc pet | Random stuff,30000,58666.33,28666.33,1,28666.33,48.86,3
 2025-09-27,22000,FieryGem,Dad,zzzzzzzz,3000,5599.33,2599.33,64,166356.82,46.42,6
 2025-09-27,28423,Mantle of the Cursed Flame,HellSpecter,Con pet lv20,80000,147499.75,67499.75,1,67499.75,45.76,4
 2025-09-27,26578,Aegis Brew,MrMarket,MANU BLESS SUPP POINTS,59000,104384.0,45384.0,18,816912.0,43.48,5
+2025-09-27,26326,Elven Royal Signet,Ankhseram,Hairstyle item Cheap,1600,2790.44,1190.44,42,49998.34,42.66,3
 2025-09-27,26578,Aegis Brew,Signet,Aegis/AttkPot/Tuna/Crab Cheap,60000,104384.0,44384.0,10,443840.0,42.52,5
 2025-09-27,26578,Aegis Brew,Nads,TOTEM COOKINGS ARE TRASH B HERE,62000,104384.0,42384.0,28,1186752.0,40.6,5
 2025-09-27,27014,Moonroot Wine,Messrve,-15% OFF WEEKEND OFFFFFFFFFFFFFF,599,912.77,313.77,200,62753.56,34.38,7
 2025-09-27,28423,Mantle of the Cursed Flame,iFennec,WING PBS,99999,147499.75,47500.75,1,47500.75,32.2,4
 2025-09-27,26591,Potion of Lion,MiLD,cake,1500,2176.2,676.2,44,29752.95,31.07,9
+2025-09-27,26326,Elven Royal Signet,Kiara,TAKE A LOOK!!!!,2000,2790.44,790.44,42,33198.34,28.33,3
 2025-09-27,26571,Warlord Potion,TotemCookings,Totem Cookings Made wLove n Weed,3700,5154.43,1454.43,168,244344.29,28.22,5
 2025-09-27,26576,Iron Brew,Cincar,Cincar pots,8400,11624.94,3224.94,200,644987.53,27.74,5
 2025-09-27,26576,Iron Brew,BlessIfMan,BLESS IF MAN,8400,11624.94,3224.94,122,393442.39,27.74,5
@@ -26,8 +28,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,26560,Cooked Bluefin Tuna,SeaMaterials,Cheapest Tuna in town!,2400,3226.18,826.18,50,41308.78,25.61,5
 2025-09-27,28423,Mantle of the Cursed Flame,HanSoHee,Strongest Voyager Armor,110000,147499.75,37499.75,1,37499.75,25.42,4
 2025-09-27,26568,Skating Potion,ezgoezgoezg1,sell,45000,60000.0,15000.0,2,30000.0,25.0,3
+2025-09-27,22004,Shining Gem,Dad,zzzzzzzz,3000,3999.37,999.37,71,70955.3,24.99,5
 2025-09-27,26571,Warlord Potion,Messrve,-15% OFF WEEKEND OFFFFFFFFFFFFFF,3899,5154.43,1255.43,102,128053.89,24.36,5
-2025-09-27,22004,Shining Gem,Dad,zzzzzzzz,3000,3944.84,944.84,71,67083.38,23.95,6
 2025-09-27,26576,Iron Brew,Bodeguita,radi / iron brew /guardian brew,9000,11624.94,2624.94,28,73498.25,22.58,5
 2025-09-27,26576,Iron Brew,12361,Pots,9000,11624.94,2624.94,17,44623.94,22.58,5
 2025-09-27,26576,Iron Brew,ChocolateDaddy,Supplies,9000,11624.94,2624.94,15,39374.06,22.58,5
@@ -47,18 +49,18 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,25031,Refining Gem,galina1,Ref's / Elven Signet's,9999,11349.22,1350.22,50,67511.14,11.9,6
 2025-09-27,25031,Refining Gem,dwtix,Elven bunny Potion's,9999,11349.22,1350.22,44,59409.8,11.9,6
 2025-09-27,25031,Refining Gem,SouHomiPUTA,SELL ALL MINE 2,10000,11349.22,1349.22,15,20238.34,11.89,6
-2025-09-27,27019,Purple Pirate Scroll,Sakamoto,Scroll,4000,4519.24,519.24,59,30635.27,11.49,11
-2025-09-27,27020,Gold Pirate Scroll,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,19990,22119.5,2129.5,42,89439.17,9.63,5
+2025-09-27,27019,Purple Pirate Scroll,Sakamoto,Scroll,4000,4511.03,511.03,59,30151.0,11.33,12
 2025-09-27,26588,Potion of Eagle,zzzzz,zzzzzzz,2000,2213.15,213.15,200,42629.53,9.63,8
-2025-09-27,27020,Gold Pirate Scroll,MiLD,cake,20000,22119.5,2119.5,53,112333.72,9.58,5
+2025-09-27,27020,Gold Pirate Scroll,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,19990,22093.93,2103.93,42,88365.25,9.52,6
+2025-09-27,27020,Gold Pirate Scroll,MiLD,cake,20000,22093.93,2093.93,53,110978.52,9.48,6
 2025-09-27,30156,Jackpot Coin,Vendedor,Promotion,8000,8694.09,694.09,43,29846.01,7.98,7
 2025-09-27,22024,Purple Jade,PasarGelap,darkblue,850000,916666.67,66666.67,1,66666.67,7.27,3
+2025-09-27,25451,Jade Gem Fragment,Online,garner,75000,80712.86,5712.86,10,57128.57,7.08,5
 2025-09-27,26560,Cooked Bluefin Tuna,Signet,Aegis/AttkPot/Tuna/Crab Cheap,3000,3226.18,226.18,200,45235.11,7.01,5
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k /evo fruit / app,3000,3226.18,226.18,200,45235.11,7.01,5
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k /evo fruit / app,3000,3226.18,226.18,200,45235.11,7.01,5
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k /evo fruit / app,3000,3226.18,226.18,100,22617.56,7.01,5
 2025-09-27,26585,Blessed Potion,PITAYA,blessed pots,104000,111000.0,7000.0,6,42000.0,6.31,5
-2025-09-27,22010,Gem of Rage,Machoman,GEM OF RAGE,2150000,2283333.33,133333.33,1,133333.33,5.84,3
 2025-09-27,27025,Radiation Lv1,SetSeller,cheapest itens in town,3200,3395.78,195.78,200,39156.02,5.77,5
 2025-09-27,27025,Radiation Lv1,SetSeller,cheapest itens in town,3200,3395.78,195.78,200,39156.02,5.77,5
 2025-09-27,27025,Radiation Lv1,Bodeguita,radi / iron brew /guardian brew,3200,3395.78,195.78,142,27800.78,5.77,5
@@ -72,8 +74,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,26573,Demonic Potion,Messrve,-15% OFF WEEKEND OFFFFFFFFFFFFFF,18000,18655.74,655.74,41,26885.25,3.51,5
 2025-09-27,26585,Blessed Potion,BlessIfMan,BLESS IF MAN,109000,111000.0,2000.0,25,50000.0,1.8,5
 2025-09-27,26585,Blessed Potion,BlessIfManCA,BLESS IF MAN,109000,111000.0,2000.0,25,50000.0,1.8,5
-2025-09-27,30139,100x Crystal,AAAAA123,sell imps,84300,85724.06,1424.06,40,56962.32,1.66,6
+2025-09-27,30139,100x Crystal,Anbie,IMPS CRYSTAL IMPS CRYSTAL 84K EA,84000,85422.05,1422.05,52,73946.36,1.66,8
 2025-09-27,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,16000,16257.48,257.48,196,50466.39,1.58,3
-2025-09-27,30139,100x Crystal,Aois,STALL,84400,85724.06,1324.06,72,95332.17,1.54,6
-2025-09-27,30139,100x Crystal,IamSellingThis,Cheapest IMPs EVER !!!!!!!!!!!!!,84500,85724.06,1224.06,46,56306.67,1.43,6
-2025-09-27,30139,100x Crystal,Wake,CHEAPEST IMPS,84500,85724.06,1224.06,26,31825.51,1.43,6
+2025-09-27,30139,100x Crystal,AAAAA123,sell imps,84300,85422.05,1122.05,40,44881.82,1.31,8
+2025-09-27,30139,100x Crystal,Aois,STALL,84400,85422.05,1022.05,72,73587.27,1.2,8
+2025-09-27,30139,100x Crystal,IamSellingThis,Cheapest IMPs EVER !!!!!!!!!!!!!,84500,85422.05,922.05,46,42414.09,1.08,8
+2025-09-27,30139,100x Crystal,Wake,CHEAPEST IMPS,84500,85422.05,922.05,26,23973.18,1.08,8
