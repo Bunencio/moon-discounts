@@ -70,6 +70,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,30171,Ticket to Demonic World,Guerra01,Tix DW 300g//LanternPharaoh 7k,390,490.19,100.19,200,20037.68,20.44,13
 2025-09-27,30171,Ticket to Demonic World,Guerra01,Tix DW 300g//LanternPharaoh 7k,390,490.19,100.19,200,20037.68,20.44,13
 2025-09-27,28136,Crown of Decendant,Stol2,CHEAP,799999,999999.67,200000.67,1,200000.67,20.0,3
+2025-09-27,26346,Lantern,SeventhHeaven,Lantern,4500,5590.68,1090.68,47,51261.88,19.51,6
 2025-09-27,23002,Iron Treasure,F0X01,Iron Brew Best Price EVER,980,1210.47,230.47,99,22816.27,19.04,6
 2025-09-27,26591,Potion of Lion,BoogeyMan,gyoza/pps/pbs/gbs/pots,1899,2343.59,444.59,88,39123.79,18.97,15
 2025-09-27,30022,Buffing Card,Stol,CHEAP,29999,36624.25,6625.25,5,33126.25,18.09,5
@@ -88,7 +89,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,22003,Glowing Gem,Look7,gem,1500,1785.3,285.3,81,23109.14,15.98,11
 2025-09-27,25422,Evanescence Power,Nikoz,Selling All Items Included,8000,9500.0,1500.0,14,21000.0,15.79,4
 2025-09-27,25452,Rock Gem Fragment,Buffita,garner,90000,106363.55,16363.55,5,81817.73,15.38,7
-2025-09-27,26346,Lantern,Ladystall,Cheap pots,4900,5764.45,864.45,74,63969.11,15.0,5
 2025-09-27,26377,Pharaoh's Lantern,stallerx,Cheap ca frags  rune  phara lant,7800,9150.2,1350.2,57,76961.38,14.76,9
 2025-09-27,26591,Potion of Lion,Barya,P LANTERN|FGP|BULL|LION,2000,2343.59,343.59,185,63563.88,14.66,15
 2025-09-27,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3400,3966.61,566.61,93,52694.58,14.28,4
@@ -97,7 +97,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,26377,Pharaoh's Lantern,fisherr,VERY VERY CHEAP NEW 26.09,7900,9150.2,1250.2,36,45007.19,13.66,9
 2025-09-27,28411,Staff of Incantation,cudecachorro2,STAFF CLERIC|REPU|CRYSTAL!!!!!!!,129999,149999.33,20000.33,1,20000.33,13.33,3
 2025-09-27,30156,Jackpot Coin,asdqwdq,pps/jack/boi+4/seal60crusboots,8000,9223.72,1223.72,20,24474.39,13.27,5
-2025-09-27,26346,Lantern,Babi01,TY,5000,5764.45,764.45,110,84089.22,13.26,5
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k CHEAP,3000,3455.73,455.73,200,91145.63,13.19,5
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k CHEAP,3000,3455.73,455.73,200,91145.63,13.19,5
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k CHEAP,3000,3455.73,455.73,100,45572.81,13.19,5
@@ -112,6 +111,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,26377,Pharaoh's Lantern,Guerra01,Tix DW 300g//LanternPharaoh 7k,7999,9150.2,1151.2,38,43745.59,12.58,9
 2025-09-27,26377,Pharaoh's Lantern,Barya,P LANTERN|FGP|BULL|LION,8000,9150.2,1150.2,187,215087.35,12.57,9
 2025-09-27,26377,Pharaoh's Lantern,Barya,P LANTERN|FGP|BULL|LION,8000,9150.2,1150.2,40,46007.99,12.57,9
+2025-09-27,26346,Lantern,Ladystall,Cheap pots,4900,5590.68,690.68,74,51110.2,12.35,6
 2025-09-27,25091,Heavy Crystal,conqstall2,chaos jwl frag heavy cryst boofc,3500,3966.61,466.61,71,33129.2,11.76,4
 2025-09-27,27019,Purple Pirate Scroll,MatsBk,S>dust/PPS/PBS/De Wind/rep,4000,4521.59,521.59,99,51637.66,11.54,13
 2025-09-27,27019,Purple Pirate Scroll,R3JAN,Purple,4000,4521.59,521.59,99,51637.66,11.54,13
@@ -126,6 +126,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,25452,Rock Gem Fragment,iinerti,RockgemFrag/Ref/Repu/MVM/PBS/SPs,95000,106363.55,11363.55,8,90908.36,10.68,7
 2025-09-27,25452,Rock Gem Fragment,Mikosita,BUY IMPS/GPS/REF/JACKPOT,95000,106363.55,11363.55,5,56817.73,10.68,7
 2025-09-27,25452,Rock Gem Fragment,SamuSta,ROCK/GEM/REF/ALL NORMAL GEM/FB/D,94999,106363.55,11364.55,2,22729.09,10.68,7
+2025-09-27,26346,Lantern,Babi01,TY,5000,5590.68,590.68,110,64974.62,10.57,6
 2025-09-27,30102,1000 Reputation Scroll,MatsBk,S>dust/PPS/PBS/De Wind/rep,7000,7803.41,803.41,66,53025.01,10.3,10
 2025-09-27,30102,1000 Reputation Scroll,Grecos,rep cheap!!!,7000,7803.41,803.41,44,35350.0,10.3,10
 2025-09-27,25430,Enigma Power,Bankera,Enigma Powers,2100,2340.17,240.17,99,23776.64,10.26,6
