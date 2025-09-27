@@ -44,7 +44,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,25031,Refining Gem,galina1,Ref's / Elven Signet's,9999,11343.11,1344.11,50,67205.66,11.85,6
 2025-09-27,25031,Refining Gem,dwtix,Elven bunny Potion's,9999,11343.11,1344.11,44,59140.98,11.85,6
 2025-09-27,25031,Refining Gem,SouHomiPUTA,SELL ALL MINE 2,10000,11343.11,1343.11,15,20146.7,11.84,6
-2025-09-27,27019,Purple Pirate Scroll,Sakamoto,Scroll,4000,4536.44,536.44,59,31650.18,11.83,9
+2025-09-27,27019,Purple Pirate Scroll,Sakamoto,Scroll,4000,4519.24,519.24,59,30635.27,11.49,11
 2025-09-27,22012,Demonic Gem of Wind,Anuel,Only for cool people,1499000,1671285.71,172285.71,1,172285.71,10.31,3
 2025-09-27,26588,Potion of Eagle,zzzzz,zzzzzzz,2000,2201.63,201.63,200,40326.06,9.16,8
 2025-09-27,27020,Gold Pirate Scroll,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,19990,21943.44,1953.44,42,82044.3,8.9,5
@@ -55,8 +55,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k /evo fruit / app,3000,3266.37,266.37,100,26636.76,8.15,5
 2025-09-27,26578,Aegis Brew,GeorgeFloyd,POTS,100000,108243.48,8243.48,14,115408.7,7.62,4
 2025-09-27,22024,Purple Jade,PasarGelap,darkblue,850000,916666.67,66666.67,1,66666.67,7.27,3
-2025-09-27,26585,Blessed Potion,PITAYA,blessed pots,104000,111030.93,7030.93,6,42185.57,6.33,5
 2025-09-27,26572,Inferno Potion,GeorgeFloyd,POTS,10400,11102.82,702.82,53,37249.29,6.33,5
+2025-09-27,26585,Blessed Potion,PITAYA,blessed pots,104000,111000.0,7000.0,6,42000.0,6.31,5
 2025-09-27,22010,Gem of Rage,Machoman,GEM OF RAGE,2150000,2283333.33,133333.33,1,133333.33,5.84,3
 2025-09-27,27025,Radiation Lv1,SetSeller,cheapest itens in town,3200,3395.78,195.78,200,39156.02,5.77,5
 2025-09-27,27025,Radiation Lv1,SetSeller,cheapest itens in town,3200,3395.78,195.78,200,39156.02,5.77,5
@@ -64,8 +64,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-27,26572,Inferno Potion,MadeInChina,INFERNO/WARLORD/GUARDIAN/ENCHANT,10500,11102.82,602.82,200,120563.36,5.43,5
 2025-09-27,26572,Inferno Potion,MadeInChina,INFERNO/WARLORD/GUARDIAN/ENCHANT,10500,11102.82,602.82,90,54253.51,5.43,5
 2025-09-27,26573,Demonic Potion,Messrve,-15% OFF WEEKEND OFFFFFFFFFFFFFF,18000,18674.85,674.85,41,27668.71,3.61,4
-2025-09-27,26585,Blessed Potion,BlessIfMan,BLESS IF MAN,109000,111030.93,2030.93,25,50773.2,1.83,5
-2025-09-27,26585,Blessed Potion,BlessIfManCA,BLESS IF MAN,109000,111030.93,2030.93,25,50773.2,1.83,5
+2025-09-27,26585,Blessed Potion,BlessIfMan,BLESS IF MAN,109000,111000.0,2000.0,25,50000.0,1.8,5
+2025-09-27,26585,Blessed Potion,BlessIfManCA,BLESS IF MAN,109000,111000.0,2000.0,25,50000.0,1.8,5
 2025-09-27,30139,100x Crystal,AAAAA123,sell imps,84300,85724.06,1424.06,40,56962.32,1.66,6
 2025-09-27,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,16000,16257.48,257.48,196,50466.39,1.58,3
 2025-09-27,30139,100x Crystal,Aois,STALL,84400,85724.06,1324.06,72,95332.17,1.54,6
