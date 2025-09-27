@@ -42,7 +42,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.27,25493,Orange Colorant,1000,2396.34,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 58.05,26588,Potion of Eagle,1000,2383.72,16,1,cudecachorro2,STAFF CLERIC|REPU|CRYSTAL!!!!!!!
 57.28,28458,Ice Sealed Staff of the Sphinx,20000,46819.25,6,1,BjornIronside,ZXZX
-56.93,26591,Potion of Lion,1000,2321.93,17,1,amiix,Jack C GPS PBS PPS mvsmC PharG L
+56.9,26591,Potion of Lion,1000,2320.42,17,1,amiix,Jack C GPS PBS PPS mvsmC PharG L
 56.77,25258,Spirit Feather,200,462.62,11,99,LunaMaya,S>LambSkull PBS RBS IslandCard
 56.77,25258,Spirit Feather,200,462.62,11,86,LunaMaya,S>LambSkull PBS RBS IslandCard
 55.78,22000,FieryGem,2000,4522.62,11,1,corvios,Stuff
@@ -50,8 +50,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.78,22000,FieryGem,2000,4522.62,11,3,Bebang,CHEAPO NORMAL GEMS
 55.78,22000,FieryGem,2000,4522.62,11,3,Unlimites,garner
 54.52,26590,Potion of Soul,1100,2418.65,14,1,Undead2509,Sell  Scroll/Potion/Coat
+54.46,26344,Novice Weightless Potion,1800,3952.22,4,1,Cheap,ASDF
 53.33,28476,Ice Sealed Kris of the Sphinx,35000,75000.0,5,1,CrackHead,ALMOST 4 FREE
-52.63,26591,Potion of Lion,1100,2321.93,17,2,Undead2509,Sell  Scroll/Potion/Coat
+52.59,26591,Potion of Lion,1100,2320.42,17,2,Undead2509,Sell  Scroll/Potion/Coat
 52.33,25503,Magical Stone,700,1468.48,5,99,AkameChan,PBS Magical Uns45Cruz
 52.33,25503,Magical Stone,700,1468.48,5,99,AkameChan,PBS Magical Uns45Cruz
 52.05,28432,Fire Sealed Staff of Mirage,5000,10428.29,4,1,HyjoSeller,LOTOFSTUFF
