@@ -1,7 +1,8 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-09-28,28326,Divine Grace Cap,smoI,hats skating,45000,948750.0,903750.0,1,903750.0,95.26,4
 2025-09-28,28326,Divine Grace Cap,smoI,hats skating,50000,948750.0,898750.0,1,898750.0,94.73,4
-2025-09-28,30140,10x Crystal,CStal4,sell imps,8700,32509.81,23809.81,92,2190502.67,73.24,3
+2025-09-28,30140,10x Crystal,Slate,IMP | STUFFS,8400,30146.1,21746.1,15,326191.57,72.14,4
+2025-09-28,30140,10x Crystal,CStal4,sell imps,8700,30146.1,21446.1,92,1973041.62,71.14,4
 2025-09-28,22003,Glowing Gem,hunterx,bp/fb/rep/signet/pots/gems,450,1547.05,1097.05,67,73502.4,70.91,11
 2025-09-28,25258,Spirit Feather,LunaMaya,S>PBS RBS LambSkull FairyFood,200,662.01,462.01,98,45277.27,69.79,9
 2025-09-28,22004,Shining Gem,hunterx,bp/fb/rep/signet/pots/gems,999,2946.83,1947.83,87,169461.01,66.1,9
@@ -81,16 +82,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,30102,1000 Reputation Scroll,MatsBk,S>de wind/PPS/Dust/rep/fb/PBS,6900,8224.3,1324.3,66,87403.64,16.1,7
 2025-09-28,26559,Cooked Crab,vnt4,Best Recover HP-SP/stuff Come,1999,2351.95,352.95,125,44118.77,15.01,5
 2025-09-28,30102,1000 Reputation Scroll,Saller,ty,7000,8224.3,1224.3,93,113859.68,14.89,7
-2025-09-28,27019,Purple Pirate Scroll,Sakamoto,PPS-4K,4000,4673.99,673.99,87,58637.14,14.42,12
 2025-09-28,25505,Standard Stone,VendedoraJequiti,[      STANDARD STONE SHOP     ],2497,2904.79,407.79,99,40371.54,14.04,4
 2025-09-28,25505,Standard Stone,VendedoraJequiti,[      STANDARD STONE SHOP     ],2497,2904.79,407.79,99,40371.54,14.04,4
 2025-09-28,25505,Standard Stone,VendedoraJequiti,[      STANDARD STONE SHOP     ],2497,2904.79,407.79,99,40371.54,14.04,4
 2025-09-28,25505,Standard Stone,VendedoraJequiti,[      STANDARD STONE SHOP     ],2497,2904.79,407.79,56,22836.43,14.04,4
-2025-09-28,25477,Lance Hairstyle Book,Ankhseram,Hairstyle item best price,15000,17368.42,2368.42,16,37894.74,13.64,3
 2025-09-28,27006,Bunny Potion,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,987,1141.49,154.49,200,30897.6,13.53,6
 2025-09-28,22023,Green Jade,DarknessL,sell imps,270000,308888.78,38888.78,1,38888.78,12.59,4
 2025-09-28,30135,Demonic Rock,Verso,almos free,4000,4574.5,574.5,99,56875.67,12.56,7
 2025-09-28,25527,,Jhoa,GPS/CA CHAOS/POTION/COOKED/SALMN,600000,681833.17,81833.17,1,81833.17,12.0,6
+2025-09-28,25477,Lance Hairstyle Book,Ankhseram,Hairstyle item best price,15000,17000.0,2000.0,16,32000.0,11.76,3
 2025-09-28,30156,Jackpot Coin,Electricman1,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,8500,9571.9,1071.9,25,26797.42,11.2,18
 2025-09-28,22014,Demonic Gem of Colossus,LotokSell,Demo Soul Demo Colos,2400000,2700000.0,300000.0,1,300000.0,11.11,3
 2025-09-28,27025,Radiation Lv1,Uzi,detector radiation,2999,3369.16,370.16,89,32944.53,10.99,9
@@ -106,6 +106,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,26578,Aegis Brew,Timotron,Cheapest Pots EVER !! Just Look,58000,62986.49,4986.49,33,164554.05,7.92,5
 2025-09-28,25525,,SariSariStore1,SALE,249999,271428.29,21429.29,2,42858.57,7.9,4
 2025-09-28,25525,,conqstall2,boof heavycrystal chaosjewel,250000,271428.29,21428.29,2,42856.57,7.89,4
+2025-09-28,27019,Purple Pirate Scroll,MiLD,cake,4500,4849.71,349.71,99,34621.49,7.21,11
+2025-09-28,27019,Purple Pirate Scroll,MiLD,cake,4500,4849.71,349.71,85,29725.52,7.21,11
 2025-09-28,26560,Cooked Bluefin Tuna,Signet,Aegis/AttkPot/Tuna/Crab Cheap,3000,3229.04,229.04,200,45808.84,7.09,5
 2025-09-28,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k /evo fruit / app,3000,3229.04,229.04,200,45808.84,7.09,5
 2025-09-28,26560,Cooked Bluefin Tuna,Liora,Bluefin Tuna 3k /evo fruit / app,3000,3229.04,229.04,200,45808.84,7.09,5
@@ -152,4 +154,4 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,22010,Gem of Rage,jajaaaaja,GEMS FOR SALE,1999999,2028124.44,28125.44,8,225003.5,1.39,7
 2025-09-28,22010,Gem of Rage,Pornhub,UG RAGE / 110% ARMOR,2000000,2028124.44,28124.44,2,56248.88,1.39,7
 2025-09-28,22010,Gem of Rage,BabyBank,Cheap,2000000,2028124.44,28124.44,1,28124.44,1.39,7
-2025-09-28,30139,100x Crystal,DarknessL,sell imps,82999,84007.1,1008.1,84,84680.14,1.2,9
+2025-09-28,30139,100x Crystal,DarknessL,sell imps,82999,83968.92,969.92,84,81473.15,1.16,10
