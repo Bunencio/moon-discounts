@@ -7,7 +7,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.22,22003,Glowing Gem,250,2556.12,13,67,hunterx,bp/fb/signet/repu/pots/gems
 87.88,28440,Fire Sealed Roar of Evanescence,15000,123750.0,4,1,Nixm,Lv50 Eqps
 84.35,22003,Glowing Gem,400,2556.12,13,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
-83.08,22000,FieryGem,1000,5911.0,12,5,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
+83.08,22000,FieryGem,1000,5911.71,13,5,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 81.26,25212,Frozen Elixir,100,533.54,7,30,Cush,Spr lvl20|accu 5boots
 80.44,26588,Potion of Eagle,500,2556.27,17,4,RecklessCruz,Cheapest Eveeeeeer <333333333333
 79.56,25493,Orange Colorant,500,2446.43,4,2,cheapstuffsell,cheap
@@ -15,16 +15,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.37,26564,Meditation Potion,33,128.73,5,99,TagBaligya2,Manu Items
 73.59,26564,Meditation Potion,34,128.73,5,9,Godsky,itens
 72.55,28458,Ice Sealed Staff of the Sphinx,9999,36428.14,6,1,xCrossex,VERY GOOD ITEMS
-72.08,22004,Shining Gem,1000,3581.29,12,3,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
-70.49,26591,Potion of Lion,750,2541.75,19,1,Kinyu,OMGGG
+72.13,22004,Shining Gem,1000,3588.71,13,3,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
+70.84,26591,Potion of Lion,750,2572.36,19,1,Kinyu,OMGGG
 69.25,25258,Spirit Feather,200,650.3,9,99,F0X01,Best Price EVER
 69.25,25258,Spirit Feather,200,650.3,9,83,LunaMaya,S>PBS RBS LambSkull FairyFood
 68.42,28444,Fire Sealed Bellow of Evanescence,5000,15833.17,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 68.36,28430,Fire Sealed Robe of Malediction,4999,15799.8,4,1,CallMeBaby,ITEM CHEAP
 67.94,25503,Magical Stone,385,1200.83,8,99,Spiritus,mvm/etc
-66.18,22000,FieryGem,1999,5911.0,12,13,Caiser,cheap cruz items
+66.19,22000,FieryGem,1999,5911.71,13,13,Caiser,cheap cruz items
 66.11,30121,Vial of Accuracy Reset,2000,5900.85,7,4,Yennefer,GPS PBS LBS JADE CLOUD EXPSTONE
-65.96,26589,Potion of Bull,750,2203.38,21,1,Kinyu,OMGGG
+65.89,26589,Potion of Bull,750,2198.99,21,1,Kinyu,OMGGG
 65.86,25258,Spirit Feather,222,650.3,9,38,smoI,hats skating
 65.8,22006,Spirit Gem,2999,8769.24,6,5,pisslow,gold Jack Chest spoirit  Gem
 64.12,22001,Furious Gem,800,2229.54,13,10,Merrrppp,iceglovesboots/gbs/furious
@@ -36,6 +36,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.56,25258,Spirit Feather,250,650.3,9,90,sietemaridos,fairygrow auto jp mvm pots+
 61.56,25258,Spirit Feather,250,650.3,9,28,bruna99,mns
 61.16,26564,Meditation Potion,50,128.73,5,15,Skills,Free     Free     Free     Free
+61.13,26591,Potion of Lion,1000,2572.36,19,1,amiix,jack C GPS PPS LBS Pots
+61.13,26591,Potion of Lion,1000,2572.36,19,1,HyjoSeller,LOTOFSTUFF
 61.11,28128,Warmth of the Cleric,35000,90000.0,3,1,smoI,hats skating
 61.11,28128,Warmth of the Cleric,35000,90000.0,3,1,smoI,hats skating
 60.88,22003,Glowing Gem,1000,2556.12,13,4,Unlimites,garner
@@ -43,11 +45,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.88,26588,Potion of Eagle,1000,2556.27,17,3,amiix,jack C GPS PPS LBS Pots
 60.88,26588,Potion of Eagle,1000,2556.27,17,2,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 60.88,26588,Potion of Eagle,1000,2556.27,17,1,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
-60.66,26591,Potion of Lion,1000,2541.75,19,1,amiix,jack C GPS PPS LBS Pots
-60.66,26591,Potion of Lion,1000,2541.75,19,1,HyjoSeller,LOTOFSTUFF
 60.17,22001,Furious Gem,888,2229.54,13,51,hunterx,bp/fb/signet/repu/pots/gems
 59.67,26001,Ninja Coin,300,743.77,11,7,Kinyu,OMGGG
-59.19,26590,Potion of Soul,1000,2450.66,11,6,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
+59.4,26590,Potion of Soul,1000,2462.97,11,6,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 59.03,25499,Purple Colorant,1000,2440.79,4,3,CaloNord,boots acc
 58.83,28458,Ice Sealed Staff of the Sphinx,14999,36428.14,6,1,BjornIronside,ASD
 58.82,28458,Ice Sealed Staff of the Sphinx,15000,36428.14,6,1,Electricman1,Jp MvM/gps/pps/demosoul/PhaGem
@@ -59,15 +59,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.15,22001,Furious Gem,1000,2229.54,13,2,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 55.15,22001,Furious Gem,1000,2229.54,13,1,CoroaDaPoshe,SELL PURPLE BP/ GENS
 54.95,28446,Fire Sealed Bow of Evanescence,14444,32063.14,6,1,LadyRizz,etc
-54.62,26589,Potion of Bull,1000,2203.38,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 54.55,28155,Steel Platemail,5000,11000.0,3,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 54.55,28436,Fire Sealed Staff of Evanescence,12000,26400.0,4,1,Nixm,Lv50 Eqps
+54.52,26589,Potion of Bull,1000,2198.99,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 53.22,28446,Fire Sealed Bow of Evanescence,15000,32063.14,6,1,NICE,garner
 53.19,30100,100 Reputation Scroll,250,534.12,5,3,CrackHead,ALMOST 4 FREE
 53.15,25479,Phyllis Hairstyle Book,1000,2134.62,3,1,Khonsu,QUITTING
 53.06,26588,Potion of Eagle,1200,2556.27,17,1,Anuel,REDUCED PRICES!!!!!!!!!!!!!!!!!!
 52.32,28432,Fire Sealed Staff of Mirage,5000,10487.56,7,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
+51.41,26591,Potion of Lion,1250,2572.36,19,14,hunterx,bp/fb/signet/repu/pots/gems
 51.1,26588,Potion of Eagle,1250,2556.27,17,26,hunterx,bp/fb/signet/repu/pots/gems
-50.82,26591,Potion of Lion,1250,2541.75,19,14,hunterx,bp/fb/signet/repu/pots/gems
 50.03,25503,Magical Stone,600,1200.83,8,3,loyalty1,selling
 50.03,25503,Magical Stone,600,1200.83,8,69,#14DEATH#14,SHOPE 10.10 ALL U NEED CHEAP!
