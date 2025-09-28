@@ -9,7 +9,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.31,22003,Glowing Gem,400,2548.8,13,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 83.46,22000,FieryGem,1000,6045.72,13,5,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 80.23,26588,Potion of Eagle,500,2529.21,19,4,RecklessCruz,Cheapest Eveeeeeer <333333333333
-79.91,25212,Frozen Elixir,100,497.72,5,30,Cush,Spr lvl20|accu 5boots
+79.91,25212,Frozen Elixir,100,497.87,6,30,Cush,Spr lvl20|accu 5boots
 79.56,25493,Orange Colorant,500,2446.43,4,2,cheapstuffsell,cheap
 78.6,25440,Evanescence Stone,190,887.77,6,87,hunterx,bp/fb/signet/repu/pots/gems
 72.55,28458,Ice Sealed Staff of the Sphinx,9999,36428.14,6,1,xCrossex,VERY GOOD ITEMS
@@ -17,7 +17,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.67,26591,Potion of Lion,750,2556.79,20,1,Kinyu,OMGGG
 70.56,25258,Spirit Feather,200,679.26,9,99,F0X01,Best Price EVER
 70.56,25258,Spirit Feather,200,679.26,9,83,LunaMaya,S>PBS RBS LambSkull FairyFood
-69.86,25212,Frozen Elixir,150,497.72,5,53,Heroes,SELL CHEAP
+69.87,25212,Frozen Elixir,150,497.87,6,53,Heroes,SELL CHEAP
 68.36,28430,Fire Sealed Robe of Malediction,4999,15799.8,4,1,CallMeBaby,ITEM CHEAP
 68.14,28420,Earth Sealed Bow of Incantation,4500,14125.0,4,1,iLegolas,LBs PPs GPs RBs IC Jackpot +
 67.32,25258,Spirit Feather,222,679.26,9,38,smoI,hats skating
@@ -49,7 +49,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.46,26588,Potion of Eagle,1000,2529.21,19,2,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 60.46,26588,Potion of Eagle,1000,2529.21,19,1,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 59.24,22001,Furious Gem,888,2178.57,14,51,hunterx,bp/fb/signet/repu/pots/gems
-59.03,25499,Purple Colorant,1000,2440.79,4,3,CaloNord,boots acc
+58.93,25499,Purple Colorant,1000,2435.06,4,3,CaloNord,boots acc
 58.83,28458,Ice Sealed Staff of the Sphinx,14999,36428.14,6,1,BjornIronside,ASD
 58.82,28458,Ice Sealed Staff of the Sphinx,15000,36428.14,6,1,Electricman1,Jp MvM/gps/pps/demosoul/PhaGem
 58.82,28458,Ice Sealed Staff of the Sphinx,15000,36428.14,6,1,AoiTodo,Promotion
