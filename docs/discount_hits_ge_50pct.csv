@@ -1,8 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.4,26564,Meditation Potion,34,944.34,3,9,Godsky,itens
 92.56,25439,Incantation Stone,100,1344.35,6,1,LazzzyBee,VOY Lv45 Armor +4|Gems|Pots
-77.82,25478,Carsise Hairstyle Book,500,2253.97,4,4,Khonsu,CHEAPEST HAIRSTYLING ITEMS
 77.76,25439,Incantation Stone,299,1344.35,6,1,pisslow,Rock Gem Gold jackpot Gyoza
+76.54,25478,Carsise Hairstyle Book,500,2131.15,3,4,Khonsu,CHEAPEST HAIRSTYLING ITEMS
 73.08,25493,Orange Colorant,500,1857.14,3,2,cheapstuffsell,cheap
 72.82,30140,10x Crystal,8700,32003.22,3,95,CStal4,sell imps
 72.8,25258,Spirit Feather,200,735.37,8,98,LunaMaya,S>PBS RBS LambSkull FairyFood
@@ -17,9 +17,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.64,28408,Earth Sealed Coat of Invocation,5000,13749.75,4,1,OsToWBaby,GEMS AND SEALED ITEMS
 62.81,25439,Incantation Stone,500,1344.35,6,6,DingDong,Sealed 60|Green Statue|Potions
 61.81,26345,Elven Potion,3000,7855.49,4,3,#14DEATH#14,SHOPE 10.10 ALL U NEED CHEAP!
-58.66,26591,Potion of Lion,1000,2418.94,16,1,HyjoSeller,LOTOFSTUFF
+58.52,26591,Potion of Lion,1000,2410.75,16,1,HyjoSeller,LOTOFSTUFF
 57.52,25503,Magical Stone,600,1412.44,7,99,#14DEATH#14,SHOPE 10.10 ALL U NEED CHEAP!
 57.07,28403,Blade of Incantation,100000,232929.09,7,1,Guv,Jade Frag / Jackpot /Red / BOI
+56.35,22001,Furious Gem,800,1832.59,8,10,Merrrppp,iceglovesboots/gbs/furious
 55.04,26562,Cake,35,77.85,5,200,MiLD,cake
 55.04,26562,Cake,35,77.85,5,163,MiLD,cake
 55.04,26562,Cake,35,77.85,5,200,MiLD,cake
