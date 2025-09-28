@@ -8,7 +8,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,25258,Spirit Feather,F0X01,Best Price EVER,200,677.6,477.6,99,47282.89,70.48,9
 2025-09-28,25258,Spirit Feather,LunaMaya,S>PBS RBS LambSkull FairyFood,200,677.6,477.6,83,39641.21,70.48,9
 2025-09-28,25503,Magical Stone,Spiritus,mvm/etc,385,1143.15,758.15,99,75057.33,66.32,10
-2025-09-28,22006,Spirit Gem,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee,2999,8769.24,5770.24,5,28851.21,65.8,6
+2025-09-28,22006,Spirit Gem,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee,2999,8852.87,5853.87,4,23415.48,66.12,6
 2025-09-28,22000,FieryGem,Caiser,cheap cruz items,1999,5801.97,3802.97,11,41832.71,65.55,12
 2025-09-28,25503,Magical Stone,sinox1,FIRST COME FIRST SERVE!!!!!!!!!!,399,1143.15,744.15,65,48370.07,65.1,10
 2025-09-28,25258,Spirit Feather,sietemaridos,fairygrow auto jp mvm pots+,250,677.6,427.6,90,38484.45,63.11,9
@@ -45,7 +45,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,26590,Potion of Soul,MiLD,r,1500,2445.45,945.45,22,20800.0,38.66,12
 2025-09-28,28423,Mantle of the Cursed Flame,HellSpecter,CON PET LV20!,80000,127999.6,47999.6,1,47999.6,37.5,5
 2025-09-28,26001,Ninja Coin,FARMBR,sell,450,705.2,255.2,99,25264.94,36.19,13
-2025-09-28,25450,Chest of Demonic World,Healing3,Cheap!!!!!!!!!!!!,40000,62499.75,22499.75,1,22499.75,36.0,3
 2025-09-28,26326,Elven Royal Signet,Ankhseram,Hairstyle item best price,1500,2289.3,789.3,42,33150.67,34.48,7
 2025-09-28,26557,Cooked Codfish,PepC,Yummy,390,588.47,198.47,200,39693.87,33.73,6
 2025-09-28,25506,Expert Scroll,EvolutionPet,CHEAP EVOLUTION LOOT!,1000,1483.07,483.07,99,47823.53,32.57,3
@@ -126,18 +125,17 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,22007,Gem of Striking,xed,GEM,1600000,1830000.0,230000.0,1,230000.0,12.57,3
 2025-09-28,27020,Gold Pirate Scroll,ezgoezgoezg1,sell bots,19000,21725.87,2725.87,12,32710.43,12.55,16
 2025-09-28,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3150,3559.49,409.49,91,37263.28,11.5,4
-2025-09-28,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,9024.66,1025.66,200,205132.02,11.37,15
-2025-09-28,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,9024.66,1025.66,181,185644.48,11.37,15
-2025-09-28,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,9024.66,1025.66,103,105642.99,11.37,15
-2025-09-28,30135,Demonic Rock,Disciplined1,CHEAPEST DemonicRock EnigmaPower,3999,4471.95,472.95,77,36417.17,10.58,6
+2025-09-28,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,9025.7,1026.7,200,205339.27,11.38,16
+2025-09-28,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,9025.7,1026.7,180,184805.35,11.38,16
+2025-09-28,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,9025.7,1026.7,103,105749.73,11.38,16
 2025-09-28,25426,Universe Purse Fragment.,JKK27,PURSE FRAG/POTS,340000,378888.89,38888.89,1,38888.89,10.26,4
 2025-09-28,27020,Gold Pirate Scroll,Sankey,Gold Pirate Scrol // Gem of Wind,19499,21725.87,2226.87,35,77940.42,10.25,16
 2025-09-28,26377,Pharaoh's Lantern,Sisifo,LANTERN/JADE/JACK/POTS/ROCK,6999,7702.06,703.06,30,21091.87,9.13,8
 2025-09-28,26377,Pharaoh's Lantern,Barya,P LANTERN|BULL|LION CHEAP!!!!!!!,7000,7702.06,702.06,135,94778.42,9.12,8
 2025-09-28,26377,Pharaoh's Lantern,Barya,P LANTERN|BULL|LION CHEAP!!!!!!!,7000,7702.06,702.06,86,60377.37,9.12,8
 2025-09-28,26377,Pharaoh's Lantern,Foguinho,Phara Lantern 7k,7000,7702.06,702.06,30,21061.87,9.12,8
+2025-09-28,22010,Gem of Rage,BoogeyMan,gem of rage / demo strike/pbs/gb,1900000,2084614.69,184614.69,1,184614.69,8.86,5
 2025-09-28,22014,Demonic Gem of Colossus,LotokSell,Demo Soul Demo Colos,2400000,2630000.0,230000.0,1,230000.0,8.75,3
-2025-09-28,22010,Gem of Rage,BoogeyMan,gem of rage / demo strike/pbs/gb,1900000,2078570.79,178570.79,1,178570.79,8.59,6
 2025-09-28,28429,Dance of Evanescence,TERY,CHEAP CRUS ITEMS <3,1099000,1199777.78,100777.78,1,100777.78,8.4,6
 2025-09-28,28429,Dance of Evanescence,Fun,Sword Crus Cheap,1100000,1199777.78,99777.78,1,99777.78,8.32,6
 2025-09-28,25508,Demonic Gem Fragment,Mikosita,SELL IMPS/GPS/REF/JACKPOT/PPS,99999,108927.93,8928.93,9,80360.36,8.2,4
@@ -155,7 +153,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,26576,Iron Brew,Bankaquaq,Radiation/Brew/Poison/FB/Grenade,8450,9098.04,648.04,200,129608.39,7.12,5
 2025-09-28,26345,Elven Potion,Honey,--------  Pet  Fruits  ---------,6999,7496.72,497.72,93,46288.07,6.64,3
 2025-09-28,26576,Iron Brew,Messrve,--------------------------------,8500,9098.04,598.04,47,28107.97,6.57,5
-2025-09-28,25031,Refining Gem,Mikosita,SELL IMPS/GPS/REF/JACKPOT/PPS,8499,9024.66,525.66,181,95144.48,5.82,15
+2025-09-28,25031,Refining Gem,Mikosita,SELL IMPS/GPS/REF/JACKPOT/PPS,8499,9025.7,526.7,181,95332.04,5.84,16
 2025-09-28,26578,Aegis Brew,MrMarket,MANU BLESS SUPP POINTS,55000,58301.48,3301.48,18,59426.67,5.66,7
 2025-09-28,26559,Cooked Crab,Signet,Aegis/AttkPot/Tuna/Crab Cheap,2200,2324.08,124.08,200,24815.46,5.34,5
 2025-09-28,26559,Cooked Crab,Signet,Aegis/AttkPot/Tuna/Crab Cheap,2200,2324.08,124.08,200,24815.46,5.34,5
@@ -164,9 +162,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,22014,Demonic Gem of Colossus,ShowerBro,afk,2500000,2630000.0,130000.0,1,130000.0,4.94,3
 2025-09-28,22014,Demonic Gem of Colossus,bankerrr,Bank Cleaning,2500000,2630000.0,130000.0,1,130000.0,4.94,3
 2025-09-28,26572,Inferno Potion,MUTAA,BANKAIII!!!!,9999,10516.56,517.56,96,49685.34,4.92,9
-2025-09-28,22010,Gem of Rage,jajaaaaja,GEMS FOR SALE,1999999,2078570.79,78571.79,8,628574.29,3.78,6
-2025-09-28,22010,Gem of Rage,Benjoya,Ug Rage / Ug Striking Cheap,1999999,2078570.79,78571.79,1,78571.79,3.78,6
-2025-09-28,22010,Gem of Rage,BabyBank,Cheap,2000000,2078570.79,78570.79,1,78570.79,3.78,6
+2025-09-28,22010,Gem of Rage,jajaaaaja,GEMS FOR SALE,1999999,2084614.69,84615.69,8,676925.54,4.06,5
+2025-09-28,22010,Gem of Rage,Benjoya,Ug Rage / Ug Striking Cheap,1999999,2084614.69,84615.69,1,84615.69,4.06,5
 2025-09-28,26577,Cupid Brew,Nads,TOTEM COOKINGS ARE TRASH B HERE,42000,43602.94,1602.94,21,33661.76,3.68,3
 2025-09-28,30191,1000 Supporter Points Voucher,MrMarket,MANU BLESS SUPP POINTS,57000,58914.94,1914.94,40,76597.63,3.25,4
 2025-09-28,26572,Inferno Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,10200,10516.56,316.56,116,36720.46,3.01,9
