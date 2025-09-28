@@ -2,7 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.92,28440,Fire Sealed Roar of Evanescence,10000,123750.0,4,1,NICE,garner
 90.53,25478,Carsise Hairstyle Book,200,2111.48,3,4,Khonsu,QUITTING
 90.19,22003,Glowing Gem,250,2548.8,13,67,hunterx,bp/fb/signet/repu/pots/gems
-88.48,22001,Furious Gem,250,2169.84,14,1,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee
+88.52,22001,Furious Gem,250,2178.57,14,1,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee
 87.88,28440,Fire Sealed Roar of Evanescence,15000,123750.0,4,1,Nixm,Lv50 Eqps
 87.5,28035,Solar Shield,5000,40000.0,3,1,Zekrom,CHEAPER U DONT Hget
 87.13,30101,500 Reputation Scroll,350,2719.12,7,5,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee
@@ -15,7 +15,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.55,28458,Ice Sealed Staff of the Sphinx,9999,36428.14,6,1,xCrossex,VERY GOOD ITEMS
 72.13,22004,Shining Gem,1000,3588.71,13,3,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 70.97,28420,Earth Sealed Bow of Incantation,4500,15500.0,3,1,iLegolas,LBs PPs GPs RBs IC Jackpot +
-70.81,26591,Potion of Lion,750,2569.15,20,1,Kinyu,OMGGG
+70.72,26591,Potion of Lion,750,2561.52,20,1,Kinyu,OMGGG
 70.47,25212,Frozen Elixir,150,508.02,7,53,Heroes,SELL CHEAP
 68.36,28430,Fire Sealed Robe of Malediction,4999,15799.8,4,1,CallMeBaby,ITEM CHEAP
 67.8,25503,Magical Stone,385,1195.48,9,99,Spiritus,mvm/etc
@@ -24,25 +24,25 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.54,25503,Magical Stone,400,1195.48,9,6,xGoliath,RUSH
 66.11,30121,Vial of Accuracy Reset,2000,5900.85,7,4,Yennefer,GPS PBS LBS JADE CLOUD EXPSTONE
 65.8,22006,Spirit Gem,2999,8769.24,6,5,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee
-65.26,26589,Potion of Bull,750,2158.91,21,1,Kinyu,OMGGG
+65.23,26589,Potion of Bull,750,2156.75,21,1,Kinyu,OMGGG
 64.68,26588,Potion of Eagle,900,2548.05,18,5,xVENDOR1x,RUSH
 64.38,30100,100 Reputation Scroll,250,701.94,6,3,CrackHead,ALMOST 4 FREE
-63.13,22001,Furious Gem,800,2169.84,14,10,Merrrppp,iceglovesboots/gbs/furious
+63.28,22001,Furious Gem,800,2178.57,14,10,Merrrppp,iceglovesboots/gbs/furious
 62.62,25439,Incantation Stone,500,1337.6,5,1,vendedolmax,2000
 62.62,25439,Incantation Stone,500,1337.6,5,6,DingDong,Sealed 60|Green Statue|Potions
 62.1,28408,Earth Sealed Coat of Invocation,5000,13194.25,4,1,OsToWBaby,GEMS AND SEALED ITEMS
 61.25,28442,Fire Sealed Coat of Evanescence,5000,12904.57,5,1,bankerrr,Bank Cleaning
 61.11,28128,Warmth of the Cleric,35000,90000.0,3,1,smoI,hats skating
 61.11,28128,Warmth of the Cleric,35000,90000.0,3,1,smoI,hats skating
-61.08,26591,Potion of Lion,1000,2569.15,20,1,xVENDOR1x,RUSH
-61.08,26591,Potion of Lion,1000,2569.15,20,1,amiix,jack C GPS PPS LBS Pots
-61.08,26591,Potion of Lion,1000,2569.15,20,1,HyjoSeller,LOTOFSTUFF
+60.96,26591,Potion of Lion,1000,2561.52,20,1,xVENDOR1x,RUSH
+60.96,26591,Potion of Lion,1000,2561.52,20,1,amiix,jack C GPS PPS LBS Pots
+60.96,26591,Potion of Lion,1000,2561.52,20,1,HyjoSeller,LOTOFSTUFF
 60.77,22003,Glowing Gem,1000,2548.8,13,4,Unlimites,garner
 60.77,22003,Glowing Gem,1000,2548.8,13,6,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 60.75,26588,Potion of Eagle,1000,2548.05,18,3,amiix,jack C GPS PPS LBS Pots
 60.75,26588,Potion of Eagle,1000,2548.05,18,2,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 60.75,26588,Potion of Eagle,1000,2548.05,18,1,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
-59.08,22001,Furious Gem,888,2169.84,14,51,hunterx,bp/fb/signet/repu/pots/gems
+59.24,22001,Furious Gem,888,2178.57,14,51,hunterx,bp/fb/signet/repu/pots/gems
 59.03,25499,Purple Colorant,1000,2440.79,4,3,CaloNord,boots acc
 58.83,28458,Ice Sealed Staff of the Sphinx,14999,36428.14,6,1,BjornIronside,ASD
 58.82,28458,Ice Sealed Staff of the Sphinx,15000,36428.14,6,1,Electricman1,Jp MvM/gps/pps/demosoul/PhaGem
@@ -56,16 +56,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.95,28446,Fire Sealed Bow of Evanescence,14444,32063.14,6,1,LadyRizz,etc
 54.55,28155,Steel Platemail,5000,11000.0,3,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 54.55,28436,Fire Sealed Staff of Evanescence,12000,26400.0,4,1,Nixm,Lv50 Eqps
-53.96,22001,Furious Gem,999,2169.84,14,9,Bathroom,Gem  EXP  Sealed  Scrol
-53.91,22001,Furious Gem,1000,2169.84,14,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
-53.91,22001,Furious Gem,1000,2169.84,14,2,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
-53.91,22001,Furious Gem,1000,2169.84,14,1,CoroaDaPoshe,SELL PURPLE BP/ GENS
-53.68,26589,Potion of Bull,1000,2158.91,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
-53.29,26591,Potion of Lion,1200,2569.15,20,19,MiLD,r
+54.14,22001,Furious Gem,999,2178.57,14,9,Bathroom,Gem  EXP  Sealed  Scrol
+54.1,22001,Furious Gem,1000,2178.57,14,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
+54.1,22001,Furious Gem,1000,2178.57,14,2,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
+54.1,22001,Furious Gem,1000,2178.57,14,1,CoroaDaPoshe,SELL PURPLE BP/ GENS
+53.63,26589,Potion of Bull,1000,2156.75,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 53.22,28446,Fire Sealed Bow of Evanescence,15000,32063.14,6,1,NICE,garner
 53.15,25479,Phyllis Hairstyle Book,1000,2134.62,3,1,Khonsu,QUITTING
+53.15,26591,Potion of Lion,1200,2561.52,20,19,MiLD,r
 52.91,26588,Potion of Eagle,1200,2548.05,18,1,Anuel,REDUCED PRICES!!!!!!!!!!!!!!!!!!
-51.35,26591,Potion of Lion,1250,2569.15,20,14,hunterx,bp/fb/signet/repu/pots/gems
+51.2,26591,Potion of Lion,1250,2561.52,20,14,hunterx,bp/fb/signet/repu/pots/gems
 50.94,26588,Potion of Eagle,1250,2548.05,18,26,hunterx,bp/fb/signet/repu/pots/gems
 50.39,22000,FieryGem,2999,6045.72,13,1,xkom,JACKPOT GROWTH SCROLLS ETC
 50.38,22000,FieryGem,3000,6045.72,13,7,Kiara,TAKE A LOOK!!!!
