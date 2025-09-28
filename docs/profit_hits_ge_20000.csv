@@ -89,7 +89,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,26560,Cooked Bluefin Tuna,SeaMaterials,Cheapest Bluefin Tuna 2.4k only!,2400,3083.6,683.6,44,30078.42,22.17,4
 2025-09-28,26591,Potion of Lion,Barya,P LANTERN|BULL|LION CHEAP!!!!!!!,2000,2561.52,561.52,135,75804.81,21.92,20
 2025-09-28,25426,Universe Purse Fragment.,*H-ERO*,UNI PUR FRAG/GPS/PHARA GEM/FB/LU,289999,369999.9,80000.9,1,80000.9,21.62,5
-2025-09-28,30171,Ticket to Demonic World,ShowMaker,Cheap jack ref pps tix,399,508.08,109.08,200,21816.63,21.47,10
+2025-09-28,30171,Ticket to Demonic World,ShowMaker,Cheap jack ref pps tix,399,508.33,109.33,200,21865.91,21.51,10
 2025-09-28,26588,Potion of Eagle,Goblin4,JACK/REP/SKAT/ALL POTION@CHEAP@,1999,2531.22,532.22,48,25546.51,21.03,19
 2025-09-28,26588,Potion of Eagle,Bodeguita1,alot of sh1t,2000,2531.22,531.22,96,50997.02,20.99,19
 2025-09-28,22008,Gem of the Wind,xSnufx,wind/acc prt lvl 23,955555,1209259.0,253704.0,1,253704.0,20.98,4
@@ -115,14 +115,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,26346,Lantern,BL4CKM4RK3T,blackmarket,4500,5383.97,883.97,24,21215.28,16.42,9
 2025-09-28,22004,Shining Gem,Dad,zzzzzzzz,3000,3588.71,588.71,71,41798.53,16.4,13
 2025-09-28,26573,Demonic Potion,WhatMyBraSize,cheap is not a joke,15550,18477.88,2927.88,9,26350.96,15.85,7
-2025-09-28,26575,Guardian's Brew,sds,Guardian Brew Here,700,828.58,128.58,200,25715.97,15.52,11
+2025-09-28,26575,Guardian's Brew,sds,Guardian Brew Here,700,828.7,128.7,200,25739.39,15.53,11
 2025-09-28,25451,Jade Gem Fragment,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,79990,94435.64,14445.64,4,57782.55,15.3,8
 2025-09-28,22023,Green Jade,DarknessL,sell imps,260000,305263.05,45263.05,1,45263.05,14.83,5
 2025-09-28,26559,Cooked Crab,vnt4,Best Recover HP-SP/stuff Come,1999,2343.51,344.51,125,43063.62,14.7,5
 2025-09-28,29305,Ring of Destruction,AkameChan,Potion and Everything!,120000,140000.0,20000.0,1,20000.0,14.29,3
 2025-09-28,29305,Ring of Destruction,AkameChan,Potion and Everything!,120000,140000.0,20000.0,1,20000.0,14.29,3
 2025-09-28,30102,1000 Reputation Scroll,MatsBk,S>de wind/PPS/Dust/rep/fb/PBS,6900,8047.29,1147.29,66,75721.19,14.26,10
-2025-09-28,25431,Kal Runestone,Aois,STALL,1400000,1625000.0,225000.0,1,225000.0,13.85,3
 2025-09-28,30156,Jackpot Coin,CallMeBaby,ITEM CHEAP,8500,9838.83,1338.83,24,32131.8,13.61,12
 2025-09-28,25451,Jade Gem Fragment,FukPolice,GPS/jadefrg/pps/lbp/gemscheap/,82000,94435.64,12435.64,12,149227.64,13.17,8
 2025-09-28,30102,1000 Reputation Scroll,Saller,ty,7000,8047.29,1047.29,93,97398.03,13.01,10
@@ -136,12 +135,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,8997.76,998.76,200,199751.11,11.1,16
 2025-09-28,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,8997.76,998.76,103,102871.82,11.1,16
 2025-09-28,27020,Gold Pirate Scroll,xJavux,cheap,18900,21207.27,2307.27,12,27687.18,10.88,16
-2025-09-28,22014,Demonic Gem of Colossus,LotokSell,Demo Soul Demo Colos,2400000,2680000.0,280000.0,1,280000.0,10.45,4
+2025-09-28,25431,Kal Runestone,Aois,STALL,1400000,1566666.67,166666.67,1,166666.67,10.64,3
 2025-09-28,27020,Gold Pirate Scroll,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee,18999,21207.27,2208.27,52,114829.79,10.41,16
 2025-09-28,27020,Gold Pirate Scroll,Mikosita,SELL IMPS/GPS/REF/JACKPOT/PPS,18999,21207.27,2208.27,43,94955.4,10.41,16
 2025-09-28,27020,Gold Pirate Scroll,xTrueHistory,Jackp/GPS/PPS/RockGemFrag,19000,21207.27,2207.27,19,41938.04,10.41,16
 2025-09-28,30135,Demonic Rock,Disciplined1,CHEAPEST DemonicRock EnigmaPower,3999,4463.86,464.86,77,35794.42,10.41,6
 2025-09-28,27020,Gold Pirate Scroll,ezgoezgoezg1,sell bots,19000,21207.27,2207.27,12,26487.18,10.41,16
+2025-09-28,22014,Demonic Gem of Colossus,LotokSell,Demo Soul Demo Colos,2400000,2644444.44,244444.44,1,244444.44,9.24,3
 2025-09-28,26377,Pharaoh's Lantern,Sisifo,LANTERN/JADE/JACK/POTS/ROCK,6999,7698.71,699.71,30,20991.26,9.09,8
 2025-09-28,26377,Pharaoh's Lantern,Barya,P LANTERN|BULL|LION CHEAP!!!!!!!,7000,7698.71,698.71,136,95024.37,9.08,8
 2025-09-28,26377,Pharaoh's Lantern,Barya,P LANTERN|BULL|LION CHEAP!!!!!!!,7000,7698.71,698.71,88,61486.36,9.08,8
@@ -157,7 +157,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,28403,Blade of Incantation,Mikzx,Samekosaba,229999,249999.85,20000.85,1,20000.85,8.0,8
 2025-09-28,28403,Blade of Incantation,Mikzx,Samekosaba,229999,249999.85,20000.85,1,20000.85,8.0,8
 2025-09-28,26589,Potion of Bull,thewata,Cheap potions,1990,2162.58,172.58,200,34515.74,7.98,21
-2025-09-28,25431,Kal Runestone,PasarGelap,KAL / LV23 2ND AGI/ GREEN JD,1500000,1625000.0,125000.0,1,125000.0,7.69,3
 2025-09-28,27019,Purple Pirate Scroll,MiLD,r,4500,4869.34,369.34,99,36564.19,7.58,13
 2025-09-28,26589,Potion of Bull,Barya,P LANTERN|BULL|LION CHEAP!!!!!!!,2000,2162.58,162.58,171,27800.96,7.52,21
 2025-09-28,22010,Gem of Rage,TERY,CHEAP CRUS ITEMS <3,1899999,2049999.31,150000.31,1,150000.31,7.32,8
@@ -166,7 +165,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,26346,Lantern,Babi01,ty,5000,5383.97,383.97,110,42236.71,7.13,9
 2025-09-28,28429,Dance of Evanescence,xVENDORx,RUSH,1000000,1074500.0,74500.0,1,74500.0,6.93,3
 2025-09-28,28429,Dance of Evanescence,xVENDORx,RUSH,1000000,1074500.0,74500.0,1,74500.0,6.93,3
-2025-09-28,22014,Demonic Gem of Colossus,bankerrr,Bank Cleaning,2500000,2680000.0,180000.0,1,180000.0,6.72,4
 2025-09-28,26576,Iron Brew,Bankaquaq,Radiation/Brew/FB/Grenade/More,8499,9110.04,611.04,162,98988.33,6.71,5
 2025-09-28,26576,Iron Brew,Kais,Radiation/Brew/Moonrood,8499,9110.04,611.04,40,24441.56,6.71,5
 2025-09-28,26576,Iron Brew,Messrve,--------------------------------,8500,9110.04,610.04,47,28671.84,6.7,5
@@ -180,9 +178,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-28,27025,Radiation Lv1,SetSeller,cheapest itens in town,3200,3389.31,189.31,200,37862.76,5.59,8
 2025-09-28,27025,Radiation Lv1,SetSeller,cheapest itens in town,3200,3389.31,189.31,200,37862.76,5.59,8
 2025-09-28,25031,Refining Gem,Mikosita,SELL IMPS/GPS/REF/JACKPOT/PPS,8499,8997.76,498.76,189,94264.8,5.54,16
+2025-09-28,22014,Demonic Gem of Colossus,bankerrr,Bank Cleaning,2500000,2644444.44,144444.44,1,144444.44,5.46,3
 2025-09-28,26573,Demonic Potion,Messrve,--------------------------------,17500,18477.88,977.88,65,63562.5,5.29,7
 2025-09-28,22024,Purple Jade,xxD,45CLER+3/PURPJADE/SPRRING50/SHIN,900000,950000.0,50000.0,1,50000.0,5.26,3
 2025-09-28,26572,Inferno Potion,MUTAA,BANKAIII!!!!,9999,10516.56,517.56,96,49685.34,4.92,9
+2025-09-28,25431,Kal Runestone,PasarGelap,KAL / LV23 2ND AGI/ GREEN JD,1500000,1566666.67,66666.67,1,66666.67,4.26,3
 2025-09-28,26577,Cupid Brew,Nads,TOTEM COOKINGS ARE TRASH B HERE,42000,43602.94,1602.94,21,33661.76,3.68,3
 2025-09-28,30191,1000 Supporter Points Voucher,MrMarket,MANU BLESS SUPP POINTS,57000,58914.94,1914.94,40,76597.63,3.25,4
 2025-09-28,26572,Inferno Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,10200,10516.56,316.56,116,36720.46,3.01,9
