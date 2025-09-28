@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.92,28440,Fire Sealed Roar of Evanescence,10000,123750.0,4,1,NICE,garner
-90.53,25478,Carsise Hairstyle Book,200,2111.48,3,4,Khonsu,QUITTING
+90.92,25478,Carsise Hairstyle Book,200,2203.17,4,4,Khonsu,QUITTING
 90.18,22003,Glowing Gem,250,2545.06,13,67,hunterx,bp/fb/signet/repu/pots/gems
 87.88,28440,Fire Sealed Roar of Evanescence,15000,123750.0,4,1,Nixm,Lv50 Eqps
 86.11,28035,Solar Shield,5000,35999.6,5,1,Zekrom,CHEAPER U DONT Hget
@@ -17,7 +17,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.87,25212,Frozen Elixir,150,481.85,6,53,Heroes,SELL CHEAP
 68.36,28430,Fire Sealed Robe of Malediction,4999,15799.8,4,1,CallMeBaby,ITEM CHEAP
 68.14,28420,Earth Sealed Bow of Incantation,4500,14125.0,4,1,iLegolas,LBs PPs GPs RBs IC Jackpot +
-66.67,25477,Lance Hairstyle Book,10000,30000.0,3,1,Khonsu,QUITTING
 66.67,28444,Fire Sealed Bellow of Evanescence,5000,14999.75,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 66.32,25503,Magical Stone,385,1143.15,10,99,Spiritus,mvm/etc
 66.25,25258,Spirit Feather,250,740.73,9,90,sietemaridos,fairygrow auto jp mvm pots+
@@ -51,6 +50,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.89,28458,Ice Sealed Staff of the Sphinx,15000,35624.62,7,1,Electricman1,Jp MvM/gps/pps/demosoul/PhaGem
 57.89,28458,Ice Sealed Staff of the Sphinx,15000,35624.62,7,1,AoiTodo,Promotion
 57.46,26001,Ninja Coin,300,705.2,13,7,Kinyu,OMGGG
+57.25,25479,Phyllis Hairstyle Book,1000,2339.29,4,1,Khonsu,QUITTING
 56.3,22001,Furious Gem,999,2286.26,13,8,Bathroom,Gem  EXP  Sealed  Scrol
 56.26,22001,Furious Gem,1000,2286.26,13,1,LazzzyBee,CHEAPEST STALL IN THIS SERVER
 56.26,22001,Furious Gem,1000,2286.26,13,2,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
@@ -61,7 +61,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.55,28155,Steel Platemail,5000,11000.0,3,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 53.76,26589,Potion of Bull,1000,2162.58,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 53.46,26588,Potion of Eagle,1200,2578.59,17,1,Anuel,REDUCED PRICES!!!!!!!!!!!!!!!!!!
-53.15,25479,Phyllis Hairstyle Book,1000,2134.62,3,1,Khonsu,QUITTING
 53.09,26591,Potion of Lion,1200,2558.0,20,19,MiLD,r
 52.1,28432,Fire Sealed Staff of Mirage,5000,10438.7,7,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 51.74,28446,Fire Sealed Bow of Evanescence,14444,29930.25,6,1,LadyRizz,etc
