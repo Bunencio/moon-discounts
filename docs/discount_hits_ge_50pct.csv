@@ -1,6 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
+90.59,28440,Fire Sealed Roar of Evanescence,10000,106250.0,4,1,NICE,garner
 87.62,28404,Earth Sealed Robe of Abraxas,3444,27814.67,3,1,CallMeBaby,ITEM CHEAP
 86.11,28035,Solar Shield,5000,35999.6,5,1,Zekrom,CHEAPER U DONT Hget
+85.88,28440,Fire Sealed Roar of Evanescence,15000,106250.0,4,1,Nixm,Lv50 Eqps
 83.11,22001,Furious Gem,500,2959.89,14,1,LazzzyBee,CHEAP
 82.65,28456,Ice Sealed Robe of the Sphinx,5000,28814.67,6,1,xVENDORx,RUSH
 81.74,25477,Lance Hairstyle Book,4500,24642.86,3,3,VERTIGO,HAIR DYE COLORANT BOOK GEL SCISS
@@ -25,13 +27,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.59,28442,Fire Sealed Coat of Evanescence,5000,14532.2,7,1,bankerrr,Bank Cleaning
 65.3,25503,Magical Stone,400,1152.72,9,68,xVENDORx,RUSH
 65.22,28418,Earth Sealed Kiss of the Cursed,2000,5750.0,4,1,CaloNord,boe craft /gun 45
-64.78,28458,Ice Sealed Staff of the Sphinx,15000,42592.17,6,1,AoiTodo,Promotion
-64.78,28458,Ice Sealed Staff of the Sphinx,14999,42592.17,6,1,BjornIronside,SDSD
 64.43,26589,Potion of Bull,750,2108.53,21,1,Kinyu,TTT
 63.95,27000,Prosperous Packet,200,554.74,3,60,TuoTuo,Cleaning BANK
 62.38,26000,Sandy Coin,150,398.72,6,19,KillerSolo,dg coins and more help me please
 61.25,25071,Magical Oak Log,50,129.05,3,99,bruna99,mnsd
 61.25,25071,Magical Oak Log,50,129.05,3,55,bruna99,mnsd
+61.19,28458,Ice Sealed Staff of the Sphinx,15000,38650.43,6,1,AoiTodo,Promotion
+61.19,28458,Ice Sealed Staff of the Sphinx,15000,38650.43,6,1,Electricman1,MvM/PharaoGem/StormGloves+5spr
+61.19,28458,Ice Sealed Staff of the Sphinx,14999,38650.43,6,1,BjornIronside,SDSD
 60.66,22004,Shining Gem,1450,3685.56,11,72,hunterx,cheap stuff
 60.26,26591,Potion of Lion,1000,2516.17,20,1,TocoDeJegue,Very Cheap Apparel 60k
 60.03,25522,,100,250.21,4,44,xVENDORx,RUSH
@@ -62,4 +65,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.28,28432,Fire Sealed Staff of Mirage,5000,10055.44,6,1,VENDEDORAA,APP LANCE / GLOVES 60 CRUS / SM+
 50.28,28432,Fire Sealed Staff of Mirage,5000,10055.44,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 50.14,28466,Ice Sealed Judgment of Enigma,25000,50138.5,4,1,BjornIronside,SDSD
-50.0,28448,Fire Sealed Cloak of Evanescence,14999,29999.75,4,1,Pandemia,all u need...
