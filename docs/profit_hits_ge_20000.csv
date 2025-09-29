@@ -80,7 +80,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,25451,Jade Gem Fragment,STALLING11,GEMFRAG/POTS/JACKPOT COIN CHEAP,70000,92826.9,22826.9,1,22826.9,24.59,10
 2025-09-29,25451,Jade Gem Fragment,NALDOCANAL,IFOOD,70000,92826.9,22826.9,1,22826.9,24.59,10
 2025-09-29,25452,Rock Gem Fragment,xTrueHistory,RockGemFrag/Jackpot/GPS/PPS/LBS,90000,117509.88,27509.88,5,137549.39,23.41,10
-2025-09-29,30156,Jackpot Coin,STALLING11,GEMFRAG/POTS/JACKPOT COIN CHEAP,7500,9715.94,2215.94,80,177274.88,22.81,15
+2025-09-29,30156,Jackpot Coin,STALLING11,GEMFRAG/POTS/JACKPOT COIN CHEAP,7500,9665.73,2165.73,80,173258.71,22.41,15
 2025-09-29,22008,Gem of the Wind,xSnufx,wind/acc prt lvl 23,955555,1231110.8,275555.8,1,275555.8,22.38,3
 2025-09-29,28468,Ice Sealed Mantle of Enigma,RanqueS,Priceeee,69999,90073.67,20074.67,1,20074.67,22.29,3
 2025-09-29,25452,Rock Gem Fragment,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee,91999,117509.88,25510.88,1,25510.88,21.71,10
@@ -90,7 +90,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,25452,Rock Gem Fragment,Vanny,fragments bow scrolls coins fair,93000,117509.88,24509.88,1,24509.88,20.86,10
 2025-09-29,28421,Bow of Incantation,M0Nster,Items,85000,106412.71,21412.71,1,21412.71,20.12,7
 2025-09-29,26588,Potion of Eagle,Goblin4,GPS/REP/SKAT/ALL POTION@SO CHEAP,1999,2493.21,494.21,48,23721.84,19.82,17
-2025-09-29,30171,Ticket to Demonic World,ShowMaker,Cheapest tix,410,511.36,101.36,198,20068.88,19.82,9
 2025-09-29,26588,Potion of Eagle,zzzzz,zz,2000,2493.21,493.21,200,98641.01,19.78,17
 2025-09-29,25431,Kal Runestone,Aois,STALL,1400000,1741666.67,341666.67,1,341666.67,19.62,5
 2025-09-29,25451,Jade Gem Fragment,Online,garner,75000,92826.9,17826.9,10,178268.97,19.2,10
@@ -146,14 +145,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,27020,Gold Pirate Scroll,NALDOCANAL,IFOOD,19500,21449.11,1949.11,17,33134.88,9.09,14
 2025-09-29,28411,Staff of Incantation,CHEAPSTALL,CLERIC ITEMS SEALED/SS BOW 45,205000,225000.0,20000.0,1,20000.0,8.89,3
 2025-09-29,22014,Demonic Gem of Colossus,LotokSell,Demo Soul Demo Colos,2400000,2630000.0,230000.0,1,230000.0,8.75,3
-2025-09-29,30156,Jackpot Coin,Vanny,fragments bow scrolls coins fair,8888,9715.94,827.94,41,33945.37,8.52,15
+2025-09-29,30156,Jackpot Coin,Vanny,fragments bow scrolls coins fair,8888,9665.73,777.73,41,31887.09,8.05,15
 2025-09-29,26576,Iron Brew,F0X01,Iron Brew Best Price EVER,8350,9038.71,688.71,41,28237.07,7.62,7
-2025-09-29,30156,Jackpot Coin,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,8990,9715.94,725.94,62,45008.03,7.47,15
-2025-09-29,30156,Jackpot Coin,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee,8999,9715.94,716.94,68,48751.65,7.38,15
+2025-09-29,30156,Jackpot Coin,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,8990,9665.73,675.73,62,41895.5,6.99,15
+2025-09-29,30156,Jackpot Coin,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee,8999,9665.73,666.73,68,45337.9,6.9,15
+2025-09-29,27019,Purple Pirate Scroll,PpsBps,PURPLE PIRATE SCROLL AND PBS,4397,4722.72,325.72,79,25732.24,6.9,14
 2025-09-29,27020,Gold Pirate Scroll,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,19990,21449.11,1459.11,37,53987.08,6.8,14
 2025-09-29,27020,Gold Pirate Scroll,MiLD,r,20000,21449.11,1449.11,51,73904.63,6.76,14
 2025-09-29,28429,Dance of Evanescence,TERY,Cheap 2nd gen str/AOE/DOE/str60ring/app,1099000,1177666.56,78666.56,1,78666.56,6.68,6
-2025-09-29,27019,Purple Pirate Scroll,PpsBps,PURPLE PIRATE SCROLL AND PBS,4397,4711.95,314.95,79,24880.81,6.68,15
 2025-09-29,28429,Dance of Evanescence,Fun,Sword Crus Cheap,1100000,1177666.56,77666.56,1,77666.56,6.59,6
 2025-09-29,26576,Iron Brew,Bankaquaq,Radiation/Brew/Poison/FB/Grenade,8450,9038.71,588.71,189,111266.02,6.51,7
 2025-09-29,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3399,3635.52,236.52,91,21523.64,6.51,4
@@ -166,12 +165,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,27025,Radiation Lv1,MrMarket,MANU BLESS SUPPORT POINTS,3100,3263.14,163.14,200,32627.32,5.0,6
 2025-09-29,22014,Demonic Gem of Colossus,ShowerBro,afk,2500000,2630000.0,130000.0,1,130000.0,4.94,3
 2025-09-29,22014,Demonic Gem of Colossus,bankerrr,Bank Cleaning,2500000,2630000.0,130000.0,1,130000.0,4.94,3
+2025-09-29,27019,Purple Pirate Scroll,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50,4499,4722.72,223.72,99,22148.73,4.74,14
+2025-09-29,27019,Purple Pirate Scroll,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50,4499,4722.72,223.72,99,22148.73,4.74,14
+2025-09-29,27019,Purple Pirate Scroll,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50,4499,4722.72,223.72,99,22148.73,4.74,14
+2025-09-29,27019,Purple Pirate Scroll,MiLD,r,4500,4722.72,222.72,99,22049.73,4.72,14
 2025-09-29,28454,Ice Sealed Blade of Enigma,zxcTONYzxc,3 slot crus EQ  Blessed Rune,410000,430000.0,20000.0,1,20000.0,4.65,4
 2025-09-29,28454,Ice Sealed Blade of Enigma,zxcTONYzxc,3 slot crus EQ  Blessed Rune,410000,430000.0,20000.0,1,20000.0,4.65,4
-2025-09-29,27019,Purple Pirate Scroll,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50,4499,4711.95,212.95,99,21081.75,4.52,15
-2025-09-29,27019,Purple Pirate Scroll,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50,4499,4711.95,212.95,99,21081.75,4.52,15
-2025-09-29,27019,Purple Pirate Scroll,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50,4499,4711.95,212.95,99,21081.75,4.52,15
-2025-09-29,27019,Purple Pirate Scroll,MiLD,r,4500,4711.95,211.95,99,20982.75,4.5,15
 2025-09-29,26572,Inferno Potion,MUTAA,BANKAIII!!!!,9999,10447.48,448.48,58,26011.63,4.29,8
 2025-09-29,26577,Cupid Brew,Nads,TOTEM COOKINGS ARE TRASH B HERE,42000,43732.14,1732.14,21,36375.0,3.96,3
 2025-09-29,26571,Warlord Potion,MadeInChina,INFERNO/WARLORD/GUARDIAN/ENCHANT,3400,3525.76,125.76,200,25152.56,3.57,9
