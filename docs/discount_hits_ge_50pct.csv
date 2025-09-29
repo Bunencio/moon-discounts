@@ -2,14 +2,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 94.12,28327,Great Aqua Cap,40000,679999.67,3,1,smoI,hats at 50% price
 92.49,25439,Incantation Stone,100,1331.25,5,1,LazzzyBee,CHEAP
 91.92,28440,Fire Sealed Roar of Evanescence,10000,123750.0,4,1,NICE,garner
-90.92,25478,Carsise Hairstyle Book,200,2203.17,4,4,Khonsu,QUITTING
+90.53,25478,Carsise Hairstyle Book,200,2111.48,3,4,Khonsu,QUITTING
 90.47,22003,Glowing Gem,250,2622.15,11,65,hunterx,bp/fb/signet/repu/pots/gems
 87.88,28440,Fire Sealed Roar of Evanescence,15000,123750.0,4,1,Nixm,Lv50 Eqps
 87.62,28404,Earth Sealed Robe of Abraxas,3444,27814.67,3,1,CallMeBaby,ITEM CHEAP
 86.11,28035,Solar Shield,5000,35999.6,5,1,Zekrom,CHEAPER U DONT Hget
 80.14,25505,Standard Stone,500,2517.8,5,3,xxAstaxx,DARK PLUM
 79.56,25493,Orange Colorant,500,2446.43,4,2,cheapstuffsell,cheap
-79.01,22001,Furious Gem,500,2382.05,14,1,LazzzyBee,CHEAP
+79.08,22001,Furious Gem,500,2389.57,13,1,LazzzyBee,CHEAP
 78.65,25440,Evanescence Stone,190,890.05,7,87,hunterx,bp/fb/signet/repu/pots/gems
 77.05,25258,Spirit Feather,200,871.31,8,28,bruna99,mnsd
 77.05,25258,Spirit Feather,200,871.31,8,53,LunaMaya,S>PBS RBS LambSkull FairyFood
@@ -31,7 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.21,28466,Ice Sealed Judgment of Enigma,15000,43110.8,5,1,XiXi0n,cheap cheap cheap cheap cheap
 64.47,22000,FieryGem,1999,5626.2,11,11,Caiser,cheap cruz items
 63.92,26588,Potion of Eagle,900,2494.74,17,5,xVENDOR1x,RUSH
-62.72,22001,Furious Gem,888,2382.05,14,51,hunterx,bp/fb/signet/repu/pots/gems
+62.84,22001,Furious Gem,888,2389.57,13,51,hunterx,bp/fb/signet/repu/pots/gems
 62.56,29013,Novice 15 Treasure Hunting EXP Card,499,1332.67,3,1,Bathroom,Gem  EXP  Sealed  Scrol
 62.44,25439,Incantation Stone,500,1331.25,5,1,pisslow,Selll Freeeeeeeeeeeeeeeeeee >><<
 62.44,25439,Incantation Stone,500,1331.25,5,1,vendedolmax,2000
@@ -56,12 +56,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.09,28456,Ice Sealed Robe of the Sphinx,10000,24444.25,4,1,xVENDORx,RUSH
 58.89,25522,,50,121.62,7,41,loyalty1,sssssssssssss
 58.55,25503,Magical Stone,400,965.04,13,10,xVENDORx,RUSH
-58.06,22001,Furious Gem,999,2382.05,14,8,Bathroom,Gem  EXP  Sealed  Scrol
-58.02,22001,Furious Gem,1000,2382.05,14,1,CoroaDaPoshe,SELL PURPLE BP/ GENS
-57.25,25479,Phyllis Hairstyle Book,1000,2339.29,4,1,Khonsu,QUITTING
+58.19,22001,Furious Gem,999,2389.57,13,8,Bathroom,Gem  EXP  Sealed  Scrol
 57.25,26001,Ninja Coin,300,701.8,10,1,GrudgE,Ss
 55.56,28212,Priestly Robe,5000,11250.0,3,1,Skebedep,items
 54.55,28155,Steel Platemail,5000,11000.0,3,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
+53.15,25479,Phyllis Hairstyle Book,1000,2134.62,3,1,Khonsu,QUITTING
 52.97,26589,Potion of Bull,1000,2126.49,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
 51.9,26588,Potion of Eagle,1200,2494.74,17,2,Anuel,KAL | Armor of Enigma | JadeFrag
 51.86,25495,Green Colorant,1800,3739.29,3,3,pisslow,Selll Freeeeeeeeeeeeeeeeeee >><<
