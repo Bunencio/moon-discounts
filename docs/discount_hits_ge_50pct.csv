@@ -1,6 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-96.36,26564,Meditation Potion,35,961.77,3,9,Godsky,sell
-94.8,26564,Meditation Potion,50,961.77,3,15,Skills,Free     Free     Free     Free
 94.12,28327,Great Aqua Cap,40000,679999.67,3,1,smoI,hats at 50% price
 92.49,25439,Incantation Stone,100,1331.25,5,1,LazzzyBee,CHEAP
 91.92,28440,Fire Sealed Roar of Evanescence,10000,123750.0,4,1,NICE,garner
@@ -32,7 +30,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.38,28444,Fire Sealed Bellow of Evanescence,5000,14444.22,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 65.21,28466,Ice Sealed Judgment of Enigma,15000,43110.8,5,1,XiXi0n,cheap cheap cheap cheap cheap
 64.47,22000,FieryGem,1999,5626.2,11,11,Caiser,cheap cruz items
-63.97,26588,Potion of Eagle,900,2498.05,17,5,xVENDOR1x,RUSH
+63.92,26588,Potion of Eagle,900,2494.74,17,5,xVENDOR1x,RUSH
 62.72,22001,Furious Gem,888,2382.05,14,51,hunterx,bp/fb/signet/repu/pots/gems
 62.56,29013,Novice 15 Treasure Hunting EXP Card,499,1332.67,3,1,Bathroom,Gem  EXP  Sealed  Scrol
 62.44,25439,Incantation Stone,500,1331.25,5,1,pisslow,Selll Freeeeeeeeeeeeeeeeeee >><<
@@ -49,10 +47,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.28,25505,Standard Stone,1000,2517.8,5,3,loyalty1,sssssssssssss
 60.11,25503,Magical Stone,385,965.04,13,69,Spiritus,mvm/etc
 60.0,28411,Staff of Incantation,75000,187500.0,4,1,NickBickDigger,cheap
-59.97,26588,Potion of Eagle,1000,2498.05,17,19,STALLING11,GEMFRAG/POTS/JACKPOT COIN CHEAP
+59.92,26588,Potion of Eagle,1000,2494.74,17,19,STALLING11,GEMFRAG/POTS/JACKPOT COIN CHEAP
 59.83,25258,Spirit Feather,350,871.31,8,6,SCORPION21,COME TO THE STORE
 59.71,25522,,49,121.62,7,11,TagBaligya,500Rep=10imps
-59.48,26591,Potion of Lion,1000,2467.91,20,16,STALLING11,GEMFRAG/POTS/JACKPOT COIN CHEAP
+59.41,26591,Potion of Lion,1000,2463.94,20,16,STALLING11,GEMFRAG/POTS/JACKPOT COIN CHEAP
 59.12,29058,20 Crafting EXP Card,1000,2446.25,4,1,Commerce,ww3
 59.12,29058,20 Crafting EXP Card,1000,2446.25,4,1,Wallnut,Corner Shop
 59.09,28456,Ice Sealed Robe of the Sphinx,10000,24444.25,4,1,xVENDORx,RUSH
@@ -64,10 +62,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.25,26001,Ninja Coin,300,701.8,10,1,GrudgE,Ss
 55.56,28212,Priestly Robe,5000,11250.0,3,1,Skebedep,items
 54.55,28155,Steel Platemail,5000,11000.0,3,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
-53.11,26589,Potion of Bull,1000,2132.49,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
-51.96,26588,Potion of Eagle,1200,2498.05,17,2,Anuel,KAL | Armor of Enigma | JadeFrag
+52.97,26589,Potion of Bull,1000,2126.49,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
+51.9,26588,Potion of Eagle,1200,2494.74,17,2,Anuel,KAL | Armor of Enigma | JadeFrag
 51.86,25495,Green Colorant,1800,3739.29,3,3,pisslow,Selll Freeeeeeeeeeeeeeeeeee >><<
-51.38,26591,Potion of Lion,1200,2467.91,20,19,MiLD,r
+51.3,26591,Potion of Lion,1200,2463.94,20,19,MiLD,r
 50.62,28428,Fire Sealed Dance of Evanescence,20000,40499.88,6,1,LazzzyBee,CHEAP
 50.07,28446,Fire Sealed Bow of Evanescence,14000,28039.09,10,1,bowstalls,6acc1agi ss boot/40-50-60-65gear
 50.0,28418,Earth Sealed Kiss of the Cursed,3000,6000.0,4,1,CaloNord,ss  armor gun
