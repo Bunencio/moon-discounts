@@ -32,7 +32,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,22000,FieryGem,GEm01,UP Gears,3000,5626.2,2626.2,25,65654.91,46.68,11
 2025-09-29,28411,Staff of Incantation,ImNotPino,45 UNS SEAL CLERIC,120000,225000.0,105000.0,1,105000.0,46.67,3
 2025-09-29,26589,Potion of Bull,MiLD,r,1200,2117.0,917.0,86,78862.34,43.32,22
-2025-09-29,26326,Elven Royal Signet,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,1299,2289.3,990.3,167,165380.4,43.26,7
+2025-09-29,26326,Elven Royal Signet,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,1299,2279.96,980.96,167,163820.09,43.03,8
 2025-09-29,27014,Moonroot Wine,ChocolateDaddy,Supplies! New Prices! Enjoy,500,871.79,371.79,99,36806.81,42.65,12
 2025-09-29,22003,Glowing Gem,Look7,TY,1500,2596.62,1096.62,79,86632.7,42.23,14
 2025-09-29,22003,Glowing Gem,011,bank cleaning,1500,2596.62,1096.62,20,21932.33,42.23,14
@@ -43,7 +43,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,28462,Ice Sealed Staff of Enigma,zxcTONYzxc,3 slot crus EQ  Blessed Rune,45000,74022.2,29022.2,1,29022.2,39.21,5
 2025-09-29,25258,Spirit Feather,tiendaonline,offer offer offer,499,817.86,318.86,99,31566.84,38.99,9
 2025-09-29,25258,Spirit Feather,UnitX99,PPS/quest items,500,817.86,317.86,67,21296.41,38.86,9
-2025-09-29,26001,Ninja Coin,FARMBR,sell,450,731.26,281.26,99,27844.46,38.46,11
+2025-09-29,26001,Ninja Coin,FARMBR,sell,450,730.57,280.57,99,27776.8,38.4,12
 2025-09-29,28421,Bow of Incantation,CHEAPSTALL,CLERIC ITEMS SEALED/SS BOW 45,66001,106412.71,40411.71,1,40411.71,37.98,7
 2025-09-29,22000,FieryGem,GABRAS,2KREP/ IMPS/GEMS CHEAP !,3500,5626.2,2126.2,10,21261.96,37.79,11
 2025-09-29,28476,Ice Sealed Kris of the Sphinx,CrackHead,ALMOST 4 FREE,45000,71142.86,26142.86,1,26142.86,36.75,6
@@ -53,7 +53,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,25506,Expert Scroll,EvolutionPet,CHEAP EVOLUTION LOOT!,1000,1540.92,540.92,59,31914.17,35.1,3
 2025-09-29,25506,Expert Scroll,EvolutionPet,CHEAP EVOLUTION LOOT!,1000,1540.92,540.92,59,31914.17,35.1,3
 2025-09-29,27014,Moonroot Wine,F0X01,Iron Brew Best Price EVER,570,871.79,301.79,109,32894.67,34.62,12
-2025-09-29,26326,Elven Royal Signet,Ankhseram,Hairstyle item cheap,1500,2289.3,789.3,42,33150.67,34.48,7
+2025-09-29,26326,Elven Royal Signet,Ankhseram,Hairstyle item cheap,1500,2279.96,779.96,42,32758.26,34.21,8
 2025-09-29,28462,Ice Sealed Staff of Enigma,xJavux,cheap,50000,74022.2,24022.2,1,24022.2,32.45,5
 2025-09-29,25477,Lance Hairstyle Book,Ankhseram,Hairstyle item cheap,9999,14761.14,4762.14,16,76194.29,32.26,4
 2025-09-29,28474,Ice Sealed Mantle of the Sphinx,BjornIronside,SDSD,49999,73333.0,23334.0,1,23334.0,31.82,4
@@ -76,14 +76,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,30102,1000 Reputation Scroll,Aois,STALL,6000,8032.83,2032.83,15,30492.46,25.31,8
 2025-09-29,28421,Bow of Incantation,Nikoz,Selling Crap,80000,106412.71,26412.71,1,26412.71,24.82,7
 2025-09-29,25452,Rock Gem Fragment,xTrueHistory,RockGemFrag/Jackpot/GPS/PPS/LBS,90000,117509.88,27509.88,5,137549.39,23.41,10
+2025-09-29,30156,Jackpot Coin,STALLING11,GEMFRAG/POTS/JACKPOT COIN CHEAP,7500,9666.03,2166.03,80,173282.49,22.41,16
 2025-09-29,22008,Gem of the Wind,xSnufx,wind/acc prt lvl 23,955555,1231110.8,275555.8,1,275555.8,22.38,3
 2025-09-29,28468,Ice Sealed Mantle of Enigma,RanqueS,Priceeee,69999,90073.67,20074.67,1,20074.67,22.29,3
-2025-09-29,30156,Jackpot Coin,STALLING11,GEMFRAG/POTS/JACKPOT COIN CHEAP,7500,9641.84,2141.84,80,171347.08,22.21,16
 2025-09-29,25508,Demonic Gem Fragment,Rambo,SALE!!!,90000,114999.33,24999.33,3,74998.0,21.74,4
 2025-09-29,25452,Rock Gem Fragment,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee,91999,117509.88,25510.88,1,25510.88,21.71,10
 2025-09-29,28401,Platemail of the Cursed Soul,batcat,123,110000,140000.0,30000.0,1,30000.0,21.43,3
-2025-09-29,26326,Elven Royal Signet,MatsBk,S>PPS/PBS/REP/fairy dust,1800,2289.3,489.3,74,36208.33,21.37,7
 2025-09-29,26346,Lantern,Messrve,<>>>>><><<<<<>   POTSSSSSSSSSSSS,4000,5084.76,1084.76,24,26034.31,21.33,9
+2025-09-29,26326,Elven Royal Signet,MatsBk,S>PPS/PBS/REP/fairy dust,1800,2279.96,479.96,74,35516.94,21.05,8
 2025-09-29,25452,Rock Gem Fragment,Vanny,fragments bow scrolls coins fair,93000,117509.88,24509.88,1,24509.88,20.86,10
 2025-09-29,28421,Bow of Incantation,M0Nster,Items,85000,106412.71,21412.71,1,21412.71,20.12,7
 2025-09-29,26588,Potion of Eagle,Goblin4,GPS/REP/SKAT/ALL POTION@SO CHEAP,1999,2493.21,494.21,48,23721.84,19.82,17
@@ -115,7 +115,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,25452,Rock Gem Fragment,DoaaPepa,D O N    P E P E,100000,117509.88,17509.88,2,35019.76,14.9,10
 2025-09-29,30102,1000 Reputation Scroll,MatsBk,S>PPS/PBS/REP/fairy dust,6899,8032.83,1133.83,66,74832.82,14.11,8
 2025-09-29,25431,Kal Runestone,PasarGelap,KAL / LV23 2ND AGI/ GREEN JD,1500000,1730000.0,230000.0,1,230000.0,13.29,4
-2025-09-29,27006,Bunny Potion,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,987,1138.2,151.2,177,26762.03,13.28,6
+2025-09-29,27006,Bunny Potion,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,987,1135.92,148.92,177,26359.27,13.11,6
 2025-09-29,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/PPS,3999,4597.18,598.18,99,59219.55,13.01,13
 2025-09-29,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/PPS,3999,4597.18,598.18,99,59219.55,13.01,13
 2025-09-29,27019,Purple Pirate Scroll,Mikosita,SELL JACKPOT/GPS/REF/PPS,3999,4597.18,598.18,61,36488.82,13.01,13
@@ -123,7 +123,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,26002,Pharaoh Gem,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,1390,1593.34,203.34,99,20130.35,12.76,14
 2025-09-29,27020,Gold Pirate Scroll,Commerce,ww3,18700,21409.97,2709.97,22,59619.44,12.66,14
 2025-09-29,27020,Gold Pirate Scroll,xJavux,cheap,18800,21409.97,2609.97,18,46979.54,12.19,14
-2025-09-29,26592,Flash Bomb,Bankaquaq,Radiation/Brew/Poison/FB/Grenade,849,965.59,116.59,180,20986.33,12.07,8
+2025-09-29,26592,Flash Bomb,Bankaquaq,Radiation/Brew/Poison/FB/Grenade,849,964.63,115.63,180,20814.29,11.99,9
 2025-09-29,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,9061.74,1062.74,200,212547.43,11.73,16
 2025-09-29,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,9061.74,1062.74,178,189167.21,11.73,16
 2025-09-29,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,9061.74,1062.74,103,109461.93,11.73,16
@@ -148,11 +148,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-29,28411,Staff of Incantation,CHEAPSTALL,CLERIC ITEMS SEALED/SS BOW 45,205000,225000.0,20000.0,1,20000.0,8.89,3
 2025-09-29,22014,Demonic Gem of Colossus,LotokSell,Demo Soul Demo Colos,2400000,2630000.0,230000.0,1,230000.0,8.75,3
 2025-09-29,25451,Jade Gem Fragment,FukPolice,GPS/jadefrg/pps/lbp/gemscheap/,82000,89764.12,7764.12,12,93169.41,8.65,11
-2025-09-29,30156,Jackpot Coin,Vanny,fragments bow scrolls coins fair,8888,9641.84,753.84,41,30907.38,7.82,16
+2025-09-29,30156,Jackpot Coin,Vanny,fragments bow scrolls coins fair,8888,9666.03,778.03,41,31899.28,8.05,16
 2025-09-29,26576,Iron Brew,F0X01,Iron Brew Best Price EVER,8350,9038.71,688.71,41,28237.07,7.62,7
-2025-09-29,30156,Jackpot Coin,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,8990,9641.84,651.84,62,40413.99,6.76,16
+2025-09-29,30156,Jackpot Coin,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,8990,9666.03,676.03,62,41913.93,6.99,16
+2025-09-29,30156,Jackpot Coin,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee,8999,9666.03,667.03,68,45358.12,6.9,16
 2025-09-29,28429,Dance of Evanescence,TERY,Cheap 2nd gen str/AOE/DOE/str60ring/app,1099000,1177666.56,78666.56,1,78666.56,6.68,6
-2025-09-29,30156,Jackpot Coin,pisslow,sell freeeeeeeeeeeeeeeeeeeeeeeee,8999,9641.84,642.84,68,43713.02,6.67,16
 2025-09-29,27020,Gold Pirate Scroll,dogdogdog,GPS.JPs.Phara.Purse.Jade.Rock+++,19990,21409.97,1419.97,37,52539.05,6.63,14
 2025-09-29,28429,Dance of Evanescence,Fun,Sword Crus Cheap,1100000,1177666.56,77666.56,1,77666.56,6.59,6
 2025-09-29,27020,Gold Pirate Scroll,MiLD,r,20000,21409.97,1409.97,51,71908.7,6.59,14
