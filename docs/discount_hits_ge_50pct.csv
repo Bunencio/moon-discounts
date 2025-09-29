@@ -1,13 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-95.73,25439,Incantation Stone,100,2341.65,7,1,LazzzyBee,CHEAP
 87.62,28404,Earth Sealed Robe of Abraxas,3444,27814.67,3,1,CallMeBaby,ITEM CHEAP
 86.11,28035,Solar Shield,5000,35999.6,5,1,Zekrom,CHEAPER U DONT Hget
 83.11,22001,Furious Gem,500,2959.89,14,1,LazzzyBee,CHEAP
 82.65,28456,Ice Sealed Robe of the Sphinx,5000,28814.67,6,1,xVENDORx,RUSH
-82.0,26001,Ninja Coin,111,616.63,8,4,cudecachorro2,CLERIC ITENS|IMPS !!!!!!!!!!
 81.74,25477,Lance Hairstyle Book,4500,24642.86,3,3,VERTIGO,HAIR DYE COLORANT BOOK GEL SCISS
-78.65,25439,Incantation Stone,500,2341.65,7,1,vendedolmax,2000
-78.65,25439,Incantation Stone,500,2341.65,7,6,DingDong,Sealed 60|Green Statue|Potions
+81.33,26001,Ninja Coin,111,594.41,9,4,cudecachorro2,CLERIC ITENS|IMPS !!!!!!!!!!
+78.81,25439,Incantation Stone,500,2359.44,6,1,vendedolmax,2000
+78.81,25439,Incantation Stone,500,2359.44,6,6,DingDong,Sealed 60|Green Statue|Potions
 73.68,28128,Warmth of the Cleric,25000,95000.0,3,1,smoI,hats at 50% price
 72.99,25494,Yellow Colorant.,1000,3701.87,5,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 72.97,22001,Furious Gem,800,2959.89,14,36,hunterx,cheap stuff
@@ -41,6 +40,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.9,26590,Potion of Soul,1000,2493.54,11,1,TocoDeJegue,Very Cheap Apparel 60k
 58.89,25499,Purple Colorant,1000,2432.43,3,3,CaloNord,boe craft /gun 45
 58.8,25258,Spirit Feather,195,473.29,6,42,Meguminn,EXPLOOOOOSIOOONN!!!
+58.26,2301,,11123,26648.72,7,1,Kurozumi,botting im watching you!
 57.74,25258,Spirit Feather,200,473.29,6,13,bruna99,mnsd
 57.74,25258,Spirit Feather,200,473.29,6,9,LunaMaya,S>PBS RBS LambSkull FairyFood
 57.55,28408,Earth Sealed Coat of Invocation,5000,11777.6,5,1,OsToWBaby,UG STRIKING | 40-50-60 SEALED
@@ -50,7 +50,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.3,26591,Potion of Lion,1150,2516.17,20,14,hunterx,cheap stuff
 53.87,22003,Glowing Gem,1400,3034.62,11,10,vendedolmax,2000
 53.13,25496,Cyan Colorant.,1800,3840.48,3,1,pisslow,Selll Freeeeeeeeeeeeeeeeeeeeeeee
-52.55,25439,Incantation Stone,1111,2341.65,7,99,Look7,TY
+52.91,25439,Incantation Stone,1111,2359.44,6,99,Look7,TY
 52.31,26591,Potion of Lion,1200,2516.17,20,14,MiLD,r
 52.31,28421,Bow of Incantation,58888,123472.0,4,1,INeedADollar,cheaaap
 52.29,25503,Magical Stone,550,1152.72,9,99,JunoJuno,Cheap
@@ -62,5 +62,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.32,26591,Potion of Lion,1250,2516.17,20,2,Anuel,KAL | Armor of Enigma | JadeFrag
 50.28,28432,Fire Sealed Staff of Mirage,5000,10055.44,6,1,VENDEDORAA,APP LANCE / GLOVES 60 CRUS / SM+
 50.28,28432,Fire Sealed Staff of Mirage,5000,10055.44,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
-50.14,28466,Ice Sealed Judgment of Enigma,25000,50138.5,4,1,BjornIronside,SDSD
 50.0,28448,Fire Sealed Cloak of Evanescence,14999,29999.75,4,1,Pandemia,all u need...
