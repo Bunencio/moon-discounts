@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-94.12,28327,Great Aqua Cap,40000,679999.67,3,1,smoI,hats at 50% price
 92.49,25439,Incantation Stone,100,1331.25,5,1,LazzzyBee,CHEAP
 91.92,28440,Fire Sealed Roar of Evanescence,10000,123750.0,4,1,NICE,garner
 91.19,22003,Glowing Gem,250,2838.17,12,35,hunterx,bp/fb/signet/repu/pots/gems
@@ -7,7 +6,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.88,28440,Fire Sealed Roar of Evanescence,15000,123750.0,4,1,Nixm,Lv50 Eqps
 87.62,28404,Earth Sealed Robe of Abraxas,3444,27814.67,3,1,CallMeBaby,ITEM CHEAP
 86.11,28035,Solar Shield,5000,35999.6,5,1,Zekrom,CHEAPER U DONT Hget
-82.75,22001,Furious Gem,500,2898.84,15,1,LazzzyBee,CHEAP
+82.76,22001,Furious Gem,500,2899.66,15,1,LazzzyBee,CHEAP
 80.14,25505,Standard Stone,500,2517.8,5,3,xxAstaxx,DARK PLUM
 79.42,25493,Orange Colorant,500,2429.41,5,2,cheapstuffsell,cheap
 78.65,25440,Evanescence Stone,190,890.05,7,87,hunterx,bp/fb/signet/repu/pots/gems
@@ -18,25 +17,25 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.21,25212,Frozen Elixir,99,383.93,5,11,SCORPION21,COME TO THE STORE
 73.95,25212,Frozen Elixir,100,383.93,5,2,Lane,ORE/FROZE ELIXIR/FIRE SEED
 73.94,25494,Yellow Colorant.,1000,3836.73,4,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
-73.75,25503,Magical Stone,300,1142.68,13,3,loyalty1,sssssssssssss
+72.89,25503,Magical Stone,300,1106.55,14,3,loyalty1,sssssssssssss
 72.41,28410,Earth Sealed Staff of Incantation,4000,14499.75,3,1,lRivotriLl,gems more
 72.41,28410,Earth Sealed Staff of Incantation,4000,14499.75,3,1,PWVoy,Cheap Eartd Sealed EQ   Pet
 72.22,28035,Solar Shield,9999,35999.6,5,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
-69.37,22001,Furious Gem,888,2898.84,15,51,hunterx,bp/fb/signet/repu/pots/gems
+69.38,22001,Furious Gem,888,2899.66,15,51,hunterx,bp/fb/signet/repu/pots/gems
 68.36,28430,Fire Sealed Robe of Malediction,4999,15799.8,4,1,CallMeBaby,ITEM CHEAP
 66.67,30117,Rose,100,300.0,3,2,Carmens,<Cheap iron   wood and other>
-66.31,25503,Magical Stone,385,1142.68,13,69,Spiritus,mvm/etc
 66.11,30121,Vial of Accuracy Reset,2000,5900.85,7,4,Yennefer,GPS PBS LBS JADE CLOUD EXPSTONE
 65.91,26594,Novice Explosive Ball,100,293.36,4,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 65.91,26594,Novice Explosive Ball,100,293.36,4,2,GrudgE,Ss
 65.59,28442,Fire Sealed Coat of Evanescence,5000,14532.2,7,1,bankerrr,Bank Cleaning
-65.54,22001,Furious Gem,999,2898.84,15,8,Bathroom,Gem  EXP  Sealed  Scrol
-65.5,22001,Furious Gem,1000,2898.84,15,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+65.55,22001,Furious Gem,999,2899.66,15,8,Bathroom,Gem  EXP  Sealed  Scrol
+65.51,22001,Furious Gem,1000,2899.66,15,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 65.5,26588,Potion of Eagle,900,2608.35,17,5,xVENDOR1x,RUSH
 65.38,28444,Fire Sealed Bellow of Evanescence,5000,14444.22,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
+65.21,25503,Magical Stone,385,1106.55,14,69,Spiritus,mvm/etc
 65.21,28466,Ice Sealed Judgment of Enigma,15000,43110.8,5,1,XiXi0n,cheap cheap cheap cheap cheap
-64.99,25503,Magical Stone,400,1142.68,13,10,xVENDORx,RUSH
 64.77,22003,Glowing Gem,1000,2838.17,12,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+63.85,25503,Magical Stone,400,1106.55,14,10,xVENDORx,RUSH
 62.56,29013,Novice 15 Treasure Hunting EXP Card,499,1332.67,3,1,Bathroom,Gem  EXP  Sealed  Scrol
 62.44,25439,Incantation Stone,500,1331.25,5,1,pisslow,Selll Freeeeeeeeeeeeeeeeeee >><<
 62.44,25439,Incantation Stone,500,1331.25,5,1,vendedolmax,2000
@@ -54,25 +53,23 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.28,25505,Standard Stone,1000,2517.8,5,3,loyalty1,sssssssssssss
 59.83,25258,Spirit Feather,350,871.31,8,6,SCORPION21,COME TO THE STORE
 59.71,25522,,49,121.62,7,11,TagBaligya,500Rep=10imps
+59.42,29058,20 Crafting EXP Card,1000,2464.11,5,1,Commerce,ww3
 59.09,28456,Ice Sealed Robe of the Sphinx,10000,24444.25,4,1,xVENDORx,RUSH
 58.89,25522,,50,121.62,7,41,loyalty1,sssssssssssss
 58.84,25493,Orange Colorant,1000,2429.41,5,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
-58.6,22001,Furious Gem,1200,2898.84,15,8,Kiara,TAKE A LOOK!!!!
-58.57,29058,20 Crafting EXP Card,1000,2413.62,5,1,Commerce,ww3
-58.57,29058,20 Crafting EXP Card,1000,2413.62,5,1,Wallnut,Corner Shop
+58.62,22001,Furious Gem,1200,2899.66,15,8,Kiara,TAKE A LOOK!!!!
 57.25,26001,Ninja Coin,300,701.8,10,1,GrudgE,Ss
 55.56,28212,Priestly Robe,5000,11250.0,3,1,Skebedep,items
 54.55,28155,Steel Platemail,5000,11000.0,3,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 53.99,26588,Potion of Eagle,1200,2608.35,17,2,Anuel,KAL | Armor of Enigma | JadeFrag
 53.15,25479,Phyllis Hairstyle Book,1000,2134.62,3,1,Khonsu,QUITTING
-53.11,26589,Potion of Bull,1000,2132.75,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
-52.09,26591,Potion of Lion,1200,2504.69,20,14,MiLD,r
+53.07,26589,Potion of Bull,1000,2131.03,21,7,JackSparroow,1K STORE 1K STORE 1K STORE 1K ST
+51.97,26591,Potion of Lion,1200,2498.39,20,14,MiLD,r
 51.86,25495,Green Colorant,1800,3739.29,3,3,pisslow,Selll Freeeeeeeeeeeeeeeeeee >><<
 51.86,28436,Fire Sealed Staff of Evanescence,11500,23888.33,5,1,bowstalls,6acc1agi ss boot/40-50-60-65gear
 51.86,28436,Fire Sealed Staff of Evanescence,11500,23888.33,5,1,bowstalls,6acc1agi ss boot/40-50-60-65gear
 50.67,22003,Glowing Gem,1400,2838.17,12,10,vendedolmax,2000
-50.09,26591,Potion of Lion,1250,2504.69,20,2,Anuel,KAL | Armor of Enigma | JadeFrag
-50.09,26591,Potion of Lion,1250,2504.69,20,14,hunterx,bp/fb/signet/repu/pots/gems
+50.3,25503,Magical Stone,550,1106.55,14,99,JunoJuno,Cheap
 50.07,28446,Fire Sealed Bow of Evanescence,14000,28039.09,10,1,bowstalls,6acc1agi ss boot/40-50-60-65gear
 50.0,28418,Earth Sealed Kiss of the Cursed,3000,6000.0,4,1,CaloNord,ss  armor gun
 50.0,28456,Ice Sealed Robe of the Sphinx,12222,24444.25,4,1,StepanBendera,Bloodfire/Cooked Tilipia
