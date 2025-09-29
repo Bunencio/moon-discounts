@@ -4,8 +4,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 86.11,28035,Solar Shield,5000,35999.6,5,1,Zekrom,CHEAPER U DONT Hget
 85.88,28440,Fire Sealed Roar of Evanescence,15000,106250.0,4,1,Nixm,Lv50 Eqps
 82.65,28456,Ice Sealed Robe of the Sphinx,5000,28814.67,6,1,xVENDORx,RUSH
-82.63,22001,Furious Gem,500,2877.83,14,9,Bathroom,sellllllllllllllllllllllllllllll
-82.63,22001,Furious Gem,500,2877.83,14,1,LazzzyBee,CHEAP
+82.56,22001,Furious Gem,500,2866.98,14,9,Bathroom,sellllllllllllllllllllllllllllll
+82.56,22001,Furious Gem,500,2866.98,14,1,LazzzyBee,CHEAP
 82.46,25477,Lance Hairstyle Book,4500,25650.0,3,2,VERTIGO,HAIR DYE COLORANT BOOK GEL SCISS
 81.27,26001,Ninja Coin,111,592.61,8,4,cudecachorro2,CLERIC ITENS|IMPS !!!!!!!!!!
 78.81,25439,Incantation Stone,500,2359.44,6,1,vendedolmax,2000
@@ -14,22 +14,24 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.99,25494,Yellow Colorant.,1000,3701.87,5,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 72.73,28422,Earth Sealed Mantle of the Cursed Flame,1000,3666.67,3,1,Godsky,sell
 72.22,28035,Solar Shield,9999,35999.6,5,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
-72.2,22001,Furious Gem,800,2877.83,14,36,hunterx,cheap stuff
 72.16,26000,Sandy Coin,111,398.72,6,9,cudecachorro2,CLERIC ITENS|IMPS !!!!!!!!!!
+72.1,22001,Furious Gem,800,2866.98,14,36,hunterx,cheap stuff
 71.01,25504,Standard Scroll,300,1034.88,3,75,StepanBendera,FB/BoodFire/Cooked
-69.57,30102,1000 Reputation Scroll,2450,8051.34,8,3,Bathroom,sellllllllllllllllllllllllllllll
+69.59,30102,1000 Reputation Scroll,2450,8057.47,7,3,Bathroom,sellllllllllllllllllllllllllllll
 68.36,28430,Fire Sealed Robe of Malediction,4999,15799.8,4,1,CallMeBaby,ITEM CHEAP
-66.81,22003,Glowing Gem,999,3010.26,12,29,BL4CKM4RK3T,normal gems and stuff
-66.78,22003,Glowing Gem,1000,3010.26,12,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 66.6,25503,Magical Stone,385,1152.72,9,69,Spiritus,mvm/etc
-66.11,30121,Vial of Accuracy Reset,2000,5900.85,7,4,Yennefer,JADE GPS HAIR CLOUD EVA EXPSTONE
+66.38,22003,Glowing Gem,999,2971.76,13,29,BL4CKM4RK3T,normal gems and stuff
+66.35,22003,Glowing Gem,1000,2971.76,13,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+65.89,30121,Vial of Accuracy Reset,2000,5863.81,7,4,Yennefer,JADE GPS HAIR CLOUD EVA EXPSTONE
 65.59,28442,Fire Sealed Coat of Evanescence,5000,14532.2,7,1,bankerrr,Bank Cleaning
 65.3,25503,Magical Stone,400,1152.72,9,68,xVENDORx,RUSH
-65.25,22001,Furious Gem,1000,2877.83,14,1,CoroaDaPoshe,SELL GEM
-65.25,22001,Furious Gem,1000,2877.83,14,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 65.22,28418,Earth Sealed Kiss of the Cursed,2000,5750.0,4,1,CaloNord,boe craft /gun 45
-63.94,26589,Potion of Bull,750,2079.93,20,1,Kinyu,TTT
+65.12,22001,Furious Gem,1000,2866.98,14,1,CoroaDaPoshe,SELL GEM
+65.12,22001,Furious Gem,1000,2866.98,14,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+64.92,26589,Potion of Bull,750,2138.11,20,1,Kinyu,TTT
+62.63,30118,Vial of Strength Reset,2500,6689.53,4,2,TuoTuo,Cleaning BANK
 62.38,26000,Sandy Coin,150,398.72,6,19,KillerSolo,dg coins and more help me please
+61.3,22003,Glowing Gem,1150,2971.76,13,13,TuoTuo,Cleaning BANK
 61.25,25071,Magical Oak Log,50,129.05,3,99,bruna99,mnsd
 61.25,25071,Magical Oak Log,50,129.05,3,55,bruna99,mnsd
 61.19,28458,Ice Sealed Staff of the Sphinx,15000,38650.43,6,1,AoiTodo,Promotion
@@ -44,22 +46,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.74,25258,Spirit Feather,200,473.29,6,13,bruna99,mnsd
 57.74,25258,Spirit Feather,200,473.29,6,9,LunaMaya,S>PBS RBS LambSkull FairyFood
 57.55,28408,Earth Sealed Coat of Invocation,5000,11777.6,5,1,OsToWBaby,UG STRIKING | 40-50-60 SEALED
+57.37,30121,Vial of Accuracy Reset,2500,5863.81,7,1,TuoTuo,Cleaning BANK
 57.2,28456,Ice Sealed Robe of the Sphinx,12333,28814.67,6,1,StepanBendera,FB/BoodFire/Cooked
 56.13,26594,Novice Explosive Ball,100,227.93,3,2,GrudgE,Ss
 54.55,28155,Steel Platemail,5000,11000.0,3,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 54.42,25440,Evanescence Stone,500,1097.04,4,4,vendedolmax,2000
-53.49,22003,Glowing Gem,1400,3010.26,12,10,vendedolmax,2000
 53.13,25496,Cyan Colorant.,1800,3840.48,3,1,pisslow,Selll Freeeeeeeeeeeeeeeeeeeeeeee
 52.91,25439,Incantation Stone,1111,2359.44,6,99,Look7,TY
+52.89,22003,Glowing Gem,1400,2971.76,13,10,vendedolmax,2000
 52.31,28421,Bow of Incantation,58888,123472.0,4,1,INeedADollar,cheaaap
 52.29,25503,Magical Stone,550,1152.72,9,99,JunoJuno,Cheap
-51.79,22000,FieryGem,1999,4146.76,10,11,Caiser,cheap cruz items
-50.92,26591,Potion of Lion,1150,2343.11,18,14,hunterx,cheap stuff
+51.75,22000,FieryGem,1999,4142.9,11,11,Caiser,cheap cruz items
+51.47,26591,Potion of Lion,1150,2369.43,17,14,hunterx,cheap stuff
 50.67,26346,Lantern,2499,5065.64,11,12,Lauriel,Promotion
 50.59,22004,Shining Gem,1800,3643.2,12,2,pisslow,Selll Freeeeeeeeeeeeeeeeeeeeeeee
 50.33,26326,Elven Royal Signet,1222,2460.23,4,2,Spiritus,mvm/etc
 50.28,28432,Fire Sealed Staff of Mirage,5000,10055.44,6,1,VENDEDORAA,APP LANCE / GLOVES 60 CRUS / SM+
 50.28,28432,Fire Sealed Staff of Mirage,5000,10055.44,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
-50.17,22003,Glowing Gem,1500,3010.26,12,79,Look7,TY
-50.17,22003,Glowing Gem,1500,3010.26,12,20,011,bank cleaning
 50.14,28466,Ice Sealed Judgment of Enigma,25000,50138.5,4,1,BjornIronside,SDSD
