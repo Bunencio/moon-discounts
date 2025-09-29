@@ -23,18 +23,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.25,28410,Earth Sealed Staff of Incantation,4000,12599.8,4,1,PWVoy,Cheap Eartd Sealed EQ   Pet
 67.7,25522,,49,151.72,5,11,TagBaligya,500Rep=10imps
 67.04,25522,,50,151.72,5,26,loyalty1,sssssssssssss
-67.02,28442,Fire Sealed Coat of Evanescence,5000,15159.33,6,1,bankerrr,Bank Cleaning
 66.25,28456,Ice Sealed Robe of the Sphinx,10000,29629.5,6,1,xVENDORx,RUSH
 66.11,30121,Vial of Accuracy Reset,2000,5900.85,7,4,Yennefer,JADE GPS HAIR CLOUD EVA EXPSTONE
 65.91,26594,Novice Explosive Ball,100,293.36,4,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 65.91,26594,Novice Explosive Ball,100,293.36,4,2,GrudgE,Ss
 65.85,22001,Furious Gem,999,2925.11,15,8,Bathroom,Gem  EXP  Sealed  Scrol
 65.81,22001,Furious Gem,1000,2925.11,15,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+65.59,28442,Fire Sealed Coat of Evanescence,5000,14532.2,7,1,bankerrr,Bank Cleaning
 65.54,25503,Magical Stone,385,1117.37,11,69,Spiritus,mvm/etc
 65.21,28466,Ice Sealed Judgment of Enigma,15000,43110.8,5,1,XiXi0n,cheap cheap cheap cheap cheap
 65.17,22003,Glowing Gem,1000,2870.97,11,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 64.2,25503,Magical Stone,400,1117.37,11,10,xVENDORx,RUSH
-63.64,28408,Earth Sealed Coat of Invocation,5000,13750.0,4,1,OsToWBaby,UG STRIKING | 40-50-60 SEALED
 63.06,25418,Clam Crown,600,1624.29,3,5,#14DEATH#14,SHOPE 10.10 ALL U NEED CHEAP!
 62.03,25071,Magical Oak Log,50,131.67,3,99,bruna99,mnsd
 62.03,25071,Magical Oak Log,50,131.67,3,55,bruna99,mnsd
@@ -46,6 +45,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.19,28458,Ice Sealed Staff of the Sphinx,14999,38650.29,6,1,BjornIronside,SDSD
 60.87,25258,Spirit Feather,350,894.4,7,6,SCORPION21,COME TO THE STORE
 60.32,28410,Earth Sealed Staff of Incantation,5000,12599.8,4,1,OsToWBaby,UG STRIKING | 40-50-60 SEALED
+60.18,28408,Earth Sealed Coat of Invocation,5000,12555.4,5,1,OsToWBaby,UG STRIKING | 40-50-60 SEALED
 60.0,28444,Fire Sealed Bellow of Evanescence,5000,12499.75,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOOR
 59.82,25505,Standard Stone,1000,2488.59,4,3,loyalty1,sssssssssssss
 59.19,28430,Fire Sealed Robe of Malediction,4999,12249.75,3,1,CallMeBaby,ITEM CHEAP
@@ -56,13 +56,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.56,28212,Priestly Robe,5000,11250.0,3,1,Skebedep,items
 54.55,28155,Steel Platemail,5000,11000.0,3,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 54.42,25440,Evanescence Stone,500,1097.04,4,4,vendedolmax,2000
-54.23,26588,Potion of Eagle,1200,2622.0,17,2,Anuel,KAL | Armor of Enigma | JadeFrag
-53.5,26591,Potion of Lion,1150,2473.14,23,14,hunterx,cheap stuff
+54.23,26588,Potion of Eagle,1200,2621.72,17,2,Anuel,KAL | Armor of Enigma | JadeFrag
+53.5,26591,Potion of Lion,1150,2473.36,23,14,hunterx,cheap stuff
 52.42,26001,Ninja Coin,300,630.47,9,1,GrudgE,Ss
 52.31,28421,Bow of Incantation,58888,123472.0,4,1,INeedADollar,cheaaap
 52.18,22000,FieryGem,1999,4179.85,10,11,Caiser,cheap cruz items
 51.61,28434,Fire Sealed Robe of the Arcane,15000,30999.75,4,1,NickBickDigger,cheap
-51.48,26591,Potion of Lion,1200,2473.14,23,14,MiLD,r
+51.48,26591,Potion of Lion,1200,2473.36,23,14,MiLD,r
 51.28,25495,Green Colorant,1800,3694.64,4,3,pisslow,Selll Freeeeeeeeeeeeeeeeeee >><<
 51.24,22003,Glowing Gem,1400,2870.97,11,10,vendedolmax,2000
 50.78,25503,Magical Stone,550,1117.37,11,99,JunoJuno,Cheap
