@@ -2,12 +2,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.57,28327,Great Aqua Cap,40000,622499.75,4,1,smoI,hats at 50% price
 90.78,29013,Novice 15 Treasure Hunting EXP Card,100,1084.54,4,1,Bathroom,sellllllllllllllllllllllllllllll
 90.08,28134,Commanders Cap,40000,403333.33,3,1,smoI,hats at 50% price
-86.84,22001,Furious Gem,400,3039.88,11,5,lamamandoski,super cheap
+86.89,22001,Furious Gem,400,3051.69,11,5,lamamandoski,super cheap
 84.0,28035,Solar Shield,5000,31249.5,4,1,Zekrom,CHEAPER U DONT Hget
-83.55,22001,Furious Gem,500,3039.88,11,6,Bathroom,sellllllllllllllllllllllllllllll
-83.55,22001,Furious Gem,500,3039.88,11,1,LazzzyBee,CHEAP
-83.55,22001,Furious Gem,500,3039.88,11,1,xRio,Like the legend of the penis
-83.55,22001,Furious Gem,500,3039.88,11,21,Wallnut,Corner Shop
+83.62,22001,Furious Gem,500,3051.69,11,6,Bathroom,sellllllllllllllllllllllllllllll
+83.62,22001,Furious Gem,500,3051.69,11,1,LazzzyBee,CHEAP
+83.62,22001,Furious Gem,500,3051.69,11,21,Wallnut,Corner Shop
 82.64,28134,Commanders Cap,70000,403333.33,3,1,bankoe,Cleric Voy Hat Cheap Than Making
 73.0,25176,Sweet Poison,49,181.46,3,12,TagBaligya2,Manu Items
 72.22,28128,Warmth of the Cleric,25000,90000.0,3,1,smoI,hats at 50% price
@@ -15,17 +14,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.27,28132,Voyager Cap,44000,148000.0,3,1,freeee,CHEAP
 69.7,28418,Earth Sealed Kiss of the Cursed,2000,6600.0,4,1,CaloNord,de todo
 68.0,28035,Solar Shield,9999,31249.5,4,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
-67.86,25503,Magical Stone,250,777.9,9,68,xVENDORx,RUSH
-67.1,22001,Furious Gem,1000,3039.88,11,1,CoroaDaPoshe,SELL GEM
-67.1,22001,Furious Gem,1000,3039.88,11,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+67.91,25503,Magical Stone,250,778.96,9,68,xVENDORx,RUSH
+67.23,22001,Furious Gem,1000,3051.69,11,1,CoroaDaPoshe,SELL GEM
+67.23,22001,Furious Gem,1000,3051.69,11,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 66.22,28132,Voyager Cap,50000,148000.0,3,1,stuart,EQUIPS
 65.83,22004,Shining Gem,1350,3951.19,9,15,lamamandoski,super cheap
 65.33,28456,Ice Sealed Robe of the Sphinx,12333,35577.6,5,1,StepanBendera,FB/BoodFire/Cooked
+65.27,25504,Standard Scroll,300,863.83,4,45,StepanBendera,FB/BoodFire/Cooked
 65.01,30121,Vial of Accuracy Reset,2000,5715.67,7,4,Yennefer,JADE GPS HAIR CLOUD EVA EXPSTONE
 64.78,28458,Ice Sealed Staff of the Sphinx,15000,42592.17,6,1,Electricman1,MvM/PharaoGem/StormGloves+5spr
 64.78,28458,Ice Sealed Staff of the Sphinx,14999,42592.17,6,1,BjornIronside,SDSD
 64.57,22004,Shining Gem,1400,3951.19,9,16,Wallnut,Corner Shop
-63.72,26591,Potion of Lion,990,2728.69,14,9,SirCumcision,--The Circumcised Shop--
+63.76,26591,Potion of Lion,990,2731.7,14,9,SirCumcision,--The Circumcised Shop--
 63.64,28406,Earth Sealed Staff of Abraxas.,2500,6875.0,3,1,Zekrom,CHEAPER U DONT Hget
 62.63,30118,Vial of Strength Reset,2500,6689.53,4,2,TuoTuo,Cleaning BANK
 61.91,26000,Sandy Coin,150,393.79,4,22,KillerSolo,dg coins and more help me PLEASE
@@ -41,16 +41,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.84,28327,Great Aqua Cap,250000,622499.75,4,1,XiXi0n,app/ring/voy/pots/dagger/cap/imp
 56.26,30121,Vial of Accuracy Reset,2500,5715.67,7,1,TuoTuo,Cleaning BANK
 56.1,25495,Green Colorant,1000,2277.78,3,3,pisslow,chest Dw+dw2 rock gem  colors
-56.02,26591,Potion of Lion,1200,2728.69,14,11,MiLD,sell
+56.07,26591,Potion of Lion,1200,2731.7,14,11,MiLD,sell
 55.24,28421,Bow of Incantation,80000,178750.0,4,1,Nikoz,Cheap Stuff for you!!!!
-54.23,28446,Fire Sealed Bow of Evanescence,9999,21848.5,9,1,LadyRizz,cheap
-54.01,22000,FieryGem,1900,4131.38,12,8,lamamandoski,super cheap
 53.85,28430,Fire Sealed Robe of Malediction,3333,7222.17,3,1,CallMeBaby,CHEAP
+53.58,22000,FieryGem,1950,4200.97,11,14,Wallnut,Corner Shop
 53.23,25522,,75,160.37,3,19,loyalty1,selling
-52.8,22000,FieryGem,1950,4131.38,12,14,Wallnut,Corner Shop
 52.63,28432,Fire Sealed Staff of Mirage,4500,9499.8,5,1,bowstalls,all fire sealed/6acc1agi SS boot
 52.45,28421,Bow of Incantation,85000,178750.0,4,1,M0Nster,Items
+52.26,28446,Fire Sealed Bow of Evanescence,9999,20942.78,8,1,LadyRizz,cheap
 51.27,22003,Glowing Gem,900,1846.9,11,4,lamamandoski,super cheap
-51.15,25503,Magical Stone,380,777.9,9,42,xRio,Like the legend of the penis
-50.69,22001,Furious Gem,1499,3039.88,11,22,BL4CKM4RK3T,normal gems and stuff
-50.66,22001,Furious Gem,1500,3039.88,11,2,STALLING11,UG/REF/NORMAL CHEAP
+50.88,22001,Furious Gem,1499,3051.69,11,22,BL4CKM4RK3T,normal gems and stuff
+50.85,22001,Furious Gem,1500,3051.69,11,2,STALLING11,UG/REF/NORMAL CHEAP
