@@ -51,12 +51,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,26591,Potion of Lion,BoogeyMan,potssss,1999,2760.13,761.13,50,38056.67,27.58,13
 2025-09-30,22000,FieryGem,Dad,zzzzzz,3000,4131.38,1131.38,64,72408.56,27.39,12
 2025-09-30,22000,FieryGem,GEm01,UP Gears +5 Str Gloves,3000,4131.38,1131.38,25,28284.6,27.39,12
+2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,809.92,210.92,180,37965.1,26.04,11
+2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,809.92,210.92,139,29317.5,26.04,11
+2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,809.92,210.92,131,27630.16,26.04,11
 2025-09-30,25503,Magical Stone,GRAVITY,MAGICAL STONE FAST CHEAP,750,1003.54,253.54,99,25100.23,25.26,10
 2025-09-30,25503,Magical Stone,GRAVITY,MAGICAL STONE FAST CHEAP,750,1003.54,253.54,99,25100.23,25.26,10
-2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,799.26,200.26,200,40051.01,25.06,11
-2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,799.26,200.26,200,40051.01,25.06,11
-2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,799.26,200.26,139,27835.45,25.06,11
-2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,799.26,200.26,131,26233.41,25.06,11
 2025-09-30,28423,Mantle of the Cursed Flame,iFennec,UNSEALED LV65,89999,119999.6,30000.6,1,30000.6,25.0,5
 2025-09-30,28401,Platemail of the Cursed Soul,bankerrr,Bank Cleaning,125000,165000.0,40000.0,1,40000.0,24.24,3
 2025-09-30,26560,Cooked Bluefin Tuna,Pots,Chaos Jewel-Rune/Tuna/Crab,2800,3659.87,859.87,200,171974.97,23.49,3
@@ -81,7 +80,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,25451,Jade Gem Fragment,Lira,PPS / GPS / JACKPOT / MVM / JADE,74999,87355.16,12356.16,2,24712.32,14.14,9
 2025-09-30,25452,Rock Gem Fragment,Tralalera,GYOZA WORLD! COINS IMPS,99999,116052.32,16053.32,5,80266.58,13.83,6
 2025-09-30,25452,Rock Gem Fragment,DoaaPepa,DO N   P E P E,100000,116052.32,16052.32,2,32104.63,13.83,6
-2025-09-30,26377,Pharaoh's Lantern,SeventhHeaven,Coins/Lantern/Scrolls etc,7000,8055.67,1055.67,24,25336.16,13.1,5
+2025-09-30,26377,Pharaoh's Lantern,SeventhHeaven,Coins/Lantern/Scrolls etc,7000,8073.67,1073.67,24,25768.02,13.3,5
 2025-09-30,25451,Jade Gem Fragment,FukPolice,rage/jadefrg/pps/gps/lbp/gems,76000,87355.16,11355.16,12,136261.89,13.0,9
 2025-09-30,28454,Ice Sealed Blade of Enigma,PALA02,garner,350000,398000.0,48000.0,1,48000.0,12.06,4
 2025-09-30,22004,Shining Gem,Dad,zzzzzz,3000,3393.75,393.75,71,27956.36,11.6,9
@@ -99,25 +98,23 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,22007,Gem of Striking,Calamitas,gem,1599999,1749999.83,150000.83,1,150000.83,8.57,3
 2025-09-30,27019,Purple Pirate Scroll,Ryzo,CHEAP RBS/PPS!!!!!!,4100,4480.81,380.81,95,36176.94,8.5,15
 2025-09-30,26576,Iron Brew,Bankaquaq,Radiation/FB/Grenade/Brew/More,8450,9224.3,774.3,81,62718.15,8.39,6
+2025-09-30,26588,Potion of Eagle,zzzzz,zzzz,2500,2723.89,223.89,199,44554.02,8.22,8
+2025-09-30,26588,Potion of Eagle,LotokSell,Demo Striking and another,2500,2723.89,223.89,99,22165.06,8.22,8
 2025-09-30,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,7987,8684.03,697.03,105,73188.03,8.03,15
-2025-09-30,26588,Potion of Eagle,zzzzz,zzzz,2500,2715.57,215.57,199,42898.22,7.94,8
-2025-09-30,26588,Potion of Eagle,LotokSell,Demo Striking and another,2500,2715.57,215.57,99,21341.33,7.94,8
 2025-09-30,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,8684.03,685.03,150,102754.34,7.89,15
 2025-09-30,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,8684.03,685.03,143,97959.13,7.89,15
 2025-09-30,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,8684.03,685.03,103,70557.98,7.89,15
 2025-09-30,28429,Dance of Evanescence,xVENDORx,RUSH,900000,972499.75,72499.75,1,72499.75,7.45,3
 2025-09-30,28429,Dance of Evanescence,xVENDORx,RUSH,900000,972499.75,72499.75,1,72499.75,7.45,3
 2025-09-30,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3399,3667.19,268.19,91,24405.46,7.31,3
-2025-09-30,26377,Pharaoh's Lantern,stallzunha,Cheap Shits,7499,8055.67,556.67,59,32843.72,6.91,5
+2025-09-30,26377,Pharaoh's Lantern,stallzunha,Cheap Shits,7499,8073.67,574.67,59,33905.39,7.12,5
 2025-09-30,26559,Cooked Crab,FishSeller,1799 COOKED CRAB,1799,1929.85,130.85,200,26170.99,6.78,7
 2025-09-30,26559,Cooked Crab,Pots,Chaos Jewel-Rune/Tuna/Crab,1800,1929.85,129.85,200,25970.99,6.73,7
 2025-09-30,26559,Cooked Crab,Pots,Chaos Jewel-Rune/Tuna/Crab,1800,1929.85,129.85,161,20906.64,6.73,7
 2025-09-30,22014,Demonic Gem of Colossus,Bembang#77,TRASH ITEM,2400000,2570000.0,170000.0,1,170000.0,6.61,3
 2025-09-30,22014,Demonic Gem of Colossus,bankerrr,Bank Cleaning,2400000,2570000.0,170000.0,1,170000.0,6.61,3
 2025-09-30,27019,Purple Pirate Scroll,Lira,PPS / GPS / JACKPOT / MVM / JADE,4199,4480.81,281.81,99,27899.18,6.29,15
-2025-09-30,26578,Aegis Brew,Timotron,Cheapest Pots Ever ! Just Look !,54900,58205.87,3305.87,31,102481.84,5.68,7
 2025-09-30,22013,Demonic Gem of Striking,LotokSell,Demo Striking and another,2500000,2650000.0,150000.0,1,150000.0,5.66,3
-2025-09-30,26578,Aegis Brew,MrMarket,MANU BLESS SUPP POINTS,55000,58205.87,3205.87,16,51293.85,5.51,7
 2025-09-30,22010,Gem of Rage,BOOOOMBOOOM,UG RAGE,2100000,2220588.24,120588.24,6,723529.41,5.43,5
 2025-09-30,25431,Kal Runestone,Inuyasha,MANY KALS,1200000,1258333.17,58333.17,1,58333.17,4.64,4
 2025-09-30,25431,Kal Runestone,Seller1,Kal runestone - DEM rage CHEAP!,1200000,1258333.17,58333.17,1,58333.17,4.64,4
@@ -127,11 +124,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,27020,Gold Pirate Scroll,Lauriel,Promotion,17999,18692.99,693.99,54,37475.26,3.71,19
 2025-09-30,27020,Gold Pirate Scroll,xTrueHistory,Gps / PPS/Gloves champ lv60,18000,18692.99,692.99,32,22175.56,3.71,19
 2025-09-30,30139,100x Crystal,DarknessL,sell imps,85800,89011.74,3211.74,29,93140.45,3.61,9
+2025-09-30,26578,Aegis Brew,Timotron,Cheapest Pots Ever ! Just Look !,54900,56830.0,1930.0,31,59830.0,3.4,6
 2025-09-30,30139,100x Crystal,RanqueWisss,Low PRicecece,85999,89011.74,3012.74,8,24101.92,3.38,9
+2025-09-30,26578,Aegis Brew,MrMarket,MANU BLESS SUPP POINTS,55000,56830.0,1830.0,16,29280.0,3.22,6
 2025-09-30,22010,Gem of Rage,Volk,gem of rage and voy stuff,2150000,2220588.24,70588.24,1,70588.24,3.18,5
 2025-09-30,30139,100x Crystal,Aois,STALL,86400,89011.74,2611.74,65,169763.07,2.93,9
-2025-09-30,30191,1000 Supporter Points Voucher,MrMarket,MANU BLESS SUPP POINTS,56000,57636.36,1636.36,38,62181.82,2.84,3
 2025-09-30,30139,100x Crystal,xVENDORx,RUSH,87000,89011.74,2011.74,12,24140.87,2.26,9
 2025-09-30,25031,Refining Gem,Mikosita,SELL JACKPOT/GPS/REF,8499,8684.03,185.03,198,36635.72,2.13,15
-2025-09-30,26578,Aegis Brew,Lag,Aegis Brew cheap,57000,58205.87,1205.87,31,37381.84,2.07,7
 2025-09-30,26572,Inferno Potion,TotemCookings,Totem Cookings Made wLove n Weed,9800,9961.64,161.64,166,26832.39,1.62,5
