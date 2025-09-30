@@ -11,7 +11,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,25504,Standard Scroll,StepanBendera,FB/BoodFire/Cooked,300,925.63,625.63,45,28153.27,67.59,4
 2025-09-30,28476,Ice Sealed Kris of the Sphinx,XiXi0n,voy/app/ring/cap/wing/pots/dagge,25000,76000.0,51000.0,1,51000.0,67.11,4
 2025-09-30,28128,Warmth of the Cleric,smoI,hats at 50% price,25000,75000.0,50000.0,1,50000.0,66.67,3
-2025-09-30,25440,Evanescence Stone,hunterx,cheap DOE/2Gen STRpet/knife app,250,715.33,465.33,90,41879.54,65.05,4
+2025-09-30,25440,Evanescence Stone,hunterx,cheap DOE/2Gen STRpet/knife app,250,704.4,454.4,90,40896.09,64.51,5
 2025-09-30,22003,Glowing Gem,TuoTuo,Cleaning BANK,1150,3147.32,1997.32,13,25965.14,63.46,12
 2025-09-30,22004,Shining Gem,hunterx,cheap DOE/2Gen STRpet/knife app,1250,3275.52,2025.52,75,151914.35,61.84,9
 2025-09-30,28411,Staff of Incantation,xXblackAngelXx,goo,99000,256333.0,157333.0,1,157333.0,61.38,3
@@ -48,15 +48,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,30102,1000 Reputation Scroll,CheapestASF,Ezzzzzz,5950,8856.27,2906.27,10,29062.67,32.82,5
 2025-09-30,26589,Potion of Bull,thewata,Cheap pots,1490,2202.91,712.91,200,142581.24,32.36,13
 2025-09-30,28454,Ice Sealed Blade of Enigma,PALA02,garner,300000,435000.0,135000.0,1,135000.0,31.03,3
-2025-09-30,26326,Elven Royal Signet,Kiara,TAKE A LOOK!!!!,1480,2121.29,641.29,42,26934.08,30.23,5
-2025-09-30,26326,Elven Royal Signet,LotokSell,Demo Striking and another,1500,2121.29,621.29,200,124257.53,29.29,5
+2025-09-30,26326,Elven Royal Signet,Kiara,TAKE A LOOK!!!!,1480,2119.67,639.67,42,26865.96,30.18,6
+2025-09-30,26326,Elven Royal Signet,LotokSell,Demo Striking and another,1500,2119.67,619.67,200,123933.16,29.23,6
 2025-09-30,26591,Potion of Lion,BoogeyMan,potsssssssssss,1999,2817.76,818.76,50,40937.94,29.06,13
 2025-09-30,28403,Blade of Incantation,xSnufx,blessed/acc 23 cheap,178888,251110.7,72222.7,1,72222.7,28.76,8
 2025-09-30,25506,Expert Scroll,dsadsa,skating gyoza chaos TURBO CHEAP,777,1088.52,311.52,93,28971.11,28.62,5
+2025-09-30,25451,Jade Gem Fragment,LunaMaya,S>Chaos JadeFrag LBS RBS FairyFo,70000,97289.47,27289.47,5,136447.37,28.05,5
 2025-09-30,22001,Furious Gem,hunterx,cheap DOE/2Gen STRpet/knife app,2250,3074.55,824.55,39,32157.34,26.82,10
 2025-09-30,30102,1000 Reputation Scroll,iinerti,Jackpot/Ref/Repu1k/PPS/MVM/PBS++,6500,8856.27,2356.27,16,37700.28,26.61,5
-2025-09-30,25451,Jade Gem Fragment,Anuel,Cheap Kal,79500,107035.71,27535.71,3,82607.14,25.73,4
-2025-09-30,25451,Jade Gem Fragment,GokuVendedor,Help me thx,80000,107035.71,27035.71,1,27035.71,25.26,4
 2025-09-30,22000,FieryGem,Dad,zzzzzz,3000,4012.09,1012.09,63,63761.51,25.23,11
 2025-09-30,22000,FieryGem,Reaper,KAL 1.2M | ALL NORMAL GEMS 3K EA,3000,4012.09,1012.09,60,60725.25,25.23,11
 2025-09-30,22000,FieryGem,GEm01,UP Gears +5 Str Gloves,3000,4012.09,1012.09,25,25302.19,25.23,11
@@ -73,13 +72,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,30171,Ticket to Demonic World,Guerra01,Tix DW/Pharaoh Lantern,399,499.53,100.53,200,20106.57,20.13,9
 2025-09-30,30171,Ticket to Demonic World,Guerra01,Tix DW/Pharaoh Lantern,399,499.53,100.53,200,20106.57,20.13,9
 2025-09-30,30171,Ticket to Demonic World,Guerra01,Tix DW/Pharaoh Lantern,399,499.53,100.53,200,20106.57,20.13,9
-2025-09-30,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1699,2121.29,422.29,200,84457.53,19.91,5
-2025-09-30,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1699,2121.29,422.29,184,77700.92,19.91,5
+2025-09-30,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1699,2119.67,420.67,200,84133.16,19.85,6
+2025-09-30,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1699,2119.67,420.67,184,77402.5,19.85,6
 2025-09-30,25452,Rock Gem Fragment,SellerPirate,s,95000,117321.21,22321.21,5,111606.07,19.03,7
+2025-09-30,25451,Jade Gem Fragment,Anuel,Cheap Kal,79500,97289.47,17789.47,3,53368.42,18.29,5
 2025-09-30,26575,Guardian's Brew,F0X01,Iron Brew Best Price EVER,700,856.42,156.42,133,20803.58,18.26,9
 2025-09-30,26560,Cooked Bluefin Tuna,Signet,Aegis/AttkPot/Tuna/Crab Cheap,3000,3659.87,659.87,200,131974.97,18.03,3
 2025-09-30,26560,Cooked Bluefin Tuna,Signet,Aegis/AttkPot/Tuna/Crab Cheap,3000,3659.87,659.87,63,41572.11,18.03,3
-2025-09-30,26326,Elven Royal Signet,MatsBk,S>GPS/PPS/PBS/DUST/MORE,1750,2121.29,371.29,74,27475.28,17.5,5
+2025-09-30,26326,Elven Royal Signet,MatsBk,S>GPS/PPS/PBS/DUST/MORE,1750,2119.67,369.67,74,27355.27,17.44,6
 2025-09-30,25476,Hairstyling Voucher,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON,20000,23863.64,3863.64,6,23181.82,16.19,3
 2025-09-30,28403,Blade of Incantation,xSnufx,blessed/acc 23 cheap,212222,251110.7,38888.7,1,38888.7,15.49,8
 2025-09-30,25452,Rock Gem Fragment,Tralalera,GYOZA WORLD! COINS IMPS,99999,117321.21,17322.21,5,86611.07,14.76,7
@@ -106,8 +106,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,22013,Demonic Gem of Striking,LotokSell,Demo Striking and another,2500000,2650000.0,150000.0,1,150000.0,5.66,3
 2025-09-30,30135,Demonic Rock,Disciplined1,cheapest demonic rocks,3999,4231.06,232.06,99,22973.73,5.48,3
 2025-09-30,26572,Inferno Potion,BPCRAFT,INFERNO/WARLORD/ENCHANT/GUARDIAN,9500,10044.49,544.49,194,105631.57,5.42,6
-2025-09-30,27025,Radiation Lv1,JohnCena2,Aegis/Cupid/Inferno/W.Lord/Demo/,2999,3170.39,171.39,200,34278.82,5.41,4
-2025-09-30,27025,Radiation Lv1,Uzi,fairy food / radiation,2999,3170.39,171.39,121,20738.68,5.41,4
+2025-09-30,27025,Radiation Lv1,JohnCena2,Aegis/Cupid/Inferno/W.Lord/Demo/,2999,3168.05,169.05,200,33809.23,5.34,3
+2025-09-30,27025,Radiation Lv1,Uzi,fairy food / radiation,2999,3168.05,169.05,121,20454.58,5.34,3
 2025-09-30,22014,Demonic Gem of Colossus,Deity,zzzzz,2400000,2530000.0,130000.0,1,130000.0,5.14,3
 2025-09-30,22014,Demonic Gem of Colossus,bankerrr,Bank Cleaning,2400000,2530000.0,130000.0,1,130000.0,5.14,3
 2025-09-30,26585,Blessed Potion,Stalinha,Nawb and PRO POTS / Bless,100000,105341.63,5341.63,8,42733.05,5.07,5
