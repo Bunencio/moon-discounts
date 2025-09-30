@@ -8,6 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.62,22001,Furious Gem,500,3051.69,11,1,LazzzyBee,CHEAP
 83.62,22001,Furious Gem,500,3051.69,11,21,Wallnut,Corner Shop
 82.64,28134,Commanders Cap,70000,403333.33,3,1,bankoe,Cleric Voy Hat Cheap Than Making
+79.33,28458,Ice Sealed Staff of the Sphinx,7777,37618.57,7,1,xCrossex,Sealed item cheap
 73.0,25176,Sweet Poison,49,181.46,3,12,TagBaligya2,Manu Items
 72.22,28128,Warmth of the Cleric,25000,90000.0,3,1,smoI,hats at 50% price
 71.89,28456,Ice Sealed Robe of the Sphinx,10000,35577.6,5,1,xVENDORx,RUSH
@@ -23,8 +24,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.01,30121,Vial of Accuracy Reset,2000,5715.67,7,4,Yennefer,JADE GPS HAIR CLOUD EVA EXPSTONE
 64.89,25504,Standard Scroll,300,854.39,4,4,Olkc,magical standard stone scroll
 64.89,25504,Standard Scroll,300,854.39,4,45,StepanBendera,FB/BoodFire/Cooked
-64.78,28458,Ice Sealed Staff of the Sphinx,15000,42592.17,6,1,Electricman1,MvM/PharaoGem/StormGloves+5spr
-64.78,28458,Ice Sealed Staff of the Sphinx,14999,42592.17,6,1,BjornIronside,SDSD
 64.57,22004,Shining Gem,1400,3951.19,9,16,Wallnut,Corner Shop
 63.72,26591,Potion of Lion,990,2728.69,14,9,SirCumcision,--The Circumcised Shop--
 63.64,28406,Earth Sealed Staff of Abraxas.,2500,6875.0,3,1,Zekrom,CHEAPER U DONT Hget
@@ -39,6 +38,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.7,2302,,9999,25443.5,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 60.7,2302,,9999,25443.5,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 60.7,2302,,9999,25443.5,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
+60.13,28458,Ice Sealed Staff of the Sphinx,15000,37618.57,7,1,Electricman1,MvM/PharaoGem/StormGloves+5spr
+60.13,28458,Ice Sealed Staff of the Sphinx,14999,37618.57,7,1,BjornIronside,SDSD
 59.84,28327,Great Aqua Cap,250000,622499.75,4,1,XiXi0n,app/ring/voy/pots/dagger/cap/imp
 56.26,30121,Vial of Accuracy Reset,2500,5715.67,7,1,TuoTuo,Cleaning BANK
 56.1,25495,Green Colorant,1000,2277.78,3,3,pisslow,chest Dw+dw2 rock gem  colors
@@ -46,9 +47,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.24,28421,Bow of Incantation,80000,178750.0,4,1,Nikoz,Cheap Stuff for you!!!!
 53.88,28446,Fire Sealed Bow of Evanescence,9999,21680.45,9,1,LadyRizz,cheap
 53.85,28430,Fire Sealed Robe of Malediction,3333,7222.17,3,1,CallMeBaby,CHEAP
-53.58,22000,FieryGem,1950,4200.97,11,14,Wallnut,Corner Shop
+52.72,22000,FieryGem,1950,4124.24,12,14,Wallnut,Corner Shop
 52.63,28432,Fire Sealed Staff of Mirage,4500,9499.8,5,1,bowstalls,all fire sealed/6acc1agi SS boot
 52.45,28421,Bow of Incantation,85000,178750.0,4,1,M0Nster,Items
+52.27,25522,,75,157.12,4,19,loyalty1,selling
+51.53,22000,FieryGem,1999,4124.24,12,10,Caiser,cheap stuff
 51.27,22003,Glowing Gem,900,1846.9,11,4,lamamandoski,super cheap
 50.88,22001,Furious Gem,1499,3051.69,11,22,BL4CKM4RK3T,normal gems and stuff
 50.85,22001,Furious Gem,1500,3051.69,11,2,STALLING11,UG/REF/NORMAL CHEAP
