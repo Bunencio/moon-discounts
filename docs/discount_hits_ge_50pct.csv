@@ -16,6 +16,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.22,28128,Warmth of the Cleric,25000,90000.0,3,1,smoI,hats at 50% price
 71.89,28456,Ice Sealed Robe of the Sphinx,10000,35577.6,5,1,xVENDORx,RUSH
 67.21,26000,Sandy Coin,142,433.04,5,7,CreoQueSoyMujer,ALMOST 4 FREE
+66.17,25504,Standard Scroll,300,886.76,4,4,Olkc,magical standard stone scroll
+66.17,25504,Standard Scroll,300,886.76,4,45,StepanBendera,FB/BoodFire/Cooked
 65.99,22001,Furious Gem,1000,2939.94,11,1,CoroaDaPoshe,SELL GEM
 65.99,22001,Furious Gem,1000,2939.94,11,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 65.36,26000,Sandy Coin,150,433.04,5,2,KillerSolo,dg coins and more help me PLEASE
@@ -23,8 +25,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.12,28327,Great Aqua Cap,250000,716666.33,3,1,XiXi0n,app/ring/voy/pots/dagger/cap/imp
 65.05,25440,Evanescence Stone,250,715.33,4,90,hunterx,cheap DOE/2Gen STRpet/knife app
 65.01,30121,Vial of Accuracy Reset,2000,5715.67,7,4,Yennefer,JADE GPS HAIR CLOUD EVA EXPSTONE
-64.89,25504,Standard Scroll,300,854.39,4,4,Olkc,magical standard stone scroll
-64.89,25504,Standard Scroll,300,854.39,4,45,StepanBendera,FB/BoodFire/Cooked
 63.46,25522,,75,205.27,3,6,loyalty1,selling
 63.46,25522,,75,205.27,3,4,xVENDORx,RUSH
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
@@ -34,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 62.63,30118,Vial of Strength Reset,2500,6689.53,4,2,TuoTuo,Cleaning BANK
 62.41,22004,Shining Gem,1250,3325.78,9,76,hunterx,cheap DOE/2Gen STRpet/knife app
-61.96,26591,Potion of Lion,1111,2920.93,13,3,cudecachorro2,ALL 1G!!!!!!!!!!!!!!!!!!!!!!!!!!
+61.9,26591,Potion of Lion,1111,2916.05,13,3,cudecachorro2,ALL 1G!!!!!!!!!!!!!!!!!!!!!!!!!!
 61.25,25071,Magical Oak Log,50,129.05,3,99,bruna99,mnsd
 61.25,25071,Magical Oak Log,50,129.05,3,55,bruna99,mnsd
 59.58,28458,Ice Sealed Staff of the Sphinx,15000,37110.6,5,1,Electricman1,GPS/PPS/Jp MvMCoin/PharGem/Etc
