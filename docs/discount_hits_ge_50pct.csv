@@ -42,6 +42,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.61,22000,FieryGem,1500,4012.09,11,1,Inferna,Buy my stuff please!
 61.84,22004,Shining Gem,1250,3275.52,9,75,hunterx,cheap DOE/2Gen STRpet/knife app
 61.38,28411,Staff of Incantation,99000,256333.0,3,1,xXblackAngelXx,goo
+60.0,28430,Fire Sealed Robe of Malediction,3333,8333.29,4,1,CallMeBaby,CHEAP
 59.58,28458,Ice Sealed Staff of the Sphinx,15000,37110.6,5,1,Electricman1,GPS/PPS/Jp MvMCoin/PharGem/Etc
 59.58,28458,Ice Sealed Staff of the Sphinx,14999,37110.6,5,1,BjornIronside,ZDZDDD
 58.79,22004,Shining Gem,1350,3275.52,9,15,lamamandoski,super cheap
@@ -51,7 +52,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.26,30121,Vial of Accuracy Reset,2500,5715.67,7,1,TuoTuo,Cleaning BANK
 55.28,28456,Ice Sealed Robe of the Sphinx,12333,27577.6,4,1,StepanBendera,FB/BoodFire/Cooked
 55.22,28436,Fire Sealed Staff of Evanescence,7500,16749.5,5,1,Nixm,Cheap Lv50 Items ALL CLASSES
-54.61,26589,Potion of Bull,1000,2202.91,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
+54.6,26589,Potion of Bull,1000,2202.68,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,76,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
@@ -59,7 +60,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 54.13,28327,Great Aqua Cap,250000,544999.75,4,1,XiXi0n,voy/app/ring/cap/wing/pots/dagge
 54.07,25506,Expert Scroll,500,1088.52,5,63,HaBuffer,imps
-53.85,28430,Fire Sealed Robe of Malediction,3333,7222.17,3,1,CallMeBaby,CHEAP
 52.34,22003,Glowing Gem,1500,3147.32,12,79,Look7,TY
 52.31,22006,Spirit Gem,3000,6290.32,6,17,Reaper,KAL 1.2M | ALL NORMAL GEMS 3K EA
 50.18,22000,FieryGem,1999,4012.09,11,10,Caiser,cheap stuff
