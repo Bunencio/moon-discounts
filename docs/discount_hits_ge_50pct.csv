@@ -9,6 +9,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.64,28134,Commanders Cap,70000,403333.33,3,1,bankoe,Cleric Voy Hat Cheap Than Making
 79.33,28458,Ice Sealed Staff of the Sphinx,7777,37618.57,7,1,xCrossex,Sealed item cheap
 73.83,25496,Cyan Colorant.,1000,3821.43,3,1,pisslow,chest Dw+dw2 rock gem  colors
+73.69,25503,Magical Stone,200,760.24,9,77,xVENDORx,RUSH
 73.24,25176,Sweet Poison,49,183.11,3,12,TagBaligya2,Manu Items
 73.07,25495,Green Colorant,1000,3712.96,4,3,pisslow,chest Dw+dw2 rock gem  colors
 72.56,25494,Yellow Colorant.,1000,3644.23,4,3,pisslow,chest Dw+dw2 rock gem  colors
@@ -18,7 +19,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.27,28132,Voyager Cap,44000,148000.0,3,1,freeee,CHEAP
 69.7,28418,Earth Sealed Kiss of the Cursed,2000,6600.0,4,1,CaloNord,de todo
 68.0,28035,Solar Shield,9999,31249.5,4,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
-67.39,25503,Magical Stone,250,766.72,9,68,xVENDORx,RUSH
 66.22,28132,Voyager Cap,50000,148000.0,3,1,stuart,EQUIPS
 65.99,22001,Furious Gem,1000,2939.94,11,1,CoroaDaPoshe,SELL GEM
 65.99,22001,Furious Gem,1000,2939.94,11,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
@@ -53,7 +53,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.87,26589,Potion of Bull,1000,2121.64,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
 52.63,28432,Fire Sealed Staff of Mirage,4500,9499.8,5,1,bowstalls,all fire sealed/6acc1agi SS boot
 52.45,28421,Bow of Incantation,85000,178750.0,4,1,M0Nster,Items
-52.27,25522,,75,157.12,4,19,loyalty1,selling
 51.71,22000,FieryGem,1999,4139.5,12,10,Caiser,cheap stuff
 51.27,22003,Glowing Gem,900,1846.9,11,4,lamamandoski,super cheap
+50.76,25522,,75,152.32,3,19,loyalty1,selling
+50.76,25522,,75,152.32,3,19,xVENDORx,RUSH
 50.74,28454,Ice Sealed Blade of Enigma,200000,406000.0,4,1,Bodeguita1,alot of sh1t
