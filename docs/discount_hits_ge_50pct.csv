@@ -1,9 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.08,29013,Novice 15 Treasure Hunting EXP Card,100,1008.33,3,1,Bathroom,sellllllllllllllllllllllllllllll
-87.09,22001,Furious Gem,400,3099.47,10,5,lamamandoski,super cheap
-83.87,22001,Furious Gem,500,3099.47,10,6,Bathroom,sellllllllllllllllllllllllllllll
-83.87,22001,Furious Gem,500,3099.47,10,1,LazzzyBee,CHEAP
-83.87,22001,Furious Gem,500,3099.47,10,19,Wallnut,Corner Shop
+87.08,22001,Furious Gem,400,3095.05,10,5,lamamandoski,super cheap
+83.85,22001,Furious Gem,500,3095.05,10,6,Bathroom,sellllllllllllllllllllllllllllll
+83.85,22001,Furious Gem,500,3095.05,10,1,LazzzyBee,CHEAP
+83.85,22001,Furious Gem,500,3095.05,10,19,Wallnut,Corner Shop
 75.8,28466,Ice Sealed Judgment of Enigma,10000,41319.25,6,1,XiXi0n,voy/app/ring/cap/wing/pots/dagge
 75.0,28035,Solar Shield,9999,39999.33,3,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
 73.39,25503,Magical Stone,200,751.6,8,77,xVENDORx,RUSH
@@ -13,10 +13,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.56,25494,Yellow Colorant.,1000,3644.23,4,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 71.63,22003,Glowing Gem,900,3172.54,11,2,lamamandoski,super cheap
 70.06,22003,Glowing Gem,950,3172.54,11,18,Wallnut,Corner Shop
-69.02,30140,10x Crystal,8900,28724.98,3,43,FARMBR,sell
 68.48,22003,Glowing Gem,1000,3172.54,11,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
-67.74,22001,Furious Gem,1000,3099.47,10,1,CoroaDaPoshe,SELL GEM
-67.74,22001,Furious Gem,1000,3099.47,10,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+67.69,22001,Furious Gem,1000,3095.05,10,1,CoroaDaPoshe,SELL GEM
+67.69,22001,Furious Gem,1000,3095.05,10,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 67.59,25504,Standard Scroll,300,925.63,4,4,Olkc,magical standard stone scroll
 67.59,25504,Standard Scroll,300,925.63,4,45,StepanBendera,FB/BoodFire/Cooked
 67.27,25522,,75,229.16,4,6,loyalty1,selling
@@ -45,13 +44,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.26,30121,Vial of Accuracy Reset,2500,5715.67,7,1,TuoTuo,Cleaning BANK
 55.88,28436,Fire Sealed Staff of Evanescence,7500,16999.43,4,1,Nixm,Cheap Lv50 Items ALL CLASSES
 55.28,28456,Ice Sealed Robe of the Sphinx,12333,27577.6,4,1,StepanBendera,FB/BoodFire/Cooked
-54.37,26589,Potion of Bull,1000,2191.46,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
+54.91,30140,10x Crystal,8800,19515.96,4,55,DarknessL,sell imps
+54.4,30140,10x Crystal,8900,19515.96,4,43,FARMBR,sell
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,76,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 53.85,28430,Fire Sealed Robe of Malediction,3333,7222.17,3,1,CallMeBaby,CHEAP
-53.64,22000,FieryGem,1999,4311.97,10,10,Caiser,cheap stuff
+53.62,26589,Potion of Bull,1000,2156.19,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
+53.03,22000,FieryGem,1999,4256.25,10,10,Caiser,cheap stuff
 52.72,22003,Glowing Gem,1500,3172.54,11,79,Look7,TY
 50.0,28212,Priestly Robe,5000,10000.0,3,1,Skebedep,items
