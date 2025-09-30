@@ -4,25 +4,25 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 94.5,28327,Great Aqua Cap,30000,544999.75,4,1,HaBuffer,imps
 93.94,26564,Meditation Potion,34,560.8,4,99,TagBaligya2,Manu Items
 93.76,26564,Meditation Potion,35,560.8,4,9,Godsky,sell
-86.97,22001,Furious Gem,400,3070.35,10,5,lamamandoski,super cheap
-83.72,22001,Furious Gem,500,3070.35,10,6,Bathroom,sellllllllllllllllllllllllllllll
-83.72,22001,Furious Gem,500,3070.35,10,1,LazzzyBee,CHEAP
-83.72,22001,Furious Gem,500,3070.35,10,19,Wallnut,Corner Shop
+86.99,22001,Furious Gem,400,3074.55,10,5,lamamandoski,super cheap
+83.74,22001,Furious Gem,500,3074.55,10,6,Bathroom,sellllllllllllllllllllllllllllll
+83.74,22001,Furious Gem,500,3074.55,10,1,LazzzyBee,CHEAP
+83.74,22001,Furious Gem,500,3074.55,10,19,Wallnut,Corner Shop
 76.7,26000,Sandy Coin,100,429.22,5,7,CreoQueSoyMujer,ALMOST 4 FREE
 75.8,28466,Ice Sealed Judgment of Enigma,10000,41319.25,6,1,XiXi0n,voy/app/ring/cap/wing/pots/dagge
 75.0,28035,Solar Shield,9999,39999.33,3,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
-73.24,25176,Sweet Poison,49,183.11,3,12,TagBaligya2,Manu Items
+73.77,25176,Sweet Poison,49,186.8,3,9,TagBaligya2,Manu Items
 73.24,25503,Magical Stone,200,747.26,9,77,xVENDORx,RUSH
 73.07,25495,Green Colorant,1000,3712.96,4,3,pisslow,chest Dw+dw2 rock gem  colors
 72.8,25494,Yellow Colorant.,1000,3676.47,3,3,pisslow,chest Dw+dw2 rock gem  colors
 72.8,25494,Yellow Colorant.,1000,3676.47,3,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
-71.38,22003,Glowing Gem,900,3144.23,11,2,lamamandoski,super cheap
-69.79,22003,Glowing Gem,950,3144.23,11,18,Wallnut,Corner Shop
-68.2,22003,Glowing Gem,1000,3144.23,11,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+71.4,22003,Glowing Gem,900,3147.32,12,2,lamamandoski,super cheap
+69.82,22003,Glowing Gem,950,3147.32,12,18,Wallnut,Corner Shop
+68.23,22003,Glowing Gem,1000,3147.32,12,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 67.59,25504,Standard Scroll,300,925.63,4,4,Olkc,magical standard stone scroll
 67.59,25504,Standard Scroll,300,925.63,4,45,StepanBendera,FB/BoodFire/Cooked
-67.43,22001,Furious Gem,1000,3070.35,10,1,CoroaDaPoshe,SELL GEM
-67.43,22001,Furious Gem,1000,3070.35,10,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+67.47,22001,Furious Gem,1000,3074.55,10,1,CoroaDaPoshe,SELL GEM
+67.47,22001,Furious Gem,1000,3074.55,10,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 67.27,25522,,75,229.16,4,6,loyalty1,selling
 67.27,25522,,75,229.16,4,4,xVENDORx,RUSH
 67.11,28476,Ice Sealed Kris of the Sphinx,25000,76000.0,4,1,XiXi0n,voy/app/ring/cap/wing/pots/dagge
@@ -31,7 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.05,26000,Sandy Coin,150,429.22,5,2,KillerSolo,dg coins and more help me PLEASE
 65.01,30121,Vial of Accuracy Reset,2000,5715.67,7,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
 63.74,28456,Ice Sealed Robe of the Sphinx,10000,27577.6,4,1,xVENDORx,RUSH
-63.43,22003,Glowing Gem,1150,3144.23,11,13,TuoTuo,Cleaning BANK
+63.46,22003,Glowing Gem,1150,3147.32,12,13,TuoTuo,Cleaning BANK
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
@@ -59,7 +59,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.07,25506,Expert Scroll,500,1088.52,5,63,HaBuffer,imps
 53.85,28430,Fire Sealed Robe of Malediction,3333,7222.17,3,1,CallMeBaby,CHEAP
 53.62,26589,Potion of Bull,1000,2156.19,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
+52.34,22003,Glowing Gem,1500,3147.32,12,79,Look7,TY
 52.31,22006,Spirit Gem,3000,6290.32,6,17,Reaper,KAL 1.2M | ALL NORMAL GEMS 3K EA
-52.29,22003,Glowing Gem,1500,3144.23,11,79,Look7,TY
+50.27,22000,FieryGem,1999,4019.96,10,10,Caiser,cheap stuff
 50.03,26001,Ninja Coin,300,600.34,11,7,xVENDORx,RUSH
 50.0,28212,Priestly Robe,5000,10000.0,3,1,Skebedep,items
