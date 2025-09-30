@@ -92,7 +92,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,26002,Pharaoh Gem,BuyingSta4ll7,GPS | PPS | PURSE FRAG | JACK ++,1290,1550.39,260.39,99,25778.43,16.8,10
 2025-09-30,26002,Pharaoh Gem,voyo,SOOOOO GOOOD AND SOOO CHEAP!,1299,1550.39,251.39,99,24887.43,16.21,10
 2025-09-30,25451,Jade Gem Fragment,FukPolice,rage/jadefrg/pps/gps/lbp/gems,76000,90413.42,14413.42,12,172961.08,15.94,10
-2025-09-30,25431,Kal Runestone,Aois,STALL,1050000,1228571.29,178571.29,1,178571.29,14.53,5
 2025-09-30,25426,Universe Purse Fragment.,BuyingSta4ll7,GPS | PPS | PURSE FRAG | JACK ++,300000,349714.21,49714.21,4,198856.86,14.22,5
 2025-09-30,25426,Universe Purse Fragment.,VIP,Universe Purse Frag/Island Cards,299999,349714.21,49715.21,1,49715.21,14.22,5
 2025-09-30,28401,Platemail of the Cursed Soul,bankerrr,Bank Cleaning,150000,173333.33,23333.33,1,23333.33,13.46,3
@@ -128,6 +127,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,22013,Demonic Gem of Striking,LotokSell,Demo Striking and another,2500000,2650000.0,150000.0,1,150000.0,5.66,3
 2025-09-30,26578,Aegis Brew,Timotron,Cheapest Pots Ever ! Just Look !,54900,57846.22,2946.22,31,91332.84,5.09,7
 2025-09-30,26578,Aegis Brew,MrMarket,MANU BLESS SUPP POINTS,55000,57846.22,2846.22,16,45539.53,4.92,7
+2025-09-30,25431,Kal Runestone,Inuyasha,MANY KALS,1200000,1258333.17,58333.17,1,58333.17,4.64,4
+2025-09-30,25431,Kal Runestone,Seller1,Kal runestone - DEM rage CHEAP!,1200000,1258333.17,58333.17,1,58333.17,4.64,4
 2025-09-30,27020,Gold Pirate Scroll,Lauriel,Promotion,17999,18794.97,795.97,54,42982.61,4.24,16
 2025-09-30,27020,Gold Pirate Scroll,Gogosar,25 Str/GPS/Crystal/Crus Items,17999,18794.97,795.97,54,42982.61,4.24,16
 2025-09-30,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PPS | PURSE FRAG | JACK ++,18000,18794.97,794.97,61,48493.43,4.23,16
@@ -142,8 +143,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,30139,100x Crystal,Mikosita,SELL IMPS/GPS/REF/JACKPOT,86499,88815.98,2316.98,59,136701.72,2.61,8
 2025-09-30,30139,100x Crystal,DarknessL,sell imps,86500,88815.98,2315.98,32,74111.31,2.61,8
 2025-09-30,26578,Aegis Brew,Nads,TOTEM COOKINGS ARE TRASH B HERE,56500,57846.22,1346.22,22,29616.85,2.33,7
-2025-09-30,25431,Kal Runestone,Inuyasha,MANY KALS,1200000,1228571.29,28571.29,1,28571.29,2.33,5
-2025-09-30,25431,Kal Runestone,Seller1,Kal runestone - DEM rage CHEAP!,1200000,1228571.29,28571.29,1,28571.29,2.33,5
 2025-09-30,30139,100x Crystal,Gogosar,25 Str/GPS/Crystal/Crus Items,87000,88815.98,1815.98,15,27239.68,2.04,8
 2025-09-30,26572,Inferno Potion,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED,9900,10091.46,191.46,200,38292.95,1.9,4
 2025-09-30,26578,Aegis Brew,Lag,Aegis Brew cheap,57000,57846.22,846.22,31,26232.84,1.46,7
