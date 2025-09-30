@@ -2,12 +2,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.08,28134,Commanders Cap,40000,403333.33,3,1,smoI,hats at 50% price
 90.08,29013,Novice 15 Treasure Hunting EXP Card,100,1008.33,3,1,Bathroom,sellllllllllllllllllllllllllllll
 86.39,22001,Furious Gem,400,2939.94,11,5,lamamandoski,super cheap
-84.0,28035,Solar Shield,5000,31249.5,4,1,Zekrom,CHEAPER U DONT Hget
 82.99,22001,Furious Gem,500,2939.94,11,6,Bathroom,sellllllllllllllllllllllllllllll
 82.99,22001,Furious Gem,500,2939.94,11,1,LazzzyBee,CHEAP
 82.99,22001,Furious Gem,500,2939.94,11,21,Wallnut,Corner Shop
 82.64,28134,Commanders Cap,70000,403333.33,3,1,bankoe,Cleric Voy Hat Cheap Than Making
-79.33,28458,Ice Sealed Staff of the Sphinx,7777,37618.57,7,1,xCrossex,Sealed item cheap
+75.86,28458,Ice Sealed Staff of the Sphinx,7777,32221.67,6,1,xCrossex,Sealed item cheap
+75.0,28035,Solar Shield,9999,39999.33,3,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
 73.83,25496,Cyan Colorant.,1000,3821.43,3,1,pisslow,chest Dw+dw2 rock gem  colors
 73.69,25503,Magical Stone,200,760.24,9,77,xVENDORx,RUSH
 73.24,25176,Sweet Poison,49,183.11,3,12,TagBaligya2,Manu Items
@@ -18,7 +18,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.89,28456,Ice Sealed Robe of the Sphinx,10000,35577.6,5,1,xVENDORx,RUSH
 70.27,28132,Voyager Cap,44000,148000.0,3,1,freeee,CHEAP
 69.7,28418,Earth Sealed Kiss of the Cursed,2000,6600.0,4,1,CaloNord,de todo
-68.0,28035,Solar Shield,9999,31249.5,4,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
 66.22,28132,Voyager Cap,50000,148000.0,3,1,stuart,EQUIPS
 65.99,22001,Furious Gem,1000,2939.94,11,1,CoroaDaPoshe,SELL GEM
 65.99,22001,Furious Gem,1000,2939.94,11,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
@@ -29,7 +28,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.89,25504,Standard Scroll,300,854.39,4,4,Olkc,magical standard stone scroll
 64.89,25504,Standard Scroll,300,854.39,4,45,StepanBendera,FB/BoodFire/Cooked
 63.72,26591,Potion of Lion,990,2728.69,14,9,SirCumcision,--The Circumcised Shop--
-63.64,28406,Earth Sealed Staff of Abraxas.,2500,6875.0,3,1,Zekrom,CHEAPER U DONT Hget
 62.63,30118,Vial of Strength Reset,2500,6689.53,4,2,TuoTuo,Cleaning BANK
 62.41,22004,Shining Gem,1250,3325.78,9,76,hunterx,cheap DOE/2Gen STRpet/knife app
 61.25,25071,Magical Oak Log,50,129.05,3,99,bruna99,mnsd
@@ -40,21 +38,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.7,2302,,9999,25443.5,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 60.7,2302,,9999,25443.5,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 60.7,2302,,9999,25443.5,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
-60.13,28458,Ice Sealed Staff of the Sphinx,15000,37618.57,7,1,Electricman1,MvM/PharaoGem/StormGloves+5spr
-60.13,28458,Ice Sealed Staff of the Sphinx,14999,37618.57,7,1,BjornIronside,SDSD
 59.41,22004,Shining Gem,1350,3325.78,9,15,lamamandoski,super cheap
-59.22,26000,Sandy Coin,150,367.81,3,22,KillerSolo,dg coins and more help me PLEASE
+58.37,26000,Sandy Coin,145,348.31,4,7,CreoQueSoyMujer,ALMOST 4 FREE
 57.9,22004,Shining Gem,1400,3325.78,9,16,Wallnut,Corner Shop
+56.94,26000,Sandy Coin,150,348.31,4,22,KillerSolo,dg coins and more help me PLEASE
 56.26,30121,Vial of Accuracy Reset,2500,5715.67,7,1,TuoTuo,Cleaning BANK
 56.02,26591,Potion of Lion,1200,2728.69,14,11,MiLD,sell
-55.24,28421,Bow of Incantation,80000,178750.0,4,1,Nikoz,Cheap Stuff for you!!!!
 53.85,28430,Fire Sealed Robe of Malediction,3333,7222.17,3,1,CallMeBaby,CHEAP
+53.45,28458,Ice Sealed Staff of the Sphinx,15000,32221.67,6,1,Electricman1,MvM/PharaoGem/StormGloves+5spr
+53.45,28458,Ice Sealed Staff of the Sphinx,14999,32221.67,6,1,BjornIronside,SDSD
 52.89,22000,FieryGem,1950,4139.5,12,12,Wallnut,Corner Shop
 52.87,26589,Potion of Bull,1000,2121.64,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
 52.63,28432,Fire Sealed Staff of Mirage,4500,9499.8,5,1,bowstalls,all fire sealed/6acc1agi SS boot
-52.45,28421,Bow of Incantation,85000,178750.0,4,1,M0Nster,Items
 51.71,22000,FieryGem,1999,4139.5,12,10,Caiser,cheap stuff
 51.27,22003,Glowing Gem,900,1846.9,11,4,lamamandoski,super cheap
 50.76,25522,,75,152.32,3,19,loyalty1,selling
 50.76,25522,,75,152.32,3,19,xVENDORx,RUSH
-50.74,28454,Ice Sealed Blade of Enigma,200000,406000.0,4,1,Bodeguita1,alot of sh1t
