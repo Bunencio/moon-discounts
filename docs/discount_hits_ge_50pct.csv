@@ -2,11 +2,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 93.57,28327,Great Aqua Cap,40000,622499.75,4,1,smoI,hats at 50% price
 90.08,28134,Commanders Cap,40000,403333.33,3,1,smoI,hats at 50% price
 90.08,29013,Novice 15 Treasure Hunting EXP Card,100,1008.33,3,1,Bathroom,sellllllllllllllllllllllllllllll
-86.95,22001,Furious Gem,400,3066.26,10,5,lamamandoski,super cheap
+86.39,22001,Furious Gem,400,2939.94,11,5,lamamandoski,super cheap
 84.0,28035,Solar Shield,5000,31249.5,4,1,Zekrom,CHEAPER U DONT Hget
-83.69,22001,Furious Gem,500,3066.26,10,6,Bathroom,sellllllllllllllllllllllllllllll
-83.69,22001,Furious Gem,500,3066.26,10,1,LazzzyBee,CHEAP
-83.69,22001,Furious Gem,500,3066.26,10,21,Wallnut,Corner Shop
+82.99,22001,Furious Gem,500,2939.94,11,6,Bathroom,sellllllllllllllllllllllllllllll
+82.99,22001,Furious Gem,500,2939.94,11,1,LazzzyBee,CHEAP
+82.99,22001,Furious Gem,500,2939.94,11,21,Wallnut,Corner Shop
 82.64,28134,Commanders Cap,70000,403333.33,3,1,bankoe,Cleric Voy Hat Cheap Than Making
 79.33,28458,Ice Sealed Staff of the Sphinx,7777,37618.57,7,1,xCrossex,Sealed item cheap
 73.24,25176,Sweet Poison,49,183.11,3,12,TagBaligya2,Manu Items
@@ -15,19 +15,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.27,28132,Voyager Cap,44000,148000.0,3,1,freeee,CHEAP
 69.7,28418,Earth Sealed Kiss of the Cursed,2000,6600.0,4,1,CaloNord,de todo
 68.0,28035,Solar Shield,9999,31249.5,4,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
-67.39,22001,Furious Gem,1000,3066.26,10,1,CoroaDaPoshe,SELL GEM
-67.39,22001,Furious Gem,1000,3066.26,10,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 67.39,25503,Magical Stone,250,766.72,9,68,xVENDORx,RUSH
 66.22,28132,Voyager Cap,50000,148000.0,3,1,stuart,EQUIPS
-65.83,22004,Shining Gem,1350,3951.19,9,15,lamamandoski,super cheap
+65.99,22001,Furious Gem,1000,2939.94,11,1,CoroaDaPoshe,SELL GEM
+65.99,22001,Furious Gem,1000,2939.94,11,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 65.33,28456,Ice Sealed Robe of the Sphinx,12333,35577.6,5,1,StepanBendera,FB/BoodFire/Cooked
+65.05,25440,Evanescence Stone,250,715.33,4,90,hunterx,cheap DOE/2Gen STRpet/knife app
 65.01,30121,Vial of Accuracy Reset,2000,5715.67,7,4,Yennefer,JADE GPS HAIR CLOUD EVA EXPSTONE
 64.89,25504,Standard Scroll,300,854.39,4,4,Olkc,magical standard stone scroll
 64.89,25504,Standard Scroll,300,854.39,4,45,StepanBendera,FB/BoodFire/Cooked
-64.57,22004,Shining Gem,1400,3951.19,9,16,Wallnut,Corner Shop
 63.72,26591,Potion of Lion,990,2728.69,14,9,SirCumcision,--The Circumcised Shop--
 63.64,28406,Earth Sealed Staff of Abraxas.,2500,6875.0,3,1,Zekrom,CHEAPER U DONT Hget
 62.63,30118,Vial of Strength Reset,2500,6689.53,4,2,TuoTuo,Cleaning BANK
+62.41,22004,Shining Gem,1250,3325.78,9,76,hunterx,cheap DOE/2Gen STRpet/knife app
 61.91,26000,Sandy Coin,150,393.79,4,22,KillerSolo,dg coins and more help me PLEASE
 61.25,25071,Magical Oak Log,50,129.05,3,99,bruna99,mnsd
 61.25,25071,Magical Oak Log,50,129.05,3,55,bruna99,mnsd
@@ -41,11 +41,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.13,28458,Ice Sealed Staff of the Sphinx,15000,37618.57,7,1,Electricman1,MvM/PharaoGem/StormGloves+5spr
 60.13,28458,Ice Sealed Staff of the Sphinx,14999,37618.57,7,1,BjornIronside,SDSD
 59.84,28327,Great Aqua Cap,250000,622499.75,4,1,XiXi0n,app/ring/voy/pots/dagger/cap/imp
+59.41,22004,Shining Gem,1350,3325.78,9,15,lamamandoski,super cheap
+57.9,22004,Shining Gem,1400,3325.78,9,16,Wallnut,Corner Shop
 56.26,30121,Vial of Accuracy Reset,2500,5715.67,7,1,TuoTuo,Cleaning BANK
 56.1,25495,Green Colorant,1000,2277.78,3,3,pisslow,chest Dw+dw2 rock gem  colors
 56.02,26591,Potion of Lion,1200,2728.69,14,11,MiLD,sell
 55.24,28421,Bow of Incantation,80000,178750.0,4,1,Nikoz,Cheap Stuff for you!!!!
-53.88,28446,Fire Sealed Bow of Evanescence,9999,21680.45,9,1,LadyRizz,cheap
 53.85,28430,Fire Sealed Robe of Malediction,3333,7222.17,3,1,CallMeBaby,CHEAP
 52.87,26589,Potion of Bull,1000,2121.64,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
 52.72,22000,FieryGem,1950,4124.24,12,14,Wallnut,Corner Shop
@@ -54,4 +55,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.27,25522,,75,157.12,4,19,loyalty1,selling
 51.53,22000,FieryGem,1999,4124.24,12,10,Caiser,cheap stuff
 51.27,22003,Glowing Gem,900,1846.9,11,4,lamamandoski,super cheap
-51.11,22001,Furious Gem,1499,3066.26,10,22,BL4CKM4RK3T,normal gems and stuff
