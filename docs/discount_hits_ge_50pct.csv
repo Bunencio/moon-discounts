@@ -5,7 +5,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.72,22001,Furious Gem,500,3072.19,10,1,LazzzyBee,CHEAP
 83.72,22001,Furious Gem,500,3072.19,10,21,Wallnut,Corner Shop
 75.0,28035,Solar Shield,9999,39999.33,3,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
-73.83,25496,Cyan Colorant.,1000,3821.43,3,1,pisslow,chest Dw+dw2 rock gem  colors
 73.39,25503,Magical Stone,200,751.6,8,77,xVENDORx,RUSH
 73.24,25176,Sweet Poison,49,183.11,3,12,TagBaligya2,Manu Items
 73.07,25495,Green Colorant,1000,3712.96,4,3,pisslow,chest Dw+dw2 rock gem  colors
@@ -34,7 +33,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 62.63,30118,Vial of Strength Reset,2500,6689.53,4,2,TuoTuo,Cleaning BANK
 62.48,22004,Shining Gem,1250,3331.94,9,75,hunterx,cheap DOE/2Gen STRpet/knife app
-61.76,26591,Potion of Lion,1111,2904.98,13,3,cudecachorro2,ALL 1G!!!!!!!!!!!!!!!!!!!!!!!!!!
+61.78,26591,Potion of Lion,1111,2906.68,14,3,cudecachorro2,ALL 1G!!!!!!!!!!!!!!!!!!!!!!!!!!
 61.25,25071,Magical Oak Log,50,129.05,3,99,bruna99,mnsd
 61.25,25071,Magical Oak Log,50,129.05,3,55,bruna99,mnsd
 59.58,28458,Ice Sealed Staff of the Sphinx,15000,37110.6,5,1,Electricman1,GPS/PPS/Jp MvMCoin/PharGem/Etc
@@ -44,7 +43,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.26,30121,Vial of Accuracy Reset,2500,5715.67,7,1,TuoTuo,Cleaning BANK
 55.88,28436,Fire Sealed Staff of Evanescence,7500,16999.43,4,1,Nixm,Cheap Lv50 Items ALL CLASSES
 55.28,28456,Ice Sealed Robe of the Sphinx,12333,27577.6,4,1,StepanBendera,FB/BoodFire/Cooked
-55.0,26589,Potion of Bull,1000,2222.43,12,6,STALLING11,RAGE/REFINING/POTS/CHEAP
+55.08,26589,Potion of Bull,1000,2226.32,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,76,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
@@ -55,4 +54,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.72,22003,Glowing Gem,1500,3172.54,11,79,Look7,TY
 51.77,25522,,99,205.27,3,5,Stellar,Thrift Shop
 50.1,26001,Ninja Coin,299,599.16,11,6,CreoQueSoyMujer,ALMOST 4 FREE
+50.0,28212,Priestly Robe,5000,10000.0,3,1,Skebedep,items
 50.0,28476,Ice Sealed Kris of the Sphinx,40000,80000.0,3,1,XiXi0n,app/ring/voy/pots/dagger/cap/imp
