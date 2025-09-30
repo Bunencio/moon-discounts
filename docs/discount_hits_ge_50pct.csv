@@ -1,9 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.08,29013,Novice 15 Treasure Hunting EXP Card,100,1008.33,3,1,Bathroom,sellllllllllllllllllllllllllllll
-87.08,22001,Furious Gem,400,3095.05,10,5,lamamandoski,super cheap
-83.85,22001,Furious Gem,500,3095.05,10,6,Bathroom,sellllllllllllllllllllllllllllll
-83.85,22001,Furious Gem,500,3095.05,10,1,LazzzyBee,CHEAP
-83.85,22001,Furious Gem,500,3095.05,10,19,Wallnut,Corner Shop
+87.09,22001,Furious Gem,400,3099.47,10,5,lamamandoski,super cheap
+83.87,22001,Furious Gem,500,3099.47,10,6,Bathroom,sellllllllllllllllllllllllllllll
+83.87,22001,Furious Gem,500,3099.47,10,1,LazzzyBee,CHEAP
+83.87,22001,Furious Gem,500,3099.47,10,19,Wallnut,Corner Shop
+75.8,28466,Ice Sealed Judgment of Enigma,10000,41319.25,6,1,XiXi0n,voy/app/ring/cap/wing/pots/dagge
 75.0,28035,Solar Shield,9999,39999.33,3,1,TTKillGirlTT,PPs  /  Sealed 50 / Shield 50
 73.39,25503,Magical Stone,200,751.6,8,77,xVENDORx,RUSH
 73.24,25176,Sweet Poison,49,183.11,3,12,TagBaligya2,Manu Items
@@ -12,18 +13,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.56,25494,Yellow Colorant.,1000,3644.23,4,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 71.63,22003,Glowing Gem,900,3172.54,11,2,lamamandoski,super cheap
 70.06,22003,Glowing Gem,950,3172.54,11,18,Wallnut,Corner Shop
+69.02,30140,10x Crystal,8900,28724.98,3,43,FARMBR,sell
 68.48,22003,Glowing Gem,1000,3172.54,11,2,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
-67.94,26000,Sandy Coin,150,467.81,5,2,KillerSolo,dg coins and more help me PLEASE
-67.69,22001,Furious Gem,1000,3095.05,10,1,CoroaDaPoshe,SELL GEM
-67.69,22001,Furious Gem,1000,3095.05,10,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
+67.74,22001,Furious Gem,1000,3099.47,10,1,CoroaDaPoshe,SELL GEM
+67.74,22001,Furious Gem,1000,3099.47,10,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 67.59,25504,Standard Scroll,300,925.63,4,4,Olkc,magical standard stone scroll
 67.59,25504,Standard Scroll,300,925.63,4,45,StepanBendera,FB/BoodFire/Cooked
+67.27,25522,,75,229.16,4,6,loyalty1,selling
+67.27,25522,,75,229.16,4,4,xVENDORx,RUSH
+67.25,26000,Sandy Coin,150,458.04,4,2,KillerSolo,dg coins and more help me PLEASE
+67.21,28476,Ice Sealed Kris of the Sphinx,25000,76250.0,3,1,XiXi0n,voy/app/ring/cap/wing/pots/dagge
+65.12,28327,Great Aqua Cap,250000,716666.33,3,1,XiXi0n,voy/app/ring/cap/wing/pots/dagge
 65.05,25440,Evanescence Stone,250,715.33,4,90,hunterx,cheap DOE/2Gen STRpet/knife app
 65.01,30121,Vial of Accuracy Reset,2000,5715.67,7,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
 63.75,22003,Glowing Gem,1150,3172.54,11,13,TuoTuo,Cleaning BANK
 63.74,28456,Ice Sealed Robe of the Sphinx,10000,27577.6,4,1,xVENDORx,RUSH
-63.46,25522,,75,205.27,3,6,loyalty1,selling
-63.46,25522,,75,205.27,3,4,xVENDORx,RUSH
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
@@ -37,20 +41,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.58,28458,Ice Sealed Staff of the Sphinx,14999,37110.6,5,1,BjornIronside,ZDZDDD
 59.48,22004,Shining Gem,1350,3331.94,9,15,lamamandoski,super cheap
 57.98,22004,Shining Gem,1400,3331.94,9,16,Wallnut,Corner Shop
+56.8,25522,,99,229.16,4,5,Stellar,Thrift Shop
 56.26,30121,Vial of Accuracy Reset,2500,5715.67,7,1,TuoTuo,Cleaning BANK
 55.88,28436,Fire Sealed Staff of Evanescence,7500,16999.43,4,1,Nixm,Cheap Lv50 Items ALL CLASSES
-55.56,28406,Earth Sealed Staff of Abraxas.,5000,11250.0,3,1,Pyriael,CHEAP
 55.28,28456,Ice Sealed Robe of the Sphinx,12333,27577.6,4,1,StepanBendera,FB/BoodFire/Cooked
-54.41,26589,Potion of Bull,1000,2193.37,12,6,STALLING11,RAGE/REFINING/POTS/CHEAP
+54.37,26589,Potion of Bull,1000,2191.46,13,6,STALLING11,RAGE/REFINING/POTS/CHEAP
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,76,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 54.35,25391,Octopus Tentacle,249,545.5,3,99,Vnta1,Octopus Cheap Fast! Come!
 53.85,28430,Fire Sealed Robe of Malediction,3333,7222.17,3,1,CallMeBaby,CHEAP
-53.03,22000,FieryGem,1999,4256.25,10,10,Caiser,cheap stuff
+53.64,22000,FieryGem,1999,4311.97,10,10,Caiser,cheap stuff
 52.72,22003,Glowing Gem,1500,3172.54,11,79,Look7,TY
-51.77,25522,,99,205.27,3,5,Stellar,Thrift Shop
-50.22,26001,Ninja Coin,300,602.67,10,7,xVENDORx,RUSH
 50.0,28212,Priestly Robe,5000,10000.0,3,1,Skebedep,items
-50.0,28468,Ice Sealed Mantle of Enigma,59999,119999.67,3,1,xkom,ENIGMA EQUIPS | CHAOS RUNE ETC
