@@ -1,4 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
+2025-09-30,26562,Cake,cheapstuffguys,cheap,40,1568.1,1528.1,138,210877.93,97.45,3
+2025-09-30,26562,Cake,Shop1,darkblue,75,1568.1,1493.1,200,298620.19,95.22,3
+2025-09-30,26562,Cake,Shop1,darkblue,75,1568.1,1493.1,200,298620.19,95.22,3
 2025-09-30,28440,Fire Sealed Roar of Evanescence,NICE,garner,10000,106250.0,96250.0,1,96250.0,90.59,4
 2025-09-30,28134,Commanders Cap,smoI,hats at 50% price,40000,403333.33,363333.33,1,363333.33,90.08,3
 2025-09-30,28035,Solar Shield,Zekrom,CHEAPER U DONT Hget,5000,35999.6,30999.6,1,30999.6,86.11,5
@@ -39,8 +42,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,25439,Incantation Stone,Look7,TY,1111,1818.09,707.09,99,70002.0,38.89,4
 2025-09-30,27014,Moonroot Wine,F0X01,Iron Brew Best Price EVER,500,817.32,317.32,130,41251.56,38.82,9
 2025-09-30,28462,Ice Sealed Staff of Enigma,xVENDORx,RUSH,50000,78277.75,28277.75,1,28277.75,36.12,4
+2025-09-30,28423,Mantle of the Cursed Flame,HellSpecter,CON PET LV20!,80000,124999.5,44999.5,1,44999.5,36.0,4
 2025-09-30,28401,Platemail of the Cursed Soul,batcat,123,110000,165000.0,55000.0,1,55000.0,33.33,3
-2025-09-30,28423,Mantle of the Cursed Flame,HellSpecter,CON PET LV20!,80000,119999.6,39999.6,1,39999.6,33.33,5
 2025-09-30,26589,Potion of Bull,BL4CKM4RK3T,normal gems and stuff,1499,2240.96,741.96,99,73454.21,33.11,13
 2025-09-30,27014,Moonroot Wine,ChocolateDaddy,Supplies,550,817.32,267.32,91,24326.09,32.71,9
 2025-09-30,27014,Moonroot Wine,ChocolateDaddy,Supplies,550,817.32,267.32,90,24058.77,32.71,9
@@ -53,6 +56,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,26326,Elven Royal Signet,LotokSell,Demo Striking and another,1500,2117.22,617.22,200,123444.54,29.15,5
 2025-09-30,28472,Ice Sealed Bow of Enigma,BjornIronside,SDSD,49999,69999.6,20000.6,1,20000.6,28.57,4
 2025-09-30,30102,1000 Reputation Scroll,MatsBk,CHEAP GPS/PPS/PBS/MORE,6000,8332.77,2332.77,61,142299.12,28.0,6
+2025-09-30,28423,Mantle of the Cursed Flame,iFennec,UNSEALED LV65,89999,124999.5,35000.5,1,35000.5,28.0,4
 2025-09-30,28128,Warmth of the Cleric,ezgoezgoezg1,sell,65000,90000.0,25000.0,1,25000.0,27.78,3
 2025-09-30,26591,Potion of Lion,BoogeyMan,potssss,1999,2760.13,761.13,50,38056.67,27.58,13
 2025-09-30,22000,FieryGem,Dad,zzzzzz,3000,4131.38,1131.38,64,72408.56,27.39,12
@@ -60,7 +64,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,809.92,210.92,180,37965.1,26.04,11
 2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,809.92,210.92,139,29317.5,26.04,11
 2025-09-30,26575,Guardian's Brew,Vnta1,GuardianBrew-Moonroot Wine Cheap,599,809.92,210.92,131,27630.16,26.04,11
-2025-09-30,28423,Mantle of the Cursed Flame,iFennec,UNSEALED LV65,89999,119999.6,30000.6,1,30000.6,25.0,5
 2025-09-30,28401,Platemail of the Cursed Soul,bankerrr,Bank Cleaning,125000,165000.0,40000.0,1,40000.0,24.24,3
 2025-09-30,26560,Cooked Bluefin Tuna,Pots,Chaos Jewel-Rune/Tuna/Crab,2800,3659.87,859.87,200,171974.97,23.49,3
 2025-09-30,26560,Cooked Bluefin Tuna,Pots,Chaos Jewel-Rune/Tuna/Crab,2800,3659.87,859.87,28,24076.5,23.49,3
@@ -99,7 +102,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,26576,Iron Brew,F0X01,Iron Brew Best Price EVER,8350,9224.3,874.3,36,31474.73,9.48,6
 2025-09-30,25451,Jade Gem Fragment,Anuel,Cheap Kal,79500,87355.16,7855.16,3,23565.47,8.99,9
 2025-09-30,27020,Gold Pirate Scroll,Perversu,Super Cheap 25 str / GPS + More,16999,18663.95,1664.95,54,89907.07,8.92,19
-2025-09-30,27019,Purple Pirate Scroll,Ryzo,CHEAP RBS/PPS!!!!!!,4100,4497.53,397.53,95,37765.19,8.84,14
+2025-09-30,27019,Purple Pirate Scroll,Ryzo,CHEAP RBS/PPS!!!!!!,4100,4497.52,397.52,95,37764.49,8.84,14
 2025-09-30,22007,Gem of Striking,Calamitas,gem,1599999,1749999.83,150000.83,1,150000.83,8.57,3
 2025-09-30,26588,Potion of Eagle,zzzzz,zzzz,2500,2730.16,230.16,199,45802.79,8.43,8
 2025-09-30,26588,Potion of Eagle,LotokSell,Demo Striking and another,2500,2730.16,230.16,99,22786.31,8.43,8
@@ -110,12 +113,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,8686.58,687.58,103,70821.1,7.92,14
 2025-09-30,28429,Dance of Evanescence,xVENDORx,RUSH,900000,972499.75,72499.75,1,72499.75,7.45,3
 2025-09-30,28429,Dance of Evanescence,xVENDORx,RUSH,900000,972499.75,72499.75,1,72499.75,7.45,3
-2025-09-30,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3399,3667.19,268.19,91,24405.46,7.31,3
 2025-09-30,26377,Pharaoh's Lantern,stallzunha,Cheap Shits,7499,8073.67,574.67,59,33905.39,7.12,5
 2025-09-30,26559,Cooked Crab,FishSeller,1799 COOKED CRAB CHEAPEST EVER,1799,1929.85,130.85,200,26170.99,6.78,7
 2025-09-30,26559,Cooked Crab,Pots,Chaos Jewel-Rune/Tuna/Crab,1800,1929.85,129.85,200,25970.99,6.73,7
 2025-09-30,26559,Cooked Crab,Pots,Chaos Jewel-Rune/Tuna/Crab,1800,1929.85,129.85,161,20906.64,6.73,7
-2025-09-30,27019,Purple Pirate Scroll,Lira,PPS / GPS / JACKPOT / MVM / JADE,4199,4497.53,298.53,99,29554.3,6.64,14
+2025-09-30,27019,Purple Pirate Scroll,Lira,PPS / GPS / JACKPOT / MVM / JADE,4199,4497.52,298.52,99,29553.57,6.64,14
 2025-09-30,22014,Demonic Gem of Colossus,Bembang#77,TRASH ITEM,2400000,2570000.0,170000.0,1,170000.0,6.61,3
 2025-09-30,22014,Demonic Gem of Colossus,bankerrr,Bank Cleaning,2400000,2570000.0,170000.0,1,170000.0,6.61,3
 2025-09-30,27020,Gold Pirate Scroll,Vendedor,Promotion,17500,18663.95,1163.95,33,38410.21,6.24,19
