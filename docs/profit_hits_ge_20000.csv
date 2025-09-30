@@ -99,6 +99,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,22010,Gem of Rage,STALLING11,UG/REF/NORMAL CHEAP,2000000,2226470.59,226470.59,1,226470.59,10.17,6
 2025-09-30,25451,Jade Gem Fragment,FukPolice,rage/jadefrg/pps/gps/lbp/gems,76000,84597.74,8597.74,12,103172.87,10.16,11
 2025-09-30,26576,Iron Brew,F0X01,Iron Brew Best Price EVER,8350,9224.3,874.3,36,31474.73,9.48,6
+2025-09-30,27019,Purple Pirate Scroll,Ryzo,CHEAP RBS/PPS,4100,4527.84,427.84,95,40644.49,9.45,13
 2025-09-30,27020,Gold Pirate Scroll,Perversu,Super Cheap 25 str / GPS + More,16999,18744.59,1745.59,54,94261.63,9.31,19
 2025-09-30,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,8793.56,794.56,150,119184.23,9.04,15
 2025-09-30,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,7999,8793.56,794.56,143,113622.3,9.04,15
@@ -106,8 +107,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-09-30,25031,Refining Gem,LotokSell,Demo Striking and another,7999,8793.56,794.56,39,30987.9,9.04,15
 2025-09-30,22007,Gem of Striking,Calamitas,gem,1599999,1749999.83,150000.83,1,150000.83,8.57,3
 2025-09-30,26576,Iron Brew,Bankaquaq,Radiation/FB/Grenade/Brew/More,8450,9224.3,774.3,81,62718.15,8.39,6
-2025-09-30,27019,Purple Pirate Scroll,Lira,PPS / GPS / JACKPOT / MVM / JADE,4199,4579.88,380.88,99,37706.96,8.32,12
 2025-09-30,30102,1000 Reputation Scroll,MatsBk,S>PPS/GPS/PBS/rep/dust,6200,6735.25,535.25,50,26762.56,7.95,7
+2025-09-30,27019,Purple Pirate Scroll,Lira,PPS / GPS / JACKPOT / MVM / JADE,4199,4527.84,328.84,99,32554.84,7.26,13
 2025-09-30,28429,Dance of Evanescence,xVENDORx,RUSH,950000,1022500.0,72500.0,1,72500.0,7.09,3
 2025-09-30,28429,Dance of Evanescence,xVENDORx,RUSH,950000,1022500.0,72500.0,1,72500.0,7.09,3
 2025-09-30,22014,Demonic Gem of Colossus,Bembang#77,TRASH ITEM,2400000,2580000.0,180000.0,1,180000.0,6.98,4
