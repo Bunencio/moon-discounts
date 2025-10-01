@@ -7,12 +7,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.33,25212,Frozen Elixir,100,1034.08,4,2,SCORPION21,Ore / scrol / elixir
 87.64,28440,Fire Sealed Roar of Evanescence,15000,121333.33,3,1,Nixm,Cheap Lv50 Items ALL CLASSES
 86.5,22001,Furious Gem,400,2962.81,11,5,lamamandoski,super cheap
+85.64,25503,Magical Stone,150,1044.43,13,77,xVENDORx,RUSH
 85.37,28418,Earth Sealed Kiss of the Cursed,1000,6833.17,4,1,CaloNord,selll
 85.0,28128,Warmth of the Cleric,50000,333333.33,3,1,ezgoezgoezg1,sell 0_0
 83.12,22001,Furious Gem,500,2962.81,11,6,Bathroom,sellllllllllllllllllllllllllllll
 83.12,22001,Furious Gem,500,2962.81,11,1,LazzzyBee,CHEAP
 83.12,22001,Furious Gem,500,2962.81,11,19,Wallnut,Corner Shop
-80.89,25503,Magical Stone,200,1046.59,13,77,xVENDORx,RUSH
 78.26,26588,Potion of Eagle,600,2759.79,10,2,TOPBunshie,ALMOST FREE BUY
 73.98,25494,Yellow Colorant.,1000,3843.75,3,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 72.96,2301,,11111,41085.1,9,1,cudecachorro2,CHAOS|KAL|RAGE|RING|FAIRY 1G ALL
@@ -23,10 +23,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.25,22001,Furious Gem,1000,2962.81,11,1,EvilRian,gdfhdfhfjhdfjdfjfjfdjdfjfdgjfdjf
 65.18,30121,Vial of Accuracy Reset,2000,5743.23,6,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
 64.7,28422,Earth Sealed Mantle of the Cursed Flame,2000,5666.33,3,1,TocoDeJegue,Flash - Grenade - App - Roar
+64.01,25522,,50,138.94,4,99,Inferna,Buy my stuff please!
+64.01,25522,,50,138.94,4,37,Inferna,Buy my stuff please!
 63.78,25440,Evanescence Stone,250,690.25,3,90,hunterx,cheap DOE/2Gen STRpet/knife app
 63.77,26588,Potion of Eagle,1000,2759.79,10,6,amiix,PPS Mvsm GPS PBS PG JCGPS LBS
-63.75,25522,,50,137.95,5,99,Inferna,Buy my stuff please!
-63.75,25522,,50,137.95,5,37,Inferna,Buy my stuff please!
 63.72,26589,Potion of Bull,800,2205.24,14,1,TOPBunshie,ALMOST FREE BUY
 63.49,2301,,15000,41085.1,9,1,CaloNord,selll
 63.49,2301,,15000,41085.1,9,1,BPCRAFT,INFERNO/IRONBR/ENCHANTED/WARLORD
@@ -41,13 +41,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 62.93,30118,Vial of Strength Reset,2400,6475.05,5,1,xxxVertigo,BILI NA KAYO DUHAT
+62.66,26001,Ninja Coin,250,669.59,9,7,xVENDORx,RUSH
 62.59,22003,Glowing Gem,1200,3207.47,10,20,011,bnk cleaning
 62.5,22004,Shining Gem,1250,3332.93,9,75,hunterx,cheap DOE/2Gen STRpet/knife app
 62.0,26591,Potion of Lion,1100,2894.81,13,1,Anuel,Armor of Enigma / Jade Frag / JC
 61.94,25168,Sunshine Fruit,35,91.97,4,99,Inferna,Buy my stuff please!
 61.94,25168,Sunshine Fruit,35,91.97,4,99,Inferna,Buy my stuff please!
 61.94,25168,Sunshine Fruit,35,91.97,4,93,Inferna,Buy my stuff please!
-61.78,25503,Magical Stone,400,1046.59,13,42,Olkc,feral hunter vest / fb / standar
+61.7,25503,Magical Stone,400,1044.43,13,42,Olkc,feral hunter vest / fb / standar
 61.39,30118,Vial of Strength Reset,2500,6475.05,5,2,TuoTuo,Cleaning BANK
 60.0,28430,Fire Sealed Robe of Malediction,3333,8333.29,4,1,CallMeBaby,CHEAP
 59.5,22001,Furious Gem,1200,2962.81,11,17,011,bnk cleaning
@@ -58,7 +59,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.47,30121,Vial of Accuracy Reset,2500,5743.23,6,1,TuoTuo,Cleaning BANK
 56.25,28458,Ice Sealed Staff of the Sphinx,14999,34285.43,6,1,BjornIronside,@@@@@@@
 56.25,28458,Ice Sealed Staff of the Sphinx,15000,34285.43,6,1,Electricman1,GPS/Jp MvMCoin/PharaGem/Etc.@@@@
-55.24,26001,Ninja Coin,300,670.21,9,7,xVENDORx,RUSH
 55.0,28128,Warmth of the Cleric,150000,333333.33,3,1,Inferna,Buy my stuff please!
 54.65,26589,Potion of Bull,1000,2205.24,14,1,amiix,PPS Mvsm GPS PBS PG JCGPS LBS
 54.65,26589,Potion of Bull,1000,2205.24,14,6,STALLING11,RAGE/REFINING/POTS/CHEAP
@@ -68,8 +68,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.5,25439,Incantation Stone,500,1075.37,3,6,DingDong,GPS|PPS|Jackpot|Rock|Ring|Neck
 53.23,22003,Glowing Gem,1500,3207.47,10,79,Look7,TY
 52.94,28212,Priestly Robe,4000,8500.0,4,1,Hazier,Boots
-52.32,25503,Magical Stone,499,1046.59,13,99,Cush,PPs|PBs|MvM|Iislandcard
-52.32,25503,Magical Stone,499,1046.59,13,86,Cush,PPs|PBs|MvM|Iislandcard
+52.85,25169,Mystic Leaf,190,403.0,3,8,HitAndRun,-35% OFF
+52.22,25503,Magical Stone,499,1044.43,13,99,Cush,PPs|PBs|MvM|Iislandcard
+52.22,25503,Magical Stone,499,1044.43,13,86,Cush,PPs|PBs|MvM|Iislandcard
 52.0,28466,Ice Sealed Judgment of Enigma,15000,31249.88,4,1,XiXi0n,voy/wing/pots/ring/gyosa/pets
 51.65,25212,Frozen Elixir,500,1034.08,4,49,Lane,come to the store
 50.04,26569,Warrior's Potion,200,400.34,6,8,BPCRAFT,INFERNO/IRONBR/ENCHANTED/WARLORD
