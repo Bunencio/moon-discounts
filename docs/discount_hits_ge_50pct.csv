@@ -1,8 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-96.87,28327,Great Aqua Cap,20000,639999.67,3,1,HaBuffer,imps pps
 92.42,28134,Commanders Cap,70000,923333.33,3,1,bankoe,Cleric Voy Hat Cheap Than Making
+91.56,28327,Great Aqua Cap,55000,651666.33,3,1,freeee,cheap
 89.29,28036,Emerald Shield,10000,93333.33,3,1,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
-87.8,25212,Frozen Elixir,100,819.5,5,2,SCORPION21,Ore / scrol / elixir
+88.05,25212,Frozen Elixir,100,836.74,5,2,SCORPION21,Ore / scrol / elixir
 83.57,28326,Divine Grace Cap,29990,182494.75,4,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
 79.43,25493,Orange Colorant,500,2431.25,3,2,cheapstuffsell,cheap
 74.59,25503,Magical Stone,250,983.9,13,20,TocoDeJegue,Ring  Gloves  Flash  Magical
@@ -19,27 +19,29 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.47,28458,Ice Sealed Staff of the Sphinx,15000,46110.8,5,1,Electricman1,GPS/PPS/Jp MvM Phara/UniPursFrag
 63.9,28430,Fire Sealed Robe of Malediction,3333,9233.3,6,1,CallMeBaby,CHEAP
 63.24,22001,Furious Gem,1200,3264.46,7,17,011,bnk cleaning
+60.56,30121,Vial of Accuracy Reset,2000,5071.0,7,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
+60.37,26589,Potion of Bull,800,2018.69,16,1,TOPBunshie,ALMOST FREE BUY
 60.28,25522,,50,125.89,6,37,Inferna,Buy my stuff  ty!
 60.28,25522,,50,125.89,6,99,Inferna,Buy my stuff  ty!
-58.93,26589,Potion of Bull,800,1947.79,17,1,TOPBunshie,ALMOST FREE BUY
 58.64,25499,Purple Colorant,1000,2417.81,3,3,CaloNord,de todo
 57.31,22004,Shining Gem,1250,2928.23,8,74,hunterx,cheap DOE/2Gen STRpet/knife app
-57.24,27020,Gold Pirate Scroll,8000,18708.08,9,24,HaBuffer,imps pps
 56.33,26001,Ninja Coin,350,801.45,5,21,KillerSolo,DG COINS / IMPS HELP ME PLEASEEE
+56.11,26591,Potion of Lion,1100,2506.14,15,1,Anuel,Armor of Enigma / Jade Frag / JC
 56.1,28456,Ice Sealed Robe of the Sphinx,6000,13666.67,3,1,StepanBendera,BloodFire/RockFragment/FB
 55.87,28403,Blade of Incantation,120000,271904.43,6,1,Kevingstong,super cheap brother!!
 54.54,28410,Earth Sealed Staff of Incantation,3500,7699.6,4,1,lRivotriLl,purple/gems/inca
 54.43,28411,Staff of Incantation,120000,263333.0,3,1,ImNotPino,45 UNS CLERIC SEAL
-54.29,26591,Potion of Lion,1100,2406.3,15,1,Anuel,Armor of Enigma / Jade Frag / JC
-54.29,30121,Vial of Accuracy Reset,2000,4375.0,6,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
 54.24,26000,Sandy Coin,450,983.46,3,46,FARMBR,sell
 54.14,28432,Fire Sealed Staff of Mirage,4000,8722.11,6,1,HyjoSeller,TAKEALOOK
 53.9,22004,Shining Gem,1350,2928.23,8,15,lamamandoski,super cheap
 52.33,26326,Elven Royal Signet,999,2095.6,9,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
+52.31,25212,Frozen Elixir,399,836.74,5,99,Cush,5 accu boots cheap|magical stone
 52.19,22004,Shining Gem,1400,2928.23,8,9,Wallnut,Corner Shop
-51.31,25212,Frozen Elixir,399,819.5,5,99,Cush,5 accu boots cheap|magical stone
 51.17,28404,Earth Sealed Robe of Abraxas,3888,7962.33,3,1,CallMeBaby,CHEAP
 50.73,25504,Standard Scroll,200,405.9,6,45,StepanBendera,BloodFire/RockFragment/FB
+50.7,30121,Vial of Accuracy Reset,2500,5071.0,7,1,TuoTuo,Cleaning BANK
 50.6,22003,Glowing Gem,950,1923.21,10,17,Wallnut,Corner Shop
+50.46,26589,Potion of Bull,1000,2018.69,16,1,amiix,PPS Mvsm GPS PBS PG JCGPS LBS
+50.46,26589,Potion of Bull,1000,2018.69,16,1,HyjoSeller,TAKEALOOK
 50.34,22000,FieryGem,1999,4024.97,11,6,Caiser,cheap stuff
 50.09,26001,Ninja Coin,400,801.45,5,5,TOPBunshie,ALMOST FREE BUY
