@@ -51,6 +51,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.51,26589,Potion of Bull,800,2078.31,16,1,TOPBunshie,ALMOST FREE BUY
 61.39,30118,Vial of Strength Reset,2500,6475.05,5,2,TuoTuo,Cleaning BANK
 61.33,22001,Furious Gem,1200,3103.05,13,17,011,bnk cleaning
+60.35,28444,Fire Sealed Bellow of Evanescence,5000,12611.11,5,1,Online,garner
 59.71,22004,Shining Gem,1350,3350.62,11,15,lamamandoski,super cheap
 58.22,22004,Shining Gem,1400,3350.62,11,16,Wallnut,Corner Shop
 57.89,28422,Earth Sealed Mantle of the Cursed Flame,2000,4749.75,3,1,HyjoSeller,TAKEALOOK
@@ -71,7 +72,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.27,25439,Incantation Stone,500,1069.99,3,1,Lja,mystic leaf / sunshine fruit
 53.27,25439,Incantation Stone,500,1069.99,3,6,DingDong,GPS|PPS|Jack|lv50 neck|ring str
 52.94,28212,Priestly Robe,4000,8500.0,4,1,Hazier,Boots
-52.85,29002,Green Statue,400,848.28,5,18,DingDong,GPS|PPS|Jack|lv50 neck|ring str
 52.75,22003,Glowing Gem,1500,3174.41,11,79,Look7,TY
 51.88,26589,Potion of Bull,1000,2078.31,16,1,amiix,PPS Mvsm GPS PBS PG JCGPS LBS
 51.88,26589,Potion of Bull,1000,2078.31,16,1,HyjoSeller,TAKEALOOK
@@ -79,6 +79,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.65,25212,Frozen Elixir,500,1034.08,4,49,Lane,come to the store
 51.17,28404,Earth Sealed Robe of Abraxas,3888,7962.33,3,1,CallMeBaby,CHEAP
 50.88,25504,Standard Scroll,200,407.13,6,45,StepanBendera,FB/SouLDet/GPS/PPS/Jakptcoin/PoT
+50.67,29002,Green Statue,400,810.91,4,18,DingDong,GPS|PPS|Jack|lv50 neck|ring str
 50.58,25503,Magical Stone,550,1112.84,14,99,JunoJuno,Cheap
 50.4,26326,Elven Royal Signet,999,2014.29,8,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 50.13,25503,Magical Stone,555,1112.84,14,69,Spiritus,cheap
