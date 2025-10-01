@@ -23,7 +23,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.75,28406,Earth Sealed Staff of Abraxas.,2000,6399.8,4,1,TOPBunshie,ALMOST FREE BUY
 68.74,22001,Furious Gem,1000,3198.64,9,2,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 68.62,29002,Green Statue,249,793.47,4,9,cudecachorro2,CHAOS RUNESTONE
-65.96,28422,Earth Sealed Mantle of the Cursed Flame,2000,5874.75,4,1,HyjoSeller,TAKEALOOK
+67.57,28422,Earth Sealed Mantle of the Cursed Flame,2000,6166.33,3,1,HyjoSeller,TAKEALOOK
+66.82,28456,Ice Sealed Robe of the Sphinx,10000,30138.75,4,1,xVENDORx,RUSH
 64.13,25505,Standard Stone,1000,2788.19,5,13,Olkc,feral hunter vest
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
@@ -32,7 +33,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.13,28444,Fire Sealed Bellow of Evanescence,5000,13562.38,5,1,Online,garner
 62.48,22001,Furious Gem,1200,3198.64,9,17,011,bnk cleaning
-62.37,28456,Ice Sealed Robe of the Sphinx,10000,26577.6,5,1,xVENDORx,RUSH
 61.71,28430,Fire Sealed Robe of Malediction,3333,8703.67,4,1,CallMeBaby,CHEAP
 61.19,28458,Ice Sealed Staff of the Sphinx,14999,38650.43,7,1,BjornIronside,@@@@@@@
 61.19,28458,Ice Sealed Staff of the Sphinx,15000,38650.43,7,1,Electricman1,GPS/PPS/Jp MvM Phara/UniPursFrag
@@ -46,7 +46,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.93,22003,Glowing Gem,950,2205.54,8,17,Wallnut,Corner Shop
 56.26,22004,Shining Gem,1250,2857.64,7,74,hunterx,cheap DOE/2Gen STRpet/knife app
 53.65,26591,Potion of Lion,1100,2373.2,15,1,Anuel,Armor of Enigma / Jade Frag / JC
-53.6,28456,Ice Sealed Robe of the Sphinx,12333,26577.6,5,1,StepanBendera,FB/SouLDet/GPS/PPS/Jakptcoin/PoT
 52.76,22004,Shining Gem,1350,2857.64,7,15,lamamandoski,super cheap
 52.52,26326,Elven Royal Signet,999,2104.24,8,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 52.36,25503,Magical Stone,500,1049.47,13,12,HyjoSeller,TAKEALOOK
@@ -56,8 +55,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.31,25212,Frozen Elixir,399,819.5,5,99,Cush,5 accu boots cheap|magical stone
 51.17,28404,Earth Sealed Robe of Abraxas,3888,7962.33,3,1,CallMeBaby,CHEAP
 51.01,22004,Shining Gem,1400,2857.64,7,16,Wallnut,Corner Shop
-50.88,25504,Standard Scroll,200,407.13,6,45,StepanBendera,FB/SouLDet/GPS/PPS/Jakptcoin/PoT
 50.76,27028,Ship Atomizer Lv1,1400,2842.99,4,57,ShipSpeed,SHIP ATOM SUPER PRICE
+50.34,28403,Blade of Incantation,130000,261805.12,7,1,Kevingstong,offers
 50.13,22000,FieryGem,1999,4008.04,10,10,Caiser,cheap stuff
 50.13,22003,Glowing Gem,1100,2205.54,8,4,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 50.0,28420,Earth Sealed Bow of Incantation,8000,16000.0,3,1,JAYZE,BOW40/SS/CAPboots/  CHEAP PRICE
