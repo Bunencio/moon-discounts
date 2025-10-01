@@ -99,6 +99,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-01,28403,Blade of Incantation,xSnufx,blessed/acc 23 cheap,212222,254444.1,42222.1,1,42222.1,16.59,8
 2025-10-01,26575,Guardian's Brew,Sdeew,Guardian Brew Guardian Brew,649,777.57,128.57,200,25714.43,16.54,10
 2025-10-01,26575,Guardian's Brew,Sdeew,Guardian Brew Guardian Brew,649,777.57,128.57,200,25714.43,16.54,10
+2025-10-01,30156,Jackpot Coin,TTKillGirlTT,JACK COIN /  SHIELD /  EQUIP 50,7999,9451.96,1452.96,24,34871.03,15.37,10
 2025-10-01,25422,Evanescence Power,Kasyadex,FAIRY DUST/EVA POWER/APP/PET!!,7400,8704.35,1304.35,21,27391.3,14.99,3
 2025-10-01,22006,Spirit Gem,Jazs,random items!,5555,6521.32,966.32,34,32854.95,14.82,6
 2025-10-01,26002,Pharaoh Gem,SariSariStore1,CLEANING,1499,1755.42,256.42,81,20770.11,14.61,4
@@ -106,17 +107,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-01,25452,Rock Gem Fragment,SellerPirate,s,95000,110155.09,15155.09,5,75775.44,13.76,8
 2025-10-01,28454,Ice Sealed Blade of Enigma,PALA02,boe,300000,347500.0,47500.0,1,47500.0,13.67,3
 2025-10-01,28454,Ice Sealed Blade of Enigma,PALA02,boe,300000,347500.0,47500.0,1,47500.0,13.67,3
-2025-10-01,22013,Demonic Gem of Striking,stallerx,cheap gems,2100000,2429999.8,329999.8,1,329999.8,13.58,5
 2025-10-01,25476,Hairstyling Voucher,Ankhseram,Hairstyle items The Best Price,15000,17045.45,2045.45,15,30681.82,12.0,3
 2025-10-01,26346,Lantern,dwtix,FB's/Lantern/Elven bunny pot's,4400,4990.98,590.98,99,58507.09,11.84,6
 2025-10-01,25527,,xkom,GEM OF RAGE | CHAOS RUNE| ETC,999999,1133332.67,133333.67,1,133333.67,11.76,3
 2025-10-01,28403,Blade of Incantation,bankerrr,Bank Cleaning,225000,254444.1,29444.1,1,29444.1,11.57,8
 2025-10-01,28403,Blade of Incantation,bankerrr,Bank Cleaning,225000,254444.1,29444.1,1,29444.1,11.57,8
 2025-10-01,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,7987,9006.44,1019.44,102,103982.64,11.32,13
-2025-10-01,30156,Jackpot Coin,TTKillGirlTT,JACK COIN /  SHIELD /  EQUIP 50,7999,9010.39,1011.39,24,24273.33,11.22,10
-2025-10-01,30156,Jackpot Coin,Electricman1,GPS/PPS/Jp MvM Phara/UniPursFrag,7999,9010.39,1011.39,21,21239.16,11.22,10
-2025-10-01,30156,Jackpot Coin,011,bnk cleaning,8000,9010.39,1010.39,34,34353.22,11.21,10
-2025-10-01,30156,Jackpot Coin,BuyingSta4ll7,PURSE | GPS | PPS | JACK +++++++,8000,9010.39,1010.39,30,30311.66,11.21,10
 2025-10-01,25031,Refining Gem,antonina2,Ref's / Elven Signet's,7999,9006.44,1007.44,50,50371.88,11.19,13
 2025-10-01,25031,Refining Gem,galina1,Ref's / Elven Signet's,7999,9006.44,1007.44,40,40297.5,11.19,13
 2025-10-01,25031,Refining Gem,EIlIIliah,rerere,8000,9006.44,1006.44,66,66424.88,11.17,13
@@ -137,6 +133,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-01,25452,Rock Gem Fragment,DoaaPepa,DO N   P E P E,100000,110155.09,10155.09,2,20310.18,9.22,8
 2025-10-01,22010,Gem of Rage,GemMarket,UG RAGE ANY JADES DAWN PRICE!,1900000,2080338.75,180338.75,1,180338.75,8.67,8
 2025-10-01,27019,Purple Pirate Scroll,MatsBk,S>GPS/PPS/JC/PBS/REP/DUST,4100,4485.45,385.45,55,21199.72,8.59,13
+2025-10-01,22013,Demonic Gem of Striking,Shopshop,striking - frags - coins - scrol,2299999,2512499.75,212500.75,1,212500.75,8.46,4
+2025-10-01,22013,Demonic Gem of Striking,stallcito1,3123123123213213213123,2300000,2512499.75,212499.75,1,212499.75,8.46,4
 2025-10-01,22023,Green Jade,GemMarket,UG RAGE ANY JADES DAWN PRICE!,285000,310333.2,25333.2,3,75999.6,8.16,3
 2025-10-01,27006,Bunny Potion,dwtix,FB's/Lantern/Elven bunny pot's,1299,1413.89,114.89,176,20221.49,8.13,5
 2025-10-01,26578,Aegis Brew,GordanRamsay,Cheap Aegis Bless Iron Warlords,49999,54407.3,4408.3,31,136657.38,8.1,7
@@ -146,8 +144,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-01,28429,Dance of Evanescence,Phreeoni,UG RAGE|WIND|DEMO WIND|DOE +4,1100000,1172222.0,72222.0,1,72222.0,6.16,3
 2025-10-01,26588,Potion of Eagle,zzzzz,zzzzz,2500,2656.85,156.85,194,30427.97,5.9,10
 2025-10-01,25031,Refining Gem,Mikosita,SELL IMPS/JACKPOT/REF/GPS,8499,9006.44,507.44,196,99457.77,5.63,13
-2025-10-01,22013,Demonic Gem of Striking,Shopshop,striking - frags - coins - scrol,2299999,2429999.8,130000.8,1,130000.8,5.35,5
-2025-10-01,22013,Demonic Gem of Striking,stallcito1,3123123123213213213123,2300000,2429999.8,129999.8,1,129999.8,5.35,5
 2025-10-01,26576,Iron Brew,GordanRamsay,Cheap Aegis Bless Iron Warlords,8700,9175.49,475.49,59,28053.94,5.18,5
 2025-10-01,22010,Gem of Rage,Shinosuke,CHEAP,1979000,2080338.75,101338.75,1,101338.75,4.87,8
 2025-10-01,22010,Gem of Rage,Babi02,UG RAGE,1988888,2080338.75,91450.75,2,182901.5,4.4,8
