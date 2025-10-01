@@ -39,7 +39,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.1,28456,Ice Sealed Robe of the Sphinx,6000,13666.67,3,1,StepanBendera,BloodFire/RockFragment/FB
 55.68,26591,Potion of Lion,1070,2414.28,16,2,Commerce,ww3
 54.54,28410,Earth Sealed Staff of Incantation,3500,7699.6,4,1,lRivotriLl,purple/gems/inca
-54.5,26326,Elven Royal Signet,999,2195.73,9,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 54.44,26591,Potion of Lion,1100,2414.28,16,1,Anuel,Armor of Enigma / Jade Frag / JC
 54.43,28411,Staff of Incantation,120000,263333.0,3,1,ImNotPino,45 UNS CLERIC SEAL
 54.29,30121,Vial of Accuracy Reset,2000,4375.0,6,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
@@ -48,6 +47,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.01,25503,Magical Stone,450,978.44,13,85,JunoJuno,CHEAP
 54.01,25503,Magical Stone,450,978.44,13,99,JunoJuno,CHEAP
 53.49,22004,Shining Gem,1350,2902.75,7,15,lamamandoski,super cheap
+52.64,26326,Elven Royal Signet,999,2109.23,9,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 52.06,29002,Green Statue,400,834.3,3,18,Phreeoni,QUITTING SALE!
 51.77,22004,Shining Gem,1400,2902.75,7,9,Wallnut,Corner Shop
 51.31,25212,Frozen Elixir,399,819.5,5,99,Cush,5 accu boots cheap|magical stone
