@@ -8,35 +8,35 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.41,25503,Magical Stone,250,976.85,14,20,TocoDeJegue,Ring  Gloves  Flash  Magical
 72.42,28035,Solar Shield,9999,36249.5,4,1,TTKillGirlTT,JACK COIN /  SHIELD /  EQUIP 50
 70.91,28418,Earth Sealed Kiss of the Cursed,2000,6874.88,6,1,CaloNord,de todo
-70.76,2301,,10000,34197.44,5,1,CaloNord,de todo
-70.76,2301,,10000,34197.44,5,1,XiXi0n,app/crus/voy/pet/wing/ring/pots
-70.76,2301,,10000,34197.44,5,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
-70.76,2301,,10000,34197.44,5,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
-70.76,2301,,10000,34197.44,5,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
-70.76,2301,,10000,34197.44,5,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
-70.76,2301,,10000,34197.44,5,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
-70.76,2301,,10000,34197.44,5,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
-70.2,22001,Furious Gem,1000,3355.54,7,2,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
+69.82,22001,Furious Gem,1000,3313.95,7,2,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 69.39,25503,Magical Stone,299,976.85,14,58,Cush,5 accu boots cheap|magical stone
 69.39,25503,Magical Stone,299,976.85,14,86,Cush,5 accu boots cheap|magical stone
 68.91,28436,Fire Sealed Staff of Evanescence,5000,16082.67,3,1,Nixm,Cheap items lv50 ALL CLASSES
 68.75,28406,Earth Sealed Staff of Abraxas.,2000,6399.8,4,1,TOPBunshie,ALMOST FREE BUY
+67.61,28444,Fire Sealed Bellow of Evanescence,5000,15437.38,6,1,Online,garner
 67.57,28422,Earth Sealed Mantle of the Cursed Flame,2000,6166.33,3,1,HyjoSeller,TAKEALOOK
 64.78,28458,Ice Sealed Staff of the Sphinx,15000,42592.33,6,1,Electricman1,GPS/PPS/Jp MvM Phara/UniPursFrag
-64.24,22001,Furious Gem,1200,3355.54,7,17,011,bnk cleaning
 63.94,25505,Standard Stone,1000,2772.9,6,13,Olkc,feral hunter vest
+63.9,28430,Fire Sealed Robe of Malediction,3333,9233.3,6,1,CallMeBaby,CHEAP
+63.79,22001,Furious Gem,1200,3313.95,7,17,011,bnk cleaning
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
-62.57,28444,Fire Sealed Bellow of Evanescence,5000,13357.0,5,1,Online,garner
-59.91,26589,Potion of Bull,800,1995.63,15,1,TOPBunshie,ALMOST FREE BUY
+59.35,2301,,10000,24598.72,6,1,XiXi0n,VOY/CRUSS/APP/WING/DAGGER
+59.35,2301,,10000,24598.72,6,1,CaloNord,de todo
+59.35,2301,,10000,24598.72,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
+59.35,2301,,10000,24598.72,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
+59.35,2301,,10000,24598.72,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
+59.35,2301,,10000,24598.72,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
+59.35,2301,,10000,24598.72,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
+59.35,2301,,10000,24598.72,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
+58.95,26589,Potion of Bull,800,1948.67,17,1,TOPBunshie,ALMOST FREE BUY
 58.7,25499,Purple Colorant,1000,2421.05,3,3,CaloNord,de todo
-58.53,28430,Fire Sealed Robe of Malediction,3333,8037.0,5,1,CallMeBaby,CHEAP
+58.36,22003,Glowing Gem,950,2281.67,9,17,Wallnut,Corner Shop
 57.44,25522,,75,176.24,5,4,xVENDORx,RUSH
-56.94,22004,Shining Gem,1250,2902.75,7,74,hunterx,cheap DOE/2Gen STRpet/knife app
-56.67,22003,Glowing Gem,950,2192.53,8,17,Wallnut,Corner Shop
+56.98,22004,Shining Gem,1250,2905.84,8,74,hunterx,cheap DOE/2Gen STRpet/knife app
 56.66,26001,Ninja Coin,350,807.63,6,21,KillerSolo,DG COINS / IMPS HELP ME PLEASEEE
 56.1,28456,Ice Sealed Robe of the Sphinx,6000,13666.67,3,1,StepanBendera,BloodFire/RockFragment/FB
 55.58,26591,Potion of Lion,1070,2409.08,16,2,Commerce,ww3
@@ -48,13 +48,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.14,28432,Fire Sealed Staff of Mirage,4000,8722.11,6,1,HyjoSeller,TAKEALOOK
 53.93,25503,Magical Stone,450,976.85,14,85,JunoJuno,CHEAP
 53.93,25503,Magical Stone,450,976.85,14,99,JunoJuno,CHEAP
-53.49,22004,Shining Gem,1350,2902.75,7,15,lamamandoski,super cheap
+53.54,22004,Shining Gem,1350,2905.84,8,15,lamamandoski,super cheap
 52.93,28403,Blade of Incantation,120000,254937.89,8,1,Kevingstong,super cheap brother!!
-52.64,26326,Elven Royal Signet,999,2109.23,9,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
-51.77,22004,Shining Gem,1400,2902.75,7,9,Wallnut,Corner Shop
+52.22,26326,Elven Royal Signet,999,2090.83,10,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
+51.82,22004,Shining Gem,1400,2905.84,8,9,Wallnut,Corner Shop
+51.79,22003,Glowing Gem,1100,2281.67,9,4,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 51.31,25212,Frozen Elixir,399,819.5,5,99,Cush,5 accu boots cheap|magical stone
 51.17,28404,Earth Sealed Robe of Abraxas,3888,7962.33,3,1,CallMeBaby,CHEAP
 50.88,25504,Standard Scroll,200,407.13,6,45,StepanBendera,BloodFire/RockFragment/FB
-50.86,27028,Ship Atomizer Lv1,1400,2849.09,4,57,ShipSpeed,SHIP ATOM SUPER PRICE
-50.49,22000,FieryGem,1999,4037.69,10,6,Caiser,cheap stuff
+50.48,22000,FieryGem,1999,4037.02,11,6,Caiser,cheap stuff
 50.47,26001,Ninja Coin,400,807.63,6,5,TOPBunshie,ALMOST FREE BUY
