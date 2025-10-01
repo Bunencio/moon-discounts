@@ -6,7 +6,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.33,25212,Frozen Elixir,100,1034.08,4,2,SCORPION21,Ore / scrol / elixir
 87.64,28440,Fire Sealed Roar of Evanescence,15000,121333.33,3,1,Nixm,lv50 Items
 87.11,22001,Furious Gem,400,3103.05,13,5,lamamandoski,super cheap
-86.65,25503,Magical Stone,150,1123.32,13,77,xVENDORx,RUSH
+86.52,25503,Magical Stone,150,1112.84,14,77,xVENDORx,RUSH
 85.11,28418,Earth Sealed Kiss of the Cursed,1000,6714.14,5,1,CaloNord,selll
 83.89,22001,Furious Gem,500,3103.05,13,6,Bathroom,sellllllllllllllllllllllllllllll
 83.89,22001,Furious Gem,500,3103.05,13,1,LazzzyBee,CHEAP
@@ -61,9 +61,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.25,28458,Ice Sealed Staff of the Sphinx,14999,34285.43,6,1,BjornIronside,@@@@@@@
 56.25,28458,Ice Sealed Staff of the Sphinx,15000,34285.43,6,1,Electricman1,GPS/Jp MvMCoin/PharaGem/Etc.@@@@
 56.09,26591,Potion of Lion,1100,2504.9,15,1,Anuel,Armor of Enigma / Jade Frag / JC
-55.58,25503,Magical Stone,499,1123.32,13,99,Cush,PPs|PBs|MvM|Iislandcard
-55.58,25503,Magical Stone,499,1123.32,13,86,Cush,PPs|PBs|MvM|Iislandcard
-55.49,25503,Magical Stone,500,1123.32,13,12,HyjoSeller,TAKEALOOK
+55.16,25503,Magical Stone,499,1112.84,14,99,Cush,PPs|PBs|MvM|Iislandcard
+55.16,25503,Magical Stone,499,1112.84,14,86,Cush,PPs|PBs|MvM|Iislandcard
+55.07,25503,Magical Stone,500,1112.84,14,12,HyjoSeller,TAKEALOOK
 54.43,28411,Staff of Incantation,120000,263333.0,3,1,ImNotPino,45 UNS CLERIC SEAL
 53.87,22000,FieryGem,1999,4333.46,11,10,Caiser,cheap stuff
 53.85,28468,Ice Sealed Mantle of Enigma,39999,86666.33,3,1,xkom,GEM OF RAGE | CHAOS RUNE| ETC
@@ -78,7 +78,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.66,22001,Furious Gem,1500,3103.05,13,2,STALLING11,RAGE/JADE/ROCK/REF/NORMAL
 51.65,25212,Frozen Elixir,500,1034.08,4,49,Lane,come to the store
 51.17,28404,Earth Sealed Robe of Abraxas,3888,7962.33,3,1,CallMeBaby,CHEAP
-51.04,25503,Magical Stone,550,1123.32,13,99,JunoJuno,Cheap
 50.88,25504,Standard Scroll,200,407.13,6,45,StepanBendera,FB/SouLDet/GPS/PPS/Jakptcoin/PoT
-50.59,25503,Magical Stone,555,1123.32,13,69,Spiritus,cheap
+50.58,25503,Magical Stone,550,1112.84,14,99,JunoJuno,Cheap
 50.4,26326,Elven Royal Signet,999,2014.29,8,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
+50.13,25503,Magical Stone,555,1112.84,14,69,Spiritus,cheap
