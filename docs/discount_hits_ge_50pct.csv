@@ -8,6 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.89,25506,Expert Scroll,200,766.03,6,63,HaBuffer,imps pps
 72.42,28035,Solar Shield,9999,36249.5,4,1,TTKillGirlTT,JACK COIN /  SHIELD /  EQUIP 50
 70.91,28418,Earth Sealed Kiss of the Cursed,2000,6874.88,6,1,CaloNord,de todo
+70.36,25212,Frozen Elixir,250,843.54,4,19,Lane,FIRE SEED/ FROZEM ELIXIR....
 69.61,25503,Magical Stone,299,983.9,13,58,Cush,5 accu boots cheap|magical stone
 69.61,25503,Magical Stone,299,983.9,13,86,Cush,5 accu boots cheap|magical stone
 69.36,22001,Furious Gem,1000,3263.97,7,2,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
@@ -22,14 +23,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.56,30121,Vial of Accuracy Reset,2000,5071.0,7,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
 60.37,26589,Potion of Bull,800,2018.62,17,1,TOPBunshie,ALMOST FREE BUY
 58.64,25499,Purple Colorant,1000,2417.81,3,3,CaloNord,de todo
-58.16,25440,Evanescence Stone,250,597.56,4,90,hunterx,cheap DOE/2Gen STRpet/knife app
-58.16,25440,Evanescence Stone,250,597.56,4,20,HyjoSeller,TAKEALOOK
 57.73,25522,,50,118.28,6,37,Inferna,Buy my stuff  ty!
 57.73,25522,,50,118.28,6,99,Inferna,Buy my stuff  ty!
 57.31,22004,Shining Gem,1250,2928.23,8,74,hunterx,cheap DOE/2Gen STRpet/knife app
 56.33,26001,Ninja Coin,350,801.45,5,21,KillerSolo,DG COINS / IMPS HELP ME PLEASEEE
 56.11,26591,Potion of Lion,1100,2506.14,15,1,Anuel,Armor of Enigma
-55.18,25212,Frozen Elixir,399,890.14,3,99,Cush,5 accu boots cheap|magical stone
 54.43,28411,Staff of Incantation,120000,263333.0,3,1,ImNotPino,45 UNS CLERIC SEAL
 54.24,26000,Sandy Coin,450,983.46,3,46,FARMBR,sell
 53.9,22004,Shining Gem,1350,2928.23,8,15,lamamandoski,super cheap
@@ -42,7 +40,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.33,2301,,10000,21428.57,4,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
 53.33,2301,,10000,21428.57,4,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
 52.81,28403,Blade of Incantation,140000,296666.2,4,1,batcat,123
-52.36,26326,Elven Royal Signet,999,2096.88,8,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
+52.7,25212,Frozen Elixir,399,843.54,4,99,Cush,5 accu boots cheap|magical stone
+52.27,26326,Elven Royal Signet,999,2093.0,9,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 52.19,22004,Shining Gem,1400,2928.23,8,9,Wallnut,Corner Shop
 52.1,28432,Fire Sealed Staff of Mirage,4000,8349.9,6,1,HyjoSeller,TAKEALOOK
 51.17,28404,Earth Sealed Robe of Abraxas,3888,7962.33,3,1,CallMeBaby,CHEAP
@@ -52,6 +51,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.6,22003,Glowing Gem,950,1923.21,10,17,Wallnut,Corner Shop
 50.46,26589,Potion of Bull,1000,2018.62,17,1,amiix,PPS Mvsm GPS PBS PG JCGPS LBS
 50.46,26589,Potion of Bull,1000,2018.62,17,1,HyjoSeller,TAKEALOOK
-50.34,22000,FieryGem,1999,4024.97,11,6,Caiser,cheap stuff
+50.38,22000,FieryGem,1999,4029.0,11,6,Caiser,cheap stuff
 50.09,26001,Ninja Coin,400,801.45,5,5,TOPBunshie,ALMOST FREE BUY
 50.0,29002,Green Statue,400,800.0,3,18,Phreeoni,QUITTING SALE!
