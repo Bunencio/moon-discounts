@@ -5,7 +5,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 85.0,28327,Great Aqua Cap,99999,666666.0,3,1,EIlIIliah,rerere
 79.43,25493,Orange Colorant,500,2431.25,3,2,cheapstuffsell,cheap
 75.0,28326,Divine Grace Cap,49990,199996.67,3,1,Merchanty,IMPs/Crystal |Salmon| Staff| Cap
-74.2,28035,Solar Shield,9999,38749.5,4,1,TTKillGirlTT,JACK COIN /  SHIELD /  EQUIP 50
 73.45,2301,,10000,37660.74,6,1,CaloNord,de todo
 73.45,2301,,10000,37660.74,6,1,XiXi0n,app/crus/voy/pet/wing/ring/pots
 73.45,2301,,10000,37660.74,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
@@ -14,6 +13,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.45,2301,,10000,37660.74,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
 73.45,2301,,10000,37660.74,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
 73.45,2301,,10000,37660.74,6,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
+72.42,28035,Solar Shield,9999,36249.5,4,1,TTKillGirlTT,JACK COIN /  SHIELD /  EQUIP 50
 72.41,28418,Earth Sealed Kiss of the Cursed,2000,7249.88,5,1,CaloNord,de todo
 71.85,25503,Magical Stone,299,1062.32,13,76,Cush,5 accu boots cheap|magical stone
 71.85,25503,Magical Stone,299,1062.32,13,86,Cush,5 accu boots cheap|magical stone
@@ -31,7 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.71,28430,Fire Sealed Robe of Malediction,3333,8703.67,4,1,CallMeBaby,CHEAP
 61.19,28458,Ice Sealed Staff of the Sphinx,14999,38650.43,7,1,BjornIronside,@@@@@@@
 61.19,28458,Ice Sealed Staff of the Sphinx,15000,38650.43,7,1,Electricman1,GPS/PPS/Jp MvM Phara/UniPursFrag
-59.76,26589,Potion of Bull,800,1987.86,14,1,TOPBunshie,ALMOST FREE BUY
+59.93,26589,Potion of Bull,800,1996.72,15,1,TOPBunshie,ALMOST FREE BUY
 58.7,25499,Purple Colorant,1000,2421.05,3,3,CaloNord,de todo
 57.64,25503,Magical Stone,450,1062.32,13,85,JunoJuno,CHEAP
 57.64,25503,Magical Stone,450,1062.32,13,99,JunoJuno,CHEAP
@@ -39,16 +39,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.93,22003,Glowing Gem,950,2205.54,8,17,Wallnut,Corner Shop
 56.91,22004,Shining Gem,1250,2900.7,7,74,hunterx,cheap DOE/2Gen STRpet/knife app
 56.1,28456,Ice Sealed Robe of the Sphinx,6000,13666.67,3,1,StepanBendera,BloodFire/RockFragment/FB
-54.54,26591,Potion of Lion,1100,2419.89,15,1,Anuel,Armor of Enigma / Jade Frag / JC
 54.54,28410,Earth Sealed Staff of Incantation,3500,7699.6,4,1,lRivotriLl,purple/gems/inca
+54.53,26591,Potion of Lion,1100,2419.43,15,1,Anuel,Armor of Enigma / Jade Frag / JC
 54.43,28411,Staff of Incantation,120000,263333.0,3,1,ImNotPino,45 UNS CLERIC SEAL
 54.24,26000,Sandy Coin,450,983.46,3,46,FARMBR,sell
+54.14,28432,Fire Sealed Staff of Mirage,4000,8722.11,6,1,HyjoSeller,TAKEALOOK
 53.46,22004,Shining Gem,1350,2900.7,7,15,lamamandoski,super cheap
 53.08,26001,Ninja Coin,350,745.93,6,21,KillerSolo,DG COINS / IMPS HELP ME PLEASEEE
 53.08,26001,Ninja Coin,350,745.93,6,48,Tralalera,GYOZA WORLD! COINS IMPS
 52.93,25503,Magical Stone,500,1062.32,13,12,HyjoSeller,TAKEALOOK
 52.68,26326,Elven Royal Signet,999,2111.21,8,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
-52.1,28432,Fire Sealed Staff of Mirage,4000,8349.9,6,1,HyjoSeller,TAKEALOOK
 52.06,29002,Green Statue,400,834.3,3,18,Phreeoni,QUITTING SALE!
 51.74,22004,Shining Gem,1400,2900.7,7,9,Wallnut,Corner Shop
 51.31,25212,Frozen Elixir,399,819.5,5,99,Cush,5 accu boots cheap|magical stone
