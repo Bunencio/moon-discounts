@@ -5,6 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 85.55,28326,Divine Grace Cap,29990,207495.0,4,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
 85.0,28327,Great Aqua Cap,99999,666666.0,3,1,EIlIIliah,rerere
 79.43,25493,Orange Colorant,500,2431.25,3,2,cheapstuffsell,cheap
+74.19,25503,Magical Stone,250,968.69,14,20,TocoDeJegue,Ring  Gloves  Flash  Magical
 72.42,28035,Solar Shield,9999,36249.5,4,1,TTKillGirlTT,JACK COIN /  SHIELD /  EQUIP 50
 70.91,28418,Earth Sealed Kiss of the Cursed,2000,6874.88,6,1,CaloNord,de todo
 70.76,2301,,10000,34197.44,5,1,CaloNord,de todo
@@ -16,8 +17,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.76,2301,,10000,34197.44,5,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
 70.76,2301,,10000,34197.44,5,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
 70.2,22001,Furious Gem,1000,3355.54,7,2,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
-69.44,25503,Magical Stone,299,978.44,13,76,Cush,5 accu boots cheap|magical stone
-69.44,25503,Magical Stone,299,978.44,13,86,Cush,5 accu boots cheap|magical stone
+69.13,25503,Magical Stone,299,968.69,14,76,Cush,5 accu boots cheap|magical stone
+69.13,25503,Magical Stone,299,968.69,14,86,Cush,5 accu boots cheap|magical stone
 68.91,28436,Fire Sealed Staff of Evanescence,5000,16082.67,3,1,Nixm,Cheap items lv50 ALL CLASSES
 68.75,28406,Earth Sealed Staff of Abraxas.,2000,6399.8,4,1,TOPBunshie,ALMOST FREE BUY
 67.57,28422,Earth Sealed Mantle of the Cursed Flame,2000,6166.33,3,1,HyjoSeller,TAKEALOOK
@@ -45,8 +46,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.29,30121,Vial of Accuracy Reset,2000,4375.0,6,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
 54.24,26000,Sandy Coin,450,983.46,3,46,FARMBR,sell
 54.14,28432,Fire Sealed Staff of Mirage,4000,8722.11,6,1,HyjoSeller,TAKEALOOK
-54.01,25503,Magical Stone,450,978.44,13,85,JunoJuno,CHEAP
-54.01,25503,Magical Stone,450,978.44,13,99,JunoJuno,CHEAP
+53.55,25503,Magical Stone,450,968.69,14,85,JunoJuno,CHEAP
+53.55,25503,Magical Stone,450,968.69,14,99,JunoJuno,CHEAP
 53.49,22004,Shining Gem,1350,2902.75,7,15,lamamandoski,super cheap
 52.64,26326,Elven Royal Signet,999,2109.23,9,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 51.77,22004,Shining Gem,1400,2902.75,7,9,Wallnut,Corner Shop
