@@ -3,10 +3,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 89.29,28036,Emerald Shield,10000,93333.33,3,1,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 87.88,28326,Divine Grace Cap,49990,412497.5,4,1,Merchanty,IMPs/Crystal |Salmon| Staff| Cap
 87.8,25212,Frozen Elixir,100,819.5,5,2,SCORPION21,Ore / scrol / elixir
-87.49,22001,Furious Gem,400,3198.64,9,5,lamamandoski,super cheap
-84.37,22001,Furious Gem,500,3198.64,9,3,Wallnut,Corner Shop
+87.05,22001,Furious Gem,400,3088.3,8,5,lamamandoski,super cheap
+85.0,28327,Great Aqua Cap,99999,666666.0,3,1,EIlIIliah,rerere
+83.81,22001,Furious Gem,500,3088.3,8,3,Wallnut,Corner Shop
 79.43,25493,Orange Colorant,500,2431.25,3,2,cheapstuffsell,cheap
-74.2,28035,Solar Shield,9999,38749.5,4,1,TTKillGirlTT,JACK COIN /  SHIELD /  EQUIP 50
 73.84,25503,Magical Stone,299,1142.79,12,99,Cush,5 accu boots cheap|magical stone
 73.84,25503,Magical Stone,299,1142.79,12,86,Cush,5 accu boots cheap|magical stone
 73.49,2301,,10000,37719.84,7,1,XiXi0n,app/crus/voy/pet/wing/ring/pots
@@ -18,8 +18,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.49,2301,,10000,37719.84,7,1,BPCRAFT,INFERNO/IRON/WARLORD/ENCHANTED
 70.51,2301,,11123,37719.84,7,1,Kurozumi,botting im watching you!
 68.75,28406,Earth Sealed Staff of Abraxas.,2000,6399.8,4,1,TOPBunshie,ALMOST FREE BUY
-68.74,22001,Furious Gem,1000,3198.64,9,2,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 68.62,29002,Green Statue,249,793.47,4,9,cudecachorro2,CHAOS RUNESTONE
+68.42,28035,Solar Shield,9999,31666.0,3,1,TTKillGirlTT,JACK COIN /  SHIELD /  EQUIP 50
+67.62,22001,Furious Gem,1000,3088.3,8,2,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 65.96,28422,Earth Sealed Mantle of the Cursed Flame,2000,5874.75,4,1,HyjoSeller,TAKEALOOK
 64.13,25505,Standard Stone,1000,2788.19,5,13,Olkc,feral hunter vest
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
@@ -28,8 +29,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.18,2302,,9999,27159.56,3,1,vnt5,iron-Cupid Brew Bps ! buy  Fast!
 63.13,28444,Fire Sealed Bellow of Evanescence,5000,13562.38,5,1,Online,garner
-62.48,22001,Furious Gem,1200,3198.64,9,17,011,bnk cleaning
+62.37,28456,Ice Sealed Robe of the Sphinx,10000,26577.6,5,1,xVENDORx,RUSH
 61.71,28430,Fire Sealed Robe of Malediction,3333,8703.67,4,1,CallMeBaby,CHEAP
+61.14,22001,Furious Gem,1200,3088.3,8,17,011,bnk cleaning
+59.4,28458,Ice Sealed Staff of the Sphinx,14999,36944.12,7,1,BjornIronside,@@@@@@@
+59.4,28458,Ice Sealed Staff of the Sphinx,15000,36944.12,7,1,Electricman1,GPS/PPS/Jp MvM Phara/UniPursFrag
 59.15,25522,,99,242.33,3,5,Stellar,Thrift Shop
 58.55,26589,Potion of Bull,800,1930.24,14,1,TOPBunshie,ALMOST FREE BUY
 57.6,25440,Evanescence Stone,250,589.68,4,90,hunterx,cheap DOE/2Gen STRpet/knife app
@@ -37,9 +41,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.93,22003,Glowing Gem,950,2205.54,8,17,Wallnut,Corner Shop
 56.26,22004,Shining Gem,1250,2857.64,7,74,hunterx,cheap DOE/2Gen STRpet/knife app
 56.25,25503,Magical Stone,500,1142.79,12,12,HyjoSeller,TAKEALOOK
-56.25,28458,Ice Sealed Staff of the Sphinx,14999,34285.43,6,1,BjornIronside,@@@@@@@
-56.25,28458,Ice Sealed Staff of the Sphinx,15000,34285.43,6,1,Electricman1,GPS/PPS/Jp MvM Phara/UniPursFrag
-53.72,26591,Potion of Lion,1100,2376.92,16,1,Anuel,Armor of Enigma / Jade Frag / JC
+53.82,26591,Potion of Lion,1100,2381.76,15,1,Anuel,Armor of Enigma / Jade Frag / JC
+53.6,28456,Ice Sealed Robe of the Sphinx,12333,26577.6,5,1,StepanBendera,FB/SouLDet/GPS/PPS/Jakptcoin/PoT
 52.76,22004,Shining Gem,1350,2857.64,7,15,lamamandoski,super cheap
 52.52,26326,Elven Royal Signet,999,2104.24,8,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 52.1,28432,Fire Sealed Staff of Mirage,4000,8349.9,6,1,HyjoSeller,TAKEALOOK
