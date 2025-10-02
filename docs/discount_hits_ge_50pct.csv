@@ -1,8 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-96.18,26564,Meditation Potion,24,628.29,3,99,TagBaligya,Gauntlets  Manu Items
-96.02,26564,Meditation Potion,25,628.29,3,98,TuoTuo,1500 stall
-95.77,28444,Fire Sealed Bellow of Evanescence,500,11833.22,7,1,Online,garner
-92.58,22001,Furious Gem,277,3731.32,9,1,Spiritus,random cheap
+95.57,28444,Fire Sealed Bellow of Evanescence,500,11277.67,6,1,Online,garner
+92.09,22001,Furious Gem,277,3504.05,9,1,Spiritus,random cheap
 89.89,28132,Voyager Cap,40000,395833.33,4,1,freeee,cheap
 88.63,28132,Voyager Cap,45000,395833.33,4,1,stuart,EQUIPS
 88.63,28132,Voyager Cap,45000,395833.33,4,1,stuart,EQUIPS
@@ -13,7 +11,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.53,25493,Orange Colorant,400,2428.75,3,2,cheapstuffsell,cheap
 79.74,28326,Divine Grace Cap,29990,147996.0,5,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
 79.58,25491,Decolorant,200,979.54,3,1,Manager,CHEAP HAIRSTYLE
-76.0,25503,Magical Stone,200,833.44,11,23,xVENDORx,RUSH
+74.71,25503,Magical Stone,200,790.68,11,23,xVENDORx,RUSH
+74.71,25503,Magical Stone,200,790.68,11,99,xAntoOokenx,basura
+74.71,25503,Magical Stone,200,790.68,11,8,xAntoOokenx,basura
 74.65,28126,Cleric Cap,7500,29583.33,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 73.34,28035,Solar Shield,9999,37499.5,4,1,TTKillGirlTT,Jack/ Minion Acc fruit/Equip 50
 71.5,28458,Ice Sealed Staff of the Sphinx,9999,35079.0,7,1,BjornIronside,TODO CON 5
@@ -21,18 +21,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.93,25506,Expert Scroll,200,665.2,4,23,HaBuffer,imps pps
 68.77,25212,Frozen Elixir,200,640.46,4,19,Lane,come to the store  at the price
 67.86,28036,Emerald Shield,29999,93332.67,3,1,sinox1,Cheap AF 1st come 1st serve!!!!!
-67.84,22001,Furious Gem,1200,3731.32,9,13,011,bnk cleaning
 67.57,28422,Earth Sealed Mantle of the Cursed Flame,2000,6166.33,3,1,HyjoSeller,TAKEALOOK
 66.49,22004,Shining Gem,1200,3581.25,5,8,lamamandoski,me upa?
 66.2,28126,Cleric Cap,10000,29583.33,5,1,Meguminn,EXPLOOOOSIOOONN!!E
-64.12,25503,Magical Stone,299,833.44,11,99,Cush,Etherial wing black|5accu boots
-64.12,25503,Magical Stone,299,833.44,11,45,Cush,Etherial wing black|5accu boots
-64.12,25503,Magical Stone,299,833.44,11,65,sinox1,Cheap AF 1st come 1st serve!!!!!
+65.75,22001,Furious Gem,1200,3504.05,9,13,011,bnk cleaning
 63.11,26001,Ninja Coin,300,813.23,5,8,ATHALIAH,LOWEST PRICE
 62.61,25522,,49,131.06,6,8,sinox1,Cheap AF 1st come 1st serve!!!!!
-59.8,22001,Furious Gem,1500,3731.32,9,1,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
-57.75,28444,Fire Sealed Bellow of Evanescence,5000,11833.22,7,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
+62.18,25503,Magical Stone,299,790.68,11,99,Cush,Etherial wing black|5accu boots
+62.18,25503,Magical Stone,299,790.68,11,45,Cush,Etherial wing black|5accu boots
+62.18,25503,Magical Stone,299,790.68,11,65,sinox1,Cheap AF 1st come 1st serve!!!!!
 57.24,28458,Ice Sealed Staff of the Sphinx,15000,35079.0,7,1,Electricman1,DemoSoul/Universe JadeFrag/RefGe
+57.19,22001,Furious Gem,1500,3504.05,9,1,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
+55.66,28444,Fire Sealed Bellow of Evanescence,5000,11277.67,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 54.97,2301,,10000,22205.33,5,1,XiXi0n,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 54.97,2301,,10000,22205.33,5,1,CaloNord,de todo
 54.97,2301,,10000,22205.33,5,1,BPCRAFT,INFERNO/WARLORD/ENCHANT/GUARDIAN
@@ -41,12 +41,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.97,2301,,10000,22205.33,5,1,BPCRAFT,INFERNO/WARLORD/ENCHANT/GUARDIAN
 54.97,2301,,10000,22205.33,5,1,BPCRAFT,INFERNO/WARLORD/ENCHANT/GUARDIAN
 54.97,2301,,10000,22205.33,5,1,BPCRAFT,INFERNO/WARLORD/ENCHANT/GUARDIAN
-54.44,22001,Furious Gem,1700,3731.32,9,1,Anuel,Cheapest Armor of Enigma
 54.24,28421,Bow of Incantation,90000,196666.67,3,1,M0Nster,Items
 53.57,25440,Evanescence Stone,250,538.46,4,20,HyjoSeller,TAKEALOOK
 53.29,28456,Ice Sealed Robe of the Sphinx,25000,53518.33,3,1,Swird,Storm/Tribal/Steel/ArmorLV50
+51.48,22001,Furious Gem,1700,3504.05,9,1,Anuel,Cheapest Armor of Enigma
 50.94,26001,Ninja Coin,399,813.23,5,48,Tralalera,GYOZA WORLD! COINS! IMPS!
-50.87,28410,Earth Sealed Staff of Incantation,3500,7124.5,3,1,lRivotriLl,purple
 50.81,26001,Ninja Coin,400,813.23,5,13,Sparto,come
 50.81,26001,Ninja Coin,400,813.23,5,5,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
 50.62,22000,FieryGem,1999,4048.31,10,6,Caiser,cheap stuffffff
