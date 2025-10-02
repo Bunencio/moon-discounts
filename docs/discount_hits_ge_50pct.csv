@@ -1,10 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.82,26564,Meditation Potion,24,754.88,3,99,TagBaligya,Gauntlets  Manu Items
 96.69,26564,Meditation Potion,25,754.88,3,98,TuoTuo,1500 stall
+88.28,28326,Divine Grace Cap,29990,255995.8,5,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
 87.1,28036,Emerald Shield,10000,77499.75,4,1,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 84.41,25507,Expert Stone,299,1918.31,5,6,sinox1,Cheap AF 1st come 1st serve!!!!!
 84.31,28418,Earth Sealed Kiss of the Cursed,1000,6374.88,7,1,CaloNord,guns /armas
-83.57,28326,Divine Grace Cap,29990,182494.75,4,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
 82.35,28327,Great Aqua Cap,55000,311666.67,3,1,freeee,cheap
 79.43,25493,Orange Colorant,500,2431.25,3,2,cheapstuffsell,cheap
 76.11,25212,Frozen Elixir,200,837.31,5,19,Lane,come to the store  at the price
@@ -25,12 +25,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.57,28422,Earth Sealed Mantle of the Cursed Flame,2000,6166.33,3,1,HyjoSeller,TAKEALOOK
 65.23,22001,Furious Gem,1200,3451.4,9,17,011,bnk cleaning
 64.53,28126,Cleric Cap,12000,33833.33,5,1,Meguminn,EXPLOOOSIOOON!! - AEGIS ROCK
-62.55,28444,Fire Sealed Bellow of Evanescence,5000,13349.9,5,1,CaloNord,guns /armas
-62.55,28444,Fire Sealed Bellow of Evanescence,5000,13349.9,5,1,Online,garner
+61.54,28444,Fire Sealed Bellow of Evanescence,5000,12999.91,6,1,CaloNord,guns /armas
+61.54,28444,Fire Sealed Bellow of Evanescence,5000,12999.91,6,1,Online,garner
 61.29,28036,Emerald Shield,29999,77499.75,4,1,sinox1,Cheap AF 1st come 1st serve!!!!!
+60.94,28326,Divine Grace Cap,99999,255995.8,5,1,EIlIIliah,rserserser
 60.84,30121,Vial of Accuracy Reset,2000,5106.71,7,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
-59.36,26591,Potion of Lion,999,2458.21,16,1,sinox1,Cheap AF 1st come 1st serve!!!!!
+59.95,26000,Sandy Coin,185,461.88,4,3,Nikoz,SS equip/Rep/ Come Buy Stuff !TY
 59.27,22004,Shining Gem,1250,3068.94,6,74,hunterx,cheap DOE/2Gen STRpet/knife app
+59.27,26591,Potion of Lion,999,2452.61,16,1,sinox1,Cheap AF 1st come 1st serve!!!!!
 57.75,25522,,49,115.97,8,23,sinox1,Cheap AF 1st come 1st serve!!!!!
 56.89,25522,,50,115.97,8,37,Inferna,Buy my stuff  ty!
 56.89,25522,,50,115.97,8,84,Inferna,Buy my stuff  ty!
