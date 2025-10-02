@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-95.38,28444,Fire Sealed Bellow of Evanescence,500,10812.38,6,1,Online,garner
-91.02,22001,Furious Gem,277,3084.94,10,1,Spiritus,random cheap
+95.34,28444,Fire Sealed Bellow of Evanescence,500,10722.11,7,1,Online,garner
+91.41,22001,Furious Gem,277,3224.19,10,1,Spiritus,random cheap
 89.89,28132,Voyager Cap,40000,395833.33,4,1,freeee,cheap
 88.63,28132,Voyager Cap,45000,395833.33,4,1,stuart,EQUIPS
 88.63,28132,Voyager Cap,45000,395833.33,4,1,stuart,EQUIPS
@@ -13,10 +13,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.58,25491,Decolorant,200,979.54,3,1,Manager,CHEAP HAIRSTYLE
 74.65,28126,Cleric Cap,7500,29583.33,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 73.34,28035,Solar Shield,9999,37499.5,4,1,TTKillGirlTT,Jack/ Minion Acc fruit/Equip 50
-71.94,25503,Magical Stone,200,712.87,11,23,xVENDORx,RUSH
-71.94,25503,Magical Stone,200,712.87,11,1,Skills,x_X    *_*    0_0    *_*    X_x
-71.94,25503,Magical Stone,200,712.87,11,99,xAntoOokenx,basura
-71.94,25503,Magical Stone,200,712.87,11,8,xAntoOokenx,basura
+71.96,25503,Magical Stone,200,713.36,10,23,xVENDORx,RUSH
+71.96,25503,Magical Stone,200,713.36,10,1,Skills,x_X    *_*    0_0    *_*    X_x
+71.96,25503,Magical Stone,200,713.36,10,99,xAntoOokenx,basura
+71.96,25503,Magical Stone,200,713.36,10,8,xAntoOokenx,basura
 71.5,28458,Ice Sealed Staff of the Sphinx,9999,35079.0,7,1,BjornIronside,TODO CON 5
 69.93,25506,Expert Scroll,200,665.2,4,23,HaBuffer,imps pps
 67.86,28036,Emerald Shield,29999,93332.67,3,1,sinox1,Cheap AF 1st come 1st serve!!!!!
@@ -31,29 +31,27 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.55,2301,,10000,28209.78,4,1,BPCRAFT,INFERNO/WARLORD/ENCHANT/GUARDIAN
 64.55,2301,,10000,28209.78,4,1,BPCRAFT,INFERNO/WARLORD/ENCHANT/GUARDIAN
 64.55,2301,,10000,28209.78,4,1,BPCRAFT,INFERNO/WARLORD/ENCHANT/GUARDIAN
+64.33,22001,Furious Gem,1150,3224.19,10,39,hunterx,2gen 18st//knife app/gems/etc
 63.11,26001,Ninja Coin,300,813.23,5,8,ATHALIAH,LOWEST PRICE
-62.72,22001,Furious Gem,1150,3084.94,10,39,hunterx,2gen 18st//knife app/gems/etc
-61.1,22001,Furious Gem,1200,3084.94,10,13,011,bnk cleaning
-60.08,22004,Shining Gem,1200,3005.68,7,8,lamamandoski,me upa?
-58.74,22004,Shining Gem,1240,3005.68,7,74,hunterx,2gen 18st//knife app/gems/etc
-58.06,25503,Magical Stone,299,712.87,11,99,Cush,Etherial wing black|5accu boots
-58.06,25503,Magical Stone,299,712.87,11,45,Cush,Etherial wing black|5accu boots
-58.06,25503,Magical Stone,299,712.87,11,65,sinox1,Cheap AF 1st come 1st serve!!!!!
-57.92,25503,Magical Stone,300,712.87,11,99,AkameChan,KCC MALL
-57.92,25503,Magical Stone,300,712.87,11,99,AkameChan,KCC MALL
-57.92,25503,Magical Stone,300,712.87,11,99,AkameChan,KCC MALL
+62.78,22001,Furious Gem,1200,3224.19,10,13,011,bnk cleaning
+60.67,22004,Shining Gem,1200,3051.29,8,8,lamamandoski,me upa?
+59.36,22004,Shining Gem,1240,3051.29,8,74,hunterx,2gen 18st//knife app/gems/etc
+58.09,25503,Magical Stone,299,713.36,10,99,Cush,Etherial wing black|5accu boots
+58.09,25503,Magical Stone,299,713.36,10,45,Cush,Etherial wing black|5accu boots
+58.09,25503,Magical Stone,299,713.36,10,65,sinox1,Cheap AF 1st come 1st serve!!!!!
+57.95,25503,Magical Stone,300,713.36,10,99,AkameChan,KCC MALL
+57.95,25503,Magical Stone,300,713.36,10,99,AkameChan,KCC MALL
+57.95,25503,Magical Stone,300,713.36,10,99,AkameChan,KCC MALL
 57.24,28458,Ice Sealed Staff of the Sphinx,15000,35079.0,7,1,Electricman1,DemoSoul/Universe JadeFrag/RefGe
-56.9,25525,,250000,579999.83,5,1,Blass,ITEMS NEED
+56.03,25525,,250000,568571.29,6,1,Blass,ITEMS NEED
 54.24,28421,Bow of Incantation,90000,196666.67,3,1,M0Nster,Items
-53.76,28444,Fire Sealed Bellow of Evanescence,5000,10812.38,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
+53.48,22001,Furious Gem,1500,3224.19,10,1,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
+53.37,28444,Fire Sealed Bellow of Evanescence,5000,10722.11,7,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 53.29,28456,Ice Sealed Robe of the Sphinx,25000,53518.33,3,1,Swird,Storm/Tribal/Steel/ArmorLV50
-51.38,22001,Furious Gem,1500,3084.94,10,1,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
 50.94,26001,Ninja Coin,399,813.23,5,48,Tralalera,GYOZA WORLD! COINS! IMPS!
 50.81,26001,Ninja Coin,400,813.23,5,13,Sparto,come
 50.81,26001,Ninja Coin,400,813.23,5,5,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
-50.62,22000,FieryGem,1999,4048.31,10,6,Caiser,cheap stuffffff
-50.62,22000,FieryGem,1999,4048.31,10,5,xkom,UG COLO | JACK |  UNS 45 COAT |
-50.6,22000,FieryGem,2000,4048.31,10,2,xJewel,cheap gems
+50.59,22000,FieryGem,1999,4045.34,10,6,Caiser,cheap stuffffff
+50.59,22000,FieryGem,1999,4045.34,10,5,xkom,UG COLO | JACK |  UNS 45 COAT |
+50.56,22000,FieryGem,2000,4045.34,10,2,xJewel,cheap gems
 50.11,23001,Guardian's Treasure,150,300.69,4,2,Treasurers,Treasures
-50.0,28430,Fire Sealed Robe of Malediction,4500,9000.0,4,1,bowstalls,6acc 1agi/fire sealed 3Pages
-50.0,28430,Fire Sealed Robe of Malediction,4500,9000.0,4,1,bowstalls,6acc 1agi/fire sealed 3Pages
