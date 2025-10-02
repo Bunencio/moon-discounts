@@ -11,9 +11,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.53,25493,Orange Colorant,400,2428.75,3,2,cheapstuffsell,cheap
 79.74,28326,Divine Grace Cap,29990,147996.0,5,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
 79.58,25491,Decolorant,200,979.54,3,1,Manager,CHEAP HAIRSTYLE
-74.71,25503,Magical Stone,200,790.68,11,23,xVENDORx,RUSH
-74.71,25503,Magical Stone,200,790.68,11,99,xAntoOokenx,basura
-74.71,25503,Magical Stone,200,790.68,11,8,xAntoOokenx,basura
+74.69,25503,Magical Stone,200,790.3,11,23,xVENDORx,RUSH
+74.69,25503,Magical Stone,200,790.3,11,1,Skills,x_X    *_*    0_0    *_*    X_x
+74.69,25503,Magical Stone,200,790.3,11,99,xAntoOokenx,basura
+74.69,25503,Magical Stone,200,790.3,11,8,xAntoOokenx,basura
 74.65,28126,Cleric Cap,7500,29583.33,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 73.34,28035,Solar Shield,9999,37499.5,4,1,TTKillGirlTT,Jack/ Minion Acc fruit/Equip 50
 71.5,28458,Ice Sealed Staff of the Sphinx,9999,35079.0,7,1,BjornIronside,TODO CON 5
@@ -26,11 +27,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.75,22001,Furious Gem,1200,3504.05,9,13,011,bnk cleaning
 64.72,25212,Frozen Elixir,200,566.85,4,19,Lane,come to the store  at the price
 63.11,26001,Ninja Coin,300,813.23,5,8,ATHALIAH,LOWEST PRICE
-62.18,25503,Magical Stone,299,790.68,11,99,Cush,Etherial wing black|5accu boots
-62.18,25503,Magical Stone,299,790.68,11,45,Cush,Etherial wing black|5accu boots
-62.18,25503,Magical Stone,299,790.68,11,65,sinox1,Cheap AF 1st come 1st serve!!!!!
+62.17,25503,Magical Stone,299,790.3,11,99,Cush,Etherial wing black|5accu boots
+62.17,25503,Magical Stone,299,790.3,11,45,Cush,Etherial wing black|5accu boots
+62.17,25503,Magical Stone,299,790.3,11,65,sinox1,Cheap AF 1st come 1st serve!!!!!
 57.24,28458,Ice Sealed Staff of the Sphinx,15000,35079.0,7,1,Electricman1,DemoSoul/Universe JadeFrag/RefGe
 57.19,22001,Furious Gem,1500,3504.05,9,1,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
+56.9,25525,,250000,579999.83,5,1,Blass,ITEMS NEED
 55.66,28444,Fire Sealed Bellow of Evanescence,5000,11277.67,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 54.97,2301,,10000,22205.33,5,1,XiXi0n,TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 54.97,2301,,10000,22205.33,5,1,CaloNord,de todo
