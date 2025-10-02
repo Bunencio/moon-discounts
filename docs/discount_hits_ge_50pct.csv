@@ -2,6 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.1,28036,Emerald Shield,10000,77499.75,4,1,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 86.54,28327,Great Aqua Cap,55000,408750.0,4,1,freeee,cheap
 84.41,25507,Expert Stone,299,1918.31,5,6,sinox1,Cheap AF 1st come 1st serve!!!!!
+83.93,28418,Earth Sealed Kiss of the Cursed,1000,6222.11,7,1,CaloNord,guns /armas
 83.57,28326,Divine Grace Cap,29990,182494.75,4,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
 81.85,25212,Frozen Elixir,200,1101.9,4,19,Lane,come to the store  at the price
 80.43,28327,Great Aqua Cap,80000,408750.0,4,1,EIlIIliah,rserserser
@@ -14,30 +15,31 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.15,26325,Elven Signet,30,103.99,3,2,GrudgE,ALL IN
 70.91,22001,Furious Gem,1000,3437.31,10,2,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
 70.68,25503,Magical Stone,299,1019.82,13,65,sinox1,Cheap AF 1st come 1st serve!!!!!
-69.11,26588,Potion of Eagle,800,2590.19,11,1,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
+69.3,26588,Potion of Eagle,800,2605.87,11,1,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
+67.86,28418,Earth Sealed Kiss of the Cursed,2000,6222.11,7,1,CaloNord,guns /armas
 67.75,28458,Ice Sealed Staff of the Sphinx,15000,46507.57,6,1,Electricman1,DemSol/Univrs JdeFrag/GPS/JpCoin
 67.75,28458,Ice Sealed Staff of the Sphinx,14999,46507.57,6,1,BjornIronside,@@@@
 67.57,28422,Earth Sealed Mantle of the Cursed Flame,2000,6166.33,3,1,HyjoSeller,TAKEALOOK
 65.09,22001,Furious Gem,1200,3437.31,10,17,011,bnk cleaning
 64.53,28126,Cleric Cap,12000,33833.33,5,1,Meguminn,EXPLOOOSIOOON!! - AEGIS ROCK
-63.64,28444,Fire Sealed Bellow of Evanescence,5000,13749.9,6,1,Online,garner
 61.78,29002,Green Statue,300,785.0,3,18,Phreeoni,DE WIND|lv23 str pet |COD
+61.4,28444,Fire Sealed Bellow of Evanescence,5000,12954.45,6,1,CaloNord,guns /armas
+61.4,28444,Fire Sealed Bellow of Evanescence,5000,12954.45,6,1,Online,garner
 61.29,28036,Emerald Shield,29999,77499.75,4,1,sinox1,Cheap AF 1st come 1st serve!!!!!
-60.84,30121,Vial of Accuracy Reset,2000,5106.71,7,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
-58.15,22004,Shining Gem,1250,2986.82,7,74,hunterx,cheap DOE/2Gen STRpet/knife app
+61.19,30121,Vial of Accuracy Reset,2000,5153.38,6,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
+58.74,22004,Shining Gem,1250,3029.61,7,74,hunterx,cheap DOE/2Gen STRpet/knife app
 57.75,25522,,49,115.97,8,23,sinox1,Cheap AF 1st come 1st serve!!!!!
 57.6,25485,Cyan Dye,500,1179.31,3,31,Grana01,Hairstyle
 56.89,25522,,50,115.97,8,37,Inferna,Buy my stuff  ty!
 56.89,25522,,50,115.97,8,84,Inferna,Buy my stuff  ty!
 56.83,26001,Ninja Coin,350,810.66,6,21,KillerSolo,DG COINS / IMPS HELP ME PLEASEEE
-56.67,26591,Potion of Lion,999,2305.63,13,1,sinox1,Cheap AF 1st come 1st serve!!!!!
+56.65,26591,Potion of Lion,999,2304.73,14,1,sinox1,Cheap AF 1st come 1st serve!!!!!
 56.36,22001,Furious Gem,1500,3437.31,10,1,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
 56.05,25440,Evanescence Stone,250,568.85,6,90,hunterx,cheap DOE/2Gen STRpet/knife app
 56.05,25440,Evanescence Stone,250,568.85,6,20,HyjoSeller,TAKEALOOK
-54.8,22004,Shining Gem,1350,2986.82,7,15,lamamandoski,super cheap
+55.44,22004,Shining Gem,1350,3029.61,7,7,lamamandoski,super cheap
 54.62,25212,Frozen Elixir,500,1101.9,4,2,SCORPION21,come to the store!!!!!1
 54.43,28411,Staff of Incantation,120000,263333.0,3,1,ImNotPino,45 UNS CLERIC SEAL
-54.06,28403,Blade of Incantation,140000,304724.5,3,1,batcat,123
 53.29,28456,Ice Sealed Robe of the Sphinx,25000,53518.33,3,1,Swird,Storm/Tribal/Steel/ArmorLV50
 52.1,28432,Fire Sealed Staff of Mirage,4000,8349.9,6,1,HyjoSeller,TAKEALOOK
 51.83,26326,Elven Royal Signet,999,2074.08,10,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
@@ -53,7 +55,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.87,28410,Earth Sealed Staff of Incantation,3500,7124.5,3,1,lRivotriLl,purple/gems/inca
 50.86,27028,Ship Atomizer Lv1,1400,2849.09,4,57,ShipSpeed,SHIP ATOM SUPER PRICE
 50.66,26001,Ninja Coin,400,810.66,6,5,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
-50.6,22003,Glowing Gem,950,1923.21,10,17,Wallnut,Corner Shop
 50.56,26594,Novice Explosive Ball,200,404.51,4,3,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
 50.16,25504,Standard Scroll,200,401.3,6,45,StepanBendera,FB/SoulDet/BloodFire/JakpKoin/
 50.04,26000,Sandy Coin,450,900.66,5,46,FARMBR,sell
