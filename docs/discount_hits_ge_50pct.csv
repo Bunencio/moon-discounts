@@ -2,13 +2,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.82,26564,Meditation Potion,24,754.88,3,99,TagBaligya,Gauntlets  Manu Items
 96.69,26564,Meditation Potion,25,754.88,3,98,TuoTuo,1500 stall
 87.1,28036,Emerald Shield,10000,77499.75,4,1,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
-86.54,28327,Great Aqua Cap,55000,408750.0,4,1,freeee,cheap
 84.41,25507,Expert Stone,299,1918.31,5,6,sinox1,Cheap AF 1st come 1st serve!!!!!
 84.31,28418,Earth Sealed Kiss of the Cursed,1000,6374.88,7,1,CaloNord,guns /armas
 83.57,28326,Divine Grace Cap,29990,182494.75,4,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
-80.43,28327,Great Aqua Cap,80000,408750.0,4,1,EIlIIliah,rserserser
+82.35,28327,Great Aqua Cap,55000,311666.67,3,1,freeee,cheap
 79.43,25493,Orange Colorant,500,2431.25,3,2,cheapstuffsell,cheap
 76.11,25212,Frozen Elixir,200,837.31,5,19,Lane,come to the store  at the price
+74.33,28327,Great Aqua Cap,80000,311666.67,3,1,EIlIIliah,rserserser
 74.2,28035,Solar Shield,9999,38749.5,4,1,TTKillGirlTT,Jack/ Minion Acc fruit/Equip 50
 73.65,25506,Expert Scroll,200,758.95,5,63,HaBuffer,imps pps
 73.4,25503,Magical Stone,250,939.94,12,20,TocoDeJegue,Grenade - Explosive - Ring
@@ -28,8 +28,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.55,28444,Fire Sealed Bellow of Evanescence,5000,13349.9,5,1,CaloNord,guns /armas
 62.55,28444,Fire Sealed Bellow of Evanescence,5000,13349.9,5,1,Online,garner
 61.29,28036,Emerald Shield,29999,77499.75,4,1,sinox1,Cheap AF 1st come 1st serve!!!!!
-61.19,30121,Vial of Accuracy Reset,2000,5153.38,6,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
-59.44,26591,Potion of Lion,999,2462.84,16,1,sinox1,Cheap AF 1st come 1st serve!!!!!
+60.84,30121,Vial of Accuracy Reset,2000,5106.71,7,4,Yennefer,GPS PBS LBS CLOUD EVAPOW EXPSTON
+59.36,26591,Potion of Lion,999,2458.21,16,1,sinox1,Cheap AF 1st come 1st serve!!!!!
 59.27,22004,Shining Gem,1250,3068.94,6,74,hunterx,cheap DOE/2Gen STRpet/knife app
 57.75,25522,,49,115.97,8,23,sinox1,Cheap AF 1st come 1st serve!!!!!
 56.89,25522,,50,115.97,8,37,Inferna,Buy my stuff  ty!
@@ -38,6 +38,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.05,25440,Evanescence Stone,250,568.85,6,90,hunterx,cheap DOE/2Gen STRpet/knife app
 56.05,25440,Evanescence Stone,250,568.85,6,20,HyjoSeller,TAKEALOOK
 53.29,28456,Ice Sealed Robe of the Sphinx,25000,53518.33,3,1,Swird,Storm/Tribal/Steel/ArmorLV50
+52.82,26594,Novice Explosive Ball,200,423.91,3,3,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
 52.35,25212,Frozen Elixir,399,837.31,5,99,Cush,Etherial wing black|5accu boots
 52.1,28432,Fire Sealed Staff of Mirage,4000,8349.9,6,1,HyjoSeller,TAKEALOOK
 52.01,26326,Elven Royal Signet,999,2081.52,9,8,SSTTAALL,FB/POTS/ER/NORGEM/SEALED60  50
@@ -45,6 +46,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.28,26557,Cooked Codfish,150,307.88,6,99,ChocolateDaddy,Supplies
 51.16,28155,Steel Platemail,3000,6142.86,3,1,Swird,Storm/Tribal/Steel/ArmorLV50
 50.87,28410,Earth Sealed Staff of Incantation,3500,7124.5,3,1,lRivotriLl,purple/gems/inca
-50.86,27028,Ship Atomizer Lv1,1400,2849.09,4,57,ShipSpeed,SHIP ATOM SUPER PRICE
-50.56,26594,Novice Explosive Ball,200,404.51,4,3,TOPBunshie,TATOO AND STUFF ALMOST FREE ! BU
 50.04,25504,Standard Scroll,200,400.31,5,45,StepanBendera,FB/SoulDet/BloodFire/JakpKoin/
