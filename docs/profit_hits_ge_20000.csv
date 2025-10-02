@@ -7,17 +7,17 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,28326,Divine Grace Cap,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1,29990,147996.0,118006.0,1,118006.0,79.74,5
 2025-10-02,28126,Cleric Cap,Meguminn,EXPLOOOOSIOOONN!!E,7500,29583.33,22083.33,1,22083.33,74.65,5
 2025-10-02,28035,Solar Shield,TTKillGirlTT,Jack/ Minion Acc fruit/Equip 50,9999,37499.5,27500.5,1,27500.5,73.34,4
-2025-10-02,25503,Magical Stone,xAntoOokenx,basura,200,713.36,513.36,99,50822.29,71.96,10
+2025-10-02,25503,Magical Stone,xAntoOokenx,basura,200,712.45,512.45,99,50732.08,71.93,11
 2025-10-02,28458,Ice Sealed Staff of the Sphinx,BjornIronside,TODO CON 5,9999,35079.0,25080.0,1,25080.0,71.5,7
 2025-10-02,28036,Emerald Shield,sinox1,Cheap AF 1st come 1st serve!!!!!,29999,93332.67,63333.67,1,63333.67,67.86,3
 2025-10-02,22001,Furious Gem,hunterx,2gen 18st//knife app/gems/etc,1150,3224.19,2074.19,39,80893.29,64.33,10
 2025-10-02,22001,Furious Gem,011,bnk cleaning,1200,3224.19,2024.19,13,26314.43,62.78,10
 2025-10-02,22004,Shining Gem,hunterx,2gen 18st//knife app/gems/etc,1240,3051.29,1811.29,74,134035.5,59.36,8
-2025-10-02,25503,Magical Stone,Cush,Etherial wing black|5accu boots,299,713.36,414.36,99,41021.29,58.09,10
-2025-10-02,25503,Magical Stone,sinox1,Cheap AF 1st come 1st serve!!!!!,299,713.36,414.36,65,26933.17,58.09,10
-2025-10-02,25503,Magical Stone,AkameChan,KCC MALL,300,713.36,413.36,99,40922.29,57.95,10
-2025-10-02,25503,Magical Stone,AkameChan,KCC MALL,300,713.36,413.36,99,40922.29,57.95,10
-2025-10-02,25503,Magical Stone,AkameChan,KCC MALL,300,713.36,413.36,99,40922.29,57.95,10
+2025-10-02,25503,Magical Stone,Cush,Etherial wing black|5accu boots,299,712.45,413.45,99,40931.08,58.03,11
+2025-10-02,25503,Magical Stone,sinox1,Cheap AF 1st come 1st serve!!!!!,299,712.45,413.45,65,26873.94,58.03,11
+2025-10-02,25503,Magical Stone,AkameChan,KCC MALL,300,712.45,412.45,99,40832.08,57.89,11
+2025-10-02,25503,Magical Stone,AkameChan,KCC MALL,300,712.45,412.45,99,40832.08,57.89,11
+2025-10-02,25503,Magical Stone,AkameChan,KCC MALL,300,712.45,412.45,99,40832.08,57.89,11
 2025-10-02,28458,Ice Sealed Staff of the Sphinx,Electricman1,DemoSoul/Universe JadeFrag/RefGe,15000,35079.0,20079.0,1,20079.0,57.24,7
 2025-10-02,25525,,Blass,ITEMS NEED,250000,568571.29,318571.29,1,318571.29,56.03,6
 2025-10-02,28421,Bow of Incantation,M0Nster,Items,90000,196666.67,106666.67,1,106666.67,54.24,3
@@ -30,7 +30,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,28136,Crown of Decendant,LoliRuri,DEMO COLO | Crown | +5 str glove,500000,899999.67,399999.67,1,399999.67,44.44,3
 2025-10-02,28476,Ice Sealed Kris of the Sphinx,BL4CKM4RK3T,soul  kal and stuff,40000,65833.17,25833.17,1,25833.17,39.24,5
 2025-10-02,28403,Blade of Incantation,xSnufx,cheap,160000,262857.0,102857.0,1,102857.0,39.13,6
-2025-10-02,26591,Potion of Lion,Barya,PHARAOH LANTERN|LION|BULL,1500,2442.85,942.85,74,69770.69,38.6,12
+2025-10-02,26591,Potion of Lion,Barya,PHARAOH LANTERN|LION|BULL,1500,2445.56,945.56,74,69971.3,38.66,12
 2025-10-02,22006,Spirit Gem,Piru,>> Good Things to u Buy <<,4000,6374.95,2374.95,15,35624.29,37.25,8
 2025-10-02,25479,Phyllis Hairstyle Book,Manager,CHEAP HAIRSTYLE,2000,3170.94,1170.94,46,53863.17,36.93,4
 2025-10-02,30102,1000 Reputation Scroll,MrFarm,CHEAPEST STALL IN TOWN 2 PAGES!!,6000,9437.34,3437.34,28,96245.65,36.42,3
@@ -45,8 +45,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,26589,Potion of Bull,Barya,PHARAOH LANTERN|LION|BULL,1500,2168.29,668.29,112,74848.43,30.82,11
 2025-10-02,26592,Flash Bomb,MenacingGrin,CHeap FB/lv16 Acc  2nd Gen,900,1291.68,391.68,91,35642.62,30.32,6
 2025-10-02,26326,Elven Royal Signet,MatsBk,S>PPS/PBS/IMP/STRIKE/DUST/MORE,1300,1862.56,562.56,140,78758.81,30.2,10
-2025-10-02,25503,Magical Stone,GRAVITY,SALES MAGICAL STONE,500,713.36,213.36,99,21122.29,29.91,10
-2025-10-02,25503,Magical Stone,GRAVITY,SALES MAGICAL STONE,500,713.36,213.36,99,21122.29,29.91,10
+2025-10-02,25503,Magical Stone,GRAVITY,SALES MAGICAL STONE,500,712.45,212.45,99,21032.08,29.82,11
+2025-10-02,25503,Magical Stone,GRAVITY,SALES MAGICAL STONE,500,712.45,212.45,99,21032.08,29.82,11
 2025-10-02,28411,Staff of Incantation,Maltherion,cheap cleric gears,85000,116666.67,31666.67,1,31666.67,27.14,3
 2025-10-02,26592,Flash Bomb,Ses,S> Flash Bombs Here,950,1291.68,341.68,131,44759.71,26.45,6
 2025-10-02,25420,Sunlight Heart,sstido,clean bank,35000,47500.0,12500.0,2,25000.0,26.32,3
@@ -55,12 +55,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,25451,Jade Gem Fragment,Electricman1,DemoSoul/Universe JadeFrag/RefGe,84999,114318.14,29319.14,1,29319.14,25.65,5
 2025-10-02,25451,Jade Gem Fragment,BENTAHE,UNIVERSE ROCK JADE IRON GUARDIAN,85000,114318.14,29318.14,1,29318.14,25.65,5
 2025-10-02,25452,Rock Gem Fragment,SeyMo,Take or take  choose,90000,120568.33,30568.33,10,305683.33,25.35,6
-2025-10-02,26575,Guardian's Brew,vcz,Guardian Brew Cheap,590,788.33,198.33,200,39666.02,25.16,11
-2025-10-02,26575,Guardian's Brew,vcz,Guardian Brew Cheap,590,788.33,198.33,190,37682.72,25.16,11
-2025-10-02,26575,Guardian's Brew,vcz,Guardian Brew Cheap,590,788.33,198.33,142,28162.88,25.16,11
+2025-10-02,26575,Guardian's Brew,vcz,Guardian Brew Cheap,590,788.67,198.67,200,39733.62,25.19,11
+2025-10-02,26575,Guardian's Brew,vcz,Guardian Brew Cheap,590,788.67,198.67,190,37746.94,25.19,11
+2025-10-02,26575,Guardian's Brew,vcz,Guardian Brew Cheap,590,788.67,198.67,142,28210.87,25.19,11
 2025-10-02,26590,Potion of Soul,zzzzz,zzzzzzzz,2000,2643.2,643.2,44,28300.59,24.33,7
 2025-10-02,25426,Universe Purse Fragment.,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,255000,336666.47,81666.47,1,81666.47,24.26,8
-2025-10-02,26575,Guardian's Brew,Sdeew,Guardian-Iron Brew-Grenade lv2,599,788.33,189.33,172,32564.78,24.02,11
+2025-10-02,26575,Guardian's Brew,Sdeew,Guardian-Iron Brew-Grenade lv2,599,788.67,189.67,172,32622.92,24.05,11
 2025-10-02,28421,Bow of Incantation,Vanny,gold pirate scroll   pbs  45 bow,150000,196666.67,46666.67,1,46666.67,23.73,3
 2025-10-02,28425,Tooth of the Cursed,bruna99,mnh,90000,117499.75,27499.75,1,27499.75,23.4,4
 2025-10-02,26592,Flash Bomb,Bankaquaq,Radiation/FB/Brew/Ship,999,1291.68,292.68,200,58535.43,22.66,6
@@ -81,8 +81,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,26326,Elven Royal Signet,011,bnk cleaning,1500,1862.56,362.56,58,21028.65,19.47,10
 2025-10-02,27014,Moonroot Wine,Artemida,ATK SPR HP COOKING,700,860.41,160.41,193,30959.88,18.64,6
 2025-10-02,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,7444,9123.4,1679.4,61,102443.46,18.41,10
-2025-10-02,26591,Potion of Lion,stalleer,Potions  skatings purple crystal,2000,2442.85,442.85,200,88569.44,18.13,12
-2025-10-02,26591,Potion of Lion,Chupeteira,FREE POTS RADIATION Lv60 EQS,2000,2442.85,442.85,117,51813.12,18.13,12
+2025-10-02,26591,Potion of Lion,stalleer,Potions  skatings purple crystal,2000,2445.56,445.56,200,89111.61,18.22,12
+2025-10-02,26591,Potion of Lion,Chupeteira,FREE POTS RADIATION Lv60 EQS,2000,2445.56,445.56,117,52130.29,18.22,12
 2025-10-02,27025,Radiation Lv1,sellerrr,HEY WATCH OUT RAD FREE,2750,3355.17,605.17,109,65963.23,18.04,8
 2025-10-02,25031,Refining Gem,Mikosita,SELL IMPS/JACKPOT/GPS/PPS/REF,7500,9123.4,1623.4,168,272731.36,17.79,10
 2025-10-02,25452,Rock Gem Fragment,Tralalera,GYOZA WORLD! COINS! IMPS!,99999,120568.33,20569.33,5,102846.67,17.06,6
@@ -114,7 +114,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,22010,Gem of Rage,Shinosuke,CHEAP,1799000,2034083.33,235083.33,1,235083.33,11.56,8
 2025-10-02,22010,Gem of Rage,Calamitas,gem,1800000,2034083.33,234083.33,1,234083.33,11.51,8
 2025-10-02,22010,Gem of Rage,Systembuff,Dem Rage/Ug Rage/Kal/++++,1800000,2034083.33,234083.33,1,234083.33,11.51,8
-2025-10-02,27019,Purple Pirate Scroll,xVENDORx,RUSH,3950,4435.92,485.92,55,26725.49,10.95,18
+2025-10-02,27019,Purple Pirate Scroll,xVENDORx,RUSH,3950,4436.11,486.11,55,26735.93,10.96,18
 2025-10-02,25426,Universe Purse Fragment.,BartholomewKuma,Universe  / Neack  /   Champ 60,299999,336666.47,36667.47,1,36667.47,10.89,8
 2025-10-02,28429,Dance of Evanescence,Embracer,DOE,900000,1008611.0,108611.0,1,108611.0,10.77,6
 2025-10-02,27025,Radiation Lv1,SetSeller,cheapest in town,3000,3355.17,355.17,195,69257.62,10.59,8
@@ -126,8 +126,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,29310,Ring of Hawk,AimMeMore,Unseal SS Eq LV65 Gemmed,399999,447142.57,47143.57,1,47143.57,10.54,4
 2025-10-02,29310,Ring of Hawk,Yoda,T>Pet   rings for str(ring STR/A,400000,447142.57,47142.57,1,47142.57,10.54,4
 2025-10-02,29310,Ring of Hawk,Yoda,T>Pet   rings for str(ring STR/A,400000,447142.57,47142.57,1,47142.57,10.54,4
-2025-10-02,27019,Purple Pirate Scroll,Ozy,RUSHHH,4000,4435.92,435.92,74,32257.93,9.83,18
-2025-10-02,27019,Purple Pirate Scroll,zWhiteBeard,Ratatata,4000,4435.92,435.92,48,20924.06,9.83,18
+2025-10-02,27019,Purple Pirate Scroll,Ozy,RUSHHH,4000,4436.11,436.11,74,32271.97,9.83,18
+2025-10-02,27019,Purple Pirate Scroll,zWhiteBeard,Ratatata,4000,4436.11,436.11,48,20933.17,9.83,18
 2025-10-02,30191,1000 Supporter Points Voucher,MrFarm,CHEAPEST STALL IN TOWN 2 PAGES!!,48000,52986.79,4986.79,51,254326.19,9.41,3
 2025-10-02,27020,Gold Pirate Scroll,FukPolice,gps/rages/pps/jack/mvm/bp/gem,19500,21453.51,1953.51,52,101582.46,9.11,5
 2025-10-02,22010,Gem of Rage,StepanBendera,FB/SouDet/JakCoin/RaGe/GPS/,1850000,2034083.33,184083.33,1,184083.33,9.05,8
@@ -171,7 +171,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,22010,Gem of Rage,FukPolice,gps/rages/pps/jack/mvm/bp/gem,1980000,2034083.33,54083.33,2,108166.67,2.66,8
 2025-10-02,27017,Sorcerer's Wine,DwShops,the finest cooking for DW,13500,13847.41,347.41,114,39604.97,2.51,5
 2025-10-02,26585,Blessed Potion,Duna,CHEAPEST BLESS,122999,125799.85,2800.85,9,25207.65,2.23,3
-2025-10-02,30139,100x Crystal,DarknessL,sell imps,89999,91666.07,1667.07,98,163372.88,1.82,3
-2025-10-02,30139,100x Crystal,Raft,IMPS 90K,90000,91666.07,1666.07,92,153278.46,1.82,3
+2025-10-02,30139,100x Crystal,DarknessL,sell imps,89999,91695.84,1696.84,94,159502.89,1.85,3
+2025-10-02,30139,100x Crystal,Raft,IMPS 90K,90000,91695.84,1695.84,92,156017.21,1.85,3
 2025-10-02,22011,Gemof Sout,dannysierra,super free,1450000,1474999.5,24999.5,1,24999.5,1.69,4
 2025-10-02,22010,Gem of Rage,Shoper,jack 7k gps 18k rage 2m,2000000,2034083.33,34083.33,1,34083.33,1.68,8
