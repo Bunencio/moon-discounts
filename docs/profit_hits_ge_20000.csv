@@ -18,8 +18,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,28456,Ice Sealed Robe of the Sphinx,Swird,Storm/Tribal/Steel/ArmorLV50,25000,53518.33,28518.33,1,28518.33,53.29,3
 2025-10-02,25212,Frozen Elixir,Cush,Etherial wing black|5accu boots,399,837.31,438.31,99,43392.87,52.35,5
 2025-10-02,28417,Corset of Incantation,Bless,CHEAP SS EQ/APP/+4BOWUNSEALD,40000,81250.0,41250.0,1,41250.0,50.77,4
-2025-10-02,26326,Elven Royal Signet,MrFarm,CHEAPEST STALL IN TOWN 2PAGES,1000,1895.08,895.08,99,88612.7,47.23,10
-2025-10-02,26326,Elven Royal Signet,MrFarm,CHEAPEST STALL IN TOWN 2PAGES,1000,1895.08,895.08,99,88612.7,47.23,10
 2025-10-02,25503,Magical Stone,JunoJuno,Chep,500,939.87,439.87,99,43547.11,46.8,12
 2025-10-02,25503,Magical Stone,GRAVITY,SALES MAGICAL STONE,500,939.87,439.87,99,43547.11,46.8,12
 2025-10-02,25503,Magical Stone,GRAVITY,SALES MAGICAL STONE,500,939.87,439.87,99,43547.11,46.8,12
@@ -48,6 +46,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,25506,Expert Scroll,Hunter,CHEAPEZT,500,758.95,258.95,79,20456.98,34.12,5
 2025-10-02,25451,Jade Gem Fragment,Lauriel,All CHEAP,75000,107962.93,32962.93,2,65925.85,30.53,6
 2025-10-02,25452,Rock Gem Fragment,Sypher,rock gem  VOY cap 3con  gBP gold,97000,138695.74,41695.74,2,83391.47,30.06,6
+2025-10-02,26326,Elven Royal Signet,Sypher,rock gem  VOY cap 3con  gBP gold,1450,2038.57,588.57,99,58268.32,28.87,9
 2025-10-02,25452,Rock Gem Fragment,Remeca,Rock Jade Frags/Ref/Hearts/power,99999,138695.74,38696.74,5,193483.68,27.9,6
 2025-10-02,25452,Rock Gem Fragment,Shopshop,striking - frags - coins - scrol,99999,138695.74,38696.74,3,116090.21,27.9,6
 2025-10-02,25452,Rock Gem Fragment,Henry,PBP JACK ROCK FR EVO LOOT,99999,138695.74,38696.74,2,77393.47,27.9,6
@@ -57,6 +56,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,22000,FieryGem,Dad,zzzzz,3000,4111.91,1111.91,62,68938.19,27.04,10
 2025-10-02,26589,Potion of Bull,BL4CKM4RK3T,soul  kal and stuff,1499,2044.35,545.35,99,53989.2,26.68,14
 2025-10-02,26589,Potion of Bull,Barya,PHARAOH LANTERN|LION|BULL,1500,2044.35,544.35,121,65865.8,26.63,14
+2025-10-02,26326,Elven Royal Signet,MatsBk,s>PPS/GPS/PBS/JC/DUST/MORE,1500,2038.57,538.57,140,75399.64,26.42,9
+2025-10-02,26326,Elven Royal Signet,011,bnk cleaning,1500,2038.57,538.57,58,31236.99,26.42,9
 2025-10-02,28423,Mantle of the Cursed Flame,iFennec,3SOCKET UNS SWORD BOW,90000,121999.67,31999.67,1,31999.67,26.23,6
 2025-10-02,30170,Gold Tool Upgrade,HitomiTanaka,PushesUandStartMakingOutwithU,160000,216666.33,56666.33,1,56666.33,26.15,3
 2025-10-02,25451,Jade Gem Fragment,BL4CKM4RK3T,soul  kal and stuff,79999,107962.93,27963.93,1,27963.93,25.9,6
@@ -64,14 +65,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,28460,Ice Sealed Robe of Enigma,GolisBuff,flash bang - item,100000,132000.0,32000.0,1,32000.0,24.24,3
 2025-10-02,28460,Ice Sealed Robe of Enigma,GolisBuff,flash bang - item,100000,132000.0,32000.0,1,32000.0,24.24,3
 2025-10-02,28468,Ice Sealed Mantle of Enigma,BjornIronside,@@@@,75000,98333.33,23333.33,1,23333.33,23.73,3
-2025-10-02,26326,Elven Royal Signet,Sypher,rock gem  VOY cap 3con  gBP gold,1450,1895.08,445.08,99,44062.7,23.49,10
 2025-10-02,26588,Potion of Eagle,Akim,"PVP STORE ""FRAG FOR SPEED""",2100,2741.23,641.23,34,21801.85,23.39,12
 2025-10-02,25478,Carsise Hairstyle Book,Manager,CHEAP HAIRSTYLE,2000,2586.21,586.21,50,29310.34,22.67,3
 2025-10-02,27028,Ship Atomizer Lv1,Bankaquaq,Radiation/FB/Brew/Ship/More,999,1287.36,288.36,110,31719.35,22.4,4
+2025-10-02,26326,Elven Royal Signet,EIlIIliah,rserserser,1599,2038.57,439.57,122,53627.4,21.56,9
 2025-10-02,25451,Jade Gem Fragment,Electricman1,DemSol/Univrs JdeFrag/GPS/JpCoin,85000,107962.93,22962.93,4,91851.7,21.27,6
 2025-10-02,26592,Flash Bomb,Chupeteira,CHEAP UG GEMS / RADIAT / FB / 65,945,1194.78,249.78,200,49956.5,20.91,5
-2025-10-02,26326,Elven Royal Signet,MatsBk,s>PPS/GPS/PBS/JC/DUST/MORE,1500,1895.08,395.08,140,55310.89,20.85,10
-2025-10-02,26326,Elven Royal Signet,011,bnk cleaning,1500,1895.08,395.08,58,22914.51,20.85,10
 2025-10-02,26591,Potion of Lion,BoogeyMan,potsssssssssss,1999,2516.73,517.73,50,25886.38,20.57,15
 2025-10-02,30209,Island Card,SeventhHeaven,Coins/Scrolls/Lantern etc,2500,3145.28,645.28,36,23230.19,20.52,3
 2025-10-02,26592,Flash Bomb,StepanBendera,FB/SoulDet/BloodFire/JakpKoin/,950,1194.78,244.78,150,36717.38,20.49,5
@@ -85,6 +84,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,28403,Blade of Incantation,xSnufx,cheap,160000,192499.75,32499.75,1,32499.75,16.88,4
 2025-10-02,28460,Ice Sealed Robe of Enigma,CHEAPSTALL,CLERIC ITEMS/AMI APP SET/STAFF,110000,132000.0,22000.0,1,22000.0,16.67,3
 2025-10-02,20433,Frostplume - Bow,Uwe,tRASH,99999,119999.67,20000.67,1,20000.67,16.67,3
+2025-10-02,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1699,2038.57,339.57,200,67913.77,16.66,9
+2025-10-02,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1699,2038.57,339.57,184,62480.67,16.66,9
 2025-10-02,26575,Guardian's Brew,Sdeew,Iron-Guardian Brew-Grenade lv2 !,599,718.01,119.01,200,23801.46,16.57,9
 2025-10-02,26592,Flash Bomb,Bankaquaq,Radiation/FB/Brew/Ship/More,999,1194.78,195.78,200,39156.5,16.39,5
 2025-10-02,26592,Flash Bomb,Bankaquaq,Radiation/FB/Brew/Ship/More,999,1194.78,195.78,200,39156.5,16.39,5
@@ -95,7 +96,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,25422,Evanescence Power,Kasyadex,FAIRY DUST/EVA POWER/APP/PET/VOY,7200,8568.09,1368.09,21,28729.79,15.97,4
 2025-10-02,25031,Refining Gem,EIlIIliah,rserserser,7900,9375.92,1475.92,54,79699.49,15.74,12
 2025-10-02,26570,Bloodfire Potion,StepanBendera,FB/SoulDet/BloodFire/JakpKoin/,1999,2370.2,371.2,145,53823.48,15.66,3
-2025-10-02,26326,Elven Royal Signet,EIlIIliah,rserserser,1599,1895.08,296.08,122,36121.49,15.62,10
 2025-10-02,26002,Pharaoh Gem,selleeeer1,GOLD GOLD GOLD,1400,1657.17,257.17,78,20058.9,15.52,5
 2025-10-02,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,7987,9375.92,1388.92,101,140280.57,14.81,12
 2025-10-02,25031,Refining Gem,Mikosita,SELL IMPS/REF/PPS,7999,9375.92,1376.92,182,250598.8,14.69,12
@@ -118,8 +118,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-02,28429,Dance of Evanescence,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch,1000000,1122222.0,122222.0,1,122222.0,10.89,3
 2025-10-02,28429,Dance of Evanescence,ImTheBest,Cheap Cheap Cheap Cheap Cheap Ch,1000000,1122222.0,122222.0,1,122222.0,10.89,3
 2025-10-02,30191,1000 Supporter Points Voucher,MrFarm,CHEAPEST STALL IN TOWN 2PAGES,48000,53675.83,5675.83,93,527852.61,10.57,4
-2025-10-02,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1699,1895.08,196.08,200,39215.56,10.35,10
-2025-10-02,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1699,1895.08,196.08,184,36078.32,10.35,10
 2025-10-02,26585,Blessed Potion,Stalinha,Cheapest Pots <3,127000,140735.03,13735.03,21,288435.62,9.76,6
 2025-10-02,22023,Green Jade,GemMarket,UG RAGE ANY JADES DAWN PRICE!,285000,312708.19,27708.19,2,55416.38,8.86,4
 2025-10-02,26588,Potion of Eagle,zzzzz,zzzzz,2500,2741.23,241.23,194,46798.77,8.8,12
