@@ -15,7 +15,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-03,25503,Magical Stone,sinox1,Cheap AF 1st come 1st serve!!!!!,299,804.59,505.59,65,32863.41,62.84,8
 2025-10-03,25503,Magical Stone,Cush,lvl60 acu agi ring|MVM|PPS|PBS,299,804.59,505.59,44,22246.0,62.84,8
 2025-10-03,22004,Shining Gem,hunterx,2gen 18st//knife app/gems/etc,1240,3044.04,1804.04,74,133499.2,59.26,9
-2025-10-03,28476,Ice Sealed Kris of the Sphinx,BL4CKM4RK3T,cheap cheap  come come,30000,68333.0,38333.0,1,38333.0,56.1,4
+2025-10-03,28476,Ice Sealed Kris of the Sphinx,BL4CKM4RK3T,cheap cheap  come come,30000,65999.6,35999.6,1,35999.6,54.55,3
 2025-10-03,28456,Ice Sealed Robe of the Sphinx,Swird,Storm/Steel/Tribal/GPS/Sphinx,25000,53518.33,28518.33,1,28518.33,53.29,3
 2025-10-03,25479,Phyllis Hairstyle Book,VERTIGO,HAIR STYL DYE COLORANT BOOK GEL,3000,5947.32,2947.32,11,32420.47,49.56,3
 2025-10-03,22003,Glowing Gem,Look7,ty,1111,2144.61,1033.61,78,80621.94,48.2,7
@@ -49,12 +49,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-03,25451,Jade Gem Fragment,iLegolas,CookinCard JadeFrag Jack Gps Ref,79800,112817.39,33017.39,1,33017.39,29.27,5
 2025-10-03,28423,Mantle of the Cursed Flame,RanqueWisss,looowwww,79999,112499.33,32500.33,1,32500.33,28.89,5
 2025-10-03,25420,Sunlight Heart,sstido,clean bank,35000,47500.0,12500.0,2,25000.0,26.32,3
-2025-10-03,26575,Guardian's Brew,vcz,Guardian Brew Here,590,791.07,201.07,200,40213.59,25.42,10
-2025-10-03,26575,Guardian's Brew,vcz,Guardian Brew Here,590,791.07,201.07,157,31567.67,25.42,10
+2025-10-03,26575,Guardian's Brew,vcz,Guardian Brew Here,590,791.91,201.91,200,40381.93,25.5,10
+2025-10-03,26575,Guardian's Brew,vcz,Guardian Brew Here,590,791.91,201.91,157,31699.81,25.5,10
 2025-10-03,25451,Jade Gem Fragment,Electricman1,DemSoul/Uni JadeFrag/PPS/PBS/JPC,85000,112817.39,27817.39,1,27817.39,24.66,5
 2025-10-03,25451,Jade Gem Fragment,BENTAHE,UNIVERSE ROCK JADE IRON GUARDIAN,85000,112817.39,27817.39,1,27817.39,24.66,5
-2025-10-03,26575,Guardian's Brew,Stalinha,Cheapest Pots / Bless,599,791.07,192.07,166,31883.28,24.28,10
-2025-10-03,26575,Guardian's Brew,Sdeew,Guardian- Iron Brew- Grenade lv2,599,791.07,192.07,162,31115.0,24.28,10
+2025-10-03,26575,Guardian's Brew,Stalinha,Cheapest Pots / Bless,599,791.91,192.91,166,32023.0,24.36,10
+2025-10-03,26575,Guardian's Brew,Sdeew,Guardian- Iron Brew- Grenade lv2,599,791.91,192.91,162,31251.36,24.36,10
 2025-10-03,27014,Moonroot Wine,KFCC,FREE POTSSSS CHEAPEST PRICES OMG,650,857.25,207.25,200,41449.98,24.18,8
 2025-10-03,25452,Rock Gem Fragment,Mikosita,SELL JACKPOT/GPS/REF/IMPS/PPS,95000,124866.38,29866.38,6,179198.27,23.92,6
 2025-10-03,22000,FieryGem,Dad,zzzzz,3000,3867.85,867.85,62,53806.46,22.44,8
@@ -88,15 +88,16 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-03,22016,Demonic Gem of Sout,Mikosita,SELL JACKPOT/GPS/REF/IMPS/PPS,1500000,1774999.75,274999.75,1,274999.75,15.49,4
 2025-10-03,25508,Demonic Gem Fragment,Donaldy*,CHEAP AEGIS ROCK + DEMONIC FRAG,110000,130000.0,20000.0,1,20000.0,15.38,4
 2025-10-03,26570,Bloodfire Potion,StepanBendera,FB/SouDet/JakCoin/RaGe/GPS/,1999,2326.89,327.89,135,44265.41,14.09,3
+2025-10-03,26592,Flash Bomb,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS,998,1160.91,162.91,174,28345.91,14.03,4
 2025-10-03,22006,Spirit Gem,Jazs,random items!,5555,6460.89,905.89,30,27176.62,14.02,7
+2025-10-03,26592,Flash Bomb,SetSeller,cheapest itens in town,999,1160.91,161.91,200,32381.5,13.95,4
+2025-10-03,26592,Flash Bomb,LotokSell,WoW VERY CHEAP low price,999,1160.91,161.91,200,32381.5,13.95,4
+2025-10-03,26592,Flash Bomb,fairyWinX,FlashBombs,999,1160.91,161.91,200,32381.5,13.95,4
+2025-10-03,26592,Flash Bomb,fairyWinX,FlashBombs,999,1160.91,161.91,180,29143.35,13.95,4
+2025-10-03,26592,Flash Bomb,SetSeller,cheapest itens in town,999,1160.91,161.91,145,23476.59,13.95,4
+2025-10-03,26592,Flash Bomb,StepanBendera,FB/SouDet/JakCoin/RaGe/GPS/,999,1160.91,161.91,125,20238.44,13.95,4
 2025-10-03,25031,Refining Gem,EIlIIliah,itiitem,7900,9160.19,1260.19,46,57968.9,13.76,12
-2025-10-03,26592,Flash Bomb,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS,998,1157.13,159.13,174,27688.8,13.75,4
 2025-10-03,22010,Gem of Rage,StepanBendera,FB/SouDet/JakCoin/RaGe/GPS/,1850000,2144285.71,294285.71,1,294285.71,13.72,4
-2025-10-03,26592,Flash Bomb,SetSeller,cheapest itens in town,999,1157.13,158.13,200,31626.21,13.67,4
-2025-10-03,26592,Flash Bomb,SetSeller,cheapest itens in town,999,1157.13,158.13,200,31626.21,13.67,4
-2025-10-03,26592,Flash Bomb,LotokSell,WoW VERY CHEAP low price,999,1157.13,158.13,200,31626.21,13.67,4
-2025-10-03,26592,Flash Bomb,fairyWinX,FlashBombs,999,1157.13,158.13,200,31626.21,13.67,4
-2025-10-03,26592,Flash Bomb,fairyWinX,FlashBombs,999,1157.13,158.13,180,28463.59,13.67,4
 2025-10-03,27034,Grenade Lv2,Space,GRENADE LV 2 (2800g),2800,3237.49,437.49,137,59936.63,13.51,5
 2025-10-03,25496,Cyan Colorant.,hahahehehoho,Colorants,4000,4625.0,625.0,38,23750.0,13.51,3
 2025-10-03,26560,Cooked Bluefin Tuna,Pots,Demonic Gem of Rage/Crab/Tuna,2800,3233.49,433.49,200,86697.28,13.41,3
@@ -136,10 +137,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-03,22013,Demonic Gem of Striking,BatMAN,Strikerrr,1999999,2136363.45,136364.45,1,136364.45,6.38,6
 2025-10-03,26568,Skating Potion,BL4CKM4RK3T,cheap cheap  come come,42999,45584.74,2585.74,8,20685.89,5.67,7
 2025-10-03,27020,Gold Pirate Scroll,Masteryi,sell gold pir,19400,20497.17,1097.17,61,66927.36,5.35,6
-2025-10-03,26572,Inferno Potion,Stalinha,Cheapest Pots / Bless,8999,9469.06,470.06,82,38544.78,4.96,9
 2025-10-03,27020,Gold Pirate Scroll,FukPolice,gps/rages/pps/jack/mvm/bp/gem,19500,20497.17,997.17,52,51852.83,4.86,6
 2025-10-03,22015,Demonic Gem of Rage,Pots,Demonic Gem of Rage/Crab/Tuna,2500000,2625000.0,125000.0,2,250000.0,4.76,3
+2025-10-03,26572,Inferno Potion,Stalinha,Cheapest Pots / Bless,8999,9397.11,398.11,82,32645.38,4.24,9
 2025-10-03,22016,Demonic Gem of Sout,smoI,smol,1700000,1774999.75,74999.75,1,74999.75,4.23,4
+2025-10-03,26572,Inferno Potion,BPCRAFT,INFERNO/WARLORD/GUARDIAN,9000,9397.11,397.11,177,70289.25,4.23,9
 2025-10-03,22011,Gemof Sout,BL4CKM4RK3T,cheap cheap  come come,1349999,1399999.6,50000.6,1,50000.6,3.57,5
 2025-10-03,22009,Gem of Colossus,jajaaaaja,GEMS,1900000,1969999.8,69999.8,2,139999.6,3.55,3
 2025-10-03,22009,Gem of Colossus,LotokSell,WoW VERY CHEAP low price,1900000,1969999.8,69999.8,1,69999.8,3.55,3
