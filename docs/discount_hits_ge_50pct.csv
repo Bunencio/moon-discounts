@@ -15,7 +15,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.07,28036,Emerald Shield,15000,71666.33,3,1,VIII,garner
 76.11,28126,Cleric Cap,7500,31388.89,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 74.1,25497,Blue Colorant,1000,3860.47,3,1,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
-73.7,22003,Glowing Gem,1000,3802.29,5,19,011,bank cleaning
 73.34,28035,Solar Shield,9999,37499.5,4,1,TTKillGirlTT,Universe/ Shield / Equips 50-60
 73.16,28326,Divine Grace Cap,39990,148997.14,7,1,Merchanty,Staff App|Salmon|Cleric Cap Spr
 73.02,25494,Yellow Colorant.,1000,3705.88,3,1,EvilRian,hellow
@@ -24,16 +23,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.83,28400,Earth Sealed Platemail of the Cursed Soul,3000,9044.0,4,1,HyjoSeller,DEU A LOUCA NO GERENTE
 66.49,28458,Ice Sealed Staff of the Sphinx,15000,44761.57,7,1,Electricman1,DemSoul/Univ. JadeFrag/PPS/RefG.
 66.44,28326,Divine Grace Cap,50000,148997.14,7,1,EIlIIliah,itiitem
+65.2,22003,Glowing Gem,1000,2873.44,6,19,011,bank cleaning
+64.52,22004,Shining Gem,1240,3494.5,8,68,hunterx,2gen 18st//knife app/gems/etc
 62.8,25503,Magical Stone,290,779.55,8,2,Skills,Free     Free     Free     Free
-61.69,22004,Shining Gem,1240,3236.8,8,68,hunterx,2gen 18st//knife app/gems/etc
+61.89,22001,Furious Gem,1000,2623.65,9,13,011,bank cleaning
+61.89,22001,Furious Gem,1000,2623.65,9,1,EvilRian,hellow
+61.89,22001,Furious Gem,1000,2623.65,9,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 61.64,25503,Magical Stone,299,779.55,8,69,Cush,lvl60 acu agi ring|MVM|PPS|PBS
 61.64,25503,Magical Stone,299,779.55,8,99,Cush,lvl60 acu agi ring|MVM|PPS|PBS
 61.64,25503,Magical Stone,299,779.55,8,42,Cush,lvl60 acu agi ring|MVM|PPS|PBS
-60.34,22001,Furious Gem,1000,2521.59,9,13,011,bank cleaning
-60.34,22001,Furious Gem,1000,2521.59,9,1,EvilRian,hellow
-60.34,22001,Furious Gem,1000,2521.59,9,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+61.34,22003,Glowing Gem,1111,2873.44,6,78,Look7,GEM
 58.62,28422,Earth Sealed Mantle of the Cursed Flame,3000,7249.5,3,1,HyjoSeller,DEU A LOUCA NO GERENTE
 58.49,25493,Orange Colorant,1000,2408.86,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
-54.39,22001,Furious Gem,1150,2521.59,9,39,hunterx,2gen 18st//knife app/gems/etc
-53.66,22004,Shining Gem,1500,3236.8,8,3,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS
+57.08,22004,Shining Gem,1500,3494.5,8,3,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS
+56.17,22001,Furious Gem,1150,2623.65,9,39,hunterx,2gen 18st//knife app/gems/etc
 53.29,28456,Ice Sealed Robe of the Sphinx,25000,53518.33,3,1,Swird,Storm/Steel/Tribal/GPS/Sphinx
+50.45,22001,Furious Gem,1300,2623.65,9,1,TOPBunshie,TATOO / ALMOST FREE
