@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.63,26564,Meditation Potion,24,711.65,3,99,TagBaligya,Gauntlets  Manu Items
 96.49,26564,Meditation Potion,25,711.65,3,144,TuoTuo,Cleaning BANK
-89.4,28440,Fire Sealed Roar of Evanescence,10000,94375.0,4,1,Nixm,lv50 items
+91.67,28440,Fire Sealed Roar of Evanescence,10000,120000.0,3,1,Nixm,lv50 items
 88.83,28458,Ice Sealed Staff of the Sphinx,5000,44761.57,7,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 88.43,28132,Voyager Cap,40000,345714.29,4,1,freeee,cheap
 86.98,28132,Voyager Cap,45000,345714.29,4,1,stuart,EQUIPS
@@ -11,7 +11,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.39,25493,Orange Colorant,400,2408.86,3,2,cheapstuffsell,cheap
 83.01,28327,Great Aqua Cap,50000,294259.0,3,1,EIlIIliah,itiitem
 82.63,28458,Ice Sealed Staff of the Sphinx,7777,44761.57,7,1,xCrossex,LEAF  FB  SEALED  ACC
-81.46,28440,Fire Sealed Roar of Evanescence,17500,94375.0,4,1,bowstalls,6acc 1agi/fire sealed 3Pages
 81.31,28327,Great Aqua Cap,55000,294259.0,3,1,freeee,cheap
 79.07,28036,Emerald Shield,15000,71666.33,3,1,VIII,garner
 76.11,28126,Cleric Cap,7500,31388.89,5,1,Meguminn,EXPLOOOOSIOOONN!!E
@@ -20,6 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.16,28326,Divine Grace Cap,39990,148997.14,7,1,Merchanty,Staff App|Salmon|Cleric Cap Spr
 73.02,25494,Yellow Colorant.,1000,3705.88,3,1,EvilRian,hellow
 73.02,25494,Yellow Colorant.,1000,3705.88,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+70.6,28468,Ice Sealed Mantle of Enigma,20000,68037.0,3,1,Everest,pOTS
 68.14,28126,Cleric Cap,10000,31388.89,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 66.83,28400,Earth Sealed Platemail of the Cursed Soul,3000,9044.0,4,1,HyjoSeller,DEU A LOUCA NO GERENTE
 66.49,28458,Ice Sealed Staff of the Sphinx,15000,44761.57,7,1,Electricman1,DemSoul/Univ. JadeFrag/PPS/RefG.
@@ -35,7 +35,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.99,25503,Magical Stone,299,747.4,8,69,Cush,lvl60 acu agi ring|MVM|PPS|PBS
 59.99,25503,Magical Stone,299,747.4,8,99,Cush,lvl60 acu agi ring|MVM|PPS|PBS
 59.99,25503,Magical Stone,299,747.4,8,42,Cush,lvl60 acu agi ring|MVM|PPS|PBS
-59.61,30121,Vial of Accuracy Reset,2000,4951.81,4,4,Yennefer,GPS EVA LBP CLOUD HAIRVOUCH EXPS
+59.64,30121,Vial of Accuracy Reset,2000,4956.0,4,4,Yennefer,GPS EVA LBP CLOUD HAIRVOUCH EXPS
 58.62,28422,Earth Sealed Mantle of the Cursed Flame,3000,7249.5,3,1,HyjoSeller,DEU A LOUCA NO GERENTE
 58.49,25493,Orange Colorant,1000,2408.86,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 58.33,28444,Fire Sealed Bellow of Evanescence,5000,11999.86,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
