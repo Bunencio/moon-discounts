@@ -11,7 +11,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.63,28458,Ice Sealed Staff of the Sphinx,7777,44761.57,7,1,xCrossex,LEAF  FB  SEALED  ACC
 81.46,28440,Fire Sealed Roar of Evanescence,17500,94375.0,4,1,bowstalls,6acc 1agi/fire sealed 3Pages
 81.31,28327,Great Aqua Cap,55000,294259.0,3,1,freeee,cheap
-78.9,28326,Divine Grace Cap,29990,142163.33,6,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
+80.06,28326,Divine Grace Cap,29990,150425.71,7,1,Merchanty,IMPs/Crystal|Salmon|Cleric Cap+1
 76.11,28126,Cleric Cap,7500,31388.89,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 74.1,25497,Blue Colorant,1000,3860.47,3,1,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 73.34,28035,Solar Shield,9999,37499.5,4,1,TTKillGirlTT,Universe/ Shield / Equips 50-60
@@ -19,23 +19,24 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.02,25494,Yellow Colorant.,1000,3705.88,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 68.14,28126,Cleric Cap,10000,31388.89,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 66.83,28400,Earth Sealed Platemail of the Cursed Soul,3000,9044.0,4,1,HyjoSeller,DEU A LOUCA NO GERENTE
+66.76,28326,Divine Grace Cap,50000,150425.71,7,1,EIlIIliah,itiitem
 66.49,28458,Ice Sealed Staff of the Sphinx,15000,44761.57,7,1,Electricman1,DemSoul/Univ. JadeFrag/PPS/RefG.
 65.21,22003,Glowing Gem,1000,2873.99,7,19,011,bank cleaning
-64.83,28326,Divine Grace Cap,50000,142163.33,6,1,EIlIIliah,itiitem
 61.98,22001,Furious Gem,1000,2629.86,9,13,011,bank cleaning
 61.98,22001,Furious Gem,1000,2629.86,9,1,EvilRian,hellow
 61.98,22001,Furious Gem,1000,2629.86,9,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+61.36,25390,Mermaid Heart,100,258.77,3,1,FARMBR,sell
 61.34,22003,Glowing Gem,1111,2873.99,7,78,Look7,ty
 60.6,22004,Shining Gem,1200,3046.0,9,8,lamamandoski,me upa?
 59.61,30121,Vial of Accuracy Reset,2000,4951.81,4,4,Yennefer,GPS EVA LBP CLOUD HAIRVOUCH EXPS
 59.29,22004,Shining Gem,1240,3046.0,9,74,hunterx,2gen 18st//knife app/gems/etc
-59.07,25503,Magical Stone,290,708.52,7,2,Skills,Free     Free     Free     Free
+59.21,25503,Magical Stone,290,711.0,8,2,Skills,Free     Free     Free     Free
 58.62,28422,Earth Sealed Mantle of the Cursed Flame,3000,7249.5,3,1,HyjoSeller,DEU A LOUCA NO GERENTE
 58.49,25493,Orange Colorant,1000,2408.86,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 58.33,28444,Fire Sealed Bellow of Evanescence,5000,11999.86,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
-57.8,25503,Magical Stone,299,708.52,7,69,Cush,lvl60 acu agi ring|MVM|PPS|PBS
-57.8,25503,Magical Stone,299,708.52,7,99,Cush,lvl60 acu agi ring|MVM|PPS|PBS
-57.8,25503,Magical Stone,299,708.52,7,42,Cush,lvl60 acu agi ring|MVM|PPS|PBS
+57.95,25503,Magical Stone,299,711.0,8,69,Cush,lvl60 acu agi ring|MVM|PPS|PBS
+57.95,25503,Magical Stone,299,711.0,8,99,Cush,lvl60 acu agi ring|MVM|PPS|PBS
+57.95,25503,Magical Stone,299,711.0,8,42,Cush,lvl60 acu agi ring|MVM|PPS|PBS
 56.27,22001,Furious Gem,1150,2629.86,9,39,hunterx,2gen 18st//knife app/gems/etc
 55.8,28476,Ice Sealed Kris of the Sphinx,30000,67872.57,5,1,BL4CKM4RK3T,cheap cheap  come come
 53.29,28456,Ice Sealed Robe of the Sphinx,25000,53518.33,3,1,Swird,Storm/Steel/Tribal/GPS/Sphinx
