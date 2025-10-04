@@ -22,11 +22,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.83,22004,Shining Gem,1240,3526.07,9,49,hunterx,2gen 18st//knife app/gems/etc
 64.02,22003,Glowing Gem,1000,2779.18,7,18,011,bank cleaning
 64.02,22003,Glowing Gem,1000,2779.18,7,5,MenacingGrin,Cleaning Bank/Cheap Repu
-63.63,28410,Earth Sealed Staff of Incantation,2500,6874.5,3,1,lRivotriLl,purple
 63.35,28458,Ice Sealed Staff of the Sphinx,9999,27283.56,8,1,BjornIronside,@@@@@@
 61.65,28326,Divine Grace Cap,39990,104282.71,6,1,Merchanty,Staff App|Salmon|Cleric Cap Spr
 61.64,28326,Divine Grace Cap,40000,104282.71,6,1,EIlIIliah,resarser
 61.64,28326,Divine Grace Cap,40000,104282.71,6,1,EIlIIliah,resarser
+61.54,28410,Earth Sealed Staff of Incantation,2500,6499.6,3,1,lRivotriLl,purple
 60.02,22003,Glowing Gem,1111,2779.18,7,78,Look7,GEM
 59.24,22001,Furious Gem,999,2451.05,8,1,INeedADollar,cheap stuff
 59.2,22001,Furious Gem,1000,2451.05,8,13,011,bank cleaning
@@ -38,10 +38,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.67,25503,Magical Stone,300,708.69,10,68,KIFFYFIED,cheep price for the best
 57.46,22004,Shining Gem,1500,3526.07,9,3,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS
 55.74,28456,Ice Sealed Robe of the Sphinx,20000,45185.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
-54.54,28432,Fire Sealed Staff of Mirage,5000,10999.8,3,1,HyjoSeller,DEU A LOUCA NO GERENTE
-54.54,28432,Fire Sealed Staff of Mirage,5000,10999.8,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 53.08,22001,Furious Gem,1150,2451.05,8,39,hunterx,2gen 18st//knife app/gems/etc
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
+51.61,28432,Fire Sealed Staff of Mirage,5000,10333.17,4,1,HyjoSeller,DEU A LOUCA NO GERENTE
+51.61,28432,Fire Sealed Staff of Mirage,5000,10333.17,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 51.48,25390,Mermaid Heart,100,206.11,3,1,FARMBR,sell
 50.97,22006,Spirit Gem,2999,6117.04,9,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 50.61,25503,Magical Stone,350,708.69,10,99,GRAVITY,MAGICAL STONE
