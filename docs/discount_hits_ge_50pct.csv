@@ -5,6 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 85.46,25493,Orange Colorant,350,2407.59,3,2,cheapstuffsell,cheap
 81.97,22003,Glowing Gem,500,2773.63,7,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 81.97,22003,Glowing Gem,500,2773.63,7,2,INeedADollar,cheap stuff
+80.06,28458,Ice Sealed Staff of the Sphinx,4999,25069.12,7,1,xCrossex,LEAF  BUY PLS
 77.31,28263,Feral Hunter Vest,45000,198333.33,3,1,KIFFYFIED,cheep price for the best
 73.81,25497,Blue Colorant,1000,3818.16,4,1,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 73.79,28126,Cleric Cap,7500,28611.11,5,1,Meguminn,EXPLOOOOSIOOONN!!E
@@ -13,7 +14,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.09,28400,Earth Sealed Platemail of the Cursed Soul,3000,10749.75,3,1,HyjoSeller,DEU A LOUCA NO GERENTE
 72.09,28406,Earth Sealed Staff of Abraxas.,1500,5374.75,3,1,TOPBunshie,TATOO / ALMOST FREE
 70.06,28430,Fire Sealed Robe of Malediction,5000,16700.0,3,1,Nixm,Lv50 ALL CLASSES CHEAP AF!!!!!!!
-66.67,28035,Solar Shield,9999,29999.33,3,1,TTKillGirlTT,Universe/ Shield / Equips 50-60
 65.98,22004,Shining Gem,1200,3527.08,10,1,cheapstuffsell,cheap
 65.36,30121,Vial of Accuracy Reset,2000,5774.19,4,4,Yennefer,GPS EVA LBP CLOUD HAIRVOUCH EXPS
 65.05,28126,Cleric Cap,10000,28611.11,5,1,Meguminn,EXPLOOOOSIOOONN!!E
@@ -25,8 +25,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.65,28326,Divine Grace Cap,39990,104282.71,6,1,Merchanty,Staff App|Salmon|Cleric Cap Spr
 61.64,28326,Divine Grace Cap,40000,104282.71,6,1,EIlIIliah,resarser
 61.64,28326,Divine Grace Cap,40000,104282.71,6,1,EIlIIliah,resarser
-61.12,28458,Ice Sealed Staff of the Sphinx,4999,12856.86,6,1,xCrossex,LEAF  BUY PLS
-61.11,28458,Ice Sealed Staff of the Sphinx,5000,12856.86,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
+60.11,28458,Ice Sealed Staff of the Sphinx,10000,25069.12,7,1,freestuffcomevis,cheap gear
+60.11,28458,Ice Sealed Staff of the Sphinx,9999,25069.12,7,1,BjornIronside,@@@@@@
 59.94,22003,Glowing Gem,1111,2773.63,7,78,Look7,GEM
 59.9,28421,Bow of Incantation,90000,224444.33,3,1,M0Nster,Items
 58.73,25503,Magical Stone,290,702.75,10,2,Skills,Free     Free     Free     Free
@@ -38,10 +38,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.78,22001,Furious Gem,1000,2368.77,8,1,EvilRian,hellow
 57.47,22004,Shining Gem,1500,3527.08,10,3,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS
 57.31,25503,Magical Stone,300,702.75,10,68,KIFFYFIED,cheep price for the best
+56.14,28432,Fire Sealed Staff of Mirage,5000,11399.8,4,1,HyjoSeller,DEU A LOUCA NO GERENTE
 55.74,28456,Ice Sealed Robe of the Sphinx,20000,45185.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
-51.61,28432,Fire Sealed Staff of Mirage,5000,10333.17,4,1,HyjoSeller,DEU A LOUCA NO GERENTE
-51.61,28432,Fire Sealed Staff of Mirage,5000,10333.17,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
 51.54,22006,Spirit Gem,2999,6188.64,9,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 51.45,22001,Furious Gem,1150,2368.77,8,39,hunterx,2gen 18st//knife app/gems/etc
 50.2,25503,Magical Stone,350,702.75,10,99,GRAVITY,MAGICAL STONE
