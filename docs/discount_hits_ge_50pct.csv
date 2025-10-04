@@ -25,7 +25,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.5,25503,Magical Stone,300,759.54,9,68,KIFFYFIED,cheep price for the best
 60.11,28458,Ice Sealed Staff of the Sphinx,10000,25069.25,7,1,freestuffcomevis,cheap gear
 60.11,28458,Ice Sealed Staff of the Sphinx,9999,25069.25,7,1,BjornIronside,@@@@@@
-59.9,28421,Bow of Incantation,90000,224444.33,3,1,M0Nster,Items
 56.31,26345,Elven Potion,3000,6867.26,3,2,MenacingGrin,Cheap Repu/FB/Gems/Buy fast
 56.11,22003,Glowing Gem,1111,2531.58,8,123,Look7,gem
 55.74,28456,Ice Sealed Robe of the Sphinx,20000,45185.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
@@ -37,4 +36,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.92,25503,Magical Stone,350,759.54,9,99,GRAVITY,MAGICAL STONE
 53.92,25503,Magical Stone,350,759.54,9,3,GRAVITY,MAGICAL STONE
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
-51.93,25439,Incantation Stone,500,1040.17,5,4,vendedolmax,2000
+51.8,25439,Incantation Stone,500,1037.31,5,4,vendedolmax,2000
