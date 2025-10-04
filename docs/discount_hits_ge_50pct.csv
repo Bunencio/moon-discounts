@@ -20,17 +20,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.12,22001,Furious Gem,1300,3953.91,10,1,TOPBunshie,TATOO / ALMOST FREE
 66.67,28035,Solar Shield,9999,29999.33,3,1,TTKillGirlTT,Universe/ Shield / Equips 50-60
 64.89,30121,Vial of Accuracy Reset,2000,5696.97,5,4,Yennefer,GPS EVA LBP CLOUD HAIRVOUCH EXPS
-64.79,28442,Fire Sealed Coat of Evanescence,5000,14200.0,5,1,Friereeen,LVL 50 sealed items free
 64.59,22001,Furious Gem,1400,3953.91,10,1,Anuel,last Armor of Enigma xD
+64.51,28442,Fire Sealed Coat of Evanescence,5000,14090.0,6,1,Friereeen,LVL 50 sealed items free
 64.11,22003,Glowing Gem,950,2647.31,9,1,lamamandoski,rasta courage
 62.23,22003,Glowing Gem,1000,2647.31,9,13,011,bank cleaning
 62.23,22003,Glowing Gem,1000,2647.31,9,5,MenacingGrin,Cheap Repu/FB/Gems/Buy fast
 62.06,22001,Furious Gem,1500,3953.91,10,5,GrimDarkness,Cleaning /Potion/Gems/FB/SM/PET
 61.82,25503,Magical Stone,290,759.54,9,2,Skills,Free     Free     Free     Free
 60.5,25503,Magical Stone,300,759.54,9,68,KIFFYFIED,cheep price for the best
-60.11,28458,Ice Sealed Staff of the Sphinx,10000,25069.25,7,1,freestuffcomevis,cheap gear
+60.26,26588,Potion of Eagle,1000,2516.58,12,1,ReiGnomio,O_O
 60.11,28458,Ice Sealed Staff of the Sphinx,9999,25069.25,7,1,BjornIronside,@@@@@@
+60.11,28458,Ice Sealed Staff of the Sphinx,10000,25069.25,7,1,freestuffcomevis,cheap gear
 58.03,22003,Glowing Gem,1111,2647.31,9,123,Look7,gem
+56.16,26589,Potion of Bull,1000,2281.23,14,3,ReiGnomio,O_O
 55.95,28444,Fire Sealed Bellow of Evanescence,5000,11349.9,5,1,Friereeen,LVL 50 sealed items free
 55.95,28444,Fire Sealed Bellow of Evanescence,5000,11349.9,5,1,Lune,Cheap Items
 55.74,28456,Ice Sealed Robe of the Sphinx,20000,45185.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
@@ -41,4 +43,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.92,25503,Magical Stone,350,759.54,9,3,GRAVITY,MAGICAL STONE
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
 51.8,25439,Incantation Stone,500,1037.31,5,4,vendedolmax,2000
+51.71,25525,,449990,931816.64,5,1,SirCumcision,CJF / Lv50 ACC Ring / Bank Clean
 50.01,28412,Earth Sealed Tattoo of the Cursed Warrior,4999,9999.33,3,1,Heroes,SEAL   UNS  RING  NECK  BOW
