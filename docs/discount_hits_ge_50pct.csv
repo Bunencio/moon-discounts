@@ -4,10 +4,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 88.32,22000,FieryGem,500,4280.95,7,2,xJewel,cheaps gems
 85.82,22004,Shining Gem,500,3526.07,9,3,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 83.39,25493,Orange Colorant,400,2408.86,3,2,cheapstuffsell,cheap
+82.01,22003,Glowing Gem,500,2779.18,7,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
+82.01,22003,Glowing Gem,500,2779.18,7,2,INeedADollar,cheap stuff
 81.68,28458,Ice Sealed Staff of the Sphinx,4999,27283.56,8,1,xCrossex,LEAF  BUY PLS
 81.67,28458,Ice Sealed Staff of the Sphinx,5000,27283.56,8,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOR
-80.31,22003,Glowing Gem,500,2538.93,8,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
-80.31,22003,Glowing Gem,500,2538.93,8,2,INeedADollar,cheap stuff
 73.81,25497,Blue Colorant,1000,3818.16,4,1,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 73.79,28126,Cleric Cap,7500,28611.11,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 73.02,25494,Yellow Colorant.,1000,3705.88,3,1,EvilRian,hellow
@@ -19,21 +19,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.36,30121,Vial of Accuracy Reset,2000,5774.19,4,4,Yennefer,GPS EVA LBP CLOUD HAIRVOUCH EXPS
 65.05,28126,Cleric Cap,10000,28611.11,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 64.83,22004,Shining Gem,1240,3526.07,9,49,hunterx,2gen 18st//knife app/gems/etc
+64.02,22003,Glowing Gem,1000,2779.18,7,18,011,bank cleaning
+64.02,22003,Glowing Gem,1000,2779.18,7,5,MenacingGrin,Cleaning Bank/Cheap Repu
 63.63,28410,Earth Sealed Staff of Incantation,2500,6874.5,3,1,lRivotriLl,purple
 63.35,28458,Ice Sealed Staff of the Sphinx,9999,27283.56,8,1,BjornIronside,@@@@@@
 63.11,25503,Magical Stone,290,786.17,7,2,Skills,Free     Free     Free     Free
 61.65,28326,Divine Grace Cap,39990,104282.71,6,1,Merchanty,Staff App|Salmon|Cleric Cap Spr
 61.64,28326,Divine Grace Cap,40000,104282.71,6,1,EIlIIliah,resarser
 61.64,28326,Divine Grace Cap,40000,104282.71,6,1,EIlIIliah,resarser
-61.01,22003,Glowing Gem,990,2538.93,8,38,xNoir,Cheap normal gems items
-60.61,22003,Glowing Gem,1000,2538.93,8,18,011,bank cleaning
-60.61,22003,Glowing Gem,1000,2538.93,8,5,MenacingGrin,Cleaning Bank/Cheap Repu
+60.02,22003,Glowing Gem,1111,2779.18,7,78,Look7,GEM
 59.24,22001,Furious Gem,999,2451.05,8,1,INeedADollar,cheap stuff
 59.2,22001,Furious Gem,1000,2451.05,8,13,011,bank cleaning
 59.2,22001,Furious Gem,1000,2451.05,8,1,EvilRian,hellow
 58.49,25493,Orange Colorant,1000,2408.86,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 57.46,22004,Shining Gem,1500,3526.07,9,3,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS
-56.24,22003,Glowing Gem,1111,2538.93,8,78,Look7,GEM
 55.74,28456,Ice Sealed Robe of the Sphinx,20000,45185.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
 55.48,25503,Magical Stone,350,786.17,7,99,GRAVITY,MAGICAL STONE
 55.48,25503,Magical Stone,350,786.17,7,99,GRAVITY,MAGICAL STONE
@@ -43,3 +42,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.08,22001,Furious Gem,1150,2451.05,8,39,hunterx,2gen 18st//knife app/gems/etc
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
 51.48,25390,Mermaid Heart,100,206.11,3,1,FARMBR,sell
+50.97,22006,Spirit Gem,2999,6117.04,9,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
