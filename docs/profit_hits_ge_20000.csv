@@ -1,9 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-10-04,28327,Great Aqua Cap,freeee,cheap,55000,1651666.67,1596666.67,1,1596666.67,96.67,3
-2025-10-04,28132,Voyager Cap,freeee,cheap,35000,359166.5,324166.5,1,324166.5,90.26,4
-2025-10-04,28132,Voyager Cap,stuart,EQUIPS,40000,359166.5,319166.5,1,319166.5,88.86,4
-2025-10-04,28132,Voyager Cap,stuart,EQUIPS,40000,359166.5,319166.5,1,319166.5,88.86,4
-2025-10-04,28132,Voyager Cap,stuart,EQUIPS,40000,359166.5,319166.5,1,319166.5,88.86,4
 2025-10-04,28458,Ice Sealed Staff of the Sphinx,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR,5000,25069.25,20069.25,1,20069.25,80.06,7
 2025-10-04,28263,Feral Hunter Vest,KIFFYFIED,cheep price for the best,45000,198333.33,153333.33,1,153333.33,77.31,3
 2025-10-04,22001,Furious Gem,011,bank cleaning,1000,3953.91,2953.91,13,38400.8,74.71,10
@@ -22,6 +18,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,25452,Rock Gem Fragment,JakubMarket,fsgs,85000,141461.86,56461.86,4,225847.45,39.91,11
 2025-10-04,25452,Rock Gem Fragment,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee,84999,141461.86,56462.86,2,112925.73,39.91,11
 2025-10-04,25507,Expert Stone,AAA123,123131231311,1000,1647.36,647.36,99,64088.15,39.3,5
+2025-10-04,28476,Ice Sealed Kris of the Sphinx,freestuffcomevis,cheap gear,40000,65821.6,25821.6,1,25821.6,39.23,4
 2025-10-04,28411,Staff of Incantation,CHEAPSTALL,AMI APPAREL SET/SEAL60 CLE ARMOR,135000,218333.33,83333.33,1,83333.33,38.17,3
 2025-10-04,25452,Rock Gem Fragment,zHeaven,VERY CHEAP FOR U,88999,141461.86,52462.86,1,52462.86,37.09,11
 2025-10-04,25452,Rock Gem Fragment,Paka01,RockGemFrag PPS JadeGemFrag Repu,89999,141461.86,51462.86,1,51462.86,36.38,11
@@ -56,9 +53,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,22004,Shining Gem,Dad,zzzzzz,3000,3619.95,619.95,71,44016.43,17.13,6
 2025-10-04,22006,Spirit Gem,Jazs,random items,5555,6692.36,1137.36,30,34120.87,16.99,7
 2025-10-04,25426,Universe Purse Fragment.,DEEEYYYYMMMMMM,universe purse fragment cheap,275000,330260.57,55260.57,1,55260.57,16.73,9
-2025-10-04,26592,Flash Bomb,Bankaquaq,Radiation/Brew/FB,1100,1317.89,217.89,200,43578.5,16.53,3
-2025-10-04,26592,Flash Bomb,Bankaquaq,Radiation/Brew/FB,1100,1317.89,217.89,200,43578.5,16.53,3
-2025-10-04,26592,Flash Bomb,Bankaquaq,Radiation/Brew/FB,1100,1317.89,217.89,200,43578.5,16.53,3
 2025-10-04,26559,Cooked Crab,sds,Cooked Codfish/Crab Cheapp,1500,1781.64,281.64,200,56328.83,15.81,5
 2025-10-04,26559,Cooked Crab,sds,Cooked Codfish/Crab Cheapp,1500,1781.64,281.64,131,36895.38,15.81,5
 2025-10-04,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2990,3538.54,548.54,74,40591.76,15.5,3
@@ -83,7 +77,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,25426,Universe Purse Fragment.,Agent0X,Shining Rune - Purse Fragment,289999,330260.57,40261.57,2,80523.13,12.19,9
 2025-10-04,25426,Universe Purse Fragment.,Mikosita,SELL JACKPOT/GPS/REF/KAL/PPS,290000,330260.57,40260.57,1,40260.57,12.19,9
 2025-10-04,26568,Skating Potion,buyme,FREE,39999,45296.76,5297.76,7,37084.3,11.7,5
-2025-10-04,26570,Bloodfire Potion,StepanBendera,BloodFir/FB/SouDet/Warrior/,1999,2263.5,264.5,130,34384.76,11.69,4
 2025-10-04,22001,Furious Gem,Look7,gem,3500,3953.91,453.91,78,35404.82,11.48,10
 2025-10-04,26590,Potion of Soul,stalleer,Potions  skatings purple crystal,2500,2820.42,320.42,69,22108.8,11.36,5
 2025-10-04,25428,Shining Runestone,Agent0X,Shining Rune - Purse Fragment,198000,222571.29,24571.29,1,24571.29,11.04,4
@@ -98,6 +91,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,25031,Refining Gem,dada4,Ref's / Elven Signet's,7999,8762.85,763.85,50,38192.6,8.72,9
 2025-10-04,25031,Refining Gem,antonina2,Ref's / Elven Signet's,7999,8762.85,763.85,48,36664.9,8.72,9
 2025-10-04,25031,Refining Gem,galina1,Ref's / Elven Signet's,7999,8762.85,763.85,41,31317.93,8.72,9
+2025-10-04,26570,Bloodfire Potion,StepanBendera,BloodFir/FB/SouDet/Warrior/,1999,2184.04,185.04,130,24055.39,8.47,3
 2025-10-04,27019,Purple Pirate Scroll,UmaMaquinaTUA,Sell PIRATE PURPLE,4000,4356.04,356.04,96,34179.45,8.17,14
 2025-10-04,22007,Gem of Striking,Laris,UG Colo / UG Striking /PurseFrag,1295000,1402999.67,107999.67,1,107999.67,7.7,6
 2025-10-04,27025,Radiation Lv1,Bodeguita,I BREW/G BREW/RADI/HP POTS,2800,3025.46,225.46,155,34946.02,7.45,7
