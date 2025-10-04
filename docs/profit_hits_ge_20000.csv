@@ -42,6 +42,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,26326,Elven Royal Signet,MatsBk,s>STRIKING/GPS/PPS/PBS/MORE,1300,1821.03,521.03,140,72944.04,28.61,9
 2025-10-04,26326,Elven Royal Signet,Sypher,voy cap  purple jade  rock gem,1300,1821.03,521.03,99,51581.86,28.61,9
 2025-10-04,26558,Cooked Salmon,Hinata,!!! Cheap Cooked Salmon !!!,450,625.01,175.01,170,29750.99,28.0,4
+2025-10-04,26592,Flash Bomb,Genjeon,cheapo,970,1289.6,319.6,122,38991.34,24.78,3
 2025-10-04,28447,Bow of Evanescence,xJavux,Bow 55 +4,1200000,1566666.33,366666.33,1,366666.33,23.4,3
 2025-10-04,26591,Potion of Lion,kory,GPS/PPS/REP/JACK/ALL POTION@CHEA,1999,2608.97,609.97,38,23178.84,23.38,13
 2025-10-04,26591,Potion of Lion,stalleer,Potions  skatings purple crystal,2000,2608.97,608.97,190,115704.21,23.34,13
@@ -62,9 +63,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,26590,Potion of Soul,MatsBk,s>STRIKING/GPS/PPS/PBS/MORE,2400,2820.42,420.42,52,21861.7,14.91,5
 2025-10-04,22000,FieryGem,Look7,gem,3000,3523.49,523.49,115,60201.86,14.86,6
 2025-10-04,22000,FieryGem,Dad,zzzzzz,3000,3523.49,523.49,62,32456.66,14.86,6
+2025-10-04,26592,Flash Bomb,Bankaquaq,Radiation/Brew/FB,1100,1289.6,189.6,200,37920.22,14.7,3
+2025-10-04,26592,Flash Bomb,Bankaquaq,Radiation/Brew/FB,1100,1289.6,189.6,200,37920.22,14.7,3
+2025-10-04,26592,Flash Bomb,Bankaquaq,Radiation/Brew/FB,1100,1289.6,189.6,190,36024.21,14.7,3
 2025-10-04,30156,Jackpot Coin,Lune,Cheap Items,8999,10548.8,1549.8,13,20147.42,14.69,9
 2025-10-04,30156,Jackpot Coin,xTrueHistory,jackpot/Imps/Island card,9000,10548.8,1548.8,13,20134.42,14.68,9
-2025-10-04,25422,Evanescence Power,MiSeRy,POISON EVA POWER SHining Rune,5000,5847.62,847.62,37,31361.9,14.5,4
+2025-10-04,25428,Shining Runestone,Agent0X,Shining Rune - Purse Fragment,198000,231599.8,33599.8,1,33599.8,14.51,3
 2025-10-04,25031,Refining Gem,Mikosita,SELL JACKPOT/GPS/REF/KAL/PPS,7499,8762.85,1263.85,190,240131.89,14.42,9
 2025-10-04,25525,,Kinyu,Chaos Jewel,800000,931816.64,131816.64,1,131816.64,14.15,5
 2025-10-04,22011,Gemof Sout,BuyOrGay,Cheap UG's,1100000,1279999.8,179999.8,1,179999.8,14.06,5
@@ -79,9 +83,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,26568,Skating Potion,buyme,FREE,39999,45296.76,5297.76,7,37084.3,11.7,5
 2025-10-04,22001,Furious Gem,Look7,gem,3500,3953.91,453.91,78,35404.82,11.48,10
 2025-10-04,26590,Potion of Soul,stalleer,Potions  skatings purple crystal,2500,2820.42,320.42,69,22108.8,11.36,5
-2025-10-04,25428,Shining Runestone,Agent0X,Shining Rune - Purse Fragment,198000,222571.29,24571.29,1,24571.29,11.04,4
 2025-10-04,27025,Radiation Lv1,SeaMaterials,Cheapest ITEM FOR PK!,2700,3025.46,325.46,101,32871.28,10.76,7
-2025-10-04,25428,Shining Runestone,MiSeRy,POISON EVA POWER SHining Rune,200000,222571.29,22571.29,2,45142.57,10.14,4
 2025-10-04,25426,Universe Purse Fragment.,JakubMarket,fsgs,297000,330260.57,33260.57,3,99781.7,10.07,9
 2025-10-04,22016,Demonic Gem of Sout,ShowerBro,AFK,1600000,1766666.5,166666.5,1,166666.5,9.43,5
 2025-10-04,25426,Universe Purse Fragment.,BENTAHE,IRON GUARDIAN JADE ROCK UNIVERSE,300000,330260.57,30260.57,2,60521.13,9.16,9
@@ -94,6 +96,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,26570,Bloodfire Potion,StepanBendera,BloodFir/FB/SouDet/Warrior/,1999,2184.04,185.04,130,24055.39,8.47,3
 2025-10-04,27019,Purple Pirate Scroll,UmaMaquinaTUA,Sell PIRATE PURPLE,4000,4356.04,356.04,96,34179.45,8.17,14
 2025-10-04,22007,Gem of Striking,Laris,UG Colo / UG Striking /PurseFrag,1295000,1402999.67,107999.67,1,107999.67,7.7,6
+2025-10-04,22031,Aegis Rock,FreePalestine1,sell imps,1350000,1460000.0,110000.0,1,110000.0,7.53,3
 2025-10-04,27025,Radiation Lv1,Bodeguita,I BREW/G BREW/RADI/HP POTS,2800,3025.46,225.46,155,34946.02,7.45,7
 2025-10-04,22007,Gem of Striking,AimMeMore,Unseal Ss CLaw/UG Striking,1299999,1402999.67,103000.67,5,515003.33,7.34,6
 2025-10-04,27015,Prestige Wine,Esmeralda,Prestige wines!! Best quality.,1800,1926.56,126.56,189,23920.63,6.57,4
@@ -101,8 +104,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,22010,Gem of Rage,Systembuff,Dem Colo/Rage/Ug,1800000,1922222.11,122222.11,1,122222.11,6.36,6
 2025-10-04,22011,Gemof Sout,BL4CKM4RK3T,buy me plz  im broke,1199999,1279999.8,80000.8,1,80000.8,6.25,5
 2025-10-04,22011,Gemof Sout,JakubMarket,fsgs,1200000,1279999.8,79999.8,1,79999.8,6.25,5
-2025-10-04,22031,Aegis Rock,FreePalestine1,sell imps,1380000,1470000.0,90000.0,1,90000.0,6.12,3
 2025-10-04,22009,Gem of Colossus,Laris,UG Colo / UG Striking /PurseFrag,1850000,1964285.57,114285.57,1,114285.57,5.82,6
+2025-10-04,25428,Shining Runestone,CallMeBaby,cheap,220000,231599.8,11599.8,2,23199.6,5.01,3
 2025-10-04,22013,Demonic Gem of Striking,Dinamy,DEMONIC STRIKING UG STRIKING,1800000,1892857.0,92857.0,4,371428.0,4.91,4
 2025-10-04,30102,1000 Reputation Scroll,Saller,ty,8888,9317.53,429.53,99,42523.26,4.61,7
 2025-10-04,22015,Demonic Gem of Rage,GemSeller,DE Rage,2450000,2565277.5,115277.5,1,115277.5,4.49,3
@@ -115,7 +118,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,22009,Gem of Colossus,jajaaaaja,GEMS,1900000,1964285.57,64285.57,1,64285.57,3.27,6
 2025-10-04,26585,Blessed Potion,Puki,POTS FOR U ME WE US EVERYONE,117000,120764.49,3764.49,48,180695.65,3.12,4
 2025-10-04,25426,Universe Purse Fragment.,Electricman1,DemSoul/Univ. JadeFrag/PPS/RefG.,319999,330260.57,10261.57,2,20523.13,3.11,9
-2025-10-04,22031,Aegis Rock,Donaldy*,CHEAP AEGIS ROCK / DEMONIC FRAGS,1430000,1470000.0,40000.0,1,40000.0,2.72,3
 2025-10-04,26585,Blessed Potion,Duna,cheapest bless,117500,120764.49,3264.49,9,29380.43,2.7,4
 2025-10-04,26572,Inferno Potion,BPCRAFT,INFERNO/WARLORD/GUARDIAN,8500,8723.03,223.03,170,37914.36,2.56,8
 2025-10-04,26572,Inferno Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,8500,8723.03,223.03,151,33676.87,2.56,8
@@ -124,6 +126,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,26585,Blessed Potion,BlessIfMan,BLESS IF MAN,118000,120764.49,2764.49,24,66347.83,2.29,4
 2025-10-04,26585,Blessed Potion,BlessIfManCA,BLESS IF MAN,118000,120764.49,2764.49,14,38702.9,2.29,4
 2025-10-04,22013,Demonic Gem of Striking,Arsenal,GEMS!!! DONT BUY I WILL USE THEM,1850000,1892857.0,42857.0,1,42857.0,2.26,4
+2025-10-04,22031,Aegis Rock,Donaldy*,CHEAP AEGIS ROCK / DEMONIC FRAGS,1430000,1460000.0,30000.0,1,30000.0,2.05,3
 2025-10-04,26578,Aegis Brew,Lag,Aegis Brew,48000,48983.67,983.67,24,23608.16,2.01,3
 2025-10-04,22030,Earth Rock,Seller1,EARTH ROCK CHEAP!,2500000,2550000.0,50000.0,1,50000.0,1.96,3
 2025-10-04,26576,Iron Brew,Bankaquaq,Radiation/Brew/FB,8340,8467.69,127.69,167,21323.67,1.51,7
