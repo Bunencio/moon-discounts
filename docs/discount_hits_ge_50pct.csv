@@ -1,11 +1,11 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.97,28327,Great Aqua Cap,50000,1650000.0,3,1,freeee,cheap
 92.97,28134,Commanders Cap,60000,853333.33,3,1,bankoe,Cheap CapsClean For Defence Take
-85.82,22004,Shining Gem,500,3527.08,10,3,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 85.46,25493,Orange Colorant,350,2407.59,3,2,cheapstuffsell,cheap
-81.97,22003,Glowing Gem,500,2773.63,7,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
-81.97,22003,Glowing Gem,500,2773.63,7,2,INeedADollar,cheap stuff
+84.55,22004,Shining Gem,500,3236.14,10,3,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 80.06,28458,Ice Sealed Staff of the Sphinx,4999,25069.12,7,1,xCrossex,LEAF  BUY PLS
+80.04,22003,Glowing Gem,500,2505.28,7,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
+80.04,22003,Glowing Gem,500,2505.28,7,2,INeedADollar,cheap stuff
 77.31,28263,Feral Hunter Vest,45000,198333.33,3,1,KIFFYFIED,cheep price for the best
 73.81,25497,Blue Colorant,1000,3818.16,4,1,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 73.79,28126,Cleric Cap,7500,28611.11,5,1,Meguminn,EXPLOOOOSIOOONN!!E
@@ -14,35 +14,41 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.09,28400,Earth Sealed Platemail of the Cursed Soul,3000,10749.75,3,1,HyjoSeller,DEU A LOUCA NO GERENTE
 72.09,28406,Earth Sealed Staff of Abraxas.,1500,5374.75,3,1,TOPBunshie,TATOO / ALMOST FREE
 70.06,28430,Fire Sealed Robe of Malediction,5000,16700.0,3,1,Nixm,Lv50 ALL CLASSES CHEAP AF!!!!!!!
-65.98,22004,Shining Gem,1200,3527.08,10,1,cheapstuffsell,cheap
+67.87,25440,Evanescence Stone,199,619.38,7,8,BL4CKM4RK3T,UG gems and cheap stuff
+67.71,25440,Evanescence Stone,200,619.38,7,90,hunterx,2gen 18st//knife app/gems/etc
 65.36,30121,Vial of Accuracy Reset,2000,5774.19,4,4,Yennefer,GPS EVA LBP CLOUD HAIRVOUCH EXPS
 65.05,28126,Cleric Cap,10000,28611.11,5,1,Meguminn,EXPLOOOOSIOOONN!!E
-64.84,22004,Shining Gem,1240,3527.08,10,49,hunterx,2gen 18st//knife app/gems/etc
 64.43,25503,Magical Stone,250,702.75,10,99,Cush,Mystic Leaf
 64.43,25503,Magical Stone,250,702.75,10,99,Cush,Mystic Leaf
-63.95,22003,Glowing Gem,1000,2773.63,7,18,011,bank cleaning
-63.95,22003,Glowing Gem,1000,2773.63,7,5,MenacingGrin,Cleaning Bank/Cheap Repu
+63.92,22001,Furious Gem,999,2768.47,9,1,INeedADollar,cheap stuff
+63.92,22001,Furious Gem,999,2768.47,9,3,cheapstuffsell,cheap
+63.88,22001,Furious Gem,1000,2768.47,9,13,011,bank cleaning
+63.88,22001,Furious Gem,1000,2768.47,9,1,EvilRian,hellow
+62.92,22004,Shining Gem,1200,3236.14,10,1,cheapstuffsell,cheap
+61.68,22004,Shining Gem,1240,3236.14,10,49,hunterx,2gen 18st//knife app/gems/etc
 61.65,28326,Divine Grace Cap,39990,104282.71,6,1,Merchanty,Staff App|Salmon|Cleric Cap Spr
 61.64,28326,Divine Grace Cap,40000,104282.71,6,1,EIlIIliah,resarser
 61.64,28326,Divine Grace Cap,40000,104282.71,6,1,EIlIIliah,resarser
 60.11,28458,Ice Sealed Staff of the Sphinx,10000,25069.12,7,1,freestuffcomevis,cheap gear
 60.11,28458,Ice Sealed Staff of the Sphinx,9999,25069.12,7,1,BjornIronside,@@@@@@
-59.94,22003,Glowing Gem,1111,2773.63,7,78,Look7,GEM
+60.08,22003,Glowing Gem,1000,2505.28,7,18,011,bank cleaning
+60.08,22003,Glowing Gem,1000,2505.28,7,5,MenacingGrin,Cleaning Bank/Cheap Repu
 59.9,28421,Bow of Incantation,90000,224444.33,3,1,M0Nster,Items
+59.64,25440,Evanescence Stone,250,619.38,7,20,HyjoSeller,DEU A LOUCA NO GERENTE
+58.76,22006,Spirit Gem,2999,7272.62,9,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 58.73,25503,Magical Stone,290,702.75,10,2,Skills,Free     Free     Free     Free
+58.46,22001,Furious Gem,1150,2768.47,9,39,hunterx,2gen 18st//knife app/gems/etc
 58.46,25493,Orange Colorant,1000,2407.59,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 57.94,25390,Mermaid Heart,100,237.76,4,1,FARMBR,sell
-57.83,22001,Furious Gem,999,2368.77,8,1,INeedADollar,cheap stuff
-57.83,22001,Furious Gem,999,2368.77,8,3,cheapstuffsell,cheap
-57.78,22001,Furious Gem,1000,2368.77,8,13,011,bank cleaning
-57.78,22001,Furious Gem,1000,2368.77,8,1,EvilRian,hellow
-57.47,22004,Shining Gem,1500,3527.08,10,3,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS
 57.31,25503,Magical Stone,300,702.75,10,68,KIFFYFIED,cheep price for the best
 56.14,28432,Fire Sealed Staff of Mirage,5000,11399.8,4,1,HyjoSeller,DEU A LOUCA NO GERENTE
 55.74,28456,Ice Sealed Robe of the Sphinx,20000,45185.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
+55.65,22003,Glowing Gem,1111,2505.28,7,124,Look7,gem
+54.17,22006,Spirit Gem,3333,7272.62,9,5,INeedADollar,cheap stuff
+53.65,22004,Shining Gem,1500,3236.14,10,3,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS
+53.04,22001,Furious Gem,1300,2768.47,9,1,TOPBunshie,TATOO / ALMOST FREE
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
-51.54,22006,Spirit Gem,2999,6188.64,9,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
-51.45,22001,Furious Gem,1150,2368.77,8,39,hunterx,2gen 18st//knife app/gems/etc
+52.51,25439,Incantation Stone,500,1052.76,5,4,vendedolmax,2000
 50.2,25503,Magical Stone,350,702.75,10,99,GRAVITY,MAGICAL STONE
 50.2,25503,Magical Stone,350,702.75,10,99,GRAVITY,MAGICAL STONE
 50.2,25503,Magical Stone,350,702.75,10,3,GRAVITY,MAGICAL STONE
