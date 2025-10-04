@@ -8,7 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.04,22003,Glowing Gem,500,2505.28,7,2,INeedADollar,cheap stuff
 77.31,28263,Feral Hunter Vest,45000,198333.33,3,1,KIFFYFIED,cheep price for the best
 73.81,25497,Blue Colorant,1000,3818.16,4,1,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
-73.79,28126,Cleric Cap,7500,28611.11,5,1,Meguminn,EXPLOOOOSIOOONN!!E
+73.03,28126,Cleric Cap,7500,27812.5,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 73.02,25494,Yellow Colorant.,1000,3705.88,3,1,EvilRian,hellow
 73.02,25494,Yellow Colorant.,1000,3705.88,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
 72.09,28400,Earth Sealed Platemail of the Cursed Soul,3000,10749.75,3,1,HyjoSeller,DEU A LOUCA NO GERENTE
@@ -17,9 +17,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.87,25440,Evanescence Stone,199,619.38,7,8,BL4CKM4RK3T,UG gems and cheap stuff
 67.71,25440,Evanescence Stone,200,619.38,7,90,hunterx,2gen 18st//knife app/gems/etc
 65.36,30121,Vial of Accuracy Reset,2000,5774.19,4,4,Yennefer,GPS EVA LBP CLOUD HAIRVOUCH EXPS
-65.05,28126,Cleric Cap,10000,28611.11,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 64.43,25503,Magical Stone,250,702.75,10,99,Cush,Mystic Leaf
 64.43,25503,Magical Stone,250,702.75,10,99,Cush,Mystic Leaf
+64.04,28126,Cleric Cap,10000,27812.5,5,1,Meguminn,EXPLOOOOSIOOONN!!E
 63.92,22001,Furious Gem,999,2768.47,9,1,INeedADollar,cheap stuff
 63.92,22001,Furious Gem,999,2768.47,9,3,cheapstuffsell,cheap
 63.88,22001,Furious Gem,1000,2768.47,9,13,011,bank cleaning
@@ -34,14 +34,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.08,22003,Glowing Gem,1000,2505.28,7,18,011,bank cleaning
 60.08,22003,Glowing Gem,1000,2505.28,7,5,MenacingGrin,Cleaning Bank/Cheap Repu
 59.9,28421,Bow of Incantation,90000,224444.33,3,1,M0Nster,Items
+59.68,28432,Fire Sealed Staff of Mirage,5000,12399.8,4,1,HyjoSeller,DEU A LOUCA NO GERENTE
 59.64,25440,Evanescence Stone,250,619.38,7,20,HyjoSeller,DEU A LOUCA NO GERENTE
 58.76,22006,Spirit Gem,2999,7272.62,9,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 58.73,25503,Magical Stone,290,702.75,10,2,Skills,Free     Free     Free     Free
 58.46,22001,Furious Gem,1150,2768.47,9,39,hunterx,2gen 18st//knife app/gems/etc
 58.46,25493,Orange Colorant,1000,2407.59,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
-57.94,25390,Mermaid Heart,100,237.76,4,1,FARMBR,sell
 57.31,25503,Magical Stone,300,702.75,10,68,KIFFYFIED,cheep price for the best
-56.14,28432,Fire Sealed Staff of Mirage,5000,11399.8,4,1,HyjoSeller,DEU A LOUCA NO GERENTE
 55.74,28456,Ice Sealed Robe of the Sphinx,20000,45185.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
 55.65,22003,Glowing Gem,1111,2505.28,7,124,Look7,gem
 54.17,22006,Spirit Gem,3333,7272.62,9,5,INeedADollar,cheap stuff
@@ -49,6 +48,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.04,22001,Furious Gem,1300,2768.47,9,1,TOPBunshie,TATOO / ALMOST FREE
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
 52.51,25439,Incantation Stone,500,1052.76,5,4,vendedolmax,2000
+52.05,28410,Earth Sealed Staff of Incantation,3500,7299.6,4,1,lRivotriLl,purple
 50.2,25503,Magical Stone,350,702.75,10,99,GRAVITY,MAGICAL STONE
 50.2,25503,Magical Stone,350,702.75,10,99,GRAVITY,MAGICAL STONE
 50.2,25503,Magical Stone,350,702.75,10,3,GRAVITY,MAGICAL STONE
