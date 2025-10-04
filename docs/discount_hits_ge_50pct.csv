@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.97,28327,Great Aqua Cap,50000,1650000.0,3,1,freeee,cheap
-85.93,22004,Shining Gem,500,3552.45,9,3,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
+85.92,22004,Shining Gem,500,3550.64,9,3,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 85.46,25493,Orange Colorant,350,2407.59,3,2,cheapstuffsell,cheap
 80.29,22003,Glowing Gem,500,2537.25,7,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 80.29,22003,Glowing Gem,500,2537.25,7,2,INeedADollar,cheap stuff
@@ -18,7 +18,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.09,28126,Cleric Cap,7500,23500.0,4,1,Meguminn,EXPLOOOOSIOOONN!!E
 67.16,22001,Furious Gem,1300,3958.48,10,1,TOPBunshie,TATOO / ALMOST FREE
 66.67,28035,Solar Shield,9999,29999.33,3,1,TTKillGirlTT,Universe/ Shield / Equips 50-60
-66.22,22004,Shining Gem,1200,3552.45,9,1,cheapstuffsell,cheap
+66.2,22004,Shining Gem,1200,3550.64,9,1,cheapstuffsell,cheap
 65.36,30121,Vial of Accuracy Reset,2000,5774.19,4,4,Yennefer,GPS EVA LBP CLOUD HAIRVOUCH EXPS
 64.63,22001,Furious Gem,1400,3958.48,10,1,Anuel,last Armor of Enigma xD
 62.11,22001,Furious Gem,1500,3958.48,10,5,GrimDarkness,Cleaning /Potion/Gems/FB/SM/PET
@@ -34,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.9,28421,Bow of Incantation,90000,224444.33,3,1,M0Nster,Items
 58.53,22006,Spirit Gem,2999,7231.53,10,1,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee
 58.46,25493,Orange Colorant,1000,2407.59,3,2,Traffy,aaaaaaaaaaaaaaaaaaaaaaaaaaaa
-57.78,22004,Shining Gem,1500,3552.45,9,3,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS
+57.75,22004,Shining Gem,1500,3550.64,9,3,SSTTAALL,FB/POTS/NORMALGEM/SBOOTS
 57.45,28126,Cleric Cap,10000,23500.0,4,1,Meguminn,EXPLOOOOSIOOONN!!E
 56.21,22003,Glowing Gem,1111,2537.25,7,123,Look7,gem
 55.74,28456,Ice Sealed Robe of the Sphinx,20000,45185.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
