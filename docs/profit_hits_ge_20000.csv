@@ -22,9 +22,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,25503,Magical Stone,GRAVITY,MAGICAL STONE,350,696.28,346.28,99,34281.25,49.73,8
 2025-10-04,22006,Spirit Gem,xNoir,Cheap normal gems items,2999,5308.55,2309.55,35,80834.3,43.51,8
 2025-10-04,26589,Potion of Bull,BL4CKM4RK3T,UG gems and cheap stuff,1399,2135.61,736.61,59,43459.85,34.49,13
-2025-10-04,30102,1000 Reputation Scroll,Shopshop,demo strik - coins - rep - frags,5999,9116.93,3117.93,11,34297.22,34.2,10
-2025-10-04,30102,1000 Reputation Scroll,MatsBk,S>striking/pps/pbs/dust/rep/MORE,6000,9116.93,3116.93,38,118443.31,34.19,10
-2025-10-04,30102,1000 Reputation Scroll,Hisoka66,ezzzzzz,6000,9116.93,3116.93,7,21818.5,34.19,10
+2025-10-04,30102,1000 Reputation Scroll,Shopshop,demo strik - coins - rep - frags,5999,9122.6,3123.6,10,31235.98,34.24,10
+2025-10-04,30102,1000 Reputation Scroll,MatsBk,S>striking/pps/pbs/dust/rep/MORE,6000,9122.6,3122.6,38,118658.73,34.23,10
+2025-10-04,30102,1000 Reputation Scroll,Hisoka66,ezzzzzz,6000,9122.6,3122.6,7,21858.19,34.23,10
 2025-10-04,26326,Elven Royal Signet,BL4CKM4RK3T,UG gems and cheap stuff,1199,1774.89,575.89,100,57589.19,32.45,8
 2025-10-04,26326,Elven Royal Signet,EIlIIliah,resarser,1200,1774.89,574.89,122,70136.81,32.39,8
 2025-10-04,26326,Elven Royal Signet,LotokSell,WoW VERY CHEAP low price,1200,1774.89,574.89,88,50590.49,32.39,8
@@ -32,7 +32,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,22000,FieryGem,Dad,zzzzzz,3000,4395.02,1395.02,62,86491.11,31.74,6
 2025-10-04,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1222,1774.89,552.89,185,102285.0,31.15,8
 2025-10-04,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1222,1774.89,552.89,164,90674.27,31.15,8
-2025-10-04,30102,1000 Reputation Scroll,iinerti,Jackpot/Repu1k/PPS/PBS/MVM/SPots,6500,9116.93,2616.93,9,23552.36,28.7,10
+2025-10-04,30102,1000 Reputation Scroll,iinerti,Jackpot/Repu1k/PPS/PBS/MVM/SPots,6500,9122.6,2622.6,9,23603.38,28.75,10
 2025-10-04,25452,Rock Gem Fragment,Mikosita,SELL IMPS/GPS/JACKPOT/REF/PPS,85000,118333.04,33333.04,6,199998.26,28.17,11
 2025-10-04,25452,Rock Gem Fragment,JakubMarket,fsgs,85000,118333.04,33333.04,4,133332.17,28.17,11
 2025-10-04,25451,Jade Gem Fragment,JKK27,JADE FRAG/JACK/GROWTH,69999,96899.76,26900.76,4,107603.06,27.76,5
@@ -41,8 +41,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,22012,Demonic Gem of Wind,Holita,ALL GEMS U NEED!! UG ABD SS EQUI,1000000,1325000.0,325000.0,1,325000.0,24.53,3
 2025-10-04,25452,Rock Gem Fragment,xTrueHistory,GPS/Jackpot/Rockgemfrag/islanCar,90000,118333.04,28333.04,2,56666.09,23.94,11
 2025-10-04,25452,Rock Gem Fragment,Paka01,RockGemFrag PPS JadeGemFrag Repu,89999,118333.04,28334.04,1,28334.04,23.94,11
+2025-10-04,30171,Ticket to Demonic World,WindSlash,cheap dw tickets,369,483.14,114.14,198,22599.98,23.62,6
 2025-10-04,28326,Divine Grace Cap,EIlIIliah,resarser,80000,104282.71,24282.71,1,24282.71,23.29,6
-2025-10-04,30171,Ticket to Demonic World,WindSlash,cheap dw tickets,369,477.23,108.23,198,21429.4,22.68,6
 2025-10-04,26558,Cooked Salmon,Hinata,Cooked Salmon Hp Pot !!!!!!!!!!,499,644.95,145.95,170,24811.62,22.63,5
 2025-10-04,25451,Jade Gem Fragment,JunoJuno,cheap,75000,96899.76,21899.76,2,43799.53,22.6,5
 2025-10-04,25451,Jade Gem Fragment,xBinibirocha,Rock / Jade / Sealed 60s RUSH AL,75000,96899.76,21899.76,1,21899.76,22.6,5
@@ -57,9 +57,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,25452,Rock Gem Fragment,xBinibirocha,Rock / Jade / Sealed 60s RUSH AL,95000,118333.04,23333.04,1,23333.04,19.72,11
 2025-10-04,25508,Demonic Gem Fragment,Donaldy*,CHEAP AEGIS ROCK / DEMONIC FRAGS,90000,110216.0,20216.0,1,20216.0,18.34,6
 2025-10-04,28134,Commanders Cap,1239412,cleric/voy hats with stats,700000,853333.33,153333.33,1,153333.33,17.97,3
-2025-10-04,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,717.24,118.24,200,23648.11,16.49,8
-2025-10-04,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,717.24,118.24,200,23648.11,16.49,8
-2025-10-04,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,717.24,118.24,198,23411.63,16.49,8
+2025-10-04,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,717.34,118.34,200,23667.0,16.5,8
+2025-10-04,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,717.34,118.34,200,23667.0,16.5,8
+2025-10-04,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,717.34,118.34,198,23430.33,16.5,8
 2025-10-04,30156,Jackpot Coin,Mikosita,SELL IMPS/GPS/JACKPOT/REF/PPS,8999,10726.62,1727.62,47,81198.0,16.11,6
 2025-10-04,30156,Jackpot Coin,xNoir,Cheap normal gems items,9000,10726.62,1726.62,13,22446.02,16.1,6
 2025-10-04,22004,Shining Gem,Dad,zzzzzz,3000,3564.98,564.98,71,40113.8,15.85,8
@@ -72,7 +72,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,25452,Rock Gem Fragment,Shopshop,demo strik - coins - rep - frags,99999,118333.04,18334.04,3,55002.13,15.49,11
 2025-10-04,25452,Rock Gem Fragment,DoaaPepa,D O N   P E P E,100000,118333.04,18333.04,2,36666.09,15.49,11
 2025-10-04,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2999,3534.18,535.18,74,39603.38,15.14,3
-2025-10-04,26590,Potion of Soul,MatsBk,S>striking/pps/pbs/dust/rep/MORE,2400,2813.06,413.06,49,20239.8,14.68,6
 2025-10-04,26560,Cooked Bluefin Tuna,Pots,Tuna/Crab,2800,3268.17,468.17,170,79588.11,14.33,3
 2025-10-04,26560,Cooked Bluefin Tuna,Pots,Tuna/Crab,2800,3268.17,468.17,150,70224.8,14.33,3
 2025-10-04,26560,Cooked Bluefin Tuna,Pots,Tuna/Crab,2800,3268.17,468.17,53,24812.76,14.33,3
@@ -89,10 +88,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,22023,Green Jade,dsadsa,green jade,280000,317499.25,37499.25,1,37499.25,11.81,3
 2025-10-04,25426,Universe Purse Fragment.,JakubMarket,fsgs,297000,335124.81,38124.81,3,114374.44,11.38,8
 2025-10-04,26570,Bloodfire Potion,StepanBendera,BloodFir/FB/SouDet/Warrior/,1999,2253.46,254.46,130,33080.36,11.29,4
-2025-10-04,26590,Potion of Soul,stalleer,Potions  skatings purple crystal,2500,2813.06,313.06,69,21600.94,11.13,6
 2025-10-04,25426,Universe Purse Fragment.,Laris,UG Colo / UG Striking /  PurseFr,298000,335124.81,37124.81,2,74249.62,11.08,8
 2025-10-04,26589,Potion of Bull,BoogeyMan,GBS/GYOZA/POTS/many more,1899,2135.61,236.61,128,30285.78,11.08,13
 2025-10-04,26589,Potion of Bull,LotokSell,WoW VERY CHEAP low price,1900,2135.61,235.61,85,20026.65,11.03,13
+2025-10-04,26590,Potion of Soul,stalleer,Potions  skatings purple crystal,2500,2798.75,298.75,69,20613.46,10.67,6
 2025-10-04,25426,Universe Purse Fragment.,TTKillGirlTT,Universe/ Shield / Equips 50-60,299999,335124.81,35125.81,1,35125.81,10.48,8
 2025-10-04,25426,Universe Purse Fragment.,Vendedor,Promotion,300000,335124.81,35124.81,1,35124.81,10.48,8
 2025-10-04,25525,,JakubMarket,fsgs,400000,446665.0,46665.0,1,46665.0,10.45,4
@@ -103,6 +102,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,22010,Gem of Rage,Revolver,gem of rage cheapest!!,1950000,2151250.0,201250.0,1,201250.0,9.36,5
 2025-10-04,25508,Demonic Gem Fragment,Mikosita,SELL IMPS/GPS/JACKPOT/REF/PPS,100000,110216.0,10216.0,8,81728.0,9.27,6
 2025-10-04,22023,Green Jade,Guardian,+5 CON HAT VOY / STUFF,289999,317499.25,27500.25,1,27500.25,8.66,3
+2025-10-04,27019,Purple Pirate Scroll,Smuggler,PPS and +5 Spr GLOVES VOY,4000,4369.15,369.15,99,36545.82,8.45,15
+2025-10-04,27019,Purple Pirate Scroll,Smuggler,PPS and +5 Spr GLOVES VOY,4000,4369.15,369.15,99,36545.82,8.45,15
+2025-10-04,27019,Purple Pirate Scroll,Smuggler,PPS and +5 Spr GLOVES VOY,4000,4369.15,369.15,99,36545.82,8.45,15
 2025-10-04,26560,Cooked Bluefin Tuna,Signet,Aegis/Cupid/Attkpot/Tuna/Crab,3000,3268.17,268.17,101,27084.7,8.21,3
 2025-10-04,22010,Gem of Rage,FukPolice,gps/rages/pps/jack/mvm/bp/gem,1980000,2151250.0,171250.0,2,342500.0,7.96,5
 2025-10-04,22013,Demonic Gem of Striking,Holita,ALL GEMS U NEED!! UG ABD SS EQUI,1700000,1840909.0,140909.0,1,140909.0,7.65,6
@@ -110,7 +112,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,25031,Refining Gem,dada4,Ref's / Elven Signet's,7999,8574.62,575.62,50,28781.2,6.71,9
 2025-10-04,25031,Refining Gem,antonina2,Ref's / Elven Signet's,7999,8574.62,575.62,50,28781.2,6.71,9
 2025-10-04,25031,Refining Gem,galina1,Ref's / Elven Signet's,7999,8574.62,575.62,45,25903.08,6.71,9
-2025-10-04,27019,Purple Pirate Scroll,Lira,PPS / MVM COINS,4199,4488.37,289.37,71,20545.39,6.45,14
 2025-10-04,30191,1000 Supporter Points Voucher,MrFarm,CHEPEST STALL IN TOWN CHECKIT,45000,47837.8,2837.8,49,139052.1,5.93,3
 2025-10-04,22011,Gemof Sout,JakubMarket,fsgs,1200000,1271999.75,71999.75,1,71999.75,5.66,4
 2025-10-04,22007,Gem of Striking,MatsBk,S>striking/pps/pbs/dust/rep/MORE,1400000,1478750.0,78750.0,1,78750.0,5.33,4
@@ -120,23 +121,23 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,25426,Universe Purse Fragment.,BENTAHE,UNIVERSE ROCK JADE IRON GUARDIAN,320000,335124.81,15124.81,2,30249.62,4.51,8
 2025-10-04,26578,Aegis Brew,Lag,Aegis Brew,48000,50249.23,2249.23,26,58480.0,4.48,4
 2025-10-04,27017,Sorcerer's Wine,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,11900,12449.97,549.97,186,102294.06,4.42,6
-2025-10-04,26585,Blessed Potion,BlessIfMan,BLESS IF MAN,118000,122947.08,4947.08,19,93994.54,4.02,5
-2025-10-04,26585,Blessed Potion,BlessIfManCA,BLESS IF MAN,118000,122947.08,4947.08,17,84100.38,4.02,5
+2025-10-04,26585,Blessed Potion,BlessIfManCA,BLESS IF MAN,118000,123113.37,5113.37,17,86927.29,4.15,5
+2025-10-04,26585,Blessed Potion,BlessIfMan,BLESS IF MAN,118000,123113.37,5113.37,15,76700.55,4.15,5
+2025-10-04,26572,Inferno Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,8500,8838.79,338.79,151,51157.4,3.83,11
+2025-10-04,26572,Inferno Potion,KFCC,KFC STORE BEST POTS,8500,8838.79,338.79,100,33879.07,3.83,11
 2025-10-04,27020,Gold Pirate Scroll,ghost26,scroll,17998,18713.77,715.77,38,27199.28,3.82,9
-2025-10-04,26572,Inferno Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,8500,8835.79,335.79,161,54061.74,3.8,11
-2025-10-04,26572,Inferno Potion,KFCC,KFC STORE BEST POTS,8500,8835.79,335.79,100,33578.72,3.8,11
 2025-10-04,26568,Skating Potion,Tralalera,GYOZAS! SKATINGS! IMPS!,44999,46773.61,1774.61,18,31943.03,3.79,4
-2025-10-04,26585,Blessed Potion,Puki,POTS FOR U,118500,122947.08,4447.08,49,217906.98,3.62,5
+2025-10-04,26585,Blessed Potion,Puki,POTS FOR U,118500,123113.37,4613.37,49,226055.12,3.75,5
 2025-10-04,27017,Sorcerer's Wine,Puki,POTS FOR U,11999,12449.97,450.97,75,33822.61,3.62,6
 2025-10-04,27017,Sorcerer's Wine,Timotron,Cheapest Sorcerer   Inferno EVER,12000,12449.97,449.97,200,89993.61,3.61,6
 2025-10-04,27017,Sorcerer's Wine,Mamii,FREE POTS FREE POTS FREE POTS,12000,12449.97,449.97,90,40497.13,3.61,6
 2025-10-04,22031,Aegis Rock,Donaldy*,CHEAP AEGIS ROCK / DEMONIC FRAGS,1430000,1481111.0,51111.0,1,51111.0,3.45,4
-2025-10-04,26572,Inferno Potion,Mamii,FREE POTS FREE POTS FREE POTS,8600,8835.79,235.79,99,23342.94,2.67,11
+2025-10-04,26572,Inferno Potion,Mamii,FREE POTS FREE POTS FREE POTS,8600,8838.79,238.79,99,23640.28,2.7,11
 2025-10-04,26573,Demonic Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,16900,17359.32,459.32,54,24803.39,2.65,5
-2025-10-04,30102,1000 Reputation Scroll,Saller,ty,8888,9116.93,228.93,99,22663.99,2.51,10
+2025-10-04,30102,1000 Reputation Scroll,Saller,ty,8888,9122.6,234.6,99,23225.22,2.57,10
 2025-10-04,22031,Aegis Rock,Thaxx,CHEAPEST AEGIS ROCK,1444444,1481111.0,36667.0,1,36667.0,2.48,4
+2025-10-04,26576,Iron Brew,Cincar,Cincar Pots,8199,8399.84,200.84,190,38158.79,2.39,6
 2025-10-04,22010,Gem of Rage,Arsenal,Demo strike/ demo colo / ug rage,2100000,2151250.0,51250.0,1,51250.0,2.38,5
-2025-10-04,26576,Iron Brew,Cincar,Cincar Pots,8199,8397.63,198.63,200,39726.23,2.37,6
 2025-10-04,22013,Demonic Gem of Striking,Arsenal,Demo strike/ demo colo / ug rage,1800000,1840909.0,40909.0,1,40909.0,2.22,6
 2025-10-04,22031,Aegis Rock,FreePalestine1,sell 0_0,1450000,1481111.0,31111.0,1,31111.0,2.1,4
 2025-10-04,22007,Gem of Striking,MapBK,S>crab/striking,1450000,1478750.0,28750.0,1,28750.0,1.94,4
