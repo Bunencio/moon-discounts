@@ -1,4 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
+2025-10-04,27019,Purple Pirate Scroll,KIFFYFIED,cheep price for the best,73,4193.76,4120.76,73,300815.14,98.26,15
 2025-10-04,28327,Great Aqua Cap,freeee,cheap,55000,1651666.67,1596666.67,1,1596666.67,96.67,3
 2025-10-04,28134,Commanders Cap,bankoe,Cheap CapsClean For Defence Take,60000,853333.33,793333.33,1,793333.33,92.97,3
 2025-10-04,28458,Ice Sealed Staff of the Sphinx,xCrossex,LEAF  BUY PLS,4999,27283.56,22284.56,1,22284.56,81.68,8
@@ -11,12 +12,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,28326,Divine Grace Cap,EIlIIliah,resarser,40000,104282.71,64282.71,1,64282.71,61.64,6
 2025-10-04,28326,Divine Grace Cap,EIlIIliah,resarser,40000,104282.71,64282.71,1,64282.71,61.64,6
 2025-10-04,22003,Glowing Gem,Look7,GEM,1111,2779.18,1668.18,78,130117.69,60.02,7
+2025-10-04,25503,Magical Stone,Cush,Spr ring lvl60|Mystic Leaf,299,708.69,409.69,99,40559.73,57.81,10
+2025-10-04,25503,Magical Stone,Cush,Spr ring lvl60|Mystic Leaf,299,708.69,409.69,99,40559.73,57.81,10
+2025-10-04,25503,Magical Stone,KIFFYFIED,cheep price for the best,300,708.69,408.69,68,27791.21,57.67,10
 2025-10-04,28456,Ice Sealed Robe of the Sphinx,Swird,Storm/Treibal/Sphinx/Steel,20000,45185.0,25185.0,1,25185.0,55.74,3
-2025-10-04,25503,Magical Stone,GRAVITY,MAGICAL STONE,350,786.17,436.17,99,43180.52,55.48,7
-2025-10-04,25503,Magical Stone,GRAVITY,MAGICAL STONE,350,786.17,436.17,99,43180.52,55.48,7
 2025-10-04,22001,Furious Gem,hunterx,2gen 18st//knife app/gems/etc,1150,2451.05,1301.05,39,50740.92,53.08,8
-2025-10-04,25503,Magical Stone,JunoJuno,cheap,500,786.17,286.17,85,24324.19,36.4,7
-2025-10-04,25503,Magical Stone,Olkc,you dont have to buy nothing,500,786.17,286.17,78,22321.02,36.4,7
+2025-10-04,25503,Magical Stone,GRAVITY,MAGICAL STONE,350,708.69,358.69,99,35510.73,50.61,10
+2025-10-04,25503,Magical Stone,GRAVITY,MAGICAL STONE,350,708.69,358.69,99,35510.73,50.61,10
+2025-10-04,28403,Blade of Incantation,Kasyadex,FAIRY DUST/EVA POWER/VOY/SWORD,180000,276666.67,96666.67,1,96666.67,34.94,4
+2025-10-04,28403,Blade of Incantation,NecroManS,@@@@@,180000,276666.67,96666.67,1,96666.67,34.94,4
 2025-10-04,30102,1000 Reputation Scroll,Shopshop,demo strik - coins - rep - frags,5999,9036.09,3037.09,10,30370.94,33.61,9
 2025-10-04,30102,1000 Reputation Scroll,MatsBk,S>GPS/PPS/PBS/REP/DUST/MORE,6000,9036.09,3036.09,58,176093.43,33.6,9
 2025-10-04,30102,1000 Reputation Scroll,Hisoka66,ezzzzzz,6000,9036.09,3036.09,7,21252.66,33.6,9
@@ -29,13 +33,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1222,1763.04,541.04,164,88731.01,30.69,9
 2025-10-04,22000,FieryGem,Dad,zzzzzz,3000,4280.95,1280.95,62,79419.13,29.92,7
 2025-10-04,30102,1000 Reputation Scroll,iinerti,Jackpot/Repu1k/PPS/PBS/MVM/SPots,6500,9036.09,2536.09,9,22824.84,28.07,9
+2025-10-04,28403,Blade of Incantation,NecroManS,@@@@@,200000,276666.67,76666.67,1,76666.67,27.71,4
 2025-10-04,25452,Rock Gem Fragment,Mikosita,SELL IMPS/GPS/JACKPOT/REF/PPS,85000,117518.11,32518.11,6,195108.67,27.67,12
 2025-10-04,25452,Rock Gem Fragment,JakubMarket,fsgs,85000,117518.11,32518.11,4,130072.44,27.67,12
 2025-10-04,25452,Rock Gem Fragment,pisslow,Sell Freeeeeeeeeeeeeeeeeeeeeee,84999,117518.11,32519.11,2,65038.22,27.67,12
 2025-10-04,25451,Jade Gem Fragment,JKK27,JADE FRAG/JACK/GROWTH,69999,96718.5,26719.5,4,106878.0,27.63,5
 2025-10-04,26326,Elven Royal Signet,MatsBk,S>GPS/PPS/PBS/REP/DUST/MORE,1300,1763.04,463.04,140,64825.99,26.26,9
 2025-10-04,25452,Rock Gem Fragment,zHeaven,VERY CHEAP FOR U,88999,117518.11,28519.11,1,28519.11,24.27,12
-2025-10-04,30171,Ticket to Demonic World,WindSlash,cheap dw tickets,369,483.68,114.68,198,22707.56,23.71,8
+2025-10-04,30171,Ticket to Demonic World,WindSlash,cheap dw tickets,369,485.39,116.39,198,23045.58,23.98,8
 2025-10-04,25452,Rock Gem Fragment,Brody,Ug Rage/Rock Gem frag,89999,117518.11,27519.11,3,82557.33,23.42,12
 2025-10-04,25452,Rock Gem Fragment,xTrueHistory,GPS/Jackpot/Rockgemfrag/islanCar,90000,117518.11,27518.11,2,55036.22,23.42,12
 2025-10-04,25452,Rock Gem Fragment,Paka01,RockGemFrag PPS JadeGemFrag Repu,89999,117518.11,27519.11,1,27519.11,23.42,12
@@ -104,6 +109,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,25031,Refining Gem,dada4,Ref's / Elven Signet's,7999,8576.96,577.96,50,28898.2,6.74,9
 2025-10-04,25031,Refining Gem,antonina2,Ref's / Elven Signet's,7999,8576.96,577.96,50,28898.2,6.74,9
 2025-10-04,25031,Refining Gem,galina1,Ref's / Elven Signet's,7999,8576.96,577.96,45,26008.38,6.74,9
+2025-10-04,27015,Prestige Wine,Esmeralda,Prestige wines!! Best quality.,1800,1914.5,114.5,189,21640.05,5.98,5
 2025-10-04,30191,1000 Supporter Points Voucher,MrFarm,CHEPEST STALL IN TOWN CHECKIT,45000,47837.8,2837.8,49,139052.1,5.93,3
 2025-10-04,22010,Gem of Rage,011,bank cleaning,2000000,2123333.22,123333.22,1,123333.22,5.81,6
 2025-10-04,22011,Gemof Sout,JakubMarket,fsgs,1200000,1271999.75,71999.75,1,71999.75,5.66,4
@@ -134,5 +140,5 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-04,30191,1000 Supporter Points Voucher,balulu6,BEST PRICES,46999,47837.8,838.8,85,71297.83,1.75,3
 2025-10-04,30191,1000 Supporter Points Voucher,balulu6,BEST PRICES,46999,47837.8,838.8,31,26002.74,1.75,3
 2025-10-04,22010,Gem of Rage,Arsenal,Demo strike/ demo colo / ug rage,2100000,2123333.22,23333.22,1,23333.22,1.1,6
-2025-10-04,30139,100x Crystal,Mallwart,S>IMPS,85600,85960.85,360.85,80,28867.92,0.42,5
-2025-10-04,30139,100x Crystal,Aois,STALL,85700,85960.85,260.85,99,25824.05,0.3,5
+2025-10-04,30139,100x Crystal,Mallwart,S>IMPS,85600,85961.92,361.92,80,28953.44,0.42,5
+2025-10-04,30139,100x Crystal,Aois,STALL,85700,85961.92,261.92,99,25929.89,0.3,5
