@@ -16,7 +16,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.16,22001,Furious Gem,999,3348.02,6,2,FARMBR,sell
 70.16,22001,Furious Gem,999,3348.02,6,1,INeedADollar,cheap stuff
 70.16,22001,Furious Gem,999,3348.02,6,3,cheapstuffsell,cheap
-69.87,22000,FieryGem,1000,3319.25,7,2,xJewel,cheap gems etc
+69.9,22000,FieryGem,1000,3322.26,7,2,xJewel,cheap gems etc
 68.84,26589,Potion of Bull,800,2566.99,7,12,xTrueHistory,GPS/PPS/Skating/Islancard/Potion
 68.84,26589,Potion of Bull,800,2566.99,7,1,HyjoSeller,Venha Ver
 68.18,25481,Red Dye,500,1571.43,3,42,VERTIGO,HAIR  STYLE DYE COLORANT GEL
@@ -45,14 +45,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.2,22001,Furious Gem,1500,3348.02,6,1,HunterKim,SDasdasd
 54.06,25440,Evanescence Stone,400,870.64,6,1,lRivotriLl,purple
 53.76,26594,Novice Explosive Ball,350,756.87,3,3,BlackSsBank,Flash Bomb / Grenade / Novic Bal
-52.99,22003,Glowing Gem,999,2125.12,6,2,CStal1,sell
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
 52.91,22006,Spirit Gem,3000,6370.32,7,3,Vendedor,Promotion
 52.91,22006,Spirit Gem,3000,6370.32,7,14,voyo,WHOLESALE!
 52.91,22006,Spirit Gem,3000,6370.32,7,6,Revolver,gem of rage/spirit/shining/lion
+52.87,22003,Glowing Gem,999,2119.86,6,1,cudecachorro2,ALL FREE|RAGE|YELLOW JADE|
+52.87,22003,Glowing Gem,999,2119.86,6,2,CStal1,sell
 52.16,25439,Incantation Stone,500,1045.17,4,1,CStal1,sell
 52.16,25439,Incantation Stone,500,1045.17,4,2,vendedolmax,2000
-51.91,26326,Elven Royal Signet,850,1767.64,13,11,TocoDeJegue,Blueprint - Ref - gem - roar
+51.65,26326,Elven Royal Signet,850,1757.86,13,11,TocoDeJegue,Blueprint - Ref - gem - roar
 50.91,28411,Staff of Incantation,135000,275000.0,4,1,CHEAPSTALL,AMI APPAREL SET/SEAL60 CLE ARMOR
 50.37,28448,Fire Sealed Cloak of Evanescence,16999,34249.75,4,1,IchiShiki,all in one place
 50.36,28126,Cleric Cap,10000,20145.83,6,1,TocoDeJegue,Blueprint - Ref - gem - roar
