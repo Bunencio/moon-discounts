@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.67,28327,Great Aqua Cap,55000,1651666.67,3,1,freeee,cheap
 88.65,25440,Evanescence Stone,99,872.3,6,4,CStal1,sell
-86.99,25507,Expert Stone,200,1537.76,7,17,POPOR,STEEL GAUNTLETS +5 AGI.+3 STR
+86.89,25507,Expert Stone,200,1525.32,7,17,POPOR,STEEL GAUNTLETS +5 AGI.+3 STR
 79.66,22001,Furious Gem,800,3933.26,10,1,TocoDeJegue,Potions - W8less - Blueprint
 77.19,25440,Evanescence Stone,199,872.3,6,8,BL4CKM4RK3T,buy me plz  im broke
 74.6,22001,Furious Gem,999,3933.26,10,2,FARMBR,sell
@@ -21,7 +21,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.39,25503,Magical Stone,290,792.13,8,2,Skills,Free     Free     Free     Free
 63.16,28458,Ice Sealed Staff of the Sphinx,5000,13571.14,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
 62.79,22003,Glowing Gem,950,2553.34,11,1,lamamandoski,rasta courage
-62.5,28442,Fire Sealed Coat of Evanescence,5000,13332.22,5,1,Friereeen,LVL 50 sealed items free
 61.86,22001,Furious Gem,1500,3933.26,10,5,GrimDarkness,Cleaning /Potion/Gems/FB/SM/PET
 61.45,26589,Potion of Bull,1000,2594.28,12,3,ReiGnomio,O_O
 61.45,26589,Potion of Bull,1000,2594.28,12,1,TocoDeJegue,Potions - W8less - Blueprint
@@ -31,8 +30,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.84,22003,Glowing Gem,1000,2553.34,11,4,011,bank cleaning
 60.63,25258,Spirit Feather,399,1013.37,3,84,tiendaonline,OFFER OFFER OFFER
 60.63,25258,Spirit Feather,399,1013.37,3,5,tiendaonline,OFFER OFFER OFFER
-56.79,28444,Fire Sealed Bellow of Evanescence,5000,11571.29,4,1,Friereeen,LVL 50 sealed items free
-56.79,28444,Fire Sealed Bellow of Evanescence,5000,11571.29,4,1,Lune,Cheap Items
+60.53,28444,Fire Sealed Bellow of Evanescence,5000,12666.5,4,1,Lune,Cheap Items
 56.57,26588,Potion of Eagle,1111,2558.28,11,27,Yoda,Sleep
 56.49,22003,Glowing Gem,1111,2553.34,11,123,Look7,gem
 55.82,25503,Magical Stone,350,792.13,8,99,GRAVITY,MAGICAL STONE
@@ -45,4 +43,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
 52.16,25439,Incantation Stone,500,1045.17,4,1,CStal1,sell
 52.16,25439,Incantation Stone,500,1045.17,4,2,vendedolmax,2000
+52.05,28432,Fire Sealed Staff of Mirage,5000,10428.29,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
+52.05,28432,Fire Sealed Staff of Mirage,5000,10428.29,5,1,VENDEDORAA,SM 50 +5  /  CRUS 60  / STAFF  +
 50.66,25258,Spirit Feather,500,1013.37,3,26,sstido,selling

@@ -1,6 +1,6 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-10-05,28327,Great Aqua Cap,freeee,cheap,55000,1651666.67,1596666.67,1,1596666.67,96.67,3
-2025-10-05,25507,Expert Stone,POPOR,STEEL GAUNTLETS +5 AGI.+3 STR,200,1537.76,1337.76,17,22741.86,86.99,7
+2025-10-05,25507,Expert Stone,POPOR,STEEL GAUNTLETS +5 AGI.+3 STR,200,1525.32,1325.32,17,22530.52,86.89,7
 2025-10-05,22001,Furious Gem,011,bank cleaning,1000,3933.26,2933.26,13,38132.33,74.58,10
 2025-10-05,25258,Spirit Feather,tiendaonline,OFFER OFFER OFFER,399,1013.37,614.37,84,51607.08,60.63,3
 2025-10-05,26588,Potion of Eagle,Yoda,Sleep,1111,2558.28,1447.28,27,39076.5,56.57,11
@@ -9,11 +9,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,25503,Magical Stone,GRAVITY,MAGICAL STONE,350,792.13,442.13,69,30507.04,55.82,8
 2025-10-05,28456,Ice Sealed Robe of the Sphinx,Swird,Storm/Treibal/Sphinx/Steel,20000,45185.0,25185.0,1,25185.0,55.74,3
 2025-10-05,22006,Spirit Gem,Revolver,gem of rage/spirit/shining/lion,3000,6597.47,3597.47,6,21584.83,54.53,7
-2025-10-05,25525,,akazaa,GO BUY,450000,867498.7,417498.7,1,417498.7,48.13,5
 2025-10-05,28476,Ice Sealed Kris of the Sphinx,freestuffcomevis,cheap gear,40000,75586.86,35586.86,1,35586.86,47.08,5
 2025-10-05,22006,Spirit Gem,Lune,Cheap Items,3500,6597.47,3097.47,34,105314.03,46.95,7
 2025-10-05,28411,Staff of Incantation,ZafirRose,gpd cleric stuff cheap coin,115000,216666.67,101666.67,1,101666.67,46.92,3
-2025-10-05,25525,,Kinyu,Chaos Jewel 500K,500000,867498.7,367498.7,1,367498.7,42.36,5
+2025-10-05,25525,,Kinyu,Chaos Jewel 500K,500000,883332.39,383332.39,1,383332.39,43.4,3
 2025-10-05,28326,Divine Grace Cap,Lune,Cheap Items,30000,51849.83,21849.83,1,21849.83,42.14,5
 2025-10-05,25451,Jade Gem Fragment,Anbie,CHAOS RUNE 500K | JADE FRAG 75K,75000,120416.67,45416.67,2,90833.33,37.72,3
 2025-10-05,28411,Staff of Incantation,CHEAPSTALL,AMI APPAREL SET/SEAL60 CLE ARMOR,135000,216666.67,81666.67,1,81666.67,37.69,3
@@ -25,9 +24,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,28132,Voyager Cap,stuart,EQUIPS,40000,61999.8,21999.8,1,21999.8,35.48,3
 2025-10-05,28132,Voyager Cap,stuart,EQUIPS,40000,61999.8,21999.8,1,21999.8,35.48,3
 2025-10-05,28132,Voyager Cap,stuart,EQUIPS,40000,61999.8,21999.8,1,21999.8,35.48,3
-2025-10-05,25507,Expert Stone,AAA123,123131231311,1000,1537.76,537.76,99,53237.89,34.97,7
 2025-10-05,28403,Blade of Incantation,Kasyadex,FAIRY DUST/EVA POWER/VOY/SWORD,180000,276000.0,96000.0,1,96000.0,34.78,3
-2025-10-05,26568,Skating Potion,darkghost,scroll,30000,45487.32,15487.32,2,30974.63,34.05,8
+2025-10-05,26568,Skating Potion,darkghost,scroll,30000,45971.67,15971.67,2,31943.33,34.74,7
+2025-10-05,25507,Expert Stone,AAA123,123131231311,1000,1525.32,525.32,99,52007.13,34.44,7
 2025-10-05,28476,Ice Sealed Kris of the Sphinx,BjornIronside,@@@@@@,49999,75586.86,25587.86,1,25587.86,33.85,5
 2025-10-05,28476,Ice Sealed Kris of the Sphinx,Shopshop,demo strik - coins - rep - frags,49999,75586.86,25587.86,1,25587.86,33.85,5
 2025-10-05,25452,Rock Gem Fragment,Verso,free,99999,150264.64,50265.64,6,301593.85,33.45,5
@@ -49,7 +48,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,26559,Cooked Crab,Hinata,! Cooked Crab and Salmon Cheap !,1400,1768.44,368.44,171,63003.56,20.83,7
 2025-10-05,26590,Potion of Soul,MatsBk,S>STRIKING/GPS/PBS/MORE,2400,2998.17,598.17,52,31104.77,19.95,6
 2025-10-05,25426,Universe Purse Fragment.,xTrueHistory,UniversePursefra/GPS/Jackpot/PPS,270000,334999.65,64999.65,1,64999.65,19.4,8
-2025-10-05,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,741.45,142.45,200,28489.4,19.21,7
+2025-10-05,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,741.69,142.69,200,28538.02,19.24,7
 2025-10-05,25452,Rock Gem Fragment,Guardian,+5 CON HAT VOY / STUFF,123444,150264.64,26820.64,3,80461.92,17.85,5
 2025-10-05,22016,Demonic Gem of Sout,frefer,CLERIC  -  UG SOUL  -  DEMO SOUL,1400000,1699999.86,299999.86,1,299999.86,17.65,5
 2025-10-05,29307,Ring of Damnation,SirCumcision,Lv50 ACC Ring / Lv 50 SS,119990,145108.44,25118.44,1,25118.44,17.31,5
@@ -72,8 +71,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,25426,Universe Purse Fragment.,Agent0X,Shining Rune - Purse Fragment,289999,334999.65,45000.65,2,90001.3,13.43,8
 2025-10-05,25426,Universe Purse Fragment.,Mikosita,SELL JACKPOT/GPS/REF/KAL/PPS,290000,334999.65,44999.65,1,44999.65,13.43,8
 2025-10-05,26585,Blessed Potion,BBVA,BLESS / UVP,100000,115005.52,15005.52,15,225082.85,13.05,6
+2025-10-05,26568,Skating Potion,buyme,FREE!!!,39999,45971.67,5972.67,7,41808.67,12.99,7
 2025-10-05,25508,Demonic Gem Fragment,Mikosita,SELL JACKPOT/GPS/REF/KAL/PPS,99999,114305.0,14306.0,4,57224.0,12.52,4
-2025-10-05,26568,Skating Potion,buyme,FREE!!!,39999,45487.32,5488.32,7,38418.22,12.07,8
 2025-10-05,22016,Demonic Gem of Sout,smoI,astro turbo gigacheap gems,1500000,1699999.86,199999.86,1,199999.86,11.76,5
 2025-10-05,30156,Jackpot Coin,MatsBk,S>STRIKING/GPS/PBS/MORE,8600,9739.43,1139.43,19,21649.25,11.7,5
 2025-10-05,27025,Radiation Lv1,Cincar,Cincar Pots,2499,2816.59,317.59,200,63518.83,11.28,4
@@ -87,12 +86,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,25031,Refining Gem,dada4,Ref's / Elven Signet's,7999,8897.06,898.06,50,44902.87,10.09,9
 2025-10-05,25031,Refining Gem,antonina2,Ref's / Elven Signet's,7999,8897.06,898.06,48,43106.76,10.09,9
 2025-10-05,25031,Refining Gem,galina1,Ref's / Elven Signet's,7999,8897.06,898.06,40,35922.3,10.09,9
+2025-10-05,25525,,buyme,FREE!!!,799999,883332.39,83333.39,8,666667.11,9.43,3
 2025-10-05,22009,Gem of Colossus,Personal,gens cheap,1810000,1993333.17,183333.17,1,183333.17,9.2,5
-2025-10-05,25525,,buyme,FREE!!!,799999,867498.7,67499.7,8,539997.6,7.78,5
-2025-10-05,26592,Flash Bomb,Bankaquaq,Radiation/FB/Brew,1300,1402.33,102.33,200,20465.82,7.3,3
-2025-10-05,26592,Flash Bomb,Bankaquaq,Radiation/FB/Brew,1300,1402.33,102.33,200,20465.82,7.3,3
-2025-10-05,26592,Flash Bomb,Bankaquaq,Radiation/FB/Brew,1300,1402.33,102.33,200,20465.82,7.3,3
-2025-10-05,22024,Purple Jade,akazaa,GO BUY,940000,1013333.33,73333.33,1,73333.33,7.24,3
+2025-10-05,26592,Flash Bomb,Bankaquaq,Radiation/FB/Brew,1300,1404.29,104.29,200,20857.58,7.43,3
+2025-10-05,26592,Flash Bomb,Bankaquaq,Radiation/FB/Brew,1300,1404.29,104.29,195,20336.14,7.43,3
 2025-10-05,22009,Gem of Colossus,Laris,UG Colo / UG Striking /PurseFrag,1850000,1993333.17,143333.17,1,143333.17,7.19,5
 2025-10-05,30191,1000 Supporter Points Voucher,balulu6,CHEAPEST,43999,47387.43,3388.43,85,288016.64,7.15,3
 2025-10-05,30191,1000 Supporter Points Voucher,balulu6,CHEAPEST,43999,47387.43,3388.43,31,105041.36,7.15,3
