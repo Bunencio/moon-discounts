@@ -42,11 +42,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,26326,Elven Royal Signet,Sypher,jade  demonic rock  signet  voy,1300,1853.69,553.69,99,54814.98,29.87,10
 2025-10-05,28403,Blade of Incantation,bankerrr,Bank Cleaning,200000,276666.67,76666.67,1,76666.67,27.71,4
 2025-10-05,28403,Blade of Incantation,bankerrr,Bank Cleaning,200000,276666.67,76666.67,1,76666.67,27.71,4
-2025-10-05,30171,Ticket to Demonic World,forcooking,Tickets to Demonic World,364,503.0,139.0,190,26409.69,27.63,7
-2025-10-05,30171,Ticket to Demonic World,WindSeal,Cheapest DW tickets,364,503.0,139.0,176,24463.71,27.63,7
+2025-10-05,30171,Ticket to Demonic World,forcooking,Tickets to Demonic World,364,501.9,137.9,190,26200.2,27.47,8
+2025-10-05,30171,Ticket to Demonic World,WindSeal,Cheapest DW tickets,364,501.9,137.9,176,24269.66,27.47,8
 2025-10-05,26589,Potion of Bull,PotsStore,+5stats potions/growth/reset,1950,2597.95,647.95,34,22030.37,24.94,12
 2025-10-05,28447,Bow of Evanescence,xJavux,Bow 55 +4,1200000,1566666.33,366666.33,1,366666.33,23.4,3
-2025-10-05,30171,Ticket to Demonic World,dwtix,Fb's / Elven Bunny pot's/Lantern,400,503.0,103.0,200,20599.67,20.48,7
+2025-10-05,30171,Ticket to Demonic World,dwtix,Elven bunny pot/ Lantern cheap,390,501.9,111.9,200,22379.16,22.29,8
 2025-10-05,26590,Potion of Soul,MatsBk,S>STRIKING/GPS/PBS/MORE,2400,2998.17,598.17,52,31104.77,19.95,6
 2025-10-05,26559,Cooked Crab,Hinata,! Cooked Crab and Salmon Cheap !,1400,1739.0,339.0,171,57969.19,19.49,6
 2025-10-05,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,741.69,142.69,200,28538.02,19.24,7
@@ -91,15 +91,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,26592,Flash Bomb,Bankaquaq,Radiation/FB/Brew,1300,1404.29,104.29,195,20336.14,7.43,3
 2025-10-05,30191,1000 Supporter Points Voucher,balulu6,CHEAPEST,43999,47387.43,3388.43,85,288016.64,7.15,3
 2025-10-05,30191,1000 Supporter Points Voucher,balulu6,CHEAPEST,43999,47387.43,3388.43,31,105041.36,7.15,3
+2025-10-05,25091,Heavy Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,4000,4300.14,300.14,99,29713.6,6.98,3
+2025-10-05,26578,Aegis Brew,Lag,a,45000,48254.9,3254.9,24,78117.65,6.75,3
 2025-10-05,30102,1000 Reputation Scroll,Saller,ty,8888,9460.99,572.99,99,56726.5,6.06,6
-2025-10-05,22008,Gem of the Wind,Personal,gens cheap,892000,947999.75,55999.75,1,55999.75,5.91,4
 2025-10-05,22016,Demonic Gem of Sout,ShowerBro,AFK,1600000,1699999.86,99999.86,1,99999.86,5.88,5
 2025-10-05,25427,Chest of Dark Swamp,011,bank cleaning,10000,10625.0,625.0,36,22500.0,5.88,3
-2025-10-05,26578,Aegis Brew,PITAYA,AEGIS BREW,47000,49666.67,2666.67,13,34666.67,5.37,3
 2025-10-05,22010,Gem of Rage,Systembuff,Dem Rage/Dem Colo/Ug Rage,1800000,1899999.8,99999.8,2,199999.6,5.26,5
 2025-10-05,22010,Gem of Rage,Revolver,gem of rage/spirit/shining/lion,1799999,1899999.8,100000.8,1,100000.8,5.26,5
 2025-10-05,22010,Gem of Rage,Seller1,KALS - GEMS CHEAP!,1800000,1899999.8,99999.8,1,99999.8,5.26,5
-2025-10-05,22008,Gem of the Wind,Seraphim,zzzzz,900000,947999.75,47999.75,1,47999.75,5.06,4
 2025-10-05,22007,Gem of Striking,Dinamy,DEMONIC STRIKING UG STRIKING,1400000,1474500.0,74500.0,3,223500.0,5.05,5
 2025-10-05,22007,Gem of Striking,Bpsopen,UG Strike lv50 necklace,1400000,1474500.0,74500.0,1,74500.0,5.05,5
 2025-10-05,22007,Gem of Striking,MatsBk,S>STRIKING/GPS/PBS/MORE,1400000,1474500.0,74500.0,1,74500.0,5.05,5
@@ -107,17 +106,19 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,30191,1000 Supporter Points Voucher,MrFarm,CHEPEST STALL IN TOWN CHECKIT,45000,47387.43,2387.43,49,116984.12,5.04,3
 2025-10-05,27020,Gold Pirate Scroll,Commerce,ww3,18000,18948.88,948.88,29,27517.46,5.01,9
 2025-10-05,27020,Gold Pirate Scroll,BuyingSta4ll7,JACK | PPS | GPS | ROCK | ++++++,18000,18948.88,948.88,27,25619.7,5.01,9
+2025-10-05,22008,Gem of the Wind,Personal,gens cheap,892000,938399.8,46399.8,1,46399.8,4.94,4
 2025-10-05,23003,Cupid Treasure,treasuress,cheap aegis cupid iron treasures,4000,4206.61,206.61,99,20454.27,4.91,3
 2025-10-05,23003,Cupid Treasure,treasuress,cheap aegis cupid iron treasures,4000,4206.61,206.61,99,20454.27,4.91,3
 2025-10-05,22013,Demonic Gem of Striking,Dinamy,DEMONIC STRIKING UG STRIKING,1800000,1888888.78,88888.78,4,355555.11,4.71,4
 2025-10-05,22013,Demonic Gem of Striking,Arsenal,Demo colo/ demo strike / ug rage,1800000,1888888.78,88888.78,1,88888.78,4.71,4
+2025-10-05,22008,Gem of the Wind,Seraphim,zzzzz,900000,938399.8,38399.8,1,38399.8,4.09,4
+2025-10-05,22008,Gem of the Wind,Lag,a,900000,938399.8,38399.8,1,38399.8,4.09,4
 2025-10-05,22014,Demonic Gem of Colossus,Seraphim,zzzzz,2500000,2600000.0,100000.0,1,100000.0,3.85,3
 2025-10-05,26576,Iron Brew,Cincar,Cincar Pots,7999,8313.72,314.72,200,62943.4,3.79,7
 2025-10-05,22015,Demonic Gem of Rage,Pescado,S>BEST POTS/HAT,2400000,2491666.67,91666.67,1,91666.67,3.68,4
 2025-10-05,22015,Demonic Gem of Rage,Verso,free,2400000,2491666.67,91666.67,1,91666.67,3.68,4
 2025-10-05,22009,Gem of Colossus,BuyOrGay,Cheap UG's,2000000,2074999.75,74999.75,1,74999.75,3.61,3
 2025-10-05,27017,Sorcerer's Wine,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,11900,12342.68,442.68,181,80125.8,3.59,6
-2025-10-05,26578,Aegis Brew,Lag,Aegis Brew,48000,49666.67,1666.67,24,40000.0,3.36,3
 2025-10-05,26572,Inferno Potion,Stalinha,Iron Brew / Inferno / Blessed,8300,8580.82,280.82,82,23027.4,3.27,7
 2025-10-05,25431,Kal Runestone,Mikosita,SELL JACKPOT/GPS/REF/KAL/PPS,1300000,1342857.14,42857.14,1,42857.14,3.19,3
 2025-10-05,27017,Sorcerer's Wine,Timotron,Cheapest Sorcerer   Inferno EVER,12000,12342.68,342.68,200,68536.8,2.78,6
