@@ -20,7 +20,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.84,26589,Potion of Bull,800,2566.99,7,12,xTrueHistory,GPS/PPS/Skating/Islancard/Potion
 68.84,26589,Potion of Bull,800,2566.99,7,1,HyjoSeller,Venha Ver
 68.18,25481,Red Dye,500,1571.43,3,42,VERTIGO,HAIR  STYLE DYE COLORANT GEL
-68.09,22004,Shining Gem,1000,3133.79,6,1,LazzzyBee,CHEAP
+68.13,22004,Shining Gem,1000,3137.84,6,1,LazzzyBee,CHEAP
 62.62,28462,Ice Sealed Staff of Enigma,20000,53499.75,4,1,Chad,Cheap
 61.9,28476,Ice Sealed Kris of the Sphinx,25000,65624.62,6,1,Vendedor,Promotion
 61.54,25497,Blue Colorant,2500,6500.0,3,2,VERTIGO,HAIR  STYLE DYE COLORANT GEL
@@ -37,8 +37,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.18,28411,Staff of Incantation,115000,275000.0,4,1,ZafirRose,gpd cleric stuff cheap coin
 58.11,28326,Divine Grace Cap,29990,71584.14,6,1,Merchanty,Staff App|Salmon|Cleric Cap +Spr
 58.09,28326,Divine Grace Cap,30000,71584.14,6,1,Lune,Cheap Items
-57.72,26588,Potion of Eagle,1000,2365.22,8,6,amiix,Universe PF JC GPS C-DW GD2 PpS
-57.72,26588,Potion of Eagle,1000,2365.22,8,1,ReiGnomio,O_O
+57.92,26588,Potion of Eagle,1000,2376.62,9,6,amiix,Universe PF JC GPS C-DW GD2 PpS
+57.92,26588,Potion of Eagle,1000,2376.62,9,1,ReiGnomio,O_O
 56.42,28446,Fire Sealed Bow of Evanescence,9400,21570.78,9,1,bowstalls,SS 6Acc 1agi/fire sealed 3Pages
 56.2,22001,Furious Gem,1500,3424.93,8,7,Vendedor,Promotion
 56.2,22001,Furious Gem,1500,3424.93,8,1,HunterKim,SDasdasd
@@ -53,7 +53,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.91,22006,Spirit Gem,3000,6370.32,7,6,Revolver,gem of rage/spirit/shining/lion
 52.16,25439,Incantation Stone,500,1045.17,4,1,CStal1,sell
 52.16,25439,Incantation Stone,500,1045.17,4,2,vendedolmax,2000
-51.65,26326,Elven Royal Signet,850,1757.86,13,11,TocoDeJegue,Blueprint - Ref - gem - roar
+51.84,26326,Elven Royal Signet,850,1764.82,12,11,TocoDeJegue,Blueprint - Ref - gem - roar
 50.91,28411,Staff of Incantation,135000,275000.0,4,1,CHEAPSTALL,AMI APPAREL SET/SEAL60 CLE ARMOR
 50.37,28448,Fire Sealed Cloak of Evanescence,16999,34249.75,4,1,IchiShiki,all in one place
 50.36,28126,Cleric Cap,10000,20145.83,6,1,TocoDeJegue,Blueprint - Ref - gem - roar
