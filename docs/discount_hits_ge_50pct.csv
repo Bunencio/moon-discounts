@@ -2,37 +2,37 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.67,28327,Great Aqua Cap,55000,1651666.67,3,1,freeee,cheap
 88.65,25440,Evanescence Stone,99,872.3,6,4,CStal1,sell
 86.89,25507,Expert Stone,200,1525.32,7,17,POPOR,STEEL GAUNTLETS +5 AGI.+3 STR
-79.66,22001,Furious Gem,800,3933.26,10,1,TocoDeJegue,Potions - W8less - Blueprint
 77.19,25440,Evanescence Stone,199,872.3,6,8,BL4CKM4RK3T,buy me plz  im broke
-74.6,22001,Furious Gem,999,3933.26,10,2,FARMBR,sell
-74.6,22001,Furious Gem,999,3933.26,10,1,INeedADollar,cheap stuff
-74.6,22001,Furious Gem,999,3933.26,10,3,cheapstuffsell,cheap
-74.58,22001,Furious Gem,1000,3933.26,10,13,011,bank cleaning
-74.58,22001,Furious Gem,1000,3933.26,10,1,EvilRian,hellow
 73.81,28412,Earth Sealed Tattoo of the Cursed Warrior,1990,7597.4,5,1,SirCumcision,Lv50 ACC Ring / Lv 50 SS
+73.04,29002,Green Statue,800,2967.14,3,12,darkghost,scroll
+72.69,22001,Furious Gem,800,2928.97,7,1,TocoDeJegue,Potions - W8less - Blueprint
+71.35,29002,Green Statue,850,2967.14,3,5,staller2,Demonic rock/skating/expert
 71.34,25440,Evanescence Stone,250,872.3,6,20,HyjoSeller,DEU A LOUCA NO GERENTE
 71.09,26589,Potion of Bull,750,2594.28,12,3,Kinyu,Chaos Jewel 500K
-68.67,22003,Glowing Gem,800,2553.34,11,2,TocoDeJegue,Potions - W8less - Blueprint
+68.59,22003,Glowing Gem,800,2546.87,10,2,TocoDeJegue,Potions - W8less - Blueprint
 66.65,26590,Potion of Soul,1000,2998.17,6,1,Kinyu,Chaos Jewel 500K
 66.65,26590,Potion of Soul,1000,2998.17,6,2,TocoDeJegue,Potions - W8less - Blueprint
+65.89,22001,Furious Gem,999,2928.97,7,2,FARMBR,sell
+65.89,22001,Furious Gem,999,2928.97,7,1,INeedADollar,cheap stuff
+65.89,22001,Furious Gem,999,2928.97,7,3,cheapstuffsell,cheap
+65.86,22001,Furious Gem,1000,2928.97,7,13,011,bank cleaning
+65.86,22001,Furious Gem,1000,2928.97,7,1,EvilRian,hellow
 65.25,2301,,10000,28777.5,3,1,XiXi0n,CHEEEEEEEEEEEEAAAAAAAP
-64.41,22001,Furious Gem,1400,3933.26,10,1,Anuel,last Armor of Enigma xD
 63.64,28035,Solar Shield,9999,27499.5,4,1,TTKillGirlTT,Universe/ Shield / Equips 50-60
 63.39,25503,Magical Stone,290,792.13,8,2,Skills,Free     Free     Free     Free
 63.16,28458,Ice Sealed Staff of the Sphinx,5000,13571.14,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
-62.79,22003,Glowing Gem,950,2553.34,11,1,lamamandoski,rasta courage
-61.86,22001,Furious Gem,1500,3933.26,10,5,GrimDarkness,Cleaning /Potion/Gems/FB/SM/PET
+62.7,22003,Glowing Gem,950,2546.87,10,1,lamamandoski,rasta courage
 61.45,26589,Potion of Bull,1000,2594.28,12,3,ReiGnomio,O_O
 61.45,26589,Potion of Bull,1000,2594.28,12,1,TocoDeJegue,Potions - W8less - Blueprint
-60.91,26588,Potion of Eagle,1000,2558.28,11,1,ReiGnomio,O_O
-60.91,26588,Potion of Eagle,1000,2558.28,11,2,TocoDeJegue,Potions - W8less - Blueprint
-60.87,22003,Glowing Gem,999,2553.34,11,5,CStal1,sell
-60.84,22003,Glowing Gem,1000,2553.34,11,4,011,bank cleaning
+60.88,26588,Potion of Eagle,1000,2556.48,10,1,ReiGnomio,O_O
+60.88,26588,Potion of Eagle,1000,2556.48,10,2,TocoDeJegue,Potions - W8less - Blueprint
+60.78,22003,Glowing Gem,999,2546.87,10,5,CStal1,sell
+60.74,22003,Glowing Gem,1000,2546.87,10,4,011,bank cleaning
 60.63,25258,Spirit Feather,399,1013.37,3,84,tiendaonline,OFFER OFFER OFFER
 60.63,25258,Spirit Feather,399,1013.37,3,5,tiendaonline,OFFER OFFER OFFER
 60.53,28444,Fire Sealed Bellow of Evanescence,5000,12666.5,4,1,Lune,Cheap Items
-56.57,26588,Potion of Eagle,1111,2558.28,11,27,Yoda,Sleep
-56.49,22003,Glowing Gem,1111,2553.34,11,123,Look7,gem
+56.54,26588,Potion of Eagle,1111,2556.48,10,27,Yoda,Sleep
+56.38,22003,Glowing Gem,1111,2546.87,10,123,Look7,gem
 55.82,25503,Magical Stone,350,792.13,8,99,GRAVITY,MAGICAL STONE
 55.82,25503,Magical Stone,350,792.13,8,69,GRAVITY,MAGICAL STONE
 55.82,25503,Magical Stone,350,792.13,8,3,GRAVITY,MAGICAL STONE
@@ -41,8 +41,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.14,25440,Evanescence Stone,400,872.3,6,1,lRivotriLl,purple
 52.94,25427,Chest of Dark Swamp,5000,10625.0,3,1,Stellar,Variety Shop
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
+52.2,22001,Furious Gem,1400,2928.97,7,1,Anuel,last Armor of Enigma xD
 52.16,25439,Incantation Stone,500,1045.17,4,1,CStal1,sell
 52.16,25439,Incantation Stone,500,1045.17,4,2,vendedolmax,2000
-52.05,28432,Fire Sealed Staff of Mirage,5000,10428.29,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
-52.05,28432,Fire Sealed Staff of Mirage,5000,10428.29,5,1,VENDEDORAA,SM 50 +5  /  CRUS 60  / STAFF  +
 50.66,25258,Spirit Feather,500,1013.37,3,26,sstido,selling
