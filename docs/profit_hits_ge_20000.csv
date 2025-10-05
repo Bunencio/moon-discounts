@@ -27,7 +27,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,28476,Ice Sealed Kris of the Sphinx,BjornIronside,@@@@@@,49999,75586.86,25587.86,1,25587.86,33.85,5
 2025-10-05,28476,Ice Sealed Kris of the Sphinx,Shopshop,demo strik - coins - rep - frags,49999,75586.86,25587.86,1,25587.86,33.85,5
 2025-10-05,26326,Elven Royal Signet,EIlIIliah,3424,1200,1792.72,592.72,74,43861.2,33.06,10
-2025-10-05,26591,Potion of Lion,kory,GPS/PPS/REP/ALL POTION@SO CHEAP@,1999,2977.42,978.42,38,37179.91,32.86,10
+2025-10-05,26591,Potion of Lion,kory,GPS/PPS/REP/ALL POTION@SO CHEAP@,1999,2977.54,978.54,38,37184.61,32.86,10
 2025-10-05,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1222,1792.72,570.72,185,105583.0,31.84,10
 2025-10-05,26326,Elven Royal Signet,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,1222,1792.72,570.72,164,93597.91,31.84,10
 2025-10-05,25452,Rock Gem Fragment,xBinibirocha,Rock / Jade / Sealed 60s RUSH AL,95000,139049.38,44049.38,1,44049.38,31.68,7
@@ -44,10 +44,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,26589,Potion of Bull,PotsStore,+5stats potions/growth/reset,1950,2594.28,644.28,34,21905.66,24.83,12
 2025-10-05,28447,Bow of Evanescence,xJavux,Bow 55 +4,1200000,1566666.33,366666.33,1,366666.33,23.4,3
 2025-10-05,26559,Cooked Crab,Hinata,! Cooked Crab and Salmon Cheap !,1400,1788.61,388.61,171,66452.47,21.73,6
+2025-10-05,26590,Potion of Soul,MatsBk,S>STRIKING/GPS/PBS/MORE,2400,2998.17,598.17,52,31104.77,19.95,6
 2025-10-05,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,744.43,145.43,200,29085.71,19.54,7
 2025-10-05,26575,Guardian's Brew,vnt3,guardian-Iron Brew - Grenade lv2,599,744.43,145.43,200,29085.71,19.54,7
 2025-10-05,25426,Universe Purse Fragment.,xTrueHistory,UniversePursefra/GPS/Jackpot/PPS,270000,334999.65,64999.65,1,64999.65,19.4,8
-2025-10-05,26590,Potion of Soul,MatsBk,S>STRIKING/GPS/PBS/MORE,2400,2922.13,522.13,52,27150.58,17.87,5
 2025-10-05,22016,Demonic Gem of Sout,frefer,CLERIC  -  UG SOUL  -  DEMO SOUL,1400000,1699999.86,299999.86,1,299999.86,17.65,5
 2025-10-05,22011,Gemof Sout,frefer,CLERIC  -  UG SOUL  -  DEMO SOUL,950000,1149999.86,199999.86,1,199999.86,17.39,6
 2025-10-05,29307,Ring of Damnation,SirCumcision,Lv50 ACC Ring / Lv 50 SS,119990,145108.44,25118.44,1,25118.44,17.31,5
@@ -59,7 +59,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,26559,Cooked Crab,sds,Cooked Codfish/Crab Cheapp,1500,1788.61,288.61,200,57722.19,16.14,6
 2025-10-05,26559,Cooked Crab,sds,Cooked Codfish/Crab Cheapp,1500,1788.61,288.61,131,37808.04,16.14,6
 2025-10-05,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2990,3556.62,566.62,68,38530.22,15.93,3
-2025-10-05,25031,Refining Gem,Mikosita,SELL JACKPOT/GPS/REF/KAL/PPS,7499,8871.69,1372.69,155,212766.41,15.47,9
+2025-10-05,25031,Refining Gem,Mikosita,SELL JACKPOT/GPS/REF/KAL/PPS,7499,8875.51,1376.51,155,213358.91,15.51,9
 2025-10-05,29305,Ring of Destruction,Mamadisimo,rings lv 50 str,120000,141600.0,21600.0,1,21600.0,15.25,3
 2025-10-05,29305,Ring of Destruction,Mamadisimo,rings lv 50 str,120000,141600.0,21600.0,1,21600.0,15.25,3
 2025-10-05,26002,Pharaoh Gem,BuyingSta4ll7,JACK | PPS | GPS | ROCK | ++++++,1400,1639.58,239.58,87,20843.19,14.61,6
@@ -86,9 +86,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,25426,Universe Purse Fragment.,TheBigOne,Jade Rock Universe Fragments,300000,334999.65,34999.65,1,34999.65,10.45,8
 2025-10-05,25426,Universe Purse Fragment.,Vendedor,Promotion,300000,334999.65,34999.65,1,34999.65,10.45,8
 2025-10-05,27025,Radiation Lv1,Bodeguita,I BREW/G BREW/RADI/HP POTS,2800,3120.55,320.55,155,49685.31,10.27,4
-2025-10-05,25031,Refining Gem,dada4,Ref's / Elven Signet's,7999,8871.69,872.69,50,43634.33,9.84,9
-2025-10-05,25031,Refining Gem,antonina2,Ref's / Elven Signet's,7999,8871.69,872.69,48,41888.95,9.84,9
-2025-10-05,25031,Refining Gem,galina1,Ref's / Elven Signet's,7999,8871.69,872.69,40,34907.46,9.84,9
+2025-10-05,25031,Refining Gem,dada4,Ref's / Elven Signet's,7999,8875.51,876.51,50,43825.45,9.88,9
+2025-10-05,25031,Refining Gem,antonina2,Ref's / Elven Signet's,7999,8875.51,876.51,48,42072.44,9.88,9
+2025-10-05,25031,Refining Gem,galina1,Ref's / Elven Signet's,7999,8875.51,876.51,40,35060.36,9.88,9
 2025-10-05,27019,Purple Pirate Scroll,Emeritus,CHEAP PPS,3999,4426.63,427.63,99,42335.24,9.66,13
 2025-10-05,22009,Gem of Colossus,Personal,gens cheap,1810000,1993333.17,183333.17,1,183333.17,9.2,5
 2025-10-05,22023,Green Jade,Seller1,KALS - GEMS CHEAP!,250000,272499.75,22499.75,1,22499.75,8.26,4
@@ -131,4 +131,4 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-05,27017,Sorcerer's Wine,Puki,POTS FOR U ME WE US EVERYONE,11999,12342.68,343.68,76,26119.98,2.78,6
 2025-10-05,22013,Demonic Gem of Striking,Arsenal,DONT BUY I WILL USE THEM :)),1850000,1894444.33,44444.33,1,44444.33,2.35,5
 2025-10-05,22015,Demonic Gem of Rage,GemSeller,DE Rage,2450000,2491666.67,41666.67,1,41666.67,1.67,4
-2025-10-05,30139,100x Crystal,FreePalestine1,sell imps 0_0,85550,85763.52,213.52,94,20070.92,0.25,3
+2025-10-05,30139,100x Crystal,FreePalestine1,sell imps 0_0,85550,85764.62,214.62,94,20173.85,0.25,3
