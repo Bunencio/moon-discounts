@@ -22,9 +22,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.39,25503,Magical Stone,290,792.13,8,2,Skills,Free     Free     Free     Free
 62.98,22003,Glowing Gem,950,2565.95,10,1,lamamandoski,rasta courage
 62.5,28442,Fire Sealed Coat of Evanescence,5000,13332.22,5,1,Friereeen,LVL 50 sealed items free
-62.0,26589,Potion of Bull,1000,2631.45,12,3,ReiGnomio,O_O
 61.89,22001,Furious Gem,1500,3935.82,10,5,GrimDarkness,Cleaning /Potion/Gems/FB/SM/PET
-61.21,26588,Potion of Eagle,1000,2578.32,12,1,ReiGnomio,O_O
+61.77,26589,Potion of Bull,1000,2615.68,12,3,ReiGnomio,O_O
+61.11,26588,Potion of Eagle,1000,2571.59,12,1,ReiGnomio,O_O
 61.07,22003,Glowing Gem,999,2565.95,10,5,CStal1,sell
 61.03,22003,Glowing Gem,1000,2565.95,10,4,011,bank cleaning
 58.74,25258,Spirit Feather,399,967.15,4,84,tiendaonline,OFFER OFFER OFFER
@@ -34,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.26,28458,Ice Sealed Staff of the Sphinx,9999,23394.78,7,1,BjornIronside,@@@@@@
 57.26,28458,Ice Sealed Staff of the Sphinx,10000,23394.78,7,1,freestuffcomevis,cheap gear
 57.26,28458,Ice Sealed Staff of the Sphinx,9999,23394.78,7,1,CStal1,sell
-56.91,26588,Potion of Eagle,1111,2578.32,12,27,Yoda,Sleep
+56.8,26588,Potion of Eagle,1111,2571.59,12,27,Yoda,Sleep
 56.7,22003,Glowing Gem,1111,2565.95,10,123,Look7,gem
 55.82,25503,Magical Stone,350,792.13,8,99,GRAVITY,MAGICAL STONE
 55.82,25503,Magical Stone,350,792.13,8,69,GRAVITY,MAGICAL STONE
