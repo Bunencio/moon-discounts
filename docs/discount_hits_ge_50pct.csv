@@ -31,15 +31,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.84,28458,Ice Sealed Staff of the Sphinx,6999,17428.0,6,1,xCrossex,LEAF  SEAL  SWORD APP
 59.73,25496,Cyan Colorant.,2500,6208.33,3,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 59.4,25479,Phyllis Hairstyle Book,3000,7388.89,3,11,VERTIGO,HAIR  STYLE DYE COLORANT GEL
+58.97,28446,Fire Sealed Bow of Evanescence,8850,21570.78,9,1,iLegolas,CookinCard Power Rock Ref++
 58.76,28444,Fire Sealed Bellow of Evanescence,5000,12125.0,5,1,Lune,Cheap Items
-58.67,28446,Fire Sealed Bow of Evanescence,8850,21413.7,9,1,iLegolas,CookinCard Power Rock Ref++
 58.62,28436,Fire Sealed Staff of Evanescence,12000,29000.0,3,1,Elle,ccc
 58.18,28411,Staff of Incantation,115000,275000.0,4,1,ZafirRose,gpd cleric stuff cheap coin
 58.11,28326,Divine Grace Cap,29990,71584.14,6,1,Merchanty,Staff App|Salmon|Cleric Cap +Spr
 58.09,28326,Divine Grace Cap,30000,71584.14,6,1,Lune,Cheap Items
 57.72,26588,Potion of Eagle,1000,2365.22,8,6,amiix,Universe PF JC GPS C-DW GD2 PpS
 57.72,26588,Potion of Eagle,1000,2365.22,8,1,ReiGnomio,O_O
-56.1,28446,Fire Sealed Bow of Evanescence,9400,21413.7,9,1,bowstalls,SS 6Acc 1agi/fire sealed 3Pages
+56.42,28446,Fire Sealed Bow of Evanescence,9400,21570.78,9,1,bowstalls,SS 6Acc 1agi/fire sealed 3Pages
 55.95,28126,Cleric Cap,8875,20145.83,6,1,Meguminn,EXPLOOOSIOOONN!!! - STRIKING GEM
 55.2,22001,Furious Gem,1500,3348.02,6,7,Vendedor,Promotion
 55.2,22001,Furious Gem,1500,3348.02,6,1,HunterKim,SDasdasd
@@ -49,8 +49,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.91,22006,Spirit Gem,3000,6370.32,7,3,Vendedor,Promotion
 52.91,22006,Spirit Gem,3000,6370.32,7,14,voyo,WHOLESALE!
 52.91,22006,Spirit Gem,3000,6370.32,7,6,Revolver,gem of rage/spirit/shining/lion
-52.87,22003,Glowing Gem,999,2119.86,6,1,cudecachorro2,ALL FREE|RAGE|YELLOW JADE|
-52.87,22003,Glowing Gem,999,2119.86,6,2,CStal1,sell
+52.68,22003,Glowing Gem,999,2111.03,6,1,cudecachorro2,ALL FREE|RAGE|YELLOW JADE|
+52.68,22003,Glowing Gem,999,2111.03,6,2,CStal1,sell
 52.16,25439,Incantation Stone,500,1045.17,4,1,CStal1,sell
 52.16,25439,Incantation Stone,500,1045.17,4,2,vendedolmax,2000
 51.65,26326,Elven Royal Signet,850,1757.86,13,11,TocoDeJegue,Blueprint - Ref - gem - roar
