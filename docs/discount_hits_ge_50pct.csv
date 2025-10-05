@@ -1,5 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-96.61,26564,Meditation Potion,25,737.15,3,200,TuoTuo,Cleaning BANK
+96.43,26564,Meditation Potion,25,701.17,3,200,TuoTuo,Cleaning BANK
 91.92,28440,Fire Sealed Roar of Evanescence,6000,74280.0,4,1,Nixm,Lv50 ALL CLASSES CHEAP AF!!!!!!!
 91.92,28440,Fire Sealed Roar of Evanescence,6000,74280.0,4,1,Nixm,Lv50 ALL CLASSES CHEAP AF!!!!!!!
 91.53,25493,Orange Colorant,350,4133.75,3,2,cheapstuffsell,cheap
@@ -16,12 +16,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.08,22001,Furious Gem,999,3454.05,6,2,FARMBR,sell
 71.08,22001,Furious Gem,999,3454.05,6,1,INeedADollar,cheap stuff
 71.08,22001,Furious Gem,999,3454.05,6,3,cheapstuffsell,cheap
-69.51,22000,FieryGem,999,3276.68,8,4,Nikoz,Selling Stuff For CHEAP!!!!!!!
-69.48,22000,FieryGem,1000,3276.68,8,2,xJewel,cheap gems etc
+69.87,22000,FieryGem,1000,3319.25,7,2,xJewel,cheap gems etc
 68.18,25481,Red Dye,500,1571.43,3,42,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 68.04,22004,Shining Gem,1000,3129.0,6,1,LazzzyBee,CHEAP
 66.41,28458,Ice Sealed Staff of the Sphinx,6999,20838.89,7,1,xCrossex,LEAF  SEAL  SWORD APP
 66.04,28456,Ice Sealed Robe of the Sphinx,20000,58888.75,4,1,Swird,Storm/Treibal/Sphinx/Steel
+64.4,28436,Fire Sealed Staff of Evanescence,8500,23875.0,4,1,bowstalls,SS 6Acc 1agi/fire sealed 3Pages
 61.54,25497,Blue Colorant,2500,6500.0,3,2,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 60.4,25495,Green Colorant,2500,6313.56,3,5,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 60.0,28126,Cleric Cap,10000,25000.0,4,1,TocoDeJegue,Blueprint - Ref - gem - roar
@@ -31,9 +31,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.75,26588,Potion of Eagle,1000,2424.17,7,1,ReiGnomio,O_O
 58.11,28326,Divine Grace Cap,29990,71584.14,6,1,Merchanty,Staff App|Salmon|Cleric Cap +Spr
 58.09,28326,Divine Grace Cap,30000,71584.14,6,1,Lune,Cheap Items
+57.32,28444,Fire Sealed Bellow of Evanescence,5000,11714.29,5,1,Lune,Cheap Items
 56.57,22001,Furious Gem,1500,3454.05,6,1,HunterKim,SDasdasd
 56.5,22006,Spirit Gem,3000,6895.96,7,6,Revolver,gem of rage/spirit/shining/lion
-55.56,28444,Fire Sealed Bellow of Evanescence,5000,11250.0,6,1,Lune,Cheap Items
 53.84,26595,Standard Explosive Ball,1000,2166.5,3,3,SeventhHeaven,Lantern/Stones/Cards etc
 53.76,26594,Novice Explosive Ball,350,756.87,3,3,BlackSsBank,Flash Bomb / Grenade / Novic Bal
 53.53,26326,Elven Royal Signet,850,1829.25,11,11,TocoDeJegue,Blueprint - Ref - gem - roar
@@ -42,10 +42,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
 52.16,25439,Incantation Stone,500,1045.17,4,1,CStal1,sell
 52.16,25439,Incantation Stone,500,1045.17,4,2,vendedolmax,2000
+52.06,22003,Glowing Gem,999,2083.65,6,2,CStal1,sell
 52.02,28458,Ice Sealed Staff of the Sphinx,9999,20838.89,7,1,BjornIronside,@@@@@@@@
 52.02,28458,Ice Sealed Staff of the Sphinx,9999,20838.89,7,1,Electricman1,Cheap Cheap Cheap Cheapiningssss
 52.02,28458,Ice Sealed Staff of the Sphinx,9999,20838.89,7,1,CStal1,sell
 52.01,28458,Ice Sealed Staff of the Sphinx,10000,20838.89,7,1,freestuffcomevis,cheap gear
-51.84,22003,Glowing Gem,999,2074.52,6,2,CStal1,sell
-51.08,28446,Fire Sealed Bow of Evanescence,9400,19214.5,6,1,bowstalls,SS 6Acc 1agi/fire sealed 3Pages
+51.36,28446,Fire Sealed Bow of Evanescence,9400,19326.71,6,1,bowstalls,SS 6Acc 1agi/fire sealed 3Pages
 50.37,28448,Fire Sealed Cloak of Evanescence,16999,34249.75,4,1,IchiShiki,all in one place
