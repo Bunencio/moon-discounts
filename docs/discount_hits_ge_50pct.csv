@@ -1,23 +1,25 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-96.78,26564,Meditation Potion,25,777.36,3,200,TuoTuo,Cleaning BANK
+97.31,26564,Meditation Potion,20,742.7,3,15,Skills,Free     Free     Free     Free
+96.63,26564,Meditation Potion,25,742.7,3,200,TuoTuo,Cleaning BANK
 91.92,28440,Fire Sealed Roar of Evanescence,6000,74280.0,4,1,Nixm,Lv50 ALL CLASSES CHEAP AF!!!!!!!
 91.92,28440,Fire Sealed Roar of Evanescence,6000,74280.0,4,1,Nixm,Lv50 ALL CLASSES CHEAP AF!!!!!!!
 91.53,25493,Orange Colorant,350,4133.75,3,2,cheapstuffsell,cheap
 89.95,25440,Evanescence Stone,99,985.28,5,3,CStal1,sell
-88.42,22001,Furious Gem,400,3454.05,6,1,TocoDeJegue,Blueprint - Ref - gem - roar
+88.05,22001,Furious Gem,400,3348.02,6,1,TocoDeJegue,Blueprint - Ref - gem - roar
 87.35,28440,Fire Sealed Roar of Evanescence,9400,74280.0,4,1,bowstalls,SS 6Acc 1agi/fire sealed 3Pages
-85.52,22001,Furious Gem,500,3454.05,6,1,LazzzyBee,CHEAP
+85.07,22001,Furious Gem,500,3348.02,6,1,LazzzyBee,CHEAP
 79.8,25440,Evanescence Stone,199,985.28,5,8,BL4CKM4RK3T,buy me plz  im broke
 74.54,25485,Cyan Dye,500,1963.86,3,54,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 71.31,28458,Ice Sealed Staff of the Sphinx,5000,17428.0,6,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
-71.08,22001,Furious Gem,999,3454.05,6,2,FARMBR,sell
-71.08,22001,Furious Gem,999,3454.05,6,1,INeedADollar,cheap stuff
-71.08,22001,Furious Gem,999,3454.05,6,3,cheapstuffsell,cheap
+70.16,22001,Furious Gem,999,3348.02,6,2,FARMBR,sell
+70.16,22001,Furious Gem,999,3348.02,6,1,INeedADollar,cheap stuff
+70.16,22001,Furious Gem,999,3348.02,6,3,cheapstuffsell,cheap
 69.87,22000,FieryGem,1000,3319.25,7,2,xJewel,cheap gems etc
 68.88,26589,Potion of Bull,800,2570.55,7,12,xTrueHistory,GPS/PPS/Skating/Islancard/Potion
 68.18,25481,Red Dye,500,1571.43,3,42,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 68.04,22004,Shining Gem,1000,3129.0,6,1,LazzzyBee,CHEAP
 62.62,28462,Ice Sealed Staff of Enigma,20000,53499.75,4,1,Chad,Cheap
+61.9,28476,Ice Sealed Kris of the Sphinx,25000,65624.62,6,1,Vendedor,Promotion
 61.54,25497,Blue Colorant,2500,6500.0,3,2,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 61.1,26589,Potion of Bull,1000,2570.55,7,6,amiix,Universe PF JC GPS C-DW GD2 PpS
 60.87,28456,Ice Sealed Robe of the Sphinx,20000,51111.0,4,1,Chad,Cheap
@@ -36,17 +38,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.72,26588,Potion of Eagle,1000,2365.22,8,1,ReiGnomio,O_O
 57.52,28446,Fire Sealed Bow of Evanescence,9400,22126.33,8,1,bowstalls,SS 6Acc 1agi/fire sealed 3Pages
 57.32,28444,Fire Sealed Bellow of Evanescence,5000,11714.29,5,1,Lune,Cheap Items
-56.57,22001,Furious Gem,1500,3454.05,6,1,HunterKim,SDasdasd
 55.95,28126,Cleric Cap,8875,20145.83,6,1,Meguminn,EXPLOOOSIOOONN!!! - STRIKING GEM
-53.84,26595,Standard Explosive Ball,1000,2166.5,3,3,SeventhHeaven,Scrolls/Coins/Lantern etc
+55.2,22001,Furious Gem,1500,3348.02,6,7,Vendedor,Promotion
+55.2,22001,Furious Gem,1500,3348.02,6,1,HunterKim,SDasdasd
 53.76,26594,Novice Explosive Ball,350,756.87,3,3,BlackSsBank,Flash Bomb / Grenade / Novic Bal
-53.51,22006,Spirit Gem,3000,6452.52,7,14,voyo,WHOLESALE!
-53.51,22006,Spirit Gem,3000,6452.52,7,6,Revolver,gem of rage/spirit/shining/lion
 52.98,22003,Glowing Gem,999,2124.53,7,2,CStal1,sell
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
+52.91,22006,Spirit Gem,3000,6370.32,7,3,Vendedor,Promotion
+52.91,22006,Spirit Gem,3000,6370.32,7,14,voyo,WHOLESALE!
+52.91,22006,Spirit Gem,3000,6370.32,7,6,Revolver,gem of rage/spirit/shining/lion
 52.16,25439,Incantation Stone,500,1045.17,4,1,CStal1,sell
 52.16,25439,Incantation Stone,500,1045.17,4,2,vendedolmax,2000
 51.91,26326,Elven Royal Signet,850,1767.64,13,11,TocoDeJegue,Blueprint - Ref - gem - roar
 50.91,28411,Staff of Incantation,135000,275000.0,4,1,CHEAPSTALL,AMI APPAREL SET/SEAL60 CLE ARMOR
 50.37,28448,Fire Sealed Cloak of Evanescence,16999,34249.75,4,1,IchiShiki,all in one place
 50.36,28126,Cleric Cap,10000,20145.83,6,1,TocoDeJegue,Blueprint - Ref - gem - roar
+50.04,26595,Standard Explosive Ball,999,1999.71,4,3,Skills,Free     Free     Free     Free
