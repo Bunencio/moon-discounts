@@ -17,11 +17,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.78,28458,Ice Sealed Staff of the Sphinx,9999,36727.89,8,1,Electricman1,DemoSoul UnivPurseFrag/RefGem
 72.78,28458,Ice Sealed Staff of the Sphinx,9999,36727.89,8,1,CStal1,sell
 72.77,28458,Ice Sealed Staff of the Sphinx,10000,36727.89,8,1,freestuffcomevis,cheap gear
-72.51,26589,Potion of Bull,700,2545.95,8,12,xTrueHistory,GPS/Jackpot/PPS/Skating/Potions
+72.44,26589,Potion of Bull,700,2539.97,8,12,xTrueHistory,GPS/Jackpot/PPS/Skating/Potions
 70.83,22001,Furious Gem,999,3424.93,8,2,FARMBR,sell
 70.83,22001,Furious Gem,999,3424.93,8,1,INeedADollar,cheap stuff
 70.83,22001,Furious Gem,999,3424.93,8,3,cheapstuffsell,cheap
-68.58,26589,Potion of Bull,800,2545.95,8,1,HyjoSeller,Venha Ver
+68.5,26589,Potion of Bull,800,2539.97,8,1,HyjoSeller,Venha Ver
 68.18,25481,Red Dye,500,1571.43,3,42,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 67.87,22004,Shining Gem,1000,3112.66,6,1,LazzzyBee,CHEAP
 62.62,28462,Ice Sealed Staff of Enigma,20000,53499.75,4,1,Chad,Cheap
@@ -29,7 +29,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.54,25497,Blue Colorant,2500,6500.0,3,2,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 60.87,28456,Ice Sealed Robe of the Sphinx,20000,51111.0,4,1,Chad,Cheap
 60.87,28456,Ice Sealed Robe of the Sphinx,20000,51111.0,4,1,Swird,Storm/Treibal/Sphinx/Steel
-60.72,26589,Potion of Bull,1000,2545.95,8,6,amiix,Universe PF JC GPS C-DW GD2 PpS
+60.63,26589,Potion of Bull,1000,2539.97,8,2,corvios,STUFF
+60.63,26589,Potion of Bull,1000,2539.97,8,6,amiix,Universe PF JC GPS C-DW GD2 PpS
 60.4,25495,Green Colorant,2500,6313.56,3,5,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 59.73,25496,Cyan Colorant.,2500,6208.33,3,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 59.4,25479,Phyllis Hairstyle Book,3000,7388.89,3,11,VERTIGO,HAIR  STYLE DYE COLORANT GEL
@@ -71,4 +72,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.36,25439,Incantation Stone,500,1049.6,4,2,vendedolmax,2000
 51.97,26326,Elven Royal Signet,850,1769.65,12,11,TocoDeJegue,Blueprint - Ref - gem - roar
 50.91,28411,Staff of Incantation,135000,275000.0,4,1,CHEAPSTALL,AMI APPAREL SET/SEAL60 CLE ARMOR
+50.54,26591,Potion of Lion,1500,3033.02,9,1,corvios,STUFF
 50.36,28126,Cleric Cap,10000,20145.83,6,1,TocoDeJegue,Blueprint - Ref - gem - roar
