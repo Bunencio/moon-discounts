@@ -11,9 +11,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.81,28412,Earth Sealed Tattoo of the Cursed Warrior,1990,7597.4,5,1,SirCumcision,Lv50 ACC Ring / Lv 50 SS
 73.39,30121,Vial of Accuracy Reset,1500,5636.36,5,4,Yennefer,GPS LBP CLOUD ISLAND EVA EXPSTON
 71.16,25440,Evanescence Stone,250,866.73,6,20,HyjoSeller,DEU A LOUCA NO GERENTE
+71.09,26589,Potion of Bull,750,2594.28,12,3,Kinyu,Chaos Jewel Cheap
 68.67,22003,Glowing Gem,800,2553.34,11,2,TocoDeJegue,Potions - W8less - Blueprint
-65.92,26590,Potion of Soul,1000,2934.37,5,2,TocoDeJegue,Potions - W8less - Blueprint
-65.77,26591,Potion of Lion,1000,2921.12,13,2,TocoDeJegue,Potions - W8less - Blueprint
+65.78,26590,Potion of Soul,1000,2922.13,5,1,Kinyu,Chaos Jewel Cheap
+65.78,26590,Potion of Soul,1000,2922.13,5,2,TocoDeJegue,Potions - W8less - Blueprint
 65.25,2301,,10000,28777.5,3,1,XiXi0n,CHEEEEEEEEEEEEAAAAAAAP
 64.41,22001,Furious Gem,1400,3933.26,10,1,Anuel,last Armor of Enigma xD
 63.64,28035,Solar Shield,9999,27499.5,4,1,TTKillGirlTT,Universe/ Shield / Equips 50-60
@@ -22,8 +23,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.79,22003,Glowing Gem,950,2553.34,11,1,lamamandoski,rasta courage
 62.5,28442,Fire Sealed Coat of Evanescence,5000,13332.22,5,1,Friereeen,LVL 50 sealed items free
 61.86,22001,Furious Gem,1500,3933.26,10,5,GrimDarkness,Cleaning /Potion/Gems/FB/SM/PET
-61.64,26589,Potion of Bull,1000,2606.55,11,3,ReiGnomio,O_O
-61.64,26589,Potion of Bull,1000,2606.55,11,1,TocoDeJegue,Potions - W8less - Blueprint
+61.45,26589,Potion of Bull,1000,2594.28,12,3,ReiGnomio,O_O
+61.45,26589,Potion of Bull,1000,2594.28,12,1,TocoDeJegue,Potions - W8less - Blueprint
 60.91,26588,Potion of Eagle,1000,2558.28,11,1,ReiGnomio,O_O
 60.91,26588,Potion of Eagle,1000,2558.28,11,2,TocoDeJegue,Potions - W8less - Blueprint
 60.87,22003,Glowing Gem,999,2553.34,11,5,CStal1,sell
@@ -42,7 +43,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.34,22006,Spirit Gem,3000,6429.56,7,12,Revolver,gem of rage/spirit/shining/lion
 52.94,25427,Chest of Dark Swamp,5000,10625.0,3,1,Stellar,Variety Shop
 52.94,28155,Steel Platemail,5000,10625.0,3,1,Swird,Storm/Treibal/Sphinx/Steel
-52.63,25525,,450000,949998.36,3,1,akazaa,GO BUY
 51.76,25439,Incantation Stone,500,1036.52,4,1,CStal1,sell
 51.76,25439,Incantation Stone,500,1036.52,4,4,vendedolmax,2000
+51.13,25525,,450000,920831.83,4,1,akazaa,GO BUY
 50.66,25258,Spirit Feather,500,1013.37,3,26,sstido,selling
