@@ -23,7 +23,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.62,28462,Ice Sealed Staff of Enigma,20000,53499.75,4,1,Chad,Cheap
 61.79,28326,Divine Grace Cap,30000,78516.5,5,1,Lune,Cheap Items
 60.89,25497,Blue Colorant,2500,6392.16,4,2,VERTIGO,HAIR  STYLE DYE COLORANT GEL
-60.48,22006,Spirit Gem,2500,6325.28,7,6,Revolver,flashbombs/spirit/shining/lion
+60.48,22006,Spirit Gem,2500,6325.17,8,6,Revolver,flashbombs/spirit/shining/lion
 60.4,25495,Green Colorant,2500,6313.56,3,5,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 59.82,28411,Staff of Incantation,110000,273750.0,4,1,ZafirRose,cleric gpd jade gen
 59.73,25496,Cyan Colorant.,2500,6208.33,3,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
@@ -38,26 +38,26 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.29,28412,Earth Sealed Tattoo of the Cursed Warrior,3999,8749.25,4,1,TheMystic,- NICE SUFF -
 54.02,26588,Potion of Eagle,1000,2174.99,7,6,amiix,Universe PF JC GPS C-DW GD2 PpS
 54.02,26588,Potion of Eagle,1000,2174.99,7,1,ReiGnomio,O_O
-52.57,22006,Spirit Gem,3000,6325.28,7,3,Vendedor,Promotion
-52.57,22006,Spirit Gem,3000,6325.28,7,14,voyo,WHOLESALE!
-52.28,2301,,10000,20957.72,5,1,XiXi0n,cheap app
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,Djay,>> Make the Best Cap <<
-52.28,2301,,10000,20957.72,5,1,CaloNord,de todo todo
+52.96,2301,,10000,21259.13,6,1,XiXi0n,cheap app
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,Djay,>> Make the Best Cap <<
+52.96,2301,,10000,21259.13,6,1,CaloNord,de todo todo
+52.59,22006,Spirit Gem,2999,6325.17,8,14,voyo,ug frags - GPS - bless CHEAP !!
+52.57,22006,Spirit Gem,3000,6325.17,8,3,Vendedor,Promotion
 51.15,25258,Spirit Feather,149,305.01,6,20,zHeaven,BUY ITS FOR YOU
 51.05,30102,1000 Reputation Scroll,4800,9806.56,6,2,Gryffindor,GPS/PPS/SkatingPot/repu/JACKPOT
 50.68,28411,Staff of Incantation,135000,273750.0,4,1,CHEAPSTALL,AMI APPAREL SET/SEAL60 CLE ARMOR
