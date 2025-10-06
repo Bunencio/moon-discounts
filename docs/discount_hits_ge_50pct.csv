@@ -2,7 +2,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 92.58,28440,Fire Sealed Roar of Evanescence,5500,74100.0,4,1,bowstalls,6acc+1agi SSboots/40-60gear3Page
 89.88,28440,Fire Sealed Roar of Evanescence,7500,74100.0,4,1,Nixm,Lv50  Items
 89.88,28440,Fire Sealed Roar of Evanescence,7500,74100.0,4,1,Nixm,Lv50  Items
-87.61,22000,FieryGem,599,4836.48,7,2,TheMystic,- NICE SUFF -
+87.8,22000,FieryGem,599,4910.82,7,1,TheMystic,- NICE SUFF -
 87.2,28458,Ice Sealed Staff of the Sphinx,5000,39055.1,8,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
 84.36,25497,Blue Colorant,1000,6392.16,4,1,Traffy,FFDKSGJHDFSJKHGKDJFSGHJKFDG
 76.13,25493,Orange Colorant,1000,4189.87,3,1,Traffy,FFDKSGJHDFSJKHGKDJFSGHJKFDG
@@ -16,6 +16,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.18,26589,Potion of Bull,700,2200.11,11,12,xTrueHistory,JadeFragment/Pots/LBS
 66.17,28456,Ice Sealed Robe of the Sphinx,20000,59111.0,5,1,Chad,Cheap
 63.64,26589,Potion of Bull,800,2200.11,11,1,HyjoSeller,Venha Ver
+63.64,28035,Solar Shield,9999,27499.5,4,1,TTKillGirlTT,SEALED  EQUIPS   50/ 60
 61.59,28458,Ice Sealed Staff of the Sphinx,15000,39055.1,8,1,Sauronn,<?><??><?>
 61.59,28458,Ice Sealed Staff of the Sphinx,15000,39055.1,8,1,AoiTodo,Promotion
 60.94,28476,Ice Sealed Kris of the Sphinx,25000,63999.67,5,1,Vendedor,Promotion
@@ -26,7 +27,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.73,25496,Cyan Colorant.,2500,6208.33,3,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 59.63,28403,Blade of Incantation,110000,272500.0,3,1,PublicWin,BOI  Dragon Fruit  Str Pet
 58.78,28470,Ice Sealed Rifle of Enigma,20000,48518.33,3,1,Asus,SS
-58.62,28436,Fire Sealed Staff of Evanescence,12000,29000.0,3,1,Elle,AA
 55.42,28446,Fire Sealed Bow of Evanescence,10000,22430.78,8,1,zWhiteBeard,cheap equips
 54.6,25390,Mermaid Heart,100,220.27,5,8,BARBANEGRA,AFK STALL
 54.55,26589,Potion of Bull,1000,2200.11,11,2,corvios,STUFF
@@ -53,3 +53,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.4,22001,Furious Gem,1500,3218.66,5,4,Gryffindor,GPS/Jackpot/pots
 53.4,22001,Furious Gem,1500,3218.66,5,1,HunterKim,SDasdasd
 50.68,28411,Staff of Incantation,135000,273750.0,4,1,CHEAPSTALL,AMI APPAREL SET/SEAL60 CLE ARMOR
+50.01,28430,Fire Sealed Robe of Malediction,3999,7999.67,5,1,TheMystic,- NICE SUFF -
