@@ -10,8 +10,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,28403,Blade of Incantation,Kalista,crus qui ting,99999,208749.5,108750.5,1,108750.5,52.1,6
 2025-10-06,28403,Blade of Incantation,Kalista,crus qui ting,99999,208749.5,108750.5,1,108750.5,52.1,6
 2025-10-06,28476,Ice Sealed Kris of the Sphinx,freestuffcomevis,cheap gear,30000,58571.14,28571.14,1,28571.14,48.78,6
-2025-10-06,22003,Glowing Gem,Look7,ty,1111,2138.75,1027.75,123,126413.25,48.05,6
 2025-10-06,28403,Blade of Incantation,PublicWin,BOI  Dragon Fruit  Str Pet,110000,208749.5,98749.5,1,98749.5,47.31,6
+2025-10-06,22003,Glowing Gem,Look7,ty,1111,2100.23,989.23,123,121674.77,47.1,5
 2025-10-06,28476,Ice Sealed Kris of the Sphinx,ThornLey,gold,35000,58571.14,23571.14,1,23571.14,40.24,6
 2025-10-06,28474,Ice Sealed Mantle of the Sphinx,8yominorr,weightless,50000,82000.0,32000.0,1,32000.0,39.02,3
 2025-10-06,26588,Potion of Eagle,Kerem,S> cheap stat pots,1500,2357.34,857.34,35,30006.83,36.37,11
@@ -51,7 +51,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,26559,Cooked Crab,Charms,Tilapia|Codfish|Salmon|Crab,1500,1783.84,283.84,199,56484.53,15.91,6
 2025-10-06,26559,Cooked Crab,vnt4,Octopus - Crab Very Cheap,1500,1783.84,283.84,131,37183.28,15.91,6
 2025-10-06,26588,Potion of Eagle,GeorgeFloyd,zzzzzz,2000,2357.34,357.34,150,53600.71,15.16,11
-2025-10-06,22010,Gem of Rage,Calamitas,gem,1700000,1999999.8,299999.8,1,299999.8,15.0,3
 2025-10-06,26568,Skating Potion,buyme,CHAOS JEWEL!,39999,46886.51,6887.51,5,34437.55,14.69,9
 2025-10-06,26568,Skating Potion,Fenrir,1231313131,40000,46886.51,6886.51,5,34432.55,14.69,9
 2025-10-06,30020,Class Changing Card,conqstall2,Race/class change heavycr growth,250000,292856.57,42856.57,1,42856.57,14.63,3
@@ -65,9 +64,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,30102,1000 Reputation Scroll,Saller,ty,7777,8824.96,1047.96,99,103748.05,11.87,8
 2025-10-06,30102,1000 Reputation Scroll,Saller,ty,7777,8824.96,1047.96,22,23055.12,11.87,8
 2025-10-06,27006,Bunny Potion,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,987,1118.99,131.99,200,26398.35,11.8,3
+2025-10-06,22000,FieryGem,Look7,ty,3500,3966.56,466.56,105,48988.94,11.76,7
 2025-10-06,25452,Rock Gem Fragment,Pots,Tuna/Crab-- Golden Rock/R-J frag,85000,96261.67,11261.67,5,56308.33,11.7,9
 2025-10-06,25452,Rock Gem Fragment,IchiShiki,all in one place,84999,96261.67,11262.67,3,33788.0,11.7,9
-2025-10-06,22000,FieryGem,Look7,ty,3500,3928.16,428.16,105,44957.18,10.9,7
 2025-10-06,27034,Grenade Lv2,Space,GRENADE LV2,2500,2804.73,304.73,117,35652.97,10.86,6
 2025-10-06,30022,Buffing Card,Potionn,Buffing Cards Buffing Cards Buff,39999,44582.88,4583.88,11,50422.62,10.28,3
 2025-10-06,26576,Iron Brew,Bankaquaq,Radiation/FlashBombs/Brew,6950,7741.75,791.75,158,125096.54,10.23,9
@@ -89,7 +88,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,25451,Jade Gem Fragment,FreePalestine1,sell imps,69999,74396.47,4397.47,6,26384.82,5.91,11
 2025-10-06,25451,Jade Gem Fragment,Pots,Tuna/Crab-- Golden Rock/R-J frag,69999,74396.47,4397.47,5,21987.35,5.91,11
 2025-10-06,30191,1000 Supporter Points Voucher,MrFarm,CHEAPEST STALL IN TOWN,44000,46692.14,2692.14,49,131915.0,5.77,3
-2025-10-06,27019,Purple Pirate Scroll,MatsBk,S>GPS/PPS/PBS/RBS/more,4100,4341.5,241.5,99,23908.65,5.56,12
 2025-10-06,26572,Inferno Potion,BPCRAFT,IRON BREW/INFERNO/GUARDIAN CHEAP,7950,8412.65,462.65,143,66159.45,5.5,10
 2025-10-06,25426,Universe Purse Fragment.,Mikosita,SELL JACKPOT/GPS/KAL/REF/IMPS,280000,295952.1,15952.1,4,63808.38,5.39,6
 2025-10-06,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,7299,7712.47,413.47,105,43414.34,5.36,8
@@ -112,7 +110,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,26572,Inferno Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,8200,8412.65,212.65,126,26794.34,2.53,10
 2025-10-06,22009,Gem of Colossus,Bpsopen,UG Colo Dance of Eva Clean,1740000,1784374.88,44374.88,1,44374.88,2.49,5
 2025-10-06,27017,Sorcerer's Wine,Puki,Super cheap pots win ca go go go,11600,11887.36,287.36,76,21839.35,2.42,6
-2025-10-06,30139,100x Crystal,Donaldy*,CHEAP IMPS QUITTING PRICE,84000,85425.95,1425.95,78,111224.07,1.67,9
+2025-10-06,30139,100x Crystal,Donaldy*,CHEAP IMPS QUITTING PRICE,84000,85462.2,1462.2,72,105278.46,1.71,7
 2025-10-06,26573,Demonic Potion,Puki,Super cheap pots win ca go go go,17200,17480.27,280.27,85,23823.24,1.6,4
 2025-10-06,27017,Sorcerer's Wine,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,11700,11887.36,187.36,178,33350.05,1.58,6
-2025-10-06,30139,100x Crystal,Biskate,imps,85000,85425.95,425.95,80,34075.96,0.5,9
