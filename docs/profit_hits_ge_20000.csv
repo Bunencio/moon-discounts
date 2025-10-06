@@ -24,10 +24,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,28326,Divine Grace Cap,EIlIIliah,3424,45555,78516.5,32961.5,1,32961.5,41.98,5
 2025-10-06,28326,Divine Grace Cap,EIlIIliah,3424,50000,78516.5,28516.5,1,28516.5,36.32,5
 2025-10-06,28476,Ice Sealed Kris of the Sphinx,ThornLey,gold,39000,60571.14,21571.14,1,21571.14,35.61,6
-2025-10-06,28403,Blade of Incantation,NecroManS,@@@,179999,273333.0,93334.0,1,93334.0,34.15,5
-2025-10-06,28403,Blade of Incantation,Kasyadex,FAIRY DUST/EVA POWER N ROCK/SWRD,180000,273333.0,93333.0,1,93333.0,34.15,5
 2025-10-06,28476,Ice Sealed Kris of the Sphinx,freestuffcomevis,cheap gear,40000,60571.14,20571.14,1,20571.14,33.96,6
 2025-10-06,25452,Rock Gem Fragment,FreePalestine1,sell imps   0_0,85000,128555.31,43555.31,1,43555.31,33.88,8
+2025-10-06,28403,Blade of Incantation,NecroManS,@@@,179999,271999.6,92000.6,1,92000.6,33.82,4
+2025-10-06,28403,Blade of Incantation,Kasyadex,FAIRY DUST/EVA POWER N ROCK/SWRD,180000,271999.6,91999.6,1,91999.6,33.82,4
 2025-10-06,25507,Expert Stone,SeventhHeaven,Scrolls/Coins/Lantern etc,1000,1503.2,503.2,99,49817.23,33.48,6
 2025-10-06,25507,Expert Stone,AAA123,1231313123123,1000,1503.2,503.2,99,49817.23,33.48,6
 2025-10-06,25452,Rock Gem Fragment,Mikosita,SELL IMPS/JACKPOT/REF/KAL/GPS/,88000,128555.31,40555.31,4,162221.22,31.55,8
@@ -35,8 +35,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,25452,Rock Gem Fragment,BuyingSta4ll7,KAL | PPS | GPS | JACK | FRAGS +,90000,128555.31,38555.31,1,38555.31,29.99,8
 2025-10-06,28460,Ice Sealed Robe of Enigma,Pipigirl27,Some cheap sht colo and more,50000,71088.4,21088.4,1,21088.4,29.67,5
 2025-10-06,26558,Cooked Salmon,Sell,Cooked Salmon Cheap,450,620.95,170.95,200,34190.3,27.53,4
-2025-10-06,28403,Blade of Incantation,NecroManS,@@@,199999,273333.0,73334.0,1,73334.0,26.83,5
 2025-10-06,30171,Ticket to Demonic World,dwtix,Elven Bunny pot's upd,390,531.64,141.64,200,28327.58,26.64,6
+2025-10-06,28403,Blade of Incantation,NecroManS,@@@,199999,271999.6,72000.6,1,72000.6,26.47,4
 2025-10-06,26591,Potion of Lion,Chupeteira,CHEAP RADIATION POTS Lv65 SS EQ!,2000,2715.98,715.98,117,83769.78,26.36,5
 2025-10-06,30102,1000 Reputation Scroll,Niggo,Buy will end soon,7299,9849.39,2550.39,8,20403.15,25.89,5
 2025-10-06,25451,Jade Gem Fragment,xTrueHistory,JadeFragment/Pots/LBS,70000,92032.26,22032.26,2,44064.52,23.94,7
@@ -47,7 +47,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,25452,Rock Gem Fragment,TheBigOne,Jade Rock Universe Fragments,100000,128555.31,28555.31,3,85665.92,22.21,8
 2025-10-06,25452,Rock Gem Fragment,Verso,free,99999,128555.31,28556.31,2,57112.61,22.21,8
 2025-10-06,25452,Rock Gem Fragment,DoaaPepa,D O N    P E P E,100000,128555.31,28555.31,2,57110.61,22.21,8
-2025-10-06,24039,Abyssal Wail Bow,M0Nster,Unsealed and sealed,95000,121666.67,26666.67,1,26666.67,21.92,3
 2025-10-06,26575,Guardian's Brew,Bankaquaq,Radiation/Flash Bombs/BrewS,600,756.51,156.51,198,30989.11,20.69,7
 2025-10-06,25451,Jade Gem Fragment,FreePalestine1,sell imps   0_0,73000,92032.26,19032.26,6,114193.55,20.68,7
 2025-10-06,22023,Green Jade,Humm,green jade aegis rock lv50 ms nk,249000,308466.2,59466.2,1,59466.2,19.28,4
