@@ -16,7 +16,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.18,26589,Potion of Bull,700,2200.11,11,12,xTrueHistory,JadeFragment/Pots/LBS
 66.17,28456,Ice Sealed Robe of the Sphinx,20000,59111.0,5,1,Chad,Cheap
 63.64,26589,Potion of Bull,800,2200.11,11,1,HyjoSeller,Venha Ver
-63.64,28035,Solar Shield,9999,27499.5,4,1,TTKillGirlTT,Universe / DOE / Equips 50-60/FB
 61.59,28458,Ice Sealed Staff of the Sphinx,15000,39055.1,8,1,Sauronn,<?><??><?>
 61.59,28458,Ice Sealed Staff of the Sphinx,15000,39055.1,8,1,AoiTodo,Promotion
 60.94,28476,Ice Sealed Kris of the Sphinx,25000,63999.67,5,1,Vendedor,Promotion
@@ -27,6 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.73,25496,Cyan Colorant.,2500,6208.33,3,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 59.63,28403,Blade of Incantation,110000,272500.0,3,1,PublicWin,BOI  Dragon Fruit  Str Pet
 58.78,28470,Ice Sealed Rifle of Enigma,20000,48518.33,3,1,Asus,SS
+58.62,28436,Fire Sealed Staff of Evanescence,12000,29000.0,3,1,Elle,AA
 55.42,28446,Fire Sealed Bow of Evanescence,10000,22430.78,8,1,zWhiteBeard,cheap equips
 54.6,25390,Mermaid Heart,100,220.27,5,8,BARBANEGRA,AFK STALL
 54.55,26589,Potion of Bull,1000,2200.11,11,2,corvios,STUFF
