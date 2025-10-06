@@ -10,14 +10,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.15,25493,Orange Colorant,1000,3867.95,3,1,Traffy,FFDKSGJHDFSJKHGKDJFSGHJKFDG
 74.15,28154,Iron Platemail,2999,11599.8,4,1,TagBaligya,Gaunts Armor Shield Manu Items
 70.91,25522,,50,171.87,4,3,cheapcheapcheap,cheap
-70.09,26589,Potion of Bull,700,2340.49,16,14,xTrueHistory,Jackpot/GPS/JadeFragment/Potions
+70.09,26589,Potion of Bull,700,2340.04,16,14,xTrueHistory,Jackpot/GPS/JadeFragment/Potions
 69.56,22001,Furious Gem,999,3281.47,8,3,cheapstuffsell,cheap
 69.56,22001,Furious Gem,999,3281.47,8,2,FARMBR,sell
 69.53,22001,Furious Gem,1000,3281.47,8,1,EvilRian,lucky pax and more rererer
 69.53,22001,Furious Gem,1000,3281.47,8,1,CaloNord,de todo todo
 66.17,28456,Ice Sealed Robe of the Sphinx,20000,59111.0,5,1,Chad,Cheap
 65.83,22006,Spirit Gem,2500,7315.89,7,6,Revolver,flashbombs/spirit/shining/lion
-65.82,26589,Potion of Bull,800,2340.49,16,1,HyjoSeller,Venha Ver
+65.81,26589,Potion of Bull,800,2340.04,16,1,HyjoSeller,Venha Ver
 65.08,22006,Spirit Gem,2555,7315.89,7,14,voyo,sale bobokar
 63.28,27021,Green Pirate Scroll,150,408.54,10,3,Destinys,@@@@
 62.08,28458,Ice Sealed Staff of the Sphinx,15000,39555.1,9,1,AoiTodo,Promotion
@@ -27,11 +27,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.98,28126,Cleric Cap,8875,22175.0,5,1,Meguminn,EXPLOOOSIOOONN!!! - STRIKING GEM
 59.73,25496,Cyan Colorant.,2500,6208.33,3,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 58.99,22006,Spirit Gem,3000,7315.89,7,3,Vendedor,Promotion
-58.78,28470,Ice Sealed Rifle of Enigma,20000,48518.33,3,1,Asus,SS
 57.58,26588,Potion of Eagle,1000,2357.34,11,6,amiix,Universe PF JC GPS C-DW GD2 PpS
 57.32,28476,Ice Sealed Kris of the Sphinx,25000,58571.14,6,1,Vendedor,Promotion
-57.27,26589,Potion of Bull,1000,2340.49,16,2,corvios,STUFF
-57.27,26589,Potion of Bull,1000,2340.49,16,6,amiix,Universe PF JC GPS C-DW GD2 PpS
+57.27,26589,Potion of Bull,1000,2340.04,16,2,corvios,STUFF
+57.27,26589,Potion of Bull,1000,2340.04,16,6,amiix,Universe PF JC GPS C-DW GD2 PpS
 55.1,28403,Blade of Incantation,110000,244999.67,5,1,PublicWin,BOI  Dragon Fruit  Str Pet
 54.6,25390,Mermaid Heart,100,220.27,5,8,BARBANEGRA,AFK STALL
 54.29,22001,Furious Gem,1500,3281.47,8,7,Vendedor,Promotion
