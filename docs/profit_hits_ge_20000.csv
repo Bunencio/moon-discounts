@@ -6,9 +6,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,28326,Divine Grace Cap,Merchanty,StaffApp|Divine|Salmon|Ph.Lantrn,149990,666663.33,516673.33,1,516673.33,77.5,3
 2025-10-06,28458,Ice Sealed Staff of the Sphinx,Electricman1,DemoSoul/UniPurseFrag/JadFrag/Re,9999,38394.67,28395.67,1,28395.67,73.96,8
 2025-10-06,28458,Ice Sealed Staff of the Sphinx,CStal1,sell,9999,38394.67,28395.67,1,28395.67,73.96,8
+2025-10-06,22006,Spirit Gem,Masteryi,sell 0_0,2400,7335.18,4935.18,6,29611.08,67.28,7
 2025-10-06,28456,Ice Sealed Robe of the Sphinx,Chad,Cheap,20000,59111.0,39111.0,1,39111.0,66.17,5
-2025-10-06,22006,Spirit Gem,Masteryi,sell 0_0,2400,6975.32,4575.32,13,59479.2,65.59,7
-2025-10-06,22006,Spirit Gem,voyo,sale bobokar,2555,6975.32,4420.32,14,61884.52,63.37,7
+2025-10-06,22006,Spirit Gem,voyo,sale bobokar,2555,7335.18,4780.18,14,66922.52,65.17,7
 2025-10-06,28326,Divine Grace Cap,MiLD,r,250000,666663.33,416663.33,1,416663.33,62.5,3
 2025-10-06,25439,Incantation Stone,Masteryi,sell 0_0,300,797.4,497.4,42,20890.75,62.38,3
 2025-10-06,28458,Ice Sealed Staff of the Sphinx,AoiTodo,Promotion,15000,38394.67,23394.67,1,23394.67,60.93,8
@@ -34,11 +34,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,28447,Bow of Evanescence,xJavux,o.o,1100000,1483333.0,383333.0,1,383333.0,25.84,3
 2025-10-06,26591,Potion of Lion,Chupeteira,CHEAP RADIATION POTS Lv65 SS EQ!,2000,2696.24,696.24,117,81460.36,25.82,10
 2025-10-06,26590,Potion of Soul,Kerem,S> cheap stat pots,1999,2679.79,680.79,30,20423.62,25.4,5
-2025-10-06,22011,Gemof Sout,LotokSell,DemoColos UgColo UgSoul REP,900000,1200000.0,300000.0,1,300000.0,25.0,4
 2025-10-06,25525,,buyme,CHAOS JEWEL!,449999,593749.75,143750.75,8,1150006.0,24.21,8
 2025-10-06,26589,Potion of Bull,Chupeteira,CHEAP RADIATION POTS Lv65 SS EQ!,2000,2557.46,557.46,79,44039.69,21.8,12
 2025-10-06,30102,1000 Reputation Scroll,iinerti,Jackpot/Repu1k/PPS/MVM/PBS/FBs++,7000,8766.47,1766.47,26,45928.15,20.15,9
-2025-10-06,22016,Demonic Gem of Sout,smoI,earth rock yellow jade de soul,1450000,1791428.43,341428.43,1,341428.43,19.06,4
 2025-10-06,28403,Blade of Incantation,NecroManS,@@@@@,199999,243332.67,43333.67,1,43333.67,17.81,5
 2025-10-06,25505,Standard Stone,VendedoraJequiti,STANDARD STONE / EXPERT STONE /+,2997,3646.09,649.09,99,64260.11,17.8,3
 2025-10-06,25505,Standard Stone,VendedoraJequiti,STANDARD STONE / EXPERT STONE /+,2997,3646.09,649.09,55,35700.06,17.8,3
@@ -76,6 +74,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,26559,Cooked Crab,Charms,Tilapia|Codfish|Salmon|Crab,1500,1639.7,139.7,200,27939.66,8.52,5
 2025-10-06,26559,Cooked Crab,Charms,Tilapia|Codfish|Salmon|Crab,1500,1639.7,139.7,199,27799.97,8.52,5
 2025-10-06,25431,Kal Runestone,BpBuyer,Cheapest Kal Jackpot   Frags,950000,1032827.82,82827.82,1,82827.82,8.02,6
+2025-10-06,22011,Gemof Sout,Seraphim,sell gems,1200000,1300000.0,100000.0,1,100000.0,7.69,3
 2025-10-06,22007,Gem of Striking,iFennec,DEMO GEM,1450000,1563888.89,113888.89,1,113888.89,7.28,6
 2025-10-06,26585,Blessed Potion,Cardano,Bless Pots Power of Black Dragon,104999,113036.23,8037.23,23,184856.29,7.11,9
 2025-10-06,26585,Blessed Potion,Embracer,STUFF,105000,113036.23,8036.23,7,56253.61,7.11,9
@@ -85,8 +84,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,26576,Iron Brew,GordanRamsay,Cheapest Iron  Inferno  Demonics,7300,7771.8,471.8,200,94359.76,6.07,9
 2025-10-06,26576,Iron Brew,GordanRamsay,Cheapest Iron  Inferno  Demonics,7300,7771.8,471.8,90,42461.89,6.07,9
 2025-10-06,25451,Jade Gem Fragment,Heracles,Cheapest Jade Gem Fragments,69900,74265.54,4365.54,10,43655.43,5.88,12
+2025-10-06,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,7299,7751.8,452.8,101,45732.76,5.84,8
 2025-10-06,30156,Jackpot Coin,MatsBk,S>STRIKING/PPS/PBS/JC/MORE,8800,9340.44,540.44,76,41073.52,5.79,13
-2025-10-06,25031,Refining Gem,FAIRYMARKET,SELL CHEAP SELL CHEAP SELL CHEAP,7299,7747.16,448.16,101,45263.73,5.78,8
 2025-10-06,22007,Gem of Striking,Meguminn,EXPLOOOSIOOONN!!! - STRIKING GEM,1475000,1563888.89,88888.89,1,88888.89,5.68,6
 2025-10-06,22012,Demonic Gem of Wind,iFennec,DEMO GEM,1444444,1528888.8,84444.8,1,84444.8,5.52,3
 2025-10-06,26572,Inferno Potion,BPCRAFT,IRON BREW/INFERNO/GUARDIAN CHEAP,7950,8412.65,462.65,143,66159.45,5.5,10
@@ -105,7 +104,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,30156,Jackpot Coin,Mikosita,SELL JACKPOT/GPS/KAL/REF/IMPS,8999,9340.44,341.44,166,56679.22,3.66,13
 2025-10-06,26576,Iron Brew,vnt3,Best Price Iron Brew Come here!,7499,7771.8,272.8,191,52104.57,3.51,9
 2025-10-06,26576,Iron Brew,vnt3,Best Price Iron Brew Come here!,7499,7771.8,272.8,76,20732.71,3.51,9
-2025-10-06,25031,Refining Gem,Mikosita,SELL JACKPOT/GPS/KAL/REF/IMPS,7500,7747.16,247.16,196,48442.52,3.19,8
+2025-10-06,25031,Refining Gem,Mikosita,SELL JACKPOT/GPS/KAL/REF/IMPS,7500,7751.8,251.8,196,49352.72,3.25,8
 2025-10-06,25431,Kal Runestone,Tank,kal /demonic colo / mvm / frags,999999,1032827.82,32828.82,3,98486.45,3.18,6
 2025-10-06,25431,Kal Runestone,Mikosita,SELL JACKPOT/GPS/KAL/REF/IMPS,999999,1032827.82,32828.82,2,65657.64,3.18,6
 2025-10-06,25431,Kal Runestone,Systembuff,Dem Strik/Kal/Sealeds,1000000,1032827.82,32827.82,1,32827.82,3.18,6
@@ -113,6 +112,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-06,30191,1000 Supporter Points Voucher,MrFarm,CHEAPEST STALL IN TOWN,44000,45430.29,1430.29,49,70084.34,3.15,3
 2025-10-06,30102,1000 Reputation Scroll,LotokSell,DemoColos UgColo UgSoul REP,8500,8766.47,266.47,99,26380.26,3.04,9
 2025-10-06,26585,Blessed Potion,Duna,bless,109999,113036.23,3037.23,8,24297.84,2.69,9
+2025-10-06,22016,Demonic Gem of Sout,Seraphim,sell gems,1800000,1848333.17,48333.17,4,193332.67,2.61,3
 2025-10-06,26572,Inferno Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,8200,8412.65,212.65,126,26794.34,2.53,10
 2025-10-06,27017,Sorcerer's Wine,Puki,Super cheap pots win ca go go go,11600,11887.36,287.36,76,21839.35,2.42,6
 2025-10-06,22009,Gem of Colossus,AAA123,1231313213123,1700000,1734999.91,34999.91,2,69999.82,2.02,6
