@@ -16,7 +16,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-07,26556,Cooked Tilapia,1TilapiaSELLER,90 GOLD TILAPIA HERE,90,223.71,133.71,200,26742.88,59.77,3
 2025-10-07,28476,Ice Sealed Kris of the Sphinx,ThornLey,gold,25000,61666.33,36666.33,1,36666.33,59.46,4
 2025-10-07,28476,Ice Sealed Kris of the Sphinx,Vendedor,Promotion,25000,61666.33,36666.33,1,36666.33,59.46,4
-2025-10-07,28403,Blade of Incantation,PublicWin,Uns BOI  60 Str Ring  Drgon Frut,110000,269999.5,159999.5,1,159999.5,59.26,3
+2025-10-07,28403,Blade of Incantation,PublicWin,60 STR Ring/Dragon Fruit/Uns BOI,110000,269999.5,159999.5,1,159999.5,59.26,3
 2025-10-07,28456,Ice Sealed Robe of the Sphinx,Swird,Storm/Sphinx/Bow55/Steel/Tribal,25000,53425.83,28425.83,1,28425.83,53.21,6
 2025-10-07,28458,Ice Sealed Staff of the Sphinx,freestuffcomevis,cheap gear,20000,41944.12,21944.12,1,21944.12,52.32,8
 2025-10-07,26556,Cooked Tilapia,FISHBANKER,120 COOKED TILAPIA CHEAPEST EVER,120,223.71,103.71,200,20742.88,46.36,3
@@ -57,13 +57,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-07,25452,Rock Gem Fragment,BL4CKM4RK3T,cheap stuff,89999,126410.08,36411.08,2,72822.15,28.8,8
 2025-10-07,25452,Rock Gem Fragment,BpBuyer,Cheapest Kal Jackpot   Frags,90000,126410.08,36410.08,1,36410.08,28.8,8
 2025-10-07,25422,Evanescence Power,Nikoz,SS/Rep/BP/Pots/Power come Buy!!!,5000,7014.77,2014.77,17,34251.03,28.72,6
-2025-10-07,30102,1000 Reputation Scroll,MatsBk,S>STRIKING/GPS/PPS/PBS/MORE,6200,8651.49,2451.49,25,61287.15,28.34,11
+2025-10-07,30102,1000 Reputation Scroll,MatsBk,S>STRIKING/GPS/PPS/PBS/MORE,6200,8660.14,2460.14,25,61503.45,28.41,10
 2025-10-07,28468,Ice Sealed Mantle of Enigma,Destinys,@@@@,65000,89999.4,24999.4,1,24999.4,27.78,5
 2025-10-07,28423,Mantle of the Cursed Flame,RanqueS,pricc,79999,108999.6,29000.6,1,29000.6,26.61,5
 2025-10-07,30168,Gyoza,BuyingSta4ll7,GPS | JEWEL | JACK | PURSE | PPS,18000,24265.78,6265.78,4,25063.11,25.82,3
 2025-10-07,26591,Potion of Lion,Kerem,S> cheap stat pots,1999,2677.55,678.55,34,23070.77,25.34,12
 2025-10-07,26591,Potion of Lion,Chupeteira,CHEAP RADIATION POTS Lv65 SS EQ!,2000,2677.55,677.55,117,79273.58,25.3,12
-2025-10-07,30102,1000 Reputation Scroll,Despair,H E L  L P O,6500,8651.49,2151.49,38,81756.47,24.87,11
+2025-10-07,30102,1000 Reputation Scroll,Despair,H E L  L P O,6500,8660.14,2160.14,38,82085.24,24.94,10
 2025-10-07,28447,Bow of Evanescence,xJavux,o.o,1100000,1462499.75,362499.75,1,362499.75,24.79,4
 2025-10-07,28327,Great Aqua Cap,Hades8,1231312313123213,1000000,1316666.67,316666.67,1,316666.67,24.05,3
 2025-10-07,25507,Expert Stone,VendedoraJequiti,STANDARD STONE / EXPERT STONE /+,998,1300.01,302.01,99,29898.55,23.23,3
@@ -71,20 +71,20 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-07,25507,Expert Stone,SeventhHeaven,Scrolls/Lantern etc,1000,1300.01,300.01,99,29700.55,23.08,3
 2025-10-07,25507,Expert Stone,AAA123,1231313213123,1000,1300.01,300.01,99,29700.55,23.08,3
 2025-10-07,25508,Demonic Gem Fragment,BpBuyer,Cheapest Kal Jackpot   Frags,90000,116758.83,26758.83,1,26758.83,22.92,6
+2025-10-07,26592,Flash Bomb,jujhjuh,FB / Purse Fragment  / +5 con Gl,949,1218.3,269.3,150,40394.33,22.1,19
 2025-10-07,25436,Chest of Demonic World II,pisslow,you rich im poor xD,42999,55124.5,12125.5,2,24251.0,22.0,4
-2025-10-07,26592,Flash Bomb,jujhjuh,FB / Purse Fragment  / +5 con Gl,949,1211.53,262.53,150,39379.77,21.67,19
 2025-10-07,25525,,buyme,CHEAP!~,399999,507249.7,107250.7,10,1072507.0,21.14,8
 2025-10-07,25525,,ii3,Jackpot/chaos frag/grenade/ball,400000,507249.7,107249.7,2,214499.4,21.14,8
 2025-10-07,25525,,Happyman,CHAOS JEWEL FRAGMENT 400K,400000,507249.7,107249.7,1,107249.7,21.14,8
 2025-10-07,25452,Rock Gem Fragment,Verso,free,99999,126410.08,26411.08,2,52822.15,20.89,8
 2025-10-07,25452,Rock Gem Fragment,DoaaPepa,D O N   P E P E,100000,126410.08,26410.08,2,52820.15,20.89,8
-2025-10-07,30102,1000 Reputation Scroll,iinerti,Jackpot/Repu1k/PPS/MVM/PBS/FBs++,7000,8651.49,1651.49,26,42938.64,19.09,11
+2025-10-07,30102,1000 Reputation Scroll,iinerti,Jackpot/Repu1k/PPS/MVM/PBS/FBs++,7000,8660.14,1660.14,26,43163.58,19.17,10
+2025-10-07,26575,Guardian's Brew,verkeufer,EL QUE NO COMPRE ES GAYYY!!!!!!!,600,740.05,140.05,146,20447.55,18.92,6
 2025-10-07,30156,Jackpot Coin,BuyingSta4ll7,GPS | JEWEL | JACK | PURSE | PPS,8000,9831.16,1831.16,21,38454.29,18.63,15
 2025-10-07,26589,Potion of Bull,Chupeteira,CHEAP RADIATION POTS Lv65 SS EQ!,2000,2445.95,445.95,79,35230.19,18.23,13
 2025-10-07,26589,Potion of Bull,asdqwdq,pps/boi+4/swordapp/seal 60,2000,2445.95,445.95,48,21405.69,18.23,13
-2025-10-07,26575,Guardian's Brew,Bankaquaq,Radiation/FB/Brew,600,731.39,131.39,158,20759.78,17.96,6
-2025-10-07,26592,Flash Bomb,ChocolateDaddy,Supplies ! Only Fair prices!,1000,1211.53,211.53,99,20941.65,17.46,19
-2025-10-07,26592,Flash Bomb,ChocolateDaddy,Supplies ! Only Fair prices!,1000,1211.53,211.53,98,20730.12,17.46,19
+2025-10-07,26592,Flash Bomb,ChocolateDaddy,Supplies ! Only Fair prices!,1000,1218.3,218.3,99,21611.26,17.92,19
+2025-10-07,26592,Flash Bomb,ChocolateDaddy,Supplies ! Only Fair prices!,1000,1218.3,218.3,98,21392.96,17.92,19
 2025-10-07,22011,Gemof Sout,Bpsopen,Dance of Eva UG Soul,1000000,1200000.0,200000.0,1,200000.0,16.67,5
 2025-10-07,25451,Jade Gem Fragment,Heracles,Cheapest Jade Gem Fragments,69900,82949.82,13049.82,7,91348.71,15.73,13
 2025-10-07,25451,Jade Gem Fragment,dogdogdog,Gps.jackpot.purple.pharaoh.growt,69990,82949.82,12959.82,3,38879.45,15.62,13
@@ -112,8 +112,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-07,25426,Universe Purse Fragment.,Pipigirl27,BLESS CHEAP | COLOSSUS CHEAP,280000,313599.76,33599.76,1,33599.76,10.71,8
 2025-10-07,30156,Jackpot Coin,MatsBk,S>STRIKING/GPS/PPS/PBS/MORE,8800,9831.16,1031.16,99,102084.53,10.49,15
 2025-10-07,22007,Gem of Striking,MatsBk,S>STRIKING/GPS/PPS/PBS/MORE,1400000,1563888.89,163888.89,1,163888.89,10.48,6
+2025-10-07,30102,1000 Reputation Scroll,Saller,ty,7777,8660.14,883.14,99,87430.65,10.2,10
 2025-10-07,25451,Jade Gem Fragment,ZafirRose,jade gps jackpot,74500,82949.82,8449.82,5,42249.08,10.19,13
-2025-10-07,30102,1000 Reputation Scroll,Saller,ty,7777,8651.49,874.49,99,86574.13,10.11,11
 2025-10-07,25431,Kal Runestone,Seller1,KAL - GEMS CHEAP!,925000,1026009.64,101009.64,1,101009.64,9.84,7
 2025-10-07,25451,Jade Gem Fragment,GokuVendedor,New Week RESTOCK,75000,82949.82,7949.82,3,23849.45,9.58,13
 2025-10-07,26585,Blessed Potion,Sellerxdxd,Cheap bless,101000,111295.81,10295.81,30,308874.16,9.25,12
@@ -127,7 +127,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-07,30156,Jackpot Coin,Cheap,asdasd,8999,9831.16,832.16,26,21636.08,8.46,15
 2025-10-07,30156,Jackpot Coin,DoaaPepa,D O N   P E P E,9000,9831.16,831.16,31,25765.86,8.45,15
 2025-10-07,22011,Gemof Sout,Seller1,KAL - GEMS CHEAP!,1100000,1200000.0,100000.0,1,100000.0,8.33,5
-2025-10-07,27034,Grenade Lv2,Space,GRENADE LV2,2500,2711.17,211.17,117,24706.91,7.79,9
+2025-10-07,27025,Radiation Lv1,sellerrr,GRENADE LV1 / RAD LV 1( BEST),2300,2502.14,202.14,144,29107.45,8.08,6
 2025-10-07,25426,Universe Purse Fragment.,BuyingSta4ll7,GPS | JEWEL | JACK | PURSE | PPS,290000,313599.76,23599.76,3,70799.28,7.53,8
 2025-10-07,25426,Universe Purse Fragment.,Electricman1,DemoSoul/UniPurseFrag/JadFrag/Re,289999,313599.76,23600.76,2,47201.52,7.53,8
 2025-10-07,25426,Universe Purse Fragment.,Agent0X,Purse Fragments,289999,313599.76,23600.76,2,47201.52,7.53,8
@@ -137,7 +137,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-07,25431,Kal Runestone,BpBuyer,Cheapest Kal Jackpot   Frags,950000,1026009.64,76009.64,1,76009.64,7.41,7
 2025-10-07,22007,Gem of Striking,iFennec,DEMO GEM,1450000,1563888.89,113888.89,1,113888.89,7.28,6
 2025-10-07,26572,Inferno Potion,GordanRamsay,Cheapest Potions Ever ! LOOK !!!,7800,8411.25,611.25,34,20782.54,7.27,10
-2025-10-07,27025,Radiation Lv1,sellerrr,GRENADE LV1 / RAD LV 1( BEST),2300,2476.24,176.24,144,25378.26,7.12,7
 2025-10-07,26559,Cooked Crab,Neinet,CHEAPEST CRABS IN TOWN!!!!,1500,1612.4,112.4,200,22480.23,6.97,5
 2025-10-07,26559,Cooked Crab,Charms,Tilapia|Codfish|Salmon|Crab,1500,1612.4,112.4,200,22480.23,6.97,5
 2025-10-07,26559,Cooked Crab,Charms,Tilapia|Codfish|Salmon|Crab,1500,1612.4,112.4,199,22367.83,6.97,5
