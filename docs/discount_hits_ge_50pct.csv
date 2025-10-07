@@ -1,12 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.06,28327,Great Aqua Cap,120000,1206666.67,3,1,freeee,cheap
-89.21,28491,Ice Sealed Greaves of Enigma,250000,2316666.67,3,1,sstido,app hearts etc
 85.88,28035,Solar Shield,4444,31481.33,3,1,MiningGPU,salesssssssssssss
 79.18,25440,Evanescence Stone,200,960.4,5,8,BL4CKM4RK3T,cheap stuff
 76.54,28458,Ice Sealed Staff of the Sphinx,5000,21312.73,8,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
 74.51,25439,Incantation Stone,200,784.72,5,17,BL4CKM4RK3T,cheap stuff
-73.61,22006,Spirit Gem,2000,7578.35,6,2,Vendedor,Promotion
-70.97,22006,Spirit Gem,2200,7578.35,6,15,Masteryi,SELL
+73.34,22006,Spirit Gem,2200,8252.25,3,12,Masteryi,SELL
 68.76,25440,Evanescence Stone,300,960.4,5,3,FARMBR,sell
 68.76,25440,Evanescence Stone,300,960.4,5,7,LunaMaya,S>PPS PBS RBS FB Grenade
 67.28,22001,Furious Gem,999,3053.31,11,3,cheapstuffsell,cheap
@@ -16,7 +14,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.25,22001,Furious Gem,1000,3053.31,11,1,EvilRian,lucky pax and more rererer
 67.25,22001,Furious Gem,1000,3053.31,11,1,CaloNord,de todo todo
 65.28,25423,Evanescence Rock,200,576.03,8,45,BL4CKM4RK3T,cheap stuff
-62.67,28411,Staff of Incantation,120000,321481.33,3,1,CHEAPSTALL,ami app set/CLERIC STAF 45
 61.77,25439,Incantation Stone,300,784.72,5,46,Masteryi,SELL
 61.77,28326,Divine Grace Cap,25555,66849.5,5,1,EIlIIliah,213123
 61.77,28326,Divine Grace Cap,25555,66849.5,5,1,EIlIIliah,213123
@@ -25,9 +22,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.25,28126,Cleric Cap,7500,19356.25,4,1,Meguminn,EXPLOOSIOONN!! - GEM OF STRIKING
 61.22,28456,Ice Sealed Robe of the Sphinx,20000,51574.0,6,1,Chad,Cheap
 59.9,28403,Blade of Incantation,110000,274285.14,6,1,PublicWin,60 STR Ring/Dragon Fruit/Uns BOI
-59.29,26588,Potion of Eagle,1000,2456.12,10,2,Saladinhastall,DEMONIC RAGE / GEM OF STRIKING
-59.06,26589,Potion of Bull,1000,2442.41,13,2,xTrueHistory,Potions/Cheaps
 58.71,26592,Flash Bomb,499,1208.54,19,17,Huracan,Lv Stuffs/FB/BunnyPot/DW Ticket
+58.7,26588,Potion of Eagle,1000,2421.48,10,2,Saladinhastall,DEMONIC RAGE / GEM OF STRIKING
+58.63,26589,Potion of Bull,1000,2417.33,13,2,xTrueHistory,Potions/Cheaps
 58.31,27021,Green Pirate Scroll,200,479.67,7,6,NecroManS,XDDD
 57.94,2301,,10000,23777.5,3,1,CaloNord,de todo todo
 53.34,25168,Sunshine Fruit,20,42.87,6,75,xVENDOR1x,RUSH
