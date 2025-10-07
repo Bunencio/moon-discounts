@@ -19,13 +19,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.17,22001,Furious Gem,1000,3243.12,11,1,CaloNord,de todo todo
 68.81,28458,Ice Sealed Staff of the Sphinx,9999,32063.29,7,1,Electricman1,DemoSoul/UniPurseFrag/JadFrag/Re
 67.92,30119,Vial of Consitution Reset,2000,6234.22,5,2,DoaaPepa,D O N   P E P E
-67.28,22006,Spirit Gem,2400,7335.18,7,6,Masteryi,sell 0_0
-66.31,27021,Green Pirate Scroll,150,445.28,10,3,Destinys,@@@@
-65.17,22006,Spirit Gem,2555,7335.18,7,14,voyo,sale bobokar
+67.51,22006,Spirit Gem,2400,7387.56,7,6,Masteryi,sell 0_0
+64.29,27021,Green Pirate Scroll,150,420.0,10,3,Destinys,@@@@
 62.67,28411,Staff of Incantation,120000,321481.33,3,1,CHEAPSTALL,ami app set/CLERIC STAF 45
 62.38,25439,Incantation Stone,300,797.4,3,42,Masteryi,sell 0_0
 61.89,25501,Brown Colorant,1500,3936.27,3,2,Sauronn,?>?>?>?>??>?>?>>???>?>?>>?>?>.>?
 61.22,28456,Ice Sealed Robe of the Sphinx,20000,51574.0,6,1,Chad,Cheap
+60.91,22006,Spirit Gem,2888,7387.56,7,14,voyo,yezza
 60.48,25440,Evanescence Stone,300,759.13,5,40,Masteryi,sell 0_0
 60.03,25493,Orange Colorant,1500,3752.44,4,4,Sauronn,?>?>?>?>??>?>?>>???>?>?>>?>?>.>?
 60.0,25499,Purple Colorant,1500,3750.0,4,5,Sauronn,?>?>?>?>??>?>?>>???>?>?>>?>?>.>?
@@ -35,7 +35,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.76,25495,Green Colorant,2500,6213.11,5,5,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 59.46,28476,Ice Sealed Kris of the Sphinx,25000,61666.33,4,1,ThornLey,gold
 59.46,28476,Ice Sealed Kris of the Sphinx,25000,61666.33,4,1,Vendedor,Promotion
-59.1,22006,Spirit Gem,3000,7335.18,7,3,Vendedor,Promotion
+59.39,22006,Spirit Gem,3000,7387.56,7,3,Vendedor,Promotion
 58.47,25496,Cyan Colorant.,2500,6020.0,4,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 54.79,28403,Blade of Incantation,110000,243332.67,5,1,PublicWin,60 STR Ring/Dragon Fruit/Uns BOI
 54.73,26591,Potion of Lion,1200,2650.66,12,1,Anuel,Misc
@@ -68,4 +68,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.71,2301,,10000,20287.96,4,1,Djay,>> Make the Best Cap <<
 50.71,2301,,10000,20287.96,4,1,Djay,>> Make the Best Cap <<
 50.71,2301,,10000,20287.96,4,1,CaloNord,de todo todo
+50.01,28154,Iron Platemail,2999,5999.67,3,1,TagBaligya,Gaunts Armor Shield Manu Items
 50.01,28430,Fire Sealed Robe of Malediction,3999,7999.83,5,1,TheMystic,- NICE STUFF -
