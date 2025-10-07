@@ -13,14 +13,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.35,25493,Orange Colorant,1000,3752.44,4,1,Traffy,FFDKSGJHDFSJKHGKDJFSGHJKFDG
 72.14,25494,Yellow Colorant.,1500,5384.62,3,4,Sauronn,?>?>?>?>??>?>?>>???>?>?>>?>?>.>?
 71.6,25497,Blue Colorant,1500,5281.25,4,5,Sauronn,?>?>?>?>??>?>?>>???>?>?>>?>?>.>?
-69.2,22001,Furious Gem,999,3243.12,11,3,cheapstuffsell,cheap
-69.2,22001,Furious Gem,999,3243.12,11,1,Anuel,Misc
-69.17,22001,Furious Gem,1000,3243.12,11,1,EvilRian,lucky pax and more rererer
-69.17,22001,Furious Gem,1000,3243.12,11,1,CaloNord,de todo todo
+69.26,22001,Furious Gem,999,3249.77,11,3,cheapstuffsell,cheap
+69.26,22001,Furious Gem,999,3249.77,11,1,Anuel,Misc
+69.23,22001,Furious Gem,1000,3249.77,11,1,EvilRian,lucky pax and more rererer
+69.23,22001,Furious Gem,1000,3249.77,11,1,CaloNord,de todo todo
 68.81,28458,Ice Sealed Staff of the Sphinx,9999,32063.29,7,1,Electricman1,DemoSoul/UniPurseFrag/JadFrag/Re
 67.92,30119,Vial of Consitution Reset,2000,6234.22,5,2,DoaaPepa,D O N   P E P E
 67.51,22006,Spirit Gem,2400,7387.56,7,6,Masteryi,sell 0_0
 65.41,27021,Green Pirate Scroll,150,433.64,9,3,Destinys,@@@@
+62.67,28411,Staff of Incantation,120000,321481.33,3,1,CHEAPSTALL,ami app set/CLERIC STAF 45
 62.38,25439,Incantation Stone,300,797.4,3,42,Masteryi,sell 0_0
 61.89,25501,Brown Colorant,1500,3936.27,3,2,Sauronn,?>?>?>?>??>?>?>>???>?>?>>?>?>.>?
 61.22,28456,Ice Sealed Robe of the Sphinx,20000,51574.0,6,1,Chad,Cheap
@@ -38,15 +39,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.47,25496,Cyan Colorant.,2500,6020.0,4,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 54.79,28403,Blade of Incantation,110000,243332.67,5,1,PublicWin,60 STR Ring/Dragon Fruit/Uns BOI
 54.75,26591,Potion of Lion,1200,2651.77,11,1,Anuel,Misc
-54.55,25423,Evanescence Rock,300,660.04,10,36,Masteryi,sell 0_0
 54.54,28446,Fire Sealed Bow of Evanescence,10000,21998.56,7,1,zWhiteBeard,Cheap Items
-53.75,22001,Furious Gem,1500,3243.12,11,7,Vendedor,Promotion
-53.75,22001,Furious Gem,1500,3243.12,11,1,HunterKim,SDasdasd
+53.84,22001,Furious Gem,1500,3249.77,11,7,Vendedor,Promotion
 53.69,28126,Cleric Cap,8875,19165.0,5,1,Meguminn,EXPLOOOSIOOONN!!! - STRIKING GEM
 53.61,25480,Ami Hairstyle Book,1500,3233.33,4,1,Sauronn,?>?>?>?>??>?>?>>???>?>?>>?>?>.>?
 53.57,25494,Yellow Colorant.,2500,5384.62,3,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 53.29,29057,20 Manufacturing EXP Card,999,2138.88,5,1,Destinys,@@@@
 53.22,28458,Ice Sealed Staff of the Sphinx,15000,32063.29,7,1,AoiTodo,Promotion
+53.16,25423,Evanescence Rock,300,640.49,9,36,Masteryi,sell 0_0
 52.66,25497,Blue Colorant,2500,5281.25,4,2,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 52.66,26000,Sandy Coin,150,316.85,4,10,KillerSolo,IMPS / DOE / DG COINS / GPS help
 51.53,28456,Ice Sealed Robe of the Sphinx,25000,51574.0,6,1,Swird,Storm/Sphinx/Bow55/Steel/Tribal
