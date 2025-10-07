@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 94.72,28491,Ice Sealed Greaves of Enigma,120000,2273333.33,3,1,Onigiri,PLS BUY EVERYTHING
-88.46,2301,,10000,86666.33,3,1,CaloNord,de todo todo
 86.82,28458,Ice Sealed Staff of the Sphinx,5000,37944.0,9,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
+74.87,2301,,10000,39797.73,4,1,CaloNord,de todo todo
 74.78,25439,Incantation Stone,200,792.9,4,17,BL4CKM4RK3T,cheap stuff
 73.65,28458,Ice Sealed Staff of the Sphinx,9999,37944.0,9,1,FARMBR,sell
 73.65,28458,Ice Sealed Staff of the Sphinx,9999,37944.0,9,1,Electricman1,DemoSoul/UniPurseFrag/JadFrag/Re
@@ -25,7 +25,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.63,25423,Evanescence Rock,200,535.23,8,45,BL4CKM4RK3T,cheap stuff
 62.16,25439,Incantation Stone,300,792.9,4,42,Masteryi,sell 0_0
 61.22,28456,Ice Sealed Robe of the Sphinx,20000,51574.0,6,1,Chad,Cheap
-61.17,28454,Ice Sealed Blade of Enigma,199999,514999.5,3,1,iFennec,GEM CRUS SET
 59.69,28403,Blade of Incantation,110000,272856.57,6,1,PublicWin,60 STR Ring/Dragon Fruit/Uns BOI
 59.14,25440,Evanescence Stone,300,734.18,5,3,FARMBR,sell
 59.14,25440,Evanescence Stone,300,734.18,5,7,LunaMaya,S>PPS PBS RBS FB Grenade
