@@ -25,7 +25,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.11,30119,Vial of Consitution Reset,2000,6081.07,4,2,DoaaPepa,D O N   P E P E
 66.96,27021,Green Pirate Scroll,150,454.04,9,3,Destinys,@@@@
 65.17,22006,Spirit Gem,2555,7335.18,7,14,voyo,sale bobokar
-65.09,25212,Frozen Elixir,250,716.16,3,12,Anuel,Misc
 62.67,28411,Staff of Incantation,120000,321481.33,3,1,CHEAPSTALL,ami app set/CLERIC STAF 45
 62.56,28456,Ice Sealed Robe of the Sphinx,20000,53425.83,6,1,Chad,Cheap
 62.38,25439,Incantation Stone,300,797.4,3,42,Masteryi,sell 0_0
@@ -34,8 +33,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.35,25440,Evanescence Stone,300,756.64,5,40,Masteryi,sell 0_0
 60.26,25495,Green Colorant,2500,6291.67,4,5,VERTIGO,HAIR  STYLE DYE COLORANT GEL
 59.73,25496,Cyan Colorant.,2500,6208.33,3,4,VERTIGO,HAIR  STYLE DYE COLORANT GEL
-59.26,28403,Blade of Incantation,110000,269999.5,3,1,PublicWin,Dragon Fruit  Uns BOI  Str Pet
+59.26,28403,Blade of Incantation,110000,269999.5,3,1,PublicWin,Uns BOI  60 Str Ring  Drgon Frut
 59.1,22006,Spirit Gem,3000,7335.18,7,3,Vendedor,Promotion
+57.23,26001,Ninja Coin,300,701.4,4,4,TOPBunshie,SALARY/ ALMOST FREE BUY HERE!
 55.93,28126,Cleric Cap,8875,20137.5,6,1,Meguminn,EXPLOOOSIOOONN!!! - STRIKING GEM
 55.28,26591,Potion of Lion,1200,2683.57,10,1,Anuel,Misc
 55.12,25423,Evanescence Rock,300,668.48,11,36,Masteryi,sell 0_0
