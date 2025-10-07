@@ -5,11 +5,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.18,25440,Evanescence Stone,200,960.4,5,8,BL4CKM4RK3T,cheap stuff
 76.54,28458,Ice Sealed Staff of the Sphinx,5000,21312.73,8,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
 74.51,25439,Incantation Stone,200,784.72,5,17,BL4CKM4RK3T,cheap stuff
-71.45,22006,Spirit Gem,2000,7004.1,7,2,Vendedor,Promotion
+71.57,22006,Spirit Gem,2000,7035.97,7,2,Vendedor,Promotion
 68.76,25440,Evanescence Stone,300,960.4,5,3,FARMBR,sell
 68.76,25440,Evanescence Stone,300,960.4,5,7,LunaMaya,S>PPS PBS RBS FB Grenade
-68.59,22006,Spirit Gem,2200,7004.1,7,15,Masteryi,SELL
-68.28,22006,Spirit Gem,2222,7004.1,7,10,voyo,dazrrer
+68.73,22006,Spirit Gem,2200,7035.97,7,15,Masteryi,SELL
+68.42,22006,Spirit Gem,2222,7035.97,7,10,voyo,dazrrer
 67.01,22001,Furious Gem,999,3027.74,12,3,cheapstuffsell,cheap
 67.01,22001,Furious Gem,999,3027.74,12,1,Anuel,Misc
 66.97,22001,Furious Gem,1000,3027.74,12,2,SellerPirate,s
@@ -24,8 +24,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.71,26000,Sandy Coin,250,652.88,5,1,sstall,Things
 61.71,26000,Sandy Coin,250,652.88,5,50,BinMakarios,SPR PET/POTS/COINS/PPS/Party Fru
 61.22,28456,Ice Sealed Robe of the Sphinx,20000,51574.0,6,1,Chad,Cheap
-59.95,26589,Potion of Bull,1000,2496.71,13,2,xTrueHistory,Potions/Cheaps
 59.9,28403,Blade of Incantation,110000,274285.14,6,1,PublicWin,60 STR Ring/Dragon Fruit/Uns BOI
+58.86,26589,Potion of Bull,1000,2430.64,13,2,xTrueHistory,Potions/Cheaps
 58.41,27021,Green Pirate Scroll,200,480.89,7,6,NecroManS,XDDD
 57.94,2301,,10000,23777.5,3,1,CaloNord,de todo todo
 53.08,28458,Ice Sealed Staff of the Sphinx,10000,21312.73,8,1,Sauronn,spr voy +s
