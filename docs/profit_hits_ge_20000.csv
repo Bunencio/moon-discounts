@@ -18,17 +18,17 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,22006,Spirit Gem,4444,Kifro,5000,8012.82,3012.82,23,69294.87,37.6,3
 2025-10-08,22003,Glowing Gem,Look7,ty,1111,1701.41,590.41,123,72619.88,34.7,7
 2025-10-08,28403,Blade of Incantation,Kasyadex,JADE/EVA POWER/HL VOY/PET/SWORD!,160000,244285.43,84285.43,1,84285.43,34.5,6
-2025-10-08,26592,Flash Bomb,DAGANG7,CAKE/FLASH BOMB/WARRORS POTION,800,1218.34,418.34,99,41415.61,34.34,13
+2025-10-08,26592,Flash Bomb,DAGANG7,CAKE/FLASH BOMB/WARRORS POTION,800,1217.29,417.29,99,41311.98,34.28,12
 2025-10-08,25452,Rock Gem Fragment,IchiShiki,all in one place,84999,128999.49,44000.49,4,176001.94,34.11,8
 2025-10-08,25452,Rock Gem Fragment,SirCumcision,Bank Cleaning,85000,128999.49,43999.49,1,43999.49,34.11,8
 2025-10-08,25422,Evanescence Power,Nikoz,Selling,5000,7284.89,2284.89,17,38843.11,31.36,6
 2025-10-08,26589,Potion of Bull,Masteryi,SELL,1800,2599.74,799.74,26,20793.2,30.76,16
-2025-10-08,28447,Bow of Evanescence,xJavux,Cheap,1000000,1437499.75,437499.75,1,437499.75,30.43,4
 2025-10-08,25452,Rock Gem Fragment,dogdogdog,kal gold.phara jackpot.gemfrags,89990,128999.49,39009.49,1,39009.49,30.24,8
 2025-10-08,25452,Rock Gem Fragment,Embracer,STUFF,90000,128999.49,38999.49,6,233996.91,30.23,8
 2025-10-08,28409,Coat of Invocation,xkom,UG COLO | UNIV FRAG | SHIP LVL2,100000,143333.33,43333.33,1,43333.33,30.23,3
 2025-10-08,26591,Potion of Lion,Kerem,S> cheap stat pots,1999,2842.32,843.32,34,28672.9,29.67,13
 2025-10-08,25495,Green Colorant,hahahehehoho,Colorants,4000,5564.52,1564.52,45,70403.23,28.12,3
+2025-10-08,28447,Bow of Evanescence,xJavux,Cheap,1000000,1366666.67,366666.67,1,366666.67,26.83,3
 2025-10-08,30102,1000 Reputation Scroll,Despair,H E L  L P O,6500,8877.95,2377.95,13,30913.34,26.78,7
 2025-10-08,28468,Ice Sealed Mantle of Enigma,Destinys,XD,65000,88000.0,23000.0,1,23000.0,26.14,4
 2025-10-08,28468,Ice Sealed Mantle of Enigma,BjornIronside,XD,65000,88000.0,23000.0,1,23000.0,26.14,4
@@ -47,7 +47,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,26588,Potion of Eagle,LotokSell,DemoColo UgWind 1k Reps Potions,2000,2474.71,474.71,99,46996.52,19.18,8
 2025-10-08,26377,Pharaoh's Lantern,Virginia,Std Poss / Jade Frag / Pharaoh L,8499,10438.13,1939.13,109,211364.8,18.58,3
 2025-10-08,28403,Blade of Incantation,NecroManS,XDDD,199999,244285.43,44286.43,1,44286.43,18.13,6
-2025-10-08,26592,Flash Bomb,Cachexia,CHEAP ITEMS,1000,1218.34,218.34,187,40829.48,17.92,13
+2025-10-08,26592,Flash Bomb,Cachexia,CHEAP ITEMS,1000,1217.29,217.29,187,40633.74,17.85,12
 2025-10-08,25451,Jade Gem Fragment,Virginia,Std Poss / Jade Frag / Pharaoh L,72000,87513.06,15513.06,6,93078.33,17.73,11
 2025-10-08,25426,Universe Purse Fragment.,xBinibirocha,RUSH!! 5 MINS ONLY!!! CHEAPEST!,249500,303169.44,53669.44,1,53669.44,17.7,11
 2025-10-08,25422,Evanescence Power,Kasyadex,JADE/EVA POWER/HL VOY/PET/SWORD!,6000,7284.89,1284.89,24,30837.33,17.64,6
@@ -55,6 +55,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,25426,Universe Purse Fragment.,dogdogdog,kal gold.phara jackpot.gemfrags,249990,303169.44,53179.44,1,53179.44,17.54,11
 2025-10-08,25426,Universe Purse Fragment.,amiix,UPF Dw GPS PPS PG MvsM,250000,303169.44,53169.44,1,53169.44,17.54,11
 2025-10-08,22004,Shining Gem,Look7,ty,3000,3624.11,624.11,56,34950.4,17.22,5
+2025-10-08,29305,Ring of Destruction,Aang,cheap gears,140000,168000.0,28000.0,1,28000.0,16.67,3
+2025-10-08,29305,Ring of Destruction,Aang,cheap gears,140000,168000.0,28000.0,1,28000.0,16.67,3
 2025-10-08,25451,Jade Gem Fragment,ZafirRose,kal/jade /gps and more,74000,87513.06,13513.06,2,27026.11,15.44,11
 2025-10-08,30156,Jackpot Coin,BuyingSta4ll7,JEWEL| PURSE| JADE| PPS| GPS++++,8500,10020.82,1520.82,23,34978.89,15.18,9
 2025-10-08,30020,Class Changing Card,conqstall2,Random shit,250000,291666.17,41666.17,1,41666.17,14.29,3
@@ -87,6 +89,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,25031,Refining Gem,antonina2,Ref's / Elven Signet's,7999,8591.85,592.85,44,26085.58,6.9,9
 2025-10-08,30139,100x Crystal,Mallwart,S> IMPS,87990,94438.57,6448.57,41,264391.18,6.83,8
 2025-10-08,30139,100x Crystal,AegonBLESS1,Cheapest imps in market,88000,94438.57,6438.57,77,495769.54,6.82,8
+2025-10-08,27019,Purple Pirate Scroll,MatsBk,S>STRIKING/GPS/PPS/PBS/MORE,4100,4398.05,298.05,75,22353.45,6.78,10
 2025-10-08,26559,Cooked Crab,Hinata,!! Cheapest Cooked Crab !!,1450,1555.28,105.28,200,21055.65,6.77,5
 2025-10-08,30139,100x Crystal,Wake,BEST PRICE IMPS,88500,94438.57,5938.57,4,23754.26,6.29,8
 2025-10-08,30139,100x Crystal,Paluto,Imps pots cheap,88899,94438.57,5539.57,6,33237.39,5.87,8
@@ -112,7 +115,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,26585,Blessed Potion,SeaMaterials,Cheapest Bless/RAD/TUNA,100999,104600.51,3601.51,10,36015.13,3.44,11
 2025-10-08,25525,,ii3,chaos frag/jade/fbs/grenade,370000,382881.05,12881.05,2,25762.1,3.36,8
 2025-10-08,22013,Demonic Gem of Striking,Dinamy,Strikings,1650000,1699999.8,49999.8,4,199999.2,2.94,3
-2025-10-08,28447,Bow of Evanescence,Amino,SS equips,1400000,1437499.75,37499.75,1,37499.75,2.61,4
 2025-10-08,26585,Blessed Potion,GordanRamsay,Cheap Iron Demonic Bless Inferno,102000,104600.51,2600.51,59,153430.26,2.49,11
 2025-10-08,22009,Gem of Colossus,voyafarm,BLESS CHEAP COLO CHEAP CHOP,1750000,1794444.22,44444.22,1,44444.22,2.48,5
 2025-10-08,27017,Sorcerer's Wine,Mamii,POTS BETTER THAN TOTEM HE SUCKS,10999,11226.5,227.5,138,31395.12,2.03,5
