@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,20,1269834.0,4,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
-100.0,22010,Gem of Rage,30,2580003.0,3,1,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw
+100.0,22010,Gem of Rage,30,2533335.83,4,1,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw
 100.0,25431,Kal Runestone,13,497506.5,3,2,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw
 100.0,25525,,6,631578.32,4,1,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw
 99.97,26377,Pharaoh's Lantern,2,6908.91,3,30,Mismagius,Pharaoh's Lanterns
@@ -8,4 +8,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.68,25258,Spirit Feather,100,517.6,4,9,Meguminn,EXPLOOSIOONN!! - GEM OF STRIKING
 76.82,25258,Spirit Feather,120,517.6,4,1,Anuel,CHAOS RUNESTONE AND SHEWT
 75.31,22001,Furious Gem,600,2430.54,4,1,Anuel,CHAOS RUNESTONE AND SHEWT
-68.08,26589,Potion of Bull,700,2193.26,5,8,xTrueHistory,PPS/JACKPOT/GPS/Pots
+70.68,26589,Potion of Bull,700,2387.21,6,8,xTrueHistory,PPS/JACKPOT/GPS/Pots
+62.07,30135,Demonic Rock,2997,7900.51,3,1,VendedoraJequiti,EXPERT STONE / STANDARD STONE /+
