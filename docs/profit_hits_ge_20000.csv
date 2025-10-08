@@ -3,8 +3,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,22007,Gem of Striking,Saladinhastall,DEMONIC GEM / GEM OF STRIKING,20,1269834.0,1269814.0,1,1269814.0,100.0,4
 2025-10-08,25431,Kal Runestone,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw,13,497506.5,497493.5,2,994987.0,100.0,3
 2025-10-08,25525,,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw,6,631578.32,631572.32,1,631572.32,100.0,4
-2025-10-08,26377,Pharaoh's Lantern,Mismagius,Pharaoh's Lanterns,2,6908.91,6906.91,30,207207.27,99.97,3
-2025-10-08,26377,Pharaoh's Lantern,Saip,Pharaoh's Lanterns,2,6908.91,6906.91,30,207207.27,99.97,3
+2025-10-08,26377,Pharaoh's Lantern,Mismagius,Pharaoh's Lanterns,2,6894.8,6892.8,30,206783.97,99.97,3
+2025-10-08,26377,Pharaoh's Lantern,Saip,Pharaoh's Lanterns,2,6894.8,6892.8,30,206783.97,99.97,3
 2025-10-08,27019,Purple Pirate Scroll,Onigiri,APPA.RER.DOE.BOI.GPS PPS,3499,5560.5,2061.5,10,20615.05,37.07,12
 2025-10-08,30135,Demonic Rock,ZSOLOZ,CHAOS JEWEL/JADE/GYOZA/DW 60/REF,4999,7900.51,2901.51,7,20310.55,36.73,3
 2025-10-08,26589,Potion of Bull,asdqwdq,boi+4/katan app/seal 60 crus/pps,1500,2328.49,828.49,48,39767.52,35.58,7
@@ -30,7 +30,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,27017,Sorcerer's Wine,Messrve,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,9999,12006.09,2007.09,11,22077.96,16.72,3
 2025-10-08,30102,1000 Reputation Scroll,LotokSell,DemoColos UgRage UgWind,8000,9372.41,1372.41,83,113910.18,14.64,4
 2025-10-08,26592,Flash Bomb,Kalista,fb radiat,999,1167.98,168.98,124,20953.5,14.47,5
-2025-10-08,26573,Demonic Potion,Messrve,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,15000,17269.23,2269.23,37,83961.54,13.14,4
+2025-10-08,26573,Demonic Potion,Messrve,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,15000,17265.7,2265.7,37,83830.92,13.12,4
 2025-10-08,27019,Purple Pirate Scroll,asdqwdq,boi+4/katan app/seal 60 crus/pps,5000,5560.5,560.5,83,46521.91,10.08,12
 2025-10-08,22010,Gem of Rage,LotokSell,DemoColos UgRage UgWind,2300000,2533335.83,233335.83,2,466671.67,9.21,4
 2025-10-08,27025,Radiation Lv1,Kalista,fb radiat,2499,2664.14,165.14,132,21797.89,6.2,3
