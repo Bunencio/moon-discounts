@@ -1,12 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-88.55,28327,Great Aqua Cap,44444,388148.0,3,1,Systembuff,Dem Strik/wind/bles/sealed
+96.02,28327,Great Aqua Cap,44444,1116111.0,4,1,Systembuff,Dem Strik/wind/bles/sealed
+89.25,28327,Great Aqua Cap,120000,1116111.0,4,1,freeee,cheap
 85.88,28035,Solar Shield,4444,31481.33,3,1,MiningGPU,salesssssssssssss
 83.15,28491,Ice Sealed Greaves of Enigma,250000,1483333.33,3,1,sstido,app hearts etc
 75.84,28458,Ice Sealed Staff of the Sphinx,5000,20694.08,9,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
-71.41,26589,Potion of Bull,700,2448.22,15,2,xTrueHistory,GPS/PPS/Jackpot/Pots Cheap
+73.07,26589,Potion of Bull,700,2599.74,16,2,xTrueHistory,GPS/PPS/Jackpot/Pots Cheap
 70.44,25440,Evanescence Stone,300,1014.82,3,3,FARMBR,sell
 70.44,25440,Evanescence Stone,300,1014.82,3,6,LunaMaya,S>PPS PBS RBS FB Grenade
-69.08,28327,Great Aqua Cap,120000,388148.0,3,1,freeee,cheap
 68.26,25423,Evanescence Rock,200,630.17,9,45,BL4CKM4RK3T,cheap stuff
 67.19,22001,Furious Gem,999,3044.94,11,2,cheapstuffsell,cheap
 67.19,22001,Furious Gem,999,3044.94,11,1,Anuel,Misc
@@ -51,3 +51,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.68,28458,Ice Sealed Staff of the Sphinx,10000,20694.08,9,1,Vendedor,Promotion
 50.73,25440,Evanescence Stone,500,1014.82,3,6,vendedolmax,2000
 50.07,26592,Flash Bomb,600,1201.76,14,1,Olkc,1234567891011121314151617181920
+50.0,28448,Fire Sealed Cloak of Evanescence,17999,35999.67,3,1,IchiShiki,all in one place
