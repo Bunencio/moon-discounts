@@ -14,7 +14,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.56,22006,Spirit Gem,3000,8012.82,3,5,BuyingSta4ll7,JEWEL| PURSE| JADE| PPS| GPS++++
 61.25,28126,Cleric Cap,7500,19356.25,4,1,Meguminn,EXPLOOSIOONN!! - GEM OF STRIKING
 60.01,28430,Fire Sealed Robe of Malediction,2999,7499.83,5,1,TheMystic,- NICE STALL -
-56.99,25423,Evanescence Rock,300,697.46,8,2,FARMBR,sell
+56.96,25423,Evanescence Rock,300,697.01,7,2,FARMBR,sell
 56.7,28406,Earth Sealed Staff of Abraxas.,2999,6926.71,6,1,TheMystic,- NICE STALL -
 56.67,25440,Evanescence Stone,400,923.05,4,20,HyjoSeller,Compra  Sou pobre
 54.8,28458,Ice Sealed Staff of the Sphinx,9999,22120.82,8,1,FARMBR,sell
@@ -26,5 +26,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.68,27021,Green Pirate Scroll,200,431.76,6,6,NecroManS,XDDD
 53.47,28411,Staff of Incantation,155000,333148.0,3,1,amiix,UPF Dw GPS PPS PG MvsM
 53.33,28403,Blade of Incantation,110000,235713.86,6,1,PublicWin,BOI/Pet/dragon Fruit
+52.23,25391,Octopus Tentacle,100,209.35,3,99,muhtar,cheap stal
+52.23,25391,Octopus Tentacle,100,209.35,3,99,muhtar,cheap stal
+52.23,25391,Octopus Tentacle,100,209.35,3,93,muhtar,cheap stal
 50.05,26592,Flash Bomb,600,1201.27,12,1,Olkc,1234567891011121314151617181920
 50.0,28448,Fire Sealed Cloak of Evanescence,17999,35999.67,3,1,IchiShiki,all in one place

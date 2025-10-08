@@ -9,7 +9,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,28403,Blade of Incantation,PublicWin,BOI/Pet/dragon Fruit,110000,235713.86,125713.86,1,125713.86,53.33,6
 2025-10-08,26591,Potion of Lion,ZafirRose,kal/jade /gps and more,1500,2842.32,1342.32,16,21477.13,47.23,13
 2025-10-08,28409,Coat of Invocation,COOKEDTILAPIA2,UNSEALED 45 CLERIC 100K   80K,80000,143333.33,63333.33,1,63333.33,44.19,3
-2025-10-08,25422,Evanescence Power,MiSeRy,SHINING POISON POWER ROCK,4000,6587.54,2587.54,18,46575.79,39.28,7
 2025-10-08,25479,Phyllis Hairstyle Book,Grana01,Hair,5000,8124.94,3124.94,12,37499.25,38.46,3
 2025-10-08,25452,Rock Gem Fragment,Paka01,RockGemFrag Repu Jackpot GreenPS,79999,128999.49,49000.49,2,98000.97,37.99,8
 2025-10-08,22006,Spirit Gem,4444,Kifro,5000,8012.82,3012.82,23,69294.87,37.6,3
@@ -23,6 +22,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,25452,Rock Gem Fragment,Embracer,STUFF,90000,128999.49,38999.49,6,233996.91,30.23,8
 2025-10-08,28409,Coat of Invocation,xkom,UG COLO | UNIV FRAG | SHIP LVL2,100000,143333.33,43333.33,1,43333.33,30.23,3
 2025-10-08,26591,Potion of Lion,Kerem,S> cheap stat pots,1999,2842.32,843.32,34,28672.9,29.67,13
+2025-10-08,25422,Evanescence Power,Nikoz,Selling,5000,7072.71,2072.71,17,35236.04,29.31,7
 2025-10-08,25416,Cloud Heart,Yennefer,GPS PBS CLOUD EXPSTONE EVAPOW,18000,25222.0,7222.0,4,28888.0,28.63,3
 2025-10-08,25495,Green Colorant,hahahehehoho,Colorants,4000,5564.52,1564.52,45,70403.23,28.12,3
 2025-10-08,28447,Bow of Evanescence,xJavux,Cheap,1000000,1366666.67,366666.67,1,366666.67,26.83,3
@@ -31,7 +31,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,28468,Ice Sealed Mantle of Enigma,BjornIronside,XD,65000,88000.0,23000.0,1,23000.0,26.14,4
 2025-10-08,25451,Jade Gem Fragment,Kasyadex,EVA POWER/JADE/SWORD/HL VOY/PET,70000,94356.19,24356.19,1,24356.19,25.81,11
 2025-10-08,27014,Moonroot Wine,Aries,Cheap UG colo/flash bomb here,550,726.39,176.39,176,31044.0,24.28,6
-2025-10-08,25422,Evanescence Power,Nikoz,Selling,5000,6587.54,1587.54,17,26988.25,24.1,7
 2025-10-08,25451,Jade Gem Fragment,Virginia,Std Poss / Jade Frag / Pharaoh L,72000,94356.19,22356.19,1,22356.19,23.69,11
 2025-10-08,27014,Moonroot Wine,vnt3,Moonroot Wine,555,726.39,171.39,200,34277.27,23.59,6
 2025-10-08,27014,Moonroot Wine,vnt3,Moonroot Wine,555,726.39,171.39,194,33248.95,23.59,6
@@ -58,6 +57,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,30156,Jackpot Coin,BuyingSta4ll7,JEWEL| PURSE| JADE| PPS| GPS++++,8500,10089.29,1589.29,23,36553.65,15.75,9
 2025-10-08,25451,Jade Gem Fragment,dogdogdog,kal gold.phara jackpot.gemfrags,79909,94356.19,14447.19,2,28894.38,15.31,11
 2025-10-08,25451,Jade Gem Fragment,Embracer,STUFF,80000,94356.19,14356.19,2,28712.38,15.21,11
+2025-10-08,25422,Evanescence Power,Kasyadex,EVA POWER/JADE/SWORD/HL VOY/PET,6000,7072.71,1072.71,24,25745.0,15.17,7
 2025-10-08,28403,Blade of Incantation,NecroManS,XDDD,199999,235713.86,35714.86,1,35714.86,15.15,6
 2025-10-08,30020,Class Changing Card,conqstall2,Random shit,250000,291666.17,41666.17,1,41666.17,14.29,3
 2025-10-08,22000,FieryGem,BuySome,Buy Some You Need,2999,3452.94,453.94,94,42670.15,13.15,8
@@ -105,8 +105,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-08,26585,Blessed Potion,Messrve,15 % OFF STALL <==[;;;;;;;;;;;;>,100000,104617.43,4617.43,12,55409.12,4.41,11
 2025-10-08,26585,Blessed Potion,Systembuff,Dem Strik/wind/bles/sealed,99999,104617.43,4618.43,10,46184.26,4.41,11
 2025-10-08,26585,Blessed Potion,MUTAA,BUY TO WIN!,99999,104617.43,4618.43,10,46184.26,4.41,11
+2025-10-08,26346,Lantern,SeventhHeaven,Scrolls/Lantern etc,4300,4498.1,198.1,108,21394.82,4.4,7
 2025-10-08,22009,Gem of Colossus,AAA123,1231313213123,1700000,1777999.8,77999.8,2,155999.6,4.39,7
-2025-10-08,26346,Lantern,SeventhHeaven,Scrolls/Lantern etc,4300,4495.52,195.52,108,21115.86,4.35,7
 2025-10-08,26572,Inferno Potion,Mamii,POTS BETTER THAN TOTEM HE SUCKS,7999,8344.01,345.01,79,27255.63,4.13,5
 2025-10-08,26572,Inferno Potion,DwShops,the finest cookings for DW,8000,8344.01,344.01,136,46785.08,4.12,5
 2025-10-08,26572,Inferno Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,8000,8344.01,344.01,126,43345.0,4.12,5
