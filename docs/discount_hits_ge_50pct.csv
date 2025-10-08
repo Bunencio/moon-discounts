@@ -16,7 +16,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.08,25423,Evanescence Rock,200,572.72,7,45,BL4CKM4RK3T,cheap stuff
 64.91,25439,Incantation Stone,300,854.95,3,46,Masteryi,SELL
 63.06,26000,Sandy Coin,250,676.78,4,50,BinMakarios,SPR PET/POTS/COINS/PPS/Party Fru
-62.51,28406,Earth Sealed Staff of Abraxas.,2999,7999.17,4,1,TheMystic,- NICE STALL -
 62.51,28430,Fire Sealed Robe of Malediction,2999,7999.8,4,1,TheMystic,- NICE STALL -
 61.25,28126,Cleric Cap,7500,19356.25,4,1,Meguminn,EXPLOOSIOONN!! - GEM OF STRIKING
 61.22,28456,Ice Sealed Robe of the Sphinx,20000,51574.0,6,1,Chad,Cheap
@@ -54,4 +53,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.84,25176,Sweet Poison,33,67.13,3,29,BLaCKMooN,garner
 50.84,25176,Sweet Poison,33,67.13,3,95,BLaCKMooN,garner
 50.43,25440,Evanescence Stone,500,1008.6,3,6,vendedolmax,2000
-50.01,28154,Iron Platemail,2999,5999.67,3,1,TagBaligya,Gaunts Armor Shield Manu Items
+50.01,28406,Earth Sealed Staff of Abraxas.,2999,5999.33,3,1,TheMystic,- NICE STALL -
