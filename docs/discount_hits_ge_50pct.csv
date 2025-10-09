@@ -1,26 +1,28 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,20,1258485.45,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
 100.0,22009,Gem of Colossus,27,1565004.5,4,1,barako,GEM OF COLO in  IMPS CHEAP
+100.0,22012,Demonic Gem of Wind,14,1105003.4,4,1,Systembuff,Dem Gems
+100.0,22012,Demonic Gem of Wind,20,1105003.4,4,1,Jew,zzzz
 100.0,22015,Demonic Gem of Rage,35,2040016.0,5,1,Eryndor,Demo Rage 3.5k imps`
 100.0,22015,Demonic Gem of Rage,45,2040016.0,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
 100.0,22024,Purple Jade,10,631670.0,3,1,Almao,SELL PURPLE JADE
-100.0,28469,Mantle of Enigma,80,4333360.0,3,1,XXXXX,zzzzzz
+100.0,28469,Mantle of Enigma,80,4166693.33,3,1,XXXXX,zzzzzz
 100.0,29310,Ring of Hawk,5,333335.0,3,1,jajaaaaja,Gems u need
 100.0,29310,Ring of Hawk,5,333335.0,3,1,jajaaaaja,Gems u need
+100.0,30168,Gyoza,1,23500.0,4,1,SailorVoy,Fragnent of fragment
 99.97,26377,Pharaoh's Lantern,2,7260.28,4,30,Mismagius,Pharaoh's Lanterns
 99.97,26377,Pharaoh's Lantern,2,7260.28,4,30,Saip,Pharaoh's Lanterns
 86.94,27026,Soul Detector Lv1,121,926.19,3,1,Japii,1212
 85.27,25497,Blue Colorant,800,5431.88,3,1,cheapstuffguys,cheap
 79.35,25396,Jelly Detector,99,479.47,3,1,Anuel,CHEAP CHAOS RUNESTONE
-73.42,26589,Potion of Bull,700,2633.64,12,8,xTrueHistory,jackpot/PPS/Potions
+73.45,26589,Potion of Bull,700,2636.79,12,8,xTrueHistory,jackpot/PPS/Potions
 71.44,28430,Fire Sealed Robe of Malediction,1999,6999.75,3,1,TheMystic,- the manager went crazy -
 71.08,28450,Fire Sealed Tooth of Evanescence,8000,27666.67,3,1,Sakaki,PPS/GPS/armor/chest
 67.76,25258,Spirit Feather,300,930.51,3,78,LunaMaya,S>Grenade FB
 65.36,22001,Furious Gem,700,2021.06,7,1,Anuel,CHEAP CHAOS RUNESTONE
 60.98,28456,Ice Sealed Robe of the Sphinx,19999,51249.75,4,1,TheMystic,- the manager went crazy -
-58.55,28403,Blade of Incantation,110000,265370.17,5,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 57.89,22004,Shining Gem,2000,4749.91,5,3,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
-52.63,30135,Demonic Rock,2998,6329.21,6,1,VendedoraJequiti,standard stone / expert stone /+
+57.44,28403,Blade of Incantation,110000,258444.2,4,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 52.26,25391,Octopus Tentacle,190,398.02,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 52.26,25391,Octopus Tentacle,190,398.02,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 52.26,25391,Octopus Tentacle,190,398.02,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
@@ -31,10 +33,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.26,25391,Octopus Tentacle,190,398.02,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 52.26,25391,Octopus Tentacle,190,398.02,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 51.22,28456,Ice Sealed Robe of the Sphinx,25000,51249.75,4,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
-50.64,26589,Potion of Bull,1300,2633.64,12,5,Cheap,asdasd
+50.7,26589,Potion of Bull,1300,2636.79,12,5,Cheap,asdasd
 50.57,22001,Furious Gem,999,2021.06,7,2,cheapstuffsell,cheap
 50.52,22001,Furious Gem,1000,2021.06,7,13,011,cleaning
-50.47,26588,Potion of Eagle,1299,2622.79,10,1,Onigiri,BUYING GOLD 850 PER M
+50.5,26588,Potion of Eagle,1299,2624.44,10,1,Onigiri,BUYING GOLD 850 PER M
 50.0,25391,Octopus Tentacle,199,398.02,5,99,vnt4,octopus tentacle come
 50.0,25391,Octopus Tentacle,199,398.02,5,97,vnt4,octopus tentacle come
 50.0,25391,Octopus Tentacle,199,398.02,5,99,vnt4,octopus tentacle come
