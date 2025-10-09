@@ -10,7 +10,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22021,Yellow Jade,25,1420005.0,3,1,ShowerBro,AFK
 100.0,22023,Green Jade,3,175000.5,3,1,Brody,Cheap gem
 100.0,22024,Purple Jade,10,712502.25,4,1,Almao,SELL PURPLE JADE
-100.0,25451,Jade Gem Fragment,1,104200.0,7,1,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,103499.83,8,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,182125.06,4,1,Goliat,Fragment Store
 100.0,25525,,10,742143.0,6,2,RiasGremory,CHAOS JEWEL
 100.0,25534,,1,64900.05,8,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
@@ -18,14 +18,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,28476,Ice Sealed Kris of the Sphinx,20,58336.17,3,1,MiaKhalifa,Dagger Voy Gemmed Cheap
 99.94,26377,Pharaoh's Lantern,2,3608.47,4,30,Mismagius,Pharaoh's Lanterns
 99.94,26377,Pharaoh's Lantern,2,3608.47,4,30,Saip,Pharaoh's Lanterns
-87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
-87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
-87.74,25212,Frozen Elixir,60,489.39,3,29,PWTanker,Power Balls/Frozen Elixir/Bottle
-85.27,25497,Blue Colorant,800,5431.88,3,1,cheapstuffguys,cheap
+93.06,25500,White Colorant,1000,14416.67,4,3,Brum,S>frozen colrs
+87.57,25498,Black Colorant,1000,8045.45,3,1,Brum,S>frozen colrs
+78.83,25497,Blue Colorant,800,3778.18,3,1,cheapstuffguys,cheap
 77.01,25258,Spirit Feather,199,865.77,3,99,LunaMaya,S> Jackpot Warrior Grenade
 76.85,25503,Magical Stone,500,2159.77,3,99,Olkc,1234567891011121314151617181920
 75.23,22001,Furious Gem,500,2018.91,10,1,Anuel,CHAOS RUNESTONE
-73.44,26589,Potion of Bull,700,2635.94,12,8,xTrueHistory,GPS/PPS/JACPOT/POTS
+73.53,25497,Blue Colorant,1000,3778.18,3,3,Brum,S>frozen colrs
+73.45,26589,Potion of Bull,700,2636.76,12,8,xTrueHistory,GPS/LBS/Jackpots/Potions
 68.72,25396,Jelly Detector,150,479.59,3,1,Anuel,CHAOS RUNESTONE
 68.34,26564,Meditation Potion,800,2527.02,4,24,VJT,If u need this just buy
 66.77,25423,Evanescence Rock,200,601.86,5,6,BL4CKM4RK3T,cheap stuff
@@ -39,19 +39,25 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.54,25391,Octopus Tentacle,190,447.44,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.54,25391,Octopus Tentacle,190,447.44,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.52,28450,Fire Sealed Tooth of Evanescence,8000,18833.17,5,1,Sakaki,PPS/GPS/armor/chest
-56.36,28429,Dance of Evanescence,800000,1833333.33,3,1,Bpsopen,Sell DOE clean
 56.02,22001,Furious Gem,888,2018.91,10,49,hunterx,bp/knife app/repu/fb/signet/gems
+55.72,28403,Blade of Incantation,110000,248444.0,4,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
+55.7,22006,Spirit Gem,3000,6771.73,8,3,Yennefer,KAL CLOUD EVA EXPSTONE SPIRIT VO
+55.53,25212,Frozen Elixir,55,123.67,3,99,Brum,S>frozen colrs
+55.53,25212,Frozen Elixir,55,123.67,3,99,Brum,S>frozen colrs
+55.53,25212,Frozen Elixir,55,123.67,3,99,Brum,S>frozen colrs
+55.53,25212,Frozen Elixir,55,123.67,3,99,Brum,S>frozen colrs
+55.53,25212,Frozen Elixir,55,123.67,3,50,Brum,S>frozen colrs
 55.52,25391,Octopus Tentacle,199,447.44,5,99,vnt4,octopus tentacle come
 55.52,25391,Octopus Tentacle,199,447.44,5,97,vnt4,octopus tentacle come
 55.52,25391,Octopus Tentacle,199,447.44,5,99,vnt4,octopus tentacle come
 55.52,25391,Octopus Tentacle,199,447.44,5,99,vnt4,octopus tentacle come
-54.96,22003,Glowing Gem,2000,4440.43,6,6,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
 53.88,25452,Rock Gem Fragment,83999,182125.06,4,1,IchiShiki,all in one place
-53.54,22006,Spirit Gem,3000,6457.42,8,9,Yennefer,KAL CLOUD EVA EXPSTONE SPIRIT VO
-53.3,28403,Blade of Incantation,110000,235555.25,3,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
-51.62,22004,Shining Gem,2000,4133.89,6,3,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
+51.52,28429,Dance of Evanescence,800000,1650000.0,4,1,Bpsopen,Sell DOE clean
+51.48,25212,Frozen Elixir,60,123.67,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
+51.48,25212,Frozen Elixir,60,123.67,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
+51.48,25212,Frozen Elixir,60,123.67,3,29,PWTanker,Power Balls/Frozen Elixir/Bottle
 50.52,22001,Furious Gem,999,2018.91,10,2,cheapstuffsell,cheap
 50.47,22001,Furious Gem,1000,2018.91,10,7,Vendedor,Promotion
 50.47,22001,Furious Gem,1000,2018.91,10,13,011,cleaning
