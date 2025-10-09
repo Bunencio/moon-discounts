@@ -2,8 +2,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,13,1170000.93,4,1,Dinamy,ug striking / demo striking
 100.0,22007,Gem of Striking,15,1170000.93,4,1,Saladinhastall,DEMON RAGE 3.5K
 100.0,22015,Demonic Gem of Rage,35,2740007.0,5,1,Saladinhastall,DEMON RAGE 3.5K
-100.0,22023,Green Jade,3,197857.93,5,3,Frank,GREEN JADE
-100.0,22023,Green Jade,3,197857.93,5,1,Brody,Cheap gem
+100.0,22023,Green Jade,3,197693.23,4,3,Frank,GREEN JADE
+100.0,22023,Green Jade,3,197693.23,4,1,Brody,Cheap gem
 100.0,22024,Purple Jade,10,712502.25,4,1,Almao,SELL PURPLE JADE
 100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,103499.83,8,1,Goliat,Fragment Store
@@ -30,10 +30,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.52,22001,Furious Gem,888,2193.83,11,49,hunterx,bp/knife app/repu/fb/signet/gems
 59.09,28132,Voyager Cap,29999,73333.0,3,1,BjornIronside,@@@@
 59.01,25501,Brown Colorant,1000,2439.81,3,2,Brum,S>frozen colrs
-57.54,25391,Octopus Tentacle,190,447.44,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-57.54,25391,Octopus Tentacle,190,447.44,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-57.54,25391,Octopus Tentacle,190,447.44,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-57.54,25391,Octopus Tentacle,190,447.44,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
+57.52,25391,Octopus Tentacle,190,447.32,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
+57.52,25391,Octopus Tentacle,190,447.32,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
+57.52,25391,Octopus Tentacle,190,447.32,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
+57.52,25391,Octopus Tentacle,190,447.32,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.52,28450,Fire Sealed Tooth of Evanescence,8000,18833.17,5,1,Sakaki,chest/bow/boots/gps
 56.83,25452,Rock Gem Fragment,83999,194571.5,3,1,IchiShiki,all in one place
 55.72,28403,Blade of Incantation,110000,248444.0,4,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
@@ -44,10 +44,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.53,25212,Frozen Elixir,55,123.67,3,99,Brum,S>frozen colrs
 55.53,25212,Frozen Elixir,55,123.67,3,99,Brum,S>frozen colrs
 55.53,25212,Frozen Elixir,55,123.67,3,50,Brum,S>frozen colrs
-55.52,25391,Octopus Tentacle,199,447.44,5,99,vnt4,octopus tentacle come
-55.52,25391,Octopus Tentacle,199,447.44,5,97,vnt4,octopus tentacle come
-55.52,25391,Octopus Tentacle,199,447.44,5,99,vnt4,octopus tentacle come
-55.52,25391,Octopus Tentacle,199,447.44,5,99,vnt4,octopus tentacle come
+55.51,25391,Octopus Tentacle,199,447.32,5,99,vnt4,octopus tentacle come
+55.51,25391,Octopus Tentacle,199,447.32,5,97,vnt4,octopus tentacle come
+55.51,25391,Octopus Tentacle,199,447.32,5,99,vnt4,octopus tentacle come
+55.51,25391,Octopus Tentacle,199,447.32,5,99,vnt4,octopus tentacle come
 54.46,22001,Furious Gem,999,2193.83,11,2,cheapstuffsell,cheap
 54.42,22001,Furious Gem,1000,2193.83,11,7,Vendedor,Promotion
 54.42,22001,Furious Gem,1000,2193.83,11,13,011,cleaning
