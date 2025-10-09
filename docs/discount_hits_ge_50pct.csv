@@ -1,15 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,20,1254031.88,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
-100.0,22009,Gem of Colossus,27,1616671.17,3,1,barako,GEM OF COLO in  IMPS CHEAP
+100.0,22009,Gem of Colossus,27,1621432.43,4,1,barako,GEM OF COLO in  IMPS CHEAP
 100.0,22015,Demonic Gem of Rage,45,2550011.25,4,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
 100.0,22021,Yellow Jade,25,1420005.0,3,1,ShowerBro,afk
 100.0,22024,Purple Jade,10,616670.0,3,1,Almao,SELL PURPLE JADE
-100.0,25426,Universe Purse Fragment.,3,292857.14,4,1,Goliat,Fragment Store
-100.0,25431,Kal Runestone,13,745000.75,3,1,ShowerBro,afk
+100.0,25431,Kal Runestone,13,663334.33,3,1,ShowerBro,afk
 100.0,25451,Jade Gem Fragment,1,106922.31,5,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,109203.92,5,1,Goliat,Fragment Store
-99.99,25452,Rock Gem Fragment,12,109203.92,5,8,urhealer,123123
-99.98,28423,Mantle of the Cursed Flame,10,50003.0,3,1,Yoda,garner
+100.0,25452,Rock Gem Fragment,2,168666.8,3,1,Goliat,Fragment Store
 99.97,26377,Pharaoh's Lantern,2,7201.46,5,30,Mismagius,Pharaoh's Lanterns
 99.97,26377,Pharaoh's Lantern,2,7201.46,5,30,Saip,Pharaoh's Lanterns
 93.51,28440,Fire Sealed Roar of Evanescence,5000,77000.0,4,1,Nixm,Cheap Lv50 Items
@@ -20,12 +17,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 85.27,25497,Blue Colorant,800,5431.88,3,1,cheapstuffguys,cheap
 77.01,25258,Spirit Feather,199,865.77,3,99,LunaMaya,S> Jackpot Warrior Grenade
 75.71,22001,Furious Gem,500,2058.32,9,1,Anuel,CHAOS RUNESTONE
-72.58,26589,Potion of Bull,700,2552.67,11,8,xTrueHistory,jackpot/PPS/Potions
+73.23,26589,Potion of Bull,700,2614.93,12,8,xTrueHistory,PPS JACKPOT
 70.01,28430,Fire Sealed Robe of Malediction,1999,6666.5,4,1,TheMystic,- the manager went crazy -
 68.72,25396,Jelly Detector,150,479.59,3,1,Anuel,CHAOS RUNESTONE
 67.53,28440,Fire Sealed Roar of Evanescence,25000,77000.0,4,1,bowstalls,6acc 1agi boots/lv40-65gear3Page
 66.77,25423,Evanescence Rock,200,601.86,5,6,BL4CKM4RK3T,cheap stuff
-61.72,26588,Potion of Eagle,1000,2612.58,9,1,buffenjoyer,garner
+62.89,26588,Potion of Eagle,1000,2694.46,10,1,buffenjoyer,garner
 60.98,28456,Ice Sealed Robe of the Sphinx,19999,51249.75,4,1,TheMystic,- the manager went crazy -
 57.52,28450,Fire Sealed Tooth of Evanescence,8000,18833.17,5,1,Sakaki,PPS/GPS/armor/chest
 56.86,22001,Furious Gem,888,2058.32,9,49,hunterx,bp/knife app/repu/fb/signet/gems
@@ -46,6 +43,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.47,22001,Furious Gem,999,2058.32,9,2,cheapstuffsell,cheap
 51.42,22001,Furious Gem,1000,2058.32,9,13,011,cleaning
 51.22,28456,Ice Sealed Robe of the Sphinx,25000,51249.75,4,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
+50.29,26589,Potion of Bull,1300,2614.93,12,5,Cheap,asdasd
 50.02,25391,Octopus Tentacle,199,398.19,5,99,vnt4,octopus tentacle come
 50.02,25391,Octopus Tentacle,199,398.19,5,97,vnt4,octopus tentacle come
 50.02,25391,Octopus Tentacle,199,398.19,5,99,vnt4,octopus tentacle come
