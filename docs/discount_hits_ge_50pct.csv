@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,20,1262903.87,4,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
-100.0,22009,Gem of Colossus,23,1283341.67,4,1,jajaaaaja,Gems u need
-100.0,22009,Gem of Colossus,27,1283341.67,4,1,barako,GEM OF COLO in  IMPS CHEAP
+100.0,22007,Gem of Striking,20,1258485.45,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
+100.0,22009,Gem of Colossus,23,1341435.71,5,1,jajaaaaja,Gems u need
+100.0,22009,Gem of Colossus,27,1341435.71,5,1,barako,GEM OF COLO in  IMPS CHEAP
 100.0,22015,Demonic Gem of Rage,35,2040016.0,5,1,Eryndor,Demo Rage 3.5k imps`
 100.0,22015,Demonic Gem of Rage,45,2040016.0,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
 100.0,28469,Mantle of Enigma,80,4333360.0,3,1,XXXXX,zzzzzz
@@ -15,11 +15,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.44,28430,Fire Sealed Robe of Malediction,1999,6999.75,3,1,TheMystic,- the manager went crazy -
 71.25,22001,Furious Gem,700,2434.72,7,1,Anuel,CHEAP CHAOS RUNESTONE
 71.08,28440,Fire Sealed Roar of Evanescence,8000,27666.67,3,1,Sakaki,PPS/GPS/armor/chest
+71.08,28450,Fire Sealed Tooth of Evanescence,8000,27666.67,3,1,Sakaki,PPS/GPS/armor/chest
 67.76,25258,Spirit Feather,300,930.51,3,78,LunaMaya,S>Grenade FB
 60.98,28456,Ice Sealed Robe of the Sphinx,19999,51249.75,4,1,TheMystic,- the manager went crazy -
 58.93,22001,Furious Gem,1000,2434.72,7,13,011,cleaning
 58.55,28403,Blade of Incantation,110000,265370.17,5,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
-57.22,27021,Green Pirate Scroll,200,467.47,7,6,NecroManS,@@@@
 56.57,22004,Shining Gem,2000,4605.33,6,3,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
 52.63,30135,Demonic Rock,2998,6329.21,6,1,VendedoraJequiti,standard stone / expert stone /+
 52.26,25391,Octopus Tentacle,190,398.02,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T

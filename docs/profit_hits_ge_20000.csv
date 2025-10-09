@@ -2,9 +2,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,28469,Mantle of Enigma,XXXXX,zzzzzz,80,4333360.0,4333280.0,1,4333280.0,100.0,3
 2025-10-09,22015,Demonic Gem of Rage,Eryndor,Demo Rage 3.5k imps`,35,2040016.0,2039981.0,1,2039981.0,100.0,5
 2025-10-09,22015,Demonic Gem of Rage,Saladinhastall,DEMONIC GEM / GEM OF STRIKING,45,2040016.0,2039971.0,1,2039971.0,100.0,5
-2025-10-09,22009,Gem of Colossus,jajaaaaja,Gems u need,23,1283341.67,1283318.67,1,1283318.67,100.0,4
-2025-10-09,22009,Gem of Colossus,barako,GEM OF COLO in  IMPS CHEAP,27,1283341.67,1283314.67,1,1283314.67,100.0,4
-2025-10-09,22007,Gem of Striking,Saladinhastall,DEMONIC GEM / GEM OF STRIKING,20,1262903.87,1262883.87,1,1262883.87,100.0,4
+2025-10-09,22009,Gem of Colossus,jajaaaaja,Gems u need,23,1341435.71,1341412.71,1,1341412.71,100.0,5
+2025-10-09,22009,Gem of Colossus,barako,GEM OF COLO in  IMPS CHEAP,27,1341435.71,1341408.71,1,1341408.71,100.0,5
+2025-10-09,22007,Gem of Striking,Saladinhastall,DEMONIC GEM / GEM OF STRIKING,20,1258485.45,1258465.45,1,1258465.45,100.0,5
 2025-10-09,29310,Ring of Hawk,jajaaaaja,Gems u need,5,333335.0,333330.0,1,333330.0,100.0,3
 2025-10-09,29310,Ring of Hawk,jajaaaaja,Gems u need,5,333335.0,333330.0,1,333330.0,100.0,3
 2025-10-09,26377,Pharaoh's Lantern,Mismagius,Pharaoh's Lanterns,2,7260.28,7258.28,30,217748.49,99.97,4
@@ -63,6 +63,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,26573,Demonic Potion,KFCC,KFC SHOP 24-7 BEST POTS!,17500,20272.01,2772.01,45,124740.57,13.67,5
 2025-10-09,26573,Demonic Potion,TotemCookings,Totem Cookings Made wLove n Weed,17500,20272.01,2772.01,35,97020.44,13.67,5
 2025-10-09,25426,Universe Purse Fragment.,Vendedor,Promotion,290000,334999.62,44999.62,1,44999.62,13.43,5
+2025-10-09,22010,Gem of Rage,STAII,Cheap UGS and BPS,2190000,2523749.25,333749.25,1,333749.25,13.22,3
 2025-10-09,26585,Blessed Potion,SeaMaterials,Cheap Bless/Tuna,115000,132347.22,17347.22,10,173472.22,13.11,5
 2025-10-09,27019,Purple Pirate Scroll,Lira,PPS / MVM COINS,4190,4812.53,622.53,99,61630.76,12.94,12
 2025-10-09,28136,Crown of Decendant,Aurora,Super cheap stall buy all,1150000,1316666.67,166666.67,1,166666.67,12.66,3
@@ -82,6 +83,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,26572,Inferno Potion,BPCRAFT,BLESSED POTION/INFERNO/GUARDIAN,7850,8378.06,528.06,98,51749.78,6.3,6
 2025-10-09,26573,Demonic Potion,GeorgeFloyd,zzzzzz,19000,20272.01,1272.01,24,30528.3,6.27,5
 2025-10-09,30102,1000 Reputation Scroll,Saller,ty,8888,9420.81,532.81,39,20779.6,5.66,5
+2025-10-09,22007,Gem of Striking,STAII,Cheap UGS and BPS,1190000,1258485.45,68485.45,2,136970.91,5.44,5
 2025-10-09,27020,Gold Pirate Scroll,Mikosita,SELL IMPS/GPS/REF/JACKPOT,18999,19963.36,964.36,71,68469.53,4.83,9
 2025-10-09,27020,Gold Pirate Scroll,Jhoa,GPS/JACK C/FB/REF/PBS/POTION,19000,19963.36,963.36,28,26974.07,4.83,9
 2025-10-09,30156,Jackpot Coin,dogdogdog,Gold.Jackpot.Kal.GemFrags+,8490,8917.44,427.44,66,28210.73,4.79,13
@@ -94,3 +96,4 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,26572,Inferno Potion,DwShops,the finest cookings for DW,8200,8378.06,178.06,136,24216.02,2.13,6
 2025-10-09,30139,100x Crystal,Mallwart,CHEAPEST IMPS,140000,142334.72,2334.72,79,184443.06,1.64,4
 2025-10-09,28473,Bow of Enigma,Kaef,SALE,7000000,7083333.33,83333.33,1,83333.33,1.18,3
+2025-10-09,22010,Gem of Rage,BOOOOMBOOOM,CRUZ ITEMS UG RAGE,2499999,2523749.25,23750.25,6,142501.5,0.94,3
