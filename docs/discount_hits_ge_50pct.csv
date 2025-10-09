@@ -10,9 +10,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,103499.83,8,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,1,21000.75,3,2,BankoDeOros,CHEAP
 100.0,25525,,10,730344.97,7,2,RiasGremory,CHAOS JEWEL
-100.0,25534,,1,67487.93,7,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
-100.0,29308,Ring of Valor,2,61250.75,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
-100.0,29308,Ring of Valor,2,61250.75,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
+100.0,25534,,1,60840.1,8,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
+100.0,28136,Crown of Decendant,9,833336.33,3,1,Vneidnha,itens ss armor bow deat cap pet
+100.0,29308,Ring of Valor,2,71000.6,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
+100.0,29308,Ring of Valor,2,71000.6,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,25452,Rock Gem Fragment,2,21000.75,3,1,Goliat,Fragment Store
 99.99,28468,Ice Sealed Mantle of Enigma,10,74002.0,4,1,Vanny,ring of spell sealed ss bow pet
 99.97,26377,Pharaoh's Lantern,1,3365.66,4,79,Virginia,PHARAOH LANTERN 10imp EA
@@ -26,6 +27,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.01,25258,Spirit Feather,199,865.77,3,99,LunaMaya,S> Jackpot Warrior Grenade
 76.85,25503,Magical Stone,500,2159.77,3,99,Olkc,1234567891011121314151617181920
 73.28,26589,Potion of Bull,700,2620.2,13,8,xTrueHistory,Gps/jackpot/UniversepurseFragt/
+68.42,28423,Mantle of the Cursed Flame,20000,63333.0,3,1,Bathroom,asdasdasd
 66.77,25423,Evanescence Rock,200,601.86,5,6,BL4CKM4RK3T,PM xBlaze
 63.6,26588,Potion of Eagle,1000,2746.9,9,1,buffenjoyer,garner
 59.52,22001,Furious Gem,888,2193.83,11,49,hunterx,bp/knife app/repu/fb/signet/gems
