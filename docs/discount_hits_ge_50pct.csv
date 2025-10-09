@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,20,1258485.45,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
-100.0,22009,Gem of Colossus,27,1565004.5,4,1,barako,GEM OF COLO in  IMPS CHEAP
+100.0,22007,Gem of Striking,20,1260625.62,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
+100.0,22009,Gem of Colossus,27,1540005.4,3,1,barako,GEM OF COLO in  IMPS CHEAP
 100.0,22012,Demonic Gem of Wind,14,1105003.4,4,1,Systembuff,Dem Gems
 100.0,22012,Demonic Gem of Wind,20,1105003.4,4,1,Jew,zzzz
 100.0,22015,Demonic Gem of Rage,35,2040016.0,5,1,Eryndor,Demo Rage 3.5k imps`
@@ -9,7 +9,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28469,Mantle of Enigma,80,4166693.33,3,1,XXXXX,zzzzzz
 100.0,29310,Ring of Hawk,5,333335.0,3,1,jajaaaaja,Gems u need
 100.0,29310,Ring of Hawk,5,333335.0,3,1,jajaaaaja,Gems u need
-100.0,30168,Gyoza,1,23500.0,4,1,SailorVoy,Fragnent of fragment
 99.97,26377,Pharaoh's Lantern,2,7260.28,4,30,Mismagius,Pharaoh's Lanterns
 99.97,26377,Pharaoh's Lantern,2,7260.28,4,30,Saip,Pharaoh's Lanterns
 85.27,25497,Blue Colorant,800,5431.88,3,1,cheapstuffguys,cheap
@@ -18,8 +17,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.44,28430,Fire Sealed Robe of Malediction,1999,6999.75,3,1,TheMystic,- the manager went crazy -
 67.76,25258,Spirit Feather,300,930.51,3,78,LunaMaya,S>Grenade FB
 65.36,22001,Furious Gem,700,2021.06,7,1,Anuel,CHEAP CHAOS RUNESTONE
+61.68,26588,Potion of Eagle,1000,2609.34,10,1,buffenjoyer,garner
 60.98,28456,Ice Sealed Robe of the Sphinx,19999,51249.75,4,1,TheMystic,- the manager went crazy -
-58.62,28450,Fire Sealed Tooth of Evanescence,8000,19333.0,3,1,Sakaki,PPS/GPS/armor/chest
 57.89,22004,Shining Gem,2000,4749.91,5,3,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
 53.3,28403,Blade of Incantation,110000,235555.25,3,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 52.26,25391,Octopus Tentacle,190,398.02,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
