@@ -2,18 +2,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1258333.83,3,1,Saladinhastall,DEMON RAGE 3.5K
 100.0,22009,Gem of Colossus,25,1385721.71,4,1,Brody,Cheap gem
 100.0,22009,Gem of Colossus,27,1385721.71,4,1,barako,GEM OF COLO in  IMPS CHEAP
-100.0,22011,Gemof Sout,15,1058338.17,5,2,Brody,Cheap gem
+100.0,22011,Gemof Sout,15,1270002.8,5,1,Brody,Cheap gem
+100.0,22013,Demonic Gem of Striking,30,1321745.22,4,3,Seraphim,zz
+100.0,22013,Demonic Gem of Striking,25,1321745.22,4,2,Chacha,demonic strking
 100.0,22015,Demonic Gem of Rage,35,2550008.75,4,1,Saladinhastall,DEMON RAGE 3.5K
+100.0,22021,Yellow Jade,25,1420005.0,3,1,ShowerBro,AFK
 100.0,22023,Green Jade,3,175000.5,3,1,Brody,Cheap gem
 100.0,22024,Purple Jade,10,616670.0,3,1,Almao,SELL PURPLE JADE
-100.0,25451,Jade Gem Fragment,1,106922.31,5,1,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,104499.29,6,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,163375.06,4,1,Goliat,Fragment Store
 99.99,25031,Refining Gem,1,7521.23,11,13,Demicoin3,99c Gems/ Ref/ Support/Rep 99c
-99.99,30102,1000 Reputation Scroll,1,9206.87,8,2,Demicoin3,99c Gems/ Ref/ Support/Rep 99c
+99.99,30102,1000 Reputation Scroll,1,9187.21,9,2,Demicoin3,99c Gems/ Ref/ Support/Rep 99c
 99.99,30191,1000 Supporter Points Voucher,4,43206.74,3,5,Demicoin3,99c Gems/ Ref/ Support/Rep 99c
 99.98,22006,Spirit Gem,1,4235.64,8,16,Demicoin3,99c Gems/ Ref/ Support/Rep 99c
 99.97,26377,Pharaoh's Lantern,2,7206.16,4,30,Mismagius,Pharaoh's Lanterns
 99.97,26377,Pharaoh's Lantern,2,7206.16,4,30,Saip,Pharaoh's Lanterns
+99.97,28476,Ice Sealed Kris of the Sphinx,20,58336.17,3,1,MiaKhalifa,Dagger Voy Gemmed Cheap
 87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 87.74,25212,Frozen Elixir,60,489.39,3,29,PWTanker,Power Balls/Frozen Elixir/Bottle
@@ -24,17 +28,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.32,26589,Potion of Bull,700,2623.79,11,8,xTrueHistory,GPS/PPS/JACPOT/POTS
 68.72,25396,Jelly Detector,150,479.59,3,1,Anuel,CHAOS RUNESTONE
 66.77,25423,Evanescence Rock,200,601.86,5,6,BL4CKM4RK3T,cheap stuff
-62.89,26588,Potion of Eagle,1000,2694.46,10,1,buffenjoyer,garner
+62.91,26588,Potion of Eagle,1000,2696.4,9,1,buffenjoyer,garner
 60.98,28456,Ice Sealed Robe of the Sphinx,19999,51249.75,4,1,TheMystic,- the manager went crazy -
 58.14,28132,Voyager Cap,29999,71666.33,3,1,BjornIronside,@@@@
 57.52,28450,Fire Sealed Tooth of Evanescence,8000,18833.17,5,1,Sakaki,PPS/GPS/armor/chest
 57.41,22001,Furious Gem,888,2084.94,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 56.36,28429,Dance of Evanescence,800000,1833333.33,3,1,Bpsopen,Sell DOE clean
-56.1,28432,Fire Sealed Staff of Mirage,3000,6833.33,6,1,VENDEDORAA,BOE / SM50 / CRUS 60 / MORE
 53.3,28403,Blade of Incantation,110000,235555.25,3,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
-52.44,22004,Shining Gem,2000,4205.32,6,3,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
 52.28,25391,Octopus Tentacle,190,398.19,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 52.28,25391,Octopus Tentacle,190,398.19,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 52.28,25391,Octopus Tentacle,190,398.19,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
@@ -47,9 +49,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.09,22001,Furious Gem,999,2084.94,10,2,cheapstuffsell,cheap
 52.04,22001,Furious Gem,1000,2084.94,10,13,011,cleaning
 51.93,22003,Glowing Gem,2000,4160.64,6,6,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
+51.62,22004,Shining Gem,2000,4133.89,6,3,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
 51.22,28456,Ice Sealed Robe of the Sphinx,25000,51249.75,4,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 51.16,28132,Voyager Cap,35000,71666.33,3,1,sietemaridos,super cheap
-51.05,29056,20 Cooking EXP Card,999,2040.8,5,1,BjornIronside,@@@@
 50.02,25391,Octopus Tentacle,199,398.19,5,99,vnt4,octopus tentacle come
 50.02,25391,Octopus Tentacle,199,398.19,5,97,vnt4,octopus tentacle come
 50.02,25391,Octopus Tentacle,199,398.19,5,99,vnt4,octopus tentacle come
