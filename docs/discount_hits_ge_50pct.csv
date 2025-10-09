@@ -1,14 +1,13 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,20,1260606.67,4,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
-100.0,22012,Demonic Gem of Wind,14,645841.75,4,1,Systembuff,Dem Gems
-100.0,22012,Demonic Gem of Wind,20,645841.75,4,1,Jew,zzzz
 100.0,22015,Demonic Gem of Rage,45,2233348.33,3,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
-100.0,25431,Kal Runestone,13,596003.2,3,2,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw
-100.0,25525,,8,514584.17,6,4,staler,Selling
-100.0,25525,,6,514584.17,6,1,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw
+100.0,25431,Kal Runestone,11,496671.17,4,1,Aois,STALL
+100.0,25431,Kal Runestone,13,496671.17,4,2,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw
+100.0,25508,Demonic Gem Fragment,1,77777.44,3,2,staler,Selling
+100.0,25525,,8,480882.65,7,4,staler,Selling
+100.0,25525,,6,480882.65,7,1,zRoma,Demonic Colo/Ug Rage/Kal/ChaosJw
 100.0,25527,,10,424755.0,3,2,staler,Selling
-100.0,25534,,1,43000.5,3,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
-99.98,27019,Purple Pirate Scroll,1,5445.29,14,1,Mishker,1
+100.0,25534,,1,49545.91,4,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
 99.97,26377,Pharaoh's Lantern,2,6794.12,3,30,Mismagius,Pharaoh's Lanterns
 99.97,26377,Pharaoh's Lantern,2,6794.12,3,30,Saip,Pharaoh's Lanterns
 81.37,25258,Spirit Feather,170,912.28,4,5,Lane,come to the store
@@ -24,4 +23,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.76,28403,Blade of Incantation,110000,260444.2,4,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 55.94,22004,Shining Gem,2000,4539.55,5,3,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
 52.76,30135,Demonic Rock,2998,6345.65,6,1,VendedoraJequiti,standard stone / expert stone /+
+51.15,27021,Green Pirate Scroll,200,409.4,6,6,NecroManS,@@@@
+50.32,29056,20 Cooking EXP Card,999,2010.85,5,1,BjornIronside,@@@@@
 50.0,28432,Fire Sealed Staff of Mirage,3000,6000.0,4,1,VENDEDORAA,BOE / SM50 / CRUS 60 / MORE
