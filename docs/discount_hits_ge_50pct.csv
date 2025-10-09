@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,13,1170000.93,4,1,Dinamy,ug striking / demo striking
 100.0,22007,Gem of Striking,15,1170000.93,4,1,Saladinhastall,DEMON RAGE 3.5K
-100.0,22015,Demonic Gem of Rage,35,2740007.0,5,1,Saladinhastall,DEMON RAGE 3.5K
+100.0,22015,Demonic Gem of Rage,35,2683339.17,6,1,Saladinhastall,DEMON RAGE 3.5K
 100.0,22023,Green Jade,3,197693.23,4,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,197693.23,4,1,Brody,Cheap gem
 100.0,22024,Purple Jade,10,712502.25,4,1,Almao,SELL PURPLE JADE
@@ -36,7 +36,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.52,25391,Octopus Tentacle,190,447.32,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.52,25391,Octopus Tentacle,190,447.32,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.52,28450,Fire Sealed Tooth of Evanescence,8000,18833.17,5,1,Sakaki,chest/bow/boots/gps
-55.72,28403,Blade of Incantation,110000,248444.0,4,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 55.7,22006,Spirit Gem,3000,6771.73,8,3,Yennefer,KAL CLOUD EVA EXPSTONE SPIRIT VO
 55.68,22003,Glowing Gem,2000,4512.82,4,6,Jhoa,FB/PBS/JACK C/REF/POTION/
 55.53,25212,Frozen Elixir,55,123.67,3,99,Brum,S>frozen colrs
@@ -54,10 +53,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.49,28456,Ice Sealed Robe of the Sphinx,25000,53749.75,4,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
+52.24,28403,Blade of Incantation,110000,230316.86,6,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 51.68,22004,Shining Gem,2000,4138.89,5,3,Jhoa,FB/PBS/JACK C/REF/POTION/
 51.52,28429,Dance of Evanescence,800000,1650000.0,4,1,Bpsopen,Sell DOE clean
 51.48,25212,Frozen Elixir,60,123.67,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 51.48,25212,Frozen Elixir,60,123.67,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 51.48,25212,Frozen Elixir,60,123.67,3,29,PWTanker,Power Balls/Frozen Elixir/Bottle
-51.08,26590,Potion of Soul,1500,3066.43,9,3,Vendedor,Promotion
-51.08,26590,Potion of Soul,1500,3066.43,9,3,Space,GRENADELV2 /FB/ POTS ALL CHEAP
