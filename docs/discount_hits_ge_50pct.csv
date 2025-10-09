@@ -1,7 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,20,1260625.62,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
+100.0,22007,Gem of Striking,20,1255938.12,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
 100.0,22009,Gem of Colossus,27,1616671.17,3,1,barako,GEM OF COLO in  IMPS CHEAP
-100.0,22014,Demonic Gem of Colossus,30,1766676.67,3,1,Jew,zzzz
 100.0,22015,Demonic Gem of Rage,45,2550011.25,4,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
 100.0,22021,Yellow Jade,25,1420005.0,3,1,ShowerBro,afk
 100.0,22024,Purple Jade,10,616670.0,3,1,Almao,SELL PURPLE JADE
@@ -20,18 +19,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 87.74,25212,Frozen Elixir,60,489.39,3,29,PWTanker,Power Balls/Frozen Elixir/Bottle
 85.27,25497,Blue Colorant,800,5431.88,3,1,cheapstuffguys,cheap
+83.98,22001,Furious Gem,500,3120.28,8,1,Anuel,CHAOS RUNESTONE
 80.0,28440,Fire Sealed Roar of Evanescence,25000,125000.0,3,1,bowstalls,6acc 1agi boots/lv40-65gear3Page
 77.01,25258,Spirit Feather,199,865.77,3,99,LunaMaya,S> Jackpot Warrior Grenade
 72.56,26589,Potion of Bull,700,2551.4,12,8,xTrueHistory,jackpot/PPS/Potions
 71.44,28430,Fire Sealed Robe of Malediction,1999,6999.75,3,1,TheMystic,- the manager went crazy -
 71.02,25423,Evanescence Rock,200,690.18,4,6,BL4CKM4RK3T,cheap stuff
-68.48,22001,Furious Gem,999,3169.72,7,2,cheapstuffsell,cheap
-68.45,22001,Furious Gem,1000,3169.72,7,13,011,cleaning
+68.72,25396,Jelly Detector,150,479.59,3,1,Anuel,CHAOS RUNESTONE
+67.98,22001,Furious Gem,999,3120.28,8,2,cheapstuffsell,cheap
+67.95,22001,Furious Gem,1000,3120.28,8,13,011,cleaning
 61.68,26588,Potion of Eagle,1000,2609.34,10,1,buffenjoyer,garner
 60.98,28456,Ice Sealed Robe of the Sphinx,19999,51249.75,4,1,TheMystic,- the manager went crazy -
 58.48,22004,Shining Gem,2000,4816.6,5,3,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
 56.16,28450,Fire Sealed Tooth of Evanescence,8000,18249.75,4,1,Sakaki,PPS/GPS/armor/chest
-55.72,28403,Blade of Incantation,110000,248444.0,4,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
+53.3,28403,Blade of Incantation,110000,235555.25,3,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 52.27,25391,Octopus Tentacle,190,398.11,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 52.27,25391,Octopus Tentacle,190,398.11,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 52.27,25391,Octopus Tentacle,190,398.11,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
