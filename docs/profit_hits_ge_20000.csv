@@ -12,13 +12,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,25452,Rock Gem Fragment,Goliat,Fragment Store,2,182125.06,182123.06,1,182123.06,100.0,4
 2025-10-09,22023,Green Jade,Brody,Cheap gem,3,175000.5,174997.5,1,174997.5,100.0,3
 2025-10-09,25451,Jade Gem Fragment,Goliat,Fragment Store,1,107713.57,107712.57,1,107712.57,100.0,6
-2025-10-09,26377,Pharaoh's Lantern,Virginia,PHARAOH LANTERN 10imp EA,1,3677.29,3676.29,79,290426.86,99.97,4
+2025-10-09,26377,Pharaoh's Lantern,Virginia,PHARAOH LANTERN 10imp EA,1,3608.47,3607.47,79,284990.46,99.97,4
 2025-10-09,28476,Ice Sealed Kris of the Sphinx,MiaKhalifa,Dagger Voy Gemmed Cheap,20,58336.17,58316.17,1,58316.17,99.97,3
-2025-10-09,26377,Pharaoh's Lantern,Mismagius,Pharaoh's Lanterns,2,3677.29,3675.29,30,110258.68,99.95,4
-2025-10-09,26377,Pharaoh's Lantern,Saip,Pharaoh's Lanterns,2,3677.29,3675.29,30,110258.68,99.95,4
+2025-10-09,26377,Pharaoh's Lantern,Mismagius,Pharaoh's Lanterns,2,3608.47,3606.47,30,108194.22,99.94,4
+2025-10-09,26377,Pharaoh's Lantern,Saip,Pharaoh's Lanterns,2,3608.47,3606.47,30,108194.22,99.94,4
 2025-10-09,25212,Frozen Elixir,PWTanker,Power Balls/Frozen Elixir/Bottle,60,489.39,429.39,99,42509.64,87.74,3
 2025-10-09,25212,Frozen Elixir,PWTanker,Power Balls/Frozen Elixir/Bottle,60,489.39,429.39,99,42509.64,87.74,3
-2025-10-09,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,399,2906.32,2507.32,69,173004.95,86.27,4
 2025-10-09,25258,Spirit Feather,LunaMaya,S> Jackpot Warrior Grenade,199,865.77,666.77,99,66010.39,77.01,3
 2025-10-09,28132,Voyager Cap,BjornIronside,@@@@,29999,73333.0,43334.0,1,43334.0,59.09,3
 2025-10-09,22001,Furious Gem,hunterx,bp/knife app/repu/fb/signet/gems,888,2084.94,1196.94,49,58650.23,57.41,10
@@ -43,11 +42,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,25436,Chest of Demonic World II,ZSOLOZ,CHAOS JEWELL/JADE/GYOZA/REF/DW60,29999,51249.88,21250.88,1,21250.88,41.47,4
 2025-10-09,25507,Expert Stone,SeventhHeaven,Scrolls/Coins etc,1000,1570.98,570.98,99,56527.49,36.35,5
 2025-10-09,25507,Expert Stone,AAA123,1231313131231,1000,1570.98,570.98,99,56527.49,36.35,5
-2025-10-09,27014,Moonroot Wine,Aries,UG colo/crus app/item here,500,748.21,248.21,126,31274.67,33.17,4
+2025-10-09,27014,Moonroot Wine,Aries,UG colo/crus app/item here,500,748.96,248.96,126,31368.6,33.24,4
 2025-10-09,22000,FieryGem,hunterx,bp/knife app/repu/fb/signet/gems,2850,4176.07,1326.07,16,21217.04,31.75,8
 2025-10-09,27025,Radiation Lv1,Kalista,detector fb radiation,2399,3470.23,1071.23,72,77128.75,30.87,4
 2025-10-09,28403,Blade of Incantation,CallMeBaby,cheap,165555,235555.25,70000.25,1,70000.25,29.72,3
-2025-10-09,26575,Guardian's Brew,F0X01,Guardian Brew and Grenade lv2,550,773.7,223.7,168,37581.91,28.91,5
+2025-10-09,26575,Guardian's Brew,F0X01,Guardian Brew and Grenade lv2,550,774.01,224.01,168,37634.38,28.94,5
 2025-10-09,27025,Radiation Lv1,Bankaquaq,Radiation/FB/Grenade/,2500,3470.23,970.23,200,194046.52,27.96,4
 2025-10-09,27025,Radiation Lv1,Bankaquaq,Radiation/FB/Grenade/,2500,3470.23,970.23,160,155237.22,27.96,4
 2025-10-09,27025,Radiation Lv1,Bankaquaq,Radiation/FB/Grenade/,2500,3470.23,970.23,160,155237.22,27.96,4
@@ -67,16 +66,16 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,22006,Spirit Gem,4444,i Sell,5000,6457.42,1457.42,23,33520.58,22.57,8
 2025-10-09,26591,Potion of Lion,Juyii,POTION POTUON,2250,2887.48,637.48,35,22311.83,22.08,8
 2025-10-09,25436,Chest of Demonic World II,MiLD,rush,40000,51249.88,11249.88,2,22499.75,21.95,4
-2025-10-09,27014,Moonroot Wine,vnt3,Iron Brew - Moonroot Wine,599,748.21,149.21,200,29842.33,19.94,4
+2025-10-09,26560,Cooked Bluefin Tuna,iSiku,cooked tuna,2000,2524.0,524.0,132,69167.75,20.76,4
+2025-10-09,27014,Moonroot Wine,vnt3,Iron Brew - Moonroot Wine,599,748.96,149.96,200,29991.43,20.02,4
 2025-10-09,28472,Ice Sealed Bow of Enigma,Jumong,SEALED BOW 60 +4 / PBS,350000,433333.33,83333.33,1,83333.33,19.23,3
 2025-10-09,30102,1000 Reputation Scroll,hunterx,bp/knife app/repu/fb/signet/gems,7750,9528.06,1778.06,41,72900.27,18.66,7
 2025-10-09,28429,Dance of Evanescence,Magatah,EVANESCENCE,1500000,1833333.33,333333.33,1,333333.33,18.18,3
 2025-10-09,25525,,CITAMZ,CHAOS JEWELLS AND BLESSED RUNES,650000,791785.14,141785.14,6,850710.86,17.91,6
-2025-10-09,26588,Potion of Eagle,Juyii,POTION POTUON,2250,2695.03,445.03,66,29371.84,16.51,9
+2025-10-09,26588,Potion of Eagle,Juyii,POTION POTUON,2250,2704.26,454.26,66,29981.29,16.8,8
 2025-10-09,25525,,Pots,Chaos Jewel/GoldenRock/Tuna/Crab,670000,791785.14,121785.14,4,487140.57,15.38,6
 2025-10-09,22004,Shining Gem,hunterx,bp/knife app/repu/fb/signet/gems,3500,4133.89,633.89,52,32962.43,15.33,6
 2025-10-09,28473,Bow of Enigma,viiiiiki,6m uns 65 ss gmmed,6000000,7083333.33,1083333.33,1,1083333.33,15.29,3
-2025-10-09,25534,,Saketh,Sell Fragment of ftagmentation,65000,76718.66,11718.66,6,70311.94,15.27,6
 2025-10-09,25525,,zRoma,Cheapest Dem Colo/Chaos Jewellss,695000,791785.14,96785.14,2,193570.29,12.22,6
 2025-10-09,30156,Jackpot Coin,SailinSnail,Sell cheap,8000,9099.25,1099.25,30,32977.47,12.08,14
 2025-10-09,30191,1000 Supporter Points Voucher,DD44,123131313131231,40000,45439.51,5439.51,53,288293.79,11.97,3
@@ -87,14 +86,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,25430,Enigma Power,Garp,ENIGMA POWER FAST,2600,2902.87,302.87,90,27257.96,10.43,7
 2025-10-09,30135,Demonic Rock,staller2,Demonic rock/expert stone,3500,3897.55,397.55,60,23853.08,10.2,7
 2025-10-09,26578,Aegis Brew,Signet,Aegis/Inferno/Tuna,50000,55383.33,5383.33,5,26916.67,9.72,4
-2025-10-09,27019,Purple Pirate Scroll,MiLD,rush,4050,4480.21,430.21,75,32265.82,9.6,11
+2025-10-09,27019,Purple Pirate Scroll,MiLD,rush,4050,4482.23,432.23,75,32417.36,9.64,11
 2025-10-09,25091,Heavy Crystal,conqstall2,Hearts changecards heavycr potts,3000,3317.02,317.02,99,31385.24,9.56,4
 2025-10-09,30156,Jackpot Coin,SellMeWhole,S>cheap blueprints and JACKPOT,8300,9099.25,799.25,40,31969.97,8.78,14
-2025-10-09,27019,Purple Pirate Scroll,MatsBk,S>PPS/PBS/JC,4100,4480.21,380.21,99,37640.88,8.49,11
-2025-10-09,27019,Purple Pirate Scroll,MatsBk,S>PPS/PBS/JC,4100,4480.21,380.21,74,28135.61,8.49,11
+2025-10-09,27019,Purple Pirate Scroll,MatsBk,S>PPS/PBS/JC,4100,4482.23,382.23,99,37840.91,8.53,11
+2025-10-09,27019,Purple Pirate Scroll,MatsBk,S>PPS/PBS/JC,4100,4482.23,382.23,74,28285.12,8.53,11
 2025-10-09,25092,Blue Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3299,3569.46,270.46,99,26775.22,7.58,4
+2025-10-09,26588,Potion of Eagle,GeorgeFloyd,zzzzzz,2500,2704.26,204.26,200,40852.4,7.55,8
 2025-10-09,26572,Inferno Potion,BPCRAFT,BLESSED POTION/INFERNO/GUARDIAN,7850,8474.75,624.75,73,45606.9,7.37,7
-2025-10-09,26588,Potion of Eagle,GeorgeFloyd,zzzzzz,2500,2695.03,195.03,200,39005.56,7.24,9
+2025-10-09,25534,,buyme,FRAGMENTS !,74000,79422.96,5422.96,16,86767.38,6.83,5
 2025-10-09,30102,1000 Reputation Scroll,Saller,ty,8888,9528.06,640.06,39,24962.16,6.72,7
 2025-10-09,30156,Jackpot Coin,dogdogdog,Gold.Jackpot.Kal.GemFrags+,8490,9099.25,609.25,66,40210.44,6.7,14
 2025-10-09,30156,Jackpot Coin,MatsBk,S>PPS/PBS/JC,8500,9099.25,599.25,99,59325.67,6.59,14
@@ -102,9 +102,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,22007,Gem of Striking,Aurora,cheapest items,1180000,1255806.94,75806.94,1,75806.94,6.04,4
 2025-10-09,26572,Inferno Potion,TotemCookings,Totem Cookings Made wLove n Weed,8000,8474.75,474.75,116,55071.23,5.6,7
 2025-10-09,26572,Inferno Potion,Mamii,POTS BETTER THAN TOTEM HE SUCKS,8000,8474.75,474.75,79,37505.41,5.6,7
-2025-10-09,26585,Blessed Potion,Sellerxdxd,Bless,95000,100264.56,5264.56,6,31587.38,5.25,6
+2025-10-09,26585,Blessed Potion,Sellerxdxd,Bless,95000,100216.05,5216.05,6,31296.31,5.2,6
 2025-10-09,26568,Skating Potion,Tralalera,GYOZA WORLD WITH SKATINGS!,44999,47114.85,2115.85,13,27506.0,4.49,3
-2025-10-09,25534,,buyme,FRAGMENTS !,74000,76718.66,2718.66,16,43498.5,3.54,6
 2025-10-09,26572,Inferno Potion,DwShops,the finest cookings for DW,8200,8474.75,274.75,136,37366.27,3.24,7
 2025-10-09,26572,Inferno Potion,KFCC,KFC SHOP 24-7 BEST POTS!,8200,8474.75,274.75,100,27475.2,3.24,7
 2025-10-09,30139,100x Crystal,Mallwart,S> IMPS,98900,102013.9,3113.9,77,239770.52,3.05,8
@@ -113,4 +112,3 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,30139,100x Crystal,Dragonite,1111,100000,102013.9,2013.9,40,80556.11,1.97,8
 2025-10-09,26573,Demonic Potion,GordanRamsay,Cheapest Bless   Demonics !!!!!!,17300,17572.92,272.92,119,32477.98,1.55,4
 2025-10-09,28473,Bow of Enigma,Kaef,SALE SS,7000000,7083333.33,83333.33,1,83333.33,1.18,3
-2025-10-09,26585,Blessed Potion,GordanRamsay,Cheapest Bless   Demonics !!!!!!,99900,100264.56,364.56,57,20780.15,0.36,6

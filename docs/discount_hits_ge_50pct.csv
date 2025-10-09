@@ -12,14 +12,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22024,Purple Jade,10,616670.0,3,1,Almao,SELL PURPLE JADE
 100.0,25451,Jade Gem Fragment,1,107713.57,6,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,182125.06,4,1,Goliat,Fragment Store
-99.97,26377,Pharaoh's Lantern,1,3677.29,4,79,Virginia,PHARAOH LANTERN 10imp EA
+99.97,26377,Pharaoh's Lantern,1,3608.47,4,79,Virginia,PHARAOH LANTERN 10imp EA
 99.97,28476,Ice Sealed Kris of the Sphinx,20,58336.17,3,1,MiaKhalifa,Dagger Voy Gemmed Cheap
-99.95,26377,Pharaoh's Lantern,2,3677.29,4,30,Mismagius,Pharaoh's Lanterns
-99.95,26377,Pharaoh's Lantern,2,3677.29,4,30,Saip,Pharaoh's Lanterns
+99.94,26377,Pharaoh's Lantern,2,3608.47,4,30,Mismagius,Pharaoh's Lanterns
+99.94,26377,Pharaoh's Lantern,2,3608.47,4,30,Saip,Pharaoh's Lanterns
 87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 87.74,25212,Frozen Elixir,60,489.39,3,29,PWTanker,Power Balls/Frozen Elixir/Bottle
-86.27,25094,Purple Crystal,399,2906.32,4,69,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
 85.27,25497,Blue Colorant,800,5431.88,3,1,cheapstuffguys,cheap
 77.01,25258,Spirit Feather,199,865.77,3,99,LunaMaya,S> Jackpot Warrior Grenade
 76.48,28430,Fire Sealed Robe of Malediction,1999,8499.83,4,1,TheMystic,- the manager went crazy -
@@ -27,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.33,26589,Potion of Bull,700,2624.8,11,8,xTrueHistory,GPS/PPS/JACPOT/POTS
 68.72,25396,Jelly Detector,150,479.59,3,1,Anuel,CHAOS RUNESTONE
 66.77,25423,Evanescence Rock,200,601.86,5,6,BL4CKM4RK3T,cheap stuff
-62.89,26588,Potion of Eagle,1000,2695.03,9,1,buffenjoyer,garner
+63.02,26588,Potion of Eagle,1000,2704.26,8,1,buffenjoyer,garner
 59.09,28132,Voyager Cap,29999,73333.0,3,1,BjornIronside,@@@@
 57.52,28450,Fire Sealed Tooth of Evanescence,8000,18833.17,5,1,Sakaki,PPS/GPS/armor/chest
 57.41,22001,Furious Gem,888,2084.94,10,49,hunterx,bp/knife app/repu/fb/signet/gems
