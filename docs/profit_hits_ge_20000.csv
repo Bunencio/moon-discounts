@@ -31,18 +31,19 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,25503,Magical Stone,Olkc,1234567891011121314151617181920,500,2159.77,1659.77,99,164317.67,76.85,3
 2025-10-09,22001,Furious Gem,hunterx,bp/knife app/repu/fb/signet/gems,888,2193.83,1305.83,49,63985.64,59.52,11
 2025-10-09,28132,Voyager Cap,BjornIronside,@@@@,29999,73333.0,43334.0,1,43334.0,59.09,3
-2025-10-09,25391,Octopus Tentacle,BakolCumiCumi,Red Blueprint Scroll | Octopus T,190,447.32,257.32,99,25474.64,57.52,5
-2025-10-09,25391,Octopus Tentacle,BakolCumiCumi,Red Blueprint Scroll | Octopus T,190,447.32,257.32,99,25474.64,57.52,5
-2025-10-09,25391,Octopus Tentacle,BakolCumiCumi,Red Blueprint Scroll | Octopus T,190,447.32,257.32,99,25474.64,57.52,5
-2025-10-09,25391,Octopus Tentacle,BakolCumiCumi,Red Blueprint Scroll | Octopus T,190,447.32,257.32,98,25217.32,57.52,5
-2025-10-09,25391,Octopus Tentacle,vnt4,octopus tentacle come,199,447.32,248.32,99,24583.64,55.51,5
-2025-10-09,25391,Octopus Tentacle,vnt4,octopus tentacle come,199,447.32,248.32,99,24583.64,55.51,5
-2025-10-09,25391,Octopus Tentacle,vnt4,octopus tentacle come,199,447.32,248.32,99,24583.64,55.51,5
-2025-10-09,25391,Octopus Tentacle,vnt4,octopus tentacle come,199,447.32,248.32,97,24087.0,55.51,5
+2025-10-09,25391,Octopus Tentacle,BakolCumiCumi,Red Blueprint Scroll | Octopus T,190,447.44,257.44,99,25486.43,57.54,5
+2025-10-09,25391,Octopus Tentacle,BakolCumiCumi,Red Blueprint Scroll | Octopus T,190,447.44,257.44,99,25486.43,57.54,5
+2025-10-09,25391,Octopus Tentacle,BakolCumiCumi,Red Blueprint Scroll | Octopus T,190,447.44,257.44,99,25486.43,57.54,5
+2025-10-09,25391,Octopus Tentacle,BakolCumiCumi,Red Blueprint Scroll | Octopus T,190,447.44,257.44,98,25228.99,57.54,5
+2025-10-09,25391,Octopus Tentacle,vnt4,octopus tentacle come,199,447.44,248.44,99,24595.43,55.52,5
+2025-10-09,25391,Octopus Tentacle,vnt4,octopus tentacle come,199,447.44,248.44,99,24595.43,55.52,5
+2025-10-09,25391,Octopus Tentacle,vnt4,octopus tentacle come,199,447.44,248.44,99,24595.43,55.52,5
+2025-10-09,25391,Octopus Tentacle,vnt4,octopus tentacle come,199,447.44,248.44,96,23850.11,55.52,5
 2025-10-09,28456,Ice Sealed Robe of the Sphinx,Swird,Steel/Tribal/Storm/Bow55/Sphinx,25000,53749.75,28749.75,1,28749.75,53.49,4
 2025-10-09,28403,Blade of Incantation,PublicWin,BOI/Dragon Fruit/Pet/Gloves,110000,230316.86,120316.86,1,120316.86,52.24,6
 2025-10-09,28429,Dance of Evanescence,Bpsopen,Sell DOE clean,800000,1650000.0,850000.0,1,850000.0,51.52,4
 2025-10-09,25422,Evanescence Power,iLegolas,CookinCard Power Ref Rock PPs,4850,9063.27,4213.27,6,25279.59,46.49,3
+2025-10-09,28409,Coat of Invocation,GrudgE,SELLING PRICE,75000,138333.33,63333.33,1,63333.33,45.78,3
 2025-10-09,28132,Voyager Cap,sietemaridos,still cheap,40000,73333.0,33333.0,1,33333.0,45.45,3
 2025-10-09,25525,,iGoro,Cleric Uns 55/Jewel Frag/PPS/PBS,400000,730344.97,330344.97,1,330344.97,45.23,7
 2025-10-09,28456,Ice Sealed Robe of the Sphinx,TheMystic,- SM STUFF -,29999,53749.75,23750.75,1,23750.75,44.19,4
@@ -66,6 +67,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,27014,Moonroot Wine,Artemida,COOK,500,695.38,195.38,193,37708.17,28.1,4
 2025-10-09,27014,Moonroot Wine,Aries,UG colo/crus app/item here,500,695.38,195.38,126,24617.77,28.1,4
 2025-10-09,27014,Moonroot Wine,Jackson,CHEAP COOK HP POTS,500,695.38,195.38,118,23054.74,28.1,4
+2025-10-09,28409,Coat of Invocation,xkom,FRAGMENTS | INVOCATION| SHIP,100000,138333.33,38333.33,1,38333.33,27.71,3
 2025-10-09,26002,Pharaoh Gem,BuyingSta4ll7,GPS | PPS | JACK | PHAROH ++++++,1350,1854.46,504.46,54,27240.82,27.2,5
 2025-10-09,25497,Blue Colorant,hahahehehoho,All colorants,4000,5330.56,1330.56,51,67858.33,24.96,4
 2025-10-09,25495,Green Colorant,hahahehehoho,All colorants,4000,5305.56,1305.56,52,67888.89,24.61,4
@@ -133,7 +135,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,27019,Purple Pirate Scroll,Ozy,Rushhh,4100,4491.59,391.59,99,38767.06,8.72,10
 2025-10-09,25525,,Pots,Chaos Jewel/GoldenRock/Tuna/Crab,670000,730344.97,60344.97,4,241379.86,8.26,7
 2025-10-09,30168,Gyoza,MiLD,r,23000,24964.3,1964.3,16,31428.77,7.87,3
-2025-10-09,30139,100x Crystal,Fhhrer,IMPS/yellowjade/cap+4con/colo,90000,97422.9,7422.9,50,371144.84,7.62,8
+2025-10-09,30139,100x Crystal,Fhhrer,IMPS/yellowjade/cap+4con/colo,90000,97424.85,7424.85,50,371242.28,7.62,8
 2025-10-09,25092,Blue Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3299,3569.46,270.46,99,26775.22,7.58,4
 2025-10-09,26572,Inferno Potion,BPCRAFT,BLESS/INFERNO/IRON/RAD/GUARDIAN,7900,8501.39,601.39,73,43901.29,7.07,8
 2025-10-09,22435,,DiscipleTwo,Bracelet Chest|Coins|Scrolls|BPs,449999,483332.67,33333.67,1,33333.67,6.9,3
@@ -151,11 +153,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-09,28473,Bow of Enigma,Kaef,SALE SS,6500000,6816666.67,316666.67,1,316666.67,4.65,3
 2025-10-09,26572,Inferno Potion,DwShops,the finest cookings for DW,8200,8501.39,301.39,136,40988.71,3.55,8
 2025-10-09,26572,Inferno Potion,KFCC,KFC SHOP 24-7 BEST POTS!,8200,8501.39,301.39,100,30138.76,3.55,8
-2025-10-09,30139,100x Crystal,Paluto,IMPS,94999,97422.9,2423.9,29,70293.01,2.49,8
-2025-10-09,30139,100x Crystal,PUTANG,LAST CHEAP IMPS IN SERVER,94998,97422.9,2424.9,10,24248.97,2.49,8
-2025-10-09,30139,100x Crystal,Ozy,Rushhh,95000,97422.9,2422.9,9,21806.07,2.49,8
+2025-10-09,30139,100x Crystal,Paluto,IMPS,94999,97424.85,2425.85,29,70349.52,2.49,8
+2025-10-09,30139,100x Crystal,PUTANG,LAST CHEAP IMPS IN SERVER,94998,97424.85,2426.85,10,24268.46,2.49,8
+2025-10-09,30139,100x Crystal,Ozy,Rushhh,95000,97424.85,2424.85,9,21823.61,2.49,8
 2025-10-09,26573,Demonic Potion,GordanRamsay,Cheapest Bless   Demonics !!!!!!,17300,17571.38,271.38,119,32293.84,1.54,4
 2025-10-09,25433,Blessed Runestone,Pineapple,bless,940000,950000.0,10000.0,2,20000.0,1.05,3
-2025-10-09,30139,100x Crystal,Mallwart,S> IMPS,96999,97422.9,423.9,68,28824.98,0.44,8
-2025-10-09,30139,100x Crystal,FreePalestine1,sell imps,97000,97422.9,422.9,99,41866.78,0.43,8
-2025-10-09,30139,100x Crystal,Mikosita,SELL IMPS/JACKPOT/REF/GREEN JADE,97000,97422.9,422.9,61,25796.7,0.43,8
+2025-10-09,30139,100x Crystal,FreePalestine1,sell imps,97000,97424.85,424.85,99,42059.72,0.44,8
+2025-10-09,30139,100x Crystal,Mallwart,S> IMPS,96999,97424.85,425.85,68,28957.5,0.44,8
+2025-10-09,30139,100x Crystal,Mikosita,SELL IMPS/JACKPOT/REF/GREEN JADE,97000,97424.85,424.85,61,25915.58,0.44,8
