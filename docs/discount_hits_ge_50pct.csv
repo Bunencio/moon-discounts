@@ -7,7 +7,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,103499.83,8,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,182125.06,4,1,Goliat,Fragment Store
 100.0,25525,,10,742143.0,6,2,RiasGremory,CHAOS JEWEL
-100.0,25534,,1,63150.05,8,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
+100.0,25534,,1,68302.37,7,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
 99.97,26377,Pharaoh's Lantern,1,3608.47,4,79,Virginia,PHARAOH LANTERN 10imp EA
 99.97,28476,Ice Sealed Kris of the Sphinx,20,58336.17,3,1,MiaKhalifa,Dagger Voy Gemmed Cheap
 99.94,26377,Pharaoh's Lantern,2,3608.47,4,30,Mismagius,Pharaoh's Lanterns
@@ -27,7 +27,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.43,26564,Meditation Potion,1000,2527.02,4,200,Daisy,fairy box cheap af
 60.43,26564,Meditation Potion,1000,2527.02,4,200,Daisy,fairy box cheap af
 60.43,26564,Meditation Potion,1000,2527.02,4,110,Daisy,fairy box cheap af
-60.41,25534,,25000,63150.05,8,4,WhereIsMyBraSize,dyjtdy
 59.09,28132,Voyager Cap,29999,73333.0,3,1,BjornIronside,@@@@
 57.54,25391,Octopus Tentacle,190,447.44,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.54,25391,Octopus Tentacle,190,447.44,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
