@@ -1,14 +1,17 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,20,1254031.88,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
-100.0,22009,Gem of Colossus,27,1621432.43,4,1,barako,GEM OF COLO in  IMPS CHEAP
+100.0,22007,Gem of Striking,20,1258334.0,3,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
+100.0,22009,Gem of Colossus,25,1418756.5,5,1,Brody,Cheap gem
+100.0,22009,Gem of Colossus,27,1418756.5,5,1,barako,GEM OF COLO in  IMPS CHEAP
+100.0,22011,Gemof Sout,15,1107147.0,5,2,Brody,Cheap gem
 100.0,22015,Demonic Gem of Rage,45,2550011.25,4,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
 100.0,22021,Yellow Jade,25,1420005.0,3,1,ShowerBro,afk
+100.0,22023,Green Jade,3,175000.5,3,1,Brody,Cheap gem
 100.0,22024,Purple Jade,10,616670.0,3,1,Almao,SELL PURPLE JADE
 100.0,25431,Kal Runestone,13,663334.33,3,1,ShowerBro,afk
 100.0,25451,Jade Gem Fragment,1,106922.31,5,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,168666.8,3,1,Goliat,Fragment Store
-99.97,26377,Pharaoh's Lantern,2,7201.46,5,30,Mismagius,Pharaoh's Lanterns
-99.97,26377,Pharaoh's Lantern,2,7201.46,5,30,Saip,Pharaoh's Lanterns
+99.97,26377,Pharaoh's Lantern,2,7206.16,4,30,Mismagius,Pharaoh's Lanterns
+99.97,26377,Pharaoh's Lantern,2,7206.16,4,30,Saip,Pharaoh's Lanterns
 93.51,28440,Fire Sealed Roar of Evanescence,5000,77000.0,4,1,Nixm,Cheap Lv50 Items
 93.51,28440,Fire Sealed Roar of Evanescence,5000,77000.0,4,1,Nixm,Cheap Lv50 Items
 87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
@@ -17,6 +20,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 85.27,25497,Blue Colorant,800,5431.88,3,1,cheapstuffguys,cheap
 77.01,25258,Spirit Feather,199,865.77,3,99,LunaMaya,S> Jackpot Warrior Grenade
 75.71,22001,Furious Gem,500,2058.32,9,1,Anuel,CHAOS RUNESTONE
+73.32,26589,Potion of Bull,700,2623.79,11,8,xTrueHistory,GPS/PPS/JACPOT/POTS
 70.01,28430,Fire Sealed Robe of Malediction,1999,6666.5,4,1,TheMystic,- the manager went crazy -
 68.72,25396,Jelly Detector,150,479.59,3,1,Anuel,CHAOS RUNESTONE
 67.53,28440,Fire Sealed Roar of Evanescence,25000,77000.0,4,1,bowstalls,6acc 1agi boots/lv40-65gear3Page
@@ -42,7 +46,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.47,22001,Furious Gem,999,2058.32,9,2,cheapstuffsell,cheap
 51.42,22001,Furious Gem,1000,2058.32,9,13,011,cleaning
 51.22,28456,Ice Sealed Robe of the Sphinx,25000,51249.75,4,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
-50.68,26589,Potion of Bull,1300,2635.66,11,5,Cheap,asdasd
 50.02,25391,Octopus Tentacle,199,398.19,5,99,vnt4,octopus tentacle come
 50.02,25391,Octopus Tentacle,199,398.19,5,97,vnt4,octopus tentacle come
 50.02,25391,Octopus Tentacle,199,398.19,5,99,vnt4,octopus tentacle come
