@@ -8,8 +8,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,103499.83,8,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,1,21000.75,3,2,BankoDeOros,CHEAP
-100.0,25525,,10,742143.0,6,2,RiasGremory,CHAOS JEWEL
-100.0,25534,,1,67425.12,6,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
+100.0,25525,,10,730344.97,7,2,RiasGremory,CHAOS JEWEL
+100.0,25534,,1,67487.93,7,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
 100.0,29308,Ring of Valor,2,61250.75,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,29308,Ring of Valor,2,61250.75,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,25452,Rock Gem Fragment,2,21000.75,3,1,Goliat,Fragment Store
@@ -36,7 +36,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.52,25391,Octopus Tentacle,190,447.32,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.52,25391,Octopus Tentacle,190,447.32,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.52,28450,Fire Sealed Tooth of Evanescence,8000,18833.17,5,1,Sakaki,chest/bow/boots/gps
-55.7,22006,Spirit Gem,3000,6771.73,8,3,Yennefer,KAL CLOUD EVA EXPSTONE SPIRIT VO
 55.68,22003,Glowing Gem,2000,4512.82,4,6,Jhoa,FB/PBS/JACK C/REF/POTION/
 55.53,25212,Frozen Elixir,55,123.67,3,99,Brum,S>frozen colrs
 55.53,25212,Frozen Elixir,55,123.67,3,99,Brum,S>frozen colrs
