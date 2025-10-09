@@ -1,19 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,15,1255806.94,4,1,Saladinhastall,DEMON RAGE 3.5K
-100.0,22012,Demonic Gem of Wind,20,1103177.43,3,1,Jew,zzzz
-100.0,22013,Demonic Gem of Striking,30,1394877.12,5,3,Seraphim,zz
-100.0,22013,Demonic Gem of Striking,25,1394877.12,5,2,Chacha,demonic strking
+100.0,22007,Gem of Striking,15,957503.75,4,1,Saladinhastall,DEMON RAGE 3.5K
 100.0,22015,Demonic Gem of Rage,35,2740007.0,5,1,Saladinhastall,DEMON RAGE 3.5K
-100.0,22016,Demonic Gem of Sout,25,791125.6,4,1,Seraphim,zz
-100.0,22016,Demonic Gem of Sout,25,791125.6,4,1,ShowerBro,AFK
-100.0,22016,Demonic Gem of Sout,23,791125.6,4,1,Brody,Cheap gem
-100.0,22021,Yellow Jade,25,1420005.0,3,1,ShowerBro,AFK
 100.0,22023,Green Jade,3,175000.5,3,1,Brody,Cheap gem
 100.0,22024,Purple Jade,10,712502.25,4,1,Almao,SELL PURPLE JADE
 100.0,25451,Jade Gem Fragment,1,103499.83,8,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,182125.06,4,1,Goliat,Fragment Store
 100.0,25525,,10,742143.0,6,2,RiasGremory,CHAOS JEWEL
-100.0,25534,,1,64900.05,8,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
+100.0,25534,,1,63150.05,8,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
 99.97,26377,Pharaoh's Lantern,1,3608.47,4,79,Virginia,PHARAOH LANTERN 10imp EA
 99.97,28476,Ice Sealed Kris of the Sphinx,20,58336.17,3,1,MiaKhalifa,Dagger Voy Gemmed Cheap
 99.94,26377,Pharaoh's Lantern,2,3608.47,4,30,Mismagius,Pharaoh's Lanterns
@@ -33,6 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.43,26564,Meditation Potion,1000,2527.02,4,200,Daisy,fairy box cheap af
 60.43,26564,Meditation Potion,1000,2527.02,4,200,Daisy,fairy box cheap af
 60.43,26564,Meditation Potion,1000,2527.02,4,110,Daisy,fairy box cheap af
+60.41,25534,,25000,63150.05,8,4,WhereIsMyBraSize,dyjtdy
 59.09,28132,Voyager Cap,29999,73333.0,3,1,BjornIronside,@@@@
 57.54,25391,Octopus Tentacle,190,447.44,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.54,25391,Octopus Tentacle,190,447.44,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
@@ -52,6 +46,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.52,25391,Octopus Tentacle,199,447.44,5,99,vnt4,octopus tentacle come
 55.52,25391,Octopus Tentacle,199,447.44,5,99,vnt4,octopus tentacle come
 53.88,25452,Rock Gem Fragment,83999,182125.06,4,1,IchiShiki,all in one place
+53.49,28456,Ice Sealed Robe of the Sphinx,25000,53749.75,4,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
 51.52,28429,Dance of Evanescence,800000,1650000.0,4,1,Bpsopen,Sell DOE clean
