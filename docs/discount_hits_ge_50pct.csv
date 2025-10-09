@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,20,1260625.62,5,1,Saladinhastall,DEMONIC GEM / GEM OF STRIKING
-100.0,22009,Gem of Colossus,27,1540005.4,3,1,barako,GEM OF COLO in  IMPS CHEAP
+100.0,22009,Gem of Colossus,27,1616671.17,3,1,barako,GEM OF COLO in  IMPS CHEAP
 100.0,22012,Demonic Gem of Wind,14,1105003.4,4,1,Systembuff,Dem Gems
 100.0,22012,Demonic Gem of Wind,20,1105003.4,4,1,Jew,zzzz
 100.0,22015,Demonic Gem of Rage,35,2040016.0,5,1,Eryndor,Demo Rage 3.5k imps`
@@ -17,6 +17,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 87.74,25212,Frozen Elixir,60,489.39,3,29,PWTanker,Power Balls/Frozen Elixir/Bottle
 85.27,25497,Blue Colorant,800,5431.88,3,1,cheapstuffguys,cheap
+80.0,28440,Fire Sealed Roar of Evanescence,25000,125000.0,3,1,bowstalls,6acc 1agi boots/lv40-65gear3Page
 79.35,25396,Jelly Detector,99,479.47,3,1,Anuel,CHEAP CHAOS RUNESTONE
 73.45,26589,Potion of Bull,700,2636.79,12,8,xTrueHistory,jackpot/PPS/Potions
 71.44,28430,Fire Sealed Robe of Malediction,1999,6999.75,3,1,TheMystic,- the manager went crazy -
@@ -24,9 +25,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.36,22001,Furious Gem,700,2021.06,7,1,Anuel,CHEAP CHAOS RUNESTONE
 61.68,26588,Potion of Eagle,1000,2609.34,10,1,buffenjoyer,garner
 60.98,28456,Ice Sealed Robe of the Sphinx,19999,51249.75,4,1,TheMystic,- the manager went crazy -
-58.62,28450,Fire Sealed Tooth of Evanescence,8000,19333.0,3,1,Sakaki,PPS/GPS/armor/chest
 57.89,22004,Shining Gem,2000,4749.91,5,3,Jhoa,GPS/JACK C/FB/REF/PBS/POTION
-53.3,28403,Blade of Incantation,110000,235555.25,3,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
+56.16,28450,Fire Sealed Tooth of Evanescence,8000,18249.75,4,1,Sakaki,PPS/GPS/armor/chest
+55.72,28403,Blade of Incantation,110000,248444.0,4,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 52.27,25391,Octopus Tentacle,190,398.11,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 52.27,25391,Octopus Tentacle,190,398.11,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 52.27,25391,Octopus Tentacle,190,398.11,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
@@ -44,4 +45,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.01,25391,Octopus Tentacle,199,398.11,5,97,vnt4,octopus tentacle come
 50.01,25391,Octopus Tentacle,199,398.11,5,99,vnt4,octopus tentacle come
 50.01,25391,Octopus Tentacle,199,398.11,5,99,vnt4,octopus tentacle come
-50.0,28432,Fire Sealed Staff of Mirage,3000,6000.0,4,1,VENDEDORAA,BOE / SM50 / CRUS 60 / MORE
