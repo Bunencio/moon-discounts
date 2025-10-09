@@ -2,11 +2,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,13,1170323.48,5,1,Dinamy,ug striking / demo striking
 100.0,22007,Gem of Striking,15,1170323.48,5,1,Saladinhastall,DEMON RAGE 3.5K
 100.0,22015,Demonic Gem of Rage,35,2740007.0,5,1,Saladinhastall,DEMON RAGE 3.5K
-100.0,22023,Green Jade,3,100001.57,3,3,Frank,GREEN JADE
-100.0,22023,Green Jade,3,100001.57,3,1,Brody,Cheap gem
+100.0,22023,Green Jade,3,190000.85,5,3,Frank,GREEN JADE
+100.0,22023,Green Jade,3,190000.85,5,1,Brody,Cheap gem
 100.0,22024,Purple Jade,10,712502.25,4,1,Almao,SELL PURPLE JADE
+100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,103499.83,8,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,182125.06,4,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,194571.5,3,1,Goliat,Fragment Store
 100.0,25525,,10,742143.0,6,2,RiasGremory,CHAOS JEWEL
 100.0,25534,,1,64116.4,7,5,Chupeteira,CHEAP FRAGMENT OF FRAGMENTATION
 99.97,26377,Pharaoh's Lantern,1,3365.66,4,79,Virginia,PHARAOH LANTERN 10imp EA
@@ -18,11 +19,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.21,22001,Furious Gem,500,2193.83,11,1,Anuel,CHAOS RUNESTONE
 77.01,25258,Spirit Feather,199,865.77,3,99,LunaMaya,S> Jackpot Warrior Grenade
 76.85,25503,Magical Stone,500,2159.77,3,99,Olkc,1234567891011121314151617181920
-73.1,26589,Potion of Bull,700,2602.11,13,8,xTrueHistory,Gps/jackpot/UniversepurseFragt/
+73.2,26589,Potion of Bull,700,2612.0,13,8,xTrueHistory,Gps/jackpot/UniversepurseFragt/
 68.81,25534,,20000,64116.4,7,3,BL4CKM4RK3T,PM xBlaze
 68.72,25396,Jelly Detector,150,479.59,3,1,Anuel,CHAOS RUNESTONE
 66.77,25423,Evanescence Rock,200,601.86,5,6,BL4CKM4RK3T,PM xBlaze
-63.2,26588,Potion of Eagle,1000,2717.26,9,1,buffenjoyer,garner
+63.74,26588,Potion of Eagle,1000,2757.89,9,1,buffenjoyer,garner
 59.52,22001,Furious Gem,888,2193.83,11,49,hunterx,bp/knife app/repu/fb/signet/gems
 59.09,28132,Voyager Cap,29999,73333.0,3,1,BjornIronside,@@@@
 57.54,25391,Octopus Tentacle,190,447.44,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
@@ -30,6 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.54,25391,Octopus Tentacle,190,447.44,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.54,25391,Octopus Tentacle,190,447.44,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.52,28450,Fire Sealed Tooth of Evanescence,8000,18833.17,5,1,Sakaki,chest/bow/boots/gps
+56.83,25452,Rock Gem Fragment,83999,194571.5,3,1,IchiShiki,all in one place
 55.72,28403,Blade of Incantation,110000,248444.0,4,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 55.7,22006,Spirit Gem,3000,6771.73,8,3,Yennefer,KAL CLOUD EVA EXPSTONE SPIRIT VO
 55.68,22003,Glowing Gem,2000,4512.82,4,6,Jhoa,FB/PBS/JACK C/REF/POTION/
@@ -45,7 +47,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.46,22001,Furious Gem,999,2193.83,11,2,cheapstuffsell,cheap
 54.42,22001,Furious Gem,1000,2193.83,11,7,Vendedor,Promotion
 54.42,22001,Furious Gem,1000,2193.83,11,13,011,cleaning
-53.88,25452,Rock Gem Fragment,83999,182125.06,4,1,IchiShiki,all in one place
 53.49,28456,Ice Sealed Robe of the Sphinx,25000,53749.75,4,1,Swird,Steel/Tribal/Storm/Bow55/Sphinx
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
@@ -54,3 +55,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.48,25212,Frozen Elixir,60,123.67,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 51.48,25212,Frozen Elixir,60,123.67,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 51.48,25212,Frozen Elixir,60,123.67,3,29,PWTanker,Power Balls/Frozen Elixir/Bottle
+51.46,26590,Potion of Soul,1500,3089.93,9,3,Vendedor,Promotion
