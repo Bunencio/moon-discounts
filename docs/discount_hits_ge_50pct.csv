@@ -1,7 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1255806.94,4,1,Saladinhastall,DEMON RAGE 3.5K
-100.0,22009,Gem of Colossus,25,1385721.71,4,1,Brody,Cheap gem
-100.0,22009,Gem of Colossus,27,1385721.71,4,1,barako,GEM OF COLO in  IMPS CHEAP
 100.0,22012,Demonic Gem of Wind,20,1103177.43,3,1,Jew,zzzz
 100.0,22013,Demonic Gem of Striking,30,1394877.12,5,3,Seraphim,zz
 100.0,22013,Demonic Gem of Striking,25,1394877.12,5,2,Chacha,demonic strking
@@ -14,12 +12,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22024,Purple Jade,10,616670.0,3,1,Almao,SELL PURPLE JADE
 100.0,25451,Jade Gem Fragment,1,107713.57,6,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,182125.06,4,1,Goliat,Fragment Store
-99.97,26377,Pharaoh's Lantern,2,7038.32,4,30,Mismagius,Pharaoh's Lanterns
-99.97,26377,Pharaoh's Lantern,2,7038.32,4,30,Saip,Pharaoh's Lanterns
+99.97,26377,Pharaoh's Lantern,1,3677.29,4,79,Virginia,PHARAOH LANTERN 10imp EA
 99.97,28476,Ice Sealed Kris of the Sphinx,20,58336.17,3,1,MiaKhalifa,Dagger Voy Gemmed Cheap
+99.95,26377,Pharaoh's Lantern,2,3677.29,4,30,Mismagius,Pharaoh's Lanterns
+99.95,26377,Pharaoh's Lantern,2,3677.29,4,30,Saip,Pharaoh's Lanterns
 87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 87.74,25212,Frozen Elixir,60,489.39,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 87.74,25212,Frozen Elixir,60,489.39,3,29,PWTanker,Power Balls/Frozen Elixir/Bottle
+86.27,25094,Purple Crystal,399,2906.32,4,69,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!
 85.27,25497,Blue Colorant,800,5431.88,3,1,cheapstuffguys,cheap
 77.01,25258,Spirit Feather,199,865.77,3,99,LunaMaya,S> Jackpot Warrior Grenade
 76.48,28430,Fire Sealed Robe of Malediction,1999,8499.83,4,1,TheMystic,- the manager went crazy -
@@ -33,6 +33,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.41,22001,Furious Gem,888,2084.94,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 56.36,28429,Dance of Evanescence,800000,1833333.33,3,1,Bpsopen,Sell DOE clean
 53.88,25452,Rock Gem Fragment,83999,182125.06,4,1,IchiShiki,all in one place
+53.54,22006,Spirit Gem,3000,6457.42,8,9,Yennefer,KAL CLOUD EVA EXPSTONE SPIRIT VO
 53.3,28403,Blade of Incantation,110000,235555.25,3,1,PublicWin,BOI/Dragon Fruit/Pet/Gloves
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
 52.94,28440,Fire Sealed Roar of Evanescence,5000,10624.75,3,1,Nixm,Cheap Lv50 Items
