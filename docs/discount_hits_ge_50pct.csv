@@ -20,7 +20,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29308,Ring of Valor,2,60000.75,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,30157,Iron Bar,3,113001.5,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,28468,Ice Sealed Mantle of Enigma,10,70001.8,5,1,Vanny,ring of spell sealed ss bow pet
-99.99,30156,Jackpot Coin,1,8770.99,17,27,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,8798.87,16,27,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
 99.98,22024,Purple Jade,88,475024.25,4,1,PasarGelap,PURPLE JADE 880IMP
 99.98,25451,Jade Gem Fragment,15,75004.79,6,6,Coffi,GEM FRAGMENTS
 99.98,25452,Rock Gem Fragment,22,115970.88,5,11,Coffi,GEM FRAGMENTS
@@ -45,7 +45,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.62,25503,Magical Stone,500,2138.38,4,99,Olkc,1234567891011121314151617181920
 75.4,22004,Shining Gem,1000,4065.22,5,2,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
 73.89,26588,Potion of Eagle,700,2680.94,13,4,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
-72.66,26589,Potion of Bull,700,2560.45,14,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
+72.85,26589,Potion of Bull,700,2578.56,14,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 70.44,22003,Glowing Gem,1000,3383.33,6,3,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
 70.31,25534,,22500,75775.51,8,2,Kais,Bodega KaisaMaMiTa
 70.0,28423,Mantle of the Cursed Flame,20000,66666.33,3,1,Bathroom,asdasdasd
@@ -53,8 +53,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.7,26588,Potion of Eagle,1000,2680.94,13,3,Space,GRENADE / RAD/ FB ALLLL GOOD
 62.7,26588,Potion of Eagle,1000,2680.94,13,1,buffenjoyer,garner
 62.12,25506,Expert Scroll,777,2051.11,4,93,dsadsa,tix wieghtless minion stuff
+61.22,26589,Potion of Bull,1000,2578.56,14,7,Space,GRENADE / RAD/ FB ALLLL GOOD
 61.08,25258,Spirit Feather,199,511.27,3,99,LunaMaya,S>HiddenHoneyLambSkullGrenade
-60.94,26589,Potion of Bull,1000,2560.45,14,7,Space,GRENADE / RAD/ FB ALLLL GOOD
 59.88,22001,Furious Gem,888,2213.47,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 59.01,25501,Brown Colorant,1000,2439.81,3,2,Brum,S>frozen colrs
 57.55,25391,Octopus Tentacle,190,447.56,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
@@ -72,6 +72,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.87,22001,Furious Gem,999,2213.47,10,2,cheapstuffsell,cheap
 54.82,22001,Furious Gem,1000,2213.47,10,7,Vendedor,Promotion
 54.82,22001,Furious Gem,1000,2213.47,10,13,011,cleaning
-54.34,26591,Potion of Lion,1300,2847.06,11,1,Bechil,Crap
+54.52,26591,Potion of Lion,1300,2858.6,11,1,Bechil,Crap
 53.24,25503,Magical Stone,1000,2138.38,4,5,Stellar,Variety Shop
 50.0,28432,Fire Sealed Staff of Mirage,4500,9000.0,7,1,iLegolas,CookinCard Power Ref Rock PPs
