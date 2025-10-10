@@ -5,7 +5,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22012,Demonic Gem of Wind,20,700006.2,5,1,Jew,zzzz
 100.0,22015,Demonic Gem of Rage,28,2142865.43,7,1,Seller1,DEMONIC GEMS CHEAPEST!
 100.0,22015,Demonic Gem of Rage,30,2142865.43,7,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
-100.0,22023,Green Jade,3,219616.08,5,3,Frank,GREEN JADE
+100.0,22023,Green Jade,3,203929.43,5,3,Frank,GREEN JADE
+100.0,22023,Green Jade,3,203929.43,5,1,Brody,the best price gems
 100.0,22024,Purple Jade,10,475024.25,4,1,Almao,SELL PURPLE JADE
 100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,75004.79,6,1,Goliat,Fragment Store
@@ -32,6 +33,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.94,26377,Pharaoh's Lantern,2,3505.65,5,30,Mismagius,Pharaoh's Lanterns
 99.94,26377,Pharaoh's Lantern,2,3505.65,5,30,Saip,Pharaoh's Lanterns
 99.89,26585,Blessed Potion,111,99165.54,6,1,Madarax**,Demonic gem fragment
+85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
+85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
+85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
+85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
+85.97,25212,Frozen Elixir,55,391.96,3,50,Brum,S>frozen colrs
 84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
 84.8,22006,Spirit Gem,1000,6579.58,8,1,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
 83.33,28036,Emerald Shield,10000,59999.67,3,1,SSTTAALL,CHEAP
@@ -43,8 +49,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.44,22003,Glowing Gem,1000,3383.33,6,3,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
 70.31,25534,,22500,75775.51,8,2,Kais,Bodega KaisaMaMiTa
 70.0,28423,Mantle of the Cursed Flame,20000,66666.33,3,1,Bathroom,asdasdasd
+66.75,25258,Spirit Feather,170,511.27,3,1,Lane,LIMESTONE
 62.7,26588,Potion of Eagle,1000,2680.94,13,3,Space,GRENADE / RAD/ FB ALLLL GOOD
 62.7,26588,Potion of Eagle,1000,2680.94,13,1,buffenjoyer,garner
+62.12,25506,Expert Scroll,777,2051.11,4,93,dsadsa,tix wieghtless minion stuff
+61.08,25258,Spirit Feather,199,511.27,3,99,LunaMaya,S>HiddenHoneyLambSkullGrenade
 60.94,26589,Potion of Bull,1000,2560.45,14,7,Space,GRENADE / RAD/ FB ALLLL GOOD
 59.88,22001,Furious Gem,888,2213.47,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 59.01,25501,Brown Colorant,1000,2439.81,3,2,Brum,S>frozen colrs
