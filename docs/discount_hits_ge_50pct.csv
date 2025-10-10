@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1209615.92,4,1,Bpsopen,UG STRIKE DEMO SOUL
-100.0,22012,Demonic Gem of Wind,20,875004.75,4,1,Jew,zzzz
-100.0,22015,Demonic Gem of Rage,30,2500005.0,6,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
+100.0,22012,Demonic Gem of Wind,20,766673.33,3,1,Jew,zzzz
+100.0,22015,Demonic Gem of Rage,30,2333171.67,6,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
 100.0,22023,Green Jade,3,203215.14,5,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,203215.14,5,1,Brody,the best price gems
 100.0,22024,Purple Jade,10,475024.25,4,1,Almao,SELL PURPLE JADE
@@ -21,12 +21,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25452,Rock Gem Fragment,22,133601.34,6,11,Coffi,GEM FRAGMENTS
 99.97,25426,Universe Purse Fragment.,45,145022.38,4,4,Coffi,GEM FRAGMENTS
 99.97,25508,Demonic Gem Fragment,15,50007.5,4,4,Madarax**,Demonic gem fragment
-99.97,26377,Pharaoh's Lantern,1,3148.13,4,79,Virginia,PHARAOH LANTERN 10imp EA
+99.97,26377,Pharaoh's Lantern,1,3064.92,4,79,Virginia,PHARAOH LANTERN 10imp EA
 99.96,25508,Demonic Gem Fragment,18,50007.5,4,1,Coffi,GEM FRAGMENTS
 99.95,28421,Bow of Incantation,20,40006.67,3,1,Vanny,ring of spell sealed ss bow pet
-99.94,26377,Pharaoh's Lantern,2,3148.13,4,30,Mismagius,Pharaoh's Lanterns
-99.94,26377,Pharaoh's Lantern,2,3148.13,4,30,Saip,Pharaoh's Lanterns
-99.89,26585,Blessed Potion,111,98971.09,8,1,Madarax**,Demonic gem fragment
+99.93,26377,Pharaoh's Lantern,2,3064.92,4,30,Mismagius,Pharaoh's Lanterns
+99.93,26377,Pharaoh's Lantern,2,3064.92,4,30,Saip,Pharaoh's Lanterns
+99.89,26585,Blessed Potion,111,99171.27,8,1,Madarax**,Demonic gem fragment
 85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
 85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
 85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
@@ -39,16 +39,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.4,22001,Furious Gem,500,2212.42,10,1,Anuel,C RUNESTONE | IMPS | GJade
 76.62,25503,Magical Stone,500,2138.38,4,99,Olkc,1234567891011121314151617181920
 75.4,22004,Shining Gem,1000,4065.22,5,2,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
-73.92,26588,Potion of Eagle,700,2683.89,13,4,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 73.33,28423,Mantle of the Cursed Flame,20000,74999.5,4,1,Bathroom,asdasdasd
-72.96,26589,Potion of Bull,700,2588.73,13,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
+73.0,26589,Potion of Bull,700,2592.72,13,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 70.44,22003,Glowing Gem,1000,3383.33,6,3,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
 67.4,25504,Standard Scroll,300,920.16,3,2,Olkc,1234567891011121314151617181920
+66.85,25507,Expert Stone,500,1508.12,7,12,AAA123,1231313131
+66.85,25507,Expert Stone,500,1508.12,7,99,AAA123,1231313131
 66.75,25258,Spirit Feather,170,511.27,3,1,Lane,LIMESTONE
 64.29,28440,Fire Sealed Roar of Evanescence,5000,14000.0,3,1,Nixm,Cheap Lv50 Items
 64.29,28440,Fire Sealed Roar of Evanescence,5000,14000.0,3,1,Nixm,Cheap Lv50 Items
-62.74,26588,Potion of Eagle,1000,2683.89,13,3,Space,GRENADE / RAD/ FB ALLLL GOOD
-62.74,26588,Potion of Eagle,1000,2683.89,13,1,buffenjoyer,garner
 62.12,25506,Expert Scroll,777,2051.11,4,93,dsadsa,tix wieghtless minion stuff
 61.08,25258,Spirit Feather,199,511.27,3,99,LunaMaya,S>HiddenHoneyLambSkullGrenade
 59.86,22001,Furious Gem,888,2212.42,10,49,hunterx,bp/knife app/repu/fb/signet/gems
@@ -68,10 +67,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.54,25391,Octopus Tentacle,199,447.56,5,96,vnt4,octopus tentacle come
 55.54,25391,Octopus Tentacle,199,447.56,5,98,vnt4,octopus tentacle come
 55.54,25391,Octopus Tentacle,199,447.56,5,99,vnt4,octopus tentacle come
-55.52,26568,Skating Potion,20000,44963.93,5,1,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 54.85,22001,Furious Gem,999,2212.42,10,2,cheapstuffsell,cheap
 54.8,22001,Furious Gem,1000,2212.42,10,7,Vendedor,Promotion
 54.8,22001,Furious Gem,1000,2212.42,10,13,011,cleaning
 54.55,28450,Fire Sealed Tooth of Evanescence,8000,17600.0,4,1,Sakaki,chest/bow/boots/gps
 53.24,25503,Magical Stone,1000,2138.38,4,5,Stellar,Variety Shop
-50.0,28432,Fire Sealed Staff of Mirage,4500,9000.0,7,1,iLegolas,CookinCard Power Ref Rock PPs
