@@ -10,8 +10,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,10,315866.83,7,14,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS CHE
 100.0,28136,Crown of Decendant,8,830001.6,5,1,Vneidnha,pet acc death cap bow ss acc cap
 100.0,28447,Bow of Evanescence,15,900003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
-100.0,29308,Ring of Valor,2,74000.4,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
-100.0,29308,Ring of Valor,2,74000.4,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
+100.0,29308,Ring of Valor,2,77833.67,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
+100.0,29308,Ring of Valor,2,77833.67,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,29310,Ring of Hawk,5,237502.5,3,1,jajaaaaja,ASDSAD
 100.0,29310,Ring of Hawk,5,237502.5,3,1,jajaaaaja,ASDSAD
 100.0,29310,Ring of Hawk,5,237502.5,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
@@ -27,24 +27,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,28327,Great Aqua Cap,15,46671.67,3,1,Fhhrer,ConCap/yellow jade/de colo
 97.17,26564,Meditation Potion,25,884.12,3,74,TuoTuo,Cleaning Bank
 86.95,25504,Standard Scroll,99,758.57,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
-86.44,25212,Frozen Elixir,55,405.56,3,84,Brum,S>frozen colrs
-86.44,25212,Frozen Elixir,55,405.56,3,99,Brum,S>frozen colrs
-86.44,25212,Frozen Elixir,55,405.56,3,84,Brum,S>frozen colrs
-86.44,25212,Frozen Elixir,55,405.56,3,99,Brum,S>frozen colrs
-86.44,25212,Frozen Elixir,55,405.56,3,50,Brum,S>frozen colrs
 84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
+81.87,22001,Furious Gem,400,2206.0,10,1,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 81.54,25422,Evanescence Power,1500,8126.32,5,1,Tokuchi,... S St T U F F
-81.48,22001,Furious Gem,400,2159.74,10,1,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 80.23,25504,Standard Scroll,150,758.57,5,12,SeventhHeaven,Scrolls/Coins etc
 78.47,28430,Fire Sealed Robe of Malediction,1999,9285.57,3,1,TheMystic,- NICE STUFF -
 75.42,26562,Cake,10,40.69,6,48,ATARI,ALL CHEAP FREE!
 73.63,25504,Standard Scroll,200,758.57,5,99,muhtar,cheap stal
 73.13,25439,Incantation Stone,1000,3722.18,5,7,Fortis,All cheap
 72.71,26589,Potion of Bull,700,2564.94,16,9,xTrueHistory,jackpot/PPS/Potions/LBS
-69.62,25258,Spirit Feather,199,655.0,3,84,Paluto,cheap imp
-69.62,25258,Spirit Feather,199,655.0,3,73,tiendaonline,OFFER OFFER OFFER
-69.62,25258,Spirit Feather,199,655.0,3,5,tiendaonline,OFFER OFFER OFFER
-69.62,25258,Spirit Feather,199,655.0,3,84,LunaMaya,S>HiddenHoneyLambSkullGrenade
 66.38,25391,Octopus Tentacle,150,446.23,4,40,muhtar,cheap stal
 64.41,25390,Mermaid Heart,100,280.95,5,19,ATARI,ALL CHEAP FREE!
 64.0,28458,Ice Sealed Staff of the Sphinx,9999,27777.4,5,1,BjornIronside,OFERT yaya
@@ -57,11 +48,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.71,25507,Expert Stone,500,1305.71,7,12,AAA123,1231313131
 61.71,25507,Expert Stone,500,1305.71,7,99,AAA123,1231313131
 61.57,22003,Glowing Gem,1000,2602.15,6,30,Lune,Cleaning Bank cheap items
+59.75,22001,Furious Gem,888,2206.0,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 59.73,28440,Fire Sealed Roar of Evanescence,5000,12416.67,4,1,Nixm,Cheap Lv50 Items
 59.73,28440,Fire Sealed Roar of Evanescence,5000,12416.67,4,1,Nixm,Cheap Lv50 Items
 59.18,28462,Ice Sealed Staff of Enigma,25000,61249.75,4,1,Lune,Cleaning Bank cheap items
 59.01,25501,Brown Colorant,1000,2439.81,3,2,Brum,S>frozen colrs
-58.88,22001,Furious Gem,888,2159.74,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 58.35,22006,Spirit Gem,2500,6001.78,7,11,Lune,Cleaning Bank cheap items
 57.75,2301,,22222,52592.22,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.75,2301,,22222,52592.22,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -75,8 +66,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.42,25391,Octopus Tentacle,190,446.23,4,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 55.42,26591,Potion of Lion,1200,2692.01,14,19,ZafirRose,gps and more
 55.42,26591,Potion of Lion,1200,2692.01,14,37,MiLD,ra
+54.71,22001,Furious Gem,999,2206.0,10,2,cheapstuffsell,cheap
+54.67,22001,Furious Gem,1000,2206.0,10,13,011,cleaning
+54.67,22001,Furious Gem,1000,2206.0,10,7,Vendedor,Promotion
 54.55,28450,Fire Sealed Tooth of Evanescence,8000,17600.0,4,1,Sakaki,chest/armor/bow
-53.74,22001,Furious Gem,999,2159.74,10,2,cheapstuffsell,cheap
-53.7,22001,Furious Gem,1000,2159.74,10,13,011,cleaning
-53.7,22001,Furious Gem,1000,2159.74,10,7,Vendedor,Promotion
 51.02,28462,Ice Sealed Staff of Enigma,30000,61249.75,4,1,xVENDOR1x,RUSH
