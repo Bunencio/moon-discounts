@@ -22,8 +22,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25452,Rock Gem Fragment,22,126759.04,12,11,Coffi,GEM FRAGMENTS
 99.98,26346,Lantern,1,4479.1,7,7,Everest,lANTERN
 99.98,26377,Pharaoh's Lantern,1,4809.29,3,79,Virginia,PHARAOH LANTERN 10imp EA
-99.97,25426,Universe Purse Fragment.,45,140025.57,4,4,Coffi,GEM FRAGMENTS
 99.97,28327,Great Aqua Cap,15,46671.67,3,1,Fhhrer,ConCap/yellow jade/de colo
+99.96,25426,Universe Purse Fragment.,45,116696.5,3,4,Coffi,GEM FRAGMENTS
 97.17,26564,Meditation Potion,25,884.12,3,74,TuoTuo,Cleaning Bank
 86.95,25504,Standard Scroll,99,758.57,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
@@ -34,6 +34,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.63,25504,Standard Scroll,200,758.57,5,99,muhtar,cheap stal
 73.59,25439,Incantation Stone,1000,3786.0,4,7,Fortis,All cheap
 73.39,26589,Potion of Bull,700,2630.65,16,9,xTrueHistory,jackpot/PPS/Potions/LBS
+67.72,26588,Potion of Eagle,900,2788.32,10,2,Aghur,Red statue free*
+66.55,26591,Potion of Lion,900,2690.64,15,1,Aghur,Red statue free*
 64.41,25390,Mermaid Heart,100,280.95,5,19,ATARI,ALL CHEAP FREE!
 63.76,28440,Fire Sealed Roar of Evanescence,4500,12416.67,4,1,Skills,o_0   Free    *_*    Free   0_o
 63.47,25507,Expert Stone,477,1305.71,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
@@ -58,8 +60,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.18,28462,Ice Sealed Staff of Enigma,25000,61249.75,4,1,Lune,Cleaning Bank cheap items
 59.01,25501,Brown Colorant,1000,2439.81,3,2,Brum,S>frozen colrs
 56.7,22006,Spirit Gem,2500,5773.31,6,11,Lune,Cleaning Bank cheap items
-55.42,26591,Potion of Lion,1200,2692.01,14,19,ZafirRose,gps and more
-55.42,26591,Potion of Lion,1200,2692.01,14,37,MiLD,ra
+55.4,26591,Potion of Lion,1200,2690.64,15,19,ZafirRose,gps and more
+55.4,26591,Potion of Lion,1200,2690.64,15,37,MiLD,ra
 54.71,22001,Furious Gem,999,2206.0,10,2,cheapstuffsell,cheap
 54.67,22001,Furious Gem,1000,2206.0,10,13,011,cleaning
 54.67,22001,Furious Gem,1000,2206.0,10,7,Vendedor,Promotion
