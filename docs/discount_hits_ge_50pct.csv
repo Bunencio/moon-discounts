@@ -44,6 +44,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.4,25504,Standard Scroll,300,920.16,3,2,Olkc,1234567891011121314151617181920
 66.85,25507,Expert Stone,500,1508.12,7,12,AAA123,1231313131
 66.85,25507,Expert Stone,500,1508.12,7,99,AAA123,1231313131
+66.07,27034,Grenade Lv2,850,2505.26,7,2,Aghur,wtfjhfj
+65.48,26595,Standard Explosive Ball,650,1883.0,3,3,Aghur,wtfjhfj
 64.29,28440,Fire Sealed Roar of Evanescence,5000,14000.0,3,1,Nixm,Cheap Lv50 Items
 64.29,28440,Fire Sealed Roar of Evanescence,5000,14000.0,3,1,Nixm,Cheap Lv50 Items
 62.12,25506,Expert Scroll,777,2051.11,4,93,dsadsa,tix wieghtless minion stuff
@@ -61,20 +63,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.95,25503,Magical Stone,550,1307.83,5,99,JunoJuno,Cheaps
 57.95,25503,Magical Stone,550,1307.83,5,99,JunoJuno,Cheaps
 57.95,25503,Magical Stone,550,1307.83,5,99,JunoJuno,Cheaps
-57.55,25391,Octopus Tentacle,190,447.56,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-56.87,26591,Potion of Lion,1200,2782.03,12,37,MiLD,ra
-55.54,25391,Octopus Tentacle,199,447.56,5,99,vnt4,octopus tentacle come
-55.54,25391,Octopus Tentacle,199,447.56,5,96,vnt4,octopus tentacle come
-55.54,25391,Octopus Tentacle,199,447.56,5,98,vnt4,octopus tentacle come
-55.54,25391,Octopus Tentacle,199,447.56,5,99,vnt4,octopus tentacle come
+57.56,25391,Octopus Tentacle,190,447.68,5,98,BakolCumiCumi,Red Blueprint Scroll | Octopus T
+57.56,25391,Octopus Tentacle,190,447.68,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
+57.56,25391,Octopus Tentacle,190,447.68,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
+57.56,25391,Octopus Tentacle,190,447.68,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
+56.83,26591,Potion of Lion,1200,2779.68,13,37,MiLD,ra
+55.55,25391,Octopus Tentacle,199,447.68,5,98,vnt4,octopus tentacle come
+55.55,25391,Octopus Tentacle,199,447.68,5,96,vnt4,octopus tentacle come
+55.55,25391,Octopus Tentacle,199,447.68,5,98,vnt4,octopus tentacle come
+55.55,25391,Octopus Tentacle,199,447.68,5,99,vnt4,octopus tentacle come
 54.85,22001,Furious Gem,999,2212.42,10,2,cheapstuffsell,cheap
 54.8,22001,Furious Gem,1000,2212.42,10,7,Vendedor,Promotion
 54.8,22001,Furious Gem,1000,2212.42,10,13,011,cleaning
 54.55,28450,Fire Sealed Tooth of Evanescence,8000,17600.0,4,1,Sakaki,chest/bow/boots/gps
 54.17,25258,Spirit Feather,199,434.17,3,99,Paluto,cheap
 54.17,25258,Spirit Feather,199,434.17,3,99,LunaMaya,S>HiddenHoneyLambSkullGrenade
-52.94,25534,,29000,61619.05,8,4,FBBlueprint,Fragments of Fragmentation
-51.31,25534,,30000,61619.05,8,18,UmaMaquinaTUA,SELL FRAGMENT OF
+52.62,25534,,29000,61213.11,8,4,FBBlueprint,Fragments of Fragmentation
+52.22,26588,Potion of Eagle,1300,2720.84,11,2,Aghur,wtfjhfj
+51.43,26591,Potion of Lion,1350,2779.68,13,1,Aghur,wtfjhfj
+50.99,25534,,30000,61213.11,8,18,UmaMaquinaTUA,SELL FRAGMENT OF
