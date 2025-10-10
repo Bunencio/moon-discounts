@@ -30,12 +30,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
 81.2,22001,Furious Gem,450,2393.95,10,1,Anuel,G Jade | Jackpot | Tilapia
 80.32,25258,Spirit Feather,170,863.84,4,1,Lane,LIMESTONE
-78.8,28430,Fire Sealed Robe of Malediction,1999,9428.43,4,1,TheMystic,- SM STUFF -
 77.53,25506,Expert Scroll,500,2224.86,4,16,conchmachine,Jelly detector/Shark Fin
 76.96,25258,Spirit Feather,199,863.84,4,99,LunaMaya,S> Jackpot Warrior Grenade
 76.85,25503,Magical Stone,500,2159.77,3,99,Olkc,1234567891011121314151617181920
 74.22,26588,Potion of Eagle,700,2714.97,12,3,xTrueHistory,UniversePurseFrag/Jackpot/PPS/Po
 72.86,26589,Potion of Bull,700,2579.3,13,9,xTrueHistory,UniversePurseFrag/Jackpot/PPS/Po
+70.0,28423,Mantle of the Cursed Flame,20000,66666.33,3,1,Bathroom,asdasdasd
 67.85,26595,Standard Explosive Ball,600,1866.33,3,3,Aghur,Tickets  pots and more
 64.52,27034,Grenade Lv2,980,2762.27,9,2,Aghur,Tickets  pots and more
 63.17,26588,Potion of Eagle,1000,2714.97,12,1,buffenjoyer,garner
@@ -50,6 +50,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.21,26568,Skating Potion,20000,46741.48,6,1,xTrueHistory,UniversePurseFrag/Jackpot/PPS/Po
+55.56,28440,Fire Sealed Roar of Evanescence,5000,11250.0,3,1,Nixm,Cheap Lv50 Items
+55.56,28440,Fire Sealed Roar of Evanescence,5000,11250.0,3,1,Nixm,Cheap Lv50 Items
 55.56,28450,Fire Sealed Tooth of Evanescence,8000,17999.83,5,1,Sakaki,chest/bow/boots/gps
 55.54,25391,Octopus Tentacle,199,447.56,5,99,vnt4,octopus tentacle come
 55.54,25391,Octopus Tentacle,199,447.56,5,96,vnt4,octopus tentacle come
