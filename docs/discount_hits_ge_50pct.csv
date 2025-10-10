@@ -1,5 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,15,1207143.36,4,1,Bpsopen,UG STRIKE DEMO SOUL
+100.0,22007,Gem of Striking,15,1207407.93,3,1,Bpsopen,UG STRIKE DEMO SOUL
 100.0,22012,Demonic Gem of Wind,20,825004.5,4,1,Jew,zzzz
 100.0,22015,Demonic Gem of Rage,30,2324757.5,4,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
 100.0,22023,Green Jade,3,203215.14,5,3,Frank,GREEN JADE
@@ -8,9 +8,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,2,141469.0,10,1,Goliat,Fragment Store
 100.0,25525,,10,315866.83,7,14,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS CHE
 100.0,28136,Crown of Decendant,8,830001.6,5,1,Vneidnha,pet acc death cap bow ss acc cap
-100.0,28447,Bow of Evanescence,15,900003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
-100.0,29308,Ring of Valor,2,71000.8,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
-100.0,29308,Ring of Valor,2,71000.8,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
+100.0,28447,Bow of Evanescence,15,970003.0,5,1,Vneidnha,pet acc death cap bow ss acc cap
+100.0,29308,Ring of Valor,2,86428.86,5,1,DemiMerchant,99c Cheap Mall and Pets 99c
+100.0,29308,Ring of Valor,2,86428.86,5,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,30157,Iron Bar,3,113001.5,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,22024,Purple Jade,88,633362.33,3,1,PasarGelap,PURPLE JADE 880IMP
 99.99,28468,Ice Sealed Mantle of Enigma,10,67502.25,4,1,Vanny,ring of spell sealed ss bow pet
@@ -18,11 +18,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25452,Rock Gem Fragment,22,141469.0,10,11,Coffi,GEM FRAGMENTS
 99.98,25508,Demonic Gem Fragment,18,73688.16,4,1,Coffi,GEM FRAGMENTS
 99.98,25508,Demonic Gem Fragment,15,73688.16,4,4,Madarax**,Demonic gem fragment
-99.98,26346,Lantern,1,4627.58,7,7,Everest,lANTERN
+99.98,26346,Lantern,1,4625.84,7,7,Everest,lANTERN
+99.97,26377,Pharaoh's Lantern,1,3648.29,4,79,Virginia,PHARAOH LANTERN 10imp EA
 99.97,28327,Great Aqua Cap,15,46671.67,3,1,Fhhrer,ConCap/yellow jade/de colo
 99.96,25426,Universe Purse Fragment.,45,120025.57,3,4,Coffi,GEM FRAGMENTS
+99.95,26377,Pharaoh's Lantern,2,3648.29,4,30,Mismagius,Pharaoh's Lanterns
+99.95,26377,Pharaoh's Lantern,2,3648.29,4,30,Saip,Pharaoh's Lanterns
 99.95,28421,Bow of Incantation,20,43340.0,3,1,Vanny,ring of spell sealed ss bow pet
-99.89,26585,Blessed Potion,111,99131.8,8,1,Madarax**,Demonic gem fragment
+99.89,26585,Blessed Potion,111,99059.04,8,1,Madarax**,Demonic gem fragment
 97.17,26564,Meditation Potion,25,884.12,3,74,TuoTuo,Cleaning Bank
 87.3,25504,Standard Scroll,120,944.54,3,7,Anuel,IMS / Salmon / Jade / Equip
 85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
