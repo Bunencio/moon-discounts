@@ -68,7 +68,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,26591,Potion of Lion,Juyii,PUTUINS,1999,2847.06,848.06,35,29682.11,29.79,11
 2025-10-10,26589,Potion of Bull,Masteryi,sell 0_0,1800,2560.45,760.45,33,25094.82,29.7,14
 2025-10-10,27025,Radiation Lv1,Space,GRENADE / RAD/ FB ALLLL GOOD,2100,2962.72,862.72,135,116467.0,29.12,5
-2025-10-10,30171,Ticket to Demonic World,Wardo,S>DW TIX/WILLOW,400,560.26,160.26,200,32051.94,28.6,6
+2025-10-10,30171,Ticket to Demonic World,Wardo,S>DW TIX/WILLOW,400,561.05,161.05,200,32210.47,28.71,6
 2025-10-10,26588,Potion of Eagle,Juyii,PUTUINS,1999,2680.94,681.94,66,45008.11,25.44,13
 2025-10-10,25497,Blue Colorant,hahahehehoho,All colorants,4000,5330.56,1330.56,51,67858.33,24.96,4
 2025-10-10,25495,Green Colorant,hahahehehoho,All colorants,4000,5305.56,1305.56,52,67888.89,24.61,4
@@ -82,9 +82,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,27025,Radiation Lv1,BPCRAFT,BLESS/IRON/INFERNO/RAD/PRES/GUAR,2350,2962.72,612.72,150,91907.78,20.68,5
 2025-10-10,26590,Potion of Soul,GeorgeFloyd,zzzzzz,2500,3109.51,609.51,40,24380.32,19.6,7
 2025-10-10,30135,Demonic Rock,dogdogdog,Gold.jackpot purple.rocks,3000,3655.47,655.47,99,64891.89,17.93,6
+2025-10-10,30102,1000 Reputation Scroll,LotokSell,UgRage UgColos Flash W8 Coins,7500,9135.14,1635.14,83,135716.52,17.9,6
 2025-10-10,26559,Cooked Crab,Bodeguita,RADI/I BREW/G BREW/ HP POT,1200,1460.58,260.58,136,35439.2,17.84,5
 2025-10-10,26559,Cooked Crab,Bodeguita,RADI/I BREW/G BREW/ HP POT,1200,1460.58,260.58,100,26058.23,17.84,5
-2025-10-10,30102,1000 Reputation Scroll,LotokSell,UgRage UgColos Flash W8 Coins,7500,9127.92,1627.92,83,135117.35,17.83,7
 2025-10-10,28472,Ice Sealed Bow of Enigma,MiloOvaltinePlus,SEALED BOW 60 / PBS SS ARMOR 60,350000,423333.33,73333.33,1,73333.33,17.32,3
 2025-10-10,28473,Bow of Enigma,viiiiiki,UNS 65 ARMOR 5 7M SS BOW,5700000,6816666.67,1116666.67,1,1116666.67,16.38,3
 2025-10-10,27025,Radiation Lv1,Aaquaaq,Radiation/Grenade/Poison,2500,2962.72,462.72,200,92543.7,15.62,5
@@ -98,7 +98,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,27025,Radiation Lv1,Bankaquaq,Radiation/FB/Grenade/Brew,2500,2962.72,462.72,160,74034.96,15.62,5
 2025-10-10,27025,Radiation Lv1,Bodeguita,RADI/I BREW/G BREW/ HP POT,2500,2962.72,462.72,145,67094.18,15.62,5
 2025-10-10,26575,Guardian's Brew,Kais,Bodega KaisaMaMiTa,630,743.87,113.87,200,22773.21,15.31,8
-2025-10-10,30102,1000 Reputation Scroll,hunterx,bp/knife app/repu/fb/signet/gems,7750,9127.92,1377.92,40,55116.8,15.1,7
+2025-10-10,30102,1000 Reputation Scroll,hunterx,bp/knife app/repu/fb/signet/gems,7750,9135.14,1385.14,40,55405.55,15.16,6
 2025-10-10,22000,FieryGem,BuySome,Maybe You Need,2500,2937.25,437.25,94,41101.34,14.89,7
 2025-10-10,26578,Aegis Brew,Systembuff,Dem Gems/Bless/Sealeds++,45000,52787.5,7787.5,20,155750.0,14.75,5
 2025-10-10,26575,Guardian's Brew,Bankaquaq,Radiation/FB/Grenade/Brew,635,743.87,108.87,200,21773.21,14.64,8
@@ -131,12 +131,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,30191,1000 Supporter Points Voucher,DD44,123131313131231,40000,43270.04,3270.04,52,170041.9,7.56,4
 2025-10-10,30156,Jackpot Coin,MatsBk,S>GPS/PPS/JC/Purple blueprints,8200,8860.09,660.09,120,79211.0,7.45,17
 2025-10-10,25092,Blue Crystal,stalleer,crystal red ore,3330,3597.33,267.33,82,21920.92,7.43,4
-2025-10-10,26572,Inferno Potion,BPCRAFT,BLESS/IRON/INFERNO/RAD/PRES/GUAR,7900,8518.19,618.19,72,44509.85,7.26,8
+2025-10-10,26572,Inferno Potion,BPCRAFT,BLESS/IRON/INFERNO/RAD/PRES/GUAR,7900,8523.36,623.36,67,41765.2,7.31,8
 2025-10-10,30139,100x Crystal,Kais,Bodega KaisaMaMiTa,90000,96933.68,6933.68,20,138673.51,7.15,10
 2025-10-10,26588,Potion of Eagle,GeorgeFloyd,zzzzzz,2500,2680.94,180.94,190,34378.79,6.75,13
 2025-10-10,26344,Novice Weightless Potion,GeorgeFloyd,zzzzzz,4000,4272.23,272.23,95,25862.02,6.37,6
-2025-10-10,26572,Inferno Potion,TotemCookings,Totem Cookings Made wLove n Weed,8000,8518.19,518.19,98,50782.85,6.08,8
-2025-10-10,26572,Inferno Potion,Mamii,POTS BETTER THAN TOTEM HE SUCKS,8000,8518.19,518.19,79,40937.2,6.08,8
+2025-10-10,26572,Inferno Potion,TotemCookings,Totem Cookings Made wLove n Weed,8000,8523.36,523.36,98,51289.4,6.14,8
+2025-10-10,26572,Inferno Potion,Mamii,POTS BETTER THAN TOTEM HE SUCKS,8000,8523.36,523.36,79,41345.54,6.14,8
 2025-10-10,27019,Purple Pirate Scroll,iKirito,PPS   ....PPS  / SM glove 5con,4099,4339.2,240.2,99,23779.56,5.54,10
 2025-10-10,27019,Purple Pirate Scroll,iKirito,PPS   ....PPS  / SM glove 5con,4099,4339.2,240.2,99,23779.56,5.54,10
 2025-10-10,27019,Purple Pirate Scroll,MatsBk,S>GPS/PPS/JC/Purple blueprints,4100,4339.2,239.2,99,23680.56,5.51,10
@@ -147,8 +147,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,28473,Bow of Enigma,Kaef,SALE SS,6500000,6816666.67,316666.67,1,316666.67,4.65,3
 2025-10-10,26585,Blessed Potion,Systembuff,Dem Gems/Bless/Sealeds++,95000,99165.54,4165.54,10,41655.36,4.2,6
 2025-10-10,26585,Blessed Potion,Sellerxdxd,Bless,95000,99165.54,4165.54,6,24993.22,4.2,6
-2025-10-10,26572,Inferno Potion,DwShops,the finest cookings for DW,8200,8518.19,318.19,126,40092.24,3.74,8
-2025-10-10,26572,Inferno Potion,KFCC,KFC SHOP 24-7 BEST POTS!,8200,8518.19,318.19,100,31819.24,3.74,8
+2025-10-10,26572,Inferno Potion,DwShops,the finest cookings for DW,8200,8523.36,323.36,126,40743.51,3.79,8
+2025-10-10,26572,Inferno Potion,KFCC,KFC SHOP 24-7 BEST POTS!,8200,8523.36,323.36,100,32336.12,3.79,8
 2025-10-10,30139,100x Crystal,Mallwart,S> IMPS,94800,96933.68,2133.68,78,166426.67,2.2,10
 2025-10-10,30139,100x Crystal,Paluto,cheap imps,94899,96933.68,2034.68,50,101733.76,2.1,10
 2025-10-10,30139,100x Crystal,FreePalestine1,sell imps,94999,96933.68,1934.68,99,191532.85,2.0,10
