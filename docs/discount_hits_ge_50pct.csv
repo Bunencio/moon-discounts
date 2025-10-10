@@ -4,7 +4,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22015,Demonic Gem of Rage,30,2324757.5,4,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
 100.0,22023,Green Jade,3,203215.14,5,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,203215.14,5,1,Brody,the best price gems
-100.0,22024,Purple Jade,10,475024.25,4,1,Almao,SELL PURPLE JADE
 100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,67861.57,6,3,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,133601.34,6,1,Goliat,Fragment Store
@@ -15,8 +14,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29308,Ring of Valor,2,79167.17,5,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,29308,Ring of Valor,2,79167.17,5,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,30157,Iron Bar,3,113001.5,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
+99.99,22024,Purple Jade,88,633362.33,3,1,PasarGelap,PURPLE JADE 880IMP
 99.99,28468,Ice Sealed Mantle of Enigma,10,70001.8,5,1,Vanny,ring of spell sealed ss bow pet
-99.98,22024,Purple Jade,88,475024.25,4,1,PasarGelap,PURPLE JADE 880IMP
 99.98,25451,Jade Gem Fragment,15,67861.57,6,6,Coffi,GEM FRAGMENTS
 99.98,25452,Rock Gem Fragment,22,133601.34,6,11,Coffi,GEM FRAGMENTS
 99.97,25508,Demonic Gem Fragment,15,50007.5,4,4,Madarax**,Demonic gem fragment
