@@ -1,6 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1209615.92,4,1,Bpsopen,UG STRIKE DEMO SOUL
-100.0,22009,Gem of Colossus,23,1731252.88,3,1,barako,Gem of Colo 23 Imps cheapest
 100.0,22012,Demonic Gem of Wind,12,700006.2,5,1,Seller1,DEMONIC GEMS CHEAPEST!
 100.0,22012,Demonic Gem of Wind,20,700006.2,5,1,Jew,zzzz
 100.0,22015,Demonic Gem of Rage,28,2142865.43,7,1,Seller1,DEMONIC GEMS CHEAPEST!
@@ -11,8 +10,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,75004.79,6,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,133601.34,6,1,Goliat,Fragment Store
-100.0,25525,,10,282005.27,7,14,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS CHE
-100.0,25525,,10,282005.27,7,2,RiasGremory,CHAOS JEWEL
+100.0,25525,,10,281338.6,7,14,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS CHE
+100.0,25525,,10,281338.6,7,2,RiasGremory,CHAOS JEWEL
 100.0,28136,Crown of Decendant,9,850002.25,4,1,Vneidnha,itens ss armor bow deat cap pet
 100.0,28443,Coat of Evanescence,10,733336.67,3,1,Vneidnha,itens ss armor bow deat cap pet
 100.0,28447,Bow of Evanescence,15,900003.75,4,1,Vneidnha,itens ss armor bow deat cap pet
@@ -43,15 +42,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.67,22001,Furious Gem,450,2213.47,10,1,Anuel,G Jade | Jackpot | Tilapia
 76.62,25503,Magical Stone,500,2138.38,4,99,Olkc,1234567891011121314151617181920
 75.4,22004,Shining Gem,1000,4065.22,5,2,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
-73.89,26588,Potion of Eagle,700,2680.94,13,4,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
-72.79,26589,Potion of Bull,700,2572.9,14,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
+73.92,26588,Potion of Eagle,700,2683.89,13,4,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
+72.78,26589,Potion of Bull,700,2571.57,14,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 70.44,22003,Glowing Gem,1000,3383.33,6,3,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
 70.0,28423,Mantle of the Cursed Flame,20000,66666.33,3,1,Bathroom,asdasdasd
 66.75,25258,Spirit Feather,170,511.27,3,1,Lane,LIMESTONE
-62.7,26588,Potion of Eagle,1000,2680.94,13,3,Space,GRENADE / RAD/ FB ALLLL GOOD
-62.7,26588,Potion of Eagle,1000,2680.94,13,1,buffenjoyer,garner
+62.74,26588,Potion of Eagle,1000,2683.89,13,3,Space,GRENADE / RAD/ FB ALLLL GOOD
+62.74,26588,Potion of Eagle,1000,2683.89,13,1,buffenjoyer,garner
 62.12,25506,Expert Scroll,777,2051.11,4,93,dsadsa,tix wieghtless minion stuff
-61.13,26589,Potion of Bull,1000,2572.9,14,7,Space,GRENADE / RAD/ FB ALLLL GOOD
+61.11,26589,Potion of Bull,1000,2571.57,14,7,Space,GRENADE / RAD/ FB ALLLL GOOD
 61.08,25258,Spirit Feather,199,511.27,3,99,LunaMaya,S>HiddenHoneyLambSkullGrenade
 59.88,22001,Furious Gem,888,2213.47,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 59.01,25501,Brown Colorant,1000,2439.81,3,2,Brum,S>frozen colrs
@@ -59,7 +58,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-56.57,26591,Potion of Lion,1200,2762.75,11,37,MiLD,ra
+56.49,26591,Potion of Lion,1200,2757.94,12,37,MiLD,ra
 55.56,28440,Fire Sealed Roar of Evanescence,5000,11250.0,3,1,Nixm,Cheap Lv50 Items
 55.56,28440,Fire Sealed Roar of Evanescence,5000,11250.0,3,1,Nixm,Cheap Lv50 Items
 55.54,25391,Octopus Tentacle,199,447.56,5,99,vnt4,octopus tentacle come
