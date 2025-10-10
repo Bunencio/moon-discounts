@@ -1,17 +1,17 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,15,1207407.93,3,1,Bpsopen,UG STRIKE DEMO SOUL
+100.0,22007,Gem of Striking,15,1207407.93,3,1,Bpsopen,UG  Strike
 100.0,22009,Gem of Colossus,21,1650003.0,3,1,BV10,Staff
 100.0,22012,Demonic Gem of Wind,20,980004.0,5,1,Jew,zzzz
 100.0,22015,Demonic Gem of Rage,30,2133343.33,3,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
 100.0,22023,Green Jade,3,200334.13,5,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,200334.13,5,1,Brody,the best price gems
 100.0,25451,Jade Gem Fragment,1,74711.24,4,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,129504.58,10,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,128592.73,11,1,Goliat,Fragment Store
 100.0,25525,,10,315866.83,7,14,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS CHE
 100.0,28136,Crown of Decendant,8,830001.6,5,1,Vneidnha,pet acc death cap bow ss acc cap
 100.0,28447,Bow of Evanescence,15,900003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
-100.0,29308,Ring of Valor,2,78333.5,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
-100.0,29308,Ring of Valor,2,78333.5,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
+100.0,29308,Ring of Valor,2,74000.4,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
+100.0,29308,Ring of Valor,2,74000.4,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,29310,Ring of Hawk,5,237502.5,3,1,jajaaaaja,ASDSAD
 100.0,29310,Ring of Hawk,5,237502.5,3,1,jajaaaaja,ASDSAD
 100.0,29310,Ring of Hawk,5,237502.5,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
@@ -19,13 +19,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,30157,Iron Bar,3,110834.58,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,22024,Purple Jade,88,600029.0,3,1,PasarGelap,PURPLE JADE 880IMP
 99.98,25451,Jade Gem Fragment,15,74711.24,4,6,Coffi,GEM FRAGMENTS
-99.98,25452,Rock Gem Fragment,22,129504.58,10,11,Coffi,GEM FRAGMENTS
-99.98,26346,Lantern,1,4601.57,8,7,Everest,lANTERN
-99.98,26377,Pharaoh's Lantern,1,4184.5,4,79,Virginia,PHARAOH LANTERN 10imp EA
+99.98,25452,Rock Gem Fragment,22,128592.73,11,11,Coffi,GEM FRAGMENTS
+99.98,26346,Lantern,1,4479.1,7,7,Everest,lANTERN
+99.98,26377,Pharaoh's Lantern,1,4905.63,3,79,Virginia,PHARAOH LANTERN 10imp EA
 99.98,28468,Ice Sealed Mantle of Enigma,10,50003.0,3,1,Vanny,ring of spell sealed ss bow pet
 99.97,25426,Universe Purse Fragment.,45,140025.57,4,4,Coffi,GEM FRAGMENTS
 99.97,28327,Great Aqua Cap,15,46671.67,3,1,Fhhrer,ConCap/yellow jade/de colo
-99.95,26377,Pharaoh's Lantern,2,4184.5,4,30,Saip,Pharaoh's Lanterns
 97.17,26564,Meditation Potion,25,884.12,3,74,TuoTuo,Cleaning Bank
 86.95,25504,Standard Scroll,99,758.57,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 86.44,25212,Frozen Elixir,55,405.56,3,84,Brum,S>frozen colrs
@@ -41,7 +40,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.42,26562,Cake,10,40.69,6,48,ATARI,ALL CHEAP FREE!
 73.63,25504,Standard Scroll,200,758.57,5,99,muhtar,cheap stal
 73.13,25439,Incantation Stone,1000,3722.18,5,7,Fortis,All cheap
-72.64,26589,Potion of Bull,700,2558.2,15,9,xTrueHistory,jackpot/PPS/Potions/LBS
+72.71,26589,Potion of Bull,700,2564.94,16,9,xTrueHistory,jackpot/PPS/Potions/LBS
+69.62,25258,Spirit Feather,199,655.0,3,84,Paluto,cheap imp
+69.62,25258,Spirit Feather,199,655.0,3,73,tiendaonline,OFFER OFFER OFFER
+69.62,25258,Spirit Feather,199,655.0,3,5,tiendaonline,OFFER OFFER OFFER
+69.62,25258,Spirit Feather,199,655.0,3,84,LunaMaya,S>HiddenHoneyLambSkullGrenade
 66.38,25391,Octopus Tentacle,150,446.23,4,40,muhtar,cheap stal
 64.41,25390,Mermaid Heart,100,280.95,5,19,ATARI,ALL CHEAP FREE!
 64.0,28458,Ice Sealed Staff of the Sphinx,9999,27777.4,5,1,BjornIronside,OFERT yaya
@@ -66,19 +69,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.75,2301,,22222,52592.22,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.75,2301,,22222,52592.22,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.75,2301,,22222,52592.22,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-57.74,25258,Spirit Feather,170,402.24,3,1,Lane,LIMESTONE
 57.42,25391,Octopus Tentacle,190,446.23,4,97,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.42,25391,Octopus Tentacle,190,446.23,4,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.42,25391,Octopus Tentacle,190,446.23,4,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.42,25391,Octopus Tentacle,190,446.23,4,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-55.46,26591,Potion of Lion,1200,2694.45,13,19,ZafirRose,gps and more
-55.46,26591,Potion of Lion,1200,2694.45,13,37,MiLD,ra
+55.42,26591,Potion of Lion,1200,2692.01,14,19,ZafirRose,gps and more
+55.42,26591,Potion of Lion,1200,2692.01,14,37,MiLD,ra
 54.55,28450,Fire Sealed Tooth of Evanescence,8000,17600.0,4,1,Sakaki,chest/armor/bow
 53.74,22001,Furious Gem,999,2159.74,10,2,cheapstuffsell,cheap
 53.7,22001,Furious Gem,1000,2159.74,10,13,011,cleaning
 53.7,22001,Furious Gem,1000,2159.74,10,7,Vendedor,Promotion
 51.02,28462,Ice Sealed Staff of Enigma,30000,61249.75,4,1,xVENDOR1x,RUSH
-50.53,25258,Spirit Feather,199,402.24,3,99,Paluto,cheap imp
-50.53,25258,Spirit Feather,199,402.24,3,73,tiendaonline,OFFER OFFER OFFER
-50.53,25258,Spirit Feather,199,402.24,3,5,tiendaonline,OFFER OFFER OFFER
-50.53,25258,Spirit Feather,199,402.24,3,84,LunaMaya,S>HiddenHoneyLambSkullGrenade
