@@ -6,7 +6,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,22012,Demonic Gem of Wind,Jew,zzzz,20,833340.0,833320.0,1,833320.0,100.0,3
 2025-10-10,28136,Crown of Decendant,Vneidnha,pet acc death cap bow ss acc cap,8,830001.6,829993.6,1,829993.6,100.0,5
 2025-10-10,22023,Green Jade,Frank,GREEN JADE,3,200334.13,200331.13,3,600993.4,100.0,5
-2025-10-10,30157,Iron Bar,DemiMerchant,99c Cheap Mall and Pets 99c,3,108001.5,107998.5,5,539992.5,100.0,3
 2025-10-10,29310,Ring of Hawk,jajaaaaja,ASDSAD,5,237502.5,237497.5,1,237497.5,100.0,3
 2025-10-10,29310,Ring of Hawk,jajaaaaja,ASDSAD,5,237502.5,237497.5,1,237497.5,100.0,3
 2025-10-10,29310,Ring of Hawk,DemiMerchant,99c Cheap Mall and Pets 99c,5,237502.5,237497.5,1,237497.5,100.0,3
@@ -27,7 +26,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,26377,Pharaoh's Lantern,Mismagius,Pharaoh's Lanterns,2,3648.29,3646.29,30,109388.59,99.95,4
 2025-10-10,26377,Pharaoh's Lantern,Saip,Pharaoh's Lanterns,2,3648.29,3646.29,30,109388.59,99.95,4
 2025-10-10,28421,Bow of Incantation,Vanny,ring of spell sealed ss bow pet,20,43340.0,43320.0,1,43320.0,99.95,3
-2025-10-10,26585,Blessed Potion,Madarax**,Demonic gem fragment,111,99059.04,98948.04,1,98948.04,99.89,8
+2025-10-10,26585,Blessed Potion,Madarax**,Demonic gem fragment,111,98704.01,98593.01,1,98593.01,99.89,7
 2025-10-10,26564,Meditation Potion,TuoTuo,Cleaning Bank,25,884.12,859.12,74,63575.2,97.17,3
 2025-10-10,25212,Frozen Elixir,Brum,S>frozen colrs,55,405.56,350.56,99,34705.83,86.44,3
 2025-10-10,25212,Frozen Elixir,Brum,S>frozen colrs,55,405.56,350.56,99,34705.83,86.44,3
@@ -60,11 +59,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,26589,Potion of Bull,asdqwdq,boi+4/katan app/seal 60 crus/pps,1500,2569.44,1069.44,48,51333.3,41.62,15
 2025-10-10,28403,Blade of Incantation,CallMeBaby,cheap,165555,283055.25,117500.25,1,117500.25,41.51,3
 2025-10-10,25506,Expert Scroll,CheapestASF,Ezzzzzzzzzzzzzzzzzz,1350,2051.11,701.11,52,36457.67,34.18,4
-2025-10-10,30171,Ticket to Demonic World,Wardo,S>DW TIX/WILLOW,400,606.18,206.18,135,27834.55,34.01,5
+2025-10-10,30171,Ticket to Demonic World,Wardo,S>DW TIX/WILLOW,400,606.08,206.08,135,27820.54,34.0,5
 2025-10-10,25452,Rock Gem Fragment,Mikosita,SELL IMPS/JACKPOT/REF/GPS,85000,127095.07,42095.07,14,589331.02,33.12,11
 2025-10-10,27025,Radiation Lv1,Kalista,radiation 1.9k fb 900g,1999,2952.4,953.4,100,95340.13,32.29,6
 2025-10-10,30102,1000 Reputation Scroll,MatsBk,S>PPS/PBS/JC/MORE,6000,8835.08,2835.08,25,70877.05,32.09,8
-2025-10-10,26578,Aegis Brew,*Dixxie*,aegis brew cheap,35000,51098.77,16098.77,3,48296.3,31.51,6
+2025-10-10,26578,Aegis Brew,*Dixxie*,aegis brew cheap,35000,51207.79,16207.79,3,48623.38,31.65,5
 2025-10-10,28409,Coat of Invocation,GrudgE,SELLING,90000,130000.0,40000.0,1,40000.0,30.77,3
 2025-10-10,25499,Purple Colorant,hahahehehoho,All colorants,2500,3578.65,1078.65,73,78741.57,30.14,3
 2025-10-10,26589,Potion of Bull,Masteryi,SELL,1800,2569.44,769.44,33,25391.65,29.95,15
@@ -84,10 +83,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,30102,1000 Reputation Scroll,Masteryi,SELL,6800,8835.08,2035.08,37,75298.03,23.03,8
 2025-10-10,26589,Potion of Bull,Juyii,PUTUINS,1999,2569.44,570.44,46,26240.42,22.2,15
 2025-10-10,26590,Potion of Soul,MiLD,ra,2500,3155.59,655.59,39,25568.08,20.78,8
+2025-10-10,26575,Guardian's Brew,F0X01,Guardian Brew Best Price Ever,590,742.25,152.25,194,29536.17,20.51,8
+2025-10-10,26575,Guardian's Brew,F0X01,Guardian Brew Best Price Ever,590,742.25,152.25,190,28927.18,20.51,8
 2025-10-10,27025,Radiation Lv1,BPCRAFT,BLESS/IRON/INFERNO/RAD/PRESTIGE,2350,2952.4,602.4,150,90360.19,20.4,6
 2025-10-10,25534,,UmaMaquinaTUA,SELL FRAGMENT OF,30000,37540.51,7540.51,18,135729.22,20.09,8
-2025-10-10,26575,Guardian's Brew,F0X01,Guardian Brew Best Price Ever,590,736.21,146.21,194,28364.69,19.86,9
-2025-10-10,26575,Guardian's Brew,F0X01,Guardian Brew Best Price Ever,590,736.21,146.21,190,27779.85,19.86,9
 2025-10-10,25430,Enigma Power,Garp,ENIGMA POWER = UNS65,1900,2351.57,451.57,99,44705.66,19.2,7
 2025-10-10,25430,Enigma Power,Garp,ENIGMA POWER = UNS65,1900,2351.57,451.57,90,40641.51,19.2,7
 2025-10-10,22434,,Lune,Cleaning Bank cheap items,725000,895000.0,170000.0,1,170000.0,18.99,3
@@ -116,15 +115,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,25430,Enigma Power,Disciplined1,WTF? CHEAPEST DemoRock EnigPower,1999,2351.57,352.57,99,34904.66,14.99,7
 2025-10-10,25430,Enigma Power,Disciplined1,WTF? CHEAPEST DemoRock EnigPower,1999,2351.57,352.57,77,27148.07,14.99,7
 2025-10-10,25091,Heavy Crystal,conqstall2,Hearts changecards heavycr potts,3000,3520.69,520.69,99,51548.28,14.79,3
+2025-10-10,26575,Guardian's Brew,Bankaquaq,Radiation/FB/Grenade/Brew,635,742.25,107.25,200,21449.66,14.45,8
 2025-10-10,25422,Evanescence Power,Kasyadex,EVA POWER/HL VOY BOOTS/PET/SEALS,7000,8126.32,1126.32,26,29284.21,13.86,5
-2025-10-10,26575,Guardian's Brew,Bankaquaq,Radiation/FB/Grenade/Brew,635,736.21,101.21,200,20241.95,13.75,9
 2025-10-10,30021,Race Changing Card,VIP,Class+Race Changing Cards,199999,231249.38,31250.38,5,156251.88,13.51,3
 2025-10-10,26592,Flash Bomb,TocoDeJegue,CHEAP FLASH - GRENADE,999,1151.82,152.82,200,30564.04,13.27,8
 2025-10-10,26592,Flash Bomb,LotokSell,UgStriking DemoWind Flash Rep La,1000,1151.82,151.82,199,30212.22,13.18,8
 2025-10-10,28443,Coat of Evanescence,DuRafa,ss armor bow app bomb bp gem,900000,1033333.33,133333.33,1,133333.33,12.9,3
 2025-10-10,30102,1000 Reputation Scroll,hunterx,bp/knife app/repu/fb/signet/gems,7750,8835.08,1085.08,40,43403.28,12.28,8
 2025-10-10,30209,Island Card,Demicoin3,99c All Goods Cheap 99c,2999,3417.82,418.82,61,25548.18,12.25,8
-2025-10-10,26578,Aegis Brew,Systembuff,Dem Gems/Bless/Sealeds++,45000,51098.77,6098.77,20,121975.31,11.94,6
+2025-10-10,26578,Aegis Brew,Systembuff,Dem Gems/Bless/Sealeds++,45000,51207.79,6207.79,20,124155.84,12.12,5
 2025-10-10,30135,Demonic Rock,dogdogdog,Gold.pbs pps.jackpot.gem frags,2990,3388.62,398.62,99,39463.88,11.76,3
 2025-10-10,30168,Gyoza,MiLD,ra,22000,24879.3,2879.3,8,23034.4,11.57,4
 2025-10-10,25092,Blue Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2999,3373.06,374.06,99,37031.48,11.09,4
@@ -155,8 +154,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,26346,Lantern,Babi01,ty,4400,4626.41,226.41,90,20376.9,4.89,7
 2025-10-10,28473,Bow of Enigma,Kaef,SALE SS,6500000,6816666.67,316666.67,1,316666.67,4.65,3
 2025-10-10,26567,Weightless Potion,op999999,*CB/HB/NANAS/WEIGT/GROWTH/RATION,7999,8342.83,343.83,84,28881.63,4.12,5
-2025-10-10,26585,Blessed Potion,Duna,CHEAPEST BLESS,94999,99059.04,4060.04,10,40600.45,4.1,8
 2025-10-10,25433,Blessed Runestone,WindSlash,Blessed Runestones,850000,886249.38,36249.38,1,36249.38,4.09,3
+2025-10-10,26585,Blessed Potion,Duna,CHEAPEST BLESS,94999,98704.01,3705.01,10,37050.06,3.75,7
 2025-10-10,26572,Inferno Potion,DwShops,the finest cookings for DW,8300,8622.21,322.21,126,40598.32,3.74,10
 2025-10-10,30139,100x Crystal,Mallwart,S> IMPS,91900,95226.86,3326.86,70,232879.96,3.49,8
 2025-10-10,30139,100x Crystal,PUTANG,LAST CHEAP IMPS IN SERVER,91899,95226.86,3327.86,30,99835.7,3.49,8
