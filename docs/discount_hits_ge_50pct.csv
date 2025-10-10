@@ -4,9 +4,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22015,Demonic Gem of Rage,30,2324757.5,4,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
 100.0,22023,Green Jade,3,203215.14,5,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,203215.14,5,1,Brody,the best price gems
-100.0,25431,Kal Runestone,13,666670.67,3,1,ShowerBro,AFK
-100.0,25451,Jade Gem Fragment,1,67504.65,5,3,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,137578.37,7,1,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,68366.95,6,3,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,141469.0,10,1,Goliat,Fragment Store
 100.0,25525,,10,315866.83,7,14,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS CHE
 100.0,28136,Crown of Decendant,8,830001.6,5,1,Vneidnha,pet acc death cap bow ss acc cap
 100.0,28447,Bow of Evanescence,15,900003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
@@ -15,17 +14,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,30157,Iron Bar,3,113001.5,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,22024,Purple Jade,88,633362.33,3,1,PasarGelap,PURPLE JADE 880IMP
 99.99,28468,Ice Sealed Mantle of Enigma,10,67502.25,4,1,Vanny,ring of spell sealed ss bow pet
-99.98,25451,Jade Gem Fragment,15,67504.65,5,6,Coffi,GEM FRAGMENTS
-99.98,25452,Rock Gem Fragment,22,137578.37,7,11,Coffi,GEM FRAGMENTS
+99.98,25451,Jade Gem Fragment,15,68366.95,6,6,Coffi,GEM FRAGMENTS
+99.98,25452,Rock Gem Fragment,22,141469.0,10,11,Coffi,GEM FRAGMENTS
 99.98,25508,Demonic Gem Fragment,18,73688.16,4,1,Coffi,GEM FRAGMENTS
 99.98,25508,Demonic Gem Fragment,15,73688.16,4,4,Madarax**,Demonic gem fragment
 99.98,26346,Lantern,1,4627.58,7,7,Everest,lANTERN
-99.97,26377,Pharaoh's Lantern,1,3008.13,4,79,Virginia,PHARAOH LANTERN 10imp EA
 99.97,28327,Great Aqua Cap,15,46671.67,3,1,Fhhrer,ConCap/yellow jade/de colo
 99.96,25426,Universe Purse Fragment.,45,120025.57,3,4,Coffi,GEM FRAGMENTS
 99.95,28421,Bow of Incantation,20,43340.0,3,1,Vanny,ring of spell sealed ss bow pet
-99.93,26377,Pharaoh's Lantern,2,3008.13,4,30,Mismagius,Pharaoh's Lanterns
-99.93,26377,Pharaoh's Lantern,2,3008.13,4,30,Saip,Pharaoh's Lanterns
 99.89,26585,Blessed Potion,111,99131.8,8,1,Madarax**,Demonic gem fragment
 97.17,26564,Meditation Potion,25,884.12,3,74,TuoTuo,Cleaning Bank
 87.3,25504,Standard Scroll,120,944.54,3,7,Anuel,IMS / Salmon / Jade / Equip
@@ -38,12 +34,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.12,25504,Standard Scroll,150,944.54,3,12,SeventhHeaven,Scrolls/Coins etc
 81.92,22001,Furious Gem,400,2212.92,10,1,Anuel,IMS / Salmon / Jade / Equip
 79.31,28036,Emerald Shield,10000,48333.0,3,1,SSTTAALL,CHEAP
-74.0,25439,Incantation Stone,1000,3846.15,3,7,Fortis,All cheap
+73.59,25439,Incantation Stone,1000,3786.0,4,7,Fortis,All cheap
 72.81,26589,Potion of Bull,700,2574.18,15,9,xTrueHistory,PPS/GPS/JackPot/LBS/Pots
-66.6,25507,Expert Stone,500,1497.06,6,12,AAA123,1231313131
-66.6,25507,Expert Stone,500,1497.06,6,99,AAA123,1231313131
+63.82,25507,Expert Stone,477,1318.55,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
+63.82,25507,Expert Stone,477,1318.55,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
+63.82,25507,Expert Stone,477,1318.55,7,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 63.76,28440,Fire Sealed Roar of Evanescence,4500,12416.67,4,1,Skills,o_0   Free    *_*    Free   0_o
 62.12,25506,Expert Scroll,777,2051.11,4,93,dsadsa,tix wieghtless minion stuff
+62.08,25507,Expert Stone,500,1318.55,7,12,AAA123,1231313131
+62.08,25507,Expert Stone,500,1318.55,7,99,AAA123,1231313131
 59.87,22001,Furious Gem,888,2212.92,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 59.73,28440,Fire Sealed Roar of Evanescence,5000,12416.67,4,1,Nixm,Cheap Lv50 Items
 59.73,28440,Fire Sealed Roar of Evanescence,5000,12416.67,4,1,Nixm,Cheap Lv50 Items
