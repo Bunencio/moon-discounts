@@ -1,6 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1207407.93,3,1,Bpsopen,UG  Strike
-100.0,22009,Gem of Colossus,21,1650003.0,3,1,BV10,Staff
+100.0,22009,Gem of Colossus,21,1607145.86,3,1,BV10,Staff
+100.0,22012,Demonic Gem of Wind,20,962226.2,5,1,Jew,zzzzzzz
 100.0,22015,Demonic Gem of Rage,30,2133343.33,3,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
 100.0,22023,Green Jade,3,200334.13,5,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,200334.13,5,1,Brody,the best price gems
@@ -29,10 +30,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 81.87,22001,Furious Gem,400,2206.0,10,1,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 80.23,25504,Standard Scroll,150,758.57,5,12,SeventhHeaven,Scrolls/Coins etc
 78.47,28430,Fire Sealed Robe of Malediction,1999,9285.57,3,1,TheMystic,- NICE STUFF -
-75.42,26562,Cake,10,40.69,6,48,ATARI,ALL CHEAP FREE!
+74.51,26562,Cake,10,39.23,6,48,ATARI,ALL CHEAP FREE!
 73.63,25504,Standard Scroll,200,758.57,5,99,muhtar,cheap stal
 73.59,25439,Incantation Stone,1000,3786.0,4,7,Fortis,All cheap
-73.39,26589,Potion of Bull,700,2630.65,16,9,xTrueHistory,jackpot/PPS/Potions/LBS
+73.39,26589,Potion of Bull,700,2630.65,16,9,xTrueHistory,gps/JACKPOT/Lbs/Potions
 67.72,26588,Potion of Eagle,900,2788.32,10,2,Aghur,Red statue free*
 66.55,26591,Potion of Lion,900,2690.64,15,1,Aghur,Red statue free*
 63.76,28440,Fire Sealed Roar of Evanescence,4500,12416.67,4,1,Skills,o_0   Free    *_*    Free   0_o
@@ -58,7 +59,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.18,28462,Ice Sealed Staff of Enigma,25000,61249.75,4,1,Lune,Cleaning Bank cheap items
 59.01,25501,Brown Colorant,1000,2439.81,3,2,Brum,S>frozen colrs
 56.7,22006,Spirit Gem,2500,5773.31,6,11,Lune,Cleaning Bank cheap items
-56.52,25390,Mermaid Heart,100,229.97,4,19,ATARI,ALL CHEAP FREE!
 55.4,26591,Potion of Lion,1200,2690.64,15,19,ZafirRose,gps and more
 55.4,26591,Potion of Lion,1200,2690.64,15,37,MiLD,ra
 54.71,22001,Furious Gem,999,2206.0,10,2,cheapstuffsell,cheap
