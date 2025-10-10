@@ -11,8 +11,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22015,Demonic Gem of Rage,30,2142865.43,7,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
 100.0,22023,Green Jade,3,203929.43,5,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,203929.43,5,1,Brody,Cheap gem
-100.0,22024,Purple Jade,10,475004.75,3,1,PasarGelap,PURPLE JADE
-100.0,22024,Purple Jade,10,475004.75,3,1,Almao,SELL PURPLE JADE
+100.0,22024,Purple Jade,10,475024.25,4,1,Almao,SELL PURPLE JADE
 100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,73867.77,8,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,113209.72,4,1,Goliat,Fragment Store
@@ -24,7 +23,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29308,Ring of Valor,2,60000.75,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,29308,Ring of Valor,2,60000.75,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,28468,Ice Sealed Mantle of Enigma,10,70001.8,5,1,Vanny,ring of spell sealed ss bow pet
-99.99,30156,Jackpot Coin,1,8811.53,17,27,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,8868.42,17,27,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
+99.98,22024,Purple Jade,88,475024.25,4,1,PasarGelap,PURPLE JADE 880IMP
 99.98,25451,Jade Gem Fragment,15,73867.77,8,6,Coffi,GEM FRAGMENTS
 99.98,25452,Rock Gem Fragment,22,113209.72,4,11,Coffi,GEM FRAGMENTS
 99.98,27020,Gold Pirate Scroll,3,17966.76,8,30,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
@@ -36,12 +36,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.94,26377,Pharaoh's Lantern,2,3505.65,5,30,Mismagius,Pharaoh's Lanterns
 99.94,26377,Pharaoh's Lantern,2,3505.65,5,30,Saip,Pharaoh's Lanterns
 99.89,26585,Blessed Potion,111,99165.54,6,1,Madarax**,Demonic gem fragment
-99.81,25503,Magical Stone,1,519.06,3,1,hunter111,111
 84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
 84.8,22006,Spirit Gem,1000,6579.58,8,1,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
 83.33,28036,Emerald Shield,10000,59999.67,3,1,SSTTAALL,CHEAP
 79.67,22001,Furious Gem,450,2213.47,10,1,Anuel,G Jade | Jackpot | Tilapia
-76.44,26344,Novice Weightless Potion,1000,4244.38,7,2,Ozy,Rushhhhh
+76.62,25503,Magical Stone,500,2138.38,4,99,Olkc,1234567891011121314151617181920
 75.4,22004,Shining Gem,1000,4065.22,5,2,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
 73.89,26588,Potion of Eagle,700,2680.94,13,4,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 72.66,26589,Potion of Bull,700,2560.45,14,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
@@ -69,4 +68,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.82,22001,Furious Gem,1000,2213.47,10,7,Vendedor,Promotion
 54.82,22001,Furious Gem,1000,2213.47,10,13,011,cleaning
 54.34,26591,Potion of Lion,1300,2847.06,11,1,Bechil,Crap
+53.24,25503,Magical Stone,1000,2138.38,4,5,Stellar,Variety Shop
 50.0,28432,Fire Sealed Staff of Mirage,4500,9000.0,7,1,iLegolas,CookinCard Power Ref Rock PPs
