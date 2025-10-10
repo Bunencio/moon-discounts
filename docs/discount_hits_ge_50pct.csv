@@ -7,7 +7,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22023,Green Jade,3,203929.43,5,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,203929.43,5,1,Brody,Cheap gem
 100.0,22024,Purple Jade,10,712502.25,4,1,Almao,SELL PURPLE JADE
-100.0,22026,Golden Rock,20,1500006.33,3,1,bpguardian,Golden rock cheap
 100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,74595.79,9,1,Goliat,Fragment Store
 100.0,25525,,10,730344.97,7,2,RiasGremory,CHAOS JEWEL
@@ -32,7 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
 80.32,25258,Spirit Feather,170,863.84,4,1,Lane,LIMESTONE
 79.67,22001,Furious Gem,450,2213.77,10,1,Anuel,G Jade | Jackpot | Tilapia
-76.96,25258,Spirit Feather,199,863.84,4,99,LunaMaya,S> Jackpot Warrior Grenade
+76.96,25258,Spirit Feather,199,863.84,4,99,LunaMaya,S>HiddenHoneyLambSkullGrenade
 76.62,25503,Magical Stone,500,2138.38,4,99,Olkc,1234567891011121314151617181920
 74.18,26588,Potion of Eagle,700,2710.65,12,4,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 72.88,26589,Potion of Bull,700,2581.48,13,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
