@@ -1,20 +1,17 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1209615.92,4,1,Bpsopen,UG STRIKE DEMO SOUL
-100.0,22012,Demonic Gem of Wind,12,700006.2,5,1,Seller1,DEMONIC GEMS CHEAPEST!
-100.0,22012,Demonic Gem of Wind,20,700006.2,5,1,Jew,zzzz
-100.0,22015,Demonic Gem of Rage,28,2142865.43,7,1,Seller1,DEMONIC GEMS CHEAPEST!
-100.0,22015,Demonic Gem of Rage,30,2142865.43,7,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
-100.0,22023,Green Jade,3,203929.43,5,3,Frank,GREEN JADE
-100.0,22023,Green Jade,3,203929.43,5,1,Brody,the best price gems
+100.0,22012,Demonic Gem of Wind,20,875004.75,4,1,Jew,zzzz
+100.0,22015,Demonic Gem of Rage,30,2500005.0,6,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
+100.0,22023,Green Jade,3,203215.14,5,3,Frank,GREEN JADE
+100.0,22023,Green Jade,3,203215.14,5,1,Brody,the best price gems
 100.0,22024,Purple Jade,10,475024.25,4,1,Almao,SELL PURPLE JADE
 100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,75004.79,6,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,133601.34,6,1,Goliat,Fragment Store
 100.0,25525,,10,281384.76,6,14,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS CHE
 100.0,25525,,10,281384.76,6,2,RiasGremory,CHAOS JEWEL
-100.0,28136,Crown of Decendant,9,850002.25,4,1,Vneidnha,itens ss armor bow deat cap pet
-100.0,28443,Coat of Evanescence,10,733336.67,3,1,Vneidnha,itens ss armor bow deat cap pet
-100.0,28447,Bow of Evanescence,15,900003.75,4,1,Vneidnha,itens ss armor bow deat cap pet
+100.0,28136,Crown of Decendant,8,850002.0,4,1,Vneidnha,pet acc death cap bow ss acc cap
+100.0,28447,Bow of Evanescence,15,900003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 100.0,29308,Ring of Valor,2,75000.6,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,29308,Ring of Valor,2,75000.6,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,30157,Iron Bar,3,113001.5,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
@@ -24,35 +21,37 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25452,Rock Gem Fragment,22,133601.34,6,11,Coffi,GEM FRAGMENTS
 99.97,25426,Universe Purse Fragment.,45,145022.38,4,4,Coffi,GEM FRAGMENTS
 99.97,25508,Demonic Gem Fragment,15,50007.5,4,4,Madarax**,Demonic gem fragment
-99.97,26377,Pharaoh's Lantern,1,3505.65,5,79,Virginia,PHARAOH LANTERN 10imp EA
+99.97,26377,Pharaoh's Lantern,1,3148.13,4,79,Virginia,PHARAOH LANTERN 10imp EA
 99.96,25508,Demonic Gem Fragment,18,50007.5,4,1,Coffi,GEM FRAGMENTS
 99.95,28421,Bow of Incantation,20,40006.67,3,1,Vanny,ring of spell sealed ss bow pet
-99.94,26377,Pharaoh's Lantern,2,3505.65,5,30,Mismagius,Pharaoh's Lanterns
-99.94,26377,Pharaoh's Lantern,2,3505.65,5,30,Saip,Pharaoh's Lanterns
-99.89,26585,Blessed Potion,111,99165.54,6,1,Madarax**,Demonic gem fragment
+99.94,26377,Pharaoh's Lantern,2,3148.13,4,30,Mismagius,Pharaoh's Lanterns
+99.94,26377,Pharaoh's Lantern,2,3148.13,4,30,Saip,Pharaoh's Lanterns
+99.89,26585,Blessed Potion,111,98971.09,8,1,Madarax**,Demonic gem fragment
 85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
 85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
 85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
 85.97,25212,Frozen Elixir,55,391.96,3,99,Brum,S>frozen colrs
 85.97,25212,Frozen Elixir,55,391.96,3,50,Brum,S>frozen colrs
 84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
-83.33,28036,Emerald Shield,10000,59999.67,3,1,SSTTAALL,CHEAP
-79.67,22001,Furious Gem,450,2213.47,10,1,Anuel,G Jade | Jackpot | Tilapia
+83.7,25504,Standard Scroll,150,920.16,3,7,Anuel,C RUNESTONE | IMPS | GJade
+83.7,25504,Standard Scroll,150,920.16,3,20,SeventhHeaven,Scrolls/Coins etc
+81.82,28036,Emerald Shield,10000,54999.67,3,1,SSTTAALL,CHEAP
+77.4,22001,Furious Gem,500,2212.42,10,1,Anuel,C RUNESTONE | IMPS | GJade
 76.62,25503,Magical Stone,500,2138.38,4,99,Olkc,1234567891011121314151617181920
 75.4,22004,Shining Gem,1000,4065.22,5,2,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
 73.92,26588,Potion of Eagle,700,2683.89,13,4,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
-72.78,26589,Potion of Bull,700,2571.57,14,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
+73.33,28423,Mantle of the Cursed Flame,20000,74999.5,4,1,Bathroom,asdasdasd
+72.96,26589,Potion of Bull,700,2588.73,13,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 70.44,22003,Glowing Gem,1000,3383.33,6,3,STALLING11,REFGEM/ NORMAL GEM/DEMONIC ROCK
-70.0,28423,Mantle of the Cursed Flame,20000,66666.33,3,1,Bathroom,asdasdasd
+67.4,25504,Standard Scroll,300,920.16,3,2,Olkc,1234567891011121314151617181920
 66.75,25258,Spirit Feather,170,511.27,3,1,Lane,LIMESTONE
 64.29,28440,Fire Sealed Roar of Evanescence,5000,14000.0,3,1,Nixm,Cheap Lv50 Items
 64.29,28440,Fire Sealed Roar of Evanescence,5000,14000.0,3,1,Nixm,Cheap Lv50 Items
 62.74,26588,Potion of Eagle,1000,2683.89,13,3,Space,GRENADE / RAD/ FB ALLLL GOOD
 62.74,26588,Potion of Eagle,1000,2683.89,13,1,buffenjoyer,garner
 62.12,25506,Expert Scroll,777,2051.11,4,93,dsadsa,tix wieghtless minion stuff
-61.11,26589,Potion of Bull,1000,2571.57,14,7,Space,GRENADE / RAD/ FB ALLLL GOOD
 61.08,25258,Spirit Feather,199,511.27,3,99,LunaMaya,S>HiddenHoneyLambSkullGrenade
-59.88,22001,Furious Gem,888,2213.47,10,49,hunterx,bp/knife app/repu/fb/signet/gems
+59.86,22001,Furious Gem,888,2212.42,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 59.01,25501,Brown Colorant,1000,2439.81,3,2,Brum,S>frozen colrs
 58.97,2301,,22222,54166.38,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 58.97,2301,,22222,54166.38,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -64,15 +63,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
 57.55,25391,Octopus Tentacle,190,447.56,5,99,BakolCumiCumi,Red Blueprint Scroll | Octopus T
-56.5,26591,Potion of Lion,1200,2758.36,11,37,MiLD,ra
+56.87,26591,Potion of Lion,1200,2782.03,12,37,MiLD,ra
 55.54,25391,Octopus Tentacle,199,447.56,5,99,vnt4,octopus tentacle come
 55.54,25391,Octopus Tentacle,199,447.56,5,96,vnt4,octopus tentacle come
 55.54,25391,Octopus Tentacle,199,447.56,5,98,vnt4,octopus tentacle come
 55.54,25391,Octopus Tentacle,199,447.56,5,99,vnt4,octopus tentacle come
 55.52,26568,Skating Potion,20000,44963.93,5,1,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
-54.87,22001,Furious Gem,999,2213.47,10,2,cheapstuffsell,cheap
-54.82,22001,Furious Gem,1000,2213.47,10,7,Vendedor,Promotion
-54.82,22001,Furious Gem,1000,2213.47,10,13,011,cleaning
+54.85,22001,Furious Gem,999,2212.42,10,2,cheapstuffsell,cheap
+54.8,22001,Furious Gem,1000,2212.42,10,7,Vendedor,Promotion
+54.8,22001,Furious Gem,1000,2212.42,10,13,011,cleaning
 54.55,28450,Fire Sealed Tooth of Evanescence,8000,17600.0,4,1,Sakaki,chest/bow/boots/gps
 53.24,25503,Magical Stone,1000,2138.38,4,5,Stellar,Variety Shop
 50.0,28432,Fire Sealed Staff of Mirage,4500,9000.0,7,1,iLegolas,CookinCard Power Ref Rock PPs
