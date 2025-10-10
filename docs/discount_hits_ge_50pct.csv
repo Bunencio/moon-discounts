@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,13,1209333.77,4,1,Dinamy,ug striking / demo striking
 100.0,22009,Gem of Colossus,25,1538894.67,4,1,Brody,Cheap gem
 100.0,22009,Gem of Colossus,27,1538894.67,4,1,barako,GEM OF COLO in  IMPS CHEAP
 100.0,22014,Demonic Gem of Colossus,30,1275014.75,3,1,Jew,zzzz
@@ -8,6 +7,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22023,Green Jade,3,203929.43,5,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,203929.43,5,1,Brody,Cheap gem
 100.0,22024,Purple Jade,10,712502.25,4,1,Almao,SELL PURPLE JADE
+100.0,22026,Golden Rock,20,1500006.33,3,1,bpguardian,Golden rock cheap
 100.0,25431,Kal Runestone,13,663337.33,3,1,ShowerBro,AFK
 100.0,25451,Jade Gem Fragment,1,74595.79,9,1,Goliat,Fragment Store
 100.0,25525,,10,730344.97,7,2,RiasGremory,CHAOS JEWEL
@@ -16,11 +16,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28447,Bow of Evanescence,15,900003.75,4,1,Vneidnha,itens ss armor bow deat cap pet
 100.0,29308,Ring of Valor,2,65001.0,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,29308,Ring of Valor,2,65001.0,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
-99.99,28468,Ice Sealed Mantle of Enigma,10,67502.25,4,1,Vanny,ring of spell sealed ss bow pet
-99.99,30156,Jackpot Coin,1,9151.2,16,27,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
+99.99,28468,Ice Sealed Mantle of Enigma,10,70001.8,5,1,Vanny,ring of spell sealed ss bow pet
+99.99,30156,Jackpot Coin,1,9011.17,15,27,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
 99.98,25451,Jade Gem Fragment,15,74595.79,9,6,Coffi,GEM FRAGMENTS
 99.98,25508,Demonic Gem Fragment,18,83335.83,3,1,Coffi,GEM FRAGMENTS
-99.98,27020,Gold Pirate Scroll,3,13863.62,4,30,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
+99.98,27020,Gold Pirate Scroll,3,14874.57,6,30,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
 99.97,25426,Universe Purse Fragment.,45,170022.38,4,4,Coffi,GEM FRAGMENTS
 99.97,26377,Pharaoh's Lantern,1,3801.98,5,79,Virginia,PHARAOH LANTERN 10imp EA
 99.97,28476,Ice Sealed Kris of the Sphinx,16,58335.5,3,1,MiaKhalifa,Dagger Voy
@@ -32,15 +32,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
 80.32,25258,Spirit Feather,170,863.84,4,1,Lane,LIMESTONE
 79.67,22001,Furious Gem,450,2213.77,10,1,Anuel,G Jade | Jackpot | Tilapia
-77.53,25506,Expert Scroll,500,2224.86,4,16,conchmachine,Jelly detector/Shark Fin
 76.96,25258,Spirit Feather,199,863.84,4,99,LunaMaya,S> Jackpot Warrior Grenade
 76.62,25503,Magical Stone,500,2138.38,4,99,Olkc,1234567891011121314151617181920
-74.19,26588,Potion of Eagle,700,2712.08,12,4,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
+74.18,26588,Potion of Eagle,700,2710.65,12,4,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 72.88,26589,Potion of Bull,700,2581.48,13,8,xTrueHistory,UniversePurse/jackpot/PPS/GPS/Po
 70.0,28423,Mantle of the Cursed Flame,20000,66666.33,3,1,Bathroom,asdasdasd
-67.85,26595,Standard Explosive Ball,600,1866.33,3,3,Aghur,Tickets  pots and more
-64.52,27034,Grenade Lv2,980,2762.27,9,2,Aghur,Tickets  pots and more
-63.13,26588,Potion of Eagle,1000,2712.08,12,1,buffenjoyer,garner
+63.11,26588,Potion of Eagle,1000,2710.65,12,1,buffenjoyer,garner
 60.98,28456,Ice Sealed Robe of the Sphinx,19999,51249.75,4,1,TheMystic,- SM STUFF -
 59.89,22001,Furious Gem,888,2213.77,10,49,hunterx,bp/knife app/repu/fb/signet/gems
 59.01,25501,Brown Colorant,1000,2439.81,3,2,Brum,S>frozen colrs
@@ -64,6 +61,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.87,22001,Furious Gem,999,2213.77,10,2,cheapstuffsell,cheap
 54.83,22001,Furious Gem,1000,2213.77,10,7,Vendedor,Promotion
 54.83,22001,Furious Gem,1000,2213.77,10,13,011,cleaning
+54.59,26591,Potion of Lion,1300,2863.01,12,1,Bechil,Crap
 53.24,25503,Magical Stone,1000,2138.38,4,5,Stellar,Variety Shop
 51.48,25212,Frozen Elixir,60,123.67,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
 51.48,25212,Frozen Elixir,60,123.67,3,99,PWTanker,Power Balls/Frozen Elixir/Bottle
