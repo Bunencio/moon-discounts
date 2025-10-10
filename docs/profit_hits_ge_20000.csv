@@ -7,12 +7,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,22014,Demonic Gem of Colossus,Brody,Cheap gem,30,1275014.75,1274984.75,1,1274984.75,100.0,3
 2025-10-10,28447,Bow of Evanescence,Vneidnha,itens ss armor bow deat cap pet,15,900003.75,899988.75,1,899988.75,100.0,4
 2025-10-10,28136,Crown of Decendant,Vneidnha,itens ss armor bow deat cap pet,9,850002.25,849993.25,1,849993.25,100.0,4
+2025-10-10,22012,Demonic Gem of Wind,Jew,zzzz,20,766673.0,766653.0,1,766653.0,100.0,3
 2025-10-10,28443,Coat of Evanescence,Vneidnha,itens ss armor bow deat cap pet,10,733336.67,733326.67,1,733326.67,100.0,3
 2025-10-10,22024,Purple Jade,Almao,SELL PURPLE JADE,10,712502.25,712492.25,1,712492.25,100.0,4
 2025-10-10,25431,Kal Runestone,ShowerBro,AFK,13,663337.33,663324.33,1,663324.33,100.0,3
 2025-10-10,22023,Green Jade,Frank,GREEN JADE,3,203929.43,203926.43,3,611779.29,100.0,5
-2025-10-10,22012,Demonic Gem of Wind,Systembuff,Dem Gems,15,575008.5,574993.5,1,574993.5,100.0,4
-2025-10-10,22012,Demonic Gem of Wind,Jew,zzzz,20,575008.5,574988.5,1,574988.5,100.0,4
 2025-10-10,22023,Green Jade,Brody,Cheap gem,3,203929.43,203926.43,1,203926.43,100.0,5
 2025-10-10,25451,Jade Gem Fragment,Goliat,Fragment Store,1,74504.5,74503.5,1,74503.5,100.0,7
 2025-10-10,29308,Ring of Valor,DemiMerchant,99c Cheap Mall and Pets 99c,2,65001.0,64999.0,1,64999.0,100.0,3
@@ -22,8 +21,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,27020,Gold Pirate Scroll,NALDOCANAL,AAAAAAAAAAAAAAAAAAA,3,16447.81,16444.81,30,493344.3,99.98,7
 2025-10-10,25451,Jade Gem Fragment,Coffi,GEM FRAGMENTS,15,74504.5,74489.5,6,446937.0,99.98,7
 2025-10-10,25508,Demonic Gem Fragment,Coffi,GEM FRAGMENTS,18,83335.83,83317.83,1,83317.83,99.98,3
-2025-10-10,25426,Universe Purse Fragment.,Coffi,GEM FRAGMENTS,45,170022.38,169977.38,4,679909.5,99.97,4
 2025-10-10,26377,Pharaoh's Lantern,Virginia,PHARAOH LANTERN 10imp EA,1,3505.65,3504.65,79,276867.63,99.97,5
+2025-10-10,25426,Universe Purse Fragment.,Coffi,GEM FRAGMENTS,45,110029.83,109984.83,4,439939.33,99.96,3
 2025-10-10,28421,Bow of Incantation,Vanny,ring of spell sealed ss bow pet,20,40006.67,39986.67,1,39986.67,99.95,3
 2025-10-10,26377,Pharaoh's Lantern,Mismagius,Pharaoh's Lanterns,2,3505.65,3503.65,30,105109.61,99.94,5
 2025-10-10,26377,Pharaoh's Lantern,Saip,Pharaoh's Lanterns,2,3505.65,3503.65,30,105109.61,99.94,5
@@ -110,10 +109,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,30191,1000 Supporter Points Voucher,Demicoin3,99c All Goods Cheap 99c,39999,45499.94,5500.94,5,27504.72,12.09,3
 2025-10-10,30176,MvM Coin,GioMb,GPS/MVM COIN,2750,3125.2,375.2,131,49151.11,12.01,8
 2025-10-10,26578,Aegis Brew,PITAYA,AGEIS AND BLESSED,49000,55383.33,6383.33,4,25533.33,11.53,4
+2025-10-10,25091,Heavy Crystal,conqstall2,Hearts changecards heavycr potts,3000,3390.51,390.51,99,38660.87,11.52,3
 2025-10-10,25430,Enigma Power,Garp,ENIGMA POWER FAST,2600,2906.86,306.86,99,30379.08,10.56,7
 2025-10-10,25430,Enigma Power,Garp,ENIGMA POWER FAST,2600,2906.86,306.86,90,27617.34,10.56,7
+2025-10-10,25092,Blue Crystal,stalleer,crystal red ore,3330,3710.38,380.38,82,31191.07,10.25,3
 2025-10-10,26578,Aegis Brew,Signet,Aegis/Inferno/Tuna,50000,55383.33,5383.33,5,26916.67,9.72,4
-2025-10-10,25091,Heavy Crystal,conqstall2,Hearts changecards heavycr potts,3000,3317.02,317.02,99,31385.24,9.56,4
 2025-10-10,30156,Jackpot Coin,BuyingSta4ll7,JACKPOT | GPS | PPS | PHARAOH ++,8000,8832.66,832.66,53,44130.74,9.43,16
 2025-10-10,30156,Jackpot Coin,LotokSell,UgRage UgColos Flash W8 Coins,8000,8832.66,832.66,49,40800.11,9.43,16
 2025-10-10,30156,Jackpot Coin,Ludopat1n,Ring 50 spr Jackpot cheap stuff,8000,8832.66,832.66,34,28310.28,9.43,16
@@ -125,12 +125,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-10,22015,Demonic Gem of Rage,Wallnut,Corner Shop,2300000,2500005.0,200005.0,1,200005.0,8.0,6
 2025-10-10,26588,Potion of Eagle,GeorgeFloyd,zzzzzz,2500,2717.26,217.26,190,41278.54,8.0,12
 2025-10-10,30168,Gyoza,MiLD,r,23000,24964.3,1964.3,16,31428.77,7.87,3
-2025-10-10,25092,Blue Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3299,3576.17,277.17,92,25499.66,7.75,4
 2025-10-10,27019,Purple Pirate Scroll,iGoro,Cleric Uns 55/Jewel Frag/PPS/PBS,4000,4332.42,332.42,89,29585.25,7.67,10
 2025-10-10,25534,,buyme,FRAGMENTS !,74000,79857.14,5857.14,8,46857.14,7.33,7
 2025-10-10,26572,Inferno Potion,BPCRAFT,BLESS/IRON/INFERNO/RAD/PRES/GUAR,7900,8512.17,612.17,72,44075.96,7.19,8
 2025-10-10,30156,Jackpot Coin,MatsBk,S>GPS/PPS/JC/Purple blueprints,8200,8832.66,632.66,120,75918.65,7.16,16
-2025-10-10,25092,Blue Crystal,stalleer,crystal red ore,3330,3576.17,246.17,82,20185.96,6.88,4
 2025-10-10,25525,,Pots,Chaos Jewel/GoldenRock/Tuna/Crab,670000,716000.13,46000.13,4,184000.53,6.42,8
 2025-10-10,26344,Novice Weightless Potion,GeorgeFloyd,zzzzzz,4000,4272.23,272.23,95,25862.02,6.37,6
 2025-10-10,26572,Inferno Potion,TotemCookings,Totem Cookings Made wLove n Weed,8000,8512.17,512.17,99,50704.45,6.02,8

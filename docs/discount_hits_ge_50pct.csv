@@ -1,8 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,23,1538894.22,4,1,barako,Gem of Colo 23 Imps cheapest
 100.0,22009,Gem of Colossus,25,1538894.22,4,1,Brody,Cheap gem
-100.0,22012,Demonic Gem of Wind,15,575008.5,4,1,Systembuff,Dem Gems
-100.0,22012,Demonic Gem of Wind,20,575008.5,4,1,Jew,zzzz
+100.0,22012,Demonic Gem of Wind,20,766673.0,3,1,Jew,zzzz
 100.0,22014,Demonic Gem of Colossus,30,1275014.75,3,1,Jew,zzzz
 100.0,22014,Demonic Gem of Colossus,30,1275014.75,3,1,Brody,Cheap gem
 100.0,22015,Demonic Gem of Rage,30,2500005.0,6,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
@@ -22,8 +21,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25451,Jade Gem Fragment,15,74504.5,7,6,Coffi,GEM FRAGMENTS
 99.98,25508,Demonic Gem Fragment,18,83335.83,3,1,Coffi,GEM FRAGMENTS
 99.98,27020,Gold Pirate Scroll,3,16447.81,7,30,NALDOCANAL,AAAAAAAAAAAAAAAAAAA
-99.97,25426,Universe Purse Fragment.,45,170022.38,4,4,Coffi,GEM FRAGMENTS
 99.97,26377,Pharaoh's Lantern,1,3505.65,5,79,Virginia,PHARAOH LANTERN 10imp EA
+99.96,25426,Universe Purse Fragment.,45,110029.83,3,4,Coffi,GEM FRAGMENTS
 99.95,28421,Bow of Incantation,20,40006.67,3,1,Vanny,ring of spell sealed ss bow pet
 99.94,26377,Pharaoh's Lantern,2,3505.65,5,30,Mismagius,Pharaoh's Lanterns
 99.94,26377,Pharaoh's Lantern,2,3505.65,5,30,Saip,Pharaoh's Lanterns
