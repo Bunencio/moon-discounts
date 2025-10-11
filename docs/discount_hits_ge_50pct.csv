@@ -10,10 +10,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28447,Bow of Evanescence,15,812503.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 100.0,28468,Ice Sealed Mantle of Enigma,1,74000.2,4,1,Vanny,Ring of Spell ss sealed 45unsbow
 99.99,22007,Gem of Striking,135,1213933.36,6,1,MapBK,S<striking 1.35k imp
-99.99,30156,Jackpot Coin,1,9933.66,10,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,30156,Jackpot Coin,1,9961.02,9,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,25451,Jade Gem Fragment,15,62465.93,8,6,Coffi,GEM FRAGMENTS
 99.98,25452,Rock Gem Fragment,22,89796.79,13,11,Coffi,GEM FRAGMENTS
-99.98,26346,Lantern,1,4464.63,12,7,Everest,lANTERN
+99.98,26346,Lantern,1,4467.65,11,7,Everest,lANTERN
 99.96,25426,Universe Purse Fragment.,45,126452.71,4,4,Coffi,GEM FRAGMENTS
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
 81.64,25440,Evanescence Stone,200,1089.13,5,1,BL4CKM4RK3T,cheap stuff
@@ -38,4 +38,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.36,28428,Fire Sealed Dance of Evanescence,19800,42450.0,4,1,iLegolas,Refs GPs PPs CookinCard Sealed50
 52.47,22000,FieryGem,1444,3038.08,8,3,Perversu,Cleaning Bank sell Cheap Items !
 50.39,28442,Fire Sealed Coat of Evanescence,5000,10077.78,6,1,MiloOvaltinePlus,AEIOU ABKDE
-50.3,25534,,11000,22133.52,10,1,xKINGx,sadwasd
