@@ -1,8 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,22,1377149.0,5,1,Sysh,SELL SOME GEMS
 100.0,22009,Gem of Colossus,21,1377149.0,5,1,BV10,Staff
-100.0,22010,Gem of Rage,25,751349.2,5,4,Sysh,SELL SOME GEMS
-100.0,22010,Gem of Rage,23,751349.2,5,6,BOOOOMBOOOM,2.3k imps ug rage
+100.0,22010,Gem of Rage,25,1252233.33,4,4,Sysh,SELL SOME GEMS
 100.0,22023,Green Jade,3,213182.64,4,3,Frank,GREEN JADE
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
 100.0,22031,Aegis Rock,19,1262504.75,3,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
@@ -28,8 +27,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.09,25439,Incantation Stone,1000,4014.47,5,7,Fortis,All cheap
 74.91,26562,Cake,10,39.86,8,48,ATARI,ALL CHEAP FREE!
 73.0,28472,Ice Sealed Bow of Enigma,89000,329666.67,3,1,Cyrax,APP / WING / BOW / SS ITENS / ++
-70.27,28430,Fire Sealed Robe of Malediction,1999,6724.88,6,1,TheMystic,- NICE STUFF -
 69.11,26589,Potion of Bull,700,2265.75,15,9,xTrueHistory,GPS/PPS/Jackpot/JadeFragm/LBS/PO
+68.76,28430,Fire Sealed Robe of Malediction,1999,6399.86,5,1,TheMystic,- NICE STUFF -
 65.56,26564,Meditation Potion,300,871.07,5,7,Shab7,cheeeeep pots potrs
 63.34,26590,Potion of Soul,1000,2728.1,10,2,BjornIronside,LIQUIDO YA
 62.66,28458,Ice Sealed Staff of the Sphinx,9999,26777.4,5,1,BjornIronside,LIQUIDO YA
