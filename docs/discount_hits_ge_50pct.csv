@@ -1,15 +1,18 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1205556.07,4,1,Bpsopen,UG  Strike
-100.0,22009,Gem of Colossus,21,1607145.86,3,1,BV10,Staff
-100.0,22012,Demonic Gem of Wind,20,912505.0,4,1,Jew,zzzzzzz
-100.0,22015,Demonic Gem of Rage,30,2133343.33,3,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
+100.0,22009,Gem of Colossus,22,1406255.38,4,1,Sysh,SELL SOME GEMS
+100.0,22009,Gem of Colossus,21,1406255.38,4,1,BV10,Staff
+100.0,22010,Gem of Rage,25,1738468.62,3,4,Sysh,SELL SOME GEMS
+100.0,22015,Demonic Gem of Rage,30,600023.5,3,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
 100.0,22023,Green Jade,3,195417.67,4,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,195417.67,4,1,Brody,the best price gems
 100.0,25451,Jade Gem Fragment,1,76754.5,6,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,123152.37,13,1,Goliat,Fragment Store
+100.0,25527,,7,694999.0,3,1,Grawly#27,Chaos Runestone
 100.0,28135,Crown of Poseidon,3,132507.75,4,1,DemiMerchant,99c Cheap Mall and Pets 99c
-100.0,28447,Bow of Evanescence,15,800005.0,3,1,Vneidnha,pet acc death cap bow ss acc cap
+100.0,28447,Bow of Evanescence,15,633338.33,3,1,Vneidnha,pet acc death cap bow ss acc cap
 100.0,30157,Iron Bar,3,110834.58,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
+99.99,22015,Demonic Gem of Rage,32,600023.5,3,2,Sysh,SELL SOME GEMS
 99.99,22024,Purple Jade,88,600029.0,3,1,PasarGelap,PURPLE JADE 880IMP
 99.99,28468,Ice Sealed Mantle of Enigma,10,70002.5,3,1,Vanny,ring of spell sealed ss bow pet
 99.98,25451,Jade Gem Fragment,15,76754.5,6,6,Coffi,GEM FRAGMENTS
@@ -29,21 +32,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.06,26562,Cake,10,38.55,6,48,ATARI,ALL CHEAP FREE!
 73.63,25504,Standard Scroll,200,758.57,5,99,muhtar,cheap stal
 70.1,28430,Fire Sealed Robe of Malediction,1999,6685.57,4,1,TheMystic,- NICE STUFF -
-67.84,26590,Potion of Soul,1000,3109.68,6,2,BjornIronside,LIQUIDO YA
-67.12,26588,Potion of Eagle,900,2737.09,10,2,Aghur,Red statue free*
-65.68,26591,Potion of Lion,900,2622.58,11,1,Aghur,Red statue free*
+67.77,26590,Potion of Soul,1000,3102.99,7,2,BjornIronside,LIQUIDO YA
+67.14,26588,Potion of Eagle,900,2738.56,10,2,Aghur,Red statue free*
+65.53,26591,Potion of Lion,900,2610.79,11,1,Aghur,Red statue free*
 63.48,22001,Furious Gem,1000,2737.85,7,1,CaloNord,de todo
 63.14,25506,Expert Scroll,777,2107.82,3,93,dsadsa,tix wieghtless minion stuff
 62.81,25499,Purple Colorant,900,2420.25,3,3,CaloNord,de todo
+61.26,25507,Expert Stone,477,1231.21,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
+61.26,25507,Expert Stone,477,1231.21,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
+61.26,25507,Expert Stone,477,1231.21,7,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 60.56,28450,Fire Sealed Tooth of Evanescence,7000,17750.0,5,1,Sakaki,chest/boots
 59.28,28458,Ice Sealed Staff of the Sphinx,9999,24555.2,5,1,BjornIronside,LIQUIDO YA
 59.09,28462,Ice Sealed Staff of Enigma,30000,73333.0,3,1,xVENDOR1x,RUSH
-59.01,25507,Expert Stone,477,1163.74,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
-59.01,25507,Expert Stone,477,1163.74,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
-59.01,25507,Expert Stone,477,1163.74,8,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 57.32,25440,Evanescence Stone,150,351.49,5,29,WindSeal,Demonic Rock/Enigma Power/Eva ro
-57.04,25507,Expert Stone,500,1163.74,8,12,AAA123,1231313131
-57.04,25507,Expert Stone,500,1163.74,8,99,AAA123,1231313131
-54.24,26591,Potion of Lion,1200,2622.58,11,19,ZafirRose,gps and more
+57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Che,Xiclets
+57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Nixm,Cheap Lv50 Items
+57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Nixm,Cheap Lv50 Items
+54.04,26591,Potion of Lion,1200,2610.79,11,19,ZafirRose,gps and more
 52.32,28440,Fire Sealed Roar of Evanescence,4500,9437.38,6,1,Skills,o_0   Free    *_*    Free   0_o
 50.28,26002,Pharaoh Gem,1199,2411.58,3,1,RanqueS,Low Pricee
