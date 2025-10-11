@@ -2,18 +2,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,23,1015011.33,4,2,BV10,SM
 100.0,22009,Gem of Colossus,23,1015011.33,4,1,SSxConvict,UG Colo   Fire Rock
 100.0,22010,Gem of Rage,25,1310010.71,3,3,Sysh,SELL SOME GEMS
+100.0,22021,Yellow Jade,25,1083341.67,3,1,ShowerBro,afk
 100.0,22023,Green Jade,3,213182.64,4,3,Frank,GREEN JADE
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
 100.0,22031,Aegis Rock,19,1328003.8,4,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
 100.0,25451,Jade Gem Fragment,1,62003.08,7,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,84700.83,10,1,Goliat,Fragment Store
 100.0,28447,Bow of Evanescence,15,850003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
+100.0,28468,Ice Sealed Mantle of Enigma,1,76000.2,4,1,Vanny,Ring of Spell ss sealed 45unsbow
 99.99,22007,Gem of Striking,135,1211159.0,4,1,MapBK,S<striking 1.35k imp
 99.99,26572,Inferno Potion,1,8331.79,6,13,sellerrr,BLESS POT / INFERNO
 99.99,26585,Blessed Potion,9,89118.5,11,12,sellerrr,BLESS POT / INFERNO
 99.99,30156,Jackpot Coin,1,9732.42,14,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,25451,Jade Gem Fragment,15,62003.08,7,6,Coffi,GEM FRAGMENTS
-99.98,26346,Lantern,1,4467.17,12,7,Everest,lANTERN
+99.98,26346,Lantern,1,4492.42,11,7,Everest,lANTERN
 99.97,25452,Rock Gem Fragment,22,84700.83,10,11,Coffi,GEM FRAGMENTS
 99.96,25426,Universe Purse Fragment.,45,126452.71,4,4,Coffi,GEM FRAGMENTS
 91.55,25497,Blue Colorant,450,5325.69,4,1,cheapstuffguys,cheap
@@ -22,7 +24,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 81.25,28472,Ice Sealed Bow of Enigma,49997,266665.67,3,1,Cyrax,APP  WING SS BOW ARMOR
 81.12,28458,Ice Sealed Staff of the Sphinx,5000,26481.17,6,1,Vendedor,Promotion cruz
 80.91,22001,Furious Gem,500,2618.51,8,2,SellerPirate,stuff
-79.61,30135,Demonic Rock,700,3432.4,8,1,xTrueHistory,Imps/JadeFragtm/GPS/jackpot/PPS/
+80.07,30135,Demonic Rock,700,3513.11,7,1,xTrueHistory,Imps/JadeFragtm/GPS/jackpot/PPS/
 76.92,28036,Emerald Shield,10000,43333.0,3,1,SSTTAALL,CHEAP
 72.31,25439,Incantation Stone,1000,3611.5,4,6,Fortis,All cheap
 68.46,26589,Potion of Bull,700,2219.54,14,11,xTrueHistory,Imps/JadeFragtm/GPS/jackpot/PPS/
