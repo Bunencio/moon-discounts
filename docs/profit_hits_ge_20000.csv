@@ -2,7 +2,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,22009,Gem of Colossus,BV10,Staff,21,1406255.38,1406234.38,1,1406234.38,100.0,4
 2025-10-11,22009,Gem of Colossus,Sysh,SELL SOME GEMS,22,1406255.38,1406233.38,1,1406233.38,100.0,4
 2025-10-11,22031,Aegis Rock,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!,19,1262504.75,1262485.75,1,1262485.75,100.0,3
-2025-10-11,22021,Yellow Jade,ShowerBro,afk,25,1100008.33,1099983.33,1,1099983.33,100.0,3
 2025-10-11,28447,Bow of Evanescence,Vneidnha,pet acc death cap bow ss acc cap,15,850003.75,849988.75,1,849988.75,100.0,4
 2025-10-11,22015,Demonic Gem of Rage,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP),30,600023.5,599993.5,1,599993.5,100.0,3
 2025-10-11,22023,Green Jade,Frank,GREEN JADE,3,195417.67,195414.67,3,586244.0,100.0,4
@@ -27,9 +26,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1133.37,656.37,99,64980.26,57.91,6
 2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1133.37,656.37,99,64980.26,57.91,6
 2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1133.37,656.37,61,40038.34,57.91,6
+2025-10-11,28429,Dance of Evanescence,michaeng7777,1,600000,1411428.57,811428.57,1,811428.57,57.49,6
 2025-10-11,25525,,Anbie,CHAOS JEWEL 300K EA,300000,684827.07,384827.07,1,384827.07,56.19,6
 2025-10-11,25507,Expert Stone,AAA123,123131331313131313,500,1133.37,633.37,99,62703.26,55.88,6
-2025-10-11,28429,Dance of Evanescence,michaeng7777,1,600000,1347500.0,747500.0,1,747500.0,55.47,7
 2025-10-11,26591,Potion of Lion,ZafirRose,gps and more,1200,2427.42,1227.42,19,23320.97,50.56,11
 2025-10-11,25506,Expert Scroll,dsadsa,weightless exper scroll,777,1444.02,667.02,93,62033.06,46.19,4
 2025-10-11,25476,Hairstyling Voucher,Yennefer,FRAG OF FRAG ROCK SUN PBS POTION,10000,17142.86,7142.86,3,21428.57,41.67,3
@@ -40,7 +39,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,25534,,sApollo,Fragment of Fragmentation???????,15000,24974.58,9974.58,34,339135.58,39.94,7
 2025-10-11,25452,Rock Gem Fragment,dogdogdog,Gold.pbs pps.jackpot.gem frags,89990,138130.75,48140.75,1,48140.75,34.85,9
 2025-10-11,25452,Rock Gem Fragment,Yennefer,FRAG OF FRAG ROCK SUN PBS POTION,90000,138130.75,48130.75,1,48130.75,34.84,9
-2025-10-11,28429,Dance of Evanescence,Onigiri,any,900000,1347500.0,447500.0,1,447500.0,33.21,7
 2025-10-11,25430,Enigma Power,Bankera,Imps cheap | Powers,1300,1923.18,623.18,99,61695.25,32.4,7
 2025-10-11,26589,Potion of Bull,Masteryi,sell 0-0,1650,2431.67,781.67,39,30485.27,32.15,13
 2025-10-11,25534,,Chupeteira,CHEAP FRAGMENT OF FRAG 17k only!,17000,24974.58,7974.58,10,79745.76,31.93,7
@@ -65,6 +63,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,26588,Potion of Eagle,shooter,bored of themcleanse 30% discout,2000,2611.88,611.88,55,33653.6,23.43,10
 2025-10-11,27025,Radiation Lv1,BPCRAFT,BLESS/IRON/INFERNO/RAD/PRESTIGE!,2350,3044.31,694.31,150,104147.25,22.81,4
 2025-10-11,30156,Jackpot Coin,BL4CKM4RK3T,cheap stuff,8899,11495.84,2596.84,15,38952.55,22.59,6
+2025-10-11,28429,Dance of Evanescence,Magatah,CHEAP FC CRUZ,1100000,1411428.57,311428.57,1,311428.57,22.06,6
 2025-10-11,26592,Flash Bomb,Ivynor,All cheap,900,1152.56,252.56,190,47986.18,21.91,12
 2025-10-11,26575,Guardian's Brew,F0X01,Best Price EVER,560,716.3,156.3,144,22507.35,21.82,9
 2025-10-11,30156,Jackpot Coin,ghost26,scroll,8990,11495.84,2505.84,8,20046.69,21.8,6
@@ -76,7 +75,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,25534,,Yennefer,FRAG OF FRAG ROCK SUN PBS POTION,20000,24974.58,4974.58,24,119389.82,19.92,7
 2025-10-11,25534,,IMMORTALLITY,fairy dust   stones  pps pbs,20000,24974.58,4974.58,9,44771.18,19.92,7
 2025-10-11,22000,FieryGem,BuySome,Maybe You Need,2500,3108.43,608.43,76,46240.99,19.57,5
-2025-10-11,28429,Dance of Evanescence,Magatah,CHEAP FC CRUZ,1100000,1347500.0,247500.0,1,247500.0,18.37,7
 2025-10-11,27025,Radiation Lv1,Aaquaaq,Radiation/FB/Grenade/Potion,2500,3044.31,544.31,200,108863.0,17.88,4
 2025-10-11,27025,Radiation Lv1,Aaquaaq,Radiation/FB/Grenade/Potion,2500,3044.31,544.31,200,108863.0,17.88,4
 2025-10-11,27025,Radiation Lv1,Bankaquaq,Radiation/Brew/Poison/FB/GRENADE,2500,3044.31,544.31,200,108863.0,17.88,4
@@ -100,14 +98,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,27020,Gold Pirate Scroll,Ivynor,All cheap,20000,23682.74,3682.74,6,22096.43,15.55,10
 2025-10-11,25525,,CITAMZ,CHEAPEST CHAOS JEW BLESS RUNE,580000,684827.07,104827.07,6,628962.41,15.31,6
 2025-10-11,25480,Ami Hairstyle Book,Manager,CHEAP HAIRSTYLE,2000,2356.16,356.16,58,20657.53,15.12,4
+2025-10-11,28429,Dance of Evanescence,KillerSolo,55 crus / 50 crus / gbs help me,1200000,1411428.57,211428.57,1,211428.57,14.98,6
+2025-10-11,28429,Dance of Evanescence,Vendedor,Promotion cruz,1200000,1411428.57,211428.57,1,211428.57,14.98,6
 2025-10-11,30102,1000 Reputation Scroll,CheapestASF,Ezzzzzzzzzzzzzzzzzzzzz,7650,8948.49,1298.49,26,33760.85,14.51,8
 2025-10-11,25493,Orange Colorant,hahahehehoho,All colorants,4000,4613.64,613.64,75,46022.73,13.3,3
 2025-10-11,30156,Jackpot Coin,pisslow,Free S>,10000,11495.84,1495.84,84,125650.27,13.01,6
 2025-10-11,26346,Lantern,Masteryi,sell 0-0,4200,4785.87,585.87,51,29879.41,12.24,9
 2025-10-11,26578,Aegis Brew,Systembuff,Dem Strik=++,44444,50617.62,6173.62,20,123472.38,12.2,6
 2025-10-11,26578,Aegis Brew,shooter,bored of themcleanse 30% discout,45000,50617.62,5617.62,13,73029.05,11.1,6
-2025-10-11,28429,Dance of Evanescence,KillerSolo,55 crus / 50 crus / gbs help me,1200000,1347500.0,147500.0,1,147500.0,10.95,7
-2025-10-11,28429,Dance of Evanescence,Vendedor,Promotion cruz,1200000,1347500.0,147500.0,1,147500.0,10.95,7
 2025-10-11,28136,Crown of Decendant,Aurora,good prices,900000,1000000.0,100000.0,1,100000.0,10.0,3
 2025-10-11,25091,Heavy Crystal,conqstall2,Buff race class moonheart pothcr,3000,3327.59,327.59,99,32431.03,9.84,3
 2025-10-11,25031,Refining Gem,Mikosita,SELL IMPS/REF/UG PURSE,7000,7739.34,739.34,152,112379.09,9.55,11
@@ -116,6 +114,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,26560,Cooked Bluefin Tuna,P02,Tuna,2000,2210.96,210.96,200,42192.09,9.54,3
 2025-10-11,26560,Cooked Bluefin Tuna,P02,Tuna,2000,2210.96,210.96,200,42192.09,9.54,3
 2025-10-11,26560,Cooked Bluefin Tuna,P02,Tuna,2000,2210.96,210.96,199,41981.13,9.54,3
+2025-10-11,28429,Dance of Evanescence,KillerSolo,55 crus / 50 crus / gbs help me,1280000,1411428.57,131428.57,1,131428.57,9.31,6
 2025-10-11,30020,Class Changing Card,VIP,Race And Class Changing Cards,199999,219999.6,20000.6,2,40001.2,9.09,3
 2025-10-11,30191,1000 Supporter Points Voucher,balulu6,Cheapest,38990,42838.94,3848.94,85,327159.63,8.98,4
 2025-10-11,30191,1000 Supporter Points Voucher,balulu6,Cheapest,38990,42838.94,3848.94,17,65431.93,8.98,4
@@ -126,7 +125,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,27019,Purple Pirate Scroll,MatsBk,S>PPS/PBS/DUST/JC,4100,4361.88,261.88,99,25925.82,6.0,10
 2025-10-11,27019,Purple Pirate Scroll,MatsBk,S>PPS/PBS/DUST/JC,4100,4361.88,261.88,81,21212.03,6.0,10
 2025-10-11,30168,Gyoza,SSSSS,25 spr/D WIND/GYOZAS,21999,23267.25,1268.25,39,49461.65,5.45,8
-2025-10-11,28429,Dance of Evanescence,KillerSolo,55 crus / 50 crus / gbs help me,1280000,1347500.0,67500.0,1,67500.0,5.01,7
 2025-10-11,30156,Jackpot Coin,MiLD,ra,11000,11495.84,495.84,50,24791.83,4.31,6
 2025-10-11,26588,Potion of Eagle,GeorgeFloyd,pots,2500,2611.88,111.88,200,22376.72,4.28,10
 2025-10-11,22007,Gem of Striking,MapBK,S>crystal/striking/PBS,1200000,1251923.04,51923.04,1,51923.04,4.15,3
