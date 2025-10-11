@@ -1,19 +1,19 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,23,1015011.33,4,2,BV10,SM
-100.0,22009,Gem of Colossus,23,1015011.33,4,1,SSxConvict,UG Colo   Fire Rock
-100.0,22010,Gem of Rage,25,1310010.71,3,3,Sysh,SELL SOME GEMS
+100.0,22009,Gem of Colossus,23,1218009.0,4,1,BV10,SM
+100.0,22009,Gem of Colossus,23,1218009.0,4,1,SSxConvict,UG Colo   Fire Rock
+100.0,22010,Gem of Rage,25,1528341.67,3,2,Sysh,SELL SOME GEMS
 100.0,22021,Yellow Jade,25,1185006.25,4,1,ShowerBro,afk
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
 100.0,22031,Aegis Rock,19,1328003.8,4,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
-100.0,25451,Jade Gem Fragment,1,62465.93,8,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,89796.79,13,1,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,62003.08,7,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,89312.12,12,1,Goliat,Fragment Store
 100.0,28447,Bow of Evanescence,15,812503.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 99.99,22007,Gem of Striking,135,1213933.36,6,1,MapBK,S<striking 1.35k imp
 99.99,28468,Ice Sealed Mantle of Enigma,10,74002.0,4,1,Vanny,Ring of Spell sealed ss bow 45
 99.99,30156,Jackpot Coin,1,9961.02,9,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
-99.98,25451,Jade Gem Fragment,15,62465.93,8,6,Coffi,GEM FRAGMENTS
-99.98,25452,Rock Gem Fragment,22,89796.79,13,11,Coffi,GEM FRAGMENTS
-99.98,26346,Lantern,1,4467.65,11,7,Everest,lANTERN
+99.98,25451,Jade Gem Fragment,15,62003.08,7,6,Coffi,GEM FRAGMENTS
+99.98,25452,Rock Gem Fragment,22,89312.12,12,11,Coffi,GEM FRAGMENTS
+99.98,26346,Lantern,1,4470.78,10,7,Everest,lANTERN
 99.96,25426,Universe Purse Fragment.,45,126452.71,4,4,Coffi,GEM FRAGMENTS
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
 81.64,25440,Evanescence Stone,200,1089.13,5,1,BL4CKM4RK3T,cheap stuff
@@ -31,6 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.86,25507,Expert Stone,477,1105.61,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 56.86,25507,Expert Stone,477,1105.61,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 56.86,25507,Expert Stone,477,1105.61,8,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
+56.1,28429,Dance of Evanescence,600000,1366666.67,6,1,michaeng7777,1
 55.5,25439,Incantation Stone,1000,2246.98,5,6,Fortis,All cheap
 54.88,26589,Potion of Bull,1000,2216.54,12,1,Olkc,pbs/worm/magical stone/feral ves
 54.78,25507,Expert Stone,500,1105.61,8,12,AAA123,123131331313131313
