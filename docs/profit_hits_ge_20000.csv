@@ -11,9 +11,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,25452,Rock Gem Fragment,Goliat,Fragment Store,2,83641.0,83639.0,1,83639.0,100.0,9
 2025-10-11,25451,Jade Gem Fragment,Goliat,Fragment Store,1,54834.4,54833.4,1,54833.4,100.0,10
 2025-10-11,22007,Gem of Striking,MapBK,S<striking 1.35k imp,135,1212597.56,1212462.56,1,1212462.56,99.99,4
-2025-10-11,26585,Blessed Potion,sellerrr,BLESS POT / INFERNO,9,89765.36,89756.36,12,1077076.26,99.99,12
+2025-10-11,26585,Blessed Potion,sellerrr,BLESS POT / INFERNO,9,89663.31,89654.31,12,1075851.78,99.99,12
 2025-10-11,26572,Inferno Potion,sellerrr,BLESS POT / INFERNO,1,8331.79,8330.79,13,108300.24,99.99,6
-2025-10-11,28468,Ice Sealed Mantle of Enigma,Vanny,ring of spell sealed ss 60  40 r,10,70002.5,69992.5,1,69992.5,99.99,3
+2025-10-11,28468,Ice Sealed Mantle of Enigma,Vanny,ring of spell sealed ss 60  40 r,10,76002.0,75992.0,1,75992.0,99.99,4
 2025-10-11,26346,Lantern,Everest,lANTERN,1,4505.5,4504.5,7,31531.52,99.98,11
 2025-10-11,25452,Rock Gem Fragment,Coffi,GEM FRAGMENTS,22,83641.0,83619.0,11,919809.0,99.97,9
 2025-10-11,25451,Jade Gem Fragment,Coffi,GEM FRAGMENTS,15,54834.4,54819.4,6,328916.4,99.97,10
@@ -23,7 +23,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,28458,Ice Sealed Staff of the Sphinx,Vendedor,Promotion cruz,5000,26777.4,21777.4,1,21777.4,81.33,5
 2025-10-11,28036,Emerald Shield,SSTTAALL,CHEAP,10000,43333.0,33333.0,1,33333.0,76.92,3
 2025-10-11,25439,Incantation Stone,Fortis,All cheap,1000,4014.47,3014.47,7,21101.26,75.09,5
-2025-10-11,28472,Ice Sealed Bow of Enigma,Cyrax,APP / WING / BOW / SS ITENS / ++,89000,329666.67,240666.67,1,240666.67,73.0,3
 2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1144.04,667.04,99,66037.06,58.31,8
 2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1144.04,667.04,99,66037.06,58.31,8
 2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1144.04,667.04,61,40689.5,58.31,8
@@ -36,6 +35,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,25506,Expert Scroll,dsadsa,weightless exper scroll,777,1444.02,667.02,93,62033.06,46.19,4
 2025-10-11,29062,Field Brew,PotsStore,5stats pots/field/resets/lantern,150,265.69,115.69,189,21864.91,43.54,4
 2025-10-11,25479,Phyllis Hairstyle Book,Manager,CHEAP HAIRSTYLE,2000,3537.31,1537.31,46,70716.42,43.46,3
+2025-10-11,26594,Novice Explosive Ball,Cachexia,Sell Cheap items,250,440.36,190.36,140,26650.42,43.23,6
 2025-10-11,25525,,SariSariStore1,ASD,399999,679999.33,280000.33,1,280000.33,41.18,4
 2025-10-11,25398,Radioactive Flask,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,400,675.25,275.25,99,27249.67,40.76,3
 2025-10-11,25398,Radioactive Flask,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,400,675.25,275.25,75,20643.69,40.76,3
@@ -64,7 +64,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,22000,FieryGem,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,1990,2706.28,716.28,72,51572.08,26.47,7
 2025-10-11,30102,1000 Reputation Scroll,SvckMe,Y O U R S,6499,8705.54,2206.54,48,105913.86,25.35,6
 2025-10-11,25497,Blue Colorant,hahahehehoho,All colorants,4000,5325.69,1325.69,51,67610.42,24.89,4
-2025-10-11,20066,Dread Reaper Lance - Hat,Jewel,AAAAA,90000,119666.67,29666.67,1,29666.67,24.79,3
 2025-10-11,25495,Green Colorant,hahahehehoho,All colorants,4000,5305.56,1305.56,52,67888.89,24.61,4
 2025-10-11,22001,Furious Gem,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,1990,2618.51,628.51,68,42738.69,24.0,8
 2025-10-11,30022,Buffing Card,conqstall2,Buff race class moonheart pothcr,35000,45999.53,10999.53,8,87996.27,23.91,3
@@ -80,11 +79,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,30021,Race Changing Card,VIP,Race And Class Changing Cards,199999,239999.6,40000.6,2,80001.2,16.67,3
 2025-10-11,30021,Race Changing Card,conqstall2,Buff race class moonheart pothcr,200000,239999.6,39999.6,1,39999.6,16.67,3
 2025-10-11,25534,,Yennefer,ROCK SUN CLOUD LBP FRAG GREENSTA,18000,21500.0,3500.0,22,77000.0,16.28,9
+2025-10-11,28472,Ice Sealed Bow of Enigma,MiloOvaltinePlus,AEIOU ABKDE,350000,416666.67,66666.67,1,66666.67,16.0,3
 2025-10-11,26571,Warlord Potion,Messrve,IRON/WARLORD/GB/MW/SW/EW,3000,3547.49,547.49,160,87598.77,15.43,3
 2025-10-11,26571,Warlord Potion,TotemCookings,TOTEM COOKINGS MADE WLOVE N WEED,3000,3547.49,547.49,124,67889.05,15.43,3
 2025-10-11,30135,Demonic Rock,Electricman1,pps/pha.gem/jpcoin/mvmcoin/pbs,2999,3531.86,532.86,48,25577.48,15.09,6
 2025-10-11,30102,1000 Reputation Scroll,Masteryi,sell 0-0,7400,8705.54,1305.54,52,67888.02,15.0,6
-2025-10-11,25031,Refining Gem,Bag1rka,f,6999,8142.73,1143.73,60,68623.56,14.05,12
+2025-10-11,25031,Refining Gem,Bag1rka,f,6999,8151.8,1152.8,60,69167.8,14.14,11
 2025-10-11,30156,Jackpot Coin,MatsBk,S>GPS/PPS/JC/DUST/MORE,8400,9761.74,1361.74,60,81704.43,13.95,13
 2025-10-11,30102,1000 Reputation Scroll,LotokSell,UgStriking DemoWind Flash Rep La,7500,8705.54,1205.54,56,67510.17,13.85,6
 2025-10-11,25493,Orange Colorant,hahahehehoho,All colorants,4000,4613.64,613.64,75,46022.73,13.3,3
@@ -103,9 +103,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,28136,Crown of Decendant,Aurora,good prices,900000,1000000.0,100000.0,1,100000.0,10.0,3
 2025-10-11,26578,Aegis Brew,shooter,bored of themcleanse 30% discout,45000,49783.32,4783.32,13,62183.19,9.61,5
 2025-10-11,30020,Class Changing Card,VIP,Race And Class Changing Cards,199999,219999.6,20000.6,2,40001.2,9.09,3
+2025-10-11,25031,Refining Gem,ESNAIDER,SELL IMPS/GPS/JACKPOT/REF,7500,8151.8,651.8,91,59313.5,8.0,11
+2025-10-11,25031,Refining Gem,LiDL,thingies,7500,8151.8,651.8,68,44322.17,8.0,11
 2025-10-11,27020,Gold Pirate Scroll,Jhoa,PBS/GPS/SS 55 Eva/Warrior/Potion,22000,23889.29,1889.29,19,35896.42,7.91,11
-2025-10-11,25031,Refining Gem,ESNAIDER,SELL IMPS/GPS/JACKPOT/REF,7500,8142.73,642.73,91,58488.07,7.89,12
-2025-10-11,25031,Refining Gem,LiDL,thingies,7500,8142.73,642.73,68,43705.37,7.89,12
 2025-10-11,26568,Skating Potion,shooter,bored of themcleanse 30% discout,40000,43402.5,3402.5,12,40830.0,7.84,8
 2025-10-11,26591,Potion of Lion,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,1990,2156.27,166.27,135,22446.28,7.71,11
 2025-10-11,25534,,buyme,FREE,20000,21500.0,1500.0,28,42000.0,6.98,9
