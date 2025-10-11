@@ -2,18 +2,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,22,1406255.38,4,1,Sysh,SELL SOME GEMS
 100.0,22009,Gem of Colossus,21,1406255.38,4,1,BV10,Staff
 100.0,22015,Demonic Gem of Rage,30,600023.5,3,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
+100.0,22021,Yellow Jade,25,1100008.33,3,1,ShowerBro,afk
 100.0,22023,Green Jade,3,195417.67,4,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,195417.67,4,1,Brody,the best price gems
 100.0,22031,Aegis Rock,19,1262504.75,3,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
 100.0,25451,Jade Gem Fragment,1,79656.09,7,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,138130.75,9,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,133630.75,9,1,Goliat,Fragment Store
 100.0,28447,Bow of Evanescence,15,850003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
-100.0,30157,Iron Bar,3,110834.58,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,22015,Demonic Gem of Rage,32,600023.5,3,2,Sysh,SELL SOME GEMS
 99.99,22024,Purple Jade,88,662521.75,4,1,PasarGelap,PURPLE JADE 880IMP
 99.99,28468,Ice Sealed Mantle of Enigma,10,70002.5,3,1,Vanny,ring of spell sealed ss bow pet
 99.98,25451,Jade Gem Fragment,15,79656.09,7,6,Coffi,GEM FRAGMENTS
-99.98,25452,Rock Gem Fragment,22,138130.75,9,11,Coffi,GEM FRAGMENTS
+99.98,25452,Rock Gem Fragment,22,133630.75,9,11,Coffi,GEM FRAGMENTS
 99.98,26346,Lantern,1,4785.87,9,7,Everest,lANTERN
 99.98,26377,Pharaoh's Lantern,1,4152.27,4,77,Virginia,PHARAOH LANTERN 10imp EA
 99.97,25426,Universe Purse Fragment.,45,128595.57,4,4,Coffi,GEM FRAGMENTS
@@ -35,6 +35,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.66,28458,Ice Sealed Staff of the Sphinx,9999,26777.4,5,1,BjornIronside,LIQUIDO YA
 62.64,25499,Purple Colorant,900,2408.75,4,3,CaloNord,de todo
 59.09,2301,,15000,36666.12,9,1,smoI,white colorants and jades
+58.0,26594,Novice Explosive Ball,159,378.6,6,11,MsKaur,Cheap imps
 57.91,25507,Expert Stone,477,1133.37,6,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 57.91,25507,Expert Stone,477,1133.37,6,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 57.91,25507,Expert Stone,477,1133.37,6,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
