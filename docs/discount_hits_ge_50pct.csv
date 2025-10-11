@@ -3,7 +3,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,21,1377149.0,5,1,BV10,Staff
 100.0,22010,Gem of Rage,25,611350.73,4,4,Sysh,SELL SOME GEMS
 100.0,22010,Gem of Rage,23,611350.73,4,7,BOOOOMBOOOM,2.3k imps ug rage
-100.0,22015,Demonic Gem of Rage,30,600023.5,3,1,Saladinhastall,DEMON RAGE / GEM OF STRIKN(IMP)
 100.0,22021,Yellow Jade,25,1100008.33,3,1,ShowerBro,afk
 100.0,22023,Green Jade,3,195417.67,4,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,195417.67,4,1,Brody,the best price gems
@@ -12,7 +11,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,2,133505.75,9,1,Goliat,Fragment Store
 100.0,28447,Bow of Evanescence,15,850003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 100.0,30157,Iron Bar,3,110834.58,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
-99.99,22015,Demonic Gem of Rage,32,600023.5,3,2,Sysh,SELL SOME GEMS
 99.99,22024,Purple Jade,88,662521.75,4,1,PasarGelap,PURPLE JADE 880IMP
 99.99,28468,Ice Sealed Mantle of Enigma,10,70002.5,3,1,Vanny,ring of spell sealed ss bow pet
 99.98,25451,Jade Gem Fragment,15,79283.6,8,6,Coffi,GEM FRAGMENTS
@@ -45,11 +43,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.0,26594,Novice Explosive Ball,159,378.6,6,11,MsKaur,Cheap imps
 57.61,26589,Potion of Bull,1000,2358.86,15,1,Olkc,pbs/worm/magical stone/feral ves
 57.32,25440,Evanescence Stone,150,351.49,5,29,WindSeal,Demonic Rock/Enigma Power/Eva ro
-57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Che,Xiclets
-57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Nixm,Lv50 Items
-57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Nixm,Lv50 Items
 56.65,25493,Orange Colorant,2000,4613.64,3,3,Manager,CHEAP HAIRSTYLE
+56.52,28446,Fire Sealed Bow of Evanescence,10000,23000.0,3,1,Che,Xiclets
+56.52,28446,Fire Sealed Bow of Evanescence,10000,23000.0,3,1,Nixm,Lv50 Items
+56.52,28446,Fire Sealed Bow of Evanescence,10000,23000.0,3,1,Nixm,Lv50 Items
 56.2,25507,Expert Stone,500,1141.67,7,12,AAA123,123131331313131313
 56.2,25507,Expert Stone,500,1141.67,7,99,AAA123,123131331313131313
 54.92,25525,,300000,665516.72,6,1,Anbie,BLESS POTS/CHAOS JEWEL FRAGMENT
 54.02,25423,Evanescence Rock,700,1522.54,3,8,ghost26,scroll
+52.63,28448,Fire Sealed Cloak of Evanescence,15000,31666.33,3,1,Fortis,All cheap
