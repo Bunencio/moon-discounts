@@ -12,7 +12,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28447,Bow of Evanescence,15,850003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 99.99,22007,Gem of Striking,135,1212597.56,4,1,MapBK,S<striking 1.35k imp
 99.99,26572,Inferno Potion,1,8331.79,6,13,sellerrr,BLESS POT / INFERNO
-99.99,26585,Blessed Potion,9,89663.31,12,12,sellerrr,BLESS POT / INFERNO
+99.99,26585,Blessed Potion,9,89118.5,11,12,sellerrr,BLESS POT / INFERNO
 99.99,28468,Ice Sealed Mantle of Enigma,10,76002.0,4,1,Vanny,ring of spell sealed ss 60  40 r
 99.99,30156,Jackpot Coin,1,9761.74,13,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,26346,Lantern,1,4505.5,11,7,Everest,lANTERN
@@ -22,32 +22,33 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 95.41,26564,Meditation Potion,40,871.07,5,77,PublicWin,Cleaning Bank Selling Cheap~
 91.55,25497,Blue Colorant,450,5325.69,4,1,cheapstuffguys,cheap
 88.52,26564,Meditation Potion,100,871.07,5,8,Maltherion,App and more cheap
+84.62,28472,Ice Sealed Bow of Enigma,49997,324999.25,4,1,Cyrax,APP  WING SS BOW ARMOR
 83.37,25423,Evanescence Rock,200,1202.8,4,5,BL4CKM4RK3T,cheap stuff
 82.3,2301,,10000,56499.3,7,1,CaloNord,de todo
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
 80.91,22001,Furious Gem,500,2618.51,8,2,SellerPirate,stuff
-80.18,30135,Demonic Rock,700,3531.86,6,1,xTrueHistory,Imps/JadeFragtm/GPS/jackpot/PPS/
+80.17,30135,Demonic Rock,700,3530.2,7,1,xTrueHistory,Imps/JadeFragtm/GPS/jackpot/PPS/
 76.92,28036,Emerald Shield,10000,43333.0,3,1,SSTTAALL,CHEAP
 75.09,25439,Incantation Stone,1000,4014.47,5,7,Fortis,All cheap
-69.12,26589,Potion of Bull,700,2266.5,14,11,xTrueHistory,Imps/JadeFragtm/GPS/jackpot/PPS/
+69.11,26589,Potion of Bull,700,2266.11,14,11,xTrueHistory,Imps/JadeFragtm/GPS/jackpot/PPS/
 67.09,28430,Fire Sealed Robe of Malediction,1999,6074.3,8,1,TheMystic,- NICE STUFF -
 65.56,26564,Meditation Potion,300,871.07,5,7,Shab7,cheeeeep pots potrs
-63.89,26594,Novice Explosive Ball,159,440.36,6,11,MsKaur,Cheap imps
+63.85,26594,Novice Explosive Ball,159,439.84,6,11,MsKaur,Cheap imps
 62.66,28458,Ice Sealed Staff of the Sphinx,9999,26777.4,5,1,BjornIronside,LIQUIDO YA
 62.64,25499,Purple Colorant,900,2408.75,4,3,CaloNord,de todo
 61.81,22001,Furious Gem,1000,2618.51,8,1,CaloNord,de todo
-58.31,25507,Expert Stone,477,1144.04,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
-58.31,25507,Expert Stone,477,1144.04,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
-58.31,25507,Expert Stone,477,1144.04,8,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 58.26,26591,Potion of Lion,900,2156.27,11,1,Aghur,Red statue free*
 57.32,25440,Evanescence Stone,150,351.49,5,29,WindSeal,Demonic Rock/Enigma Power/Eva ro
+57.25,25507,Expert Stone,477,1115.81,9,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
+57.25,25507,Expert Stone,477,1115.81,9,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
+57.25,25507,Expert Stone,477,1115.81,9,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 56.65,25493,Orange Colorant,2000,4613.64,3,3,Manager,CHEAP HAIRSTYLE
-56.3,25507,Expert Stone,500,1144.04,8,12,AAA123,123131331313131313
-56.3,25507,Expert Stone,500,1144.04,8,99,AAA123,123131331313131313
-55.88,26589,Potion of Bull,1000,2266.5,14,1,Olkc,pbs/worm/magical stone/feral ves
+55.87,26589,Potion of Bull,1000,2266.11,14,1,Olkc,pbs/worm/magical stone/feral ves
 55.75,2301,,24999,56499.3,7,1,Leafs,Iron Bar/Shining Runestone
+55.19,25507,Expert Stone,500,1115.81,9,12,AAA123,123131331313131313
+55.19,25507,Expert Stone,500,1115.81,9,99,AAA123,123131331313131313
 55.06,28429,Dance of Evanescence,600000,1335000.0,7,1,michaeng7777,1
-54.58,26594,Novice Explosive Ball,200,440.36,6,17,PublicWin,Cleaning Bank Selling Cheap~
+54.53,26594,Novice Explosive Ball,200,439.84,6,17,PublicWin,Cleaning Bank Selling Cheap~
 53.67,26591,Potion of Lion,999,2156.27,11,60,Bag1rka,f
 52.7,28442,Fire Sealed Coat of Evanescence,5000,10570.0,6,1,MiloOvaltinePlus,AEIOU ABKDE
 52.63,28448,Fire Sealed Cloak of Evanescence,15000,31666.33,3,1,Fortis,All cheap
