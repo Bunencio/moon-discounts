@@ -7,17 +7,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
 100.0,22031,Aegis Rock,19,1262504.75,3,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
 100.0,25451,Jade Gem Fragment,1,78161.66,11,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,119352.83,9,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,123542.2,9,1,Goliat,Fragment Store
 100.0,28447,Bow of Evanescence,15,850003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
-100.0,29308,Ring of Valor,2,88333.33,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
-100.0,29308,Ring of Valor,2,88333.33,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
-100.0,30157,Iron Bar,3,110834.58,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,22007,Gem of Striking,135,1212597.56,4,1,MapBK,S<striking 1.35k imp
 99.99,26572,Inferno Potion,1,8335.91,6,13,sellerrr,BLESS POT / INFERNO
-99.99,26585,Blessed Potion,9,91072.67,11,12,sellerrr,BLESS POT / INFERNO
+99.99,26585,Blessed Potion,9,91062.41,11,12,sellerrr,BLESS POT / INFERNO
 99.99,28468,Ice Sealed Mantle of Enigma,10,70002.5,3,1,Vanny,ring of spell sealed ss 60  40 r
 99.98,25451,Jade Gem Fragment,15,78161.66,11,6,Coffi,GEM FRAGMENTS
-99.98,25452,Rock Gem Fragment,22,119352.83,9,11,Coffi,GEM FRAGMENTS
+99.98,25452,Rock Gem Fragment,22,123542.2,9,11,Coffi,GEM FRAGMENTS
 99.98,26346,Lantern,1,4490.68,11,7,Everest,lANTERN
 99.96,25426,Universe Purse Fragment.,45,126452.71,4,4,Coffi,GEM FRAGMENTS
 95.41,26564,Meditation Potion,40,871.07,5,77,PublicWin,Cleaning Bank Selling Cheap~
@@ -47,7 +44,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.79,25504,Standard Scroll,190,450.12,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
 57.79,25504,Standard Scroll,190,450.12,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
 57.71,26594,Novice Explosive Ball,159,375.95,7,11,MsKaur,Cheap imps
-57.49,28429,Dance of Evanescence,600000,1411428.57,6,1,michaeng7777,1
 57.32,25440,Evanescence Stone,150,351.49,5,29,WindSeal,Demonic Rock/Enigma Power/Eva ro
 56.65,25493,Orange Colorant,2000,4613.64,3,3,Manager,CHEAP HAIRSTYLE
 56.52,28446,Fire Sealed Bow of Evanescence,10000,23000.0,3,1,Che,Xiclets
@@ -57,5 +53,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.3,25507,Expert Stone,500,1144.04,8,99,AAA123,123131331313131313
 55.75,2301,,24999,56499.3,7,1,Leafs,Iron Bar/Shining Runestone
 55.34,26589,Potion of Bull,1000,2238.93,15,1,Olkc,pbs/worm/magical stone/feral ves
+55.06,28429,Dance of Evanescence,600000,1335000.0,7,1,michaeng7777,1
 53.94,26591,Potion of Lion,999,2168.86,10,60,Bag1rka,f
 52.63,28448,Fire Sealed Cloak of Evanescence,15000,31666.33,3,1,Fortis,All cheap
