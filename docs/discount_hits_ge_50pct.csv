@@ -20,15 +20,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,26346,Lantern,1,4489.97,10,7,Everest,lANTERN
 99.98,26377,Pharaoh's Lantern,1,4050.54,3,77,Virginia,PHARAOH LANTERN 10imp EA
 99.97,25426,Universe Purse Fragment.,45,128595.57,4,4,Coffi,GEM FRAGMENTS
-92.52,26564,Meditation Potion,70,935.83,3,25,Lasku,1
+92.46,26564,Meditation Potion,70,927.9,4,25,Lasku,1
+89.22,26564,Meditation Potion,100,927.9,4,8,Maltherion,App and more cheap
 88.58,25504,Standard Scroll,99,867.01,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 86.86,25423,Evanescence Rock,200,1522.54,3,5,BL4CKM4RK3T,cheap stuff
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
 76.93,25504,Standard Scroll,200,867.01,5,72,muhtar,cheap stal
 75.09,25439,Incantation Stone,1000,4014.47,5,7,Fortis,All cheap
 75.0,28436,Fire Sealed Staff of Evanescence,5000,20000.0,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
-74.48,26562,Cake,10,39.19,6,48,ATARI,ALL CHEAP FREE!
+74.48,26562,Cake,10,39.19,7,48,ATARI,ALL CHEAP FREE!
 72.73,2301,,10000,36666.12,9,1,CaloNord,de todo
+69.49,26592,Flash Bomb,350,1147.0,13,3,Maltherion,App and more cheap
 68.76,28430,Fire Sealed Robe of Malediction,1999,6399.86,5,1,TheMystic,- NICE STUFF -
 63.96,26588,Potion of Eagle,900,2497.35,11,2,Aghur,Red statue free*
 63.4,26590,Potion of Soul,1000,2732.33,9,2,BjornIronside,LIQUIDO YA
@@ -41,6 +43,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.22,25507,Expert Stone,477,1141.67,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 58.22,25507,Expert Stone,477,1141.67,7,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 58.0,26594,Novice Explosive Ball,159,378.6,6,11,MsKaur,Cheap imps
+57.61,26589,Potion of Bull,1000,2358.86,15,1,Olkc,pbs/worm/magical stone/feral ves
 57.32,25440,Evanescence Stone,150,351.49,5,29,WindSeal,Demonic Rock/Enigma Power/Eva ro
 57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Che,Xiclets
 57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Nixm,Lv50 Items
