@@ -7,6 +7,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,76754.5,6,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,138005.75,9,1,Goliat,Fragment Store
 100.0,28447,Bow of Evanescence,15,850003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
+100.0,30157,Iron Bar,3,110834.58,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,22015,Demonic Gem of Rage,32,600023.5,3,2,Sysh,SELL SOME GEMS
 99.99,22024,Purple Jade,88,600029.0,3,1,PasarGelap,PURPLE JADE 880IMP
 99.99,28468,Ice Sealed Mantle of Enigma,10,70002.5,3,1,Vanny,ring of spell sealed ss bow pet
@@ -25,8 +26,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.0,28436,Fire Sealed Staff of Evanescence,5000,20000.0,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
 74.48,26562,Cake,10,39.19,6,48,ATARI,ALL CHEAP FREE!
 68.76,28430,Fire Sealed Robe of Malediction,1999,6399.86,5,1,TheMystic,- NICE STUFF -
-66.17,26588,Potion of Eagle,900,2660.38,10,2,Aghur,Red statue free*
 66.06,26590,Potion of Soul,1000,2946.49,8,2,BjornIronside,LIQUIDO YA
+65.54,26588,Potion of Eagle,900,2611.88,10,2,Aghur,Red statue free*
 63.14,25506,Expert Scroll,777,2107.82,3,93,dsadsa,tix wieghtless minion stuff
 62.92,26591,Potion of Lion,900,2427.42,11,1,Aghur,Red statue free*
 62.8,22001,Furious Gem,1000,2687.92,7,1,CaloNord,de todo
@@ -43,6 +44,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Nixm,Lv50 Items
 57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Nixm,Lv50 Items
 56.65,25493,Orange Colorant,2000,4613.64,3,3,Manager,CHEAP HAIRSTYLE
-52.78,30168,Gyoza,11000,23293.93,8,1,pisslow,Free S>
+52.72,30168,Gyoza,11000,23267.25,8,1,pisslow,Free S>
 52.32,28440,Fire Sealed Roar of Evanescence,4500,9437.38,6,1,Skills,o_0   Free    *_*    Free   0_o
 50.56,26591,Potion of Lion,1200,2427.42,11,19,ZafirRose,gps and more
