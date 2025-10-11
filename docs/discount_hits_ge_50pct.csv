@@ -1,14 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,23,870012.86,5,2,BV10,SM
-100.0,22009,Gem of Colossus,22,870012.86,5,1,Sysh,SELL SOME GEMS
-100.0,22009,Gem of Colossus,23,870012.86,5,1,SSxConvict,UG Colo   Fire Rock
-100.0,22010,Gem of Rage,25,833651.73,4,4,Sysh,SELL SOME GEMS
-100.0,22010,Gem of Rage,23,833651.73,4,3,BOOOOMBOOOM,2.3K IMPS UG RAGE LAST  CHANCE
+100.0,22009,Gem of Colossus,23,1015011.33,4,2,BV10,SM
+100.0,22009,Gem of Colossus,23,1015011.33,4,1,SSxConvict,UG Colo   Fire Rock
+100.0,22010,Gem of Rage,25,1310010.71,3,3,Sysh,SELL SOME GEMS
 100.0,22021,Yellow Jade,25,1083341.67,3,1,ShowerBro,afk
 100.0,22023,Green Jade,3,213182.64,4,3,Frank,GREEN JADE
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
 100.0,22031,Aegis Rock,19,1262504.75,3,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
-100.0,25451,Jade Gem Fragment,1,62469.63,8,1,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,62003.08,7,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,84700.83,10,1,Goliat,Fragment Store
 100.0,28447,Bow of Evanescence,15,850003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 99.99,22007,Gem of Striking,135,1211159.0,4,1,MapBK,S<striking 1.35k imp
@@ -16,7 +14,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,26585,Blessed Potion,9,89118.5,11,12,sellerrr,BLESS POT / INFERNO
 99.99,28468,Ice Sealed Mantle of Enigma,10,76002.0,4,1,Vanny,ring of spell sealed ss 60  40 r
 99.99,30156,Jackpot Coin,1,9733.99,14,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
-99.98,25451,Jade Gem Fragment,15,62469.63,8,6,Coffi,GEM FRAGMENTS
+99.98,25451,Jade Gem Fragment,15,62003.08,7,6,Coffi,GEM FRAGMENTS
 99.98,26346,Lantern,1,4357.6,11,7,Everest,lANTERN
 99.97,25452,Rock Gem Fragment,22,84700.83,10,11,Coffi,GEM FRAGMENTS
 99.96,25426,Universe Purse Fragment.,45,126452.71,4,4,Coffi,GEM FRAGMENTS
