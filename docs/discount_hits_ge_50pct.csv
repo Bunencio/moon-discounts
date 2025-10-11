@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,22,1377149.0,5,1,Sysh,SELL SOME GEMS
-100.0,22009,Gem of Colossus,21,1377149.0,5,1,BV10,Staff
-100.0,22010,Gem of Rage,25,1252233.33,4,4,Sysh,SELL SOME GEMS
+100.0,22009,Gem of Colossus,22,1606670.33,4,1,Sysh,SELL SOME GEMS
+100.0,22010,Gem of Rage,25,939180.75,5,4,Sysh,SELL SOME GEMS
+100.0,22010,Gem of Rage,23,939180.75,5,3,BOOOOMBOOOM,2.3K IMPS UG RAGE LAST  CHANCE
 100.0,22023,Green Jade,3,213182.64,4,3,Frank,GREEN JADE
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
 100.0,22031,Aegis Rock,19,1262504.75,3,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
@@ -11,7 +11,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29308,Ring of Valor,2,88333.33,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,29308,Ring of Valor,2,88333.33,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,30157,Iron Bar,3,110834.58,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
-99.99,26572,Inferno Potion,1,8073.92,7,13,sellerrr,BLESS /  INFERNO POTION
+99.99,22007,Gem of Striking,135,1212597.56,4,1,MapBK,S<striking 1.35k imp
+99.99,26572,Inferno Potion,1,8074.27,7,13,sellerrr,BLESS /  INFERNO POTION
 99.99,26585,Blessed Potion,10,91348.31,10,12,sellerrr,BLESS /  INFERNO POTION
 99.99,28468,Ice Sealed Mantle of Enigma,10,70002.5,3,1,Vanny,ring of spell sealed ss 60  40 r
 99.98,25451,Jade Gem Fragment,15,78161.66,11,6,Coffi,GEM FRAGMENTS
@@ -21,23 +22,29 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 95.41,26564,Meditation Potion,40,871.07,5,77,PublicWin,Cleaning Bank Selling Cheap~
 88.52,26564,Meditation Potion,100,871.07,5,8,Maltherion,App and more cheap
 87.61,25423,Evanescence Rock,200,1614.06,3,5,BL4CKM4RK3T,cheap stuff
-81.82,2301,,10000,54999.27,8,1,CaloNord,de todo
+82.3,2301,,10000,56499.3,7,1,CaloNord,de todo
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
-75.75,25504,Standard Scroll,99,408.31,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
+78.01,25504,Standard Scroll,99,450.12,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 75.09,25439,Incantation Stone,1000,4014.47,5,7,Fortis,All cheap
-74.91,26562,Cake,10,39.86,8,48,ATARI,ALL CHEAP FREE!
+74.91,26562,Cake,10,39.86,7,48,ATARI,ALL CHEAP FREE!
 73.0,28472,Ice Sealed Bow of Enigma,89000,329666.67,3,1,Cyrax,APP / WING / BOW / SS ITENS / ++
 69.11,26589,Potion of Bull,700,2265.75,15,9,xTrueHistory,GPS/PPS/Jackpot/JadeFragm/LBS/PO
 68.76,28430,Fire Sealed Robe of Malediction,1999,6399.86,5,1,TheMystic,- NICE STUFF -
 65.56,26564,Meditation Potion,300,871.07,5,7,Shab7,cheeeeep pots potrs
-63.34,26590,Potion of Soul,1000,2728.1,10,2,BjornIronside,LIQUIDO YA
+63.43,26590,Potion of Soul,1000,2734.12,10,2,BjornIronside,LIQUIDO YA
 62.66,28458,Ice Sealed Staff of the Sphinx,9999,26777.4,5,1,BjornIronside,LIQUIDO YA
 62.64,25499,Purple Colorant,900,2408.75,4,3,CaloNord,de todo
 61.85,26591,Potion of Lion,900,2359.08,9,1,Aghur,Red statue free*
-59.08,22001,Furious Gem,1000,2443.52,8,1,CaloNord,de todo
+58.29,22001,Furious Gem,1000,2397.4,8,1,CaloNord,de todo
 58.22,25507,Expert Stone,477,1141.67,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 58.22,25507,Expert Stone,477,1141.67,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 58.22,25507,Expert Stone,477,1141.67,7,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
+57.79,25504,Standard Scroll,190,450.12,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
+57.79,25504,Standard Scroll,190,450.12,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
+57.79,25504,Standard Scroll,190,450.12,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
+57.79,25504,Standard Scroll,190,450.12,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
+57.79,25504,Standard Scroll,190,450.12,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
+57.79,25504,Standard Scroll,190,450.12,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
 57.71,26594,Novice Explosive Ball,159,375.95,7,11,MsKaur,Cheap imps
 57.32,25440,Evanescence Stone,150,351.49,5,29,WindSeal,Demonic Rock/Enigma Power/Eva ro
 56.65,25493,Orange Colorant,2000,4613.64,3,3,Manager,CHEAP HAIRSTYLE
@@ -47,14 +54,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.2,25507,Expert Stone,500,1141.67,7,12,AAA123,123131331313131313
 56.2,25507,Expert Stone,500,1141.67,7,99,AAA123,123131331313131313
 55.86,26589,Potion of Bull,1000,2265.75,15,1,Olkc,pbs/worm/magical stone/feral ves
+55.75,2301,,24999,56499.3,7,1,Leafs,Iron Bar/Shining Runestone
 55.37,28429,Dance of Evanescence,600000,1344375.0,7,1,michaeng7777,1
-54.55,2301,,24999,54999.27,8,1,Leafs,Iron Bar/Shining Runestone
-53.47,25504,Standard Scroll,190,408.31,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
-53.47,25504,Standard Scroll,190,408.31,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
-53.47,25504,Standard Scroll,190,408.31,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
-53.47,25504,Standard Scroll,190,408.31,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
-53.47,25504,Standard Scroll,190,408.31,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
-53.47,25504,Standard Scroll,190,408.31,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
 52.63,28448,Fire Sealed Cloak of Evanescence,15000,31666.33,3,1,Fortis,All cheap
-51.02,25504,Standard Scroll,200,408.31,5,72,muhtar,cheap stal
 50.44,25423,Evanescence Rock,800,1614.06,3,1,Shab7,cheeeeep pots potrs
