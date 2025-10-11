@@ -1,5 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,22,1606670.33,4,1,Sysh,SELL SOME GEMS
+100.0,22009,Gem of Colossus,23,1205008.5,5,2,BV10,SM
+100.0,22009,Gem of Colossus,22,1205008.5,5,1,Sysh,SELL SOME GEMS
 100.0,22010,Gem of Rage,25,939180.75,5,4,Sysh,SELL SOME GEMS
 100.0,22010,Gem of Rage,23,939180.75,5,3,BOOOOMBOOOM,2.3K IMPS UG RAGE LAST  CHANCE
 100.0,22023,Green Jade,3,213182.64,4,3,Frank,GREEN JADE
@@ -25,17 +26,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.3,2301,,10000,56499.3,7,1,CaloNord,de todo
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
 78.01,25504,Standard Scroll,99,450.12,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
+76.92,28036,Emerald Shield,10000,43333.0,3,1,SSTTAALL,CHEAP
 75.09,25439,Incantation Stone,1000,4014.47,5,7,Fortis,All cheap
-74.91,26562,Cake,10,39.86,7,48,ATARI,ALL CHEAP FREE!
 73.0,28472,Ice Sealed Bow of Enigma,89000,329666.67,3,1,Cyrax,APP / WING / BOW / SS ITENS / ++
 69.11,26589,Potion of Bull,700,2265.75,15,9,xTrueHistory,GPS/PPS/Jackpot/JadeFragm/LBS/PO
 68.76,28430,Fire Sealed Robe of Malediction,1999,6399.86,5,1,TheMystic,- NICE STUFF -
 65.56,26564,Meditation Potion,300,871.07,5,7,Shab7,cheeeeep pots potrs
-63.43,26590,Potion of Soul,1000,2734.12,10,2,BjornIronside,LIQUIDO YA
+64.29,26590,Potion of Soul,1000,2800.69,9,2,BjornIronside,LIQUIDO YA
 62.66,28458,Ice Sealed Staff of the Sphinx,9999,26777.4,5,1,BjornIronside,LIQUIDO YA
 62.64,25499,Purple Colorant,900,2408.75,4,3,CaloNord,de todo
+62.52,22001,Furious Gem,1000,2667.82,8,1,CaloNord,de todo
 61.85,26591,Potion of Lion,900,2359.08,9,1,Aghur,Red statue free*
-58.29,22001,Furious Gem,1000,2397.4,8,1,CaloNord,de todo
 58.22,25507,Expert Stone,477,1141.67,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 58.22,25507,Expert Stone,477,1141.67,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 58.22,25507,Expert Stone,477,1141.67,7,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
