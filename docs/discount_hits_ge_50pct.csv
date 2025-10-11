@@ -23,7 +23,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 92.52,26564,Meditation Potion,70,935.83,3,25,Lasku,1
 88.58,25504,Standard Scroll,99,867.01,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 86.86,25423,Evanescence Rock,200,1522.54,3,5,BL4CKM4RK3T,cheap stuff
-84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
 76.93,25504,Standard Scroll,200,867.01,5,72,muhtar,cheap stal
 75.09,25439,Incantation Stone,1000,4014.47,5,7,Fortis,All cheap
@@ -35,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.4,26590,Potion of Soul,1000,2732.33,9,2,BjornIronside,LIQUIDO YA
 62.66,28458,Ice Sealed Staff of the Sphinx,9999,26777.4,5,1,BjornIronside,LIQUIDO YA
 62.64,25499,Purple Colorant,900,2408.75,4,3,CaloNord,de todo
-60.42,26591,Potion of Lion,900,2273.76,12,1,Aghur,Red statue free*
+60.4,26591,Potion of Lion,900,2272.51,13,1,Aghur,Red statue free*
 59.21,22001,Furious Gem,1000,2451.81,8,1,CaloNord,de todo
 59.09,2301,,15000,36666.12,9,1,smoI,white colorants and jades
 58.22,25507,Expert Stone,477,1141.67,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
@@ -51,4 +50,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.2,25507,Expert Stone,500,1141.67,7,99,AAA123,123131331313131313
 54.92,25525,,300000,665516.72,6,1,Anbie,BLESS POTS/CHAOS JEWEL FRAGMENT
 54.02,25423,Evanescence Rock,700,1522.54,3,8,ghost26,scroll
-52.32,28440,Fire Sealed Roar of Evanescence,4500,9437.38,6,1,Skills,o_0   Free    *_*    Free   0_o
