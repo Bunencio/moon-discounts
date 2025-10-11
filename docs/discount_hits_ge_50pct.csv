@@ -1,9 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,23,681681.83,4,2,BV10,SM
-100.0,22009,Gem of Colossus,22,681681.83,4,1,Sysh,SELL SOME GEMS
-100.0,22009,Gem of Colossus,23,681681.83,4,1,SSxConvict,UG Colo   Fire Rock
-100.0,22010,Gem of Rage,25,939180.75,5,4,Sysh,SELL SOME GEMS
-100.0,22010,Gem of Rage,23,939180.75,5,3,BOOOOMBOOOM,2.3K IMPS UG RAGE LAST  CHANCE
+100.0,22009,Gem of Colossus,23,870012.86,5,2,BV10,SM
+100.0,22009,Gem of Colossus,22,870012.86,5,1,Sysh,SELL SOME GEMS
+100.0,22009,Gem of Colossus,23,870012.86,5,1,SSxConvict,UG Colo   Fire Rock
+100.0,22010,Gem of Rage,25,833651.73,4,4,Sysh,SELL SOME GEMS
+100.0,22010,Gem of Rage,23,833651.73,4,3,BOOOOMBOOOM,2.3K IMPS UG RAGE LAST  CHANCE
 100.0,22021,Yellow Jade,25,1083341.67,3,1,ShowerBro,afk
 100.0,22023,Green Jade,3,213182.64,4,3,Frank,GREEN JADE
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
@@ -12,30 +12,29 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,2,83641.0,9,1,Goliat,Fragment Store
 100.0,28447,Bow of Evanescence,15,850003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 99.99,22007,Gem of Striking,135,1212597.56,4,1,MapBK,S<striking 1.35k imp
-99.99,25031,Refining Gem,1,8128.48,12,1,Lasku,voy captain eqs with statz
 99.99,26572,Inferno Potion,1,8331.79,6,13,sellerrr,BLESS POT / INFERNO
 99.99,26585,Blessed Potion,9,89118.5,11,12,sellerrr,BLESS POT / INFERNO
 99.99,28468,Ice Sealed Mantle of Enigma,10,76002.0,4,1,Vanny,ring of spell sealed ss 60  40 r
-99.99,30156,Jackpot Coin,1,9751.75,14,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,30156,Jackpot Coin,1,9783.27,14,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,26346,Lantern,1,4505.5,11,7,Everest,lANTERN
 99.97,25451,Jade Gem Fragment,15,54834.4,10,6,Coffi,GEM FRAGMENTS
 99.97,25452,Rock Gem Fragment,22,83641.0,9,11,Coffi,GEM FRAGMENTS
 99.96,25426,Universe Purse Fragment.,45,126452.71,4,4,Coffi,GEM FRAGMENTS
 91.55,25497,Blue Colorant,450,5325.69,4,1,cheapstuffguys,cheap
-84.62,28472,Ice Sealed Bow of Enigma,49997,324999.25,4,1,Cyrax,APP  WING SS BOW ARMOR
 83.37,25423,Evanescence Rock,200,1202.8,4,5,BL4CKM4RK3T,cheap stuff
 82.3,2301,,10000,56499.3,7,1,CaloNord,de todo
-81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
+81.25,28472,Ice Sealed Bow of Enigma,49997,266665.67,3,1,Cyrax,APP  WING SS BOW ARMOR
+81.12,28458,Ice Sealed Staff of the Sphinx,5000,26481.17,6,1,Vendedor,Promotion cruz
 80.91,22001,Furious Gem,500,2618.51,8,2,SellerPirate,stuff
 80.17,30135,Demonic Rock,700,3530.2,7,1,xTrueHistory,Imps/JadeFragtm/GPS/jackpot/PPS/
 76.92,28036,Emerald Shield,10000,43333.0,3,1,SSTTAALL,CHEAP
 75.16,25439,Incantation Stone,1000,4025.5,5,7,Fortis,All cheap
 69.11,26589,Potion of Bull,700,2266.11,14,11,xTrueHistory,Imps/JadeFragtm/GPS/jackpot/PPS/
 67.09,28430,Fire Sealed Robe of Malediction,1999,6074.3,8,1,TheMystic,- NICE STUFF -
-62.66,28458,Ice Sealed Staff of the Sphinx,9999,26777.4,5,1,BjornIronside,LIQUIDO YA
 62.64,25499,Purple Colorant,900,2408.75,4,3,CaloNord,de todo
+62.24,28458,Ice Sealed Staff of the Sphinx,9999,26481.17,6,1,BjornIronside,LIQUIDO YA
 61.81,22001,Furious Gem,1000,2618.51,8,1,CaloNord,de todo
-58.21,26591,Potion of Lion,900,2153.85,11,1,Aghur,Red statue free*
+58.23,26591,Potion of Lion,900,2154.69,11,1,Aghur,Red statue free*
 57.32,25440,Evanescence Stone,150,351.49,5,29,WindSeal,Demonic Rock/Enigma Power/Eva ro
 57.25,25507,Expert Stone,477,1115.81,9,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 57.25,25507,Expert Stone,477,1115.81,9,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
@@ -48,5 +47,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.18,26594,Novice Explosive Ball,200,446.21,5,17,PublicWin,Cleaning Bank Selling Cheap~
 55.06,28429,Dance of Evanescence,600000,1335000.0,7,1,michaeng7777,1
 55.0,28448,Fire Sealed Cloak of Evanescence,15000,33333.33,3,1,Fortis,All cheap
-53.62,26591,Potion of Lion,999,2153.85,11,60,Bag1rka,f
+53.64,26591,Potion of Lion,999,2154.69,11,60,Bag1rka,f
 52.7,28442,Fire Sealed Coat of Evanescence,5000,10570.0,6,1,MiloOvaltinePlus,AEIOU ABKDE
