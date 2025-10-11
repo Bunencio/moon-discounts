@@ -13,7 +13,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,29308,Ring of Valor,DemiMerchant,99c Cheap Mall and Pets 99c,2,88333.33,88331.33,1,88331.33,100.0,3
 2025-10-11,29308,Ring of Valor,DemiMerchant,99c Cheap Mall and Pets 99c,2,88333.33,88331.33,1,88331.33,100.0,3
 2025-10-11,25451,Jade Gem Fragment,Goliat,Fragment Store,1,78161.66,78160.66,1,78160.66,100.0,11
-2025-10-11,26585,Blessed Potion,sellerrr,BLESS /  INFERNO POTION,10,91460.35,91450.35,12,1097404.23,99.99,10
+2025-10-11,26585,Blessed Potion,sellerrr,BLESS /  INFERNO POTION,10,91348.31,91338.31,12,1096059.71,99.99,10
 2025-10-11,26572,Inferno Potion,sellerrr,BLESS /  INFERNO POTION,1,8073.92,8072.92,13,104947.93,99.99,7
 2025-10-11,28468,Ice Sealed Mantle of Enigma,Vanny,ring of spell sealed ss 60  40 r,10,70002.5,69992.5,1,69992.5,99.99,3
 2025-10-11,25452,Rock Gem Fragment,Coffi,GEM FRAGMENTS,22,119352.83,119330.83,11,1312639.09,99.98,9
@@ -77,9 +77,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,30156,Jackpot Coin,Electricman1,pps/pha.gem/jpcoin/mvmcoin/pbs,7999,10340.55,2341.55,12,28098.61,22.64,11
 2025-10-11,30102,1000 Reputation Scroll,Ivynor,All cheap,6999,8960.14,1961.14,25,49028.49,21.89,5
 2025-10-11,26588,Potion of Eagle,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,1990,2511.37,521.37,126,65692.79,20.76,9
-2025-10-11,26592,Flash Bomb,Kalista,flash bomb detector,899,1133.22,234.22,164,38412.78,20.67,12
-2025-10-11,26592,Flash Bomb,Ivynor,All cheap,900,1133.22,233.22,180,41980.37,20.58,12
 2025-10-11,26589,Potion of Bull,MiLD,eee,1800,2265.75,465.75,65,30273.85,20.56,15
+2025-10-11,26592,Flash Bomb,Kalista,flash bomb detector,899,1130.69,231.69,164,37997.32,20.49,12
+2025-10-11,26592,Flash Bomb,Ivynor,All cheap,900,1130.69,230.69,180,41524.38,20.4,12
 2025-10-11,26588,Potion of Eagle,Juyii,PUTUINS,1999,2511.37,512.37,66,33816.51,20.4,9
 2025-10-11,26588,Potion of Eagle,shooter,bored of themcleanse 30% discout,2000,2511.37,511.37,55,28125.42,20.36,9
 2025-10-11,25059,Rosewood Log,BuyThi,ROSEWOOD,3000,3715.18,715.18,68,48632.23,19.25,3
@@ -114,6 +114,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,26571,Warlord Potion,Mamii,BETTER THAN TOTEMS HE SUCKS!!!,3100,3509.29,409.29,156,63848.97,11.66,3
 2025-10-11,26571,Warlord Potion,TotemCookings,Totem Cookings Made wLove n Weed,3100,3509.29,409.29,150,61393.24,11.66,3
 2025-10-11,26571,Warlord Potion,DwShops,the finest cookings for DW,3100,3509.29,409.29,97,39700.96,11.66,3
+2025-10-11,26592,Flash Bomb,SDrakoS,FB/PPS,999,1130.69,131.69,153,20148.72,11.65,12
 2025-10-11,26346,Lantern,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,3990,4490.57,500.57,174,87099.32,11.15,10
 2025-10-11,28429,Dance of Evanescence,KillerSolo,55 crus / 50 crus / gbs help me,1200000,1344375.0,144375.0,1,144375.0,10.74,7
 2025-10-11,28429,Dance of Evanescence,Vendedor,Promotion cruz,1200000,1344375.0,144375.0,1,144375.0,10.74,7
