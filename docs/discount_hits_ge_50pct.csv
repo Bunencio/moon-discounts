@@ -16,7 +16,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25451,Jade Gem Fragment,15,79656.09,7,6,Coffi,GEM FRAGMENTS
 99.98,25452,Rock Gem Fragment,22,133505.75,9,11,Coffi,GEM FRAGMENTS
 99.98,26346,Lantern,1,4785.87,9,7,Everest,lANTERN
-99.98,26377,Pharaoh's Lantern,1,4152.27,4,77,Virginia,PHARAOH LANTERN 10imp EA
+99.98,26377,Pharaoh's Lantern,1,4050.54,3,77,Virginia,PHARAOH LANTERN 10imp EA
 99.97,25426,Universe Purse Fragment.,45,128595.57,4,4,Coffi,GEM FRAGMENTS
 92.52,26564,Meditation Potion,70,935.83,3,25,Lasku,1
 88.58,25504,Standard Scroll,99,867.01,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
@@ -47,8 +47,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.65,25493,Orange Colorant,2000,4613.64,3,3,Manager,CHEAP HAIRSTYLE
 56.2,25507,Expert Stone,500,1141.67,7,12,AAA123,123131331313131313
 56.2,25507,Expert Stone,500,1141.67,7,99,AAA123,123131331313131313
-56.19,25525,,300000,684827.07,6,1,Anbie,CHAOS JEWEL 300K EA
+56.19,25525,,300000,684827.07,6,1,Anbie,BLESS POTS/CHAOS JEWEL FRAGMENT
 54.02,25423,Evanescence Rock,700,1522.54,3,8,ghost26,scroll
-52.72,30168,Gyoza,11000,23267.25,8,1,pisslow,Free S>
 52.32,28440,Fire Sealed Roar of Evanescence,4500,9437.38,6,1,Skills,o_0   Free    *_*    Free   0_o
 50.56,26591,Potion of Lion,1200,2427.42,11,19,ZafirRose,gps and more
