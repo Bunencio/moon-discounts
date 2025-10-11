@@ -14,27 +14,29 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29308,Ring of Valor,2,88333.33,3,1,DemiMerchant,99c Cheap Mall and Pets 99c
 100.0,30157,Iron Bar,3,110834.58,3,5,DemiMerchant,99c Cheap Mall and Pets 99c
 99.99,26572,Inferno Potion,1,8073.92,7,13,sellerrr,BLESS /  INFERNO POTION
-99.99,26585,Blessed Potion,10,91212.86,10,12,sellerrr,BLESS /  INFERNO POTION
+99.99,26585,Blessed Potion,10,91460.35,10,12,sellerrr,BLESS /  INFERNO POTION
 99.99,28468,Ice Sealed Mantle of Enigma,10,70002.5,3,1,Vanny,ring of spell sealed ss 60  40 r
 99.98,22024,Purple Jade,88,583362.33,3,1,PasarGelap,PURPLE JADE 880IMP
 99.98,25451,Jade Gem Fragment,15,78161.66,11,6,Coffi,GEM FRAGMENTS
 99.98,25452,Rock Gem Fragment,22,119352.83,9,11,Coffi,GEM FRAGMENTS
 99.98,26346,Lantern,1,4490.57,10,7,Everest,lANTERN
 99.96,25426,Universe Purse Fragment.,45,126452.71,4,4,Coffi,GEM FRAGMENTS
-95.43,26564,Meditation Potion,40,875.54,4,77,PublicWin,Cleaning Bank Selling Cheap~
-88.58,26564,Meditation Potion,100,875.54,4,8,Maltherion,App and more cheap
+95.41,26564,Meditation Potion,40,871.07,5,77,PublicWin,Cleaning Bank Selling Cheap~
+88.52,26564,Meditation Potion,100,871.07,5,8,Maltherion,App and more cheap
+87.61,25423,Evanescence Rock,200,1614.06,3,5,BL4CKM4RK3T,cheap stuff
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
 80.64,2301,,10000,51666.0,9,1,CaloNord,de todo
 75.75,25504,Standard Scroll,99,408.31,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 75.09,25439,Incantation Stone,1000,4014.47,5,7,Fortis,All cheap
-74.48,26562,Cake,10,39.19,7,48,ATARI,ALL CHEAP FREE!
+74.91,26562,Cake,10,39.86,8,48,ATARI,ALL CHEAP FREE!
 70.97,2301,,15000,51666.0,9,1,smoI,white colorants and jades
 70.27,28430,Fire Sealed Robe of Malediction,1999,6724.88,6,1,TheMystic,- NICE STUFF -
 69.11,26589,Potion of Bull,700,2265.75,15,9,xTrueHistory,GPS/PPS/Jackpot/JadeFragm/LBS/PO
+65.56,26564,Meditation Potion,300,871.07,5,7,Shab7,cheeeeep pots potrs
 63.34,26590,Potion of Soul,1000,2728.1,10,2,BjornIronside,LIQUIDO YA
 62.66,28458,Ice Sealed Staff of the Sphinx,9999,26777.4,5,1,BjornIronside,LIQUIDO YA
 62.64,25499,Purple Colorant,900,2408.75,4,3,CaloNord,de todo
-61.34,26591,Potion of Lion,900,2327.86,11,1,Aghur,Red statue free*
+61.85,26591,Potion of Lion,900,2359.08,9,1,Aghur,Red statue free*
 59.08,22001,Furious Gem,1000,2443.52,8,1,CaloNord,de todo
 58.22,25507,Expert Stone,477,1141.67,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 58.22,25507,Expert Stone,477,1141.67,7,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
@@ -56,6 +58,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.47,25504,Standard Scroll,190,408.31,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
 53.47,25504,Standard Scroll,190,408.31,5,99,BakolCumiCumi,FB | Red BP | octopus | Standard
 52.63,28448,Fire Sealed Cloak of Evanescence,15000,31666.33,3,1,Fortis,All cheap
-51.99,25525,,300000,624827.07,6,1,Anbie,BLESS POTS/CHAOS JEWEL FRAGMENT
 51.61,2301,,24999,51666.0,9,1,Leafs,Iron Bar/Shining Runestone
 51.02,25504,Standard Scroll,200,408.31,5,72,muhtar,cheap stal
+50.44,25423,Evanescence Rock,800,1614.06,3,1,Shab7,cheeeeep pots potrs
