@@ -5,6 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22021,Yellow Jade,25,1100008.33,3,1,ShowerBro,afk
 100.0,22023,Green Jade,3,195417.67,4,3,Frank,GREEN JADE
 100.0,22023,Green Jade,3,195417.67,4,1,Brody,the best price gems
+100.0,22031,Aegis Rock,19,1262504.75,3,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
 100.0,25451,Jade Gem Fragment,1,76754.5,6,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,138130.75,9,1,Goliat,Fragment Store
 100.0,28447,Bow of Evanescence,15,850003.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
@@ -18,11 +19,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,26377,Pharaoh's Lantern,1,4152.27,4,77,Virginia,PHARAOH LANTERN 10imp EA
 99.96,25426,Universe Purse Fragment.,45,100029.83,3,4,Coffi,GEM FRAGMENTS
 92.52,26564,Meditation Potion,70,935.83,3,25,Lasku,1
-87.95,25504,Standard Scroll,99,821.3,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
+88.58,25504,Standard Scroll,99,867.01,5,7,Anuel,CA RUNE | IMP | POTS | GEM | EQP
 86.86,25423,Evanescence Rock,200,1522.54,3,5,BL4CKM4RK3T,cheap stuff
 84.99,25497,Blue Colorant,800,5330.56,4,1,cheapstuffguys,cheap
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
-75.65,25504,Standard Scroll,200,821.3,5,99,muhtar,cheap stal
+76.93,25504,Standard Scroll,200,867.01,5,72,muhtar,cheap stal
 75.09,25439,Incantation Stone,1000,4014.47,5,7,Fortis,All cheap
 75.0,28436,Fire Sealed Staff of Evanescence,5000,20000.0,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOR
 74.48,26562,Cake,10,39.19,6,48,ATARI,ALL CHEAP FREE!
@@ -44,6 +45,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Nixm,Lv50 Items
 57.14,28446,Fire Sealed Bow of Evanescence,10000,23333.33,4,1,Nixm,Lv50 Items
 56.65,25493,Orange Colorant,2000,4613.64,3,3,Manager,CHEAP HAIRSTYLE
+56.19,25525,,300000,684827.07,6,1,Anbie,CHAOS JEWEL 300K EA
 55.88,25507,Expert Stone,500,1133.37,6,12,AAA123,123131331313131313
 55.88,25507,Expert Stone,500,1133.37,6,99,AAA123,123131331313131313
 54.02,25423,Evanescence Rock,700,1522.54,3,8,ghost26,scroll
