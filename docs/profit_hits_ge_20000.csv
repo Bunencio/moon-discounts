@@ -17,11 +17,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,28458,Ice Sealed Staff of the Sphinx,Vendedor,Promotion cruz,5000,26481.17,21481.17,1,21481.17,81.12,6
 2025-10-11,28036,Emerald Shield,SSTTAALL,CHEAP,10000,43333.0,33333.0,1,33333.0,76.92,3
 2025-10-11,2301,,CaloNord,de todo,10000,41749.55,31749.55,1,31749.55,76.05,7
-2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1107.17,630.17,99,62387.21,56.92,7
-2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1107.17,630.17,99,62387.21,56.92,7
-2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1107.17,630.17,61,38440.6,56.92,7
-2025-10-11,25507,Expert Stone,AAA123,123131331313131313,500,1107.17,607.17,99,60110.21,54.84,7
-2025-10-11,26591,Potion of Lion,Bag1rka,f,999,2151.78,1152.78,60,69166.73,53.57,12
+2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1105.61,628.61,99,62232.69,56.86,8
+2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1105.61,628.61,99,62232.69,56.86,8
+2025-10-11,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,477,1105.61,628.61,61,38345.4,56.86,8
+2025-10-11,25507,Expert Stone,AAA123,123131331313131313,500,1105.61,605.61,99,59955.69,54.78,8
+2025-10-11,26591,Potion of Lion,Bag1rka,f,999,2148.66,1149.66,60,68979.62,53.51,13
 2025-10-11,28428,Fire Sealed Dance of Evanescence,iLegolas,Refs GPs PPs CookinCard Sealed50,19800,42450.0,22650.0,1,22650.0,53.36,4
 2025-10-11,25505,Standard Stone,xKINGx,sadwasd,999,1958.08,959.08,23,22058.9,48.98,4
 2025-10-11,25503,Magical Stone,Olkc,pbs/worm/magical stone/feral ves,300,558.06,258.06,84,21676.88,46.24,4
@@ -29,10 +29,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,25423,Evanescence Rock,SariSariStore1,ASD,749,1322.53,573.53,58,33264.93,43.37,4
 2025-10-11,25398,Radioactive Flask,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,400,675.25,275.25,99,27249.67,40.76,3
 2025-10-11,25398,Radioactive Flask,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,400,675.25,275.25,75,20643.69,40.76,3
+2025-10-11,25059,Rosewood Log,ohw,WILLOW STRIP/ COCOBOLO/ ROSEWOOD,1500,2509.93,1009.93,99,99983.44,40.24,3
+2025-10-11,25059,Rosewood Log,ohw,WILLOW STRIP/ COCOBOLO/ ROSEWOOD,1500,2509.93,1009.93,99,99983.44,40.24,3
 2025-10-11,25525,,SariSariStore1,ASD,399999,661666.0,261667.0,1,261667.0,39.55,5
-2025-10-11,25059,Rosewood Log,ohw,WILLOW STRIP/ COCOBOLO/ ROSEWOOD,1500,2467.23,967.23,99,95755.81,39.2,3
-2025-10-11,25059,Rosewood Log,ohw,WILLOW STRIP/ COCOBOLO/ ROSEWOOD,1500,2467.23,967.23,99,95755.81,39.2,3
-2025-10-11,25059,Rosewood Log,ohw,WILLOW STRIP/ COCOBOLO/ ROSEWOOD,1500,2467.23,967.23,36,34820.3,39.2,3
 2025-10-11,22000,FieryGem,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,1990,3038.08,1048.08,72,75461.59,34.5,8
 2025-10-11,25436,Chest of Demonic World II,pisslow,Free S>,29999,45714.0,15715.0,2,31430.0,34.38,3
 2025-10-11,25506,Expert Scroll,dsadsa,weightless exper scroll,777,1169.64,392.64,93,36515.26,33.57,3
@@ -58,7 +57,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,26588,Potion of Eagle,Juyii,PUTUINS,1999,2478.08,479.08,66,31619.15,19.33,9
 2025-10-11,26588,Potion of Eagle,shooter,bored of themcleanse 30% discout,2000,2478.08,478.08,55,26294.29,19.29,9
 2025-10-11,30102,1000 Reputation Scroll,Ivynor,All cheap,6999,8635.93,1636.93,25,40923.26,18.95,7
-2025-10-11,25507,Expert Stone,Yennefer,ROCK VOYCAP FOF SUN POTSUP CRAFT,900,1107.17,207.17,99,20510.21,18.71,7
+2025-10-11,25507,Expert Stone,Yennefer,ROCK VOYCAP FOF SUN POTSUP CRAFT,900,1105.61,205.61,99,20355.69,18.6,8
 2025-10-11,30021,Race Changing Card,VIP,Race And Class Changing Cards,199999,239999.6,40000.6,2,80001.2,16.67,3
 2025-10-11,30021,Race Changing Card,conqstall2,Buff race class moonheart pothcr,200000,239999.6,39999.6,1,39999.6,16.67,3
 2025-10-11,26590,Potion of Soul,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,2490,2947.22,457.22,52,23775.29,15.51,8
@@ -69,8 +68,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,30156,Jackpot Coin,SvckMe,Y O U R S,8500,9927.02,1427.02,35,49945.69,14.38,11
 2025-10-11,30102,1000 Reputation Scroll,Masteryi,sell,7400,8635.93,1235.93,76,93930.72,14.31,7
 2025-10-11,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,6400,7389.52,989.52,200,197903.53,13.39,13
-2025-10-11,27020,Gold Pirate Scroll,darkghost,aaaa,20400,23511.75,3111.75,8,24894.0,13.23,12
 2025-10-11,30102,1000 Reputation Scroll,LotokSell,UgStriking DemoWind Flash Rep La,7500,8635.93,1135.93,56,63612.11,13.15,7
+2025-10-11,27020,Gold Pirate Scroll,darkghost,aaaa,20400,23483.56,3083.56,8,24668.52,13.13,13
 2025-10-11,26592,Flash Bomb,Honey,--------  Pet  Fruits  ---------,999,1137.54,138.54,200,27707.81,12.18,9
 2025-10-11,26592,Flash Bomb,Honey,--------  Pet  Fruits  ---------,999,1137.54,138.54,200,27707.81,12.18,9
 2025-10-11,26592,Flash Bomb,Kalista,flash bomb / radiation / detecto,999,1137.54,138.54,160,22166.25,12.18,9
@@ -86,7 +85,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3000,3381.25,381.25,56,21350.24,11.28,5
 2025-10-11,26578,Aegis Brew,Systembuff,Dem Strik=++,44444,49783.32,5339.32,14,74750.51,10.73,5
 2025-10-11,26346,Lantern,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,3990,4463.12,473.12,166,78538.71,10.6,12
-2025-10-11,30176,MvM Coin,MatheusXD,sell all,3000,3343.84,343.84,70,24068.47,10.28,4
+2025-10-11,30176,MvM Coin,MatheusXD,sell all,3000,3332.08,332.08,70,23245.57,9.97,4
 2025-10-11,26578,Aegis Brew,shooter,bored of themcleanse 30% discout,45000,49783.32,4783.32,13,62183.19,9.61,5
 2025-10-11,25534,,buyme,FREE,20000,22004.4,2004.4,28,56123.28,9.11,10
 2025-10-11,30020,Class Changing Card,VIP,Race And Class Changing Cards,199999,219999.6,20000.6,2,40001.2,9.09,3
@@ -95,12 +94,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,28136,Crown of Decendant,smoI,lv60 neck rings cod jades,800000,870000.0,70000.0,1,70000.0,8.05,4
 2025-10-11,26568,Skating Potion,shooter,bored of themcleanse 30% discout,40000,43402.5,3402.5,12,40830.0,7.84,8
 2025-10-11,28447,Bow of Evanescence,Aurora,really good price,750000,812503.75,62503.75,1,62503.75,7.69,4
-2025-10-11,26591,Potion of Lion,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,1990,2151.78,161.78,135,21840.14,7.52,12
+2025-10-11,26591,Potion of Lion,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,1990,2148.66,158.66,135,21419.14,7.38,13
 2025-10-11,27025,Radiation Lv1,Kalista,flash bomb / radiation / detecto,2299,2478.04,179.04,165,29541.82,7.23,3
 2025-10-11,28443,Coat of Evanescence,Aurora,really good price,850000,912500.0,62500.0,1,62500.0,6.85,3
 2025-10-11,26572,Inferno Potion,BPCRAFT,BLESS/IRON/INFERNO/RAD/PRESTIGE!,8000,8551.66,551.66,74,40823.15,6.45,6
-2025-10-11,27020,Gold Pirate Scroll,Cheap,asdsad,22000,23511.75,1511.75,99,149663.25,6.43,12
-2025-10-11,27020,Gold Pirate Scroll,Jhoa,PBS/GPS/SS 55 Eva/Warrior/Potion,22000,23511.75,1511.75,19,28723.25,6.43,12
+2025-10-11,27020,Gold Pirate Scroll,Cheap,asdsad,22000,23483.56,1483.56,99,146872.88,6.32,13
+2025-10-11,27020,Gold Pirate Scroll,Jhoa,PBS/GPS/SS 55 Eva/Warrior/Potion,22000,23483.56,1483.56,19,28187.72,6.32,13
 2025-10-11,26560,Cooked Bluefin Tuna,P02,Tuna,2000,2131.24,131.24,200,26248.99,6.16,3
 2025-10-11,26560,Cooked Bluefin Tuna,P02,Tuna,2000,2131.24,131.24,200,26248.99,6.16,3
 2025-10-11,26560,Cooked Bluefin Tuna,P02,Tuna,2000,2131.24,131.24,200,26248.99,6.16,3
@@ -108,10 +107,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-11,26560,Cooked Bluefin Tuna,P02,Tuna,2000,2131.24,131.24,199,26117.74,6.16,3
 2025-10-11,26585,Blessed Potion,sellerrr,BLESS / INFERNO POT,90000,95825.91,5825.91,12,69910.88,6.08,10
 2025-10-11,26585,Blessed Potion,MrMarket,MANU BLESS,90000,95825.91,5825.91,4,23303.63,6.08,10
-2025-10-11,25417,Moonlight Heart,buy4,CHEAP MOONLIGHT HEART SELL,138000,146333.33,8333.33,5,41666.67,5.69,3
 2025-10-11,25031,Refining Gem,Bag1rka,f,6999,7389.52,390.52,60,23431.06,5.28,13
 2025-10-11,30139,100x Crystal,-Omen#98,QUITTING PRICES,90000,94277.31,4277.31,36,153983.19,4.54,5
-2025-10-11,25417,Moonlight Heart,conqstall2,Buff race class moonheart pothcr,140000,146333.33,6333.33,7,44333.33,4.33,3
 2025-10-11,30156,Jackpot Coin,MiLD,eee,9500,9927.02,427.02,64,27329.27,4.3,11
 2025-10-11,26573,Demonic Potion,GordanRamsay,Cheapest Bless   Demonic Pots !!,16900,17432.44,532.44,107,56971.37,3.05,4
 2025-10-11,26585,Blessed Potion,Bankaquaq,Radiation/FB/Blessed/Potion/Brew,93500,95825.91,2325.91,20,46518.14,2.43,10
