@@ -3,24 +3,24 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,20,523766.0,4,3,Lune,Sell
 100.0,22009,Gem of Colossus,23,523766.0,4,1,BENTAHE,GEM OF COLO CHEAP
 100.0,22009,Gem of Colossus,23,523766.0,4,1,SSxConvict,UG Colo   Fire Rock
-100.0,22010,Gem of Rage,24,980923.27,5,2,Madarax**,lv23 str pet/Lv19 con pet/rages
+100.0,22010,Gem of Rage,24,980923.27,5,2,Madarax**,RAGES/CON PET LV19 2nd GEN
 100.0,22010,Gem of Rage,27,980923.27,5,4,Sysh,S> RAGE / DEMO RAGE
 100.0,22021,Yellow Jade,20,1080006.67,3,1,ShowerBro,afk
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
 100.0,22031,Aegis Rock,19,1262504.75,3,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
-100.0,25426,Universe Purse Fragment.,5,141501.4,5,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25426,Universe Purse Fragment.,5,141501.4,5,1,monchito1,m.o.t.a
+100.0,25426,Universe Purse Fragment.,5,138501.4,5,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25426,Universe Purse Fragment.,5,138501.4,5,1,monchito1,m.o.t.a
 100.0,25431,Kal Runestone,20,400011.4,3,3,ShowerBro,afk
-100.0,25451,Jade Gem Fragment,1,46833.47,7,1,Goliat,Fragment Store
-100.0,25451,Jade Gem Fragment,1,46833.47,7,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25451,Jade Gem Fragment,1,46833.47,7,9,monchito1,m.o.t.a
+100.0,25451,Jade Gem Fragment,1,40853.12,6,2,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,40853.12,6,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25451,Jade Gem Fragment,1,40853.12,6,9,monchito1,m.o.t.a
 100.0,25452,Rock Gem Fragment,2,67647.56,12,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,67647.56,12,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25452,Rock Gem Fragment,2,67647.56,12,12,monchito1,m.o.t.a
 100.0,28136,Crown of Decendant,16,725004.0,4,1,Lune,Sell
 100.0,28447,Bow of Evanescence,15,812503.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
-99.99,22007,Gem of Striking,135,1209235.96,4,1,MapBK,S<striking 1.35k imp
-99.99,30156,Jackpot Coin,1,9552.45,8,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,22007,Gem of Striking,135,1214449.41,5,1,MapBK,S<striking 1.35k imp
+99.99,30156,Jackpot Coin,1,9532.58,9,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,26346,Lantern,1,4473.41,9,7,Everest,lANTERN
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
@@ -39,16 +39,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.67,28430,Fire Sealed Robe of Malediction,1999,5082.56,7,1,TheMystic,- NICE STUFF -
 60.0,28436,Fire Sealed Staff of Evanescence,5000,12499.5,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
 58.65,25499,Purple Colorant,1000,2418.18,3,1,Brum,Hi
-58.03,26591,Potion of Lion,1000,2382.7,11,1,TocoDeJegue,Detector - Flash -potion-weight
 57.34,25507,Expert Stone,477,1118.18,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 57.34,25507,Expert Stone,477,1118.18,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 57.34,25507,Expert Stone,477,1118.18,8,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
-55.56,26589,Potion of Bull,1000,2250.03,14,1,TocoDeJegue,Detector - Flash -potion-weight
+57.26,26591,Potion of Lion,1000,2339.89,10,1,TocoDeJegue,Detector - Flash -potion-weight
+55.59,26589,Potion of Bull,1000,2251.85,14,1,TocoDeJegue,Detector - Flash -potion-weight
 55.32,28446,Fire Sealed Bow of Evanescence,15000,33571.43,5,1,IronM4n,Cheap items HERE!!!!
 55.32,28446,Fire Sealed Bow of Evanescence,15000,33571.43,5,1,iLegolas,Refs GPs PPs CookinCard Sealed50
 55.28,25507,Expert Stone,500,1118.18,8,12,AAA123,123131331313131313
 55.28,25507,Expert Stone,500,1118.18,8,99,AAA123,123131331313131313
-55.0,27021,Green Pirate Scroll,200,444.42,6,9,Destinys,@@@@@
-55.0,27021,Green Pirate Scroll,200,444.42,6,8,ThornLey,gold
+54.79,27021,Green Pirate Scroll,200,442.34,6,9,Destinys,@@@@@
+54.79,27021,Green Pirate Scroll,200,442.34,6,8,ThornLey,gold
 52.7,25400,Explosive Tentacle,300,634.28,4,1,xVENDOR1x,RUSH
-51.43,26562,Cake,28,57.65,4,3,BLaCKMooN,garner
