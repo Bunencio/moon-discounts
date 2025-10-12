@@ -4,9 +4,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25426,Universe Purse Fragment.,5,135901.4,5,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25426,Universe Purse Fragment.,5,135901.4,5,1,monchito1,m.o.t.a
 100.0,25431,Kal Runestone,11,333344.67,4,1,Kais,Bodega Don Loro
-100.0,25451,Jade Gem Fragment,1,40853.12,6,2,Goliat,Fragment Store
-100.0,25451,Jade Gem Fragment,1,40853.12,6,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25451,Jade Gem Fragment,1,40853.12,6,9,monchito1,m.o.t.a
+100.0,25451,Jade Gem Fragment,1,40559.0,5,2,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,40559.0,5,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25451,Jade Gem Fragment,1,40559.0,5,9,monchito1,m.o.t.a
 100.0,25452,Rock Gem Fragment,2,47640.26,10,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,47640.26,10,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25452,Rock Gem Fragment,2,47640.26,10,12,monchito1,m.o.t.a
@@ -14,7 +14,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,30157,Iron Bar,2,64601.0,3,5,Kais,Bodega Don Loro
 99.99,22007,Gem of Striking,135,1197782.74,5,1,MapBK,S<striking 1.35k imp
 99.99,25431,Kal Runestone,20,333344.67,4,3,ShowerBro,afk
-99.99,30156,Jackpot Coin,1,9945.82,10,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,30156,Jackpot Coin,1,9936.51,11,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,26346,Lantern,1,4709.86,6,7,Everest,lANTERN
 92.68,25439,Incantation Stone,98,1338.81,4,6,Spiritus,fb/pots
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
