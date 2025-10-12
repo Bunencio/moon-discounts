@@ -17,7 +17,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,2,46385.46,8,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,2,46385.46,8,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25452,Rock Gem Fragment,2,46385.46,8,12,monchito1,m.o.t.a
-100.0,26585,Blessed Potion,1,90487.57,6,5,sellerrr,BLESS 100 X IMP
+100.0,26585,Blessed Potion,1,90124.76,5,5,sellerrr,BLESS 100 X IMP
 100.0,28136,Crown of Decendant,8,812506.0,4,1,Killua#14,IMPS ONLY
 100.0,28136,Crown of Decendant,16,812506.0,4,1,Lune,Sell crown of decend with 3 Con
 100.0,28326,Divine Grace Cap,1,187497.5,4,1,stallerx,Demo and ugems and more
@@ -31,7 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29310,Ring of Hawk,5,315002.0,4,1,jajaaaaja,stuff u need
 99.99,22007,Gem of Striking,135,1117863.07,5,1,MapBK,S<striking 1.35k imp
 99.99,25431,Kal Runestone,20,390011.8,3,3,ShowerBro,afk
-99.99,25534,,1,13981.91,7,28,buyme,FREE!
+99.99,25534,,1,13958.42,6,28,buyme,FREE!
 99.99,26562,Cake,28,256481.59,3,3,BLaCKMooN,garner
 99.99,28464,Ice Sealed Tattoo of Enigma,1,16250.25,3,1,stallerx,Demo and ugems and more
 99.99,28464,Ice Sealed Tattoo of Enigma,1,16250.25,3,1,stallerx,Demo and ugems and more
@@ -65,4 +65,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.46,28440,Fire Sealed Roar of Evanescence,9500,22333.17,4,1,bowstalls,lv40-50-60-65 gear 3Pages
 57.46,28440,Fire Sealed Roar of Evanescence,9500,22333.17,4,1,bowstalls,lv40-50-60-65 gear 3Pages
 54.37,28429,Dance of Evanescence,1200000,2630000.0,4,1,Magatah,DPWH CORRUPT
-50.57,30119,Vial of Consitution Reset,3500,7081.0,6,1,TuoTuo,Cleaning Bank
