@@ -8,14 +8,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22021,Yellow Jade,20,1080006.67,3,1,ShowerBro,afk
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
 100.0,22031,Aegis Rock,19,1328003.8,4,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
+100.0,25426,Universe Purse Fragment.,5,141501.4,5,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25426,Universe Purse Fragment.,5,141501.4,5,1,monchito1,m.o.t.a
 100.0,25431,Kal Runestone,20,400011.4,3,3,ShowerBro,afk
-100.0,25451,Jade Gem Fragment,1,80285.24,7,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,102221.96,12,1,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,46833.47,7,1,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,46833.47,7,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25451,Jade Gem Fragment,1,46833.47,7,9,monchito1,m.o.t.a
+100.0,25452,Rock Gem Fragment,2,67647.56,12,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,67647.56,12,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25452,Rock Gem Fragment,2,67647.56,12,12,monchito1,m.o.t.a
 100.0,28136,Crown of Decendant,16,725004.0,4,1,Lune,Sell
 100.0,28447,Bow of Evanescence,15,812503.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 99.99,22007,Gem of Striking,135,1214449.41,5,1,MapBK,S<striking 1.35k imp
-99.99,30156,Jackpot Coin,1,9511.78,9,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
-99.98,26346,Lantern,1,4472.86,9,7,Everest,lANTERN
+99.99,30156,Jackpot Coin,1,9541.63,9,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.98,26346,Lantern,1,4473.33,10,7,Everest,lANTERN
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
 80.63,22001,Furious Gem,500,2581.2,9,2,SellerPirate,stuff
@@ -30,7 +36,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.63,25440,Evanescence Stone,500,1338.03,3,6,vendedolmax,2000
 61.26,22001,Furious Gem,1000,2581.2,9,1,CaloNord,de todo
 60.67,28430,Fire Sealed Robe of Malediction,1999,5082.56,7,1,TheMystic,- NICE STUFF -
-58.73,26001,Ninja Coin,200,484.64,3,7,pisslow,Com Freeeeeeeeee ?>?><?<>??<?><?
+58.73,26001,Ninja Coin,200,484.64,3,7,pisslow,Freeeeeeeeeeeeeeeeeeeeeeeeeeeeee
 58.65,25499,Purple Colorant,1000,2418.18,3,1,Brum,Hi
 57.61,26591,Potion of Lion,1000,2359.07,11,1,TocoDeJegue,Detector - Flash -potion-weight
 57.48,28440,Fire Sealed Roar of Evanescence,4500,10583.17,4,1,Skills,o_0   Free    *_*    Free   0_o
