@@ -12,13 +12,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,40853.12,6,2,Goliat,Fragment Store
 100.0,25451,Jade Gem Fragment,1,40853.12,6,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,40853.12,6,9,monchito1,m.o.t.a
-100.0,25452,Rock Gem Fragment,2,57692.96,11,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,57692.96,11,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25452,Rock Gem Fragment,2,57692.96,11,12,monchito1,m.o.t.a
+100.0,25452,Rock Gem Fragment,2,57173.73,10,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,57173.73,10,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25452,Rock Gem Fragment,2,57173.73,10,12,monchito1,m.o.t.a
 100.0,28136,Crown of Decendant,16,725004.0,4,1,Lune,Sell
 100.0,28447,Bow of Evanescence,15,812503.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 99.99,22007,Gem of Striking,135,1211159.0,4,1,MapBK,S<striking 1.35k imp
-99.99,30156,Jackpot Coin,1,9569.44,10,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,30156,Jackpot Coin,1,9574.15,11,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,26346,Lantern,1,4473.41,9,7,Everest,lANTERN
 92.74,25439,Incantation Stone,98,1350.13,5,6,Spiritus,fb/pots
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
@@ -37,11 +37,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.0,28436,Fire Sealed Staff of Evanescence,5000,12499.5,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
 59.09,28446,Fire Sealed Bow of Evanescence,15000,36666.67,5,1,IronM4n,Cheap items HERE!!!!
 58.65,25499,Purple Colorant,1000,2418.18,3,1,Brum,Hi
+58.32,26591,Potion of Lion,1000,2398.95,10,1,TocoDeJegue,Detector - Flash -potion-weight
 57.34,25507,Expert Stone,477,1118.18,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 57.34,25507,Expert Stone,477,1118.18,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 57.34,25507,Expert Stone,477,1118.18,8,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
-57.26,26591,Potion of Lion,1000,2339.89,10,1,TocoDeJegue,Detector - Flash -potion-weight
-55.59,26589,Potion of Bull,1000,2251.74,15,1,TocoDeJegue,Detector - Flash -potion-weight
+55.88,26589,Potion of Bull,1000,2266.67,15,1,TocoDeJegue,Detector - Flash -potion-weight
 55.28,25507,Expert Stone,500,1118.18,8,12,AAA123,123131331313131313
 55.28,25507,Expert Stone,500,1118.18,8,99,AAA123,123131331313131313
 54.79,27021,Green Pirate Scroll,200,442.34,6,9,Destinys,@@@@@
