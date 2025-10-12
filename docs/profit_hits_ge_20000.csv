@@ -40,7 +40,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,28446,Fire Sealed Bow of Evanescence,IronM4n,Cheap items HERE!!!!,15000,48000.0,33000.0,1,33000.0,68.75,4
 2025-10-12,28429,Dance of Evanescence,Onigiri,ROLL,950000,2630000.0,1680000.0,1,1680000.0,63.88,4
 2025-10-12,26591,Potion of Lion,ZafirRose,rock/jade/pbs,1000,2481.01,1481.01,19,28139.1,59.69,13
-2025-10-12,25503,Magical Stone,xVENDOR1x,RUSH,200,484.51,284.51,99,28166.79,58.72,8
 2025-10-12,28411,Staff of Incantation,Kasyadex,SEALS/FAIRY DUST/EVA POWR/HL VOY,120000,290000.0,170000.0,1,170000.0,58.62,3
 2025-10-12,28035,Solar Shield,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR,40000,95999.4,55999.4,1,55999.4,58.33,3
 2025-10-12,28429,Dance of Evanescence,Magatah,DPWH CORRUPT,1200000,2630000.0,1430000.0,1,1430000.0,54.37,4
@@ -48,6 +47,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,25507,Expert Stone,AAA123,123131331313131313,500,986.88,486.88,99,48201.45,49.34,5
 2025-10-12,26594,Novice Explosive Ball,Cachexia,Sell Cheap items,250,473.97,223.97,140,31356.16,47.25,4
 2025-10-12,27019,Purple Pirate Scroll,xTrueHistory,Uns55ArmorcRUZ/JACKPOT/PPS/LBS,4000,6604.4,2604.4,12,31252.84,39.43,5
+2025-10-12,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1592.79,592.79,99,58686.14,37.22,5
+2025-10-12,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1592.79,592.79,92,54536.62,37.22,5
+2025-10-12,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1592.79,592.79,79,46830.36,37.22,5
 2025-10-12,26589,Potion of Bull,MiLD,rrrr,1500,2388.26,888.26,65,57737.22,37.19,14
 2025-10-12,25400,Explosive Tentacle,Bokol,Dolphin | Toxic | Tentacle,400,636.63,236.63,99,23426.34,37.17,3
 2025-10-12,25400,Explosive Tentacle,Bokol,Dolphin | Toxic | Tentacle,400,636.63,236.63,90,21296.68,37.17,3
@@ -55,9 +57,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,25056,Willow Wood Log,ohw,ROSEWOOD/COCOBOLO/WILLOW LOGS,500,788.54,288.54,99,28565.58,36.59,7
 2025-10-12,25056,Willow Wood Log,ohw,ROSEWOOD/COCOBOLO/WILLOW LOGS,500,788.54,288.54,99,28565.58,36.59,7
 2025-10-12,25056,Willow Wood Log,ohw,ROSEWOOD/COCOBOLO/WILLOW LOGS,500,788.54,288.54,98,28277.04,36.59,7
-2025-10-12,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1575.71,575.71,99,56994.9,36.54,5
-2025-10-12,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1575.71,575.71,99,56994.9,36.54,5
-2025-10-12,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1575.71,575.71,92,52964.96,36.54,5
 2025-10-12,22000,FieryGem,STAII,Cheap UG and normals   pots!!!!!,1990,3134.29,1144.29,53,60647.22,36.51,9
 2025-10-12,22004,Shining Gem,STAII,Cheap UG and normals   pots!!!!!,3900,5818.94,1918.94,75,143920.75,32.98,5
 2025-10-12,22001,Furious Gem,STAII,Cheap UG and normals   pots!!!!!,1990,2847.54,857.54,68,58312.98,30.12,10
@@ -83,8 +82,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,28326,Divine Grace Cap,Merchanty,Divine Cap +Spr|Salmon|FairyDust,149990,187497.5,37507.5,1,37507.5,20.0,4
 2025-10-12,26591,Potion of Lion,LotokSell,UgColo DemoColo POTIOINS,2000,2481.01,481.01,42,20202.22,19.39,13
 2025-10-12,30168,Gyoza,LotokSell,UgColo DemoColo POTIOINS,17000,20905.13,3905.13,7,27335.92,18.68,5
-2025-10-12,25059,Rosewood Log,ohw,ROSEWOOD/COCOBOLO/WILLOW LOGS,1300,1575.71,275.71,99,27294.9,17.5,5
-2025-10-12,25059,Rosewood Log,ohw,ROSEWOOD/COCOBOLO/WILLOW LOGS,1300,1575.71,275.71,95,26192.07,17.5,5
+2025-10-12,25059,Rosewood Log,ohw,ROSEWOOD/COCOBOLO/WILLOW LOGS,1300,1592.79,292.79,99,28986.14,18.38,5
+2025-10-12,25059,Rosewood Log,ohw,ROSEWOOD/COCOBOLO/WILLOW LOGS,1300,1592.79,292.79,95,27814.99,18.38,5
 2025-10-12,27025,Radiation Lv1,Kalista,radiation fb detector,1999,2418.08,419.08,200,83816.01,17.33,4
 2025-10-12,26589,Potion of Bull,STAII,Cheap UG and normals   pots!!!!!,1990,2388.26,398.26,105,41817.81,16.68,14
 2025-10-12,25430,Enigma Power,Garp,ENIMA POWER = UNS65 CHEAP FAST,1400,1680.36,280.36,99,27755.96,16.68,8
