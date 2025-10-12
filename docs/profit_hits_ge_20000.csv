@@ -21,7 +21,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,25452,Rock Gem Fragment,Goliat,Fragment Store,2,42232.64,42230.64,1,42230.64,100.0,10
 2025-10-12,22007,Gem of Striking,MapBK,S<striking 1.35k imp,135,1201928.23,1201793.23,1,1201793.23,99.99,4
 2025-10-12,25431,Kal Runestone,ShowerBro,afk,20,330011.67,329991.67,3,989975.0,99.99,4
-2025-10-12,26346,Lantern,Everest,lANTERN,1,4684.94,4683.94,7,32787.57,99.98,7
+2025-10-12,26346,Lantern,Everest,lANTERN,1,4687.4,4686.4,7,32804.78,99.98,6
 2025-10-12,26568,Skating Potion,LotokSell,UgColo DemoColo POTIOINS,2000,38089.49,36089.49,4,144357.95,94.75,8
 2025-10-12,2301,,CaloNord,de todo,10000,41749.55,31749.55,1,31749.55,76.05,7
 2025-10-12,28458,Ice Sealed Staff of the Sphinx,BjornIronside,APROVECHA YA,9999,33777.4,23778.4,1,23778.4,70.4,5
@@ -58,7 +58,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,26590,Potion of Soul,LotokSell,UgColo DemoColo POTIOINS,2000,2544.3,544.3,50,27215.12,21.39,10
 2025-10-12,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,6400,7978.69,1578.69,170,268376.59,19.79,18
 2025-10-12,30156,Jackpot Coin,ESNAIDER,BUY JACKPOT/REF/UG PURSE/GPS/PPS,8500,10496.12,1996.12,40,79844.71,19.02,9
-2025-10-12,25527,,SariSariStore1,ASD,749999,921247.25,171248.25,1,171248.25,18.59,4
 2025-10-12,25031,Refining Gem,Hot,Take   my    Pet     Farm cheap,6500,7978.69,1478.69,195,288343.74,18.53,18
 2025-10-12,26588,Potion of Eagle,GeorgeFloyd,aaaa,2000,2423.62,423.62,200,84723.87,17.48,9
 2025-10-12,26588,Potion of Eagle,LotokSell,UgColo DemoColo POTIOINS,2000,2423.62,423.62,142,60153.95,17.48,9
@@ -69,10 +68,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,26560,Cooked Bluefin Tuna,SeaMaterials,Cheap Bless   Tuna,1999,2380.03,381.03,78,29720.22,16.01,3
 2025-10-12,26575,Guardian's Brew,sds,Guardian Brew Here!!,599,708.63,109.63,199,21816.9,15.47,6
 2025-10-12,25493,Orange Colorant,hahahehehoho,All colorants,4000,4655.17,655.17,75,49137.93,14.07,3
-2025-10-12,27020,Gold Pirate Scroll,Cheap,asdasd,20000,23079.08,3079.08,99,304828.83,13.34,6
+2025-10-12,27020,Gold Pirate Scroll,Cheap,asdasd,20000,23081.84,3081.84,99,305102.3,13.35,5
 2025-10-12,26589,Potion of Bull,STAII,Cheap UG and normals   pots!!!!!,1990,2292.7,302.7,105,31783.71,13.2,15
 2025-10-12,25430,Enigma Power,Disciplined1,CHEAPEST DemonicRock EnigmaPower,1499,1725.75,226.75,99,22448.42,13.14,7
 2025-10-12,25430,Enigma Power,Disciplined1,CHEAPEST DemonicRock EnigmaPower,1499,1725.75,226.75,99,22448.42,13.14,7
+2025-10-12,25527,,Ludopat1n,Ring 50 spr Chaos rune n stuff,850000,978330.0,128330.0,1,128330.0,13.12,3
 2025-10-12,25430,Enigma Power,Garp,>>ENIGMA POWER SO CHEAP FAST<<,1500,1725.75,225.75,99,22349.42,13.08,7
 2025-10-12,25430,Enigma Power,Garp,>>ENIGMA POWER SO CHEAP FAST<<,1500,1725.75,225.75,99,22349.42,13.08,7
 2025-10-12,25430,Enigma Power,Garp,>>ENIGMA POWER SO CHEAP FAST<<,1500,1725.75,225.75,99,22349.42,13.08,7
@@ -89,8 +89,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,27025,Radiation Lv1,verkeufer,EL QUE NO COMPRE ES GAY!!!!!!!!!,2190,2412.49,222.49,200,44498.37,9.22,4
 2025-10-12,23003,Cupid Treasure,treasuress,cheap aegis iron cupid treasure,3600,3960.52,360.52,99,35691.28,9.1,3
 2025-10-12,23003,Cupid Treasure,treasuress,cheap aegis iron cupid treasure,3600,3960.52,360.52,99,35691.28,9.1,3
-2025-10-12,30176,MvM Coin,Lira,MVM COINS,2990,3278.19,288.19,76,21902.38,8.79,6
-2025-10-12,25527,,Ludopat1n,Ring 50 spr Chaos rune n stuff,850000,921247.25,71247.25,1,71247.25,7.73,4
+2025-10-12,30176,MvM Coin,Lira,MVM COINS,2990,3260.91,270.91,76,20589.54,8.31,5
 2025-10-12,28447,Bow of Evanescence,Aurora,really good price,750000,812503.5,62503.5,1,62503.5,7.69,4
 2025-10-12,28443,Coat of Evanescence,Aurora,really good price,850000,916666.67,66666.67,1,66666.67,7.27,3
 2025-10-12,27019,Purple Pirate Scroll,FukPolice,std/exp/poss/rage/pps/lbp/gps,4900,5266.9,366.9,99,36323.24,6.97,3
@@ -100,11 +99,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,26585,Blessed Potion,MrMarket,MANU BLESS,90000,96362.49,6362.49,4,25449.96,6.6,7
 2025-10-12,25031,Refining Gem,dada4,Elven Signet's,7500,7978.69,478.69,50,23934.29,6.0,18
 2025-10-12,30156,Jackpot Coin,MiLD,rrrr,10000,10496.12,496.12,64,31751.54,4.73,9
-2025-10-12,27020,Gold Pirate Scroll,dogdogdog,cheap cheap,22000,23079.08,1079.08,42,45321.32,4.68,6
+2025-10-12,27020,Gold Pirate Scroll,dogdogdog,cheap cheap,22000,23081.84,1081.84,42,45437.34,4.69,5
 2025-10-12,22007,Gem of Striking,NiceSS,cheap strking gem gps rock lbp s,1150000,1201928.23,51928.23,1,51928.23,4.32,4
-2025-10-12,26346,Lantern,STAII,Cheap UG and normals   pots!!!!!,4490,4684.94,194.94,164,31970.02,4.16,7
+2025-10-12,26346,Lantern,STAII,Cheap UG and normals   pots!!!!!,4490,4687.4,197.4,164,32373.02,4.21,6
 2025-10-12,25433,Blessed Runestone,CITAMZ,SELL CHAOS JEWELL FRAG BLESSED R,830000,855833.17,25833.17,2,51666.33,3.02,4
 2025-10-12,26585,Blessed Potion,GordanRamsay,Cheapest Bless   Demonics !!!!!!,93500,96362.49,2862.49,26,74424.75,2.97,7
 2025-10-12,30168,Gyoza,SSSSS,SELL GYOZAS,19999,20521.01,522.01,39,20358.42,2.54,6
-2025-10-12,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH +++++,22500,23079.08,579.08,51,29533.03,2.51,6
+2025-10-12,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH +++++,22500,23081.84,581.84,51,29673.91,2.52,5
 2025-10-12,25433,Blessed Runestone,WindSlash,Blessed une/PBS/LBS/Royal,835000,855833.17,20833.17,1,20833.17,2.43,4
