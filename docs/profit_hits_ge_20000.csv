@@ -34,7 +34,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,25507,Expert Stone,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,433,1082.75,649.75,61,39634.6,60.01,9
 2025-10-12,28035,Solar Shield,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR,40000,95999.4,55999.4,1,55999.4,58.33,3
 2025-10-12,25507,Expert Stone,AAA123,123131331313131313,500,1082.75,582.75,99,57692.0,53.82,9
-2025-10-12,26591,Potion of Lion,ZafirRose,GPS/ROCK/JADE/JACK,1200,2404.96,1204.96,19,22894.33,50.1,10
+2025-10-12,26591,Potion of Lion,ZafirRose,GPS/ROCK/JADE/JACK,1200,2395.98,1195.98,19,22723.62,49.92,11
 2025-10-12,25506,Expert Scroll,dsadsa,weightless,500,980.21,480.21,93,44659.75,48.99,3
 2025-10-12,25398,Radioactive Flask,fffffeff,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,400,688.77,288.77,99,28588.25,41.93,3
 2025-10-12,25059,Rosewood Log,ohw,WILLOW STRIP/ COCOBOLO/ ROSEWOOD,1500,2556.58,1056.58,99,104601.62,41.33,3
@@ -42,7 +42,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,26568,Skating Potion,LotokSell,RepFairyDustFlashW8 Potion,25000,40297.38,15297.38,4,61189.52,37.96,9
 2025-10-12,25400,Explosive Tentacle,Bokol,Dolphin | Toxic | Tentacle,400,634.28,234.28,99,23193.46,36.94,4
 2025-10-12,25400,Explosive Tentacle,Bokol,Dolphin | Toxic | Tentacle,400,634.28,234.28,90,21084.96,36.94,4
-2025-10-12,22000,FieryGem,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,1990,3123.41,1133.41,71,80472.34,36.29,8
+2025-10-12,22000,FieryGem,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,1990,3120.25,1130.25,71,80247.66,36.22,9
 2025-10-12,25507,Expert Stone,Yennefer,SUN FOF LBP IRONBAR ROCK VOYCAP,700,1082.75,382.75,99,37892.0,35.35,9
 2025-10-12,25507,Expert Stone,Yennefer,SUN FOF LBP IRONBAR ROCK VOYCAP,700,1082.75,382.75,91,34830.02,35.35,9
 2025-10-12,28429,Dance of Evanescence,Magatah,BUY!!. DPWH YOU CORRUPTORS,1100000,1700000.0,600000.0,1,600000.0,35.29,4
@@ -69,7 +69,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,25430,Enigma Power,Garp,>>ENIGMA POWER SO CHEAP FAST<<,1500,1806.81,306.81,99,30373.95,16.98,7
 2025-10-12,25430,Enigma Power,Garp,>>ENIGMA POWER SO CHEAP FAST<<,1500,1806.81,306.81,99,30373.95,16.98,7
 2025-10-12,27020,Gold Pirate Scroll,MatsBk,S>GPS/PBS/RBS,19500,22774.48,3274.48,50,163724.04,14.38,13
-2025-10-12,25031,Refining Gem,MiLD,rrrr,6200,7240.14,1040.14,26,27043.52,14.37,16
+2025-10-12,25031,Refining Gem,MiLD,rrrr,6200,7240.47,1040.47,26,27052.23,14.37,16
 2025-10-12,30102,1000 Reputation Scroll,Masteryi,sell,7400,8619.2,1219.2,76,92658.91,14.15,7
 2025-10-12,25493,Orange Colorant,hahahehehoho,All colorants,4000,4655.17,655.17,75,49137.93,14.07,3
 2025-10-12,30102,1000 Reputation Scroll,LotokSell,RepFairyDustFlashW8 Potion,7500,8619.2,1119.2,68,76105.34,12.98,7
@@ -80,7 +80,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,30156,Jackpot Coin,MatsBk,S>GPS/PBS/RBS,8300,9437.82,1137.82,200,227563.2,12.06,11
 2025-10-12,28429,Dance of Evanescence,Vendedor,Promotion cruz,1500000,1700000.0,200000.0,1,200000.0,11.76,4
 2025-10-12,26589,Potion of Bull,LotokSell,RepFairyDustFlashW8 Potion,2000,2266.67,266.67,133,35466.78,11.76,15
-2025-10-12,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,6400,7240.14,840.14,187,157105.34,11.6,16
+2025-10-12,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,6400,7240.47,840.47,187,157167.96,11.61,16
 2025-10-12,25091,Heavy Crystal,conqstall2,Buff race class moonheart pothcr,3000,3381.25,381.25,99,37744.17,11.28,5
 2025-10-12,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,3000,3381.25,381.25,56,21350.24,11.28,5
 2025-10-12,26592,Flash Bomb,Honey,--------  Pet  Fruits  ---------,999,1122.92,123.92,200,24784.35,11.04,11
@@ -89,7 +89,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,26592,Flash Bomb,MikiMuto,Everything Is Here!,1000,1122.92,122.92,177,21757.15,10.95,11
 2025-10-12,26346,Lantern,STAII,Cheap UG  DEM  NORMAL  POTS!!!!!,3990,4473.41,483.41,165,79763.19,10.81,9
 2025-10-12,26578,Aegis Brew,Systembuff,Dem Strik=++,44444,49750.45,5306.45,13,68983.84,10.67,3
-2025-10-12,25031,Refining Gem,Hot,Take   my    Pet     Farm cheap,6500,7240.14,740.14,195,144326.42,10.22,16
+2025-10-12,25031,Refining Gem,Hot,Take   my    Pet     Farm cheap,6500,7240.47,740.47,195,144391.72,10.23,16
 2025-10-12,27025,Radiation Lv1,verkeufer,EL QUE NO COMPRE ES GAY!!!!!!!!!,2190,2435.77,245.77,200,49153.3,10.09,4
 2025-10-12,30156,Jackpot Coin,ESNAIDER,BUY JACKPOT/REF/UG PURSE/GPS/PPS,8500,9437.82,937.82,100,93781.6,9.94,11
 2025-10-12,30156,Jackpot Coin,SvckMe,Y O U R S,8500,9437.82,937.82,35,32823.56,9.94,11
@@ -113,7 +113,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,26573,Demonic Potion,GordanRamsay,Cheapest Blesses   Demonics !!!!,16900,17501.24,601.24,87,52308.0,3.44,4
 2025-10-12,27020,Gold Pirate Scroll,Cheap,asdsad,22000,22774.48,774.48,99,76673.6,3.4,13
 2025-10-12,27020,Gold Pirate Scroll,dogdogdog,cheap cheap,22000,22774.48,774.48,42,32528.19,3.4,13
-2025-10-12,25031,Refining Gem,ESNAIDER,BUY JACKPOT/REF/UG PURSE/GPS/PPS,7000,7240.14,240.14,91,21852.33,3.32,16
+2025-10-12,25031,Refining Gem,ESNAIDER,BUY JACKPOT/REF/UG PURSE/GPS/PPS,7000,7240.47,240.47,91,21882.8,3.32,16
 2025-10-12,30168,Gyoza,SSSSS,SELL GYOZAS,19999,20673.18,674.18,39,26293.21,3.26,6
 2025-10-12,25433,Blessed Runestone,CITAMZ,SELL CHAOS JEWELL FRAG BLESSED R,830000,855833.17,25833.17,2,51666.33,3.02,4
 2025-10-12,25433,Blessed Runestone,WindSlash,Blessed une/PBS/LBS/Royal,835000,855833.17,20833.17,1,20833.17,2.43,4
