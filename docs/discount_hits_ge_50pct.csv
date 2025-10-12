@@ -15,12 +15,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25420,Sunlight Heart,1,22769.46,3,9,buyme,FREE!
 100.0,25426,Universe Purse Fragment.,5,153334.22,5,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25431,Kal Runestone,20,496509.83,4,3,ShowerBro,afk
-100.0,25451,Jade Gem Fragment,1,32969.25,5,2,Goliat,Fragment Store
-100.0,25451,Jade Gem Fragment,1,32969.25,5,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25451,Jade Gem Fragment,1,32969.25,5,9,monchito1,m.o.t.a
-100.0,25452,Rock Gem Fragment,2,41435.52,10,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,41435.52,10,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25452,Rock Gem Fragment,2,41435.52,10,12,monchito1,m.o.t.a
+100.0,25451,Jade Gem Fragment,1,34197.45,6,2,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,34197.45,6,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25451,Jade Gem Fragment,1,34197.45,6,9,monchito1,m.o.t.a
+100.0,25452,Rock Gem Fragment,2,42234.77,10,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,42234.77,10,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25452,Rock Gem Fragment,2,42234.77,10,12,monchito1,m.o.t.a
 100.0,28447,Bow of Evanescence,14,812503.5,4,1,Lune,Sell crown of decend with 3 Con
 100.0,29310,Ring of Hawk,5,366668.33,3,1,jajaaaaja,stuff u need
 100.0,29310,Ring of Hawk,5,366668.33,3,1,jajaaaaja,stuff u need
@@ -28,15 +28,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25534,,1,15610.76,8,28,buyme,FREE!
 99.99,30156,Jackpot Coin,1,9787.85,10,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
-82.93,26564,Meditation Potion,15,87.85,3,27,Nikoz,SS/Rep/Uns/Power/Dye/SP/Rock
+83.4,26564,Meditation Potion,15,90.36,4,27,Nikoz,SS/Rep/Uns/Power/Dye/SP/Rock
 82.49,22001,Furious Gem,500,2855.13,9,1,SellerPirate,stuff
 82.49,22001,Furious Gem,500,2855.13,9,1,TocoDeJegue,Detector - Flash - Grenade lv2
-80.56,26591,Potion of Lion,500,2572.49,12,1,TocoDeJegue,Detector - Flash - Grenade lv2
+79.95,26591,Potion of Lion,500,2493.86,13,1,TocoDeJegue,Detector - Flash - Grenade lv2
 78.93,26589,Potion of Bull,500,2373.43,14,1,TocoDeJegue,Detector - Flash - Grenade lv2
 78.02,28132,Voyager Cap,5000,22749.88,6,1,STALLING11,VOYAGERS ITEMS
 76.05,2301,,10000,41749.55,7,1,CaloNord,de todo
 68.0,28446,Fire Sealed Bow of Evanescence,10000,31250.0,3,1,Nixm,Lv50 Items
 62.78,25499,Purple Colorant,900,2418.18,3,3,CaloNord,de todo
+59.9,26591,Potion of Lion,1000,2493.86,13,19,ZafirRose,rock/jade/pbs
 58.65,25499,Purple Colorant,1000,2418.18,3,1,Brum,Frozen many stuff Freeeeeeeeeeee
 58.62,28411,Staff of Incantation,120000,290000.0,3,1,Kasyadex,HL VOY/FAIRY DUST/EVA POWER/SEAL
 58.33,28035,Solar Shield,40000,95999.4,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
@@ -50,8 +51,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.8,25522,,149,322.48,3,4,DiscipleTwo,FREE 50brac|Frag|Coin|BP|PPS|Lig
 52.0,28446,Fire Sealed Bow of Evanescence,15000,31250.0,3,1,IronM4n,Cheap items HERE!!!!
 51.19,25427,Chest of Dark Swamp,5000,10243.9,3,1,Stellar,Stop N Shop
+50.72,26326,Elven Royal Signet,500,1014.56,11,1,Saladinstall,HunterTerouso
 50.57,30119,Vial of Consitution Reset,3500,7081.0,6,1,TuoTuo,Cleaning Bank
 50.07,25503,Magical Stone,200,400.52,6,99,xVENDOR1x,RUSH
 50.07,25503,Magical Stone,200,400.52,6,13,xVENDOR1x,RUSH
-50.05,26326,Elven Royal Signet,500,1000.9,13,1,Saladinstall,HunterTerouso
 50.01,28404,Earth Sealed Robe of Abraxas,3999,7999.33,3,1,Ludopat1n,Ring 50 spr Chaos rune n stuff
