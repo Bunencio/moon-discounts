@@ -3,10 +3,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,22030,Earth Rock,jajaaaaja,stuff u need,23,1600006.86,1599983.86,1,1599983.86,100.0,4
 2025-10-12,22030,Earth Rock,ShowerBro,afk,25,1600006.86,1599981.86,1,1599981.86,100.0,4
 2025-10-12,22014,Demonic Gem of Colossus,Lune,Sell crown of decend with 3 Con,24,700018.86,699994.86,2,1399989.71,100.0,4
+2025-10-12,28447,Bow of Evanescence,Lune,Sell crown of decend with 3 Con,14,985716.29,985702.29,1,985702.29,100.0,6
 2025-10-12,22009,Gem of Colossus,BENTAHE,CHEAP GEM OF COLO,22,981677.83,981655.83,1,981655.83,100.0,5
 2025-10-12,22009,Gem of Colossus,SSxConvict,UG COLO,23,981677.83,981654.83,1,981654.83,100.0,5
 2025-10-12,22009,Gem of Colossus,BV10,f,23,981677.83,981654.83,1,981654.83,100.0,5
-2025-10-12,28447,Bow of Evanescence,Lune,Sell crown of decend with 3 Con,14,941669.0,941655.0,1,941655.0,100.0,6
 2025-10-12,28136,Crown of Decendant,Killua#14,IMPS ONLY,8,812506.0,812498.0,1,812498.0,100.0,4
 2025-10-12,28136,Crown of Decendant,Lune,Sell crown of decend with 3 Con,16,812506.0,812490.0,1,812490.0,100.0,4
 2025-10-12,22014,Demonic Gem of Colossus,stallerx,Demo and ugems and more,24,700018.86,699994.86,1,699994.86,100.0,4
@@ -31,12 +31,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,28456,Ice Sealed Robe of the Sphinx,stallerx,Demo and ugems and more,1,25555.5,25554.5,1,25554.5,100.0,4
 2025-10-12,25431,Kal Runestone,ShowerBro,afk,20,390011.8,389991.8,3,1169975.4,99.99,3
 2025-10-12,22007,Gem of Striking,MapBK,S<striking 1.35k imp,135,1117863.07,1117728.07,1,1117728.07,99.99,5
-2025-10-12,30156,Jackpot Coin,Mikosita1,SELL JACKPOT BEST PRICES,1,8088.27,8087.27,99,800639.57,99.99,10
+2025-10-12,30156,Jackpot Coin,Mikosita1,SELL JACKPOT BEST PRICES,1,8093.0,8092.0,99,801108.48,99.99,9
 2025-10-12,26562,Cake,BLaCKMooN,garner,28,256481.59,256453.59,3,769360.77,99.99,3
 2025-10-12,25534,,buyme,FREE!,1,13958.42,13957.42,28,390807.76,99.99,6
 2025-10-12,26562,Cake,Shab7,cheeeeep pots potrs,100,256481.59,256381.59,55,14100987.44,99.96,3
 2025-10-12,2301,,Yennefer,PURSE SUN CLOUD CLERCAP FOF IBAR,5000,29999.5,24999.5,1,24999.5,83.33,7
-2025-10-12,28446,Fire Sealed Bow of Evanescence,IronM4n,Cheap items HERE!!!!,15000,51250.0,36250.0,1,36250.0,70.73,3
+2025-10-12,28440,Fire Sealed Roar of Evanescence,Nixm,Lv50 Items,5000,25799.8,20799.8,1,20799.8,80.62,4
+2025-10-12,28446,Fire Sealed Bow of Evanescence,IronM4n,Cheap items HERE!!!!,15000,48000.0,33000.0,1,33000.0,68.75,4
 2025-10-12,28429,Dance of Evanescence,Onigiri,ROLL,950000,2630000.0,1680000.0,1,1680000.0,63.88,4
 2025-10-12,26591,Potion of Lion,ZafirRose,rock/jade/pbs,1000,2486.34,1486.34,19,28240.45,59.78,13
 2025-10-12,25503,Magical Stone,xVENDOR1x,RUSH,200,484.51,284.51,99,28166.79,58.72,8
@@ -46,6 +47,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,28429,Dance of Evanescence,Magatah,DPWH CORRUPT,1200000,2630000.0,1430000.0,1,1430000.0,54.37,4
 2025-10-12,25506,Expert Scroll,dsadsa,weightless,500,989.67,489.67,73,35745.57,49.48,3
 2025-10-12,26594,Novice Explosive Ball,Cachexia,Sell Cheap items,250,473.97,223.97,140,31356.16,47.25,4
+2025-10-12,27019,Purple Pirate Scroll,xTrueHistory,Uns55ArmorcRUZ/JACKPOT/PPS/LBS,4000,6604.4,2604.4,12,31252.84,39.43,5
 2025-10-12,25507,Expert Stone,Yennefer,PURSE SUN CLOUD CLERCAP FOF IBAR,750,1196.31,446.31,99,44184.67,37.31,6
 2025-10-12,25507,Expert Stone,Yennefer,PURSE SUN CLOUD CLERCAP FOF IBAR,750,1196.31,446.31,91,40614.19,37.31,6
 2025-10-12,26589,Potion of Bull,MiLD,rrrr,1500,2388.26,888.26,65,57737.22,37.19,14
@@ -65,24 +67,22 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,22004,Shining Gem,STAII,Cheap UG and normals   pots!!!!!,3900,5818.94,1918.94,75,143920.75,32.98,5
 2025-10-12,22001,Furious Gem,STAII,Cheap UG and normals   pots!!!!!,1990,2847.54,857.54,68,58312.98,30.12,10
 2025-10-12,26590,Potion of Soul,LotokSell,UgColo DemoColo POTIOINS,2000,2756.88,756.88,45,34059.78,27.45,8
-2025-10-12,30022,Buffing Card,conqstall2,Buff race class moonheart pothcr,35000,46785.21,11785.21,6,70711.29,25.19,3
 2025-10-12,26588,Potion of Eagle,Juyii,POTIONS CHEAP,1888,2511.63,623.63,60,37417.91,24.83,11
 2025-10-12,25031,Refining Gem,AbyssMagic,ref dw chep,6300,8321.88,2021.88,10,20218.82,24.3,13
 2025-10-12,22006,Spirit Gem,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!,4888,6451.61,1563.61,16,25017.7,24.24,6
 2025-10-12,26591,Potion of Lion,Juyii,POTIONS CHEAP,1888,2486.34,598.34,35,20941.88,24.07,13
+2025-10-12,28447,Bow of Evanescence,Aurora,really good price,750000,985716.29,235716.29,1,235716.29,23.91,6
 2025-10-12,26575,Guardian's Brew,F0X01,Guardian Brew Best Price EVER,500,654.93,154.93,180,27887.03,23.66,7
 2025-10-12,23002,Iron Treasure,Hold01,ALOT OF SH1T,900,1176.65,276.65,99,27388.19,23.51,4
 2025-10-12,23002,Iron Treasure,Hold01,ALOT OF SH1T,900,1176.65,276.65,99,27388.19,23.51,4
-2025-10-12,27019,Purple Pirate Scroll,MatsBk,S>GPS/PPS/JC/RBS,4100,5341.85,1241.85,76,94380.54,23.25,5
 2025-10-12,25031,Refining Gem,Honey,--------  Pet  Fruits  ---------,6400,8321.88,1921.88,146,280594.72,23.09,13
 2025-10-12,22006,Spirit Gem,STAII,Cheap UG and normals   pots!!!!!,4990,6451.61,1461.61,62,90619.58,22.65,6
 2025-10-12,25031,Refining Gem,Hot,Take   my    Pet     Farm cheap,6500,8321.88,1821.88,195,355266.92,21.89,13
 2025-10-12,25031,Refining Gem,BankoDeOros,REF REF RED PBP,6500,8321.88,1821.88,12,21862.58,21.89,13
-2025-10-12,26592,Flash Bomb,Prinkally,CHEAP ITEMS RUSH!,888,1132.71,244.71,200,48942.46,21.6,9
+2025-10-12,26592,Flash Bomb,Prinkally,CHEAP ITEMS RUSH!,888,1131.16,243.16,200,48631.93,21.5,10
 2025-10-12,26588,Potion of Eagle,GeorgeFloyd,aaaa,2000,2511.63,511.63,200,102326.35,20.37,11
 2025-10-12,26588,Potion of Eagle,LotokSell,UgColo DemoColo POTIOINS,2000,2511.63,511.63,142,72651.71,20.37,11
 2025-10-12,26588,Potion of Eagle,shooter,bored of themcleanse 30% discout,2000,2511.63,511.63,53,27116.48,20.37,11
-2025-10-12,28447,Bow of Evanescence,Aurora,really good price,750000,941669.0,191669.0,1,191669.0,20.35,6
 2025-10-12,28326,Divine Grace Cap,Merchanty,Divine Cap +Spr|Salmon|FairyDust,149990,187497.5,37507.5,1,37507.5,20.0,4
 2025-10-12,26591,Potion of Lion,LotokSell,UgColo DemoColo POTIOINS,2000,2486.34,486.34,42,20426.26,19.56,13
 2025-10-12,30168,Gyoza,LotokSell,UgColo DemoColo POTIOINS,17000,20905.13,3905.13,7,27335.92,18.68,5
@@ -104,12 +104,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,25493,Orange Colorant,hahahehehoho,All colorants,4000,4655.17,655.17,75,49137.93,14.07,3
 2025-10-12,30102,1000 Reputation Scroll,CheapestASF,Ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,6250,7195.21,945.21,26,24575.39,13.14,7
 2025-10-12,26578,Aegis Brew,Systembuff,Aegis+Sealeds,44444,51148.68,6704.68,13,87160.81,13.11,4
-2025-10-12,26592,Flash Bomb,Honey,--------  Pet  Fruits  ---------,999,1132.71,133.71,159,21260.26,11.8,9
+2025-10-12,26592,Flash Bomb,Honey,--------  Pet  Fruits  ---------,999,1131.16,132.16,159,21013.38,11.68,10
 2025-10-12,25031,Refining Gem,ESNAIDER,SELL JACKPOT/GPS/REF/PBS,7500,8321.88,821.88,91,74791.23,9.88,13
 2025-10-12,25031,Refining Gem,dada4,Elven Signet's,7500,8321.88,821.88,50,41094.08,9.88,13
 2025-10-12,30102,1000 Reputation Scroll,SvckMe,Y O U R S,6499,7195.21,696.21,30,20886.22,9.68,7
 2025-10-12,27025,Radiation Lv1,verkeufer,EL QUE NO COMPRE ES GAY!!!!!!!!!,2190,2418.08,228.08,200,45616.01,9.43,4
-2025-10-12,28443,Coat of Evanescence,Prinkally,CHEAP ITEMS RUSH!,800000,875000.0,75000.0,1,75000.0,8.57,3
+2025-10-12,28443,Coat of Evanescence,Prinkally,CHEAP ITEMS RUSH!,800000,870000.0,70000.0,1,70000.0,8.05,3
 2025-10-12,26573,Demonic Potion,GordanRamsay,Cheapest Bless   Demonics !!!!!!,16500,17927.26,1427.26,27,38535.91,7.96,5
 2025-10-12,25091,Heavy Crystal,conqstall2,Buff race class moonheart pothcr,3000,3203.43,203.43,99,20139.74,6.35,3
 2025-10-12,30157,Iron Bar,Kais,Seal Master lvl 55 UNS and more,110000,117000.0,7000.0,5,35000.0,5.98,3
@@ -120,8 +120,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-12,26346,Lantern,Babi01,TY,4333,4571.29,238.29,90,21446.26,5.21,7
 2025-10-12,25433,Blessed Runestone,Pineapple,BLESS,800000,826666.33,26666.33,2,53332.67,3.23,4
 2025-10-12,25433,Blessed Runestone,WindSlash,Blessed Runestone/Scrolls/royal,799999,826666.33,26667.33,1,26667.33,3.23,4
-2025-10-12,28443,Coat of Evanescence,Jhoa,PPS/PBS/COAT SS/POTION/FLAS B/RE,850000,875000.0,25000.0,1,25000.0,2.86,3
-2025-10-12,28443,Coat of Evanescence,Aurora,really good price,850000,875000.0,25000.0,1,25000.0,2.86,3
-2025-10-12,30139,100x Crystal,Rambo,Imps,98000,100714.29,2714.29,45,122142.86,2.7,3
-2025-10-12,30139,100x Crystal,Perversu,IMPS Cheap + Cleaning Bank,98000,100714.29,2714.29,10,27142.86,2.7,3
-2025-10-12,30139,100x Crystal,Goon,SELL IMPS,100000,100714.29,714.29,31,22142.86,0.71,3
+2025-10-12,30139,100x Crystal,Rambo,Imps,98000,100780.49,2780.49,45,125121.95,2.76,3
+2025-10-12,28443,Coat of Evanescence,Jhoa,PPS/PBS/COAT SS/POTION/FLAS B/RE,850000,870000.0,20000.0,1,20000.0,2.3,3
+2025-10-12,28443,Coat of Evanescence,DuRafa,Armor ss coat 55 uns evanesce,850000,870000.0,20000.0,1,20000.0,2.3,3
+2025-10-12,28443,Coat of Evanescence,Aurora,really good price,850000,870000.0,20000.0,1,20000.0,2.3,3
+2025-10-12,30139,100x Crystal,Goon,SELL IMPS,100000,100780.49,780.49,31,24195.12,0.77,3

@@ -21,7 +21,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28136,Crown of Decendant,8,812506.0,4,1,Killua#14,IMPS ONLY
 100.0,28136,Crown of Decendant,16,812506.0,4,1,Lune,Sell crown of decend with 3 Con
 100.0,28326,Divine Grace Cap,1,187497.5,4,1,stallerx,Demo and ugems and more
-100.0,28447,Bow of Evanescence,14,941669.0,6,1,Lune,Sell crown of decend with 3 Con
+100.0,28447,Bow of Evanescence,14,985716.29,6,1,Lune,Sell crown of decend with 3 Con
 100.0,28456,Ice Sealed Robe of the Sphinx,1,25555.5,4,1,stallerx,Demo and ugems and more
 100.0,28458,Ice Sealed Staff of the Sphinx,1,31111.33,3,1,stallerx,Demo and ugems and more
 100.0,28468,Ice Sealed Mantle of Enigma,1,65000.25,3,1,Killua#47,IMPS ONLY
@@ -35,21 +35,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,26562,Cake,28,256481.59,3,3,BLaCKMooN,garner
 99.99,28464,Ice Sealed Tattoo of Enigma,1,16250.25,3,1,stallerx,Demo and ugems and more
 99.99,28464,Ice Sealed Tattoo of Enigma,1,16250.25,3,1,stallerx,Demo and ugems and more
-99.99,30156,Jackpot Coin,1,8088.27,10,99,Mikosita1,SELL JACKPOT BEST PRICES
-99.99,30156,Jackpot Coin,1,8088.27,10,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,30156,Jackpot Coin,1,8093.0,9,99,Mikosita1,SELL JACKPOT BEST PRICES
+99.99,30156,Jackpot Coin,1,8093.0,9,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.96,26562,Cake,100,256481.59,3,55,Shab7,cheeeeep pots potrs
 92.62,25439,Incantation Stone,98,1328.25,3,6,Spiritus,fb/pots
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
 83.33,2301,,5000,29999.5,7,1,Yennefer,PURSE SUN CLOUD CLERCAP FOF IBAR
 82.44,22001,Furious Gem,500,2847.54,10,1,SellerPirate,stuff
 82.44,22001,Furious Gem,500,2847.54,10,1,TocoDeJegue,Detector - Flash - Grenade lv2
+80.62,28440,Fire Sealed Roar of Evanescence,5000,25799.8,4,1,Nixm,Lv50 Items
 79.89,26591,Potion of Lion,500,2486.34,13,1,TocoDeJegue,Detector - Flash - Grenade lv2
 79.06,26589,Potion of Bull,500,2388.26,14,1,TocoDeJegue,Detector - Flash - Grenade lv2
-77.61,28440,Fire Sealed Roar of Evanescence,5000,22333.17,4,1,Nixm,Lv50 Items
-77.61,28440,Fire Sealed Roar of Evanescence,5000,22333.17,4,1,Nixm,Lv50 Items
-70.73,28446,Fire Sealed Bow of Evanescence,15000,51250.0,3,1,IronM4n,Cheap items HERE!!!!
+68.75,28446,Fire Sealed Bow of Evanescence,15000,48000.0,4,1,IronM4n,Cheap items HERE!!!!
 66.67,2301,,10000,29999.5,7,1,CaloNord,de todo
 63.88,28429,Dance of Evanescence,950000,2630000.0,4,1,Onigiri,ROLL
+63.18,28440,Fire Sealed Roar of Evanescence,9500,25799.8,4,1,bowstalls,lv40-50-60-65 gear 3Pages
+63.18,28440,Fire Sealed Roar of Evanescence,9500,25799.8,4,1,bowstalls,lv40-50-60-65 gear 3Pages
 62.81,25440,Evanescence Stone,500,1344.59,3,4,vendedolmax,2000
 62.78,25499,Purple Colorant,900,2418.18,3,3,CaloNord,de todo
 60.19,26588,Potion of Eagle,1000,2511.63,11,1,.Ace,PPS/PBP/RBP/POTS/Pharaoh gem
@@ -62,6 +63,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.21,26589,Potion of Bull,998,2388.26,14,1,PpsBps,0 003% shields cheap !
 58.2,25507,Expert Stone,500,1196.31,6,12,AAA123,123131331313131313
 58.2,25507,Expert Stone,500,1196.31,6,99,AAA123,123131331313131313
-57.46,28440,Fire Sealed Roar of Evanescence,9500,22333.17,4,1,bowstalls,lv40-50-60-65 gear 3Pages
-57.46,28440,Fire Sealed Roar of Evanescence,9500,22333.17,4,1,bowstalls,lv40-50-60-65 gear 3Pages
 54.37,28429,Dance of Evanescence,1200000,2630000.0,4,1,Magatah,DPWH CORRUPT
