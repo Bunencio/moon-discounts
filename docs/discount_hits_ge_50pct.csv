@@ -8,7 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22030,Earth Rock,25,1600006.86,4,1,ShowerBro,afk
 100.0,22030,Earth Rock,23,1600006.86,4,1,jajaaaaja,stuff u need
 100.0,25426,Universe Purse Fragment.,5,151001.0,5,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25431,Kal Runestone,11,330011.67,4,1,Kais,Bodega Don Loro
+100.0,25431,Kal Runestone,20,496676.33,3,3,ShowerBro,afk
 100.0,25451,Jade Gem Fragment,1,36147.53,6,2,Goliat,Fragment Store
 100.0,25451,Jade Gem Fragment,1,36147.53,6,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,36147.53,6,9,monchito1,m.o.t.a
@@ -18,14 +18,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28447,Bow of Evanescence,14,812503.5,4,1,Lune,Sell crown of decend with 3 Con
 100.0,29310,Ring of Hawk,5,366668.33,3,1,jajaaaaja,stuff u need
 100.0,29310,Ring of Hawk,5,366668.33,3,1,jajaaaaja,stuff u need
-100.0,30157,Iron Bar,2,64601.0,3,5,Kais,Bodega Don Loro
 99.99,22007,Gem of Striking,135,1204005.36,3,1,MapBK,S<striking 1.35k imp
-99.99,25431,Kal Runestone,20,330011.67,4,3,ShowerBro,afk
-99.99,30156,Jackpot Coin,1,10251.8,9,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
-99.98,26346,Lantern,1,4692.79,6,7,Everest,lANTERN
+99.99,30156,Jackpot Coin,1,9833.86,10,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
-80.8,22001,Furious Gem,500,2603.64,8,1,SellerPirate,stuff
-80.8,22001,Furious Gem,500,2603.64,8,1,TocoDeJegue,Detector - Flash -potion-weight
+82.49,22001,Furious Gem,500,2855.13,9,1,SellerPirate,stuff
+82.49,22001,Furious Gem,500,2855.13,9,1,TocoDeJegue,Detector - Flash -potion-weight
 78.42,28440,Fire Sealed Roar of Evanescence,5000,23166.5,4,1,Nixm,Lv50 Items
 78.42,28440,Fire Sealed Roar of Evanescence,5000,23166.5,4,1,Nixm,Lv50 Items
 78.02,28132,Voyager Cap,5000,22749.88,6,1,STALLING11,VOYAGERS ITEMS
@@ -33,20 +30,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.1,28458,Ice Sealed Staff of the Sphinx,9999,35833.0,4,1,BjornIronside,APROVECHA YA
 68.0,28446,Fire Sealed Bow of Evanescence,10000,31250.0,3,1,Nixm,Lv50 Items
 62.78,25499,Purple Colorant,900,2418.18,3,3,CaloNord,de todo
-60.01,25507,Expert Stone,433,1082.75,9,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
-60.01,25507,Expert Stone,433,1082.75,9,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
-60.01,25507,Expert Stone,433,1082.75,9,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
+59.58,26591,Potion of Lion,1000,2474.25,11,19,ZafirRose,rock/gps/jade
+59.58,26591,Potion of Lion,1000,2474.25,11,1,TocoDeJegue,Detector - Flash -potion-weight
+59.38,25507,Expert Stone,500,1231.02,8,12,AAA123,123131331313131313
+59.38,25507,Expert Stone,500,1231.02,8,99,AAA123,123131331313131313
 58.99,28440,Fire Sealed Roar of Evanescence,9500,23166.5,4,1,bowstalls,lv40-50-60-65 gear 3Pages
 58.99,28440,Fire Sealed Roar of Evanescence,9500,23166.5,4,1,bowstalls,lv40-50-60-65 gear 3Pages
 58.65,25499,Purple Colorant,1000,2418.18,3,1,Brum,Hi
 58.33,28035,Solar Shield,40000,95999.4,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
-56.28,26589,Potion of Bull,998,2282.71,15,1,PpsBps,0 003% shields cheap !
-56.19,26589,Potion of Bull,1000,2282.71,15,1,TocoDeJegue,Detector - Flash -potion-weight
-54.31,26591,Potion of Lion,1000,2188.85,11,19,ZafirRose,rock/gps/jade
-54.31,26591,Potion of Lion,1000,2188.85,11,1,TocoDeJegue,Detector - Flash -potion-weight
-53.82,25507,Expert Stone,500,1082.75,9,12,AAA123,123131331313131313
-53.82,25507,Expert Stone,500,1082.75,9,99,AAA123,123131331313131313
+58.03,26589,Potion of Bull,998,2377.77,15,1,PpsBps,0 003% shields cheap !
+57.94,26589,Potion of Bull,1000,2377.77,15,1,TocoDeJegue,Detector - Flash -potion-weight
 53.78,25522,,149,322.34,3,4,DiscipleTwo,FREE 50brac|Frag|Coin|BP|PPS|Lig
 52.0,28446,Fire Sealed Bow of Evanescence,15000,31250.0,3,1,IronM4n,Cheap items HERE!!!!
+50.57,30119,Vial of Consitution Reset,3500,7081.0,6,1,TuoTuo,Cleaning Bank
 50.48,26326,Elven Royal Signet,500,1009.74,12,1,Saladinstall,HunterTerouso
 50.01,28404,Earth Sealed Robe of Abraxas,3999,7999.33,3,1,Ludopat1n,Ring 50 spr Chaos rune n stuff
