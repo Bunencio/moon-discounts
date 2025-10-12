@@ -3,6 +3,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,20,523766.0,4,3,Lune,Sell
 100.0,22009,Gem of Colossus,23,523766.0,4,1,BENTAHE,GEM OF COLO CHEAP
 100.0,22009,Gem of Colossus,23,523766.0,4,1,SSxConvict,UG Colo   Fire Rock
+100.0,22010,Gem of Rage,27,1198900.89,4,4,Sysh,S> RAGE / DEMO RAGE
 100.0,22021,Yellow Jade,20,1080006.67,3,1,ShowerBro,afk
 100.0,22026,Golden Rock,25,1516675.0,3,1,Asterix,lumber/golden
 100.0,22031,Aegis Rock,19,1328003.8,4,1,Donaldy*,CHEAP AEGIS ROCK + GEM WIND !!!
@@ -12,7 +13,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28136,Crown of Decendant,16,725004.0,4,1,Lune,Sell
 100.0,28447,Bow of Evanescence,15,812503.75,4,1,Vneidnha,pet acc death cap bow ss acc cap
 99.99,22007,Gem of Striking,135,1214449.41,5,1,MapBK,S<striking 1.35k imp
-99.99,30156,Jackpot Coin,1,9002.53,8,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,30156,Jackpot Coin,1,9006.29,8,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,26346,Lantern,1,4473.28,10,7,Everest,lANTERN
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
 81.33,28458,Ice Sealed Staff of the Sphinx,5000,26777.4,5,1,Vendedor,Promotion cruz
@@ -26,7 +27,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.66,28458,Ice Sealed Staff of the Sphinx,9999,26777.4,5,1,BjornIronside,APROVECHA YA
 61.45,25440,Evanescence Stone,1000,2593.73,4,11,Fortis,All cheap
 60.67,28430,Fire Sealed Robe of Malediction,1999,5082.56,7,1,TheMystic,- NICE STUFF -
-60.41,26588,Potion of Eagle,1000,2526.03,9,1,TocoDeJegue,Detector - Flash -potion-weight
+60.3,26588,Potion of Eagle,1000,2518.92,10,1,TocoDeJegue,Detector - Flash -potion-weight
 59.94,22001,Furious Gem,1000,2496.12,8,1,CaloNord,de todo
 58.73,26001,Ninja Coin,200,484.64,3,7,pisslow,Com Freeeeeeeeee ?>?><?<>??<?><?
 58.65,25499,Purple Colorant,1000,2418.18,3,1,Brum,Hi
@@ -35,13 +36,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.34,25507,Expert Stone,477,1118.18,8,99,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 57.34,25507,Expert Stone,477,1118.18,8,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
 56.1,28429,Dance of Evanescence,600000,1366666.67,6,1,michaeng7777,1
-55.78,26589,Potion of Bull,1000,2261.39,13,1,TocoDeJegue,Detector - Flash -potion-weight
+55.7,26589,Potion of Bull,1000,2257.5,13,1,TocoDeJegue,Detector - Flash -potion-weight
 55.32,28446,Fire Sealed Bow of Evanescence,15000,33571.43,5,1,IronM4n,Cheap items HERE!!!!
 55.32,28446,Fire Sealed Bow of Evanescence,15000,33571.43,5,1,iLegolas,Refs GPs PPs CookinCard Sealed50
 55.28,25507,Expert Stone,500,1118.18,8,12,AAA123,123131331313131313
 55.28,25507,Expert Stone,500,1118.18,8,99,AAA123,123131331313131313
-55.22,26591,Potion of Lion,1000,2233.25,11,1,TocoDeJegue,Detector - Flash -potion-weight
-55.22,26591,Potion of Lion,1000,2233.25,11,1,BinMakarios,FB/IslandCard/Pots/ExpCard/RedBP
+54.99,26591,Potion of Lion,1000,2221.74,11,1,TocoDeJegue,Detector - Flash -potion-weight
+54.99,26591,Potion of Lion,1000,2221.74,11,1,BinMakarios,FB/IslandCard/Pots/ExpCard/RedBP
 53.82,25439,Incantation Stone,1000,2165.4,5,6,Fortis,All cheap
 52.76,28440,Fire Sealed Roar of Evanescence,5000,10583.17,4,1,Nixm,Lv50 Items
 52.76,28440,Fire Sealed Roar of Evanescence,5000,10583.17,4,1,Nixm,Lv50 Items
