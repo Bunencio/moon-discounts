@@ -1,6 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,22,1178008.8,5,1,BENTAHE,CHEAP GEM OF COLO
-100.0,22009,Gem of Colossus,23,1178008.8,5,1,BV10,f
+100.0,22009,Gem of Colossus,22,981677.83,5,1,BENTAHE,CHEAP GEM OF COLO
+100.0,22009,Gem of Colossus,23,981677.83,5,1,SSxConvict,UG COLO
+100.0,22009,Gem of Colossus,23,981677.83,5,1,BV10,f
 100.0,22014,Demonic Gem of Colossus,30,816684.67,4,1,Seraphim,gemz
 100.0,22014,Demonic Gem of Colossus,24,816684.67,4,2,Lune,Sell crown of decend with 3 Con
 100.0,22014,Demonic Gem of Colossus,30,816684.67,4,1,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
@@ -16,16 +17,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,2,42232.64,10,12,monchito1,m.o.t.a
 100.0,28447,Bow of Evanescence,14,812503.5,4,1,Lune,Sell crown of decend with 3 Con
 100.0,30157,Iron Bar,2,64601.0,3,5,Kais,Bodega Don Loro
-99.99,22007,Gem of Striking,135,1201928.23,4,1,MapBK,S<striking 1.35k imp
+99.99,22007,Gem of Striking,135,1204005.36,3,1,MapBK,S<striking 1.35k imp
 99.99,25431,Kal Runestone,20,330011.67,4,3,ShowerBro,afk
-99.99,30156,Jackpot Coin,1,10240.46,11,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,30156,Jackpot Coin,1,10166.44,9,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,26346,Lantern,1,4692.79,6,7,Everest,lANTERN
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
 80.8,22001,Furious Gem,500,2603.64,8,1,SellerPirate,stuff
 80.8,22001,Furious Gem,500,2603.64,8,1,TocoDeJegue,Detector - Flash -potion-weight
 78.02,28132,Voyager Cap,5000,22749.88,6,1,STALLING11,VOYAGERS ITEMS
 76.05,2301,,10000,41749.55,7,1,CaloNord,de todo
-70.4,28458,Ice Sealed Staff of the Sphinx,9999,33777.4,5,1,BjornIronside,APROVECHA YA
+72.1,28458,Ice Sealed Staff of the Sphinx,9999,35833.0,4,1,BjornIronside,APROVECHA YA
 68.0,28446,Fire Sealed Bow of Evanescence,10000,31250.0,3,1,Nixm,Lv50 Items
 62.78,25499,Purple Colorant,900,2418.18,3,3,CaloNord,de todo
 60.01,25507,Expert Stone,433,1082.75,9,61,KisZsido,CHEAPEST SHT IN THE TOWNNN!!!!!!
@@ -34,10 +35,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.65,25499,Purple Colorant,1000,2418.18,3,1,Brum,Hi
 58.33,28035,Solar Shield,40000,95999.4,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
 57.48,28440,Fire Sealed Roar of Evanescence,4500,10583.17,4,1,Skills,o_0   Free    *_*    Free   0_o
-56.56,26589,Potion of Bull,998,2297.26,15,1,PpsBps,0 003% shields cheap !
-56.47,26589,Potion of Bull,1000,2297.26,15,1,TocoDeJegue,Detector - Flash -potion-weight
-54.92,26591,Potion of Lion,1000,2218.46,10,19,ZafirRose,rock/gps/jade
-54.92,26591,Potion of Lion,1000,2218.46,10,1,TocoDeJegue,Detector - Flash -potion-weight
+56.64,26589,Potion of Bull,998,2301.9,15,1,PpsBps,0 003% shields cheap !
+56.56,26589,Potion of Bull,1000,2301.9,15,1,TocoDeJegue,Detector - Flash -potion-weight
+55.34,26591,Potion of Lion,1000,2238.99,10,19,ZafirRose,rock/gps/jade
+55.34,26591,Potion of Lion,1000,2238.99,10,1,TocoDeJegue,Detector - Flash -potion-weight
 53.82,25507,Expert Stone,500,1082.75,9,12,AAA123,123131331313131313
 53.82,25507,Expert Stone,500,1082.75,9,99,AAA123,123131331313131313
 53.78,25522,,149,322.34,3,4,DiscipleTwo,FREE 50brac|Frag|Coin|BP|PPS|Lig
