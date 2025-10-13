@@ -1,11 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,23,997511.0,4,1,BV10,F
 100.0,22009,Gem of Colossus,22,997511.0,4,1,BENTAHE,CHEAP GEM OF COLO
-100.0,22014,Demonic Gem of Colossus,24,992323.38,5,2,Lune,Crown +3con wind demo colo
-100.0,22014,Demonic Gem of Colossus,24,992323.38,5,1,stallerx,Demo and ugems and more
-100.0,22014,Demonic Gem of Colossus,24,992323.38,5,3,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,22014,Demonic Gem of Colossus,30,992323.38,5,1,Seraphim,ss
-100.0,22014,Demonic Gem of Colossus,30,992323.38,5,1,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,22014,Demonic Gem of Colossus,24,1075015.0,5,2,Lune,Crown +3con wind demo colo
+100.0,22014,Demonic Gem of Colossus,24,1075015.0,5,3,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,22014,Demonic Gem of Colossus,30,1075015.0,5,1,Seraphim,ss
+100.0,22014,Demonic Gem of Colossus,30,1075015.0,5,1,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,22030,Earth Rock,25,1600006.86,4,1,ShowerBro,afk
 100.0,22030,Earth Rock,23,1600006.86,4,1,jajaaaaja,ROCKS
 100.0,22434,,13,472005.2,3,2,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
@@ -17,35 +16,31 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,45537.3,9,1,Xiomarvic,Itms Free Help me
 100.0,25451,Jade Gem Fragment,1,45537.3,9,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,45537.3,9,9,monchito1,m.o.t.a
-100.0,25452,Rock Gem Fragment,2,46340.47,7,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,46340.47,7,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25452,Rock Gem Fragment,2,46340.47,7,12,monchito1,m.o.t.a
-100.0,25525,,9,699999.79,4,1,Xiomarvic,Itms Free Help me
+100.0,25452,Rock Gem Fragment,1,38985.0,8,10,yuiy78,Jade/Chaos Rune/Frag/Rock
+100.0,25525,,6,523612.28,5,8,yuiy78,Jade/Chaos Rune/Frag/Rock
+100.0,25525,,9,523612.28,5,1,Xiomarvic,Itms Free Help me
+100.0,25527,,8,381671.11,4,5,yuiy78,Jade/Chaos Rune/Frag/Rock
 100.0,26585,Blessed Potion,1,91774.37,7,5,sellerrr,BLESS 100 X IMP
-100.0,27020,Gold Pirate Scroll,1,23416.36,8,3,Leviac,cheap stall
-100.0,28326,Divine Grace Cap,1,187497.5,4,1,stallerx,Demo and ugems and more
+100.0,27020,Gold Pirate Scroll,1,22347.39,8,3,Leviac,cheap stall
 100.0,28417,Corset of Incantation,1,58333.67,3,1,Leviac,cheap stall
 100.0,28421,Bow of Incantation,2,57503.75,4,1,Leviac,cheap stall
 100.0,28447,Bow of Evanescence,11,978572.86,7,1,Lune,Crown +3con wind demo colo
-100.0,28468,Ice Sealed Mantle of Enigma,1,52001.8,4,1,Killua#47,IMPS ONY
-100.0,29310,Ring of Hawk,5,290001.8,3,1,Killua#47,IMPS ONY
-100.0,29310,Ring of Hawk,5,290001.8,3,1,Killua#47,IMPS ONY
-100.0,29310,Ring of Hawk,5,290001.8,3,1,jajaaaaja,ROCKS
-100.0,29310,Ring of Hawk,5,290001.8,3,1,jajaaaaja,ROCKS
+100.0,29310,Ring of Hawk,5,362501.0,3,1,jajaaaaja,ROCKS
+100.0,29310,Ring of Hawk,5,362501.0,3,1,jajaaaaja,ROCKS
 99.99,22007,Gem of Striking,135,1203851.31,4,1,MapBK,S<striking 1.35k imp
-99.99,28456,Ice Sealed Robe of the Sphinx,1,14305.5,4,1,stallerx,Demo and ugems and more
-99.99,28458,Ice Sealed Staff of the Sphinx,1,12407.67,3,1,stallerx,Demo and ugems and more
-99.99,28462,Ice Sealed Staff of Enigma,3,25000.75,4,1,Killua#24,IMPS ONLY
-99.99,30156,Jackpot Coin,1,8950.17,10,99,Mikosita1,SELL JACKPOT
-99.99,30156,Jackpot Coin,1,8950.17,10,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,25452,Rock Gem Fragment,2,38985.0,8,1,Goliat,Fragment Store
+99.99,25452,Rock Gem Fragment,2,38985.0,8,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+99.99,25452,Rock Gem Fragment,2,38985.0,8,12,monchito1,m.o.t.a
+99.99,28468,Ice Sealed Mantle of Enigma,8,65002.0,3,1,Vanny,ring of spell sealed ss 45uns bo
+99.99,30156,Jackpot Coin,1,8959.54,11,99,Mikosita1,SELL JACKPOT
+99.99,30156,Jackpot Coin,1,8959.54,11,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 99.98,28421,Bow of Incantation,13,57503.75,4,1,Vanny,ring of spell sealed ss 45uns bo
-99.98,28468,Ice Sealed Mantle of Enigma,8,52001.8,4,1,Vanny,ring of spell sealed ss 45uns bo
 88.51,25497,Blue Colorant,450,3915.83,3,1,cheapstuffguys,cheap
 88.07,2301,,5000,41922.85,5,1,Yennefer,PURSE SUN CLOUD CLERCAP FOF IBAR
 81.35,22001,Furious Gem,500,2680.56,11,1,SellerPirate,stuff
 80.33,28035,Solar Shield,9999,50832.5,4,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 80.13,26594,Novice Explosive Ball,100,503.26,5,2,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
-78.29,26589,Potion of Bull,500,2303.02,13,1,TocoDeJegue,Soul - Roar - Grenade
+78.17,26589,Potion of Bull,500,2290.21,14,1,TocoDeJegue,Soul - Roar - Grenade
 77.08,30121,Vial of Accuracy Reset,1111,4848.23,7,11,NainBASTARD,++
 75.55,30119,Vial of Consitution Reset,1111,4544.0,7,13,NainBASTARD,++
 71.97,25080,Iron Ore,20,71.36,4,99,Ckuis,garner
@@ -53,7 +48,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.96,25258,Spirit Feather,199,709.65,5,80,LunaMaya,S>Fb Grenade HiddenHoneyLambSkul
 71.77,25439,Incantation Stone,350,1240.0,3,16,WindSeal,Demonic Rock/Engima power/stones
 70.49,28035,Solar Shield,14999,50832.5,4,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
-69.61,26589,Potion of Bull,700,2303.02,13,1,xTrueHistory,Imps/LBS/Jackpot/GPS/pots
+69.44,26589,Potion of Bull,700,2290.21,14,1,xTrueHistory,Imps/LBS/Jackpot/GPS/pots
 68.42,28446,Fire Sealed Bow of Evanescence,15000,47500.0,4,1,IronM4n,Cheap items HERE!!!!
 65.65,30122,Vial of Spirit Reset,1111,3234.0,6,18,NainBASTARD,++
 64.7,28436,Fire Sealed Staff of Evanescence,5000,14166.17,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
@@ -64,15 +59,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.16,22000,FieryGem,1111,2860.21,9,34,NainBASTARD,++
 59.82,28434,Fire Sealed Robe of the Arcane,14999,37333.17,4,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 58.55,22001,Furious Gem,1111,2680.56,11,31,NainBASTARD,++
-58.4,25507,Expert Stone,500,1201.98,6,99,AAA123,12313131311
-58.4,25507,Expert Stone,500,1201.98,6,12,AAA123,12313131311
+57.97,25507,Expert Stone,500,1189.5,6,99,AAA123,12313131311
+57.97,25507,Expert Stone,500,1189.5,6,12,AAA123,12313131311
 57.87,25258,Spirit Feather,299,709.65,5,3,DiscipleTwo,50brac|2socket2spr65hat|BPs|Coin
 57.14,28403,Blade of Incantation,150000,350000.0,4,1,lowkey123,CRUSADER ITEMS VERY CHEAP!!!
 57.14,28403,Blade of Incantation,150000,350000.0,4,1,lowkey123,CRUSADER ITEMS VERY CHEAP!!!
-53.64,26591,Potion of Lion,1111,2396.26,10,27,Systembuff,UgWind/Lumber++
+53.26,26591,Potion of Lion,1111,2377.0,11,27,Systembuff,UgWind/Lumber++
 52.81,22004,Shining Gem,2222,4708.58,6,71,NainBASTARD,++
-52.25,26588,Potion of Eagle,1111,2326.78,13,19,Systembuff,UgWind/Lumber++
-51.76,26589,Potion of Bull,1111,2303.02,13,26,Systembuff,UgWind/Lumber++
+52.2,26588,Potion of Eagle,1111,2324.42,14,19,Systembuff,UgWind/Lumber++
+51.49,26589,Potion of Bull,1111,2290.21,14,26,Systembuff,UgWind/Lumber++
 51.47,25522,,150,309.11,4,15,Ckuis,garner
 50.52,26594,Novice Explosive Ball,249,503.26,5,42,Heracles,Cheapest in Market
 50.32,26594,Novice Explosive Ball,250,503.26,5,32,Wallnut,Corner Shop
