@@ -1,13 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,13,1202083.83,3,1,MapBK,S>Gem of striking 1.3k
-100.0,22008,Gem of the Wind,11,420006.8,4,2,Lune,Crown +3con wind demo colo
-100.0,22008,Gem of the Wind,12,420006.8,4,1,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,22009,Gem of Colossus,21,981677.17,5,1,BENTAHE,GEM OF COLO
 100.0,22009,Gem of Colossus,23,981677.17,5,1,BV10,F
 100.0,22009,Gem of Colossus,21,981677.17,5,1,Guardian,GEMS
-100.0,22010,Gem of Rage,21,562517.17,6,3,Killua#24,IMPS ONLY
-100.0,22010,Gem of Rage,22,562517.17,6,2,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,22010,Gem of Rage,25,562517.17,6,4,Sysh,SELL RAGE / DEMO RAGE
 100.0,22011,Gemof Sout,20,415016.5,4,2,Guardian,GEMS
 100.0,22014,Demonic Gem of Colossus,30,992323.31,6,1,Seraphim,sss
 100.0,22014,Demonic Gem of Colossus,24,992323.31,6,2,Lune,Crown +3con wind demo colo
@@ -49,7 +44,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,29310,Ring of Hawk,50,268579.71,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.97,29308,Ring of Valor,19,68007.2,3,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.97,29308,Ring of Valor,19,68007.2,3,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.97,30157,Iron Bar,20,74673.0,4,5,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.97,30157,Iron Bar,20,65463.55,4,5,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 88.51,25497,Blue Colorant,450,3915.83,3,1,cheapstuffguys,cheap
 81.37,22001,Furious Gem,500,2684.25,9,1,SellerPirate,stuff
 80.33,28035,Solar Shield,9999,50832.5,4,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
@@ -62,13 +57,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.14,25258,Spirit Feather,199,689.63,4,80,LunaMaya,S>HullRepair PPS PBS FairyFood
 71.14,25258,Spirit Feather,199,689.63,4,3,DiscipleTwo,CHEAPEST 50brac|OPclerSprHat|BPs
 70.49,28035,Solar Shield,14999,50832.5,4,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
-68.42,28446,Fire Sealed Bow of Evanescence,15000,47500.0,4,1,IronM4n,Cheap items HERE!!!!
 66.03,29002,Green Statue,500,1471.88,4,3,Tomikosan,Purple/ Acc boot/ Green statue
+65.56,28440,Fire Sealed Roar of Evanescence,6500,18874.75,3,1,Nixm,Cheap Lv50 Items
 65.38,30122,Vial of Spirit Reset,1111,3209.29,5,18,NainBASTARD,++
-64.7,28436,Fire Sealed Staff of Evanescence,5000,14166.17,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
+63.64,28442,Fire Sealed Coat of Evanescence,13000,35750.0,3,1,Nixm,Cheap Lv50 Items
+63.64,28442,Fire Sealed Coat of Evanescence,13000,35750.0,3,1,Nixm,Cheap Lv50 Items
+63.64,28442,Fire Sealed Coat of Evanescence,13000,35750.0,3,1,Nixm,Cheap Lv50 Items
 63.54,25440,Evanescence Stone,500,1371.43,3,2,vendedolmax,2000
+63.41,28446,Fire Sealed Bow of Evanescence,15000,41000.0,4,1,Nixm,Cheap Lv50 Items
+63.41,28446,Fire Sealed Bow of Evanescence,15000,41000.0,4,1,IronM4n,Cheap items HERE!!!!
 62.75,22001,Furious Gem,1000,2684.25,9,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
 62.75,22001,Furious Gem,1000,2684.25,9,1,Lja,garner
+61.9,28436,Fire Sealed Staff of Evanescence,5000,13124.62,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
 61.81,22000,FieryGem,1111,2909.51,11,34,NainBASTARD,++
 61.63,28411,Staff of Incantation,110000,286666.33,3,1,Kasyadex,HLVOY/FAIRY DUST/EVA POWER/SEALS
 59.82,28434,Fire Sealed Robe of the Arcane,14999,37333.17,4,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
