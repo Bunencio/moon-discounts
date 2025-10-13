@@ -40,9 +40,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22014,Demonic Gem of Colossus,30,480020.4,4,1,Seraphim,ss
 99.99,22014,Demonic Gem of Colossus,30,480020.4,4,1,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 99.99,25431,Kal Runestone,20,331678.17,4,3,ShowerBro,afk
-99.99,25534,,1,13296.17,9,28,buyme,FREE!
-99.99,30156,Jackpot Coin,1,8216.53,11,99,Mikosita1,SELL JACKPOT
-99.99,30156,Jackpot Coin,1,8216.53,11,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,25534,,1,13326.0,9,28,buyme,FREE!
+99.99,30156,Jackpot Coin,1,8220.75,11,99,Mikosita1,SELL JACKPOT
+99.99,30156,Jackpot Coin,1,8220.75,11,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
 89.31,2301,,5000,46785.5,4,1,Yennefer,PURSE SUN CLOUD CLERCAP FOF IBAR
 88.48,25497,Blue Colorant,450,3904.72,3,1,cheapstuffguys,cheap
 85.71,28440,Fire Sealed Roar of Evanescence,5000,34999.67,3,1,Nixm,Lv50 Items
@@ -50,17 +50,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.39,22001,Furious Gem,500,2839.06,12,1,SellerPirate,stuff
 79.99,26594,Novice Explosive Ball,100,499.75,5,2,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
 79.99,26594,Novice Explosive Ball,100,499.75,5,2,Traffy,SELLING CHEAP
-79.84,26589,Potion of Bull,500,2479.59,14,1,TocoDeJegue,Soul - Roar - Grenade
-71.77,26589,Potion of Bull,700,2479.59,14,1,xTrueHistory,Imps/LBS/Jackpot/GPS/pots
+79.82,26589,Potion of Bull,500,2477.77,14,1,TocoDeJegue,Soul - Roar - Grenade
+71.75,26589,Potion of Bull,700,2477.77,14,1,xTrueHistory,Imps/LBS/Jackpot/GPS/pots
 71.29,27000,Prosperous Packet,30,104.48,4,15,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
 68.42,28446,Fire Sealed Bow of Evanescence,15000,47500.0,4,1,IronM4n,Cheap items HERE!!!!
 64.78,22001,Furious Gem,1000,2839.06,12,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
 62.89,25440,Evanescence Stone,500,1347.22,3,4,vendedolmax,2000
-59.75,26589,Potion of Bull,998,2479.59,14,1,PpsBps,0 003% shields cheap !
+59.72,26589,Potion of Bull,998,2477.77,14,1,PpsBps,0 003% shields cheap !
 59.46,26588,Potion of Eagle,1000,2466.62,11,1,.Ace,PPS/PBP/RBP/POTS/Pharaoh gem
 58.62,28411,Staff of Incantation,120000,290000.0,3,1,Kasyadex,SEALS/FAIRY DUST/EVA POWR/HL VOY
 58.33,28035,Solar Shield,40000,95999.4,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
-54.83,30171,Ticket to Demonic World,200,442.74,4,1,pisslow,:((
+54.75,28429,Dance of Evanescence,1180000,2607500.0,4,1,KillerSolo,CRUS 55 UNS / GLOVE 5 STR
 52.78,25504,Standard Scroll,80,169.42,3,7,Anuel,CHAOS RUNESTONE
 52.5,2301,,22222,46785.5,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 52.5,2301,,22222,46785.5,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -73,5 +73,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.5,2301,,22222,46785.5,4,1,BLaCKMooN,garner
 52.32,28403,Blade of Incantation,180000,377500.0,3,1,lowkey123,supeer cheap crus sword
 52.32,28403,Blade of Incantation,180000,377500.0,3,1,lowkey123,supeer cheap crus sword
+52.06,28429,Dance of Evanescence,1250000,2607500.0,4,1,KillerSolo,CRUS 55 UNS / GLOVE 5 STR
 50.2,26590,Potion of Soul,1450,2911.65,8,1,Lja,Jajaja
 50.18,26594,Novice Explosive Ball,249,499.75,5,44,Heracles,Cheapest in Market
