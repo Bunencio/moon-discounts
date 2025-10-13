@@ -3,7 +3,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,21,981677.17,5,1,BENTAHE,GEM OF COLO
 100.0,22009,Gem of Colossus,23,981677.17,5,1,BV10,F
 100.0,22009,Gem of Colossus,21,981677.17,5,1,Guardian,GEMS
-100.0,22011,Gemof Sout,20,415016.5,4,2,Guardian,GEMS
+100.0,22010,Gem of Rage,22,618767.88,4,2,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,22010,Gem of Rage,25,618767.88,4,4,Sysh,SELL RAGE / DEMO RAGE
 100.0,22014,Demonic Gem of Colossus,30,1166680.2,6,1,Seraphim,sss
 100.0,22014,Demonic Gem of Colossus,24,1166680.2,6,2,Lune,Crown +3con wind demo colo
 100.0,22014,Demonic Gem of Colossus,23,1166680.2,6,1,stallerx,Cheap Demonic colossus
@@ -14,22 +15,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22030,Earth Rock,23,1656256.0,5,1,jajaaaaja,ROCKS
 100.0,25426,Universe Purse Fragment.,4,137085.42,7,2,Xiomarvic,Itms Free Help me
 100.0,25426,Universe Purse Fragment.,5,137085.42,7,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25431,Kal Runestone,20,516674.33,6,3,ShowerBro,afk
-100.0,25431,Kal Runestone,10,516674.33,6,1,Xiomarvic,Itms Free Help me
-100.0,25451,Jade Gem Fragment,1,39513.23,8,2,Goliat,Fragment Store
-100.0,25451,Jade Gem Fragment,1,39513.23,8,1,Xiomarvic,Itms Free Help me
-100.0,25451,Jade Gem Fragment,1,39513.23,8,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25451,Jade Gem Fragment,1,39513.23,8,9,monchito1,m.o.t.a
-100.0,25452,Rock Gem Fragment,1,43834.0,10,10,yuiy78,Jade/Chaos Rune/Frag/Rock
-100.0,25452,Rock Gem Fragment,2,43834.0,10,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,43834.0,10,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25452,Rock Gem Fragment,2,43834.0,10,12,monchito1,m.o.t.a
+100.0,25431,Kal Runestone,10,325011.5,4,1,Xiomarvic,Itms Free Help me
+100.0,25451,Jade Gem Fragment,1,51366.9,8,2,Goliat,Fragment Store
+100.0,25451,Jade Gem Fragment,1,51366.9,8,1,Xiomarvic,Itms Free Help me
+100.0,25451,Jade Gem Fragment,1,51366.9,8,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25452,Rock Gem Fragment,1,52600.42,11,10,yuiy78,Jade/Chaos Rune/Frag/Rock
+100.0,25452,Rock Gem Fragment,2,52600.42,11,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,52600.42,11,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25525,,6,522000.76,8,8,yuiy78,Jade/Chaos Rune/Frag/Rock
 100.0,25525,,9,522000.76,8,1,Xiomarvic,Itms Free Help me
-100.0,27020,Gold Pirate Scroll,1,22314.05,9,3,Leviac,cheap stall
-100.0,28136,Crown of Decendant,7,520006.0,5,1,Leviac,cheap stall
-100.0,28136,Crown of Decendant,15,520006.0,5,1,Lune,Crown +3con wind demo colo
-100.0,28136,Crown of Decendant,8,520006.0,5,1,Killua#24,CHAMP UNS 65
+100.0,27020,Gold Pirate Scroll,1,22265.12,10,3,Leviac,cheap stall
+100.0,28136,Crown of Decendant,7,840004.4,5,1,Leviac,cheap stall
+100.0,28136,Crown of Decendant,15,840004.4,5,1,Lune,Crown +3con wind demo colo
 100.0,28417,Corset of Incantation,1,58333.67,3,1,Leviac,cheap stall
 100.0,28421,Bow of Incantation,2,56253.75,4,1,Leviac,cheap stall
 100.0,28447,Bow of Evanescence,11,950001.67,6,1,Lune,Crown +3con wind demo colo
@@ -38,10 +35,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29310,Ring of Hawk,5,268579.71,5,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,268579.71,5,1,jajaaaaja,ROCKS
 100.0,29310,Ring of Hawk,5,268579.71,5,1,jajaaaaja,ROCKS
-99.99,22011,Gemof Sout,25,415016.5,4,5,monchito1,m.o.t.a
-99.99,28462,Ice Sealed Staff of Enigma,3,30000.6,4,1,Killua#47,IMPS ONLY
+99.99,25431,Kal Runestone,20,325011.5,4,3,ShowerBro,afk
+99.99,28462,Ice Sealed Staff of Enigma,3,25000.75,4,1,Killua#47,IMPS ONLY
 99.99,28468,Ice Sealed Mantle of Enigma,8,55001.33,5,1,Vanny,ring of spell sealed ss 45uns bo
-99.99,30156,Jackpot Coin,1,8966.11,14,99,Mikosita1,SELL JACKPOT
+99.99,30156,Jackpot Coin,1,9001.48,14,99,Mikosita1,SELL JACKPOT
 99.98,28421,Bow of Incantation,13,56253.75,4,1,Vanny,ring of spell sealed ss 45uns bo
 99.98,29310,Ring of Hawk,50,268579.71,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,268579.71,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
@@ -67,18 +64,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.1,25440,Evanescence Stone,500,1354.93,4,2,vendedolmax,2000
 62.85,22001,Furious Gem,1000,2691.7,8,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
 62.85,22001,Furious Gem,1000,2691.7,8,1,Lja,garner
-61.81,22000,FieryGem,1111,2909.51,11,34,NainBASTARD,++
+61.81,22000,FieryGem,1111,2909.22,11,34,NainBASTARD,++
 61.63,28411,Staff of Incantation,110000,286666.33,3,1,Kasyadex,HLVOY/FAIRY DUST/EVA POWER/SEALS
 61.08,28440,Fire Sealed Roar of Evanescence,6500,16699.6,4,1,Nixm,Cheap Lv50 Items
 59.82,28434,Fire Sealed Robe of the Arcane,14999,37333.17,4,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
-59.43,26591,Potion of Lion,1000,2465.06,13,1,CrackHead,ALMOST 4 FREE
+59.53,26591,Potion of Lion,1000,2470.77,13,1,CrackHead,ALMOST 4 FREE
 58.73,22001,Furious Gem,1111,2691.7,8,31,NainBASTARD,++
 58.68,28436,Fire Sealed Staff of Evanescence,5000,12099.5,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
 58.43,25507,Expert Stone,500,1202.67,7,99,AAA123,12313131311
 58.43,25507,Expert Stone,500,1202.67,7,12,AAA123,12313131311
 58.14,28446,Fire Sealed Bow of Evanescence,15000,35833.33,5,1,Nixm,Cheap Lv50 Items
 58.14,28446,Fire Sealed Bow of Evanescence,15000,35833.33,5,1,IronM4n,Cheap items HERE!!!!
-54.93,26591,Potion of Lion,1111,2465.06,13,27,Systembuff,UgWind/Lumber++
+55.03,26591,Potion of Lion,1111,2470.77,13,27,Systembuff,UgWind/Lumber++
 52.81,22004,Shining Gem,2222,4708.58,6,71,NainBASTARD,++
 52.44,26594,Novice Explosive Ball,249,523.58,5,42,Heracles,Cheapest in Market
 52.25,26594,Novice Explosive Ball,250,523.58,5,32,Wallnut,Corner Shop
@@ -86,6 +83,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.1,28440,Fire Sealed Roar of Evanescence,7999,16699.6,4,1,Nikoz,Uns 55/Rep/SS/Flash/Pots/Scrolls
 51.38,25522,,150,308.51,5,15,Ckuis,garner
 50.67,26588,Potion of Eagle,1200,2432.6,11,1,BinMakarios,FB and more
-50.27,26326,Elven Royal Signet,500,1005.45,10,99,MiloOvaltinePlus,SSCROLL / SEALED 60 VOY/ ELVEN
+50.5,26326,Elven Royal Signet,500,1010.1,10,99,MiloOvaltinePlus,SSCROLL / SEALED 60 VOY/ ELVEN
 50.06,28430,Fire Sealed Robe of Malediction,4400,8810.89,5,1,bowstalls,lv40-50-60-65equipment 3Pages
 50.06,28430,Fire Sealed Robe of Malediction,4400,8810.89,5,1,bowstalls,lv40-50-60-65equipment 3Pages
