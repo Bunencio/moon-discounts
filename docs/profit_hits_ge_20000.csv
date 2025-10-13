@@ -32,8 +32,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-13,28417,Corset of Incantation,Leviac,cheap stall,1,56667.0,56666.0,1,56666.0,100.0,3
 2025-10-13,25452,Rock Gem Fragment,Goliat,Fragment Store,2,46906.51,46904.51,1,46904.51,100.0,7
 2025-10-13,25451,Jade Gem Fragment,Xiomarvic,Itms Free Help me,1,46561.67,46560.67,1,46560.67,100.0,9
-2025-10-13,28458,Ice Sealed Staff of the Sphinx,stallerx,Demo and ugems and more,1,27407.67,27406.67,1,27406.67,100.0,3
-2025-10-13,28456,Ice Sealed Robe of the Sphinx,stallerx,Demo and ugems and more,1,25555.5,25554.5,1,25554.5,100.0,4
 2025-10-13,22007,Gem of Striking,MapBK,S<striking 1.35k imp,135,1203851.31,1203716.31,1,1203716.31,99.99,4
 2025-10-13,30156,Jackpot Coin,Mikosita1,SELL JACKPOT,1,8247.6,8246.6,99,816413.01,99.99,11
 2025-10-13,22014,Demonic Gem of Colossus,Seraphim,ss,30,480020.4,479990.4,1,479990.4,99.99,4
@@ -142,7 +140,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-13,27020,Gold Pirate Scroll,ESNAIDER,SELL JACKPOT/GPS/REF/PBS,21999,23011.81,1012.81,70,70896.57,4.4,10
 2025-10-13,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH +++++,22000,23011.81,1011.81,70,70826.57,4.4,10
 2025-10-13,25433,Blessed Runestone,WindSlash,Blessed Runestone/PBS/GPS/Royal,790000,824999.83,34999.83,1,34999.83,4.24,4
-2025-10-13,26567,Weightless Potion,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,8499,8866.07,367.07,99,36340.11,4.14,4
+2025-10-13,26567,Weightless Potion,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,8499,8870.91,371.91,99,36819.28,4.19,4
 2025-10-13,25433,Blessed Runestone,Pineapple,BLESS,800000,824999.83,24999.83,2,49999.67,3.03,4
 2025-10-13,28447,Bow of Evanescence,Amino,cheap ss EQ,950000,978572.86,28572.86,1,28572.86,2.92,7
 2025-10-13,30139,100x Crystal,Mallwart,S> IMPS,97999,100909.72,2910.72,78,227035.93,2.88,5
