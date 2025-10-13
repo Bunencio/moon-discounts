@@ -7,8 +7,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,24,992323.38,5,3,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,22014,Demonic Gem of Colossus,30,992323.38,5,1,Seraphim,ss
 100.0,22014,Demonic Gem of Colossus,30,992323.38,5,1,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,22434,,8,416672.33,4,1,Yoda,garner
-100.0,22434,,13,416672.33,4,2,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,22434,,8,393339.0,4,1,Yoda,garner
+100.0,22434,,13,393339.0,4,2,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25426,Universe Purse Fragment.,4,117729.73,6,2,Xiomarvic,Itms Free Help me
 100.0,25426,Universe Purse Fragment.,5,117729.73,6,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25431,Kal Runestone,20,475008.62,5,3,ShowerBro,afk
@@ -17,9 +17,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,45527.55,8,1,Xiomarvic,Itms Free Help me
 100.0,25451,Jade Gem Fragment,1,45527.55,8,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,45527.55,8,9,monchito1,m.o.t.a
-100.0,25452,Rock Gem Fragment,2,44320.96,6,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,2,44320.96,6,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25452,Rock Gem Fragment,2,44320.96,6,12,monchito1,m.o.t.a
+100.0,25452,Rock Gem Fragment,2,46340.47,7,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,46340.47,7,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25452,Rock Gem Fragment,2,46340.47,7,12,monchito1,m.o.t.a
 100.0,25525,,9,699999.79,4,1,Xiomarvic,Itms Free Help me
 100.0,26585,Blessed Potion,1,91314.76,6,5,sellerrr,BLESS 100 X IMP
 100.0,27020,Gold Pirate Scroll,1,23011.81,10,3,Leviac,cheap stall
@@ -43,27 +43,28 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 88.07,2301,,5000,41922.85,5,1,Yennefer,PURSE SUN CLOUD CLERCAP FOF IBAR
 81.32,22001,Furious Gem,500,2677.34,11,1,SellerPirate,stuff
 80.13,26594,Novice Explosive Ball,100,503.26,5,2,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
-78.37,26589,Potion of Bull,500,2311.97,13,1,TocoDeJegue,Soul - Roar - Grenade
+78.29,26589,Potion of Bull,500,2303.02,13,1,TocoDeJegue,Soul - Roar - Grenade
 77.08,30121,Vial of Accuracy Reset,1111,4848.23,7,11,NainBASTARD,++
 75.55,30119,Vial of Consitution Reset,1111,4544.0,7,13,NainBASTARD,++
 71.96,25258,Spirit Feather,199,709.65,5,80,LunaMaya,S>Fb Grenade HiddenHoneyLambSkul
 71.77,25439,Incantation Stone,350,1240.0,3,16,WindSeal,Demonic Rock/Engima power/stones
-69.72,26589,Potion of Bull,700,2311.97,13,1,xTrueHistory,Imps/LBS/Jackpot/GPS/pots
+69.61,26589,Potion of Bull,700,2303.02,13,1,xTrueHistory,Imps/LBS/Jackpot/GPS/pots
 68.42,28446,Fire Sealed Bow of Evanescence,15000,47500.0,4,1,IronM4n,Cheap items HERE!!!!
 65.65,30122,Vial of Spirit Reset,1111,3234.0,6,18,NainBASTARD,++
 63.54,25440,Evanescence Stone,500,1371.43,3,2,vendedolmax,2000
 62.65,22001,Furious Gem,1000,2677.34,11,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
 62.65,22001,Furious Gem,1000,2677.34,11,1,Lja,garner
+62.5,28436,Fire Sealed Staff of Evanescence,5000,13333.33,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOR
 61.63,28411,Staff of Incantation,110000,286666.67,3,1,Kasyadex,HLVOY/FAIRY DUST/EVA POWER/SEALS
 61.16,22000,FieryGem,1111,2860.21,9,34,NainBASTARD,++
 58.5,22001,Furious Gem,1111,2677.34,11,31,NainBASTARD,++
 58.4,25507,Expert Stone,500,1201.98,6,99,AAA123,12313131311
 58.4,25507,Expert Stone,500,1201.98,6,12,AAA123,12313131311
 57.87,25258,Spirit Feather,299,709.65,5,3,DiscipleTwo,50brac|2socket2spr65hat|BPs|Coin
-53.8,26591,Potion of Lion,1111,2404.64,9,27,Systembuff,UgWind/Lumber++
+53.64,26591,Potion of Lion,1111,2396.26,10,27,Systembuff,UgWind/Lumber++
 52.81,22004,Shining Gem,2222,4708.58,6,71,NainBASTARD,++
-52.37,26588,Potion of Eagle,1111,2332.42,11,19,Systembuff,UgWind/Lumber++
-51.95,26589,Potion of Bull,1111,2311.97,13,26,Systembuff,UgWind/Lumber++
+52.25,26588,Potion of Eagle,1111,2326.78,13,19,Systembuff,UgWind/Lumber++
+51.76,26589,Potion of Bull,1111,2303.02,13,26,Systembuff,UgWind/Lumber++
 50.52,26594,Novice Explosive Ball,249,503.26,5,42,Heracles,Cheapest in Market
 50.32,26594,Novice Explosive Ball,250,503.26,5,32,Wallnut,Corner Shop
 50.32,26594,Novice Explosive Ball,250,503.26,5,1,KillerSolo,CRUS 55 UNS / GLOVE 5 STR
