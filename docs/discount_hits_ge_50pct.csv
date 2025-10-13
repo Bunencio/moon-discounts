@@ -24,12 +24,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28417,Corset of Incantation,1,58333.67,3,1,Leviac,cheap stall
 100.0,28421,Bow of Incantation,2,75000.67,3,1,Leviac,cheap stall
 100.0,28447,Bow of Evanescence,12,1000002.75,4,1,Lune,crown with 3con stat  lvl 20 agi
-100.0,28468,Ice Sealed Mantle of Enigma,1,55000.0,3,1,Killua#47,IMPS ONLY
+100.0,28468,Ice Sealed Mantle of Enigma,1,64000.0,4,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,297507.25,5,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,297507.25,5,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,SS unsealed items + gems
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,SS unsealed items + gems
-100.0,30139,100x Crystal,2,92278.0,6,37,Guardian,GEMS
+100.0,30139,100x Crystal,2,91598.28,4,37,Guardian,GEMS
 99.99,25452,Rock Gem Fragment,2,34897.3,10,12,monchito1,0.0
 99.99,25452,Rock Gem Fragment,2,34897.3,10,1,Goliat,Fragment Store
 99.99,25452,Rock Gem Fragment,2,34897.3,10,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
@@ -38,43 +38,42 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.97,29308,Ring of Valor,19,75839.33,4,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.97,29308,Ring of Valor,19,75839.33,4,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.97,30157,Iron Bar,20,65009.09,4,5,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.97,30157,Iron Bar,20,62010.0,3,5,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 88.74,25440,Evanescence Stone,200,1776.19,4,1,BL4CKM4RK3T,cheap stuff
 80.33,28035,Solar Shield,9999,50832.5,4,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 77.94,25439,Incantation Stone,350,1586.87,4,16,WindSeal,Demonic Rock/Engima power/stones
 76.25,30121,Vial of Accuracy Reset,1111,4677.34,8,11,NainBASTARD,++
 75.65,30119,Vial of Consitution Reset,1111,4562.76,6,13,NainBASTARD,++
-73.52,26589,Potion of Bull,700,2643.32,10,1,xTrueHistory,PPS/POTS
+75.0,28446,Fire Sealed Bow of Evanescence,10000,40000.0,5,1,Che,Xiclets
+73.55,26589,Potion of Bull,700,2646.56,10,1,xTrueHistory,PPS/POTS
 73.19,25080,Iron Ore,20,74.61,4,99,Ckuis,garner
 71.85,25440,Evanescence Stone,500,1776.19,4,2,vendedolmax,2000
 70.49,28035,Solar Shield,14999,50832.5,4,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 68.49,25439,Incantation Stone,500,1586.87,4,3,SellerPirate,stuff
 66.97,30122,Vial of Spirit Reset,1111,3363.27,7,18,NainBASTARD,++
-65.18,22001,Furious Gem,1000,2872.19,7,1,SellerPirate,stuff
-65.18,22001,Furious Gem,1000,2872.19,7,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
-65.18,22001,Furious Gem,1000,2872.19,7,1,Lja,garner
-63.64,28446,Fire Sealed Bow of Evanescence,10000,27500.0,4,1,Che,Xiclets
-61.32,22001,Furious Gem,1111,2872.19,7,31,NainBASTARD,++
-61.13,28442,Fire Sealed Coat of Evanescence,13000,33444.44,4,1,Nixm,Cheap Lv50 Items
-61.13,28442,Fire Sealed Coat of Evanescence,13000,33444.44,4,1,Nixm,Cheap Lv50 Items
-61.13,28442,Fire Sealed Coat of Evanescence,13000,33444.44,4,1,Nixm,Cheap Lv50 Items
+65.75,22001,Furious Gem,1000,2919.77,7,1,SellerPirate,stuff
+65.75,22001,Furious Gem,1000,2919.77,7,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
+65.75,22001,Furious Gem,1000,2919.77,7,1,Lja,garner
+62.5,28446,Fire Sealed Bow of Evanescence,15000,40000.0,5,1,Nixm,Cheap Lv50 Items
+61.95,22001,Furious Gem,1111,2919.77,7,31,NainBASTARD,++
 60.88,22000,FieryGem,1111,2839.86,10,34,NainBASTARD,++
+60.47,28442,Fire Sealed Coat of Evanescence,13000,32888.89,5,1,Nixm,Cheap Lv50 Items
+60.47,28442,Fire Sealed Coat of Evanescence,13000,32888.89,5,1,Nixm,Cheap Lv50 Items
+60.47,28442,Fire Sealed Coat of Evanescence,13000,32888.89,5,1,Nixm,Cheap Lv50 Items
+59.93,25507,Expert Stone,500,1247.84,6,99,AAA123,12313131311
+59.93,25507,Expert Stone,500,1247.84,6,12,AAA123,12313131311
 59.46,25496,Cyan Colorant.,2000,4933.33,3,1,cheapstuffsell,cheap
-59.38,25507,Expert Stone,500,1230.93,6,99,AAA123,12313131311
-59.38,25507,Expert Stone,500,1230.93,6,12,AAA123,12313131311
-59.26,28411,Staff of Incantation,110000,270000.0,3,1,Kasyadex,HLVOY/FAIRY DUST/EVA POWER/SEALS
+59.26,28411,Staff of Incantation,110000,270000.0,3,1,Kasyadex,FAIRY DUST/EVA POWER/HL VOY/SEAL
+59.25,28458,Ice Sealed Staff of the Sphinx,15000,36805.5,4,1,ThornLey,Sealed60
 57.24,30121,Vial of Accuracy Reset,2000,4677.34,8,3,Ivynor,All cheap
 56.52,28403,Blade of Incantation,300000,689999.6,4,1,XiXi0n,cheap cheap cheap cheap cheap
 56.43,22004,Shining Gem,2222,5099.83,5,71,NainBASTARD,++
 56.26,25258,Spirit Feather,199,455.01,3,80,LunaMaya,S>HullRepair PPS PBS FairyFood
 56.26,25258,Spirit Feather,199,455.01,3,3,DiscipleTwo,CHEAPEST 50brac|OPclerSprHat|BPs
-55.15,28442,Fire Sealed Coat of Evanescence,15000,33444.44,4,1,Che,Xiclets
-55.15,28458,Ice Sealed Staff of the Sphinx,15000,33444.4,5,1,ThornLey,Sealed60
-54.8,25423,Evanescence Rock,799,1767.71,3,2,cheapstuffsell,cheap
-54.74,25423,Evanescence Rock,800,1767.71,3,10,Kasyadex,HLVOY/FAIRY DUST/EVA POWER/SEALS
-51.78,26588,Potion of Eagle,1200,2488.74,12,1,BinMakarios,FB and more
+54.39,28442,Fire Sealed Coat of Evanescence,15000,32888.89,5,1,Che,Xiclets
+53.71,28456,Ice Sealed Robe of the Sphinx,15000,32407.33,3,1,ThornLey,Sealed60
+51.87,26588,Potion of Eagle,1200,2493.01,12,1,BinMakarios,FB and more
 51.38,25522,,150,308.51,5,15,Ckuis,garner
-51.02,28409,Coat of Invocation,80000,163333.33,3,1,xkom,CLERIC ITEMS LVL 2 SHIP LEG BP
 50.68,26594,Novice Explosive Ball,249,504.85,5,42,Heracles,Cheapest in Market
 50.48,26594,Novice Explosive Ball,250,504.85,5,32,Wallnut,Corner Shop
 50.48,26594,Novice Explosive Ball,250,504.85,5,1,KillerSolo,CRUS 55 UNS / GLOVE 5 STR
