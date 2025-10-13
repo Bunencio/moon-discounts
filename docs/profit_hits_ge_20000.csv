@@ -10,28 +10,28 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-13,22009,Gem of Colossus,BV10,F,23,798013.4,797990.4,1,797990.4,100.0,4
 2025-10-13,22009,Gem of Colossus,SSxConvict,UG COLO,23,798013.4,797990.4,1,797990.4,100.0,4
 2025-10-13,25525,,Xiomarvic,Itms Free Help me,9,699999.79,699990.79,1,699990.79,100.0,4
-2025-10-13,25452,Rock Gem Fragment,monchito1,m.o.t.a,2,47095.19,47093.19,12,565118.26,100.0,7
-2025-10-13,25452,Rock Gem Fragment,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL,2,47095.19,47093.19,11,518025.08,100.0,7
+2025-10-13,25452,Rock Gem Fragment,monchito1,m.o.t.a,2,46906.51,46904.51,12,562854.11,100.0,7
+2025-10-13,25452,Rock Gem Fragment,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL,2,46906.51,46904.51,11,515949.6,100.0,7
 2025-10-13,22014,Demonic Gem of Colossus,stallerx,Demo and ugems and more,24,480020.4,479996.4,1,479996.4,100.0,4
 2025-10-13,25426,Universe Purse Fragment.,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL,5,117729.73,117724.73,4,470898.91,100.0,6
 2025-10-13,26585,Blessed Potion,sellerrr,BLESS 100 X IMP,1,91314.76,91313.76,5,456568.81,100.0,6
-2025-10-13,25451,Jade Gem Fragment,monchito1,m.o.t.a,1,47263.42,47262.42,9,425361.79,100.0,8
+2025-10-13,25451,Jade Gem Fragment,monchito1,m.o.t.a,1,46561.67,46560.67,9,419046.0,100.0,9
 2025-10-13,22434,,Yoda,garner,8,416672.33,416664.33,1,416664.33,100.0,4
 2025-10-13,25431,Kal Runestone,Xiomarvic,Itms Free Help me,10,407152.71,407142.71,1,407142.71,100.0,5
 2025-10-13,29310,Ring of Hawk,Leviac,cheap stall,4,290001.6,289997.6,1,289997.6,100.0,4
 2025-10-13,29310,Ring of Hawk,Leviac,cheap stall,4,290001.6,289997.6,1,289997.6,100.0,4
 2025-10-13,29310,Ring of Hawk,Killua#47,IMPS ONY,5,290001.6,289996.6,1,289996.6,100.0,4
 2025-10-13,29310,Ring of Hawk,Killua#47,IMPS ONY,5,290001.6,289996.6,1,289996.6,100.0,4
-2025-10-13,25451,Jade Gem Fragment,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL,1,47263.42,47262.42,6,283574.53,100.0,8
+2025-10-13,25451,Jade Gem Fragment,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL,1,46561.67,46560.67,6,279364.0,100.0,9
 2025-10-13,25426,Universe Purse Fragment.,Xiomarvic,Itms Free Help me,4,117729.73,117725.73,2,235451.45,100.0,6
 2025-10-13,28326,Divine Grace Cap,stallerx,Demo and ugems and more,1,187497.5,187496.5,1,187496.5,100.0,4
-2025-10-13,25451,Jade Gem Fragment,Goliat,Fragment Store,1,47263.42,47262.42,2,94524.84,100.0,8
+2025-10-13,25451,Jade Gem Fragment,Goliat,Fragment Store,1,46561.67,46560.67,2,93121.33,100.0,9
 2025-10-13,28421,Bow of Incantation,Leviac,cheap stall,2,73334.0,73332.0,1,73332.0,100.0,3
 2025-10-13,27020,Gold Pirate Scroll,Leviac,cheap stall,1,23011.81,23010.81,3,69032.42,100.0,10
 2025-10-13,28468,Ice Sealed Mantle of Enigma,Killua#47,IMPS ONY,1,65000.25,64999.25,1,64999.25,100.0,3
 2025-10-13,28417,Corset of Incantation,Leviac,cheap stall,1,56667.0,56666.0,1,56666.0,100.0,3
-2025-10-13,25451,Jade Gem Fragment,Xiomarvic,Itms Free Help me,1,47263.42,47262.42,1,47262.42,100.0,8
-2025-10-13,25452,Rock Gem Fragment,Goliat,Fragment Store,2,47095.19,47093.19,1,47093.19,100.0,7
+2025-10-13,25452,Rock Gem Fragment,Goliat,Fragment Store,2,46906.51,46904.51,1,46904.51,100.0,7
+2025-10-13,25451,Jade Gem Fragment,Xiomarvic,Itms Free Help me,1,46561.67,46560.67,1,46560.67,100.0,9
 2025-10-13,28458,Ice Sealed Staff of the Sphinx,stallerx,Demo and ugems and more,1,27407.67,27406.67,1,27406.67,100.0,3
 2025-10-13,28456,Ice Sealed Robe of the Sphinx,stallerx,Demo and ugems and more,1,25555.5,25554.5,1,25554.5,100.0,4
 2025-10-13,22007,Gem of Striking,MapBK,S<striking 1.35k imp,135,1203851.31,1203716.31,1,1203716.31,99.99,4
@@ -80,7 +80,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-13,25507,Expert Stone,VendedoraJequiti,standard stone / expert stone ++,798,1201.98,403.98,79,31914.57,33.61,6
 2025-10-13,22000,FieryGem,STAII,Cheap UG and normals   pots!!!!!,1990,2860.21,870.21,53,46121.02,30.42,9
 2025-10-13,28429,Dance of Evanescence,KillerSolo,CRUS 55 UNS / GLOVE 5 STR,1180000,1607500.0,427500.0,1,427500.0,26.59,4
-2025-10-13,30102,1000 Reputation Scroll,SvckMe,Y O U R S,6499,8789.65,2290.65,30,68719.38,26.06,6
+2025-10-13,30102,1000 Reputation Scroll,SvckMe,Y O U R S,6499,8795.65,2296.65,30,68899.35,26.11,6
 2025-10-13,22001,Furious Gem,STAII,Cheap UG and normals   pots!!!!!,1990,2677.34,687.34,68,46739.35,25.67,11
 2025-10-13,26591,Potion of Lion,Juyii,POTIONS CHEAP,1888,2530.95,642.95,35,22503.17,25.4,10
 2025-10-13,25430,Enigma Power,WindSeal,Demonic Rock/Engima power/stones,1350,1781.14,431.14,99,42683.12,24.21,9
@@ -99,7 +99,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-13,25430,Enigma Power,Garp,ENIMA POWER = UNS65 CHEAP FAST,1400,1781.14,381.14,99,37733.12,21.4,9
 2025-10-13,27025,Radiation Lv1,BPCRAFT,BLESS/IRON/PRESTIGE/RADIATION/FB,1850,2349.31,499.31,200,99862.3,21.25,5
 2025-10-13,27025,Radiation Lv1,BPCRAFT,BLESS/IRON/PRESTIGE/RADIATION/FB,1850,2349.31,499.31,60,29958.69,21.25,5
-2025-10-13,30102,1000 Reputation Scroll,LotokSell,UgColo DemoColo ShadowCrystal,7000,8789.65,1789.65,68,121695.92,20.36,6
+2025-10-13,30102,1000 Reputation Scroll,LotokSell,UgColo DemoColo ShadowCrystal,7000,8795.65,1795.65,68,122103.87,20.42,6
 2025-10-13,28326,Divine Grace Cap,Merchanty,Divine Cap +Spr|Salmon|FairyDust,149990,187497.5,37507.5,1,37507.5,20.0,4
 2025-10-13,25534,,Bathroom,Helo Free Sell,11999,14886.34,2887.34,10,28873.36,19.4,9
 2025-10-13,27025,Radiation Lv1,Kalista,radiation fb detector,1899,2349.31,450.31,200,90062.3,19.17,5
@@ -116,9 +116,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-13,22006,Spirit Gem,DarkKillerJr,S>Spirit Gems/RingsofDestruction,4849,5828.14,979.14,21,20561.97,16.8,6
 2025-10-13,27014,Moonroot Wine,vnt3,Moonroot Wine Come Here ! ! ! !,599,716.08,117.08,200,23416.09,16.35,4
 2025-10-13,27014,Moonroot Wine,vnt3,Moonroot Wine Come Here ! ! ! !,599,716.08,117.08,199,23299.01,16.35,4
+2025-10-13,30102,1000 Reputation Scroll,Masteryi,sell,7400,8795.65,1395.65,76,106069.03,15.87,6
 2025-10-13,25430,Enigma Power,Disciplined1,CHEAPEST DemonicRock EnigmaPower,1499,1781.14,282.14,99,27932.12,15.84,9
 2025-10-13,25430,Enigma Power,Disciplined1,CHEAPEST DemonicRock EnigmaPower,1499,1781.14,282.14,99,27932.12,15.84,9
-2025-10-13,30102,1000 Reputation Scroll,Masteryi,sell,7400,8789.65,1389.65,76,105613.09,15.81,6
 2025-10-13,26590,Potion of Soul,STAII,Cheap UG and normals   pots!!!!!,2490,2954.53,464.53,52,24155.45,15.72,8
 2025-10-13,22006,Spirit Gem,STAII,Cheap UG and normals   pots!!!!!,4990,5828.14,838.14,62,51964.76,14.38,6
 2025-10-13,25525,,Rambo,SALE!,600000,699999.79,99999.79,3,299999.36,14.29,4
