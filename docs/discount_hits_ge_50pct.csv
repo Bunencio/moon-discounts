@@ -38,8 +38,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22014,Demonic Gem of Colossus,30,480020.4,4,1,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 99.99,25431,Kal Runestone,20,331678.17,4,3,ShowerBro,afk
 99.99,28462,Ice Sealed Staff of Enigma,3,37500.75,4,1,Killua#24,IMPS ONLY
-99.99,30156,Jackpot Coin,1,8247.95,11,99,Mikosita1,SELL JACKPOT
-99.99,30156,Jackpot Coin,1,8247.95,11,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+99.99,30156,Jackpot Coin,1,8247.6,11,99,Mikosita1,SELL JACKPOT
+99.99,30156,Jackpot Coin,1,8247.6,11,1,#14DEATH#14,APP SET MORE CHEAP THAN MALL
+88.51,25497,Blue Colorant,450,3915.83,3,1,cheapstuffguys,cheap
 88.29,2301,,5000,42692.08,4,1,Yennefer,PURSE SUN CLOUD CLERCAP FOF IBAR
 81.32,22001,Furious Gem,500,2677.34,11,1,SellerPirate,stuff
 80.08,26594,Novice Explosive Ball,100,501.89,5,2,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
@@ -66,6 +67,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.1,26591,Potion of Lion,1111,2530.95,10,27,Systembuff,UgWind/Lumber++
 54.84,26588,Potion of Eagle,1111,2460.31,13,19,Systembuff,UgWind/Lumber++
 53.94,26589,Potion of Bull,1111,2411.99,15,26,Systembuff,UgWind/Lumber++
+53.3,25400,Explosive Tentacle,320,685.15,4,13,JunoJuno,Cheap
 52.81,22004,Shining Gem,2222,4708.58,6,71,NainBASTARD,++
 52.78,25504,Standard Scroll,80,169.42,3,7,Anuel,CHAOS RUNESTONE
 51.69,25503,Magical Stone,170,351.92,8,24,SlashAndBack,EvaPower/Magic Stone CHEAP
