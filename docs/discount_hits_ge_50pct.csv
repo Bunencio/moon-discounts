@@ -10,17 +10,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22030,Earth Rock,25,1892860.71,4,1,ShowerBro,afk
 100.0,25426,Universe Purse Fragment.,4,153573.21,6,2,Xiomarvic,Itms Free Help me
 100.0,25426,Universe Purse Fragment.,5,153573.21,6,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25431,Kal Runestone,10,324178.17,4,1,Xiomarvic,Itms Free Help me
 100.0,25451,Jade Gem Fragment,1,39282.46,8,9,monchito1,0.0
 100.0,25451,Jade Gem Fragment,1,39282.46,8,2,Goliat,Fragment Store
 100.0,25451,Jade Gem Fragment,1,39282.46,8,1,Xiomarvic,Itms Free Help me
 100.0,25451,Jade Gem Fragment,1,39282.46,8,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25452,Rock Gem Fragment,1,35921.19,10,10,yuiy78,Jade/Chaos Rune/Frag/Rock
-100.0,25452,Rock Gem Fragment,1,35921.19,10,16,zRoma,Yel GreenJade/RockFrag/ChaosFrag
+100.0,25452,Rock Gem Fragment,1,36745.17,11,10,yuiy78,Jade/Chaos Rune/Frag/Rock
+100.0,25452,Rock Gem Fragment,1,36745.17,11,16,zRoma,Yel GreenJade/RockFrag/ChaosFrag
 100.0,25525,,6,499788.21,8,8,yuiy78,Jade/Chaos Rune/Frag/Rock
 100.0,25525,,9,499788.21,8,1,Xiomarvic,Itms Free Help me
 100.0,25525,,6,499788.21,8,2,zRoma,Yel GreenJade/RockFrag/ChaosFrag
-100.0,27020,Gold Pirate Scroll,1,23564.31,5,3,Leviac,cheap stall
+100.0,25527,,10,771252.0,3,1,Hades,Chaos Runestone
+100.0,27020,Gold Pirate Scroll,1,23551.75,5,3,Leviac,cheap stall
 100.0,28417,Corset of Incantation,1,58333.67,3,1,Leviac,cheap stall
 100.0,28421,Bow of Incantation,2,56253.75,4,1,Leviac,cheap stall
 100.0,28447,Bow of Evanescence,12,1000002.75,4,1,Lune,crown with 3con stat  lvl 20 agi
@@ -29,14 +29,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29310,Ring of Hawk,5,297507.25,5,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,SS unsealed items + gems
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,SS unsealed items + gems
-100.0,30139,100x Crystal,2,92715.76,5,37,Guardian,GEMS
-99.99,25431,Kal Runestone,20,324178.17,4,3,ShowerBro,afk
-99.99,25452,Rock Gem Fragment,2,35921.19,10,12,monchito1,0.0
-99.99,25452,Rock Gem Fragment,2,35921.19,10,1,Goliat,Fragment Store
-99.99,25452,Rock Gem Fragment,2,35921.19,10,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-99.99,28462,Ice Sealed Staff of Enigma,3,25000.75,4,1,Killua#47,IMPS ONLY
+100.0,30139,100x Crystal,2,92702.55,5,37,Guardian,GEMS
+99.99,25452,Rock Gem Fragment,2,36745.17,11,12,monchito1,0.0
+99.99,25452,Rock Gem Fragment,2,36745.17,11,1,Goliat,Fragment Store
+99.99,25452,Rock Gem Fragment,2,36745.17,11,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+99.99,28462,Ice Sealed Staff of Enigma,3,40000.6,5,1,Killua#47,IMPS ONLY
 99.99,28468,Ice Sealed Mantle of Enigma,8,55001.33,5,1,Vanny,ring of spell sealed ss 45uns bo
-99.99,30156,Jackpot Coin,1,9098.05,14,99,Mikosita1,SELL JACKPOT
+99.99,30156,Jackpot Coin,1,9097.29,14,99,Mikosita1,SELL JACKPOT
 99.98,28421,Bow of Incantation,13,56253.75,4,1,Vanny,ring of spell sealed ss 45uns bo
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
@@ -56,32 +55,34 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.49,25439,Incantation Stone,500,1586.87,4,3,SellerPirate,stuff
 66.77,30122,Vial of Spirit Reset,1111,3343.38,6,18,NainBASTARD,++
 65.56,28440,Fire Sealed Roar of Evanescence,6500,18874.75,3,1,Nixm,Cheap Lv50 Items
-62.58,22001,Furious Gem,1000,2672.23,8,1,SellerPirate,stuff
-62.58,22001,Furious Gem,1000,2672.23,8,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
-62.58,22001,Furious Gem,1000,2672.23,8,1,Lja,garner
+65.18,22001,Furious Gem,1000,2872.19,7,1,SellerPirate,stuff
+65.18,22001,Furious Gem,1000,2872.19,7,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
+65.18,22001,Furious Gem,1000,2872.19,7,1,Lja,garner
 62.5,28446,Fire Sealed Bow of Evanescence,15000,40000.0,5,1,Nixm,Cheap Lv50 Items
-61.63,28411,Staff of Incantation,110000,286666.33,3,1,Kasyadex,HLVOY/FAIRY DUST/EVA POWER/SEALS
+61.32,22001,Furious Gem,1111,2872.19,7,31,NainBASTARD,++
 61.13,28442,Fire Sealed Coat of Evanescence,13000,33444.44,4,1,Nixm,Cheap Lv50 Items
 61.13,28442,Fire Sealed Coat of Evanescence,13000,33444.44,4,1,Nixm,Cheap Lv50 Items
 61.13,28442,Fire Sealed Coat of Evanescence,13000,33444.44,4,1,Nixm,Cheap Lv50 Items
+60.88,22000,FieryGem,1111,2839.86,10,34,NainBASTARD,++
 59.46,25496,Cyan Colorant.,2000,4933.33,3,1,cheapstuffsell,cheap
 59.38,25507,Expert Stone,500,1230.93,6,99,AAA123,12313131311
 59.38,25507,Expert Stone,500,1230.93,6,12,AAA123,12313131311
-58.69,22000,FieryGem,1111,2689.59,12,34,NainBASTARD,++
-58.42,22001,Furious Gem,1111,2672.23,8,31,NainBASTARD,++
+59.26,28411,Staff of Incantation,110000,270000.0,3,1,Kasyadex,HLVOY/FAIRY DUST/EVA POWER/SEALS
 57.24,30121,Vial of Accuracy Reset,2000,4677.34,8,3,Ivynor,All cheap
 56.52,28403,Blade of Incantation,300000,689999.6,4,1,XiXi0n,cheap cheap cheap cheap cheap
+56.43,22004,Shining Gem,2222,5099.83,5,71,NainBASTARD,++
 56.26,25258,Spirit Feather,199,455.01,3,80,LunaMaya,S>HullRepair PPS PBS FairyFood
 56.26,25258,Spirit Feather,199,455.01,3,3,DiscipleTwo,CHEAPEST 50brac|OPclerSprHat|BPs
 55.15,28442,Fire Sealed Coat of Evanescence,15000,33444.44,4,1,Che,Xiclets
 55.15,28458,Ice Sealed Staff of the Sphinx,15000,33444.4,5,1,ThornLey,Sealed60
 54.8,25423,Evanescence Rock,799,1767.71,3,2,cheapstuffsell,cheap
 54.74,25423,Evanescence Rock,800,1767.71,3,10,Kasyadex,HLVOY/FAIRY DUST/EVA POWER/SEALS
-52.81,22004,Shining Gem,2222,4708.58,6,71,NainBASTARD,++
 51.88,26588,Potion of Eagle,1200,2494.0,11,1,BinMakarios,FB and more
 51.38,25522,,150,308.51,5,15,Ckuis,garner
+51.02,28409,Coat of Invocation,80000,163333.33,3,1,xkom,CLERIC ITEMS LVL 2 SHIP LEG BP
 50.68,26594,Novice Explosive Ball,249,504.85,5,42,Heracles,Cheapest in Market
 50.48,26594,Novice Explosive Ball,250,504.85,5,32,Wallnut,Corner Shop
 50.48,26594,Novice Explosive Ball,250,504.85,5,1,KillerSolo,CRUS 55 UNS / GLOVE 5 STR
 50.06,28430,Fire Sealed Robe of Malediction,4400,8810.89,5,1,bowstalls,lv40-50-60-65equipment 3Pages
 50.06,28430,Fire Sealed Robe of Malediction,4400,8810.89,5,1,bowstalls,lv40-50-60-65equipment 3Pages
+50.0,28462,Ice Sealed Staff of Enigma,20000,40000.6,5,1,xVENDOR1x,RUSH
