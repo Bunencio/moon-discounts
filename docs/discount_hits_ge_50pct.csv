@@ -1,14 +1,16 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,22,862515.12,5,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!
-100.0,22010,Gem of Rage,25,862515.12,5,4,Sysh,SELL RAGE / DEMO RAGE
+100.0,22010,Gem of Rage,22,1090012.1,6,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!
+100.0,22010,Gem of Rage,25,1090012.1,6,4,Sysh,SELL RAGE / DEMO RAGE
 100.0,22011,Gemof Sout,15,323012.69,4,7,Systembuff,Dems/Ugs/Jades/Rocks++++
 100.0,22014,Demonic Gem of Colossus,22,988902.11,6,3,Systembuff,Dems/Ugs/Jades/Rocks++++
 100.0,22014,Demonic Gem of Colossus,30,988902.11,6,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,22014,Demonic Gem of Colossus,23,988902.11,6,1,stallerx,Cheap Demonic colossus
-100.0,22021,Yellow Jade,20,862509.25,4,1,ShowerBro,afk
-100.0,22021,Yellow Jade,17,862509.25,4,1,Systembuff,Dems/Ugs/Jades/Rocks++++
+100.0,22021,Yellow Jade,20,492869.71,4,1,ShowerBro,afk
+100.0,22021,Yellow Jade,17,492869.71,4,1,Systembuff,Dems/Ugs/Jades/Rocks++++
+100.0,22021,Yellow Jade,17,492869.71,4,3,stalling1,SS Unsealed Set + Gems + Pets
 100.0,22434,,12,400005.75,3,2,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
-100.0,25426,Universe Purse Fragment.,3,97780.44,4,2,Xiomarvic,Frag Freee Help me!!!
+100.0,25426,Universe Purse Fragment.,3,115502.4,5,2,Xiomarvic,Frag Freee Help me!!!
+100.0,25426,Universe Purse Fragment.,5,115502.4,5,4,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,25451,Jade Gem Fragment,1,30589.04,10,9,monchito1,B B
 100.0,25451,Jade Gem Fragment,1,30589.04,10,1,Xiomarvic,Frag Freee Help me!!!
 100.0,25451,Jade Gem Fragment,1,30589.04,10,6,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
@@ -18,28 +20,30 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,5,256568.33,8,3,Systembuff,Dems/Ugs/Jades/Rocks++++
 100.0,25525,,7,256568.33,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,25527,,10,617003.6,3,2,Systembuff,Dems/Ugs/Jades/Rocks++++
-100.0,27020,Gold Pirate Scroll,1,21615.64,7,3,Leviac,cheap stall
+100.0,27020,Gold Pirate Scroll,1,21574.29,8,3,Leviac,cheap stall
 100.0,28035,Solar Shield,1,30713.71,5,1,KingBamako,SHIELD
+100.0,28136,Crown of Decendant,9,950002.25,3,1,stalling1,SS Unsealed Set + Gems + Pets
 100.0,28468,Ice Sealed Mantle of Enigma,1,60000.0,4,1,Killua#47,IMPS ONLY
 100.0,28472,Ice Sealed Bow of Enigma,1,330000.25,3,1,Killua#47,IMPS ONLY
-100.0,29310,Ring of Hawk,4,309082.83,5,1,Killua#47,IMPS ONLY
-100.0,29310,Ring of Hawk,4,309082.83,5,1,Killua#47,IMPS ONLY
-100.0,30139,100x Crystal,2,84241.88,7,37,Guardian,GEMS
+100.0,29310,Ring of Hawk,4,264928.86,6,1,Killua#47,IMPS ONLY
+100.0,29310,Ring of Hawk,4,264928.86,6,1,Killua#47,IMPS ONLY
+100.0,29310,Ring of Hawk,5,264928.86,6,1,stalling1,SS Unsealed Set + Gems + Pets
+100.0,29310,Ring of Hawk,5,264928.86,6,1,stalling1,SS Unsealed Set + Gems + Pets
+100.0,30139,100x Crystal,2,85977.39,7,37,Guardian,GEMS
 99.99,22011,Gemof Sout,20,323012.69,4,1,monchito1,B B
 99.99,22011,Gemof Sout,20,323012.69,4,2,Guardian,GEMS
-99.99,25426,Universe Purse Fragment.,5,97780.44,4,4,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,25452,Rock Gem Fragment,2,37151.61,15,12,monchito1,B B
 99.99,25452,Rock Gem Fragment,2,37151.61,15,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,28462,Ice Sealed Staff of Enigma,2,30000.67,3,1,Killua#47,IMPS ONLY
-99.99,30156,Jackpot Coin,1,9521.9,11,45,staler,Selling
+99.99,30156,Jackpot Coin,1,9473.63,11,45,staler,Selling
 99.98,25451,Jade Gem Fragment,7,30589.04,10,4,staler,Selling
 99.98,25451,Jade Gem Fragment,7,30589.04,10,5,Almao,ROCK GEM FRAGMENTS
 99.98,25452,Rock Gem Fragment,8,37151.61,15,5,Almao,ROCK GEM FRAGMENTS
-99.98,29305,Ring of Destruction,20,126669.83,4,1,Ludopat1n,Ring 50 spr Gem strik sword apps
-99.98,29308,Ring of Valor,19,89379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.98,29308,Ring of Valor,19,89379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.98,29310,Ring of Hawk,50,309082.83,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.98,29310,Ring of Hawk,50,309082.83,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.98,29305,Ring of Destruction,20,127502.38,5,1,Ludopat1n,Ring 50 spr Gem strik sword apps
+99.98,29308,Ring of Valor,19,89379.5,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.98,29308,Ring of Valor,19,89379.5,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.98,29310,Ring of Hawk,50,264928.86,6,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.98,29310,Ring of Hawk,50,264928.86,6,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.97,25451,Jade Gem Fragment,10,30589.04,10,2,Goliat,Fragment Store
 99.97,25452,Rock Gem Fragment,10,37151.61,15,4,staler,Selling
 99.96,25452,Rock Gem Fragment,15,37151.61,15,1,Goliat,Fragment Store
@@ -56,13 +60,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.73,25085,Red Ore,99,306.77,3,99,Siemanko,ores
 67.44,28035,Solar Shield,9999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 67.21,25389,Shark Fin,90,274.5,4,3,xVENDOR1x,RUSH
-63.97,26591,Potion of Lion,1000,2775.22,10,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
+63.8,26591,Potion of Lion,1000,2762.79,11,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 63.57,25389,Shark Fin,100,274.5,4,6,DAGANG8,JELLY/PRESTIGE/BPS
 63.17,26588,Potion of Eagle,1000,2715.46,11,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 63.1,25522,,50,135.5,4,69,BakolNdas,Pumpkin | Purple BP | Heating
 63.08,28326,Divine Grace Cap,40000,108333.33,3,1,ZafirRose,PPS Jackpot Jade Fragment Univer
 62.05,25300,Poison,150,395.3,3,18,batcat,l
-60.97,22000,FieryGem,1111,2846.54,12,34,NainBASTARD,++
+60.9,22000,FieryGem,1111,2841.29,13,34,NainBASTARD,++
 60.08,25080,Iron Ore,30,75.15,4,99,Olkc,cntrl a
 59.46,25496,Cyan Colorant.,2000,4933.33,3,1,cheapstuffsell,cheap
 58.22,25507,Expert Stone,500,1196.83,6,69,AAA123,12313131311
