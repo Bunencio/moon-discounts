@@ -35,9 +35,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,29308,Ring of Valor,19,88379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.97,26377,Pharaoh's Lantern,2,6686.59,3,30,Mismagius,Pharaoh's Lanterns
-99.97,26377,Pharaoh's Lantern,2,6686.59,3,30,Saip,Pharaoh's Lanterns
 99.95,30157,Iron Bar,20,40262.5,3,5,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.94,26377,Pharaoh's Lantern,2,3249.78,3,200,Barya,PHARAOH LANTERN
+99.94,26377,Pharaoh's Lantern,2,3249.78,3,30,Mismagius,Pharaoh's Lanterns
+99.94,26377,Pharaoh's Lantern,2,3249.78,3,30,Saip,Pharaoh's Lanterns
 92.31,2301,,5000,65000.0,3,1,SlaYerS,cheaaaaaaaaaapppppppp
 86.73,25440,Evanescence Stone,200,1506.93,4,1,BL4CKM4RK3T,cheap stuff
 83.41,25440,Evanescence Stone,250,1506.93,4,20,HyjoSeller,LOOK OVER HERE
