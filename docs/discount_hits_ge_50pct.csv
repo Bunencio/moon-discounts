@@ -7,9 +7,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,23,988902.11,6,1,stallerx,Cheap Demonic colossus
 100.0,22016,Demonic Gem of Sout,25,780015.0,3,3,Systembuff,Dems/Ugs/Jades/Rocks++++
 100.0,22434,,12,400005.75,3,2,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
-100.0,25451,Jade Gem Fragment,1,28843.14,9,9,monchito1,B B
-100.0,25451,Jade Gem Fragment,1,28843.14,9,1,Xiomarvic,Frag Freee Help me!!!
-100.0,25451,Jade Gem Fragment,1,28843.14,9,6,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
+100.0,25426,Universe Purse Fragment.,3,97780.44,4,2,Xiomarvic,Frag Freee Help me!!!
+100.0,25451,Jade Gem Fragment,1,29757.71,9,9,monchito1,B B
+100.0,25451,Jade Gem Fragment,1,29757.71,9,1,Xiomarvic,Frag Freee Help me!!!
+100.0,25451,Jade Gem Fragment,1,29757.71,9,6,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,25452,Rock Gem Fragment,1,34361.79,14,10,yuiy78,Jade/Rock/Jewell
 100.0,25525,,5,256568.33,8,2,Xiomarvic,Frag Freee Help me!!!
 100.0,25525,,5,256568.33,8,8,yuiy78,Jade/Rock/Jewell
@@ -27,29 +28,30 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,30139,100x Crystal,2,86145.05,6,37,Guardian,GEMS
 99.99,22011,Gemof Sout,20,323012.69,4,1,monchito1,B B
 99.99,22011,Gemof Sout,20,323012.69,4,2,Guardian,GEMS
+99.99,25426,Universe Purse Fragment.,5,97780.44,4,4,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,25452,Rock Gem Fragment,2,34361.79,14,12,monchito1,B B
 99.99,25452,Rock Gem Fragment,2,34361.79,14,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,28462,Ice Sealed Staff of Enigma,2,30000.67,3,1,Killua#47,IMPS ONLY
 99.99,30156,Jackpot Coin,1,9520.47,11,45,staler,Selling
-99.98,25451,Jade Gem Fragment,7,28843.14,9,4,staler,Selling
-99.98,25451,Jade Gem Fragment,7,28843.14,9,5,Almao,ROCK GEM FRAGMENTS
+99.98,25451,Jade Gem Fragment,7,29757.71,9,4,staler,Selling
+99.98,25451,Jade Gem Fragment,7,29757.71,9,5,Almao,ROCK GEM FRAGMENTS
 99.98,25452,Rock Gem Fragment,8,34361.79,14,5,Almao,ROCK GEM FRAGMENTS
 99.98,29305,Ring of Destruction,20,126669.83,4,1,Ludopat1n,Ring 50 spr Gem strik sword apps
 99.98,29308,Ring of Valor,19,89379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29308,Ring of Valor,19,89379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,264928.86,6,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,264928.86,6,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.97,25451,Jade Gem Fragment,10,28843.14,9,2,Goliat,Fragment Store
+99.97,25451,Jade Gem Fragment,10,29757.71,9,2,Goliat,Fragment Store
 99.97,25452,Rock Gem Fragment,10,34361.79,14,4,staler,Selling
 99.96,25452,Rock Gem Fragment,15,34361.79,14,1,Goliat,Fragment Store
 99.95,30157,Iron Bar,20,40262.5,3,5,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-86.67,25430,Enigma Power,250,1875.31,10,1,Bathroom,Jade jackpot fragmetation S>>>>
-84.74,25440,Evanescence Stone,200,1310.94,5,1,BL4CKM4RK3T,cheap stuff
-80.93,25440,Evanescence Stone,250,1310.94,5,20,HyjoSeller,LOOK OVER HERE
+86.72,25430,Enigma Power,250,1882.24,10,1,Bathroom,Jade jackpot fragmetation S>>>>
+84.99,25440,Evanescence Stone,200,1332.56,4,1,BL4CKM4RK3T,cheap stuff
+81.24,25440,Evanescence Stone,250,1332.56,4,20,HyjoSeller,LOOK OVER HERE
 80.33,26564,Meditation Potion,15,76.25,4,11,Cheap,asdasd
 73.08,30122,Vial of Spirit Reset,2000,7428.14,4,1,Ivynor,All cheap
+70.63,26588,Potion of Eagle,800,2723.68,11,1,BinMakarios,IslandCard/Red BP/GPS/EXPCard/Sa
 70.55,30121,Vial of Accuracy Reset,1111,3772.03,4,11,NainBASTARD,++
-70.25,26588,Potion of Eagle,800,2689.34,13,1,BinMakarios,IslandCard/Red BP/GPS/EXPCard/Sa
 70.0,28458,Ice Sealed Staff of the Sphinx,10000,33333.33,3,1,ThornLey,ppsgold
 68.31,28403,Blade of Incantation,99999,315571.14,6,1,batcat,l
 68.31,28403,Blade of Incantation,99999,315571.14,6,1,batcat,l
@@ -58,13 +60,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.21,25389,Shark Fin,90,274.5,4,3,xVENDOR1x,RUSH
 63.8,26591,Potion of Lion,1000,2762.79,11,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 63.57,25389,Shark Fin,100,274.5,4,6,DAGANG8,JELLY/PRESTIGE/BPS
+63.29,26588,Potion of Eagle,1000,2723.68,11,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 63.1,25522,,50,135.5,4,69,BakolNdas,Pumpkin | Purple BP | Heating
 63.08,28326,Divine Grace Cap,40000,108333.33,3,1,ZafirRose,PPS Jackpot Jade Fragment Univer
-62.82,26588,Potion of Eagle,1000,2689.34,13,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 62.05,25300,Poison,150,395.3,3,18,batcat,l
 61.03,25503,Magical Stone,180,461.91,6,79,xVENDORx,RUSH
 61.03,25503,Magical Stone,180,461.91,6,99,xVENDORx,RUSH
-60.53,22000,FieryGem,1111,2815.08,11,34,NainBASTARD,++
+60.9,22000,FieryGem,1111,2841.29,13,34,NainBASTARD,++
 60.08,25080,Iron Ore,30,75.15,4,99,Olkc,cntrl a
 59.46,25496,Cyan Colorant.,2000,4933.33,3,1,cheapstuffsell,cheap
 58.22,25507,Expert Stone,500,1196.83,6,69,AAA123,12313131311
@@ -74,6 +76,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.67,27029,Ship Penetrator Lv1,250,539.63,3,37,Lja,pet str lv13
 52.94,28444,Fire Sealed Bellow of Evanescence,7000,14874.88,5,1,M0Nster,Cheap
 52.94,28444,Fire Sealed Bellow of Evanescence,7000,14874.88,5,1,M0Nster,Cheap
+51.26,22001,Furious Gem,1111,2279.27,7,30,NainBASTARD,++
 51.17,28035,Solar Shield,14999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
-51.03,22001,Furious Gem,1111,2268.84,6,30,NainBASTARD,++
 50.26,26589,Potion of Bull,1200,2412.45,11,6,Cheap,asdasd
