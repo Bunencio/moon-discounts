@@ -5,68 +5,71 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,20,1035437.57,6,1,stalling1,SS Unsealed lv65 + Gems + Pets
 100.0,22010,Gem of Rage,22,685731.57,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,22010,Gem of Rage,25,685731.57,4,4,Sysh,SELL RAGE / DEMO RAGE
-100.0,22011,Gemof Sout,20,699843.33,3,1,monchito1,0.0
-100.0,22011,Gemof Sout,20,699843.33,3,2,Guardian,GEMS
+100.0,22011,Gemof Sout,15,419912.0,4,4,Systembuff,DemSouls/Ug/Rocks/Dag110++++++
+100.0,22011,Gemof Sout,20,419912.0,4,1,monchito1,B B
+100.0,22011,Gemof Sout,20,419912.0,4,2,Guardian,GEMS
 100.0,22014,Demonic Gem of Colossus,30,1346165.77,6,1,Seraphim,sss
 100.0,22014,Demonic Gem of Colossus,23,1346165.77,6,1,stallerx,Cheap Demonic colossus
 100.0,22014,Demonic Gem of Colossus,24,1346165.77,6,3,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,22014,Demonic Gem of Colossus,30,1346165.77,6,1,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 100.0,22022,Red Jade,19,1275004.5,3,1,stalling1,SS Unsealed lv65 + Gems + Pets
-100.0,22023,Green Jade,4,137502.0,3,2,zRoma,Yel GreenJade/RockFrag/ChaosFrag
-100.0,22030,Earth Rock,23,1892860.43,4,1,ShowerBro,afk
-100.0,25426,Universe Purse Fragment.,4,160001.6,7,2,Xiomarvic,Itms Free Help me
-100.0,25426,Universe Purse Fragment.,5,160001.6,7,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25451,Jade Gem Fragment,1,28310.86,10,9,monchito1,0.0
+100.0,22023,Green Jade,4,135002.0,3,2,zRoma,Yel GreenJade/RockFrag/ChaosFrag
+100.0,22030,Earth Rock,22,1325008.9,5,3,Systembuff,DemSouls/Ug/Rocks/Dag110++++++
+100.0,22030,Earth Rock,23,1325008.9,5,1,ShowerBro,afk
+100.0,22031,Aegis Rock,17,1083339.0,3,1,Systembuff,DemSouls/Ug/Rocks/Dag110++++++
+100.0,25426,Universe Purse Fragment.,3,160001.4,7,2,Xiomarvic,Frag Freee Help me!!!
+100.0,25426,Universe Purse Fragment.,5,160001.4,7,4,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
+100.0,25451,Jade Gem Fragment,1,28310.86,10,9,monchito1,B B
+100.0,25451,Jade Gem Fragment,1,28310.86,10,1,Xiomarvic,Frag Freee Help me!!!
 100.0,25451,Jade Gem Fragment,1,28310.86,10,2,Goliat,Fragment Store
-100.0,25451,Jade Gem Fragment,1,28310.86,10,1,Xiomarvic,Itms Free Help me
 100.0,25451,Jade Gem Fragment,1,28310.86,10,6,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-100.0,25452,Rock Gem Fragment,1,34273.47,10,10,yuiy78,Jade/Chaos Rune/Frag/Rock
-100.0,25452,Rock Gem Fragment,1,34273.47,10,16,zRoma,Yel GreenJade/RockFrag/ChaosFrag
-100.0,25525,,6,461490.66,9,8,yuiy78,Jade/Chaos Rune/Frag/Rock
-100.0,25525,,5,461490.66,9,3,Systembuff,+++
-100.0,25525,,9,461490.66,9,1,Xiomarvic,Itms Free Help me
-100.0,25525,,6,461490.66,9,2,zRoma,Yel GreenJade/RockFrag/ChaosFrag
-100.0,25527,,10,617003.6,3,2,Systembuff,+++
-100.0,27020,Gold Pirate Scroll,1,22433.32,9,3,Leviac,cheap stall
-100.0,28136,Crown of Decendant,15,800005.5,4,1,Lune,crown with 3con stat  lvl 20 agi
-100.0,28136,Crown of Decendant,7,800005.5,4,1,Leviac,cheap stall
+100.0,25452,Rock Gem Fragment,1,33690.31,9,10,yuiy78,Jade/Chaos Rune/Frag/Rock
+100.0,25452,Rock Gem Fragment,1,33690.31,9,16,zRoma,Yel GreenJade/RockFrag/ChaosFrag
+100.0,25525,,5,451876.29,8,3,Systembuff,DemSouls/Ug/Rocks/Dag110++++++
+100.0,25525,,5,451876.29,8,2,Xiomarvic,Frag Freee Help me!!!
+100.0,25525,,6,451876.29,8,8,yuiy78,Jade/Chaos Rune/Frag/Rock
+100.0,25525,,6,451876.29,8,2,zRoma,Yel GreenJade/RockFrag/ChaosFrag
+100.0,25527,,10,617003.6,3,2,Systembuff,DemSouls/Ug/Rocks/Dag110++++++
+100.0,27020,Gold Pirate Scroll,1,21126.85,8,3,Leviac,cheap stall
+100.0,28136,Crown of Decendant,15,640005.8,4,1,Lune,crown with 3con stat  lvl 20 agi
+100.0,28136,Crown of Decendant,7,640005.8,4,1,Leviac,cheap stall
+100.0,28136,Crown of Decendant,7,640005.8,4,1,Killua#24,UNS CHAMP 65
 100.0,28417,Corset of Incantation,1,58333.67,3,1,Leviac,cheap stall
 100.0,28421,Bow of Incantation,2,75000.67,3,1,Leviac,cheap stall
-100.0,28447,Bow of Evanescence,12,960002.2,5,1,Lune,crown with 3con stat  lvl 20 agi
+100.0,28447,Bow of Evanescence,12,963335.17,6,1,Lune,crown with 3con stat  lvl 20 agi
+100.0,28462,Ice Sealed Staff of Enigma,3,67500.75,4,1,Killua#47,IMPS ONLY
 100.0,28468,Ice Sealed Mantle of Enigma,1,60000.0,5,1,Killua#47,IMPS ONLY
 100.0,28472,Ice Sealed Bow of Enigma,1,337500.25,3,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,297507.25,5,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,297507.25,5,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,SS Unsealed lv65 + Gems + Pets
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,SS Unsealed lv65 + Gems + Pets
-100.0,30139,100x Crystal,2,93266.58,8,37,Guardian,GEMS
-99.99,25452,Rock Gem Fragment,2,34273.47,10,12,monchito1,0.0
-99.99,25452,Rock Gem Fragment,2,34273.47,10,1,Goliat,Fragment Store
-99.99,25452,Rock Gem Fragment,2,34273.47,10,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
-99.99,28462,Ice Sealed Staff of Enigma,3,40000.6,5,1,Killua#47,IMPS ONLY
+100.0,30139,100x Crystal,2,92353.66,9,37,Guardian,GEMS
+99.99,25452,Rock Gem Fragment,2,33690.31,9,12,monchito1,B B
+99.99,25452,Rock Gem Fragment,2,33690.31,9,1,Goliat,Fragment Store
+99.99,25452,Rock Gem Fragment,2,33690.31,9,11,Coffi,FRAGMENTS/DEMO/UG/SHADOW CRYSTAL
 99.98,29308,Ring of Valor,19,88379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29308,Ring of Valor,19,88379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.97,30157,Iron Bar,20,64918.18,4,5,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.96,26377,Pharaoh's Lantern,2,5582.87,3,30,Mismagius,Pharaoh's Lanterns
-99.96,26377,Pharaoh's Lantern,2,5582.87,3,30,Saip,Pharaoh's Lanterns
+99.96,26377,Pharaoh's Lantern,2,5367.65,3,30,Mismagius,Pharaoh's Lanterns
+99.96,26377,Pharaoh's Lantern,2,5367.65,3,30,Saip,Pharaoh's Lanterns
 88.74,25440,Evanescence Stone,200,1776.19,4,1,BL4CKM4RK3T,cheap stuff
 83.86,25507,Expert Stone,200,1239.5,7,8,OdeteRoitman,fairy dust
 81.13,28035,Solar Shield,9999,52999.0,3,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
-79.85,26588,Potion of Eagle,500,2481.67,13,1,BossLiam,-0-
+79.88,26588,Potion of Eagle,500,2484.52,14,1,BossLiam,-0-
 79.15,26589,Potion of Bull,500,2398.12,11,1,BossLiam,-0-
 76.25,30121,Vial of Accuracy Reset,1111,4677.34,8,11,NainBASTARD,++
 75.65,30119,Vial of Consitution Reset,1111,4562.76,6,13,NainBASTARD,++
 75.0,28446,Fire Sealed Bow of Evanescence,10000,40000.0,5,1,Che,Xiclets
 74.29,28456,Ice Sealed Robe of the Sphinx,15000,58333.33,3,1,ThornLey,Sealed60
-74.15,25439,Incantation Stone,500,1934.34,4,3,SellerPirate,stuff
 73.33,28458,Ice Sealed Staff of the Sphinx,15000,56250.0,4,1,ThornLey,Sealed60
-73.17,25080,Iron Ore,20,74.53,3,99,Ckuis,garner
+73.19,25080,Iron Ore,20,74.61,4,99,Ckuis,garner
 71.85,25440,Evanescence Stone,500,1776.19,4,2,vendedolmax,2000
 71.7,28035,Solar Shield,14999,52999.0,3,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
-71.41,25258,Spirit Feather,199,696.13,4,80,LunaMaya,S>HullRepair PPS PBS FairyFood
-71.41,25258,Spirit Feather,199,696.13,4,3,DiscipleTwo,CHEAPEST 50brac|OPclerSprHat|BPs
+70.87,25258,Spirit Feather,199,683.2,5,80,LunaMaya,S>HullRepair PPS PBS FairyFood
+70.87,25258,Spirit Feather,199,683.2,5,3,DiscipleTwo,CHEAPEST 50brac|OPclerSprHat|BPs
 66.77,30122,Vial of Spirit Reset,1111,3343.38,6,18,NainBASTARD,++
 62.53,22001,Furious Gem,1000,2668.92,7,1,SellerPirate,stuff
 62.53,22001,Furious Gem,1000,2668.92,7,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
@@ -80,18 +83,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.46,25496,Cyan Colorant.,2000,4933.33,3,1,cheapstuffsell,cheap
 59.26,28411,Staff of Incantation,110000,270000.0,3,1,Kasyadex,FAIRY DUST/EVA POWER/HL VOY/SEAL
 58.7,22000,FieryGem,1111,2690.22,11,34,NainBASTARD,++
+58.49,25505,Standard Stone,999,2406.71,3,5,XthedreamkillerX,afsfzfzf
 58.37,22001,Furious Gem,1111,2668.92,7,31,NainBASTARD,++
-58.11,25505,Standard Stone,999,2384.73,4,5,XthedreamkillerX,afsfzfzf
 57.24,30121,Vial of Accuracy Reset,2000,4677.34,8,3,Ivynor,All cheap
 54.39,28442,Fire Sealed Coat of Evanescence,15000,32888.89,5,1,Che,Xiclets
 52.81,22004,Shining Gem,2222,4708.58,6,71,NainBASTARD,++
 52.61,26594,Novice Explosive Ball,249,525.42,7,42,Heracles,Cheapest in Market
 52.42,26594,Novice Explosive Ball,250,525.42,7,32,Wallnut,Corner Shop
-52.0,28409,Coat of Invocation,80000,166666.67,3,1,xkom,CLERIC ITEMS LVL 2 SHIP LEG BP
-51.65,26588,Potion of Eagle,1200,2481.67,13,1,BinMakarios,FB and more
-51.38,25522,,150,308.51,5,15,Ckuis,garner
+52.0,25522,,150,312.5,6,15,Ckuis,garner
+52.0,28409,Coat of Invocation,80000,166666.67,3,1,xkom,CLERIC EQUIP | LVL 2 SHIP
+51.7,26588,Potion of Eagle,1200,2484.52,14,1,BinMakarios,FB and more
 51.31,27029,Ship Penetrator Lv1,300,616.09,4,37,Lja,garner
 50.06,28430,Fire Sealed Robe of Malediction,4400,8810.89,5,1,bowstalls,lv40-50-60-65equipment 3Pages
 50.06,28430,Fire Sealed Robe of Malediction,4400,8810.89,5,1,bowstalls,lv40-50-60-65equipment 3Pages
-50.03,26326,Elven Royal Signet,500,1000.59,10,99,MiloOvaltinePlus,SSCROLL / SEALED 60 VOY/ ELVEN
-50.0,28462,Ice Sealed Staff of Enigma,20000,40000.6,5,1,xVENDOR1x,RUSH
+50.03,26326,Elven Royal Signet,500,1000.58,10,99,MiloOvaltinePlus,SSCROLL / SEALED 60 VOY/ ELVEN
