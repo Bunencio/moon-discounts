@@ -23,8 +23,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,6,468800.92,9,8,yuiy78,Jade/Chaos Rune/Frag/Rock
 100.0,25527,,10,680836.17,3,2,Systembuff,Rocks/Jades/Souls/Dagg 110
 100.0,27020,Gold Pirate Scroll,1,22409.63,9,3,Leviac,cheap stall
-100.0,28136,Crown of Decendant,15,800005.5,4,1,Lune,crown with 3con stat  lvl 20 agi
-100.0,28136,Crown of Decendant,7,800005.5,4,1,Leviac,cheap stall
 100.0,28417,Corset of Incantation,1,58333.67,3,1,Leviac,cheap stall
 100.0,28421,Bow of Incantation,2,75000.67,3,1,Leviac,cheap stall
 100.0,28447,Bow of Evanescence,12,906002.4,5,1,Lune,crown with 3con stat  lvl 20 agi
@@ -35,12 +33,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29310,Ring of Hawk,5,297507.25,5,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,Unsealed SS items + Gems + Pets
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,Unsealed SS items + Gems + Pets
-100.0,30139,100x Crystal,2,92655.74,9,37,Guardian,GEMS
+100.0,30139,100x Crystal,2,92733.04,9,37,Guardian,GEMS
 99.99,22011,Gemof Sout,20,323012.69,4,1,monchito1,B B
 99.99,22011,Gemof Sout,20,323012.69,4,2,Guardian,GEMS
 99.99,28035,Solar Shield,1,8333.0,3,1,KingBamako,SHIELD
-99.98,29308,Ring of Valor,19,88379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.98,29308,Ring of Valor,19,88379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.98,29308,Ring of Valor,19,86719.14,4,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.98,29308,Ring of Valor,19,86719.14,4,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.97,26377,Pharaoh's Lantern,2,6686.59,3,30,Mismagius,Pharaoh's Lanterns
@@ -53,7 +51,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.17,30119,Vial of Consitution Reset,1111,4661.3,4,11,NainBASTARD,++
 75.84,30121,Vial of Accuracy Reset,1111,4598.59,6,11,NainBASTARD,++
 74.29,28456,Ice Sealed Robe of the Sphinx,15000,58333.33,3,1,ThornLey,Sealed60
-73.91,28446,Fire Sealed Bow of Evanescence,10000,38333.33,6,1,Che,Xiclets
 73.33,28458,Ice Sealed Staff of the Sphinx,15000,56250.0,4,1,ThornLey,Sealed60
 73.18,25080,Iron Ore,20,74.57,4,99,Ckuis,garner
 71.8,28442,Fire Sealed Coat of Evanescence,7999,28363.45,6,1,Nikoz,Chet for Sale Come Looky
@@ -63,13 +60,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.15,28132,Voyager Cap,17000,51750.0,3,1,Yennefer,PURSE SUN CLOUD MOON JACK IRON
 66.77,30122,Vial of Spirit Reset,1111,3343.38,6,18,NainBASTARD,++
 66.34,26591,Potion of Lion,900,2674.07,12,18,ZafirRose,universe/Gps/jade jack/cap
+65.91,28446,Fire Sealed Bow of Evanescence,15000,44000.0,5,1,Nixm,Cheap Lv50 Items
 64.63,25389,Shark Fin,100,282.73,3,6,DAGANG8,JELLY/PRESTIGE/BPS
 61.61,22001,Furious Gem,1000,2605.03,7,1,SellerPirate,stuff
 61.61,22001,Furious Gem,1000,2605.03,7,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
 61.61,22001,Furious Gem,1000,2605.03,7,1,Lja,garner
 61.35,28132,Voyager Cap,20000,51750.0,3,1,lamamandoski,C C
 61.35,28132,Voyager Cap,20000,51750.0,3,1,lamamandoski,C C
-60.87,28446,Fire Sealed Bow of Evanescence,15000,38333.33,6,1,Nixm,Cheap Lv50 Items
 60.41,25505,Standard Stone,999,2523.55,4,5,XthedreamkillerX,afsfzfzf
 60.0,28326,Divine Grace Cap,50000,124997.5,4,1,ZafirRose,universe/Gps/jade jack/cap
 59.46,25496,Cyan Colorant.,2000,4933.33,3,1,cheapstuffsell,cheap
