@@ -30,7 +30,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22011,Gemof Sout,20,323012.69,4,2,Guardian,GEMS
 99.99,25452,Rock Gem Fragment,2,32668.53,14,12,monchito1,B B
 99.99,25452,Rock Gem Fragment,2,32668.53,14,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
-99.99,30156,Jackpot Coin,1,9493.53,12,45,staler,Selling
+99.99,30156,Jackpot Coin,1,9342.34,14,45,staler,Selling
 99.98,25451,Jade Gem Fragment,7,28729.48,8,4,staler,Selling
 99.98,25451,Jade Gem Fragment,7,28729.48,8,5,Almao,ROCK GEM FRAGMENTS
 99.98,25452,Rock Gem Fragment,8,32668.53,14,5,Almao,ROCK GEM FRAGMENTS
@@ -50,11 +50,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.68,30122,Vial of Spirit Reset,2000,7062.12,5,1,Ivynor,All cheap
 70.55,30121,Vial of Accuracy Reset,1111,3772.03,4,11,NainBASTARD,++
 70.0,28458,Ice Sealed Staff of the Sphinx,10000,33333.33,3,1,ThornLey,ppsgold
-68.17,28403,Blade of Incantation,99999,314142.57,6,1,batcat,l
-68.17,28403,Blade of Incantation,99999,314142.57,6,1,batcat,l
 67.68,25085,Red Ore,99,306.3,3,99,Siemanko,ores
 67.44,28035,Solar Shield,9999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 67.21,25389,Shark Fin,90,274.5,4,3,xVENDOR1x,RUSH
+64.69,28403,Blade of Incantation,99999,283166.33,5,1,batcat,l
+64.69,28403,Blade of Incantation,99999,283166.33,5,1,batcat,l
 63.68,26591,Potion of Lion,1000,2753.01,11,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 63.57,25389,Shark Fin,100,274.5,4,6,DAGANG8,JELLY/PRESTIGE/BPS
 63.0,26588,Potion of Eagle,1000,2702.89,10,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
@@ -64,11 +64,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.08,25080,Iron Ore,30,75.15,4,99,Olkc,cntrl a
 59.46,25496,Cyan Colorant.,2000,4933.33,3,1,cheapstuffsell,cheap
 57.43,28430,Fire Sealed Robe of Malediction,4500,10572.0,6,1,iLegolas,Power 20CookinCard Jackpot Lv2
-56.49,25507,Expert Stone,500,1149.29,6,69,AAA123,12313131311
-56.49,25507,Expert Stone,500,1149.29,6,12,AAA123,12313131311
+56.5,25507,Expert Stone,500,1149.36,7,69,AAA123,12313131311
+56.5,25507,Expert Stone,500,1149.36,7,12,AAA123,12313131311
 56.2,22004,Shining Gem,2222,5072.81,8,63,NainBASTARD,++
-55.86,25503,Magical Stone,180,407.79,4,72,xVENDORx,RUSH
-55.86,25503,Magical Stone,180,407.79,4,99,xVENDORx,RUSH
+54.05,25503,Magical Stone,180,391.73,4,72,xVENDORx,RUSH
+54.05,25503,Magical Stone,180,391.73,4,99,xVENDORx,RUSH
 53.67,27029,Ship Penetrator Lv1,250,539.63,3,37,Lja,pet str lv13
 52.88,28444,Fire Sealed Bellow of Evanescence,7000,14857.0,5,1,M0Nster,Cheap
 52.88,28444,Fire Sealed Bellow of Evanescence,7000,14857.0,5,1,M0Nster,Cheap
