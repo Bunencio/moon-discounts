@@ -14,16 +14,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,33833.77,12,9,monchito1,B B
 100.0,25451,Jade Gem Fragment,1,33833.77,12,1,Xiomarvic,Frag Freee Help me!!!
 100.0,25451,Jade Gem Fragment,1,33833.77,12,6,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
-100.0,25452,Rock Gem Fragment,2,48494.47,11,12,monchito1,B B
-100.0,25452,Rock Gem Fragment,1,48494.47,11,10,yuiy78,Jade/Chaos Rune/Frag/Rock
-100.0,25452,Rock Gem Fragment,2,48494.47,11,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
+100.0,25452,Rock Gem Fragment,2,48494.4,11,12,monchito1,B B
+100.0,25452,Rock Gem Fragment,1,48494.4,11,10,yuiy78,Jade/Chaos Rune/Frag/Rock
+100.0,25452,Rock Gem Fragment,2,48494.4,11,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,25508,Demonic Gem Fragment,2,77777.78,3,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,25508,Demonic Gem Fragment,2,77777.78,3,1,Signet,Demonic Gem of rage
 100.0,25525,,5,468654.71,10,3,Systembuff,Ugs/Jades/Rocks+++
 100.0,25525,,5,468654.71,10,2,Xiomarvic,Frag Freee Help me!!!
 100.0,25525,,6,468654.71,10,8,yuiy78,Jade/Chaos Rune/Frag/Rock
 100.0,25527,,10,680836.17,3,2,Systembuff,Ugs/Jades/Rocks+++
-100.0,27020,Gold Pirate Scroll,1,22290.17,9,3,Leviac,cheap stall
+100.0,27020,Gold Pirate Scroll,1,22308.03,9,3,Leviac,cheap stall
 100.0,28417,Corset of Incantation,1,58333.67,3,1,Leviac,cheap stall
 100.0,28421,Bow of Incantation,2,75000.67,3,1,Leviac,cheap stall
 100.0,28462,Ice Sealed Staff of Enigma,3,62000.6,5,1,Killua#47,IMPS ONLY
@@ -57,7 +57,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.57,25258,Spirit Feather,199,676.15,5,80,LunaMaya,S>HullRepair PPS PBS FairyFood
 66.77,30122,Vial of Spirit Reset,1111,3343.38,6,18,NainBASTARD,++
 66.67,28454,Ice Sealed Blade of Enigma,200000,600000.0,4,1,Inamerl,Gems/Boe clean/voy armor cheap
-66.45,26591,Potion of Lion,900,2682.34,13,18,ZafirRose,universe/Gps/jade jack/cap
+66.48,26591,Potion of Lion,900,2685.1,12,18,ZafirRose,universe/Gps/jade jack/cap
 64.14,25389,Shark Fin,100,278.83,3,6,DAGANG8,JELLY/PRESTIGE/BPS
 63.78,28446,Fire Sealed Bow of Evanescence,15000,41416.67,6,1,Nixm,Cheap Lv50 Items
 61.8,22001,Furious Gem,1000,2618.11,8,1,SellerPirate,stuff
@@ -75,6 +75,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.28,25507,Expert Stone,500,1143.71,8,12,AAA123,12313131311
 55.34,30121,Vial of Accuracy Reset,2000,4478.58,5,3,Ivynor,All cheap
 54.31,28430,Fire Sealed Robe of Malediction,4500,9849.8,5,1,iLegolas,GPs CookinCard Ref Power PotLion
-53.4,26591,Potion of Lion,1250,2682.34,13,3,HyjoSeller,LOOK OVER HERE
+53.45,26591,Potion of Lion,1250,2685.1,12,3,HyjoSeller,LOOK OVER HERE
 52.0,28409,Coat of Invocation,80000,166666.67,3,1,xkom,CLERIC EQUIP | LVL 2 SHIP
 51.27,26588,Potion of Eagle,1200,2462.38,13,1,BinMakarios,FB and more
