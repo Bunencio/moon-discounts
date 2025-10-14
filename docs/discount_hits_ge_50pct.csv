@@ -3,14 +3,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,22,1035437.43,6,1,BV10,f
 100.0,22009,Gem of Colossus,21,1035437.43,6,1,Guardian,GEMS
 100.0,22009,Gem of Colossus,20,1035437.43,6,1,stalling1,Unsealed SS items + Gems + Pets
-100.0,22010,Gem of Rage,22,685731.57,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,22010,Gem of Rage,22,685731.57,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!
 100.0,22010,Gem of Rage,25,685731.57,4,4,Sysh,SELL RAGE / DEMO RAGE
 100.0,22011,Gemof Sout,15,323012.69,4,7,Systembuff,Rocks/Jades/Souls/Dagg 110
 100.0,22014,Demonic Gem of Colossus,30,1900006.62,5,1,Seraphim,sss
 100.0,22014,Demonic Gem of Colossus,23,1900006.62,5,1,stallerx,Cheap Demonic colossus
 100.0,22022,Red Jade,18,1020007.2,4,1,Systembuff,Rocks/Jades/Souls/Dagg 110
 100.0,22022,Red Jade,19,1020007.2,4,1,stalling1,Unsealed SS items + Gems + Pets
-100.0,22023,Green Jade,4,135002.0,3,2,zRoma,Yel GreenJade/RockFrag/ChaosFrag
 100.0,22030,Earth Rock,22,1325008.9,5,3,Systembuff,Rocks/Jades/Souls/Dagg 110
 100.0,22030,Earth Rock,23,1325008.9,5,1,ShowerBro,afk
 100.0,22031,Aegis Rock,17,1083339.0,3,1,Systembuff,Rocks/Jades/Souls/Dagg 110
@@ -18,15 +17,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,37292.04,11,9,monchito1,B B
 100.0,25451,Jade Gem Fragment,1,37292.04,11,1,Xiomarvic,Frag Freee Help me!!!
 100.0,25451,Jade Gem Fragment,1,37292.04,11,2,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,38147.11,9,10,yuiy78,Jade/Chaos Rune/Frag/Rock
-100.0,25452,Rock Gem Fragment,1,38147.11,9,16,zRoma,Yel GreenJade/RockFrag/ChaosFrag
+100.0,25452,Rock Gem Fragment,2,48491.81,9,12,monchito1,B B
+100.0,25452,Rock Gem Fragment,1,48491.81,9,10,yuiy78,Jade/Chaos Rune/Frag/Rock
+100.0,25452,Rock Gem Fragment,2,48491.81,9,1,Goliat,Fragment Store
 100.0,25508,Demonic Gem Fragment,2,87499.75,3,1,Signet,Demonic Gem of rage
-100.0,25525,,5,456539.58,9,3,Systembuff,Rocks/Jades/Souls/Dagg 110
-100.0,25525,,5,456539.58,9,2,Xiomarvic,Frag Freee Help me!!!
-100.0,25525,,6,456539.58,9,8,yuiy78,Jade/Chaos Rune/Frag/Rock
-100.0,25525,,6,456539.58,9,2,zRoma,Yel GreenJade/RockFrag/ChaosFrag
+100.0,25525,,5,474800.92,9,3,Systembuff,Rocks/Jades/Souls/Dagg 110
+100.0,25525,,5,474800.92,9,2,Xiomarvic,Frag Freee Help me!!!
+100.0,25525,,6,474800.92,9,8,yuiy78,Jade/Chaos Rune/Frag/Rock
 100.0,25527,,10,680836.17,3,2,Systembuff,Rocks/Jades/Souls/Dagg 110
-100.0,27020,Gold Pirate Scroll,1,22600.73,8,3,Leviac,cheap stall
+100.0,27020,Gold Pirate Scroll,1,22409.63,9,3,Leviac,cheap stall
 100.0,28136,Crown of Decendant,15,640005.8,4,1,Lune,crown with 3con stat  lvl 20 agi
 100.0,28136,Crown of Decendant,7,640005.8,4,1,Leviac,cheap stall
 100.0,28136,Crown of Decendant,7,640005.8,4,1,Killua#24,UNS CHAMP 65
@@ -40,11 +39,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29310,Ring of Hawk,5,297507.25,5,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,Unsealed SS items + Gems + Pets
 100.0,29310,Ring of Hawk,5,297507.25,5,1,stalling1,Unsealed SS items + Gems + Pets
-100.0,30139,100x Crystal,2,92683.83,10,37,Guardian,GEMS
+100.0,30139,100x Crystal,2,92837.59,10,37,Guardian,GEMS
 99.99,22011,Gemof Sout,20,323012.69,4,1,monchito1,B B
 99.99,22011,Gemof Sout,20,323012.69,4,2,Guardian,GEMS
-99.99,25452,Rock Gem Fragment,2,38147.11,9,12,monchito1,B B
-99.99,25452,Rock Gem Fragment,2,38147.11,9,1,Goliat,Fragment Store
 99.98,29308,Ring of Valor,19,88379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29308,Ring of Valor,19,88379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,297507.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
@@ -86,6 +83,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.81,25507,Expert Stone,500,1213.92,8,99,AAA123,12313131311
 58.81,25507,Expert Stone,500,1213.92,8,12,AAA123,12313131311
 58.4,22000,FieryGem,1111,2670.52,11,34,NainBASTARD,++
+58.27,25423,Evanescence Rock,600,1437.98,5,8,ghost26,scroll
 57.48,22001,Furious Gem,1111,2612.65,6,31,NainBASTARD,++
 56.42,30121,Vial of Accuracy Reset,2000,4589.12,7,3,Ivynor,All cheap
 54.71,26594,Novice Explosive Ball,200,441.65,8,1,HyjoSeller,LOOK OVER HERE
@@ -98,5 +96,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.74,22004,Shining Gem,2222,4702.11,6,71,NainBASTARD,++
 52.28,28430,Fire Sealed Robe of Malediction,4500,9429.8,5,1,iLegolas,GPs CookinCard Ref Power PotLion
 52.0,28409,Coat of Invocation,80000,166666.67,3,1,xkom,CLERIC EQUIP | LVL 2 SHIP
-51.76,26588,Potion of Eagle,1200,2487.32,12,1,BinMakarios,FB and more
+51.63,26588,Potion of Eagle,1200,2480.91,13,1,BinMakarios,FB and more
 50.03,26326,Elven Royal Signet,500,1000.6,10,99,MiloOvaltinePlus,SSCROLL / SEALED 60 VOY/ ELVEN
