@@ -1,11 +1,11 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-10-14,25525,,yuiy78,Jade/Rock/Jewell,5,467800.74,467795.74,8,3742365.92,100.0,8
+2025-10-14,25525,,yuiy78,Jade/Rock/Jewell,5,469184.45,469179.45,8,3753435.59,100.0,7
 2025-10-14,30139,100x Crystal,Guardian,GEMS,2,89887.35,89885.35,37,3325757.83,100.0,5
 2025-10-14,22010,Gem of Rage,Sysh,SELL RAGE / DEMO RAGE,25,685731.57,685706.57,4,2742826.29,100.0,4
 2025-10-14,22011,Gemof Sout,Systembuff,Dems/Ugs/Jades/Rocks++++,15,323012.69,322997.69,7,2260983.85,100.0,4
-2025-10-14,25525,,Systembuff,Dems/Ugs/Jades/Rocks++++,5,467800.74,467795.74,3,1403387.22,100.0,8
+2025-10-14,25525,,Systembuff,Dems/Ugs/Jades/Rocks++++,5,469184.45,469179.45,3,1407538.35,100.0,7
 2025-10-14,25527,,Systembuff,Dems/Ugs/Jades/Rocks++++,10,680836.17,680826.17,2,1361652.33,100.0,3
-2025-10-14,25525,,Xiomarvic,Frag Freee Help me!!!,5,467800.74,467795.74,2,935591.48,100.0,8
+2025-10-14,25525,,Xiomarvic,Frag Freee Help me!!!,5,469184.45,469179.45,2,938358.9,100.0,7
 2025-10-14,22010,Gem of Rage,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!,22,685731.57,685709.57,1,685709.57,100.0,4
 2025-10-14,25426,Universe Purse Fragment.,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.,5,146155.46,146150.46,4,584601.85,100.0,7
 2025-10-14,28472,Ice Sealed Bow of Enigma,Killua#47,IMPS ONLY,1,504000.2,503999.2,1,503999.2,100.0,4
@@ -39,8 +39,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,25440,Evanescence Stone,HyjoSeller,LOOK OVER HERE,250,1506.93,1256.93,20,25138.61,83.41,4
 2025-10-14,30121,Vial of Accuracy Reset,NainBASTARD,++,1111,4478.58,3367.58,11,37043.36,75.19,5
 2025-10-14,30119,Vial of Consitution Reset,NainBASTARD,++,1111,4418.68,3307.68,11,36384.5,74.86,4
-2025-10-14,28456,Ice Sealed Robe of the Sphinx,ThornLey,Sealed60,15000,58333.33,43333.33,1,43333.33,74.29,3
-2025-10-14,28458,Ice Sealed Staff of the Sphinx,ThornLey,Sealed60,15000,58333.33,43333.33,1,43333.33,74.29,3
 2025-10-14,30122,Vial of Spirit Reset,NainBASTARD,++,1111,3343.38,2232.38,18,40182.75,66.77,6
 2025-10-14,28454,Ice Sealed Blade of Enigma,Inamerl,Gems/Boe clean/voy armor cheap,200000,600000.0,400000.0,1,400000.0,66.67,4
 2025-10-14,26591,Potion of Lion,ZafirRose,universe/Gps/jade jack/cap,900,2680.26,1780.26,18,32044.7,66.42,12
@@ -65,11 +63,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,25420,Sunlight Heart,buyme,ALMOST FREEE!!,14999,23592.37,8593.37,9,77340.35,36.42,5
 2025-10-14,30102,1000 Reputation Scroll,voyo,best stall,5499,8598.04,3099.04,17,52683.6,36.04,8
 2025-10-14,28462,Ice Sealed Staff of Enigma,RiasGremory,CHAOSJEWEL GOLDBAR FAIRYDUST,40000,62000.6,22000.6,1,22000.6,35.48,5
+2025-10-14,25534,,freeee,cheap,7500,11553.65,4053.65,39,158092.22,35.09,9
 2025-10-14,25507,Expert Stone,Yennefer,PURSE SUN CLOUD MOON JACK IRON,750,1154.28,404.28,99,40024.07,35.02,6
-2025-10-14,25534,,freeee,cheap,7500,11521.37,4021.37,39,156833.33,34.9,9
 2025-10-14,25031,Refining Gem,IronWory,S>REF GEM,6500,9959.43,3459.43,10,34594.33,34.74,12
 2025-10-14,25430,Enigma Power,WindSeal,Demonic Rock/PPS/Enigma Power,1260,1882.79,622.79,99,61656.7,33.08,8
 2025-10-14,25430,Enigma Power,WindSeal,Demonic Rock/PPS/Enigma Power,1260,1882.79,622.79,63,39236.08,33.08,8
+2025-10-14,25534,,voyo,best stall,7777,11553.65,3776.65,19,71756.28,32.69,9
 2025-10-14,28403,Blade of Incantation,Barbosa,CRUZ cheap PRO!,300000,445000.0,145000.0,1,145000.0,32.58,3
 2025-10-14,28403,Blade of Incantation,XiXi0n,cheap cheap cheap cheap cheap,300000,445000.0,145000.0,1,145000.0,32.58,3
 2025-10-14,25430,Enigma Power,Garp,CHEAP ENIGMA POWER = UNS65,1270,1882.79,612.79,99,60666.7,32.55,8
@@ -77,7 +76,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,25430,Enigma Power,Garp,CHEAP ENIGMA POWER = UNS65,1270,1882.79,612.79,99,60666.7,32.55,8
 2025-10-14,25430,Enigma Power,Garp,CHEAP ENIGMA POWER = UNS65,1270,1882.79,612.79,99,60666.7,32.55,8
 2025-10-14,25430,Enigma Power,Garp,CHEAP ENIGMA POWER = UNS65,1270,1882.79,612.79,99,60666.7,32.55,8
-2025-10-14,25534,,voyo,best stall,7777,11521.37,3744.37,19,71142.98,32.5,9
 2025-10-14,25507,Expert Stone,VendedoraJequiti,BOE / STANDARD STONE / STONES,800,1154.28,354.28,99,35074.07,30.69,6
 2025-10-14,25507,Expert Stone,VendedoraJequiti,BOE / STANDARD STONE / STONES,800,1154.28,354.28,79,27988.4,30.69,6
 2025-10-14,25507,Expert Stone,VendedoraJequiti,BOE / STANDARD STONE / STONES,800,1154.28,354.28,77,27279.83,30.69,6
@@ -94,8 +92,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,22001,Furious Gem,STAII,Cheap UG | Normal Gems | Pots,1990,2618.11,628.11,68,42711.43,23.99,8
 2025-10-14,22006,Spirit Gem,STAII,Cheap UG | Normal Gems | Pots,4990,6539.56,1549.56,62,96072.52,23.7,7
 2025-10-14,26588,Potion of Eagle,Juyii,POTIONS CHEAP,1888,2462.38,574.38,54,31016.7,23.33,13
-2025-10-14,25534,,tiendaonline,offer offer offer,8999,11521.37,2522.37,37,93327.6,21.89,9
-2025-10-14,25534,,*DEATH*~#14,FRAGMENTO 9K GO,9000,11521.37,2521.37,30,75641.03,21.88,9
+2025-10-14,25534,,tiendaonline,offer offer offer,8999,11553.65,2554.65,37,94521.92,22.11,9
+2025-10-14,25534,,*DEATH*~#14,FRAGMENTO 9K GO,9000,11553.65,2553.65,30,76609.4,22.1,9
 2025-10-14,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1280.09,280.09,99,27729.37,21.88,5
 2025-10-14,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1280.09,280.09,92,25768.71,21.88,5
 2025-10-14,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1280.09,280.09,79,22127.48,21.88,5
@@ -124,8 +122,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,30209,Island Card,Demicoin3,99c Cooked Goods Price 99c,2499,2981.65,482.65,61,29441.69,16.19,6
 2025-10-14,30156,Jackpot Coin,ii3,fbs/ts/jackpot/rock jade frags,8000,9399.19,1399.19,40,55967.77,14.89,12
 2025-10-14,30022,Buffing Card,Aois,STALL,40000,46785.25,6785.25,3,20355.75,14.5,4
-2025-10-14,25525,,Bathroom,S>>>>>>>>>>>>>>>,399999,467800.74,67801.74,1,67801.74,14.49,8
-2025-10-14,25534,,buyme,ALMOST FREEE!!,9999,11521.37,1522.37,28,42626.29,13.21,9
+2025-10-14,25534,,buyme,ALMOST FREEE!!,9999,11553.65,1554.65,28,43530.1,13.46,9
 2025-10-14,26346,Lantern,STAII,Cheap UG | Normal Gems | Pots,3990,4522.1,532.1,80,42568.03,11.77,10
 2025-10-14,26344,Novice Weightless Potion,STAII,Cheap UG | Normal Gems | Pots,2990,3350.66,360.66,99,35705.45,10.76,6
 2025-10-14,26344,Novice Weightless Potion,STAII,Cheap UG | Normal Gems | Pots,2990,3350.66,360.66,92,33180.82,10.76,6
