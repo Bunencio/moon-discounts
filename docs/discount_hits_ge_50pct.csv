@@ -1,5 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,14,874246.64,3,10,stalling1,Unsealed SS items + Gems + Pets
+100.0,22007,Gem of Striking,14,807147.82,3,10,stalling1,Unsealed SS items + Gems + Pets
 100.0,22009,Gem of Colossus,22,1035437.43,6,1,BV10,f
 100.0,22009,Gem of Colossus,21,1035437.43,6,1,Guardian,GEMS
 100.0,22009,Gem of Colossus,20,1035437.43,6,1,stalling1,Unsealed SS items + Gems + Pets
@@ -26,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,6,456539.58,9,8,yuiy78,Jade/Chaos Rune/Frag/Rock
 100.0,25525,,6,456539.58,9,2,zRoma,Yel GreenJade/RockFrag/ChaosFrag
 100.0,25527,,10,680836.17,3,2,Systembuff,Rocks/Jades/Souls/Dagg 110
-100.0,27020,Gold Pirate Scroll,1,22087.27,9,3,Leviac,cheap stall
+100.0,27020,Gold Pirate Scroll,1,22600.73,8,3,Leviac,cheap stall
 100.0,28136,Crown of Decendant,15,640005.8,4,1,Lune,crown with 3con stat  lvl 20 agi
 100.0,28136,Crown of Decendant,7,640005.8,4,1,Leviac,cheap stall
 100.0,28136,Crown of Decendant,7,640005.8,4,1,Killua#24,UNS CHAMP 65
@@ -71,7 +71,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.57,25258,Spirit Feather,199,676.15,5,3,DiscipleTwo,CHEAPEST 50brac|OPclerSprHat|BPs
 67.15,28132,Voyager Cap,17000,51750.0,3,1,Yennefer,PURSE SUN CLOUD MOON JACK IRON
 66.77,30122,Vial of Spirit Reset,1111,3343.38,6,18,NainBASTARD,++
-66.34,26591,Potion of Lion,900,2673.51,11,18,ZafirRose,universe/Gps/jade jack/cap
+66.3,26591,Potion of Lion,900,2670.65,12,18,ZafirRose,universe/Gps/jade jack/cap
 61.72,22001,Furious Gem,1000,2612.65,6,1,SellerPirate,stuff
 61.72,22001,Furious Gem,1000,2612.65,6,1,EvilRian,FULL OF CRAPAAAAAAAAAAAAAAAAAAAA
 61.72,22001,Furious Gem,1000,2612.65,6,1,Lja,garner
@@ -94,7 +94,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.17,28442,Fire Sealed Coat of Evanescence,13000,28363.45,6,1,Nixm,Cheap Lv50 Items
 53.34,28430,Fire Sealed Robe of Malediction,4400,9429.8,5,1,bowstalls,lv40-50-60-65equipment 3Pages
 53.34,28430,Fire Sealed Robe of Malediction,4400,9429.8,5,1,bowstalls,lv40-50-60-65equipment 3Pages
-53.25,26591,Potion of Lion,1250,2673.51,11,3,HyjoSeller,LOOK OVER HERE
+53.19,26591,Potion of Lion,1250,2670.65,12,3,HyjoSeller,LOOK OVER HERE
 52.74,22004,Shining Gem,2222,4702.11,6,71,NainBASTARD,++
 52.28,28430,Fire Sealed Robe of Malediction,4500,9429.8,5,1,iLegolas,GPs CookinCard Ref Power PotLion
 52.0,28409,Coat of Invocation,80000,166666.67,3,1,xkom,CLERIC EQUIP | LVL 2 SHIP
