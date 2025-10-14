@@ -27,7 +27,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,31387.64,13,12,monchito1,B B
 99.99,25452,Rock Gem Fragment,2,31387.64,13,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,28462,Ice Sealed Staff of Enigma,2,30000.67,3,1,Killua#47,IMPS ONLY
-99.99,30156,Jackpot Coin,1,9582.06,9,45,staler,Selling
+99.99,30156,Jackpot Coin,1,9582.9,9,45,staler,Selling
 99.98,29308,Ring of Valor,19,89379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29308,Ring of Valor,19,89379.25,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,264928.86,6,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
@@ -48,12 +48,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.68,28403,Blade of Incantation,99999,394999.5,6,1,batcat,l
 73.43,30119,Vial of Consitution Reset,1111,4180.89,3,11,NainBASTARD,++
 70.55,30121,Vial of Accuracy Reset,1111,3772.03,4,11,NainBASTARD,++
+70.0,28458,Ice Sealed Staff of the Sphinx,10000,33333.33,3,1,ThornLey,ppsgold
 67.44,28035,Solar Shield,9999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 67.21,25389,Shark Fin,90,274.5,4,3,xVENDOR1x,RUSH
-66.32,28326,Divine Grace Cap,40000,118747.5,4,1,ZafirRose,PPS Jackpot Jade Fragment Univer
 63.73,28432,Fire Sealed Staff of Mirage,3000,8271.29,7,1,VENDEDORAA,SM 50 GLOVES +5
 63.57,25389,Shark Fin,100,274.5,4,6,DAGANG8,JELLY/PRESTIGE/BPS
 63.1,25522,,50,135.5,4,69,BakolNdas,Pumpkin | Purple BP | Heating
+63.08,28326,Divine Grace Cap,40000,108333.33,3,1,ZafirRose,PPS Jackpot Jade Fragment Univer
 62.05,25300,Poison,150,395.3,3,18,batcat,l
 61.42,30122,Vial of Spirit Reset,1111,2879.8,5,18,NainBASTARD,++
 61.03,25503,Magical Stone,180,461.91,6,79,xVENDORx,RUSH
@@ -63,7 +64,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.22,25507,Expert Stone,500,1196.83,6,69,AAA123,12313131311
 58.22,25507,Expert Stone,500,1196.83,6,12,AAA123,12313131311
 55.73,22004,Shining Gem,2222,5019.11,7,71,NainBASTARD,++
-55.61,26588,Potion of Eagle,1200,2703.44,12,1,BinMakarios,FB and more
+55.65,26588,Potion of Eagle,1200,2705.68,11,1,BinMakarios,FB and more
 54.49,25080,Iron Ore,30,65.92,3,99,Olkc,cntrl a
 54.31,28430,Fire Sealed Robe of Malediction,4500,9849.8,5,1,iLegolas,Power 20CookinCard Jackpot Lv2
 53.67,27029,Ship Penetrator Lv1,250,539.63,3,37,Lja,pet str lv13
