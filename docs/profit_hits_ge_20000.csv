@@ -45,11 +45,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,30119,Vial of Consitution Reset,NainBASTARD,++,1111,4418.68,3307.68,11,36384.5,74.86,4
 2025-10-14,28456,Ice Sealed Robe of the Sphinx,ThornLey,Sealed60,15000,58333.33,43333.33,1,43333.33,74.29,3
 2025-10-14,28458,Ice Sealed Staff of the Sphinx,ThornLey,Sealed60,15000,56250.0,41250.0,1,41250.0,73.33,4
-2025-10-14,25258,Spirit Feather,LunaMaya,S>HullRepair PPS PBS FairyFood,199,676.15,477.15,80,38171.62,70.57,5
 2025-10-14,30122,Vial of Spirit Reset,NainBASTARD,++,1111,3343.38,2232.38,18,40182.75,66.77,6
 2025-10-14,28454,Ice Sealed Blade of Enigma,Inamerl,Gems/Boe clean/voy armor cheap,200000,600000.0,400000.0,1,400000.0,66.67,4
 2025-10-14,26591,Potion of Lion,ZafirRose,universe/Gps/jade jack/cap,900,2651.9,1751.9,18,31534.28,66.06,13
 2025-10-14,28326,Divine Grace Cap,ZafirRose,universe/Gps/jade jack/cap,50000,124997.5,74997.5,1,74997.5,60.0,4
+2025-10-14,25258,Spirit Feather,LunaMaya,S>HullRepair PPS PBS FairyFood,199,491.29,292.29,80,23383.11,59.49,6
+2025-10-14,25258,Spirit Feather,tinggels,Buy Me,200,491.29,291.29,99,28837.6,59.29,6
+2025-10-14,25258,Spirit Feather,tinggels,Buy Me,200,491.29,291.29,99,28837.6,59.29,6
+2025-10-14,25258,Spirit Feather,tinggels,Buy Me,200,491.29,291.29,99,28837.6,59.29,6
 2025-10-14,28411,Staff of Incantation,Kasyadex,FAIRY DUST/EVA POWER/HL VOY/SEAL,110000,270000.0,160000.0,1,160000.0,59.26,3
 2025-10-14,22000,FieryGem,NainBASTARD,++,1111,2650.5,1539.5,34,52343.11,58.08,10
 2025-10-14,22004,Shining Gem,NainBASTARD,++,2222,5268.98,3046.98,71,216335.29,57.83,7
@@ -60,7 +63,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,28409,Coat of Invocation,xkom,CLERIC EQUIP | LVL 2 SHIP,80000,166666.67,86666.67,1,86666.67,52.0,3
 2025-10-14,26594,Novice Explosive Ball,Cachexia,Sell Items,180,355.12,175.12,140,24516.55,49.31,8
 2025-10-14,26326,Elven Royal Signet,MiloOvaltinePlus,SSCROLL / SEALED 60 VOY/ ELVEN,500,985.4,485.4,99,48054.83,49.26,10
-2025-10-14,26589,Potion of Bull,MiLD,rr,1200,2283.27,1083.27,65,70412.35,47.44,10
 2025-10-14,22006,Spirit Gem,NainBASTARD,++,3555,6523.51,2968.51,28,83118.3,45.5,7
 2025-10-14,25430,Enigma Power,NainBASTARD,++,1111,1897.15,786.15,28,22012.14,41.44,9
 2025-10-14,25534,,voyo,best stall,7777,12328.41,4551.41,19,86476.78,36.92,8
@@ -125,15 +127,16 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,23002,Iron Treasure,Hold01,IRON TREASURE,1000,1212.45,212.45,99,21032.13,17.52,3
 2025-10-14,23002,Iron Treasure,Hold01,IRON TREASURE,1000,1212.45,212.45,99,21032.13,17.52,3
 2025-10-14,28401,Platemail of the Cursed Soul,DarkBoy,Ch3ap,95000,115000.0,20000.0,1,20000.0,17.39,3
+2025-10-14,26589,Potion of Bull,STAII,Cheap UG | Normal Gem | Pots,1990,2402.52,412.52,130,53627.94,17.17,9
 2025-10-14,27017,Sorcerer's Wine,SeaMaterials,Cheap Bless / Sorcerer Wine!!,12000,14486.68,2486.68,15,37300.14,17.17,4
 2025-10-14,28429,Dance of Evanescence,Onigiri,hi,850000,1021666.33,171666.33,1,171666.33,16.8,4
 2025-10-14,28429,Dance of Evanescence,SlaYerS,cheaaaaaaaaaapppppppp,850000,1021666.33,171666.33,1,171666.33,16.8,4
+2025-10-14,26589,Potion of Bull,DAGANG6,ALL POTION HERE,2000,2402.52,402.52,54,21736.22,16.75,9
 2025-10-14,28454,Ice Sealed Blade of Enigma,iShower,afk,500000,600000.0,100000.0,1,100000.0,16.67,4
 2025-10-14,30209,Island Card,Demicoin3,99c Cooked Goods Price 99c,2499,2981.65,482.65,61,29441.69,16.19,6
 2025-10-14,30156,Jackpot Coin,ii3,fbs/ts/jackpot/rock jade frags,8000,9452.0,1452.0,40,58080.14,15.36,13
 2025-10-14,30022,Buffing Card,Aois,STALL,40000,46896.07,6896.07,3,20688.21,14.71,4
 2025-10-14,25525,,Bathroom,S>>>>>>>>>>>>>>>,399999,468654.71,68655.71,1,68655.71,14.65,10
-2025-10-14,26589,Potion of Bull,STAII,Cheap UG | Normal Gem | Pots,1990,2283.27,293.27,130,38124.71,12.84,10
 2025-10-14,26346,Lantern,STAII,Cheap UG | Normal Gem | Pots,3990,4493.89,503.89,80,40311.22,11.21,10
 2025-10-14,30156,Jackpot Coin,voyo,best stall,8399,9452.0,1053.0,21,22113.07,11.14,13
 2025-10-14,30156,Jackpot Coin,MiLD,rr,8400,9452.0,1052.0,85,89420.3,11.13,13
