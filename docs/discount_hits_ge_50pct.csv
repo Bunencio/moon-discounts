@@ -5,8 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,30,988902.11,6,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,22014,Demonic Gem of Colossus,23,988902.11,6,1,stallerx,Cheap Demonic colossus
 100.0,22434,,12,400005.75,3,2,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
-100.0,25426,Universe Purse Fragment.,3,153787.29,8,2,Xiomarvic,Frag Freee Help me!!!
-100.0,25426,Universe Purse Fragment.,5,153787.29,8,4,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
+100.0,25426,Universe Purse Fragment.,3,97780.44,4,2,Xiomarvic,Frag Freee Help me!!!
 100.0,25451,Jade Gem Fragment,1,21191.81,10,9,monchito1,B B
 100.0,25451,Jade Gem Fragment,1,21191.81,10,1,Xiomarvic,Frag Freee Help me!!!
 100.0,25451,Jade Gem Fragment,1,21191.81,10,6,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
@@ -23,7 +22,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29310,Ring of Hawk,4,264928.86,6,1,Killua#47,IMPS ONLY
 100.0,29310,Ring of Hawk,5,264928.86,6,1,stalling1,Unsealed SS items + Gems + Pets
 100.0,29310,Ring of Hawk,5,264928.86,6,1,stalling1,Unsealed SS items + Gems + Pets
-100.0,30139,100x Crystal,2,86967.52,6,37,Guardian,GEMS
+100.0,30139,100x Crystal,2,88192.75,7,37,Guardian,GEMS
+99.99,25426,Universe Purse Fragment.,5,97780.44,4,4,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,25452,Rock Gem Fragment,2,32001.9,14,12,monchito1,B B
 99.99,25452,Rock Gem Fragment,2,32001.9,14,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,28462,Ice Sealed Staff of Enigma,2,30000.67,3,1,Killua#47,IMPS ONLY

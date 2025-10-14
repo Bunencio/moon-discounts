@@ -1,7 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-10-14,25525,,yuiy78,Jade/Rock/Jewell,5,457547.7,457542.7,8,3660341.58,100.0,7
 2025-10-14,22010,Gem of Rage,Sysh,SELL RAGE / DEMO RAGE,25,862515.12,862490.12,4,3449960.5,100.0,5
-2025-10-14,30139,100x Crystal,Guardian,GEMS,2,86967.52,86965.52,37,3217724.36,100.0,6
+2025-10-14,30139,100x Crystal,Guardian,GEMS,2,88192.75,88190.75,37,3263057.89,100.0,7
 2025-10-14,22014,Demonic Gem of Colossus,Systembuff,Dems/Ugs/Jades/Rocks++++,22,988902.11,988880.11,3,2966640.33,100.0,6
 2025-10-14,25525,,Systembuff,Dems/Ugs/Jades/Rocks++++,5,457547.7,457542.7,3,1372628.09,100.0,7
 2025-10-14,25527,,Systembuff,Dems/Ugs/Jades/Rocks++++,10,617003.6,616993.6,2,1233987.2,100.0,3
@@ -10,14 +10,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,25525,,Xiomarvic,Frag Freee Help me!!!,5,457547.7,457542.7,2,915085.4,100.0,7
 2025-10-14,22010,Gem of Rage,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!,22,862515.12,862493.12,1,862493.12,100.0,5
 2025-10-14,22434,,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.,12,400005.75,399993.75,2,799987.5,100.0,3
-2025-10-14,25426,Universe Purse Fragment.,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.,5,153787.29,153782.29,4,615129.14,100.0,8
 2025-10-14,28472,Ice Sealed Bow of Enigma,Killua#47,IMPS ONLY,1,330000.25,329999.25,1,329999.25,100.0,3
 2025-10-14,25452,Rock Gem Fragment,yuiy78,Jade/Rock/Jewell,1,32001.9,32000.9,10,320009.01,100.0,14
-2025-10-14,25426,Universe Purse Fragment.,Xiomarvic,Frag Freee Help me!!!,3,153787.29,153784.29,2,307568.57,100.0,8
 2025-10-14,29310,Ring of Hawk,Killua#47,IMPS ONLY,4,264928.86,264924.86,1,264924.86,100.0,6
 2025-10-14,29310,Ring of Hawk,Killua#47,IMPS ONLY,4,264928.86,264924.86,1,264924.86,100.0,6
 2025-10-14,29310,Ring of Hawk,stalling1,Unsealed SS items + Gems + Pets,5,264928.86,264923.86,1,264923.86,100.0,6
 2025-10-14,29310,Ring of Hawk,stalling1,Unsealed SS items + Gems + Pets,5,264928.86,264923.86,1,264923.86,100.0,6
+2025-10-14,25426,Universe Purse Fragment.,Xiomarvic,Frag Freee Help me!!!,3,97780.44,97777.44,2,195554.89,100.0,4
 2025-10-14,25451,Jade Gem Fragment,monchito1,B B,1,21191.81,21190.81,9,190717.3,100.0,10
 2025-10-14,25451,Jade Gem Fragment,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.,1,21191.81,21190.81,6,127144.86,100.0,10
 2025-10-14,27020,Gold Pirate Scroll,Leviac,cheap stall,1,21729.08,21728.08,3,65184.25,100.0,7
@@ -25,6 +24,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,28035,Solar Shield,KingBamako,SHIELD,1,30713.71,30712.71,1,30712.71,100.0,5
 2025-10-14,25451,Jade Gem Fragment,Xiomarvic,Frag Freee Help me!!!,1,21191.81,21190.81,1,21190.81,100.0,10
 2025-10-14,30156,Jackpot Coin,staler,Selling,1,9532.09,9531.09,45,428898.98,99.99,11
+2025-10-14,25426,Universe Purse Fragment.,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.,5,97780.44,97775.44,4,391101.78,99.99,4
 2025-10-14,25452,Rock Gem Fragment,monchito1,B B,2,32001.9,31999.9,12,383998.82,99.99,14
 2025-10-14,25452,Rock Gem Fragment,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.,2,32001.9,31999.9,11,351998.92,99.99,14
 2025-10-14,28462,Ice Sealed Staff of Enigma,Killua#47,IMPS ONLY,2,30000.67,29998.67,1,29998.67,99.99,3
@@ -55,13 +55,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,22004,Shining Gem,NainBASTARD,++,2222,5019.11,2797.11,71,198594.98,55.73,7
 2025-10-14,22001,Furious Gem,NainBASTARD,++,1111,2279.27,1168.27,30,35048.14,51.26,7
 2025-10-14,22006,Spirit Gem,NainBASTARD,++,3555,6546.9,2991.9,27,80781.41,45.7,8
-2025-10-14,25056,Willow Wood Log,YatoroGod,WILLOW/COAL/RED ORE MINION QUEST,419,763.51,344.51,94,32383.74,45.12,5
+2025-10-14,25056,Willow Wood Log,YatoroGod,WILLOW/COAL/RED ORE MINION QUEST,419,712.19,293.19,94,27560.3,41.17,5
 2025-10-14,25534,,Bathroom,Jade jackpot fragmetation S>>>>,7000,11872.28,4872.28,5,24361.41,41.04,11
 2025-10-14,25507,Expert Stone,Yennefer,PURSE SUN CLOUD MOON JACK IRON,750,1196.83,446.83,99,44236.0,37.33,6
 2025-10-14,25534,,freeee,cheap,7500,11872.28,4372.28,17,74328.8,36.83,11
 2025-10-14,30102,1000 Reputation Scroll,trd,sell,5500,8691.55,3191.55,14,44681.68,36.72,8
 2025-10-14,25420,Sunlight Heart,buyme,ALMOST FREEE!!,14999,23592.37,8593.37,9,77340.35,36.42,5
-2025-10-14,25056,Willow Wood Log,2Homo,sell,500,763.51,263.51,99,26087.27,34.51,5
 2025-10-14,25534,,voyo,best stall,7777,11872.28,4095.28,19,77810.37,34.49,11
 2025-10-14,25507,Expert Stone,VendedoraJequiti,standard stone / exp stone / mg,800,1196.83,396.83,99,39286.0,33.16,6
 2025-10-14,25507,Expert Stone,VendedoraJequiti,standard stone / exp stone / mg,800,1196.83,396.83,96,38095.52,33.16,6
@@ -73,6 +72,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,25430,Enigma Power,Garp,CHEAP ENIGMA POWER = UNS65,1270,1875.31,605.31,99,59925.71,32.28,10
 2025-10-14,25430,Enigma Power,Garp,CHEAP ENIGMA POWER = UNS65,1270,1875.31,605.31,99,59925.71,32.28,10
 2025-10-14,30102,1000 Reputation Scroll,MatsBk,S>imps/jc/blueprints,6000,8691.55,2691.55,27,72671.81,30.97,8
+2025-10-14,25056,Willow Wood Log,2Homo,sell,500,712.19,212.19,99,21007.28,29.79,5
+2025-10-14,25056,Willow Wood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,500,712.19,212.19,99,21007.28,29.79,5
 2025-10-14,22000,FieryGem,STAII,Cheap UG | Normal Gems | Pots,1990,2828.95,838.95,53,44464.52,29.66,12
 2025-10-14,26568,Skating Potion,Cheap,asdasd,30000,41713.9,11713.9,4,46855.62,28.08,7
 2025-10-14,22006,Spirit Gem,DarkKillerJr,S>Spirit Gems/RingsofDestruction,4849,6546.9,1697.9,21,35655.99,25.93,8
@@ -91,6 +92,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,27014,Moonroot Wine,vnt3,Iron Brew-Grenade lv2-Moonroot !,599,753.32,154.32,144,22222.53,20.49,3
 2025-10-14,27014,Moonroot Wine,vnt3,Iron Brew-Grenade lv2-Moonroot !,599,753.32,154.32,144,22222.53,20.49,3
 2025-10-14,27014,Moonroot Wine,vnt3,Iron Brew-Grenade lv2-Moonroot !,599,753.32,154.32,131,20216.33,20.49,3
+2025-10-14,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1254.45,254.45,99,25190.28,20.28,3
+2025-10-14,25059,Rosewood Log,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,1000,1254.45,254.45,99,25190.28,20.28,3
 2025-10-14,29305,Ring of Destruction,batcat,l,120000,149999.75,29999.75,1,29999.75,20.0,3
 2025-10-14,28429,Dance of Evanescence,Onigiri,hi,850000,1055999.6,205999.6,1,205999.6,19.51,4
 2025-10-14,30102,1000 Reputation Scroll,Ivynor,All cheap,6999,8691.55,1692.55,20,33850.97,19.47,8
@@ -103,11 +106,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-14,26589,Potion of Bull,DAGANG6,ALL POTION HERE,2000,2396.52,396.52,54,21411.93,16.55,11
 2025-10-14,30209,Island Card,Demicoin3,99c Cooked Goods Price 99c,2499,2972.71,473.71,61,28896.45,15.94,7
 2025-10-14,25534,,buyme,ALMOST FREEE!!,9999,11872.28,1873.28,28,52451.91,15.78,11
+2025-10-14,26592,Flash Bomb,Honey,---------  Pet  Fruits  ------,999,1167.59,168.59,200,33718.57,14.44,8
 2025-10-14,27025,Radiation Lv1,verkeufer,EL QUE NO COMPRE ES GAY!!!!!!!!!,2100,2453.01,353.01,160,56482.33,14.39,3
-2025-10-14,26592,Flash Bomb,Honey,---------  Pet  Fruits  ------,999,1166.58,167.58,200,33515.96,14.37,7
+2025-10-14,26592,Flash Bomb,BakolCumiCumi,Red BP | Flash FB | octopus |Std,1000,1167.59,167.59,200,33518.57,14.35,8
+2025-10-14,26592,Flash Bomb,BakolCumiCumi,Red BP | Flash FB | octopus |Std,1000,1167.59,167.59,150,25138.93,14.35,8
 2025-10-14,28403,Blade of Incantation,SlaYerS,BoI +4,280000,326666.33,46666.33,1,46666.33,14.29,5
-2025-10-14,26592,Flash Bomb,BakolCumiCumi,Red BP | Flash FB | octopus |Std,1000,1166.58,166.58,200,33315.96,14.28,7
-2025-10-14,26592,Flash Bomb,BakolCumiCumi,Red BP | Flash FB | octopus |Std,1000,1166.58,166.58,150,24986.97,14.28,7
 2025-10-14,26346,Lantern,STAII,Cheap UG | Normal Gems | Pots,3990,4594.65,604.65,69,41720.55,13.16,9
 2025-10-14,30156,Jackpot Coin,MatsBk,S>imps/jc/blueprints,8500,9532.09,1032.09,40,41283.53,10.83,11
 2025-10-14,26559,Cooked Crab,Bodeguita,HP POT/ RADI /I BREW / G BREW,1300,1452.53,152.53,200,30506.64,10.5,4
