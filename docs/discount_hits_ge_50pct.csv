@@ -25,7 +25,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29310,Ring of Hawk,4,285307.69,6,1,Killua#47,CHAMP WEP 65 6K IMPS
 100.0,29310,Ring of Hawk,5,285307.69,6,1,stalling1,SS Unsealed Set + Gems + Pets
 100.0,29310,Ring of Hawk,5,285307.69,6,1,stalling1,SS Unsealed Set + Gems + Pets
-100.0,30139,100x Crystal,2,86480.12,7,37,Guardian,GEMS
+100.0,30139,100x Crystal,2,86375.26,7,37,Guardian,GEMS
 99.99,22011,Gemof Sout,20,323012.69,4,1,monchito1,B B
 99.99,22011,Gemof Sout,20,323012.69,4,2,Guardian,GEMS
 99.99,25452,Rock Gem Fragment,2,32668.53,14,12,monchito1,B B
@@ -56,8 +56,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.69,28403,Blade of Incantation,99999,283166.33,5,1,batcat,l
 64.69,28403,Blade of Incantation,99999,283166.33,5,1,batcat,l
 63.68,26591,Potion of Lion,1000,2753.01,11,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
+63.65,26588,Potion of Eagle,1000,2751.1,11,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 63.57,25389,Shark Fin,100,274.5,4,6,DAGANG8,JELLY/PRESTIGE/BPS
-63.0,26588,Potion of Eagle,1000,2702.89,10,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 62.05,25300,Poison,150,395.3,3,18,batcat,l
 60.4,22000,FieryGem,1111,2805.73,13,34,NainBASTARD,++
 60.12,25522,,50,125.37,4,69,BakolNdas,Pumpkin | Purple BP | Heating
@@ -74,4 +74,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.88,28444,Fire Sealed Bellow of Evanescence,7000,14857.0,5,1,M0Nster,Cheap
 51.17,28035,Solar Shield,14999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 51.06,22001,Furious Gem,1111,2270.12,7,29,NainBASTARD,++
-50.32,26589,Potion of Bull,1200,2415.53,11,6,Cheap,asdasd
+50.89,26589,Potion of Bull,1200,2443.69,12,6,Cheap,asdasd
