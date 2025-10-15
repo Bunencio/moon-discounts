@@ -24,26 +24,25 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,5,254288.21,10,3,Systembuff,Dems/Ugs/Jades/Rocks++++
 100.0,25525,,7,254288.21,10,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,25527,,10,590003.6,3,2,Systembuff,Dems/Ugs/Jades/Rocks++++
-100.0,27020,Gold Pirate Scroll,1,21382.9,12,3,Leviac,cheap stall
+100.0,27020,Gold Pirate Scroll,1,21156.61,12,3,Leviac,cheap stall
 100.0,28035,Solar Shield,1,30713.71,5,1,KingBamako,SHIELD
 100.0,28136,Crown of Decendant,9,766669.67,3,1,stalling1,SS Unsealed Set + Gems + Pets
 100.0,28417,Corset of Incantation,1,56667.0,3,1,Leviac,cheap stall
 100.0,28468,Ice Sealed Mantle of Enigma,1,78333.5,5,1,Killua#47,CHAMP WEP 65 6K IMPS
 100.0,28472,Ice Sealed Bow of Enigma,1,330000.25,3,1,Killua#47,CHAMP WEP 65 6K IMPS
-100.0,29310,Ring of Hawk,4,327266.67,7,1,Killua#47,CHAMP WEP 65 6K IMPS
-100.0,29310,Ring of Hawk,5,327266.67,7,1,stalling1,SS Unsealed Set + Gems + Pets
-100.0,29310,Ring of Hawk,5,327266.67,7,1,stalling1,SS Unsealed Set + Gems + Pets
+100.0,29310,Ring of Hawk,5,350642.57,6,1,stalling1,SS Unsealed Set + Gems + Pets
+100.0,29310,Ring of Hawk,5,350642.57,6,1,stalling1,SS Unsealed Set + Gems + Pets
 100.0,30139,100x Crystal,2,86523.58,7,37,Guardian,GEMS
 99.99,22011,Gemof Sout,20,366611.93,6,1,monchito1,B B
 99.99,22011,Gemof Sout,20,366611.93,6,2,Guardian,GEMS
 99.99,25452,Rock Gem Fragment,2,37320.74,12,12,monchito1,B B
 99.99,25452,Rock Gem Fragment,2,37320.74,12,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
+99.99,29310,Ring of Hawk,50,350642.57,6,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
+99.99,29310,Ring of Hawk,50,350642.57,6,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,25452,Rock Gem Fragment,8,37320.74,12,5,Almao,ROCK GEM FRAGMENTS
 99.98,29305,Ring of Destruction,20,122860.0,4,1,Ludopat1n,Ring 50 spr Gem strik sword apps
 99.98,29308,Ring of Valor,19,91254.5,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29308,Ring of Valor,19,91254.5,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.98,29310,Ring of Hawk,50,327266.67,7,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
-99.98,29310,Ring of Hawk,50,327266.67,7,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.97,25451,Jade Gem Fragment,7,27501.92,7,5,Almao,ROCK GEM FRAGMENTS
 99.96,25451,Jade Gem Fragment,10,27501.92,7,2,Goliat,Fragment Store
 99.96,25452,Rock Gem Fragment,15,37320.74,12,1,Goliat,Fragment Store
