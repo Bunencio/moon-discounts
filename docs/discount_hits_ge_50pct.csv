@@ -32,7 +32,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28472,Ice Sealed Bow of Enigma,1,330000.25,3,1,Killua#47,CHAMP WEP 65 6K IMPS
 100.0,29310,Ring of Hawk,5,350642.57,6,1,stalling1,SS Unsealed Set + Gems + Pets
 100.0,29310,Ring of Hawk,5,350642.57,6,1,stalling1,SS Unsealed Set + Gems + Pets
-100.0,30139,100x Crystal,2,86297.55,7,37,Guardian,GEMS
+100.0,30139,100x Crystal,2,86235.48,7,37,Guardian,GEMS
 99.99,22011,Gemof Sout,20,382454.61,7,1,monchito1,B B
 99.99,22011,Gemof Sout,20,382454.61,7,2,Guardian,GEMS
 99.99,25452,Rock Gem Fragment,2,37181.85,13,12,monchito1,B B
@@ -56,6 +56,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.74,22001,Furious Gem,555,2385.65,8,29,NainBASTARD,x
 75.72,22004,Shining Gem,1111,4576.02,8,63,NainBASTARD,x
 70.0,28458,Ice Sealed Staff of the Sphinx,10000,33333.33,3,1,ThornLey,ppsgold
+69.02,26344,Novice Weightless Potion,1000,3227.53,7,1,Yety,Temu
 67.44,28035,Solar Shield,9999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 67.21,25389,Shark Fin,90,274.5,4,3,xVENDOR1x,RUSH
 66.49,30122,Vial of Spirit Reset,2000,5968.12,7,1,Ivynor,All cheap
@@ -63,7 +64,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.78,22000,FieryGem,1000,2760.96,14,19,011,cleaning
 63.73,28432,Fire Sealed Staff of Mirage,3000,8271.29,7,1,VENDEDORAA,armor crus / boi +5 / sm 50 / ++
 63.57,25389,Shark Fin,100,274.5,4,6,DAGANG8,JELLY/PRESTIGE/BPS
-62.53,26588,Potion of Eagle,1000,2668.95,12,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
+62.83,26588,Potion of Eagle,1000,2690.3,12,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 61.62,28430,Fire Sealed Robe of Malediction,3333,8683.1,6,1,CallMeBaby,LOL
 60.07,25501,Brown Colorant,1000,2504.63,3,2,pisslow,Helo
 60.0,25499,Purple Colorant,1000,2500.0,3,1,pisslow,Helo
