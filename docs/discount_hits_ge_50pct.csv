@@ -27,7 +27,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,27020,Gold Pirate Scroll,1,21026.45,8,3,Leviac,cheap stall
 100.0,28035,Solar Shield,1,30713.71,5,1,KingBamako,SHIELD
 100.0,28136,Crown of Decendant,9,950002.25,3,1,stalling1,Unsealed SS items + Gems
-100.0,28468,Ice Sealed Mantle of Enigma,1,74000.0,4,1,Vanny,ring of spell   sealed ss
+100.0,28468,Ice Sealed Mantle of Enigma,1,77143.0,5,1,Vanny,ring of spell   sealed ss
 100.0,29310,Ring of Hawk,5,325749.67,6,1,stalling1,Unsealed SS items + Gems
 100.0,29310,Ring of Hawk,5,325749.67,6,1,stalling1,Unsealed SS items + Gems
 100.0,30139,100x Crystal,2,85316.01,7,37,Guardian,GEMS
@@ -81,6 +81,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.29,22004,Shining Gem,2000,4576.02,8,18,011,cleaning
 55.22,28326,Divine Grace Cap,50000,111666.67,3,1,ZafirRose,buy all cheap
 54.97,30121,Vial of Accuracy Reset,2000,4441.48,6,3,Ivynor,All cheap
+54.72,28132,Voyager Cap,20000,44166.67,3,1,lamamandoski,C C
+54.72,28132,Voyager Cap,20000,44166.67,3,1,lamamandoski,C C
 54.54,25080,Iron Ore,30,65.99,4,99,Olkc,cntrl a
 52.76,28491,Ice Sealed Greaves of Enigma,100000,211666.67,5,1,xTrueHistory,Imps/Gps/LBS/Botslv60Cruz
 51.17,28035,Solar Shield,14999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
