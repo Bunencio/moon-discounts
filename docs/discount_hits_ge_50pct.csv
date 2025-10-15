@@ -6,6 +6,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,25,716683.33,3,4,Sysh,SELL UG RAGE / DEMO RAGE
 100.0,22016,Demonic Gem of Sout,24,1125012.0,3,2,Jew,ss
 100.0,22023,Green Jade,3,187333.93,4,3,Hold01,gem of soul / green jade
+100.0,22030,Earth Rock,22,1300007.33,3,1,ShowerBro,afk
 100.0,25426,Universe Purse Fragment.,3,139835.25,7,2,Xiomarvic,Frag Freee Help me!!!
 100.0,25426,Universe Purse Fragment.,5,139835.25,7,4,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,23112.37,5,9,monchito1,B B
@@ -68,10 +69,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.84,28403,Blade of Incantation,149000,337374.75,7,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
 54.96,25080,Iron Ore,30,66.61,4,74,Olkc,cntrl a
 54.72,28035,Solar Shield,14999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
+54.13,22006,Spirit Gem,4000,8719.8,7,9,MushroomShop8,Normal Gems
 52.14,28442,Fire Sealed Coat of Evanescence,7999,16714.0,5,1,Nikoz,Chet for Sale Come Looky
 52.14,28442,Fire Sealed Coat of Evanescence,7999,16714.0,5,1,Nikoz,Chet for Sale Come Looky
-51.42,22006,Spirit Gem,4000,8233.23,7,9,011,cleaning
-51.42,22006,Spirit Gem,4000,8233.23,7,10,MushroomShop8,Normal Gems
 50.98,28132,Voyager Cap,25000,50999.8,3,1,stuart,EQUIPS
 50.98,28132,Voyager Cap,25000,50999.8,3,1,stuart,EQUIPS
 50.98,28132,Voyager Cap,25000,50999.8,3,1,stuart,EQUIPS
