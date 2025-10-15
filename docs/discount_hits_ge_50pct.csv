@@ -1,16 +1,14 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,20,798234.11,8,1,Systembuff,Ugs/Rocks/Jades/PetCon/DaggUns++
-100.0,22009,Gem of Colossus,21,798234.11,8,1,BV10,f
-100.0,22009,Gem of Colossus,19,798234.11,8,1,stalling1,Unsealed SS items + Gems
-100.0,22009,Gem of Colossus,28,798234.11,8,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
-100.0,22009,Gem of Colossus,21,798234.11,8,1,Guardian,GEMS
+100.0,22009,Gem of Colossus,21,898010.88,7,1,BV10,f
+100.0,22009,Gem of Colossus,19,898010.88,7,1,stalling1,Unsealed SS items + Gems
+100.0,22009,Gem of Colossus,28,898010.88,7,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
+100.0,22009,Gem of Colossus,21,898010.88,7,1,Guardian,GEMS
 100.0,22010,Gem of Rage,22,1200010.0,7,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!
 100.0,22010,Gem of Rage,25,1200010.0,7,4,Sysh,SELL UG RAGE / DEMO RAGE
-100.0,22011,Gemof Sout,12,382454.61,7,7,Systembuff,Ugs/Rocks/Jades/PetCon/DaggUns++
-100.0,22011,Gemof Sout,13,382454.61,7,3,Hold01,gem of soul / green jade
-100.0,22014,Demonic Gem of Colossus,22,1100012.0,5,3,Systembuff,Ugs/Rocks/Jades/PetCon/DaggUns++
-100.0,22014,Demonic Gem of Colossus,30,1100012.0,5,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
-100.0,22016,Demonic Gem of Sout,23,880013.8,3,3,Systembuff,Ugs/Rocks/Jades/PetCon/DaggUns++
+100.0,22011,Gemof Sout,20,625827.18,6,1,monchito1,B B
+100.0,22011,Gemof Sout,13,625827.18,6,3,Hold01,gem of soul / green jade
+100.0,22011,Gemof Sout,20,625827.18,6,2,Guardian,GEMS
+100.0,22014,Demonic Gem of Colossus,30,1760006.0,4,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,22023,Green Jade,3,185714.93,4,3,Hold01,gem of soul / green jade
 100.0,22434,,12,400005.75,3,2,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,25426,Universe Purse Fragment.,3,115502.4,5,2,Xiomarvic,Frag Freee Help me!!!
@@ -19,25 +17,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,27501.92,7,1,Xiomarvic,Frag Freee Help me!!!
 100.0,25451,Jade Gem Fragment,1,27501.92,7,6,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,25452,Rock Gem Fragment,1,34369.01,12,10,yuiy78,Jade/Rock/Jewell
-100.0,25525,,5,283941.52,10,3,Systembuff,Ugs/Rocks/Jades/PetCon/DaggUns++
-100.0,25525,,4,283941.52,10,8,yuiy78,Jade/Rock/Jewell
-100.0,25525,,5,283941.52,10,2,Xiomarvic,Frag Freee Help me!!!
-100.0,25525,,7,283941.52,10,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
-100.0,25527,,10,590003.6,3,2,Systembuff,Ugs/Rocks/Jades/PetCon/DaggUns++
-100.0,27020,Gold Pirate Scroll,1,21026.45,8,3,Leviac,cheap stall
+100.0,25525,,4,297462.3,10,8,yuiy78,Jade/Rock/Jewell
+100.0,25525,,5,297462.3,10,2,Xiomarvic,Frag Freee Help me!!!
+100.0,25525,,7,297462.3,10,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
+100.0,27020,Gold Pirate Scroll,1,21024.42,8,3,Leviac,cheap stall
 100.0,28035,Solar Shield,1,30713.71,5,1,KingBamako,SHIELD
 100.0,28136,Crown of Decendant,9,950002.25,3,1,stalling1,Unsealed SS items + Gems
 100.0,28468,Ice Sealed Mantle of Enigma,1,77143.0,5,1,Vanny,ring of spell   sealed ss
 100.0,29310,Ring of Hawk,5,325749.67,6,1,stalling1,Unsealed SS items + Gems
 100.0,29310,Ring of Hawk,5,325749.67,6,1,stalling1,Unsealed SS items + Gems
-100.0,30139,100x Crystal,2,85316.01,7,37,Guardian,GEMS
-99.99,22011,Gemof Sout,20,382454.61,7,1,monchito1,B B
-99.99,22011,Gemof Sout,20,382454.61,7,2,Guardian,GEMS
+100.0,30139,100x Crystal,2,81066.5,6,37,Guardian,GEMS
 99.99,25452,Rock Gem Fragment,2,34369.01,12,12,monchito1,B B
 99.99,25452,Rock Gem Fragment,2,34369.01,12,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,28327,Great Aqua Cap,30,468757.5,4,1,Guardian,GEMS
 99.98,25452,Rock Gem Fragment,8,34369.01,12,5,Almao,ROCK GEM FRAGMENTS
-99.98,29305,Ring of Destruction,20,102003.6,4,1,Ludopat1n,Ring 50 spr Gem strik sword apps
+99.98,29305,Ring of Destruction,20,95004.75,3,1,Ludopat1n,Ring 50 spr Gem strik sword apps
 99.98,29308,Ring of Valor,19,91254.5,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29308,Ring of Valor,19,91254.5,5,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 99.98,29310,Ring of Hawk,50,325749.67,6,1,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
@@ -51,14 +45,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 84.78,25440,Evanescence Stone,200,1313.65,5,1,BL4CKM4RK3T,cheap stuff
 82.15,22006,Spirit Gem,1111,6223.59,9,21,NainBASTARD,x
 81.85,28446,Fire Sealed Bow of Evanescence,4444,24486.0,4,1,CallMeBaby,LOL
-80.87,26588,Potion of Eagle,500,2613.08,13,1,BossLiam,-0-
 78.67,28327,Great Aqua Cap,100000,468757.5,4,1,ZiggyMarley,Selling Crus gear
 77.42,26564,Meditation Potion,15,66.43,4,11,Cheap,asdasd
 77.16,25440,Evanescence Stone,300,1313.65,5,23,HyjoSeller,PSSS COME HERE
 76.74,22001,Furious Gem,555,2385.65,8,29,NainBASTARD,x
 75.72,22004,Shining Gem,1111,4576.02,8,63,NainBASTARD,x
 71.83,28472,Ice Sealed Bow of Enigma,100000,355000.0,3,1,Killua#47,BUY IT ALL TRASH
-68.83,30122,Vial of Spirit Reset,2000,6416.0,7,1,Ivynor,All cheap
+69.04,30122,Vial of Spirit Reset,2000,6459.14,8,1,Ivynor,All cheap
 67.44,28035,Solar Shield,9999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 67.21,25389,Shark Fin,90,274.5,4,3,xVENDOR1x,RUSH
 66.7,25089,Coal Crystal,260,780.7,3,20,Mikaligueba,busca
@@ -68,7 +61,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.64,28458,Ice Sealed Staff of the Sphinx,10000,27500.0,3,1,HyjoSeller,PSSS COME HERE
 63.64,28458,Ice Sealed Staff of the Sphinx,10000,27500.0,3,1,ThornLey,ppsgold
 63.57,25389,Shark Fin,100,274.5,4,6,DAGANG8,JELLY/PRESTIGE/BPS
-61.73,26588,Potion of Eagle,1000,2613.08,13,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
+61.8,26588,Potion of Eagle,1000,2617.66,12,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 61.62,28430,Fire Sealed Robe of Malediction,3333,8683.1,6,1,CallMeBaby,LOL
 60.07,25501,Brown Colorant,1000,2504.63,3,2,pisslow,Helo
 60.0,25499,Purple Colorant,1000,2500.0,3,1,pisslow,Helo
@@ -77,13 +70,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.14,25507,Expert Stone,500,1223.57,6,12,AAA123,1231313131
 59.14,25507,Expert Stone,500,1223.57,6,15,AAA123,1231313131
 58.08,22001,Furious Gem,1000,2385.65,8,10,011,cleaning
-56.72,27029,Ship Penetrator Lv1,250,577.59,4,37,Lja,pet str lv13
 56.29,22004,Shining Gem,2000,4576.02,8,18,011,cleaning
 55.22,28326,Divine Grace Cap,50000,111666.67,3,1,ZafirRose,buy all cheap
 54.97,30121,Vial of Accuracy Reset,2000,4441.48,6,3,Ivynor,All cheap
-54.72,28132,Voyager Cap,20000,44166.67,3,1,lamamandoski,C C
-54.72,28132,Voyager Cap,20000,44166.67,3,1,lamamandoski,C C
 54.54,25080,Iron Ore,30,65.99,4,99,Olkc,cntrl a
+53.67,27029,Ship Penetrator Lv1,250,539.63,3,37,Lja,pet str lv13
 52.76,28491,Ice Sealed Greaves of Enigma,100000,211666.67,5,1,xTrueHistory,Imps/Gps/LBS/Botslv60Cruz
 51.17,28035,Solar Shield,14999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 50.44,29056,20 Cooking EXP Card,1000,2017.86,3,4,BinMakarios,IslandCard/Red BP/GPS/EXPCard/Sa
