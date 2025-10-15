@@ -28,7 +28,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28468,Ice Sealed Mantle of Enigma,1,77143.0,5,1,Vanny,ring of spell   sealed ss
 100.0,29310,Ring of Hawk,5,350642.57,6,1,stalling1,Unsealed SS items + Gems
 100.0,29310,Ring of Hawk,5,350642.57,6,1,stalling1,Unsealed SS items + Gems
-100.0,30139,100x Crystal,2,81389.22,5,37,Guardian,GEMS
+100.0,30139,100x Crystal,2,81258.18,5,37,Guardian,GEMS
 99.99,25452,Rock Gem Fragment,2,34369.01,12,12,monchito1,B B
 99.99,25452,Rock Gem Fragment,2,34369.01,12,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,28327,Great Aqua Cap,30,468757.5,4,1,Guardian,GEMS
@@ -81,6 +81,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.97,30121,Vial of Accuracy Reset,2000,4441.48,6,3,Ivynor,All cheap
 54.72,28035,Solar Shield,14999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
 54.54,25080,Iron Ore,30,65.99,4,99,Olkc,cntrl a
-53.67,27029,Ship Penetrator Lv1,250,539.63,3,37,Lja,pet str lv13
+53.42,27029,Ship Penetrator Lv1,250,536.71,3,37,Lja,pet str lv13
 52.76,28491,Ice Sealed Greaves of Enigma,100000,211666.67,5,1,xTrueHistory,Imps/Gps/LBS/Botslv60Cruz
 50.44,29056,20 Cooking EXP Card,1000,2017.86,3,4,BinMakarios,IslandCard/Red BP/GPS/EXPCard/Sa
