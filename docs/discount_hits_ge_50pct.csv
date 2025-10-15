@@ -32,8 +32,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,29305,Ring of Destruction,20,103336.5,4,1,Ludopat1n,Ring 50 spr Gem strik sword apps
 99.97,25451,Jade Gem Fragment,10,31710.77,7,2,Goliat,Fragment Store
 99.96,25452,Rock Gem Fragment,15,41014.9,11,1,Goliat,Fragment Store
-99.47,2302,,100,19028.2,4,1,25Lunarangel25,bb
-99.0,2302,,190,19028.2,4,1,25Lunarangel25,bb
 88.47,30121,Vial of Accuracy Reset,555,4814.2,6,11,NainBASTARD,x
 87.62,28432,Fire Sealed Staff of Mirage,1000,8079.8,5,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
 87.5,28036,Emerald Shield,5000,40000.0,3,1,SSTTAALL,SB/EARTSEALED/NORMALGEMS
@@ -67,9 +65,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.94,2301,,11111,26419.67,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.94,2301,,11111,26419.67,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.94,2301,,11111,26419.67,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-57.06,28403,Blade of Incantation,149000,346999.71,6,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
 56.85,25389,Shark Fin,100,231.76,4,6,DAGANG8,JELLY/PRESTIGE/BPS
 56.29,22004,Shining Gem,2000,4576.02,8,18,011,cleaning
+55.84,28403,Blade of Incantation,149000,337374.75,7,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
 54.96,25080,Iron Ore,30,66.61,4,74,Olkc,cntrl a
 54.83,28430,Fire Sealed Robe of Malediction,5000,11069.12,6,1,Xplontoy1,PPS GPS  PBS GBS
 54.72,28035,Solar Shield,14999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
