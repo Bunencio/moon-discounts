@@ -61,7 +61,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-15,26589,Potion of Bull,bv99,ff,1499,2227.23,728.23,72,52432.46,32.7,14
 2025-10-15,28454,Ice Sealed Blade of Enigma,OsToWBaby,50-60 SEALED,349999,512499.25,162500.25,1,162500.25,31.71,4
 2025-10-15,25534,,*DEATH*~#14,FRAGMENTO,5000,7169.9,2169.9,57,123684.42,30.26,12
-2025-10-15,27006,Bunny Potion,dwtix,PharaLantern/FB's/ElvenBunnyPot,1199,1697.51,498.51,190,94717.76,29.37,4
+2025-10-15,27006,Bunny Potion,dwtix,PharaLantern/FB's/ElvenBunnyPot,1199,1698.01,499.01,190,94811.58,29.39,4
 2025-10-15,25420,Sunlight Heart,Defender,CRAFT HEARTS,15000,21184.21,6184.21,10,61842.11,29.19,3
 2025-10-15,27016,Enchanted Wine,Saladinhastall,Tuna/IronBrew/Grenada/Wine,3000,4233.26,1233.26,52,64129.41,29.13,4
 2025-10-15,30102,1000 Reputation Scroll,ZafirRose,all here,6500,9169.31,2669.31,10,26693.12,29.11,6
@@ -93,8 +93,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-15,25507,Expert Stone,VendedoraJequiti,EXPERT STONE / MAGICAL STONE,1000,1223.57,223.57,96,21463.12,18.27,6
 2025-10-15,27025,Radiation Lv1,Kalista,radiation flash bomb fb,1999,2441.93,442.93,77,34105.9,18.14,4
 2025-10-15,27016,Enchanted Wine,Puki,BLESSED / SPR POTS CHEAP,3500,4233.26,733.26,75,54994.34,17.32,4
+2025-10-15,26344,Novice Weightless Potion,STAII,Cheap UG | Normal Gems | Pots,2990,3599.5,609.5,92,56073.76,16.93,6
 2025-10-15,22001,Furious Gem,STAII,Cheap UG | Normal Gems | Pots,1990,2393.21,403.21,68,27418.44,16.85,7
-2025-10-15,26344,Novice Weightless Potion,STAII,Cheap UG | Normal Gems | Pots,2990,3575.24,585.24,92,53841.97,16.37,6
 2025-10-15,28411,Staff of Incantation,Kasyadex,EVA ROCK/HL VOY/SEALS 50/STAFF,110000,130000.0,20000.0,1,20000.0,15.38,3
 2025-10-15,26576,Iron Brew,Cincar,Cincar pots,7400,8707.37,1307.37,80,104589.54,15.01,7
 2025-10-15,28491,Ice Sealed Greaves of Enigma,Yennefer,STRIKING MOON SUN CLOUD PURSE OT,190000,223333.33,33333.33,1,33333.33,14.93,3
@@ -105,9 +105,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-15,26326,Elven Royal Signet,EIlIIliah,rrrrrreeddyyy,850,969.03,119.03,200,23805.41,12.28,5
 2025-10-15,26326,Elven Royal Signet,EIlIIliah,rrrrrreeddyyy,850,969.03,119.03,192,22853.2,12.28,5
 2025-10-15,28454,Ice Sealed Blade of Enigma,OsToWBaby,50-60 SEALED,449999,512499.25,62500.25,1,62500.25,12.2,4
-2025-10-15,27006,Bunny Potion,prosppackets,shit stuff,1500,1697.51,197.51,200,39502.91,11.64,4
-2025-10-15,27006,Bunny Potion,prosppackets,shit stuff,1500,1697.51,197.51,190,37527.76,11.64,4
-2025-10-15,27006,Bunny Potion,prosppackets,shit stuff,1500,1697.51,197.51,128,25281.86,11.64,4
+2025-10-15,27006,Bunny Potion,prosppackets,shit stuff,1500,1698.01,198.01,197,39007.64,11.66,4
+2025-10-15,27006,Bunny Potion,prosppackets,shit stuff,1500,1698.01,198.01,190,37621.58,11.66,4
+2025-10-15,27006,Bunny Potion,prosppackets,shit stuff,1500,1698.01,198.01,128,25345.07,11.66,4
 2025-10-15,26592,Flash Bomb,dwtix,PharaLantern/FB's/ElvenBunnyPot,999,1129.73,130.73,200,26145.4,11.57,7
 2025-10-15,26592,Flash Bomb,dwtix,PharaLantern/FB's/ElvenBunnyPot,999,1129.73,130.73,200,26145.4,11.57,7
 2025-10-15,26592,Flash Bomb,dwtix,PharaLantern/FB's/ElvenBunnyPot,999,1129.73,130.73,200,26145.4,11.57,7
