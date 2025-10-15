@@ -25,7 +25,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,27020,Gold Pirate Scroll,1,20897.67,6,3,Leviac,cheap stall
 100.0,28035,Solar Shield,1,33124.38,5,1,KingBamako,SHIELD
 100.0,28136,Crown of Decendant,9,950002.25,3,1,stalling1,Unsealed SS items + Gems
-100.0,28468,Ice Sealed Mantle of Enigma,1,77143.0,5,1,Vanny,ring of spell   sealed ss
+100.0,28468,Ice Sealed Mantle of Enigma,1,62857.43,5,1,Killua#47,CHEAP ITEM IMPS ONLY
+100.0,28468,Ice Sealed Mantle of Enigma,1,62857.43,5,1,Vanny,ring of spell   sealed ss
+100.0,28472,Ice Sealed Bow of Enigma,1,330000.25,3,1,Killua#47,CHEAP ITEM IMPS ONLY
 100.0,29310,Ring of Hawk,5,409074.67,5,1,stalling1,Unsealed SS items + Gems
 100.0,29310,Ring of Hawk,5,409074.67,5,1,stalling1,Unsealed SS items + Gems
 100.0,30139,100x Crystal,2,60341.21,3,37,Guardian,GEMS
@@ -49,7 +51,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.16,25440,Evanescence Stone,300,1313.65,5,23,HyjoSeller,PSSS COME HERE
 76.74,22001,Furious Gem,555,2385.65,8,29,NainBASTARD,x
 75.72,22004,Shining Gem,1111,4576.02,8,63,NainBASTARD,x
-71.83,28472,Ice Sealed Bow of Enigma,100000,355000.0,3,1,Killua#47,BUY IT ALL TRASH
 69.81,28035,Solar Shield,9999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
 69.13,25081,Coal Ore,100,323.89,5,6,voyafarm,CHO CHOP BLESS AND SHT
 69.04,30122,Vial of Spirit Reset,2000,6459.14,8,1,Ivynor,All cheap
@@ -58,8 +59,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.78,22000,FieryGem,1000,2760.96,14,19,011,cleaning
 63.73,28432,Fire Sealed Staff of Mirage,3000,8271.29,7,1,VENDEDORAA,armor crus / boi +5 / sm 50 / ++
 63.27,25522,,50,136.14,3,69,BakolNdas,Pumpkin | Purple BP | Heating
-62.21,26588,Potion of Eagle,1000,2646.03,10,1,voyafarm,CHO CHOP BLESS AND SHT
-62.21,26588,Potion of Eagle,1000,2646.03,10,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
+62.22,26588,Potion of Eagle,1000,2646.82,11,1,voyafarm,CHO CHOP BLESS AND SHT
+62.22,26588,Potion of Eagle,1000,2646.82,11,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 61.62,28430,Fire Sealed Robe of Malediction,3333,8683.1,6,1,CallMeBaby,LOL
 61.17,25389,Shark Fin,90,231.76,4,3,xVENDOR1x,RUSH
 60.07,25501,Brown Colorant,1000,2504.63,3,2,pisslow,Helo
