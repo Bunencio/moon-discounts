@@ -3,7 +3,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,21,1098132.25,7,1,BV10,f
 100.0,22009,Gem of Colossus,21,1098132.25,7,1,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
 100.0,22010,Gem of Rage,25,716683.33,3,4,Sysh,SELL UG RAGE / DEMO RAGE
-100.0,22016,Demonic Gem of Sout,24,1190009.6,4,2,Jew,ss
+100.0,22016,Demonic Gem of Sout,24,1125012.0,3,2,Jew,ss
 100.0,22023,Green Jade,3,187333.93,4,3,Hold01,gem of soul / green jade
 100.0,22030,Earth Rock,21,1300007.0,3,1,ShowerBro,afk
 100.0,25426,Universe Purse Fragment.,3,139835.25,7,2,Xiomarvic,Frag Freee Help me!!!
@@ -16,16 +16,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,2,41014.9,11,11,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
 100.0,25525,,5,307042.78,8,2,Xiomarvic,Frag Freee Help me!!!
 100.0,25525,,7,307042.78,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
-100.0,25527,,10,583503.5,6,2,Systembuff,+++
-100.0,25527,,10,583503.5,6,1,barako,CHAOS RUNESTONE CHEAP
-100.0,25527,,8,583503.5,6,1,stallerx,CA Fragments  gem of soul
+100.0,25527,,10,553892.89,5,2,Systembuff,+++
+100.0,25527,,10,553892.89,5,1,barako,CHAOS RUNESTONE CHEAP
+100.0,25527,,8,553892.89,5,1,stallerx,CA Fragments  gem of soul
 100.0,28035,Solar Shield,1,33124.38,5,1,KingBamako,SHIELD
 100.0,28447,Bow of Evanescence,10,787502.25,4,1,Lune,Acc25 Bow Agi 20
 100.0,28468,Ice Sealed Mantle of Enigma,1,78749.88,6,1,Killua#47,CHEAP ITEM IMPS ONLY
 100.0,28472,Ice Sealed Bow of Enigma,1,72000.0,3,1,Killua#47,CHEAP ITEM IMPS ONLY
-100.0,29310,Ring of Hawk,5,381112.25,4,1,stalling1,Unsealed SS lv65 + gems
-100.0,29310,Ring of Hawk,5,381112.25,4,1,stalling1,Unsealed SS lv65 + gems
-99.99,27020,Gold Pirate Scroll,1,19736.58,4,3,Leviac,cheap stall
+100.0,29310,Ring of Hawk,4,381112.0,4,1,stalling1,33% OFF SS ITEMS LV65 UNSEALED!
+100.0,29310,Ring of Hawk,4,381112.0,4,1,stalling1,33% OFF SS ITEMS LV65 UNSEALED!
+99.99,22007,Gem of Striking,150,1165012.5,3,1,Ludopat1n,Ring 50 spr Gem strik sword apps
 99.98,29305,Ring of Destruction,20,103336.5,4,1,Ludopat1n,Ring 50 spr Gem strik sword apps
 99.97,25451,Jade Gem Fragment,10,29767.8,6,2,Goliat,Fragment Store
 99.96,25452,Rock Gem Fragment,15,41014.9,11,1,Goliat,Fragment Store
@@ -40,11 +40,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.17,25522,,50,219.03,6,54,BakolNdas,Pumpkin | Purple BP | Heating
 69.89,28430,Fire Sealed Robe of Malediction,3333,11069.12,6,1,CallMeBaby,LOL
 69.81,28035,Solar Shield,9999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
-69.44,26589,Potion of Bull,700,2290.53,13,1,xTrueHistory,GPS/PPS/LBS/Potions
 68.88,25440,Evanescence Stone,300,964.03,5,23,HyjoSeller,PSSS COME HERE
 65.92,30120,Vial of Agility Reset,2999,8799.1,3,1,Tokuchi,Cheap Stall
 65.13,22000,FieryGem,1000,2867.58,12,17,011,cleaning
-62.67,22007,Gem of Striking,12,32.14,3,5,stalling1,Unsealed SS lv65 + gems
 61.89,25089,Coal Crystal,250,656.07,3,68,voyafarm,CHO CHOP BLESS AND SHT
 61.69,30119,Vial of Consitution Reset,2999,7828.67,5,1,Tokuchi,Cheap Stall
 61.58,26588,Potion of Eagle,1000,2602.49,11,1,voyafarm,CHO CHOP BLESS AND SHT
@@ -69,7 +67,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.96,25080,Iron Ore,30,66.61,4,74,Olkc,cntrl a
 54.83,28430,Fire Sealed Robe of Malediction,5000,11069.12,6,1,Xplontoy1,PPS GPS  PBS GBS
 54.72,28035,Solar Shield,14999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
-53.33,22007,Gem of Striking,15,32.14,3,1,zzzzz,garner
 51.42,22006,Spirit Gem,4000,8233.23,7,9,011,cleaning
 51.42,22006,Spirit Gem,4000,8233.23,7,10,MushroomShop8,Normal Gems
 50.98,28132,Voyager Cap,25000,50999.8,3,1,stuart,EQUIPS
