@@ -36,7 +36,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28472,Ice Sealed Bow of Enigma,1,256000.0,5,1,Killua#47,CHEAP ITEM IMPS ONLY
 100.0,29310,Ring of Hawk,5,404889.8,4,1,stalling1,Unsealed SS items + Gems
 100.0,29310,Ring of Hawk,5,404889.8,4,1,stalling1,Unsealed SS items + Gems
-100.0,30139,100x Crystal,2,92857.44,5,37,Guardian,GEMS
+100.0,30139,100x Crystal,2,92836.95,5,37,Guardian,GEMS
 99.99,28327,Great Aqua Cap,30,468757.5,4,1,Guardian,GEMS
 99.98,22007,Gem of Striking,150,638273.04,4,1,Ludopat1n,Ring 50 spr Gem strik sword apps
 99.98,29305,Ring of Destruction,20,95004.75,3,1,Ludopat1n,Ring 50 spr Gem strik sword apps
@@ -56,7 +56,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.72,22004,Shining Gem,1111,4576.02,8,63,NainBASTARD,x
 69.89,28430,Fire Sealed Robe of Malediction,3333,11069.12,6,1,CallMeBaby,LOL
 69.81,28035,Solar Shield,9999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
-69.13,25081,Coal Ore,100,323.89,5,6,voyafarm,CHO CHOP BLESS AND SHT
 69.04,30122,Vial of Spirit Reset,2000,6459.14,8,1,Ivynor,All cheap
 63.78,22000,FieryGem,1000,2760.96,14,19,011,cleaning
 62.57,26588,Potion of Eagle,1000,2671.63,11,1,voyafarm,CHO CHOP BLESS AND SHT
