@@ -7,9 +7,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22023,Green Jade,3,187333.93,4,3,Hold01,gem of soul / green jade
 100.0,25426,Universe Purse Fragment.,3,139835.25,7,2,Xiomarvic,Frag Freee Help me!!!
 100.0,25426,Universe Purse Fragment.,5,139835.25,7,4,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
-100.0,25431,Kal Runestone,10,347734.0,4,2,Mikosita1,SELL KAL
-100.0,25431,Kal Runestone,12,347734.0,4,2,ImTheBest,Kal Runestone Cheap
-100.0,25431,Kal Runestone,10,347734.0,4,3,ShowerBro,afk
 100.0,25451,Jade Gem Fragment,1,31710.77,7,9,monchito1,B B
 100.0,25451,Jade Gem Fragment,1,31710.77,7,1,Xiomarvic,Frag Freee Help me!!!
 100.0,25451,Jade Gem Fragment,1,31710.77,7,6,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
@@ -25,14 +22,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25527,,10,583503.5,6,2,Systembuff,+++
 100.0,25527,,10,583503.5,6,1,barako,CHAOS RUNESTONE CHEAP
 100.0,25527,,8,583503.5,6,1,stallerx,CA Fragments  gem of soul
-100.0,27020,Gold Pirate Scroll,1,20641.64,5,3,Leviac,cheap stall
 100.0,28035,Solar Shield,1,33124.38,5,1,KingBamako,SHIELD
-100.0,28468,Ice Sealed Mantle of Enigma,1,70000.11,6,1,Killua#47,CHEAP ITEM IMPS ONLY
-100.0,28468,Ice Sealed Mantle of Enigma,1,70000.11,6,1,Vanny,ring of spell   sealed ss
-100.0,28472,Ice Sealed Bow of Enigma,1,256000.0,5,1,Killua#47,CHEAP ITEM IMPS ONLY
+100.0,28468,Ice Sealed Mantle of Enigma,1,73000.0,7,1,Killua#47,CHEAP ITEM IMPS ONLY
+100.0,28468,Ice Sealed Mantle of Enigma,1,73000.0,7,1,Vanny,ring of spell   sealed ss
+100.0,28472,Ice Sealed Bow of Enigma,1,276571.29,6,1,Killua#47,CHEAP ITEM IMPS ONLY
 100.0,29310,Ring of Hawk,5,381112.25,4,1,stalling1,Unsealed SS lv65 + gems
 100.0,29310,Ring of Hawk,5,381112.25,4,1,stalling1,Unsealed SS lv65 + gems
-99.98,29305,Ring of Destruction,20,95004.75,3,1,Ludopat1n,Ring 50 spr Gem strik sword apps
+99.99,27020,Gold Pirate Scroll,1,19723.79,3,3,Leviac,cheap stall
+99.98,29305,Ring of Destruction,20,103336.5,4,1,Ludopat1n,Ring 50 spr Gem strik sword apps
 99.97,25451,Jade Gem Fragment,10,31710.77,7,2,Goliat,Fragment Store
 99.96,25452,Rock Gem Fragment,15,41014.9,11,1,Goliat,Fragment Store
 96.84,2301,,1000,31655.4,4,1,SlaYerS,cheap stuff gogogo
@@ -49,8 +46,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.89,28430,Fire Sealed Robe of Malediction,3333,11069.12,6,1,CallMeBaby,LOL
 69.81,28035,Solar Shield,9999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
 65.92,30120,Vial of Agility Reset,2999,8799.1,3,1,Tokuchi,Cheap Stall
+65.29,28472,Ice Sealed Bow of Enigma,95999,276571.29,6,1,HitAndRun,FULL SET SS| CHEAP FOR U
 63.91,22000,FieryGem,1000,2770.93,14,17,011,cleaning
-62.5,28472,Ice Sealed Bow of Enigma,95999,256000.0,5,1,HitAndRun,FULL SET SS| CHEAP FOR U
 61.89,25089,Coal Crystal,250,656.07,3,68,voyafarm,CHO CHOP BLESS AND SHT
 61.69,30119,Vial of Consitution Reset,2999,7828.67,5,1,Tokuchi,Cheap Stall
 61.58,26588,Potion of Eagle,1000,2602.49,11,1,voyafarm,CHO CHOP BLESS AND SHT
@@ -64,12 +61,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.09,28326,Divine Grace Cap,45000,110000.0,3,1,ZafirRose,all here
 58.22,22001,Furious Gem,1000,2393.21,7,10,011,cleaning
 56.85,25389,Shark Fin,100,231.76,4,6,DAGANG8,JELLY/PRESTIGE/BPS
+56.61,28472,Ice Sealed Bow of Enigma,120000,276571.29,6,1,DuRafa,ss armor bow sharpshoter
 56.29,22004,Shining Gem,2000,4576.02,8,18,011,cleaning
 55.84,28403,Blade of Incantation,149000,337374.75,7,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
 54.96,25080,Iron Ore,30,66.61,4,74,Olkc,cntrl a
 54.83,28430,Fire Sealed Robe of Malediction,5000,11069.12,6,1,Xplontoy1,PPS GPS  PBS GBS
 54.72,28035,Solar Shield,14999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
-53.12,28472,Ice Sealed Bow of Enigma,120000,256000.0,5,1,DuRafa,ss armor bow sharpshoter
 50.98,28132,Voyager Cap,25000,50999.8,3,1,stuart,EQUIPS
 50.98,28132,Voyager Cap,25000,50999.8,3,1,stuart,EQUIPS
 50.98,28132,Voyager Cap,25000,50999.8,3,1,stuart,EQUIPS
