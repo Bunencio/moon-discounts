@@ -1,13 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,13,638273.04,4,10,stalling1,Unsealed SS items + Gems
-100.0,22009,Gem of Colossus,18,980373.18,10,1,Systembuff,+++
-100.0,22009,Gem of Colossus,21,980373.18,10,1,BV10,f
-100.0,22009,Gem of Colossus,19,980373.18,10,1,stalling1,Unsealed SS items + Gems
-100.0,22009,Gem of Colossus,28,980373.18,10,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
-100.0,22009,Gem of Colossus,21,980373.18,10,1,Guardian,GEMS
-100.0,22010,Gem of Rage,22,1109102.0,6,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!
-100.0,22010,Gem of Rage,25,1109102.0,6,4,Sysh,SELL UG RAGE / DEMO RAGE
-100.0,22011,Gemof Sout,13,348012.38,4,3,Hold01,gem of soul / green jade
+100.0,22009,Gem of Colossus,18,980373.09,9,1,Systembuff,+++
+100.0,22009,Gem of Colossus,21,980373.09,9,1,BV10,f
+100.0,22009,Gem of Colossus,19,980373.09,9,1,stalling1,Unsealed SS items + Gems
+100.0,22009,Gem of Colossus,28,980373.09,9,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
+100.0,22009,Gem of Colossus,21,980373.09,9,1,Guardian,GEMS
+100.0,22010,Gem of Rage,22,922235.78,5,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!
+100.0,22010,Gem of Rage,25,922235.78,5,4,Sysh,SELL UG RAGE / DEMO RAGE
 100.0,22016,Demonic Gem of Sout,24,1150012.0,3,2,Jew,demo soul
 100.0,22023,Green Jade,3,184286.36,4,3,Hold01,gem of soul / green jade
 100.0,22434,,12,387505.75,3,2,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
@@ -32,9 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28472,Ice Sealed Bow of Enigma,1,283200.0,4,1,Killua#47,CHEAP ITEM IMPS ONLY
 100.0,29310,Ring of Hawk,5,409074.67,5,1,stalling1,Unsealed SS items + Gems
 100.0,29310,Ring of Hawk,5,409074.67,5,1,stalling1,Unsealed SS items + Gems
-100.0,30139,100x Crystal,2,60341.21,3,37,Guardian,GEMS
-99.99,22011,Gemof Sout,20,348012.38,4,1,monchito1,B B
-99.99,22011,Gemof Sout,20,348012.38,4,2,Guardian,GEMS
+100.0,30139,100x Crystal,2,90943.39,4,37,Guardian,GEMS
 99.99,25452,Rock Gem Fragment,2,37366.12,12,12,monchito1,B B
 99.99,25452,Rock Gem Fragment,2,37366.12,12,11,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 99.99,28327,Great Aqua Cap,30,468757.5,4,1,Guardian,GEMS
