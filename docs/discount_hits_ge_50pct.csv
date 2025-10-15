@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,18,1198228.56,7,1,Systembuff,+++
-100.0,22009,Gem of Colossus,21,1198228.56,7,1,BV10,f
-100.0,22009,Gem of Colossus,21,1198228.56,7,1,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
+100.0,22009,Gem of Colossus,18,1098007.25,7,1,Systembuff,+++
+100.0,22009,Gem of Colossus,21,1098007.25,7,1,BV10,f
+100.0,22009,Gem of Colossus,21,1098007.25,7,1,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
 100.0,22010,Gem of Rage,25,1100012.5,4,4,Sysh,SELL UG RAGE / DEMO RAGE
 100.0,22016,Demonic Gem of Sout,24,1125012.0,3,2,Jew,ss
 100.0,22023,Green Jade,3,187333.93,4,3,Hold01,gem of soul / green jade
@@ -32,6 +32,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,29305,Ring of Destruction,20,103336.5,4,1,Ludopat1n,Ring 50 spr Gem strik sword apps
 99.97,25451,Jade Gem Fragment,10,31710.77,7,2,Goliat,Fragment Store
 99.96,25452,Rock Gem Fragment,15,41014.9,11,1,Goliat,Fragment Store
+99.47,2302,,100,19028.2,4,1,25Lunarangel25,bb
+99.0,2302,,190,19028.2,4,1,25Lunarangel25,bb
 96.84,2301,,1000,31655.4,4,1,SlaYerS,cheap stuff gogogo
 88.47,30121,Vial of Accuracy Reset,555,4814.2,6,11,NainBASTARD,x
 87.62,28432,Fire Sealed Staff of Mirage,1000,8079.8,5,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
