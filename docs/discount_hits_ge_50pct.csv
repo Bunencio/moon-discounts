@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,18,1098007.25,7,1,Systembuff,+++
-100.0,22009,Gem of Colossus,21,1098007.25,7,1,BV10,f
-100.0,22009,Gem of Colossus,21,1098007.25,7,1,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
+100.0,22009,Gem of Colossus,18,1176006.44,8,1,Systembuff,+++
+100.0,22009,Gem of Colossus,21,1176006.44,8,1,BV10,f
+100.0,22009,Gem of Colossus,21,1176006.44,8,1,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
 100.0,22010,Gem of Rage,25,716683.33,3,4,Sysh,SELL UG RAGE / DEMO RAGE
 100.0,22016,Demonic Gem of Sout,24,1125012.0,3,2,Jew,ss
 100.0,22023,Green Jade,3,187333.93,4,3,Hold01,gem of soul / green jade
@@ -24,9 +24,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25527,,8,583503.5,6,1,stallerx,CA Fragments  gem of soul
 100.0,28035,Solar Shield,1,33124.38,5,1,KingBamako,SHIELD
 100.0,28447,Bow of Evanescence,10,787502.25,4,1,Lune,Acc25 Bow Agi 20
-100.0,28468,Ice Sealed Mantle of Enigma,1,73000.0,7,1,Killua#47,CHEAP ITEM IMPS ONLY
-100.0,28468,Ice Sealed Mantle of Enigma,1,73000.0,7,1,Vanny,ring of spell   sealed ss
-100.0,28472,Ice Sealed Bow of Enigma,1,187199.8,5,1,Killua#47,CHEAP ITEM IMPS ONLY
+100.0,28468,Ice Sealed Mantle of Enigma,1,70000.0,6,1,Killua#47,CHEAP ITEM IMPS ONLY
+100.0,28468,Ice Sealed Mantle of Enigma,1,70000.0,6,1,Vanny,ring of spell   sealed ss
+100.0,28472,Ice Sealed Bow of Enigma,1,72000.0,3,1,Killua#47,CHEAP ITEM IMPS ONLY
 100.0,29310,Ring of Hawk,5,381112.25,4,1,stalling1,Unsealed SS lv65 + gems
 100.0,29310,Ring of Hawk,5,381112.25,4,1,stalling1,Unsealed SS lv65 + gems
 99.99,27020,Gold Pirate Scroll,1,19677.1,4,3,Leviac,cheap stall
