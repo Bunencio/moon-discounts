@@ -4,8 +4,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,19,798234.11,8,1,stalling1,Unsealed SS items + Gems
 100.0,22009,Gem of Colossus,28,798234.11,8,1,Coffi,GEMONIC/UGS/FRAGMENTS/SHADOW C.
 100.0,22009,Gem of Colossus,21,798234.11,8,1,Guardian,GEMS
-100.0,22010,Gem of Rage,22,1233343.33,7,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!
-100.0,22010,Gem of Rage,25,1233343.33,7,4,Sysh,SELL UG RAGE / DEMO RAGE
+100.0,22010,Gem of Rage,22,1200010.0,7,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!
+100.0,22010,Gem of Rage,25,1200010.0,7,4,Sysh,SELL UG RAGE / DEMO RAGE
 100.0,22011,Gemof Sout,12,382454.61,7,7,Systembuff,Ugs/Rocks/Jades/PetCon/DaggUns++
 100.0,22011,Gemof Sout,13,382454.61,7,3,Hold01,gem of soul / green jade
 100.0,22014,Demonic Gem of Colossus,22,1100012.0,5,3,Systembuff,Ugs/Rocks/Jades/PetCon/DaggUns++
@@ -48,14 +48,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.96,25452,Rock Gem Fragment,15,37181.85,13,1,Goliat,Fragment Store
 99.94,30157,Iron Bar,20,34012.5,3,5,DemiMerchant,99c Item Mall Ring/Neck/Pet 99c
 95.77,2301,,1000,23655.4,4,1,SlaYerS,cheap stuff gogogo
-86.18,25440,Evanescence Stone,200,1447.64,4,1,BL4CKM4RK3T,cheap stuff
 85.49,30121,Vial of Accuracy Reset,555,3825.78,5,11,NainBASTARD,x
+84.78,25440,Evanescence Stone,200,1313.65,5,1,BL4CKM4RK3T,cheap stuff
 82.15,22006,Spirit Gem,1111,6223.59,9,21,NainBASTARD,x
 81.85,28446,Fire Sealed Bow of Evanescence,4444,24486.0,4,1,CallMeBaby,LOL
 77.42,26564,Meditation Potion,15,66.43,4,11,Cheap,asdasd
+77.16,25440,Evanescence Stone,300,1313.65,5,23,HyjoSeller,PSSS COME HERE
 76.74,22001,Furious Gem,555,2385.65,8,29,NainBASTARD,x
 75.72,22004,Shining Gem,1111,4576.02,8,63,NainBASTARD,x
-70.0,28458,Ice Sealed Staff of the Sphinx,10000,33333.33,3,1,ThornLey,ppsgold
 69.02,26344,Novice Weightless Potion,1000,3227.53,7,1,Yety,Temu
 67.44,28035,Solar Shield,9999,30713.71,5,1,TTKillGirlTT,ALL Sealed 50 cheap / Glove SM
 67.21,25389,Shark Fin,90,274.5,4,3,xVENDOR1x,RUSH
@@ -63,14 +63,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.31,26591,Potion of Lion,900,2521.39,13,18,ZafirRose,buy all cheap
 63.78,22000,FieryGem,1000,2760.96,14,19,011,cleaning
 63.73,28432,Fire Sealed Staff of Mirage,3000,8271.29,7,1,VENDEDORAA,armor crus / boi +5 / sm 50 / ++
+63.64,28458,Ice Sealed Staff of the Sphinx,10000,27500.0,3,1,HyjoSeller,PSSS COME HERE
+63.64,28458,Ice Sealed Staff of the Sphinx,10000,27500.0,3,1,ThornLey,ppsgold
 63.57,25389,Shark Fin,100,274.5,4,6,DAGANG8,JELLY/PRESTIGE/BPS
-62.8,26588,Potion of Eagle,1000,2688.2,13,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
+62.2,26588,Potion of Eagle,1000,2645.64,12,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 61.62,28430,Fire Sealed Robe of Malediction,3333,8683.1,6,1,CallMeBaby,LOL
-60.07,25501,Brown Colorant,1000,2504.63,3,2,pisslow,Helo
-60.0,25499,Purple Colorant,1000,2500.0,3,1,pisslow,Helo
 59.95,25522,,50,124.86,4,69,BakolNdas,Pumpkin | Purple BP | Heating
 59.76,22000,FieryGem,1111,2760.96,14,34,NainBASTARD,x
-59.46,25496,Cyan Colorant.,2000,4933.33,3,1,cheapstuffsell,cheap
 58.08,22001,Furious Gem,1000,2385.65,8,10,011,cleaning
 56.29,22004,Shining Gem,2000,4576.02,8,18,011,cleaning
 55.22,28326,Divine Grace Cap,50000,111666.67,3,1,ZafirRose,buy all cheap
