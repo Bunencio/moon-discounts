@@ -41,7 +41,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-16,22000,FieryGem,011,cleaning,1000,2917.12,1917.12,12,23005.44,65.72,13
 2025-10-16,22000,FieryGem,NainBASTARD,x,1111,2917.12,1806.12,34,61408.09,61.91,13
 2025-10-16,25440,Evanescence Stone,sellerforfree,cheap,500,1009.87,509.87,70,35691.03,50.49,5
-2025-10-16,28472,Ice Sealed Bow of Enigma,HitAndRun,FULL SET SS| CHEAP FOR U,95999,188666.33,92667.33,1,92667.33,49.12,3
 2025-10-16,28132,Voyager Cap,stuart,EQUIPS,25000,46666.67,21666.67,1,21666.67,46.43,3
 2025-10-16,28132,Voyager Cap,stuart,EQUIPS,25000,46666.67,21666.67,1,21666.67,46.43,3
 2025-10-16,28132,Voyager Cap,lamamandoski,rasuba,25000,46666.67,21666.67,1,21666.67,46.43,3
@@ -51,7 +50,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-16,22004,Shining Gem,011,cleaning,2000,3447.8,1447.8,18,26060.47,41.99,6
 2025-10-16,28403,Blade of Incantation,NecroManS,@@@@,160000,264888.78,104888.78,1,104888.78,39.6,8
 2025-10-16,28403,Blade of Incantation,CallMeBaby,123123123,164999,264888.78,99889.78,1,99889.78,37.71,8
-2025-10-16,28472,Ice Sealed Bow of Enigma,DuRafa,ss armor bow sharpshoter,120000,188666.33,68666.33,1,68666.33,36.4,3
 2025-10-16,28403,Blade of Incantation,NecroManS,@@@@,180000,264888.78,84888.78,1,84888.78,32.05,8
 2025-10-16,28403,Blade of Incantation,band,BLADE / FAIRY OF,180000,264888.78,84888.78,1,84888.78,32.05,8
 2025-10-16,28454,Ice Sealed Blade of Enigma,OsToWBaby,50-60 SEALED,349999,512499.25,162500.25,1,162500.25,31.71,4
@@ -63,35 +61,32 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-16,30102,1000 Reputation Scroll,hunterx,ug strike/signet/repu/bp /xp/etc,5990,7966.98,1976.98,65,128503.9,24.81,9
 2025-10-16,30102,1000 Reputation Scroll,Ivynor,All cheap,6000,7966.98,1966.98,44,86547.25,24.69,9
 2025-10-16,28401,Platemail of the Cursed Soul,PWCleric,cheap uns lv45 crus armor,80000,105999.4,25999.4,1,25999.4,24.53,3
-2025-10-16,26575,Guardian's Brew,F0X01,Guardian brew and Grenade Best P,450,588.41,138.41,180,24914.32,23.52,10
-2025-10-16,26575,Guardian's Brew,F0X01,Guardian brew and Grenade Best P,450,588.41,138.41,180,24914.32,23.52,10
-2025-10-16,26575,Guardian's Brew,F0X01,Guardian brew and Grenade Best P,450,588.41,138.41,180,24914.32,23.52,10
-2025-10-16,26575,Guardian's Brew,F0X01,Guardian brew and Grenade Best P,450,588.41,138.41,180,24914.32,23.52,10
+2025-10-16,30156,Jackpot Coin,Meguminn,EXPLOOOOSIOOONN!!!,8495,11183.82,2688.82,23,61842.89,24.04,10
+2025-10-16,30156,Jackpot Coin,BuyingSta4ll7,PPS | GPS | JACK | PHARAOH +++++,8500,11183.82,2683.82,15,40257.32,24.0,10
 2025-10-16,26590,Potion of Soul,Akim,PVP POTIONS STATS SKATING,1950,2535.68,585.68,48,28112.58,23.1,12
-2025-10-16,30156,Jackpot Coin,Meguminn,EXPLOOOOSIOOONN!!!,8495,10943.8,2448.8,23,56322.51,22.38,10
-2025-10-16,30156,Jackpot Coin,BuyingSta4ll7,PPS | GPS | JACK | PHARAOH +++++,8500,10943.8,2443.8,48,117302.63,22.33,10
 2025-10-16,25430,Enigma Power,WindSeal,Demonic Rocks/Enigma Power,1095,1402.46,307.46,99,30438.97,21.92,5
 2025-10-16,25430,Enigma Power,WindSeal,Demonic Rocks/Enigma Power,1095,1402.46,307.46,99,30438.97,21.92,5
 2025-10-16,25430,Enigma Power,Disciplined1,CHEAPEST PROVEN DemoRock EnigPwr,1099,1402.46,303.46,99,30042.97,21.64,5
-2025-10-16,27025,Radiation Lv1,Kalista,radiation detector 800g,1899,2401.28,502.28,155,77853.38,20.92,4
+2025-10-16,27025,Radiation Lv1,Kalista,radiation  detector 800g,1899,2401.28,502.28,155,77853.38,20.92,4
 2025-10-16,28491,Ice Sealed Greaves of Enigma,lamamandoski,rasuba,169000,213000.0,44000.0,1,44000.0,20.66,3
 2025-10-16,26578,Aegis Brew,Messrve,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,50000,62378.38,12378.38,10,123783.78,19.84,3
 2025-10-16,27016,Enchanted Wine,Puki,BLESSED / SPR POTS CHEAP,3500,4356.11,856.11,75,64208.33,19.65,3
+2025-10-16,30156,Jackpot Coin,xDelfina,all cheap,9000,11183.82,2183.82,11,24022.04,19.53,10
 2025-10-16,27017,Sorcerer's Wine,Belmont,Rings wines,11500,14290.02,2790.02,10,27900.16,19.52,6
 2025-10-16,27006,Bunny Potion,dwtix,PharaLantern/FB's/ElvenBunnyPot,1199,1475.91,276.91,148,40981.98,18.76,7
 2025-10-16,27006,Bunny Potion,EIlIIliah,eeeeeeee,1200,1475.91,275.91,150,41385.79,18.69,7
 2025-10-16,22003,Glowing Gem,Look7,ty,1111,1361.86,250.86,121,30353.61,18.42,5
 2025-10-16,30102,1000 Reputation Scroll,Despair,11223344,6500,7966.98,1466.98,50,73349.15,18.41,9
 2025-10-16,30102,1000 Reputation Scroll,iinerti,1000 Repu Scrolls Very Cheap!!!!,6500,7966.98,1466.98,37,54278.37,18.41,9
-2025-10-16,30156,Jackpot Coin,xDelfina,all cheap,9000,10943.8,1943.8,11,21381.85,17.76,10
+2025-10-16,26575,Guardian's Brew,satzstall2,GBREWTREASURE IRON WILLOW,525,638.47,113.47,194,22012.89,17.77,10
 2025-10-16,25416,Cloud Heart,BpBuyer,Hearts Pharoah Island Purple,17000,20509.84,3509.84,9,31588.59,17.11,5
 2025-10-16,27025,Radiation Lv1,verkeufer,EL QUE NO COMPRE SELA COME!!!!!!,1999,2401.28,402.28,150,60341.98,16.75,4
+2025-10-16,27034,Grenade Lv2,vnt3,Moonroot-Iron Brew-Grande lv2,1999,2398.57,399.57,99,39557.65,16.66,8
 2025-10-16,26588,Potion of Eagle,BuySome,Fvck Friendds,1999,2378.91,379.91,66,25074.36,15.97,14
 2025-10-16,26588,Potion of Eagle,LotokSell,DemoSoul DemoRage Blessed ShadCr,2000,2378.91,378.91,142,53805.86,15.93,14
 2025-10-16,30022,Buffing Card,Aois,STALL,40000,47186.75,7186.75,3,21560.25,15.23,3
 2025-10-16,28327,Great Aqua Cap,BigChungus,op stats and apps,700000,825000.0,125000.0,1,125000.0,15.15,3
 2025-10-16,25534,,freeee,cheap,4899,5764.05,865.05,95,82179.33,15.01,11
-2025-10-16,27034,Grenade Lv2,F0X01,Guardian brew and Grenade Best P,1900,2226.29,326.29,179,58405.14,14.66,9
 2025-10-16,25430,Enigma Power,Garp,ENIGMA POWER,1200,1402.46,202.46,99,20043.97,14.44,5
 2025-10-16,25430,Enigma Power,Garp,ENIGMA POWER,1200,1402.46,202.46,99,20043.97,14.44,5
 2025-10-16,25430,Enigma Power,Garp,ENIGMA POWER,1200,1402.46,202.46,99,20043.97,14.44,5
@@ -110,10 +105,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-16,25094,Purple Crystal,Bebang,CHEAPEST CRYSTALS AROUND,3400,3823.68,423.68,98,41520.67,11.08,5
 2025-10-16,25091,Heavy Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,2500,2806.18,306.18,99,30312.14,10.91,3
 2025-10-16,28491,Ice Sealed Greaves of Enigma,Yennefer,STRIKING KAL MOON SUN CLOUD PURS,190000,213000.0,23000.0,1,23000.0,10.8,3
-2025-10-16,27034,Grenade Lv2,vnt3,Moonroot-Iron Brew-Grande lv2,1999,2226.29,227.29,99,22501.29,10.21,9
+2025-10-16,30156,Jackpot Coin,sietemaridos,V V,10000,11183.82,1183.82,49,58007.25,10.59,10
 2025-10-16,30139,100x Crystal,SvckMe,cheap imps !!!!!,109999,122120.52,12121.52,30,363645.46,9.93,8
 2025-10-16,26377,Pharaoh's Lantern,dwtix,PharaLantern/FB's/ElvenBunnyPot,8500,9358.05,858.05,43,36896.25,9.17,4
-2025-10-16,30156,Jackpot Coin,sietemaridos,V V,10000,10943.8,943.8,49,46246.44,8.62,10
 2025-10-16,25094,Purple Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3500,3823.68,323.68,99,32044.35,8.47,5
 2025-10-16,25094,Purple Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3500,3823.68,323.68,99,32044.35,8.47,5
 2025-10-16,26344,Novice Weightless Potion,LotokSell,DemoSoul DemoRage Blessed ShadCr,3800,4125.41,325.41,67,21802.74,7.89,5
