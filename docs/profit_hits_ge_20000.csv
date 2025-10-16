@@ -39,8 +39,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-16,26564,Meditation Potion,Nailed,Cheapest on Market,45,451.4,406.4,78,31699.29,90.03,3
 2025-10-16,26564,Meditation Potion,lamamandoski,rasuba,50,451.4,401.4,200,80280.24,88.92,3
 2025-10-16,30121,Vial of Accuracy Reset,NainBASTARD,x,555,4768.2,4213.2,11,46345.2,88.36,10
-2025-10-16,22001,Furious Gem,hunterx,ug strike/signet/repu/bp /xp/etc,499,1899.74,1400.74,49,68636.03,73.73,11
-2025-10-16,22001,Furious Gem,NainBASTARD,x,555,1899.74,1344.74,29,38997.33,70.79,11
+2025-10-16,22001,Furious Gem,hunterx,ug strike/signet/repu/bp /xp/etc,499,1911.56,1412.56,49,69215.65,73.9,11
+2025-10-16,22001,Furious Gem,NainBASTARD,x,555,1911.56,1356.56,29,39340.36,70.97,11
 2025-10-16,2301,,BLaCKMooN,garner,23456,70864.0,47408.0,1,47408.0,66.9,3
 2025-10-16,22004,Shining Gem,hunterx,ug strike/signet/repu/bp /xp/etc,999,2485.44,1486.44,42,62430.39,59.81,5
 2025-10-16,22004,Shining Gem,NainBASTARD,x,1111,2485.44,1374.44,62,85215.14,55.3,5
@@ -52,8 +52,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-16,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,706.96,306.96,71,21793.98,43.42,6
 2025-10-16,25420,Sunlight Heart,Defender,CRAFT HEARTS,15000,24935.48,9935.48,10,99354.84,39.84,6
 2025-10-16,30171,Ticket to Demonic World,EIlIIliah,eeeeeeee,444,706.96,262.96,101,26558.7,37.2,6
-2025-10-16,26589,Potion of Bull,DAGANG6,ALL POTION HERE CHEAP,1500,2284.31,784.31,54,42352.69,34.33,15
-2025-10-16,22003,Glowing Gem,STAII,cheap,990,1459.3,469.3,61,28627.12,32.16,5
+2025-10-16,26589,Potion of Bull,DAGANG6,ALL POTION HERE CHEAP,1500,2279.02,779.02,54,42067.16,34.18,14
+2025-10-16,22003,Glowing Gem,STAII,cheap,990,1469.8,479.8,61,29267.56,32.64,6
 2025-10-16,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,cheap EXP,990,1454.39,464.39,99,45975.05,31.93,4
 2025-10-16,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,cheap EXP,990,1454.39,464.39,98,45510.65,31.93,4
 2025-10-16,25430,Enigma Power,WindSeal,Demonic Rocks/Enigma Power,1095,1565.03,470.03,99,46532.91,30.03,5
@@ -66,7 +66,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-16,30102,1000 Reputation Scroll,hunterx,ug strike/signet/repu/bp /xp/etc,5990,8067.44,2077.44,65,135033.52,25.75,10
 2025-10-16,30102,1000 Reputation Scroll,Ivynor,All cheap,6000,8067.44,2067.44,44,90967.3,25.63,10
 2025-10-16,28401,Platemail of the Cursed Soul,PWCleric,cheap uns lv45 crus armor,80000,107499.5,27499.5,1,27499.5,25.58,3
-2025-10-16,28491,Ice Sealed Greaves of Enigma,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC,150000,199666.67,49666.67,1,49666.67,24.87,3
 2025-10-16,26575,Guardian's Brew,satzstall2,21 SPR PET COOKED SALMON GUARD B,449,597.2,148.2,194,28750.6,24.82,10
 2025-10-16,26575,Guardian's Brew,F0X01,Iron Brew Best Price EVER,450,597.2,147.2,180,26495.81,24.65,10
 2025-10-16,26575,Guardian's Brew,F0X01,Iron Brew Best Price EVER,450,597.2,147.2,160,23551.83,24.65,10
@@ -75,8 +74,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-16,25430,Enigma Power,Garp,ENIGMA POWER,1200,1565.03,365.03,99,36137.91,23.32,5
 2025-10-16,25430,Enigma Power,Garp,ENIGMA POWER,1200,1565.03,365.03,99,36137.91,23.32,5
 2025-10-16,25430,Enigma Power,Garp,ENIGMA POWER,1200,1565.03,365.03,98,35772.88,23.32,5
-2025-10-16,26590,Potion of Soul,Akim,PVP POTIONS STATS SKATING,1950,2535.57,585.57,43,25179.41,23.09,12
-2025-10-16,26588,Potion of Eagle,BuySome,Fvck Friendds,1999,2593.43,594.43,36,21399.44,22.92,9
+2025-10-16,26590,Potion of Soul,Akim,PVP POTIONS STATS SKATING,1950,2531.03,581.03,43,24984.26,22.96,11
+2025-10-16,26588,Potion of Eagle,BuySome,Fvck Friendds,1999,2571.95,572.95,36,20626.09,22.28,8
 2025-10-16,25416,Cloud Heart,BpBuyer,Hearts Pharoah Island Purple,17000,21686.25,4686.25,9,42176.29,21.61,5
 2025-10-16,26344,Novice Weightless Potion,STAII,cheap,2990,3779.08,789.08,92,72595.42,20.88,7
 2025-10-16,26578,Aegis Brew,Messrve,eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee,50000,63029.41,13029.41,4,52117.65,20.67,4
@@ -88,19 +87,18 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-16,25416,Cloud Heart,conqstall2,Potion device fairygrowth cloudh,18000,21686.25,3686.25,15,55293.82,17.0,5
 2025-10-16,25416,Cloud Heart,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC,18000,21686.25,3686.25,7,25803.78,17.0,5
 2025-10-16,28454,Ice Sealed Blade of Enigma,OsToWBaby,50-60 SEALED,349999,420001.2,70002.2,1,70002.2,16.67,5
-2025-10-16,27034,Grenade Lv2,vnt3,Moonroot-Iron Brew-Grande lv2,1999,2394.78,395.78,99,39182.59,16.53,9
+2025-10-16,27034,Grenade Lv2,vnt3,Moonroot-Iron Brew-Grande lv2,1999,2396.34,397.34,99,39336.68,16.58,9
 2025-10-16,25094,Purple Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3000,3581.18,581.18,99,57536.56,16.23,5
 2025-10-16,25094,Purple Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3000,3581.18,581.18,85,49400.08,16.23,5
-2025-10-16,30156,Jackpot Coin,Remeca,GPS/PPS/W.Rock/Frags/Imp/Jackpot,9999,11859.59,1860.59,43,80005.26,15.69,6
 2025-10-16,25436,Chest of Demonic World II,sellerforfree,cheap,45000,53332.5,8332.5,3,24997.5,15.62,3
 2025-10-16,27017,Sorcerer's Wine,Belmont,Rings wines,11500,13622.16,2122.16,10,21221.62,15.58,8
 2025-10-16,25505,Standard Stone,BartholomewKuma,Ring 6spr / Std Stone   /   APP,1999,2367.43,368.43,99,36474.72,15.56,3
 2025-10-16,27006,Bunny Potion,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,987,1168.75,181.75,200,36349.57,15.55,8
-2025-10-16,28491,Ice Sealed Greaves of Enigma,lamamandoski,rasuba,169000,199666.67,30666.67,1,30666.67,15.36,3
+2025-10-16,30156,Jackpot Coin,Remeca,GPS/PPS/W.Rock/Frags/Imp/Jackpot,9999,11802.12,1803.12,43,77534.15,15.28,7
 2025-10-16,28327,Great Aqua Cap,BigChungus,op stats and apps,700000,825000.0,125000.0,1,125000.0,15.15,3
 2025-10-16,28403,Blade of Incantation,Barbosa,SALE CSWORD RUSH!,300000,352999.6,52999.6,1,52999.6,15.01,5
 2025-10-16,26568,Skating Potion,MiLD,rrr,35000,41153.85,6153.85,4,24615.38,14.95,5
-2025-10-16,26589,Potion of Bull,STAII,cheap,1990,2284.31,294.31,115,33845.54,12.88,15
+2025-10-16,26589,Potion of Bull,STAII,cheap,1990,2279.02,289.02,115,33237.47,12.68,14
 2025-10-16,26592,Flash Bomb,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,987,1126.66,139.66,200,27932.91,12.4,11
 2025-10-16,26592,Flash Bomb,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,987,1126.66,139.66,200,27932.91,12.4,11
 2025-10-16,26592,Flash Bomb,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,987,1126.66,139.66,166,23184.31,12.4,11
