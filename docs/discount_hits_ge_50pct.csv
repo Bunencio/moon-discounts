@@ -12,7 +12,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25426,Universe Purse Fragment.,4,153130.38,5,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25431,Kal Runestone,12,550005.75,3,2,zzzzz,garner
 100.0,25451,Jade Gem Fragment,1,35667.71,9,9,monchito1,noxpirin
-100.0,25452,Rock Gem Fragment,1,20213.11,9,10,yuiy78,Jade/Rock
+100.0,25452,Rock Gem Fragment,1,20759.14,9,10,yuiy78,Jade/Rock
 100.0,25525,,4,284811.35,7,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,284811.35,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
 100.0,27020,Gold Pirate Scroll,1,20906.05,5,3,Leviac,buy pls
@@ -22,7 +22,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28466,Ice Sealed Judgment of Enigma,1,23000.0,4,1,Jikoy,Kugmo!!!!!!
 100.0,29314,Ring of Angelic,4,96253.5,3,1,MrFarm,cheapest stall in town
 100.0,29314,Ring of Angelic,4,96253.5,3,1,MrFarm,cheapest stall in town
-99.99,25452,Rock Gem Fragment,2,20213.11,9,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,2,20759.14,9,12,monchito1,noxpirin
 99.99,27020,Gold Pirate Scroll,3,20906.05,5,46,Vanny,ring of spell
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
@@ -34,9 +34,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25426,Universe Purse Fragment.,34,153130.38,5,2,Xiomarvic,fREEE hELP ME
 99.98,25451,Jade Gem Fragment,8,35667.71,9,2,Goliat,Fragment Store
 99.98,25525,,45,284811.35,7,2,Xiomarvic,fREEE hELP ME
-99.96,25452,Rock Gem Fragment,8,20213.11,9,3,iTonik,SELLING FOR IMPS
-99.95,25452,Rock Gem Fragment,10,20213.11,9,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
-99.94,25452,Rock Gem Fragment,12,20213.11,9,1,Goliat,Fragment Store
+99.96,25452,Rock Gem Fragment,8,20759.14,9,3,iTonik,SELLING FOR IMPS
+99.95,25452,Rock Gem Fragment,10,20759.14,9,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.94,25452,Rock Gem Fragment,12,20759.14,9,1,Goliat,Fragment Store
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,102,Heracles,Cheapest on Market
