@@ -1,13 +1,18 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,992859.21,3,1,zzzzz,garner
 100.0,22007,Gem of Striking,15,992859.21,3,1,Jew,gems
+100.0,22011,Gemof Sout,14,546085.77,6,1,SSxConvict,Gem of Soul  Hexwood Bow 110%
+100.0,22011,Gemof Sout,20,546085.77,6,1,monchito1,noxpirin
+100.0,22011,Gemof Sout,13,546085.77,6,2,Jew,gems
+100.0,22011,Gemof Sout,13,546085.77,6,1,MrFarm,cheapest stall in town
+100.0,22011,Gemof Sout,14,546085.77,6,3,Deathless,garner
 100.0,22023,Green Jade,2,198461.85,4,2,Hold01,GEM SOUL 1.1K/GREEN JADE 200IMP
 100.0,22030,Earth Rock,22,1566674.0,3,1,ShowerBro,afk
 100.0,25426,Universe Purse Fragment.,4,173582.89,8,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,26751.25,10,6,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,26751.25,10,9,monchito1,noxpirin
 100.0,25452,Rock Gem Fragment,1,33698.7,13,10,yuiy78,Jade/Rock
-100.0,25508,Demonic Gem Fragment,2,114000.4,3,1,Coffi,UG COLO/GEM FRAGMENTS
+100.0,25508,Demonic Gem Fragment,2,96667.33,3,1,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25525,,4,284811.35,7,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,284811.35,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
 100.0,28434,Fire Sealed Robe of the Arcane,1,24466.8,5,1,Jikoy,Kugmo!!!!!!
@@ -33,16 +38,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 88.36,30121,Vial of Accuracy Reset,555,4768.2,10,11,NainBASTARD,x
 78.85,25493,Orange Colorant,500,2364.58,4,2,cheapstuffsell,cheap
 74.0,28430,Fire Sealed Robe of Malediction,3333,12819.12,5,1,CallMeBaby,123123123
-73.25,22001,Furious Gem,499,1865.65,11,49,hunterx,ug strike/signet/repu/bp /xp/etc
+73.66,22001,Furious Gem,499,1894.32,12,49,hunterx,ug strike/signet/repu/bp /xp/etc
 71.43,30120,Vial of Agility Reset,2500,8749.2,3,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
-70.25,22001,Furious Gem,555,1865.65,11,29,NainBASTARD,x
+70.7,22001,Furious Gem,555,1894.32,12,29,NainBASTARD,x
 68.08,25440,Evanescence Stone,300,939.86,4,23,HyjoSeller,PSSS COME HERE
 63.16,30118,Vial of Strength Reset,2000,5428.57,3,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
 61.48,25499,Purple Colorant,1000,2595.74,4,1,pisslow,Frozen Elixir
-60.21,22000,FieryGem,1000,2513.11,11,12,011,cleaning
+60.24,22004,Shining Gem,999,2512.74,6,42,hunterx,ug strike/signet/repu/bp /xp/etc
 60.14,26588,Potion of Eagle,1000,2508.94,14,1,voyafarm,CHO CHOP BLESS AND SHT
 60.0,28035,Solar Shield,9999,24999.0,3,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
 59.38,25522,,40,98.47,3,12,xSsnowBeaRx,sale
+58.25,22000,FieryGem,1000,2395.13,12,12,011,cleaning
 58.06,30121,Vial of Accuracy Reset,2000,4768.2,10,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
 57.8,25501,Brown Colorant,1000,2369.75,4,2,pisslow,Frozen Elixir
 57.8,25501,Brown Colorant,1000,2369.75,4,10,MushroomShop10,Hairstyle
@@ -50,14 +56,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
 56.47,29062,Field Brew,45,103.38,6,24,Heracles,Cheapest on Market
-55.79,22000,FieryGem,1111,2513.11,11,34,NainBASTARD,x
+55.79,22004,Shining Gem,1111,2512.74,6,62,NainBASTARD,x
 55.23,28404,Earth Sealed Robe of Abraxas,3333,7444.0,3,1,CallMeBaby,123123123
 55.15,28442,Fire Sealed Coat of Evanescence,7999,17833.17,4,1,Nikoz,Chet for Sale Come Looky
-54.26,29023,Standard 15 Treasure Hunting EXP Card,1000,2186.28,3,12,Fortis,All cheap
+53.61,22000,FieryGem,1111,2395.13,12,34,NainBASTARD,x
 53.26,28403,Blade of Incantation,164999,352999.6,5,1,CallMeBaby,123123123
 51.64,29062,Field Brew,50,103.38,6,198,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
 51.17,29006,Novice 15 Cooking EXP Card,400,819.23,4,1,DoaaPepa,D O N    P E P E
-50.54,22003,Glowing Gem,1000,2021.72,4,6,Jhoa,mvm/Pbs/jade F/tk dw/Sm/SS/Champ
-50.54,22003,Glowing Gem,1000,2021.72,4,8,011,cleaning
-50.54,22003,Glowing Gem,1000,2021.72,4,1,Ivynor,All cheap
-50.54,22003,Glowing Gem,1000,2021.72,4,6,MushroomShop8,Normal Gems
