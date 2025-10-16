@@ -1,29 +1,27 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1173215.29,5,1,zzzzz,garner
-100.0,22016,Demonic Gem of Sout,15,960005.0,3,1,SetSeller,cheapest itens in town
 100.0,22023,Green Jade,2,198461.85,4,2,Hold01,GEM SOUL 1.1K/GREEN JADE 200IMP
 100.0,22030,Earth Rock,22,1200007.0,3,1,ShowerBro,afk
-100.0,22434,,8,516669.0,3,1,yuiy78,Shadow Crystal/Rock/Jade
 100.0,25417,Moonlight Heart,1,83235.59,5,5,Jew,zzzzzzzzz
 100.0,25426,Universe Purse Fragment.,4,176644.07,7,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,29960.48,8,6,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,29960.48,8,9,monchito1,noxpirin
-100.0,25452,Rock Gem Fragment,1,39619.46,11,10,yuiy78,Shadow Crystal/Rock/Jade
+100.0,25452,Rock Gem Fragment,1,37960.03,10,10,yuiy78,Shadow Crystal/Rock/Jade
 100.0,25525,,7,290502.42,4,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
 99.99,25416,Cloud Heart,1,16294.18,5,3,Jew,zzzzzzzzz
 99.99,25420,Sunlight Heart,1,18415.21,5,6,Jew,zzzzzzzzz
-99.99,25452,Rock Gem Fragment,2,39619.46,11,11,Coffi,UG COLO/GEM FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,39619.46,11,12,monchito1,noxpirin
-99.99,25452,Rock Gem Fragment,2,39619.46,11,2,Jew,zzzzzzzzz
-99.97,25452,Rock Gem Fragment,10,39619.46,11,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.99,25452,Rock Gem Fragment,2,37960.03,10,11,Coffi,UG COLO/GEM FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,37960.03,10,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,2,37960.03,10,2,Jew,zzzzzzzzz
+99.97,25452,Rock Gem Fragment,10,37960.03,10,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
 90.18,26568,Skating Potion,3999,40741.39,6,2,BL4CKM4RK3T,cheap stuff
 88.73,28432,Fire Sealed Staff of Mirage,1000,8874.75,4,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
 88.48,30121,Vial of Accuracy Reset,555,4819.46,9,11,NainBASTARD,x
 82.78,25505,Standard Stone,199,1155.89,3,2,bouncer,ExpB/GEB/EB/BB /Nana/Ration/Etc
 79.77,25493,Orange Colorant,500,2471.91,3,2,cheapstuffsell,cheap
-76.57,22001,Furious Gem,499,2130.17,10,49,hunterx,ug strike/signet/repu/bp /xp/etc
+76.54,22001,Furious Gem,499,2127.4,10,49,hunterx,ug strike/signet/repu/bp /xp/etc
 74.79,28430,Fire Sealed Robe of Malediction,3333,13221.86,5,1,CallMeBaby,123123123
-73.95,22001,Furious Gem,555,2130.17,10,29,NainBASTARD,x
+73.91,22001,Furious Gem,555,2127.4,10,29,NainBASTARD,x
 71.03,22004,Shining Gem,999,3447.8,6,42,hunterx,ug strike/signet/repu/bp /xp/etc
 70.68,28442,Fire Sealed Coat of Evanescence,7999,27285.57,6,1,Nikoz,Chet for Sale Come Looky
 70.29,25440,Evanescence Stone,300,1009.59,5,23,HyjoSeller,PSSS COME HERE
@@ -52,7 +50,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.77,22009,Gem of Colossus,21,46.43,4,1,Coffi,UG COLO/GEM FRAGMENTS
 54.77,22009,Gem of Colossus,21,46.43,4,1,BV10,f
 54.26,29023,Standard 15 Treasure Hunting EXP Card,1000,2186.28,3,12,Fortis,All cheap
-53.06,22001,Furious Gem,1000,2130.17,10,10,011,cleaning
+52.99,22001,Furious Gem,1000,2127.4,10,10,011,cleaning
 51.64,29062,Field Brew,50,103.38,6,198,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
 51.17,29006,Novice 15 Cooking EXP Card,400,819.23,4,1,DoaaPepa,D O N    P E P E
 50.48,25440,Evanescence Stone,500,1009.59,5,70,sellerforfree,cheap
