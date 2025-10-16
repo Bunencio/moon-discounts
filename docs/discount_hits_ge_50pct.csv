@@ -1,7 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1039287.79,4,1,zzzzz,garner
 100.0,22007,Gem of Striking,15,1039287.79,4,1,Jew,z
-100.0,22016,Demonic Gem of Sout,15,1033338.33,3,1,SetSeller,cheapest itens in town
 100.0,22023,Green Jade,2,198461.85,4,2,Hold01,GEM SOUL 1.1K/GREEN JADE 200IMP
 100.0,25416,Cloud Heart,1,20509.84,5,3,Jew,z
 100.0,25417,Moonlight Heart,1,84687.81,5,5,Jew,z
@@ -36,9 +35,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.79,28430,Fire Sealed Robe of Malediction,3333,13221.86,5,1,CallMeBaby,123123123
 74.65,28326,Divine Grace Cap,30000,118333.33,3,1,ZafirRose,PPS PBS JADE FRAG GPS FF
 74.22,22001,Furious Gem,555,2152.97,11,29,NainBASTARD,x
+74.19,22009,Gem of Colossus,18,69.75,4,1,Systembuff,+++
+71.33,22009,Gem of Colossus,20,69.75,4,1,BV10,q
 71.03,22004,Shining Gem,999,3447.8,6,42,hunterx,ug strike/signet/repu/bp /xp/etc
 70.68,28442,Fire Sealed Coat of Evanescence,7999,27285.57,6,1,Nikoz,Chet for Sale Come Looky
 70.29,25440,Evanescence Stone,300,1009.87,5,23,HyjoSeller,PSSS COME HERE
+69.89,22009,Gem of Colossus,21,69.75,4,1,Coffi,UG COLO/GEM FRAGMENTS
 67.78,22004,Shining Gem,1111,3447.8,6,62,NainBASTARD,x
 67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
