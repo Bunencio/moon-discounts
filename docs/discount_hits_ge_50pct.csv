@@ -1,27 +1,25 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1119231.85,4,1,zzzzz,garner
+100.0,22011,Gemof Sout,20,725006.25,6,1,monchito1,noxpirin
+100.0,22011,Gemof Sout,14,725006.25,6,3,Deathless,garner
+100.0,22011,Gemof Sout,13,725006.25,6,1,stallerx,CA Fragments  gem of soul
 100.0,22016,Demonic Gem of Sout,15,1033338.33,3,1,SetSeller,cheapest itens in town
 100.0,22023,Green Jade,2,198461.85,4,2,Hold01,GEM SOUL 1.1K/GREEN JADE 200IMP
-100.0,25416,Cloud Heart,1,20509.84,5,3,Jew,zzzzzzzzz
-100.0,25417,Moonlight Heart,1,85588.53,5,5,Jew,zzzzzzzzz
-100.0,25420,Sunlight Heart,1,20096.87,6,6,Jew,zzzzzzzzz
-100.0,25426,Universe Purse Fragment.,4,188626.06,7,5,Coffi,UG COLO/GEM FRAGMENTS
+100.0,25426,Universe Purse Fragment.,4,192823.94,8,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,29429.57,10,6,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,29429.57,10,9,monchito1,noxpirin
-100.0,25452,Rock Gem Fragment,1,30307.97,9,10,yuiy78,Shadow Crystal/Rock/Jade
-100.0,25525,,4,283417.1,5,1,Jikoy,Kugmo!!!!!!
-100.0,25525,,7,283417.1,5,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
+100.0,25452,Rock Gem Fragment,1,31318.17,9,10,yuiy78,Shadow Crystal/Rock/Jade
+100.0,25525,,4,271797.46,4,1,Jikoy,Kugmo!!!!!!
+100.0,25525,,7,271797.46,4,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
 100.0,28434,Fire Sealed Robe of the Arcane,1,24389.0,5,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,23000.0,4,1,Jikoy,Kugmo!!!!!!
-99.99,25452,Rock Gem Fragment,2,30307.97,9,11,Coffi,UG COLO/GEM FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,30307.97,9,12,monchito1,noxpirin
-99.99,25452,Rock Gem Fragment,2,30307.97,9,2,Jew,zzzzzzzzz
+99.99,25452,Rock Gem Fragment,2,31318.17,9,11,Coffi,UG COLO/GEM FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,31318.17,9,12,monchito1,noxpirin
 99.99,28456,Ice Sealed Robe of the Sphinx,1,9999.75,4,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
 99.97,25451,Jade Gem Fragment,8,29429.57,10,2,Goliat,Fragment Store
-99.97,25452,Rock Gem Fragment,10,30307.97,9,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
-99.96,25452,Rock Gem Fragment,12,30307.97,9,1,Goliat,Fragment Store
-90.43,26568,Skating Potion,3999,41766.1,5,2,BL4CKM4RK3T,cheap stuff
+99.97,25452,Rock Gem Fragment,10,31318.17,9,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.96,25452,Rock Gem Fragment,12,31318.17,9,1,Goliat,Fragment Store
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,102,Heracles,Cheapest on Market
@@ -29,6 +27,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 88.92,26564,Meditation Potion,50,451.4,3,200,lamamandoski,rasuba
 88.73,28432,Fire Sealed Staff of Mirage,1000,8874.75,4,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
 88.48,30121,Vial of Accuracy Reset,555,4819.46,9,11,NainBASTARD,x
+82.78,25505,Standard Stone,199,1155.89,3,2,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
 78.85,25493,Orange Colorant,500,2364.58,4,2,cheapstuffsell,cheap
 76.85,22001,Furious Gem,499,2155.13,10,49,hunterx,ug strike/signet/repu/bp /xp/etc
 74.79,28430,Fire Sealed Robe of Malediction,3333,13221.86,5,1,CallMeBaby,123123123
@@ -46,15 +45,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-65.76,22000,FieryGem,1000,2920.29,12,12,011,cleaning
-61.96,22000,FieryGem,1111,2920.29,12,34,NainBASTARD,x
+65.7,22000,FieryGem,1000,2915.4,13,12,011,cleaning
+61.89,22000,FieryGem,1111,2915.4,13,34,NainBASTARD,x
 61.48,25499,Purple Colorant,1000,2595.74,4,1,pisslow,Frozen Elixir
 61.23,22009,Gem of Colossus,18,46.43,4,1,Systembuff,+++
-60.0,28035,Solar Shield,9999,24999.0,3,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
+60.24,26588,Potion of Eagle,1000,2514.79,14,1,voyafarm,CHO CHOP BLESS AND SHT
+60.24,26588,Potion of Eagle,1000,2514.79,14,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 59.01,26562,Cake,25,60.99,3,25,Cheap,asdasd
 58.82,25522,,40,97.14,3,27,xSsnowBeaRx,sale
-57.96,26588,Potion of Eagle,1000,2378.91,14,1,voyafarm,CHO CHOP BLESS AND SHT
-57.96,26588,Potion of Eagle,1000,2378.91,14,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 57.8,25501,Brown Colorant,1000,2369.75,4,2,pisslow,Frozen Elixir
 57.8,25501,Brown Colorant,1000,2369.75,4,10,MushroomShop10,Hairstyle
 57.71,25493,Orange Colorant,1000,2364.58,4,7,MushroomShop10,Hairstyle
