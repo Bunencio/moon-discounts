@@ -1,15 +1,15 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1171539.54,4,1,zzzzz,garner
+100.0,22009,Gem of Colossus,21,1033579.86,6,1,Coffi,UG COLO/GEM FRAGMENTS
 100.0,22009,Gem of Colossus,18,1033579.86,6,1,Systembuff,+++
 100.0,22009,Gem of Colossus,21,1033579.86,6,1,BV10,f
-100.0,22009,Gem of Colossus,21,1033579.86,6,1,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
 100.0,22023,Green Jade,3,187333.93,4,3,Hold01,gem of soul / green jade
 100.0,22030,Earth Rock,22,1300007.33,3,1,ShowerBro,afk
 100.0,22434,,8,516669.0,3,1,yuiy78,Shadow Crystal/Rock/Jade
 100.0,25417,Moonlight Heart,1,83235.59,5,5,Jew,zzzzzzzzz
-100.0,25426,Universe Purse Fragment.,5,198201.13,8,4,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
+100.0,25426,Universe Purse Fragment.,4,185813.56,8,5,Coffi,UG COLO/GEM FRAGMENTS
+100.0,25451,Jade Gem Fragment,1,31301.07,7,6,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,31301.07,7,9,monchito1,noxpirin
-100.0,25451,Jade Gem Fragment,1,31301.07,7,6,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
 100.0,25452,Rock Gem Fragment,1,39699.48,11,10,yuiy78,Shadow Crystal/Rock/Jade
 100.0,25525,,7,261215.06,4,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
 100.0,27020,Gold Pirate Scroll,1,21048.83,6,3,Leviac,cheap stall
@@ -19,37 +19,39 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29310,Ring of Hawk,4,435556.0,4,1,stalling1,cheap cheap SS items
 99.99,25416,Cloud Heart,1,16272.82,4,3,Jew,zzzzzzzzz
 99.99,25420,Sunlight Heart,1,18415.21,5,6,Jew,zzzzzzzzz
+99.99,25452,Rock Gem Fragment,2,39699.48,11,11,Coffi,UG COLO/GEM FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,39699.48,11,12,monchito1,noxpirin
 99.99,25452,Rock Gem Fragment,2,39699.48,11,2,Jew,zzzzzzzzz
-99.99,25452,Rock Gem Fragment,2,39699.48,11,11,Coffi,UG COLO/UG WIND/GEM FRAGMENTS
 99.99,28468,Ice Sealed Mantle of Enigma,8,66251.0,6,1,Vanny,ring of spell   sealed   45uns c
 99.98,28411,Staff of Incantation,23,97505.75,4,1,Vanny,ring of spell   sealed   45uns c
 99.97,25451,Jade Gem Fragment,10,31301.07,7,2,Goliat,Fragment Store
 99.96,25452,Rock Gem Fragment,15,39699.48,11,1,Goliat,Fragment Store
-88.17,30121,Vial of Accuracy Reset,555,4690.4,8,11,NainBASTARD,x
+97.99,26564,Meditation Potion,15,744.81,3,11,Cheap,asdasd
+93.29,26564,Meditation Potion,50,744.81,3,200,lamamandoski,rasuba
+88.78,30121,Vial of Accuracy Reset,555,4944.98,9,11,NainBASTARD,x
 87.65,28432,Fire Sealed Staff of Mirage,1000,8099.8,5,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
 87.5,28036,Emerald Shield,5000,40000.0,3,1,SSTTAALL,SB/EARTSEALED/NORMALGEMS
 84.14,25505,Standard Stone,199,1254.56,3,2,Conchello,Coins/Pet stuff/Sealed 45 -CHEAP
-79.28,25440,Evanescence Stone,200,965.03,5,1,BL4CKM4RK3T,cheap stuff
-77.45,22001,Furious Gem,555,2461.55,8,29,NainBASTARD,x
+79.14,25440,Evanescence Stone,200,958.87,6,1,BL4CKM4RK3T,cheap stuff
+77.65,22001,Furious Gem,555,2483.62,8,29,NainBASTARD,x
 77.01,25522,,50,217.5,6,54,BakolNdas,Pumpkin | Purple BP | Heating
-75.7,22004,Shining Gem,1111,4571.91,6,63,NainBASTARD,x
+76.65,22003,Glowing Gem,300,1284.74,8,1,xDelfina,all cheap
+75.89,22004,Shining Gem,1111,4608.6,6,63,NainBASTARD,x
 73.35,28430,Fire Sealed Robe of Malediction,3333,12507.57,5,1,CallMeBaby,LOL
-72.55,22003,Glowing Gem,300,1093.09,6,1,xDelfina,all cheap
 69.81,28035,Solar Shield,9999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
-68.91,25440,Evanescence Stone,300,965.03,5,23,HyjoSeller,PSSS COME HERE
-65.11,22000,FieryGem,1000,2865.87,13,16,011,cleaning
-61.23,22000,FieryGem,1111,2865.87,13,34,NainBASTARD,x
+68.71,25440,Evanescence Stone,300,958.87,6,23,HyjoSeller,PSSS COME HERE
+65.92,22000,FieryGem,1000,2933.98,13,16,011,cleaning
+62.13,22000,FieryGem,1111,2933.98,13,34,NainBASTARD,x
+61.08,22003,Glowing Gem,500,1284.74,8,1,lamamandoski,rasuba
 60.07,25501,Brown Colorant,1000,2504.63,3,2,pisslow,Frozen Elixir
 60.02,28430,Fire Sealed Robe of Malediction,5000,12507.57,5,1,Xplontoy1,PPS GPS  PBS GBS
 60.0,25499,Purple Colorant,1000,2500.0,3,1,pisslow,Frozen Elixir
-59.38,22001,Furious Gem,1000,2461.55,8,10,011,cleaning
+59.74,22001,Furious Gem,1000,2483.62,8,10,011,cleaning
 58.25,26588,Potion of Eagle,1000,2395.17,10,1,voyafarm,CHO CHOP BLESS AND SHT
 58.25,26588,Potion of Eagle,1000,2395.17,10,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 57.46,25389,Shark Fin,100,235.08,3,6,DAGANG8,JELLY/PRESTIGE/BPS
-56.25,22004,Shining Gem,2000,4571.91,6,18,011,cleaning
-55.12,22006,Spirit Gem,3999,8910.02,6,2,SamuSta,JADE/UNI PUR/REF/ALL GEM/FB/DR/M
-55.11,22006,Spirit Gem,4000,8910.02,6,9,MushroomShop8,Normal Gems
+56.8,22003,Glowing Gem,555,1284.74,8,7,NainBASTARD,x
+56.6,22004,Shining Gem,2000,4608.6,6,18,011,cleaning
 54.83,25080,Iron Ore,30,66.42,3,74,Olkc,cntrl a
 54.72,28035,Solar Shield,14999,33124.38,5,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
 54.67,25507,Expert Stone,500,1102.95,5,12,AAA123,1231313131
@@ -57,9 +59,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.48,25522,,99,217.5,6,16,xKINGx,lightning heart  149g
 54.48,25522,,99,217.5,6,99,xKINGx,lightning heart  149g
 53.95,30122,Vial of Spirit Reset,3000,6514.35,5,1,Ivynor,All cheap
+53.73,22006,Spirit Gem,3999,8643.43,7,2,SamuSta,JADE/UNI PUR/REF/ALL GEM/FB/DR/M
+53.72,22006,Spirit Gem,4000,8643.43,7,9,MushroomShop8,Normal Gems
 52.01,28442,Fire Sealed Coat of Evanescence,7999,16666.33,4,1,Nikoz,Chet for Sale Come Looky
 52.01,28442,Fire Sealed Coat of Evanescence,7999,16666.33,4,1,Nikoz,Chet for Sale Come Looky
 51.17,29006,Novice 15 Cooking EXP Card,400,819.23,4,1,DoaaPepa,D O N    P E P E
-50.98,28132,Voyager Cap,25000,51000.0,3,1,stuart,EQUIPS
-50.98,28132,Voyager Cap,25000,51000.0,3,1,stuart,EQUIPS
-50.98,28132,Voyager Cap,25000,51000.0,3,1,stuart,EQUIPS
