@@ -17,7 +17,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,36304.18,11,12,monchito1,noxpirin
 99.99,25452,Rock Gem Fragment,2,36304.18,11,2,Jew,z
 99.99,25527,,100,695033.0,3,1,iTonik,SELLING FOR IMPS
-99.99,28456,Ice Sealed Robe of the Sphinx,1,9999.75,4,1,Jikoy,Kugmo!!!!!!
+99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
 99.98,25452,Rock Gem Fragment,8,36304.18,11,3,iTonik,SELLING FOR IMPS
 99.97,25451,Jade Gem Fragment,8,29429.57,10,2,Goliat,Fragment Store
@@ -61,6 +61,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
 56.47,29062,Field Brew,45,103.38,6,24,Heracles,Cheapest on Market
+54.45,27019,Purple Pirate Scroll,2000,4391.21,8,3,SphinXx,pps coin
 54.26,29023,Standard 15 Treasure Hunting EXP Card,1000,2186.28,3,12,Fortis,All cheap
 53.55,22001,Furious Gem,1000,2152.97,11,10,011,cleaning
 51.64,29062,Field Brew,50,103.38,6,198,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
