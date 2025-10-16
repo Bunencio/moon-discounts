@@ -7,7 +7,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,13,546085.77,6,1,MrFarm,cheapest stall in town
 100.0,22011,Gemof Sout,14,546085.77,6,3,Deathless,garner
 100.0,22023,Green Jade,2,198461.85,4,2,Hold01,GEM SOUL 1.1K/GREEN JADE 200IMP
-100.0,22024,Purple Jade,8,566669.0,3,1,Systembuff,+++
+100.0,22024,Purple Jade,9,566669.33,3,1,Systembuff,x
 100.0,22030,Earth Rock,22,1566674.0,3,1,ShowerBro,afk
 100.0,25426,Universe Purse Fragment.,4,153130.38,5,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25431,Kal Runestone,12,550005.75,3,2,zzzzz,garner
@@ -15,7 +15,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,20759.14,9,10,yuiy78,Jade/Rock
 100.0,25525,,4,284811.35,7,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,284811.35,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
-100.0,27020,Gold Pirate Scroll,1,20906.05,5,3,Leviac,buy pls
 100.0,28429,Dance of Evanescence,20,563339.67,3,1,BBVA,LV5 FIERY SWORDS
 100.0,28434,Fire Sealed Robe of the Arcane,1,22250.25,4,1,Jikoy,Kugmo!!!!!!
 100.0,28454,Ice Sealed Blade of Enigma,9,420001.2,5,1,BBVA,LV5 FIERY SWORDS
@@ -23,14 +22,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,96253.5,3,1,MrFarm,cheapest stall in town
 100.0,29314,Ring of Angelic,4,96253.5,3,1,MrFarm,cheapest stall in town
 99.99,25452,Rock Gem Fragment,2,20759.14,9,12,monchito1,noxpirin
-99.99,27020,Gold Pirate Scroll,3,20906.05,5,46,Vanny,ring of spell
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
 99.99,28468,Ice Sealed Mantle of Enigma,8,68429.57,6,1,Vanny,ring of spell
+99.99,29314,Ring of Angelic,5,96253.5,3,1,Systembuff,x
+99.99,29314,Ring of Angelic,5,96253.5,3,1,Systembuff,x
 99.99,29314,Ring of Angelic,5,96253.5,3,1,BV10,q
 99.99,29314,Ring of Angelic,5,96253.5,3,1,BV10,q
-99.99,29314,Ring of Angelic,5,96253.5,3,1,Systembuff,+++
-99.99,29314,Ring of Angelic,5,96253.5,3,1,Systembuff,+++
 99.98,25426,Universe Purse Fragment.,34,153130.38,5,2,Xiomarvic,fREEE hELP ME
 99.98,25451,Jade Gem Fragment,8,35667.71,9,2,Goliat,Fragment Store
 99.98,25525,,45,284811.35,7,2,Xiomarvic,fREEE hELP ME
@@ -50,16 +48,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 70.96,28430,Fire Sealed Robe of Malediction,3333,11475.86,4,1,CallMeBaby,123123123
 70.79,22001,Furious Gem,555,1899.74,11,29,NainBASTARD,x
 68.08,25440,Evanescence Stone,300,939.86,4,23,HyjoSeller,PSSS COME HERE
-67.52,22009,Gem of Colossus,17,52.33,5,1,Pescadora,CHEAP GEM OF COLOSSUS QUIT PRICE
+67.41,22009,Gem of Colossus,17,52.17,5,1,Systembuff,x
+67.41,22009,Gem of Colossus,17,52.17,5,1,Pescadora,CHEAP GEM OF COLOSSUS QUIT PRICE
 66.9,2301,,23456,70864.0,3,1,BLaCKMooN,garner
-65.61,22009,Gem of Colossus,18,52.33,5,1,Systembuff,+++
-65.61,22009,Gem of Colossus,18,52.33,5,1,MrFarm,cheapest stall in town
+65.5,22009,Gem of Colossus,18,52.17,5,1,MrFarm,cheapest stall in town
 63.16,30118,Vial of Strength Reset,2000,5428.57,3,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
-61.78,22009,Gem of Colossus,20,52.33,5,1,BV10,q
+61.66,22009,Gem of Colossus,20,52.17,5,1,BV10,q
 61.48,25499,Purple Colorant,1000,2595.74,4,1,pisslow,Frozen ElixirS>
 60.0,28035,Solar Shield,9999,24999.0,3,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
-59.87,22009,Gem of Colossus,21,52.33,5,1,Coffi,UG COLO/GEM FRAGMENTS
 59.81,22004,Shining Gem,999,2485.44,5,42,hunterx,ug strike/signet/repu/bp /xp/etc
+59.74,22009,Gem of Colossus,21,52.17,5,1,Coffi,UG COLO/GEM FRAGMENTS
 59.38,25522,,40,98.47,3,12,xSsnowBeaRx,sale
 58.31,22000,FieryGem,1000,2398.93,11,12,011,cleaning
 58.06,30121,Vial of Accuracy Reset,2000,4768.2,10,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
