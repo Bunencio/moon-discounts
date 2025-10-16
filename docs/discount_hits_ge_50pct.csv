@@ -1,24 +1,29 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,15,1119231.85,4,1,zzzzz,garner
+100.0,22007,Gem of Striking,15,1039287.79,4,1,zzzzz,garner
+100.0,22007,Gem of Striking,15,1039287.79,4,1,Jew,z
 100.0,22016,Demonic Gem of Sout,15,1033338.33,3,1,SetSeller,cheapest itens in town
 100.0,22023,Green Jade,2,198461.85,4,2,Hold01,GEM SOUL 1.1K/GREEN JADE 200IMP
+100.0,25416,Cloud Heart,1,20509.84,5,3,Jew,z
+100.0,25417,Moonlight Heart,1,84687.81,5,5,Jew,z
+100.0,25420,Sunlight Heart,1,20096.87,6,6,Jew,z
 100.0,25426,Universe Purse Fragment.,4,192823.94,8,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,29429.57,10,6,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,29429.57,10,9,monchito1,noxpirin
-100.0,25452,Rock Gem Fragment,1,37721.52,12,10,yuiy78,Jade/Rock
+100.0,25452,Rock Gem Fragment,1,36304.18,11,10,yuiy78,Jade/Rock
 100.0,25525,,4,305100.02,6,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,305100.02,6,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
 100.0,28434,Fire Sealed Robe of the Arcane,1,24389.0,5,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,23000.0,4,1,Jikoy,Kugmo!!!!!!
-99.99,25452,Rock Gem Fragment,2,37721.52,12,11,Coffi,UG COLO/GEM FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,37721.52,12,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,2,36304.18,11,11,Coffi,UG COLO/GEM FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,36304.18,11,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,2,36304.18,11,2,Jew,z
 99.99,25527,,100,695033.0,3,1,iTonik,SELLING FOR IMPS
 99.99,28456,Ice Sealed Robe of the Sphinx,1,9999.75,4,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
-99.98,25452,Rock Gem Fragment,8,37721.52,12,3,iTonik,SELLING FOR IMPS
+99.98,25452,Rock Gem Fragment,8,36304.18,11,3,iTonik,SELLING FOR IMPS
 99.97,25451,Jade Gem Fragment,8,29429.57,10,2,Goliat,Fragment Store
-99.97,25452,Rock Gem Fragment,12,37721.52,12,1,Goliat,Fragment Store
-99.97,25452,Rock Gem Fragment,10,37721.52,12,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.97,25452,Rock Gem Fragment,12,36304.18,11,1,Goliat,Fragment Store
+99.97,25452,Rock Gem Fragment,10,36304.18,11,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,102,Heracles,Cheapest on Market
