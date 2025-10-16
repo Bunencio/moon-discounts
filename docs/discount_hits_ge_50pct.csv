@@ -8,10 +8,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,14,546085.77,6,3,Deathless,garner
 100.0,22023,Green Jade,2,192727.64,4,2,Hold01,GEM SOUL 1.1K/GREEN JADE 200IMP
 100.0,22030,Earth Rock,22,1566674.0,3,1,ShowerBro,afk
-100.0,25426,Universe Purse Fragment.,4,168226.39,8,5,Coffi,UG COLO/GEM FRAGMENTS
+100.0,25426,Universe Purse Fragment.,4,162828.53,7,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,26751.25,10,6,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,26751.25,10,9,monchito1,noxpirin
-100.0,25452,Rock Gem Fragment,1,20963.12,11,10,yuiy78,Jade/Rock
 100.0,25508,Demonic Gem Fragment,2,96667.33,3,1,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25525,,4,284811.35,7,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,284811.35,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
@@ -21,8 +20,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28466,Ice Sealed Judgment of Enigma,1,23000.0,4,1,Jikoy,Kugmo!!!!!!
 100.0,29314,Ring of Angelic,4,96253.5,3,1,MrFarm,cheapest stall in town
 100.0,29314,Ring of Angelic,4,96253.5,3,1,MrFarm,cheapest stall in town
-99.99,25452,Rock Gem Fragment,2,20963.12,11,11,Coffi,UG COLO/GEM FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,20963.12,11,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,2,15675.92,9,11,Coffi,UG COLO/GEM FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,15675.92,9,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,1,15675.92,9,10,yuiy78,Jade/Rock
 99.99,27020,Gold Pirate Scroll,3,21078.85,3,46,Vanny,ring of spell
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
@@ -31,13 +31,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,29314,Ring of Angelic,5,96253.5,3,1,BV10,q
 99.99,29314,Ring of Angelic,5,96253.5,3,1,Systembuff,+++
 99.99,29314,Ring of Angelic,5,96253.5,3,1,Systembuff,+++
-99.98,25426,Universe Purse Fragment.,34,168226.39,8,2,Xiomarvic,fREEE hELP ME
+99.98,25426,Universe Purse Fragment.,34,162828.53,7,2,Xiomarvic,fREEE hELP ME
 99.98,25525,,45,284811.35,7,2,Xiomarvic,fREEE hELP ME
 99.97,25451,Jade Gem Fragment,7,26751.25,10,1,Xiomarvic,fREEE hELP ME
 99.97,25451,Jade Gem Fragment,8,26751.25,10,2,Goliat,Fragment Store
-99.96,25452,Rock Gem Fragment,8,20963.12,11,3,iTonik,SELLING FOR IMPS
-99.95,25452,Rock Gem Fragment,10,20963.12,11,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
-99.94,25452,Rock Gem Fragment,12,20963.12,11,1,Goliat,Fragment Store
+99.95,25452,Rock Gem Fragment,8,15675.92,9,3,iTonik,SELLING FOR IMPS
+99.94,25452,Rock Gem Fragment,10,15675.92,9,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.92,25452,Rock Gem Fragment,12,15675.92,9,1,Goliat,Fragment Store
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,102,Heracles,Cheapest on Market
@@ -47,6 +47,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 88.36,30121,Vial of Accuracy Reset,555,4768.2,10,11,NainBASTARD,x
 78.85,25493,Orange Colorant,500,2364.58,4,2,cheapstuffsell,cheap
 73.66,22001,Furious Gem,499,1894.32,12,49,hunterx,ug strike/signet/repu/bp /xp/etc
+71.75,27000,Prosperous Packet,195,690.34,3,5,Heracles,Cheapest on Market
 71.43,30120,Vial of Agility Reset,2500,8749.2,3,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
 70.96,28430,Fire Sealed Robe of Malediction,3333,11475.86,4,1,CallMeBaby,123123123
 70.7,22001,Furious Gem,555,1894.32,12,29,NainBASTARD,x
@@ -68,10 +69,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.71,25493,Orange Colorant,1000,2364.58,4,7,MushroomShop10,Hairstyle
 57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
-56.47,29062,Field Brew,45,103.38,6,24,Heracles,Cheapest on Market
+56.54,27000,Prosperous Packet,300,690.34,3,99,Siemanko,ores
 55.79,22004,Shining Gem,1111,2512.74,6,62,NainBASTARD,x
-55.23,28404,Earth Sealed Robe of Abraxas,3333,7444.0,3,1,CallMeBaby,123123123
 55.15,28442,Fire Sealed Coat of Evanescence,7999,17833.17,4,1,Nikoz,Chet for Sale Come Looky
+54.48,29062,Field Brew,45,98.86,5,24,Heracles,Cheapest on Market
 53.31,22000,FieryGem,1111,2379.73,11,34,NainBASTARD,x
 53.26,28403,Blade of Incantation,164999,352999.6,5,1,CallMeBaby,123123123
-51.64,29062,Field Brew,50,103.38,6,198,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
