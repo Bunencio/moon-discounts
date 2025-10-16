@@ -8,21 +8,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25426,Universe Purse Fragment.,4,192823.94,8,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,27741.78,9,6,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,27741.78,9,9,monchito1,noxpirin
-100.0,25452,Rock Gem Fragment,1,36304.18,11,10,yuiy78,Jade/Rock
+100.0,25452,Rock Gem Fragment,1,36806.73,12,10,yuiy78,Jade/Rock
 100.0,25525,,4,305100.02,6,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,305100.02,6,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
-100.0,28434,Fire Sealed Robe of the Arcane,1,24555.67,5,1,Jikoy,Kugmo!!!!!!
+100.0,28434,Fire Sealed Robe of the Arcane,1,24466.8,5,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,23000.0,4,1,Jikoy,Kugmo!!!!!!
-99.99,25452,Rock Gem Fragment,2,36304.18,11,11,Coffi,UG COLO/GEM FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,36304.18,11,12,monchito1,noxpirin
-99.99,25452,Rock Gem Fragment,2,36304.18,11,2,Jew,z
+99.99,25452,Rock Gem Fragment,2,36806.73,12,11,Coffi,UG COLO/GEM FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,36806.73,12,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,2,36806.73,12,2,Jew,z
 99.99,25527,,100,758774.75,4,1,iTonik,SELLING FOR IMPS
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
-99.98,25452,Rock Gem Fragment,8,36304.18,11,3,iTonik,SELLING FOR IMPS
+99.98,25452,Rock Gem Fragment,8,36806.73,12,3,iTonik,SELLING FOR IMPS
 99.97,25451,Jade Gem Fragment,8,27741.78,9,2,Goliat,Fragment Store
-99.97,25452,Rock Gem Fragment,12,36304.18,11,1,Goliat,Fragment Store
-99.97,25452,Rock Gem Fragment,10,36304.18,11,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.97,25452,Rock Gem Fragment,12,36806.73,12,1,Goliat,Fragment Store
+99.97,25452,Rock Gem Fragment,10,36806.73,12,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
 90.03,26564,Meditation Potion,45,451.4,3,102,Heracles,Cheapest on Market
@@ -33,22 +33,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.85,25493,Orange Colorant,500,2364.58,4,2,cheapstuffsell,cheap
 76.82,22001,Furious Gem,499,2152.97,11,49,hunterx,ug strike/signet/repu/bp /xp/etc
 74.22,22001,Furious Gem,555,2152.97,11,29,NainBASTARD,x
-74.19,22009,Gem of Colossus,18,69.75,4,1,Systembuff,+++
 74.0,28430,Fire Sealed Robe of Malediction,3333,12819.12,5,1,CallMeBaby,123123123
-71.33,22009,Gem of Colossus,20,69.75,4,1,BV10,q
 71.03,22004,Shining Gem,999,3447.8,6,42,hunterx,ug strike/signet/repu/bp /xp/etc
 70.29,25440,Evanescence Stone,300,1009.87,5,23,HyjoSeller,PSSS COME HERE
-69.89,22009,Gem of Colossus,21,69.75,4,1,Coffi,UG COLO/GEM FRAGMENTS
-68.94,28442,Fire Sealed Coat of Evanescence,7999,25749.88,6,1,Nikoz,Chet for Sale Come Looky
+69.7,22009,Gem of Colossus,18,59.4,4,1,Systembuff,+++
+69.7,22009,Gem of Colossus,18,59.4,4,1,MrFarm,cheapest stall in town
 67.78,22004,Shining Gem,1111,3447.8,6,62,NainBASTARD,x
-67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-67.11,2301,,11111,33777.7,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+66.33,22009,Gem of Colossus,20,59.4,4,1,BV10,q
+66.13,28132,Voyager Cap,7777,22962.83,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 65.7,22000,FieryGem,1000,2915.4,13,12,011,cleaning
+64.65,22009,Gem of Colossus,21,59.4,4,1,Coffi,UG COLO/GEM FRAGMENTS
 61.89,22000,FieryGem,1111,2915.4,13,34,NainBASTARD,x
 61.48,25499,Purple Colorant,1000,2595.74,4,1,pisslow,Frozen Elixir
 60.29,26588,Potion of Eagle,1000,2518.53,14,1,voyafarm,CHO CHOP BLESS AND SHT
@@ -60,6 +54,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
 56.47,29062,Field Brew,45,103.38,6,24,Heracles,Cheapest on Market
+55.15,28442,Fire Sealed Coat of Evanescence,7999,17833.17,4,1,Nikoz,Chet for Sale Come Looky
 54.26,29023,Standard 15 Treasure Hunting EXP Card,1000,2186.28,3,12,Fortis,All cheap
 53.55,22001,Furious Gem,1000,2152.97,11,10,011,cleaning
 51.64,29062,Field Brew,50,103.38,6,198,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
