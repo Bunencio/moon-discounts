@@ -1,40 +1,55 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1173215.29,5,1,zzzzz,garner
+100.0,22011,Gemof Sout,20,881822.55,6,1,monchito1,noxpirin
+100.0,22011,Gemof Sout,15,881822.55,6,1,Jew,zzzzzzzzz
+100.0,22011,Gemof Sout,13,881822.55,6,1,stallerx,CA Fragments  gem of soul
+100.0,22016,Demonic Gem of Sout,15,1033338.33,3,1,SetSeller,cheapest itens in town
 100.0,22023,Green Jade,2,198461.85,4,2,Hold01,GEM SOUL 1.1K/GREEN JADE 200IMP
+100.0,22024,Purple Jade,8,633335.67,3,1,Systembuff,+++
 100.0,22030,Earth Rock,22,1200007.0,3,1,ShowerBro,afk
+100.0,25416,Cloud Heart,1,20680.04,6,3,Jew,zzzzzzzzz
 100.0,25417,Moonlight Heart,1,83235.59,5,5,Jew,zzzzzzzzz
+100.0,25420,Sunlight Heart,1,20096.87,6,6,Jew,zzzzzzzzz
 100.0,25426,Universe Purse Fragment.,4,176644.07,7,5,Coffi,UG COLO/GEM FRAGMENTS
-100.0,25451,Jade Gem Fragment,1,29960.48,8,6,Coffi,UG COLO/GEM FRAGMENTS
-100.0,25451,Jade Gem Fragment,1,29960.48,8,9,monchito1,noxpirin
-100.0,25452,Rock Gem Fragment,1,37960.03,10,10,yuiy78,Shadow Crystal/Rock/Jade
+100.0,25451,Jade Gem Fragment,1,29429.57,10,6,Coffi,UG COLO/GEM FRAGMENTS
+100.0,25451,Jade Gem Fragment,1,29429.57,10,9,monchito1,noxpirin
+100.0,25452,Rock Gem Fragment,1,37447.22,11,10,yuiy78,Shadow Crystal/Rock/Jade
 100.0,25525,,7,290502.42,4,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
-99.99,25416,Cloud Heart,1,16294.18,5,3,Jew,zzzzzzzzz
-99.99,25420,Sunlight Heart,1,18415.21,5,6,Jew,zzzzzzzzz
-99.99,25452,Rock Gem Fragment,2,37960.03,10,11,Coffi,UG COLO/GEM FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,37960.03,10,12,monchito1,noxpirin
-99.99,25452,Rock Gem Fragment,2,37960.03,10,2,Jew,zzzzzzzzz
-99.97,25452,Rock Gem Fragment,10,37960.03,10,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
-90.18,26568,Skating Potion,3999,40741.39,6,2,BL4CKM4RK3T,cheap stuff
+99.99,25452,Rock Gem Fragment,2,37447.22,11,11,Coffi,UG COLO/GEM FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,37447.22,11,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,2,37447.22,11,2,Jew,zzzzzzzzz
+99.97,25451,Jade Gem Fragment,8,29429.57,10,2,Goliat,Fragment Store
+99.97,25452,Rock Gem Fragment,12,37447.22,11,1,Goliat,Fragment Store
+99.97,25452,Rock Gem Fragment,10,37447.22,11,3,xxD,ROCK FRAGMENT / UG COLO / SHINER
+90.43,26568,Skating Potion,3999,41766.1,5,2,BL4CKM4RK3T,cheap stuff
+90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
+90.03,26564,Meditation Potion,45,451.4,3,200,Heracles,Cheapest on Market
+90.03,26564,Meditation Potion,45,451.4,3,102,Heracles,Cheapest on Market
+90.03,26564,Meditation Potion,45,451.4,3,78,Nailed,Cheapest on Market
+88.92,26564,Meditation Potion,50,451.4,3,200,lamamandoski,rasuba
 88.73,28432,Fire Sealed Staff of Mirage,1000,8874.75,4,1,VENDEDORAA,BOI / SM 50   -  PROMOTION !!!!!
 88.48,30121,Vial of Accuracy Reset,555,4819.46,9,11,NainBASTARD,x
 82.78,25505,Standard Stone,199,1155.89,3,2,bouncer,ExpB/GEB/EB/BB /Nana/Ration/Etc
 79.77,25493,Orange Colorant,500,2471.91,3,2,cheapstuffsell,cheap
-76.54,22001,Furious Gem,499,2127.4,10,49,hunterx,ug strike/signet/repu/bp /xp/etc
+76.57,22001,Furious Gem,499,2130.17,10,49,hunterx,ug strike/signet/repu/bp /xp/etc
 74.79,28430,Fire Sealed Robe of Malediction,3333,13221.86,5,1,CallMeBaby,123123123
-73.91,22001,Furious Gem,555,2127.4,10,29,NainBASTARD,x
+74.65,28326,Divine Grace Cap,30000,118333.33,3,1,ZafirRose,PPS PBS JADE FRAG GPS FF
+73.95,22001,Furious Gem,555,2130.17,10,29,NainBASTARD,x
 71.03,22004,Shining Gem,999,3447.8,6,42,hunterx,ug strike/signet/repu/bp /xp/etc
 70.68,28442,Fire Sealed Coat of Evanescence,7999,27285.57,6,1,Nikoz,Chet for Sale Come Looky
-70.29,25440,Evanescence Stone,300,1009.59,5,23,HyjoSeller,PSSS COME HERE
+70.29,25440,Evanescence Stone,300,1009.87,5,23,HyjoSeller,PSSS COME HERE
 67.78,22004,Shining Gem,1111,3447.8,6,62,NainBASTARD,x
 67.69,22009,Gem of Colossus,15,46.43,4,3,SetSeller,cheapest itens in town
-67.28,26564,Meditation Potion,15,45.85,3,11,Cheap,asdasd
-65.68,22000,FieryGem,1000,2913.39,12,12,011,cleaning
-61.87,22000,FieryGem,1111,2913.39,12,34,NainBASTARD,x
+65.72,22000,FieryGem,1000,2917.12,13,12,011,cleaning
+61.91,22000,FieryGem,1111,2917.12,13,34,NainBASTARD,x
 61.23,22009,Gem of Colossus,18,46.43,4,1,Systembuff,+++
 60.0,25499,Purple Colorant,1000,2500.0,3,1,pisslow,Frozen Elixir
 60.0,28035,Solar Shield,9999,24999.0,3,1,TTKillGirlTT,Universe / Jack Coin / Shield ++
 59.93,25501,Brown Colorant,1000,2495.41,4,2,pisslow,Frozen Elixir
+59.01,26562,Cake,25,60.99,3,25,Cheap,asdasd
 58.82,25522,,40,97.14,3,27,xSsnowBeaRx,sale
+57.96,26588,Potion of Eagle,1000,2378.91,14,1,voyafarm,CHO CHOP BLESS AND SHT
+57.96,26588,Potion of Eagle,1000,2378.91,14,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 57.94,2301,,11111,26419.67,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.94,2301,,11111,26419.67,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.94,2301,,11111,26419.67,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -42,16 +57,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.94,2301,,11111,26419.67,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.94,2301,,11111,26419.67,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.94,2301,,11111,26419.67,3,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-57.87,26588,Potion of Eagle,1000,2373.51,13,1,voyafarm,CHO CHOP BLESS AND SHT
-57.87,26588,Potion of Eagle,1000,2373.51,13,1,LetsGetWood,Salmon/Jackpot/Wood/Skating/Lege
 57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
 56.47,29062,Field Brew,45,103.38,6,24,Heracles,Cheapest on Market
 54.77,22009,Gem of Colossus,21,46.43,4,1,Coffi,UG COLO/GEM FRAGMENTS
 54.77,22009,Gem of Colossus,21,46.43,4,1,BV10,f
 54.26,29023,Standard 15 Treasure Hunting EXP Card,1000,2186.28,3,12,Fortis,All cheap
-52.99,22001,Furious Gem,1000,2127.4,10,10,011,cleaning
+53.06,22001,Furious Gem,1000,2130.17,10,10,011,cleaning
 51.64,29062,Field Brew,50,103.38,6,198,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
 51.17,29006,Novice 15 Cooking EXP Card,400,819.23,4,1,DoaaPepa,D O N    P E P E
-50.48,25440,Evanescence Stone,500,1009.59,5,70,sellerforfree,cheap
-50.48,25440,Evanescence Stone,500,1009.59,5,2,vendedolmax,2000
+50.49,25440,Evanescence Stone,500,1009.87,5,70,sellerforfree,cheap
+50.49,25440,Evanescence Stone,500,1009.87,5,2,vendedolmax,2000
