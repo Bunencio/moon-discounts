@@ -5,9 +5,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,14,653777.0,6,3,Deathless,garner
 100.0,22024,Purple Jade,9,566669.33,3,1,Systembuff,x
 100.0,22030,Earth Rock,22,1566674.0,3,1,ShowerBro,afk
-100.0,25426,Universe Purse Fragment.,4,163893.56,6,5,Coffi,UG COLO/GEM FRAGMENTS
+100.0,25426,Universe Purse Fragment.,4,123083.46,5,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,46029.91,12,9,monchito1,noxpirin
-100.0,25452,Rock Gem Fragment,1,35165.0,9,10,yuiy78,Jade/Rock
+100.0,25452,Rock Gem Fragment,1,33257.13,9,10,yuiy78,Jade/Rock
 100.0,25525,,4,290929.44,8,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,290929.44,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
 100.0,27020,Gold Pirate Scroll,1,25216.42,8,3,Leviac,buy pls
@@ -16,35 +16,34 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28429,Dance of Evanescence,20,546673.0,3,1,BBVA,LV5 FIERY SWORDS
 100.0,28434,Fire Sealed Robe of the Arcane,1,22250.25,4,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
-100.0,28491,Ice Sealed Greaves of Enigma,5,159801.0,5,1,Happyman,QUITTING CRUS SALE
+100.0,28491,Ice Sealed Greaves of Enigma,5,162251.25,4,1,Happyman,QUITTING CRUS SALE
 100.0,29314,Ring of Angelic,5,220002.8,4,1,Systembuff,x
 100.0,29314,Ring of Angelic,5,220002.8,4,1,Systembuff,x
 100.0,29314,Ring of Angelic,5,220002.8,4,1,BV10,q
 100.0,29314,Ring of Angelic,5,220002.8,4,1,BV10,q
 100.0,29314,Ring of Angelic,4,220002.8,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,220002.8,4,1,MrFarm,cheapest stall in town//check IT
-99.99,25452,Rock Gem Fragment,2,35165.0,9,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,2,33257.13,9,12,monchito1,noxpirin
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
-99.98,25426,Universe Purse Fragment.,34,163893.56,6,2,Xiomarvic,fREEE hELP ME
 99.98,25451,Jade Gem Fragment,8,46029.91,12,2,Goliat,Fragment Store
-99.98,25452,Rock Gem Fragment,7,35165.0,9,3,iTonik,SELLING IN IMPS
+99.98,25452,Rock Gem Fragment,7,33257.13,9,3,iTonik,SELLING IN IMPS
 99.98,25525,,45,290929.44,8,2,Xiomarvic,fREEE hELP ME
 99.98,29305,Ring of Destruction,15,95003.5,3,1,Ludopat1n,Ring 50 spr Lance apps
-99.97,25452,Rock Gem Fragment,12,35165.0,9,1,Goliat,Fragment Store
-99.97,25452,Rock Gem Fragment,10,35165.0,9,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.97,25426,Universe Purse Fragment.,34,123083.46,5,2,Xiomarvic,fREEE hELP ME
+99.97,25452,Rock Gem Fragment,10,33257.13,9,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.96,25452,Rock Gem Fragment,12,33257.13,9,1,Goliat,Fragment Store
 96.85,30135,Demonic Rock,99,3145.32,6,1,Madarax**,:D
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 77.01,22009,Gem of Colossus,20,87.0,3,1,BV10,q
 75.86,22009,Gem of Colossus,21,87.0,3,1,Coffi,UG COLO/GEM FRAGMENTS
 74.42,25258,Spirit Feather,99,387.0,3,3,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 74.32,22001,Furious Gem,499,1943.09,8,49,hunterx,ug strike/signet/repu/bp /xp/etc
+73.69,2301,,19999,75999.8,3,1,BLaCKMooN,garner
 69.39,28430,Fire Sealed Robe of Malediction,3333,10888.67,4,1,CallMeBaby,123123123
 68.5,22004,Shining Gem,999,3171.23,3,42,hunterx,ug strike/signet/repu/bp /xp/etc
 68.29,28442,Fire Sealed Coat of Evanescence,7999,25222.0,6,1,Nikoz,Chet for Sale Come Looky
 68.08,25440,Evanescence Stone,300,939.86,4,23,HyjoSeller,PSSS COME HERE
-64.68,30121,Vial of Accuracy Reset,2000,5662.41,9,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
-63.16,30118,Vial of Strength Reset,2000,5428.57,3,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
 59.79,26591,Potion of Lion,1000,2487.2,13,1,Lja,garner
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
@@ -58,3 +57,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.47,25503,Magical Stone,100,229.73,6,28,xVENDORx,RUSH
 55.62,28403,Blade of Incantation,135000,304166.17,6,1,sstido,selling
 53.85,28326,Divine Grace Cap,50000,108333.33,3,1,ZafirRose,cheap
+50.4,25420,Sunlight Heart,15000,30240.0,4,1,Jhoa,mvm/Pbs/jade F/tk dw/Sm/SS/Champ
