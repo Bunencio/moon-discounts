@@ -3,7 +3,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,13,653777.0,6,2,Jew,gems
 100.0,22011,Gemof Sout,13,653777.0,6,1,MrFarm,cheapest stall in town//check IT
 100.0,22011,Gemof Sout,14,653777.0,6,3,Deathless,garner
-100.0,22024,Purple Jade,9,566669.33,3,1,Systembuff,x
+100.0,22024,Purple Jade,8,740001.0,4,1,Systembuff,++
 100.0,22030,Earth Rock,22,1516674.0,3,1,ShowerBro,afk
 100.0,25426,Universe Purse Fragment.,4,112507.17,4,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,46029.91,12,9,monchito1,noxpirin
@@ -17,8 +17,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28434,Fire Sealed Robe of the Arcane,1,22250.25,4,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
 100.0,28491,Ice Sealed Greaves of Enigma,5,158801.0,5,1,Happyman,QUITTING CRUS SALE
-100.0,29314,Ring of Angelic,5,200002.6,4,1,Systembuff,x
-100.0,29314,Ring of Angelic,5,200002.6,4,1,Systembuff,x
+100.0,29314,Ring of Angelic,5,200002.6,4,1,Systembuff,++
+100.0,29314,Ring of Angelic,5,200002.6,4,1,Systembuff,++
 100.0,29314,Ring of Angelic,5,200002.6,4,1,BV10,q
 100.0,29314,Ring of Angelic,5,200002.6,4,1,BV10,q
 100.0,29314,Ring of Angelic,4,200002.6,4,1,MrFarm,cheapest stall in town//check IT
@@ -38,7 +38,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 77.01,22009,Gem of Colossus,20,87.0,3,1,BV10,q
 75.86,22009,Gem of Colossus,21,87.0,3,1,Coffi,UG COLO/GEM FRAGMENTS
-74.42,25258,Spirit Feather,99,387.0,3,3,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 74.23,22001,Furious Gem,499,1936.32,9,49,hunterx,ug strike/signet/repu/bp /xp/etc
 73.69,2301,,19999,75999.8,3,1,BLaCKMooN,garner
 69.39,28430,Fire Sealed Robe of Malediction,3333,10888.67,4,1,CallMeBaby,123123123
@@ -53,10 +52,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.65,25503,Magical Stone,100,236.15,6,87,xVENDORx,RUSH
 57.65,25503,Magical Stone,100,236.15,6,28,xVENDORx,RUSH
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
-57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
-56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
 55.64,25440,Evanescence Stone,500,1127.05,4,70,sellerforfree,cheap
 55.64,25440,Evanescence Stone,500,1127.05,4,2,vendedolmax,2000
 53.85,28326,Divine Grace Cap,50000,108333.33,3,1,ZafirRose,cheap
