@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,22,550016.92,4,4,Sysh,CHEAP UG RAGES
-100.0,22010,Gem of Rage,23,550016.92,4,2,Jew,gems
-100.0,22010,Gem of Rage,23,550016.92,4,3,Happyman,QUITTING CRUS SALE
+100.0,22010,Gem of Rage,20,550016.25,4,4,Sysh,S> RAGES 2k imp
+100.0,22010,Gem of Rage,23,550016.25,4,2,Jew,gems
+100.0,22010,Gem of Rage,23,550016.25,4,3,Happyman,QUITTING CRUS SALE
 100.0,22011,Gemof Sout,20,646084.85,8,1,monchito1,noxpirin
 100.0,22011,Gemof Sout,13,646084.85,8,1,Jew,gems
 100.0,22011,Gemof Sout,13,646084.85,8,1,MrFarm,cheapest stall in town//check IT
@@ -16,7 +16,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,22081.18,9,10,yuiy78,Jade/Rock
 100.0,25525,,4,372761.83,6,1,Jikoy,Kugmo!!!!!!
 100.0,26568,Skating Potion,1,50769.0,6,1,Asten,Demonic gem of Soul/Gem of Soul
-100.0,27020,Gold Pirate Scroll,1,20801.13,8,3,Leviac,buy pls
+100.0,27020,Gold Pirate Scroll,1,21008.34,9,3,Leviac,buy pls
 100.0,28136,Crown of Decendant,10,233338.67,3,1,BBVA,1231
 100.0,28136,Crown of Decendant,6,233338.67,3,1,Happyman,QUITTING CRUS SALE
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
@@ -29,7 +29,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,200002.6,4,1,MrFarm,cheapest stall in town//check IT
 99.99,25452,Rock Gem Fragment,2,22081.18,9,12,monchito1,noxpirin
 99.99,25525,,45,372761.83,6,2,Xiomarvic,fREEE hELP ME
-99.99,27020,Gold Pirate Scroll,3,20801.13,8,46,Vanny,ring of spell and more
+99.99,27020,Gold Pirate Scroll,3,21008.34,9,46,Vanny,ring of spell and more
 99.98,25451,Jade Gem Fragment,8,45303.58,11,2,Goliat,Fragment Store
 99.98,28456,Ice Sealed Robe of the Sphinx,1,6666.67,3,1,Jikoy,Kugmo!!!!!!
 99.98,28458,Ice Sealed Staff of the Sphinx,1,5833.67,3,1,Jikoy,Kugmo!!!!!!
@@ -39,13 +39,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 79.49,28036,Emerald Shield,10000,48750.0,3,1,SSTTAALL,CHEAP
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 73.77,22001,Furious Gem,499,1902.3,10,49,hunterx,ug strike/signet/repu/bp /xp/etc
+65.82,28403,Blade of Incantation,135000,394999.67,3,1,sstido,selling
 65.51,22004,Shining Gem,999,2896.62,5,41,hunterx,ug strike/signet/repu/bp /xp/etc
 65.48,22004,Shining Gem,1000,2896.62,5,18,011,cleaning
 65.12,28430,Fire Sealed Robe of Malediction,3333,9555.33,4,1,CallMeBaby,123123123
-62.18,28403,Blade of Incantation,135000,356999.4,4,1,sstido,selling
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
 59.93,22006,Spirit Gem,2000,4991.32,5,1,MushroomShop8,Normal Gems
 59.39,22000,FieryGem,1000,2462.64,10,12,011,cleaning
+59.09,28400,Earth Sealed Platemail of the Cursed Soul,15000,36666.67,3,1,Cheelie,buy me
 57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
 57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
 57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
@@ -54,7 +55,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
-54.88,26591,Potion of Lion,1000,2216.39,12,1,Lja,garner
+54.85,26591,Potion of Lion,1000,2214.82,12,1,Lja,garner
 54.5,25503,Magical Stone,150,329.7,6,99,OdeteRoitman,stuff
 54.5,25503,Magical Stone,150,329.7,6,1,OdeteRoitman,stuff
 50.65,29023,Standard 15 Treasure Hunting EXP Card,500,1013.17,4,24,PublicWin,uns 45 cru armor
