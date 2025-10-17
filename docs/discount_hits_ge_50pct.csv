@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,20,550016.25,4,4,Sysh,S> RAGES 2k imp
-100.0,22010,Gem of Rage,23,550016.25,4,2,Jew,gems
+100.0,22010,Gem of Rage,23,550016.25,4,2,Jew,ez
 100.0,22010,Gem of Rage,23,550016.25,4,3,Happyman,QUITTING CRUS SALE
 100.0,22011,Gemof Sout,20,699924.17,8,1,monchito1,noxpirin
 100.0,22011,Gemof Sout,13,699924.17,8,1,MrFarm,cheapest stall in town//check IT
@@ -12,11 +12,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22024,Purple Jade,8,700001.5,3,1,Systembuff,++
 100.0,22030,Earth Rock,22,1516674.0,3,1,ShowerBro,afk
 100.0,22434,,8,516669.33,3,1,staler,Imps 800 imps only
-100.0,25451,Jade Gem Fragment,1,41731.42,11,9,monchito1,noxpirin
+100.0,25451,Jade Gem Fragment,1,38000.91,9,9,monchito1,noxpirin
 100.0,25452,Rock Gem Fragment,1,22081.18,9,10,yuiy78,Jade/Rock
 100.0,25525,,4,373669.77,6,1,Jikoy,Kugmo!!!!!!
 100.0,26568,Skating Potion,1,50769.0,6,1,Asten,Demonic gem of Soul/Gem of Soul
-100.0,27020,Gold Pirate Scroll,1,20913.12,6,3,Leviac,buy pls
+100.0,27020,Gold Pirate Scroll,1,20783.24,6,3,Leviac,buy pls
 100.0,28136,Crown of Decendant,10,233338.67,3,1,BBVA,1231
 100.0,28136,Crown of Decendant,6,233338.67,3,1,Happyman,QUITTING CRUS SALE
 100.0,28434,Fire Sealed Robe of the Arcane,1,21667.0,3,1,Jikoy,Kugmo!!!!!!
@@ -26,12 +26,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 99.99,25452,Rock Gem Fragment,2,22081.18,9,12,monchito1,noxpirin
 99.99,25525,,45,373669.77,6,2,Xiomarvic,fREEE hELP ME
-99.99,27020,Gold Pirate Scroll,3,20913.12,6,46,Vanny,ring of spell and more
+99.99,27020,Gold Pirate Scroll,3,20783.24,6,46,Vanny,ring of spell and more
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
-99.98,25451,Jade Gem Fragment,8,41731.42,11,2,Goliat,Fragment Store
+99.98,25451,Jade Gem Fragment,8,38000.91,9,2,Goliat,Fragment Store
 99.98,28456,Ice Sealed Robe of the Sphinx,1,6666.67,3,1,Jikoy,Kugmo!!!!!!
 99.98,28458,Ice Sealed Staff of the Sphinx,1,5833.67,3,1,Jikoy,Kugmo!!!!!!
 99.97,25452,Rock Gem Fragment,7,22081.18,9,3,iTonik,SELLING IN IMPS
@@ -53,9 +53,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.82,28403,Blade of Incantation,135000,394999.67,3,1,sstido,selling
 65.12,28430,Fire Sealed Robe of Malediction,3333,9555.33,4,1,CallMeBaby,123123123
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
-59.66,22006,Spirit Gem,2000,4957.54,3,1,MushroomShop8,Normal Gems
+59.62,22006,Spirit Gem,2000,4953.33,3,1,MushroomShop8,Normal Gems
 59.39,22000,FieryGem,1000,2462.64,10,12,011,cleaning
-59.09,28400,Earth Sealed Platemail of the Cursed Soul,15000,36666.67,3,1,Cheelie,buy me
 57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
 57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
 57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
