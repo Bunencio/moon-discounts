@@ -10,7 +10,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,22011,Gemof Sout,MrFarm,cheapest stall in town//check IT,13,653777.0,653764.0,1,653764.0,100.0,6
 2025-10-17,22011,Gemof Sout,monchito1,noxpirin,20,653777.0,653757.0,1,653757.0,100.0,6
 2025-10-17,25426,Universe Purse Fragment.,Coffi,UG COLO/GEM FRAGMENTS,4,112507.17,112503.17,5,562515.83,100.0,4
-2025-10-17,28429,Dance of Evanescence,BBVA,LV5 FIERY SWORDS,20,546673.0,546653.0,1,546653.0,100.0,3
 2025-10-17,25451,Jade Gem Fragment,monchito1,noxpirin,1,46029.91,46028.91,9,414260.21,100.0,12
 2025-10-17,25452,Rock Gem Fragment,yuiy78,Jade/Rock,1,39589.9,39588.9,10,395889.02,100.0,11
 2025-10-17,25525,,Jikoy,Kugmo!!!!!!,4,290929.44,290925.44,1,290925.44,100.0,8
@@ -83,7 +82,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2999,3495.87,496.87,99,49189.65,14.21,5
 2025-10-17,25094,Purple Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3000,3495.87,495.87,99,49090.65,14.18,5
 2025-10-17,25094,Purple Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,3000,3495.87,495.87,85,42148.53,14.18,5
-2025-10-17,30156,Jackpot Coin,Remeca,GPS/PPS/W.Rock/Frags/Imp/Jackpot,9999,11595.21,1596.21,43,68637.06,13.77,8
 2025-10-17,26592,Flash Bomb,GBP2,SELL CHEAP SELL CHEAP SELL CHEAP,987,1124.74,137.74,200,27547.96,12.25,10
 2025-10-17,26592,Flash Bomb,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,987,1124.74,137.74,200,27547.96,12.25,10
 2025-10-17,25505,Standard Stone,VendedoraJequiti,stones / +,1997,2259.5,262.5,81,21262.5,11.62,4
@@ -104,12 +102,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,27019,Purple Pirate Scroll,MatsBk,S>IMP/PPS/BLUEPRINTS,4100,4445.31,345.31,90,31077.81,7.77,6
 2025-10-17,28403,Blade of Incantation,Brunette,crus but not cheap,299999,324166.0,24167.0,1,24167.0,7.46,5
 2025-10-17,28403,Blade of Incantation,Brunette,crus but not cheap,299999,324166.0,24167.0,1,24167.0,7.46,5
-2025-10-17,26585,Blessed Potion,Capo2,cheap,91000,97578.32,6578.32,6,39469.94,6.74,8
+2025-10-17,30156,Jackpot Coin,smoI,demo rage colo cheap,11000,11841.81,841.81,99,83338.98,7.11,6
+2025-10-17,26585,Blessed Potion,Capo2,cheap,91000,97954.93,6954.93,6,41729.6,7.1,7
 2025-10-17,26346,Lantern,SeventhHeaven,Lantern/Scroll/Coins,4200,4482.88,282.88,194,54879.43,6.31,11
 2025-10-17,25420,Sunlight Heart,purplered,Sunlight hearts,25000,26576.92,1576.92,20,31538.46,5.93,6
 2025-10-17,27025,Radiation Lv1,SellMe,cheapest in town,2300,2436.5,136.5,200,27299.11,5.6,4
 2025-10-17,25417,Moonlight Heart,GeorgeFloyd,yes,100000,105833.25,5833.25,5,29166.25,5.51,4
-2025-10-17,30156,Jackpot Coin,smoI,demo rage colo cheap,11000,11595.21,595.21,99,58925.87,5.13,8
 2025-10-17,26576,Iron Brew,Cincar,Cincar pots,7899,8281.73,382.73,200,76546.9,4.62,5
 2025-10-17,26571,Warlord Potion,TotemCookings,TOTEM COOKINGS RESTOCK SOON,3450,3604.1,154.1,200,30820.49,4.28,7
 2025-10-17,26571,Warlord Potion,TotemCookings,TOTEM COOKINGS RESTOCK SOON,3450,3604.1,154.1,200,30820.49,4.28,7
@@ -122,7 +120,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,26572,Inferno Potion,DwShops,the finest cookings for DW,12999,13400.72,401.72,83,33342.62,3.0,4
 2025-10-17,26572,Inferno Potion,Mamii,BETTER THAN TOTEM HE SUCKS,13000,13400.72,400.72,97,38869.68,2.99,4
 2025-10-17,26571,Warlord Potion,Mamii,BETTER THAN TOTEM HE SUCKS,3500,3604.1,104.1,200,20820.49,2.89,7
-2025-10-17,26585,Blessed Potion,voyafarm,CHO CHOP BLESS AND SHT,95000,97578.32,2578.32,13,33518.21,2.64,8
 2025-10-17,26573,Demonic Potion,DwShops,the finest cookings for DW,20999,21500.51,501.51,70,35105.96,2.33,4
 2025-10-17,26573,Demonic Potion,Mamii,BETTER THAN TOTEM HE SUCKS,21000,21500.51,500.51,50,25025.69,2.33,4
 2025-10-17,27017,Sorcerer's Wine,TotemCookings,TOTEM COOKINGS RESTOCK SOON,13500,13817.42,317.42,178,56500.07,2.3,6
