@@ -39,8 +39,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,25451,Jade Gem Fragment,Goliat,Fragment Store,8,41520.8,41512.8,2,83025.6,99.98,11
 2025-10-17,25452,Rock Gem Fragment,xxD,ROCK FRAGMENT / UG COLO / SHINER,10,34545.22,34535.22,2,69070.43,99.97,12
 2025-10-17,25452,Rock Gem Fragment,Goliat,Fragment Store,12,34545.22,34533.22,1,34533.22,99.97,12
-2025-10-17,26326,Elven Royal Signet,Dad,ez,1,864.48,863.48,199,171832.47,99.88,10
-2025-10-17,26326,Elven Royal Signet,Dad,ez,1,864.48,863.48,197,170105.51,99.88,10
+2025-10-17,26326,Elven Royal Signet,Dad,ez,1,860.56,859.56,199,171051.47,99.88,10
+2025-10-17,26326,Elven Royal Signet,Dad,ez,1,860.56,859.56,197,169332.36,99.88,10
 2025-10-17,30139,100x Crystal,FreePalestine1,SELL IMPS,11000,101518.81,90518.81,35,3168158.35,89.16,10
 2025-10-17,28472,Ice Sealed Bow of Enigma,HitAndRun,SS good items cheap for u ^^,85999,695333.0,609334.0,1,609334.0,87.63,3
 2025-10-17,28036,Emerald Shield,SSTTAALL,CHEAP,10000,48750.0,38750.0,1,38750.0,79.49,3
@@ -48,7 +48,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,22004,Shining Gem,hunterx,ug strike/signet/repu/bp /xp/etc,999,3087.98,2088.98,37,77292.12,67.65,6
 2025-10-17,22004,Shining Gem,011,cleaning,1000,3087.98,2087.98,18,37583.57,67.62,6
 2025-10-17,28326,Divine Grace Cap,ZafirRose,=D,40000,93749.75,53749.75,1,53749.75,57.33,4
-2025-10-17,25440,Evanescence Stone,sellerforfree,cheap,500,868.36,368.36,70,25785.42,42.42,3
 2025-10-17,25056,Willow Wood Log,satzstall2,ROSEWOOD WILLOW LOG IRON CRYST,350,571.73,221.73,99,21951.26,38.78,5
 2025-10-17,25420,Sunlight Heart,Yennefer,PURSE MOON SUN CLOUD ROCK FRAG,18000,26576.92,8576.92,7,60038.46,32.27,6
 2025-10-17,28468,Ice Sealed Mantle of Enigma,Vergalarga,Sell Item SS cheap,50000,73166.5,23166.5,1,23166.5,31.66,5
@@ -58,24 +57,25 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,25420,Sunlight Heart,BpBuyer,Hearts Pharoah Island Purple,19000,26576.92,7576.92,9,68192.31,28.51,6
 2025-10-17,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,559.1,159.1,198,31501.81,28.46,6
 2025-10-17,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,559.1,159.1,174,27683.41,28.46,6
-2025-10-17,22000,FieryGem,STAII,cheap,1990,2725.87,735.87,53,39001.28,27.0,9
+2025-10-17,22000,FieryGem,STAII,cheap,1990,2719.98,729.98,53,38688.91,26.84,10
 2025-10-17,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,cheap EXP,990,1309.42,319.42,99,31622.55,24.39,5
 2025-10-17,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,cheap EXP,990,1309.42,319.42,98,31303.13,24.39,5
+2025-10-17,30102,1000 Reputation Scroll,hunterx,ug strike/signet/repu/bp /xp/etc,5990,7803.16,1813.16,64,116042.42,23.24,8
+2025-10-17,30102,1000 Reputation Scroll,iinerti,Jackpot/GPS/PPS/Ref/Repu1k/PB/FB,6000,7803.16,1803.16,46,82945.49,23.11,8
+2025-10-17,30102,1000 Reputation Scroll,Ivynor,All cheap,6000,7803.16,1803.16,44,79339.17,23.11,8
+2025-10-17,25534,,freeee,cheap,3999,5167.87,1168.87,93,108704.89,22.62,7
+2025-10-17,25534,,Merchanty,Fragment of Fragmentation,3999,5167.87,1168.87,22,25715.14,22.62,7
+2025-10-17,25534,,xJavux,cheap,4000,5167.87,1167.87,26,30364.62,22.6,7
 2025-10-17,26588,Potion of Eagle,BuySome,FvCk Friends,1999,2576.26,577.26,36,20781.45,22.41,8
-2025-10-17,30102,1000 Reputation Scroll,sellerforfree,cheap,5950,7636.0,1686.0,70,118019.73,22.08,9
-2025-10-17,25534,,freeee,cheap,3999,5110.8,1111.8,93,103397.11,21.75,8
-2025-10-17,25534,,Merchanty,Fragment of Fragmentation,3999,5110.8,1111.8,22,24459.53,21.75,8
-2025-10-17,25534,,xJavux,cheap,4000,5110.8,1110.8,26,28880.72,21.73,8
-2025-10-17,30102,1000 Reputation Scroll,hunterx,ug strike/signet/repu/bp /xp/etc,5990,7636.0,1646.0,64,105343.75,21.56,9
-2025-10-17,30102,1000 Reputation Scroll,iinerti,Jackpot/GPS/PPS/Ref/Repu1k/PB/FB,6000,7636.0,1636.0,46,75255.82,21.42,9
-2025-10-17,30102,1000 Reputation Scroll,Ivynor,All cheap,6000,7636.0,1636.0,44,71983.83,21.42,9
 2025-10-17,25416,Cloud Heart,BpBuyer,Hearts Pharoah Island Purple,17000,21009.6,4009.6,9,36086.37,19.08,6
 2025-10-17,29002,Green Statue,IronM4n,Pharaoh Lantern/Green Statue,1190,1460.58,270.58,80,21646.15,18.53,5
 2025-10-17,25508,Demonic Gem Fragment,SeventhHeaven,Scrolls/Lantern/Coins etc,100000,122142.86,22142.86,1,22142.86,18.13,4
 2025-10-17,25094,Purple Crystal,FBandGrenadeSell,Cheap Ass,2850,3479.75,629.75,32,20151.88,18.1,5
 2025-10-17,26344,Novice Weightless Potion,STAII,cheap,2990,3622.62,632.62,86,54405.32,17.46,6
 2025-10-17,26571,Warlord Potion,MrMarket,GRAD RAD LV2 WARLORD,3400,4105.6,705.6,36,25401.46,17.19,8
+2025-10-17,30102,1000 Reputation Scroll,Despair,11223344,6500,7803.16,1303.16,50,65158.14,16.7,8
 2025-10-17,25416,Cloud Heart,conqstall2,Fairy growth cloudh heavycr,17500,21009.6,3509.6,15,52643.94,16.7,6
+2025-10-17,30102,1000 Reputation Scroll,sstido,selling,6500,7803.16,1303.16,30,39094.89,16.7,8
 2025-10-17,26589,Potion of Bull,STAII,cheap,1990,2373.02,383.02,115,44046.76,16.14,13
 2025-10-17,26571,Warlord Potion,TotemCookings,TOTEM COOKINGS RESTOCK SOON,3450,4105.6,655.6,196,128496.85,15.97,8
 2025-10-17,26571,Warlord Potion,TotemCookings,TOTEM COOKINGS RESTOCK SOON,3450,4105.6,655.6,123,80638.33,15.97,8
@@ -83,8 +83,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,25091,Heavy Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,2000,2377.62,377.62,99,37384.21,15.88,3
 2025-10-17,22006,Spirit Gem,STAII,cheap,4990,5915.56,925.56,52,48128.89,15.65,4
 2025-10-17,28327,Great Aqua Cap,BigChungus,op stats and apps,700000,825000.0,125000.0,1,125000.0,15.15,3
-2025-10-17,30102,1000 Reputation Scroll,Despair,11223344,6500,7636.0,1136.0,50,56799.81,14.88,9
-2025-10-17,30102,1000 Reputation Scroll,sstido,selling,6500,7636.0,1136.0,30,34079.88,14.88,9
 2025-10-17,26571,Warlord Potion,DwShops,the finest cookings for DW,3499,4105.6,606.6,99,60053.02,14.77,8
 2025-10-17,26571,Warlord Potion,Mamii,BETTER THAN TOTEM HE SUCKS,3500,4105.6,605.6,145,87811.45,14.75,8
 2025-10-17,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2999,3479.75,480.75,99,47593.89,13.82,5
@@ -94,14 +92,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,25505,Standard Stone,VendedoraJequiti,stones / +,1997,2259.5,262.5,81,21262.5,11.62,4
 2025-10-17,25505,Standard Stone,TTKillGirlTT,STD Stone / Equip 50/APP hat,1999,2259.5,260.5,99,25789.5,11.53,4
 2025-10-17,27020,Gold Pirate Scroll,xTrueHistory,ChaosJewellFrag/GPS/PPS Cheap,25000,28098.1,3098.1,8,24784.78,11.03,5
+2025-10-17,30102,1000 Reputation Scroll,LotokSell,UgRAGE DemoWind ShadowCrystal,6999,7803.16,804.16,68,54683.08,10.31,8
+2025-10-17,30102,1000 Reputation Scroll,Saller,ty,7000,7803.16,803.16,99,79513.13,10.29,8
 2025-10-17,26571,Warlord Potion,KFCC,KFC SHOP 24-7 OPEN ALL POTS,3699,4105.6,406.6,122,49604.74,9.9,8
 2025-10-17,26571,Warlord Potion,shooter,demonic inferno warlord fb bless,3700,4105.6,405.6,154,62461.81,9.88,8
 2025-10-17,30140,10x Crystal,PUTANG,LAST CHEAP IMPS IN SERVER,9900,10925.41,1025.41,20,20508.24,9.39,5
 2025-10-17,30140,10x Crystal,Bathroom,S>10x Crystal ss ami sage spr,9999,10925.41,926.41,67,62069.61,8.48,5
-2025-10-17,30102,1000 Reputation Scroll,LotokSell,UgRAGE DemoWind ShadowCrystal,6999,7636.0,637.0,68,43315.74,8.34,9
-2025-10-17,30102,1000 Reputation Scroll,Saller,ty,7000,7636.0,636.0,99,62963.62,8.33,9
-2025-10-17,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7259.64,593.64,46,27307.27,8.18,7
-2025-10-17,30156,Jackpot Coin,smoI,demo rage colo cheap,11000,11918.81,918.81,66,60641.58,7.71,6
+2025-10-17,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7260.74,594.74,46,27358.18,8.19,7
+2025-10-17,30156,Jackpot Coin,smoI,demo rage colo cheap,11000,11938.04,938.04,51,47839.81,7.86,5
 2025-10-17,26567,Weightless Potion,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,8999,9736.21,737.21,67,49392.98,7.57,3
 2025-10-17,26571,Warlord Potion,stallzunha,cheap,3799,4105.6,306.6,70,21461.73,7.47,8
 2025-10-17,26346,Lantern,SeventhHeaven,Scrolls/Lantern/Coins etc,4000,4320.24,320.24,200,64047.79,7.41,10
