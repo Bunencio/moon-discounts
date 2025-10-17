@@ -15,12 +15,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,7,249115.51,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,26568,Skating Potion,1,62141.93,3,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,27020,Gold Pirate Scroll,1,28485.36,4,3,Leviac,buy pls
-100.0,28136,Crown of Decendant,6,233337.0,3,1,Happyman,QUITTING CRUS SALE
-100.0,28136,Crown of Decendant,5,233337.0,3,1,jajaaaaja,sell
-100.0,28434,Fire Sealed Robe of the Arcane,1,21667.0,3,1,Jikoy,Kugmo!!!!!!
+100.0,28136,Crown of Decendant,6,350002.75,3,1,Happyman,QUITTING CRUS SALE
+100.0,28136,Crown of Decendant,5,350002.75,3,1,jajaaaaja,sell
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
+100.0,29310,Ring of Hawk,4,237512.25,4,1,jajaaaaja,sell
+100.0,29310,Ring of Hawk,4,237512.25,4,1,jajaaaaja,sell
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
+100.0,29324,Soulbinding Necklace,6,400002.0,3,1,BV10,q
 99.99,25452,Rock Gem Fragment,2,34545.22,12,12,monchito1,noxpirin
 99.99,29305,Ring of Destruction,15,116668.83,4,1,Ludopat1n,Ring 50 spr Lance apps
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
@@ -34,12 +36,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,28456,Ice Sealed Robe of the Sphinx,1,6666.67,3,1,Jikoy,Kugmo!!!!!!
 99.98,28458,Ice Sealed Staff of the Sphinx,1,5833.67,3,1,Jikoy,Kugmo!!!!!!
 99.98,28491,Ice Sealed Greaves of Enigma,30,123010.0,3,1,PALA02,garner
+99.98,29310,Ring of Hawk,45,237512.25,4,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
+99.98,29310,Ring of Hawk,45,237512.25,4,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25452,Rock Gem Fragment,12,34545.22,12,1,Goliat,Fragment Store
 99.97,25452,Rock Gem Fragment,10,34545.22,12,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
 99.88,26326,Elven Royal Signet,1,864.48,10,199,Dad,ez
 99.88,26326,Elven Royal Signet,1,864.48,10,197,Dad,ez
-89.18,30139,100x Crystal,11000,101645.92,9,35,FreePalestine1,SELL IMPS
+89.16,30139,100x Crystal,11000,101481.4,10,35,FreePalestine1,SELL IMPS
+87.63,28472,Ice Sealed Bow of Enigma,85999,695333.0,3,1,HitAndRun,SS good items cheap for u ^^
 87.34,26564,Meditation Potion,45,355.37,3,200,Heracles,Cheapest on Market
 87.34,26564,Meditation Potion,45,355.37,3,200,Heracles,Cheapest on Market
 87.34,26564,Meditation Potion,45,355.37,3,102,Heracles,Cheapest on Market
@@ -50,8 +55,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 76.76,22001,Furious Gem,499,2147.29,10,49,hunterx,ug strike/signet/repu/bp /xp/etc
 67.65,22004,Shining Gem,999,3087.98,6,37,hunterx,ug strike/signet/repu/bp /xp/etc
 67.62,22004,Shining Gem,1000,3087.98,6,18,011,cleaning
+65.81,27021,Green Pirate Scroll,120,350.95,5,24,Onigiri,TIKTOK SHOP
 65.12,28430,Fire Sealed Robe of Malediction,3333,9555.33,4,1,CallMeBaby,123123123
-63.6,26591,Potion of Lion,1000,2747.29,11,1,Lja,garner
+63.77,26591,Potion of Lion,1000,2760.5,11,1,Lja,garner
 61.82,29023,Standard 15 Treasure Hunting EXP Card,500,1309.42,5,24,PublicWin,uns 45 cru armor
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
@@ -60,5 +66,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
 53.43,22001,Furious Gem,1000,2147.29,10,10,011,cleaning
-50.24,28442,Fire Sealed Coat of Evanescence,14500,29142.71,5,1,bowstalls,All Fire Sealed lv50 items
-50.24,28442,Fire Sealed Coat of Evanescence,14500,29142.71,5,1,bowstalls,All Fire Sealed lv50 items
+51.5,28442,Fire Sealed Coat of Evanescence,14500,29899.8,4,1,bowstalls,All Fire Sealed lv50 items
