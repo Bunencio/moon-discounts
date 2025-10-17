@@ -1,10 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,25,1060011.7,5,2,Jew,sell
 100.0,22010,Gem of Rage,23,1060011.7,5,3,Happyman,QUITTING CRUS SALE
-100.0,22011,Gemof Sout,14,699924.17,8,3,Deathless,garner
-100.0,22011,Gemof Sout,20,699924.17,8,1,monchito1,noxpirin
-100.0,22011,Gemof Sout,13,699924.17,8,1,MrFarm,cheapest stall in town//check IT
-100.0,22011,Gemof Sout,15,699924.17,8,1,Asten,Demonic gem of Soul/Gem of Soul
+100.0,22011,Gemof Sout,14,1157109.79,9,3,Deathless,garner
+100.0,22011,Gemof Sout,20,1157109.79,9,1,monchito1,noxpirin
+100.0,22011,Gemof Sout,13,1157109.79,9,1,MrFarm,cheapest stall in town//check IT
+100.0,22011,Gemof Sout,15,1157109.79,9,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,22012,Demonic Gem of Wind,16,966338.67,3,1,Happyman,QUITTING CRUS SALE
 100.0,22016,Demonic Gem of Sout,15,983338.33,3,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,22024,Purple Jade,8,700001.5,3,1,Systembuff,++
@@ -23,7 +23,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,33646.22,12,12,monchito1,noxpirin
 99.99,27020,Gold Pirate Scroll,1,14970.01,4,3,Leviac,buy pls
 99.99,28491,Ice Sealed Greaves of Enigma,5,92258.75,4,1,Happyman,QUITTING CRUS SALE
-99.99,29305,Ring of Destruction,15,110003.75,3,1,Ludopat1n,Ring 50 spr Lance apps
+99.99,29305,Ring of Destruction,15,116668.83,4,1,Ludopat1n,Ring 50 spr Lance apps
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
