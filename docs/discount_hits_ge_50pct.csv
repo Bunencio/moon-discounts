@@ -1,11 +1,11 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,25,1060011.7,5,2,Jew,sell
-100.0,22010,Gem of Rage,23,1060011.7,5,3,Happyman,QUITTING CRUS SALE
-100.0,22011,Gemof Sout,14,1157109.79,9,3,Deathless,garner
-100.0,22011,Gemof Sout,20,1157109.79,9,1,monchito1,noxpirin
-100.0,22011,Gemof Sout,13,1157109.79,9,1,MrFarm,cheapest stall in town//check IT
-100.0,22011,Gemof Sout,15,1157109.79,9,1,Asten,Demonic gem of Soul/Gem of Soul
-100.0,22012,Demonic Gem of Wind,16,966338.67,3,1,Happyman,QUITTING CRUS SALE
+100.0,22010,Gem of Rage,25,537516.12,4,2,Jew,sell
+100.0,22010,Gem of Rage,21,537516.12,4,10,Happyman,QUPTTING CRUS SALE - UPDATED
+100.0,22011,Gemof Sout,14,1151817.56,8,3,Deathless,garner
+100.0,22011,Gemof Sout,20,1151817.56,8,1,monchito1,noxpirin
+100.0,22011,Gemof Sout,13,1151817.56,8,1,MrFarm,cheapest stall in town//check IT
+100.0,22011,Gemof Sout,15,1151817.56,8,1,Asten,Demonic gem of Soul/Gem of Soul
+100.0,22012,Demonic Gem of Wind,14,966338.0,3,1,Happyman,QUPTTING CRUS SALE - UPDATED
 100.0,22016,Demonic Gem of Sout,15,983338.33,3,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,22024,Purple Jade,8,700001.5,3,1,Systembuff,++
 100.0,22030,Earth Rock,22,1516674.0,3,1,ShowerBro,afk
@@ -15,14 +15,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,7,252395.61,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,26568,Skating Potion,1,62141.93,3,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,27020,Gold Pirate Scroll,1,28485.36,4,3,Leviac,buy pls
-100.0,28136,Crown of Decendant,6,350002.75,3,1,Happyman,QUITTING CRUS SALE
-100.0,28136,Crown of Decendant,5,350002.75,3,1,jajaaaaja,sell
+100.0,28136,Crown of Decendant,5,580002.0,3,1,Happyman,QUPTTING CRUS SALE - UPDATED
+100.0,28136,Crown of Decendant,5,580002.0,3,1,jajaaaaja,sell
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
 100.0,29310,Ring of Hawk,4,237512.25,4,1,jajaaaaja,sell
 100.0,29310,Ring of Hawk,4,237512.25,4,1,jajaaaaja,sell
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
-100.0,29324,Soulbinding Necklace,6,400002.0,3,1,BV10,q
 99.99,25452,Rock Gem Fragment,2,34110.43,13,12,monchito1,noxpirin
 99.99,29305,Ring of Destruction,15,106002.6,3,1,Ludopat1n,Ring 50 spr Lance apps
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
@@ -43,7 +42,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.96,25452,Rock Gem Fragment,12,34110.43,13,1,Goliat,Fragment Store
 99.88,26326,Elven Royal Signet,1,854.53,10,199,Dad,ez
 99.88,26326,Elven Royal Signet,1,854.53,10,197,Dad,ez
-89.17,30139,100x Crystal,11000,101525.29,10,35,FreePalestine1,SELL IMPS
 87.63,28472,Ice Sealed Bow of Enigma,85999,695333.0,3,1,HitAndRun,SS good items cheap for u ^^
 79.49,28036,Emerald Shield,10000,48750.0,3,1,SSTTAALL,CHEAP
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
