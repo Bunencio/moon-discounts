@@ -1,19 +1,16 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22011,Gemof Sout,20,653777.0,6,1,monchito1,noxpirin
-100.0,22011,Gemof Sout,13,653777.0,6,2,Jew,gems
-100.0,22011,Gemof Sout,13,653777.0,6,1,MrFarm,cheapest stall in town//check IT
-100.0,22011,Gemof Sout,14,653777.0,6,3,Deathless,garner
-100.0,22012,Demonic Gem of Wind,14,737257.5,4,1,Conquest,12312
-100.0,22012,Demonic Gem of Wind,16,737257.5,4,1,Happyman,QUITTING CRUS SALE
-100.0,22014,Demonic Gem of Colossus,30,1666676.67,3,1,Jew,gems
+100.0,22011,Gemof Sout,20,591591.75,6,1,monchito1,noxpirin
+100.0,22011,Gemof Sout,13,591591.75,6,2,Jew,gems
+100.0,22011,Gemof Sout,13,591591.75,6,1,MrFarm,cheapest stall in town//check IT
+100.0,22011,Gemof Sout,14,591591.75,6,3,Deathless,garner
+100.0,22012,Demonic Gem of Wind,14,724757.5,4,1,Conquest,12312
+100.0,22012,Demonic Gem of Wind,16,724757.5,4,1,Happyman,QUITTING CRUS SALE
 100.0,22024,Purple Jade,8,740001.0,4,1,Systembuff,++
 100.0,22030,Earth Rock,22,1516674.0,3,1,ShowerBro,afk
-100.0,25426,Universe Purse Fragment.,4,112507.17,4,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,46029.91,12,9,monchito1,noxpirin
 100.0,25452,Rock Gem Fragment,1,39589.9,11,10,yuiy78,Jade/Rock
-100.0,25525,,4,290929.44,8,1,Jikoy,Kugmo!!!!!!
-100.0,25525,,7,290929.44,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
-100.0,27020,Gold Pirate Scroll,1,20722.11,6,3,Leviac,buy pls
+100.0,25525,,4,402822.69,7,1,Jikoy,Kugmo!!!!!!
+100.0,27020,Gold Pirate Scroll,1,20811.76,8,3,Leviac,buy pls
 100.0,28434,Fire Sealed Robe of the Arcane,1,21667.0,3,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
 100.0,28491,Ice Sealed Greaves of Enigma,5,158801.0,5,1,Happyman,QUITTING CRUS SALE
@@ -27,13 +24,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22010,Gem of Rage,23,390927.55,4,2,Jew,gems
 99.99,22010,Gem of Rage,23,390927.55,4,3,Happyman,QUITTING CRUS SALE
 99.99,25452,Rock Gem Fragment,2,39589.9,11,12,monchito1,noxpirin
-99.99,27020,Gold Pirate Scroll,3,20722.11,6,46,Vanny,ring of spell and more
+99.99,25525,,45,402822.69,7,2,Xiomarvic,fREEE hELP ME
+99.99,27020,Gold Pirate Scroll,3,20811.76,8,46,Vanny,ring of spell and more
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7499.8,4,1,Jikoy,Kugmo!!!!!!
 99.98,25451,Jade Gem Fragment,8,46029.91,12,2,Goliat,Fragment Store
 99.98,25452,Rock Gem Fragment,7,39589.9,11,3,iTonik,SELLING IN IMPS
-99.98,25525,,45,290929.44,8,2,Xiomarvic,fREEE hELP ME
-99.97,25426,Universe Purse Fragment.,34,112507.17,4,2,Xiomarvic,fREEE hELP ME
 99.97,25452,Rock Gem Fragment,12,39589.9,11,1,Goliat,Fragment Store
 99.97,25452,Rock Gem Fragment,10,39589.9,11,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
 96.81,30135,Demonic Rock,99,3107.99,6,1,Madarax**,:D
@@ -48,14 +44,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
 58.55,22006,Spirit Gem,2000,4825.14,5,5,MushroomShop8,Normal Gems
 58.35,28403,Blade of Incantation,135000,324166.0,5,1,sstido,selling
-57.65,25503,Magical Stone,100,236.15,6,39,xVENDORx,RUSH
-57.65,25503,Magical Stone,100,236.15,6,99,xVENDORx,RUSH
-57.65,25503,Magical Stone,100,236.15,6,87,xVENDORx,RUSH
-57.65,25503,Magical Stone,100,236.15,6,28,xVENDORx,RUSH
+57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
+57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
+57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
+57.54,25503,Magical Stone,140,329.7,6,52,JunoJuno,CHEAP
+57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
 54.84,26591,Potion of Lion,1000,2214.42,12,1,Lja,garner
+54.5,25503,Magical Stone,150,329.7,6,99,OdeteRoitman,stuff
+54.5,25503,Magical Stone,150,329.7,6,1,OdeteRoitman,stuff
 51.0,27021,Green Pirate Scroll,250,510.22,3,4,amiix,LBS PPS GPS PG MvsM FGP
 50.65,29023,Standard 15 Treasure Hunting EXP Card,500,1013.17,4,24,PublicWin,uns 45 cru armor
 50.64,28403,Blade of Incantation,159999,324166.0,5,1,NecroManS,@@@@
