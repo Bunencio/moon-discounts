@@ -20,12 +20,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,29314,Ring of Angelic,BV10,q,5,200002.6,199997.6,1,199997.6,100.0,4
 2025-10-17,29314,Ring of Angelic,BV10,q,5,200002.6,199997.6,1,199997.6,100.0,4
 2025-10-17,28491,Ice Sealed Greaves of Enigma,Happyman,QUITTING CRUS SALE,5,158801.0,158796.0,1,158796.0,100.0,5
-2025-10-17,27020,Gold Pirate Scroll,Leviac,buy pls,1,20732.46,20731.46,3,62194.38,100.0,7
+2025-10-17,27020,Gold Pirate Scroll,Leviac,buy pls,1,20722.11,20721.11,3,62163.32,100.0,6
 2025-10-17,28466,Ice Sealed Judgment of Enigma,Jikoy,Kugmo!!!!!!,1,22999.8,22998.8,1,22998.8,100.0,4
-2025-10-17,28434,Fire Sealed Robe of the Arcane,Jikoy,Kugmo!!!!!!,1,22250.25,22249.25,1,22249.25,100.0,4
+2025-10-17,28434,Fire Sealed Robe of the Arcane,Jikoy,Kugmo!!!!!!,1,21667.0,21666.0,1,21666.0,100.0,3
 2025-10-17,22010,Gem of Rage,Sysh,CHEAP UG RAGES,22,390927.55,390905.55,4,1563622.18,99.99,4
 2025-10-17,22010,Gem of Rage,Happyman,QUITTING CRUS SALE,23,390927.55,390904.55,3,1172713.64,99.99,4
-2025-10-17,27020,Gold Pirate Scroll,Vanny,ring of spell and more,3,20732.46,20729.46,46,953555.12,99.99,7
+2025-10-17,27020,Gold Pirate Scroll,Vanny,ring of spell and more,3,20722.11,20719.11,46,953078.83,99.99,6
 2025-10-17,22010,Gem of Rage,Jew,gems,23,390927.55,390904.55,2,781809.09,99.99,4
 2025-10-17,25452,Rock Gem Fragment,monchito1,noxpirin,2,39589.9,39587.9,12,475054.82,99.99,11
 2025-10-17,25525,,Xiomarvic,fREEE hELP ME,45,290929.44,290884.44,2,581768.89,99.98,8
@@ -35,7 +35,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,25452,Rock Gem Fragment,xxD,ROCK FRAGMENT / UG COLO / SHINER,10,39589.9,39579.9,2,79159.8,99.97,11
 2025-10-17,25452,Rock Gem Fragment,Goliat,Fragment Store,12,39589.9,39577.9,1,39577.9,99.97,11
 2025-10-17,28036,Emerald Shield,SSTTAALL,CHEAP,10000,48750.0,38750.0,1,38750.0,79.49,3
-2025-10-17,22001,Furious Gem,hunterx,ug strike/signet/repu/bp /xp/etc,499,1936.32,1437.32,49,70428.71,74.23,9
+2025-10-17,22001,Furious Gem,hunterx,ug strike/signet/repu/bp /xp/etc,499,1937.99,1438.99,49,70510.62,74.25,9
 2025-10-17,2301,,BLaCKMooN,garner,19999,75999.8,56000.8,1,56000.8,73.69,3
 2025-10-17,22004,Shining Gem,hunterx,ug strike/signet/repu/bp /xp/etc,999,3137.04,2138.04,41,87659.44,68.15,4
 2025-10-17,28403,Blade of Incantation,sstido,selling,135000,324166.0,189166.0,1,189166.0,58.35,5
@@ -90,7 +90,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,30139,100x Crystal,Mallwart,S> IMPS,101450,114291.35,12841.35,45,577860.89,11.24,9
 2025-10-17,30139,100x Crystal,MatsBk,S>IMP/PPS/BLUEPRINTS,101500,114291.35,12791.35,50,639567.65,11.19,9
 2025-10-17,25534,,freeee,cheap,4899,5513.6,614.6,93,57157.76,11.15,10
-2025-10-17,26346,Lantern,STAII,cheap,3990,4482.88,492.88,52,25629.95,10.99,11
+2025-10-17,26346,Lantern,STAII,cheap,3990,4482.46,492.46,52,25607.94,10.99,12
 2025-10-17,30140,10x Crystal,Bathroom,S>10x Crystal sage ami se spr,10000,11173.74,1173.74,99,116200.75,10.5,4
 2025-10-17,25534,,tiendaonline,offer offer offer,4999,5513.6,514.6,82,42197.16,9.33,10
 2025-10-17,25534,,*DEATH*~#14,FRAGMENTO,4999,5513.6,514.6,47,24186.18,9.33,10
@@ -103,11 +103,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-17,28403,Blade of Incantation,Brunette,crus but not cheap,299999,324166.0,24167.0,1,24167.0,7.46,5
 2025-10-17,28403,Blade of Incantation,Brunette,crus but not cheap,299999,324166.0,24167.0,1,24167.0,7.46,5
 2025-10-17,30156,Jackpot Coin,smoI,demo rage colo cheap,11000,11841.81,841.81,99,83338.98,7.11,6
-2025-10-17,26585,Blessed Potion,Capo2,cheap,91000,97954.93,6954.93,6,41729.6,7.1,7
-2025-10-17,26346,Lantern,SeventhHeaven,Lantern/Scroll/Coins,4200,4482.88,282.88,194,54879.43,6.31,11
+2025-10-17,26585,Blessed Potion,Capo2,cheap,91000,97195.97,6195.97,6,37175.82,6.37,7
+2025-10-17,26346,Lantern,SeventhHeaven,Lantern/Scroll/Coins,4200,4482.46,282.46,194,54797.3,6.3,12
 2025-10-17,25420,Sunlight Heart,purplered,Sunlight hearts,25000,26576.92,1576.92,20,31538.46,5.93,6
 2025-10-17,27025,Radiation Lv1,SellMe,cheapest in town,2300,2436.5,136.5,200,27299.11,5.6,4
 2025-10-17,25417,Moonlight Heart,GeorgeFloyd,yes,100000,105833.25,5833.25,5,29166.25,5.51,4
+2025-10-17,26585,Blessed Potion,voyafarm,CHEAP BLESS,92000,97195.97,5195.97,13,67547.62,5.35,7
 2025-10-17,26576,Iron Brew,Cincar,Cincar pots,7899,8281.73,382.73,200,76546.9,4.62,5
 2025-10-17,26571,Warlord Potion,TotemCookings,TOTEM COOKINGS RESTOCK SOON,3450,3604.1,154.1,200,30820.49,4.28,7
 2025-10-17,26571,Warlord Potion,TotemCookings,TOTEM COOKINGS RESTOCK SOON,3450,3604.1,154.1,200,30820.49,4.28,7

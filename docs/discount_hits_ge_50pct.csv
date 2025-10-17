@@ -13,8 +13,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,39589.9,11,10,yuiy78,Jade/Rock
 100.0,25525,,4,290929.44,8,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,290929.44,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
-100.0,27020,Gold Pirate Scroll,1,20732.46,7,3,Leviac,buy pls
-100.0,28434,Fire Sealed Robe of the Arcane,1,22250.25,4,1,Jikoy,Kugmo!!!!!!
+100.0,27020,Gold Pirate Scroll,1,20722.11,6,3,Leviac,buy pls
+100.0,28434,Fire Sealed Robe of the Arcane,1,21667.0,3,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
 100.0,28491,Ice Sealed Greaves of Enigma,5,158801.0,5,1,Happyman,QUITTING CRUS SALE
 100.0,29314,Ring of Angelic,5,200002.6,4,1,Systembuff,++
@@ -27,7 +27,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22010,Gem of Rage,23,390927.55,4,2,Jew,gems
 99.99,22010,Gem of Rage,23,390927.55,4,3,Happyman,QUITTING CRUS SALE
 99.99,25452,Rock Gem Fragment,2,39589.9,11,12,monchito1,noxpirin
-99.99,27020,Gold Pirate Scroll,3,20732.46,7,46,Vanny,ring of spell and more
+99.99,27020,Gold Pirate Scroll,3,20722.11,6,46,Vanny,ring of spell and more
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7499.8,4,1,Jikoy,Kugmo!!!!!!
 99.98,25451,Jade Gem Fragment,8,46029.91,12,2,Goliat,Fragment Store
@@ -41,7 +41,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 77.01,22009,Gem of Colossus,20,87.0,3,1,BV10,q
 75.86,22009,Gem of Colossus,21,87.0,3,1,Coffi,UG COLO/GEM FRAGMENTS
-74.23,22001,Furious Gem,499,1936.32,9,49,hunterx,ug strike/signet/repu/bp /xp/etc
+74.25,22001,Furious Gem,499,1937.99,9,49,hunterx,ug strike/signet/repu/bp /xp/etc
 73.69,2301,,19999,75999.8,3,1,BLaCKMooN,garner
 68.15,22004,Shining Gem,999,3137.04,4,41,hunterx,ug strike/signet/repu/bp /xp/etc
 65.12,28430,Fire Sealed Robe of Malediction,3333,9555.33,4,1,CallMeBaby,123123123
