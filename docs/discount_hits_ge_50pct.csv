@@ -34,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25452,Rock Gem Fragment,12,39589.9,11,1,Goliat,Fragment Store
 99.97,25452,Rock Gem Fragment,10,39589.9,11,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
 96.85,30135,Demonic Rock,99,3145.32,6,1,Madarax**,:D
-79.31,28036,Emerald Shield,10000,48333.33,3,1,SSTTAALL,CHEAP
+79.49,28036,Emerald Shield,10000,48750.0,3,1,SSTTAALL,CHEAP
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 77.01,22009,Gem of Colossus,20,87.0,3,1,BV10,q
 75.86,22009,Gem of Colossus,21,87.0,3,1,Coffi,UG COLO/GEM FRAGMENTS
@@ -57,4 +57,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.64,25440,Evanescence Stone,500,1127.05,4,70,sellerforfree,cheap
 55.64,25440,Evanescence Stone,500,1127.05,4,2,vendedolmax,2000
 53.85,28326,Divine Grace Cap,50000,108333.33,3,1,ZafirRose,cheap
+51.0,27021,Green Pirate Scroll,250,510.22,3,4,amiix,LBS PPS GPS PG MvsM FGP
 50.11,28403,Blade of Incantation,159999,320713.71,6,1,NecroManS,@@@@
