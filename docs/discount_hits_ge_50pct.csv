@@ -1,10 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,25,1060011.7,5,2,Jew,sell
 100.0,22010,Gem of Rage,23,1060011.7,5,3,Happyman,QUITTING CRUS SALE
-100.0,22011,Gemof Sout,20,699924.17,8,1,monchito1,noxpirin
-100.0,22011,Gemof Sout,13,699924.17,8,1,MrFarm,cheapest stall in town//check IT
-100.0,22011,Gemof Sout,14,699924.17,8,3,Deathless,garner
-100.0,22011,Gemof Sout,15,699924.17,8,1,Asten,Demonic gem of Soul/Gem of Soul
+100.0,22011,Gemof Sout,20,933227.56,7,1,monchito1,noxpirin
+100.0,22011,Gemof Sout,13,933227.56,7,1,MrFarm,cheapest stall in town//check IT
+100.0,22011,Gemof Sout,15,933227.56,7,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,22012,Demonic Gem of Wind,12,724757.0,4,1,Conquest,winds
 100.0,22012,Demonic Gem of Wind,16,724757.0,4,1,Happyman,QUITTING CRUS SALE
 100.0,22016,Demonic Gem of Sout,15,983338.33,3,1,Asten,Demonic gem of Soul/Gem of Soul
@@ -37,19 +36,23 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25452,Rock Gem Fragment,10,32820.0,11,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
 99.97,28491,Ice Sealed Greaves of Enigma,30,92258.75,4,1,PALA02,garner
 99.96,25452,Rock Gem Fragment,12,32820.0,11,1,Goliat,Fragment Store
+87.61,26564,Meditation Potion,45,363.1,3,200,Heracles,Cheapest on Market
+87.61,26564,Meditation Potion,45,363.1,3,200,Heracles,Cheapest on Market
+87.61,26564,Meditation Potion,45,363.1,3,102,Heracles,Cheapest on Market
+87.61,26564,Meditation Potion,45,363.1,3,78,Nailed,Cheapest on Market
+86.23,26564,Meditation Potion,50,363.1,3,200,lamamandoski,rasuba
 79.49,28036,Emerald Shield,10000,48750.0,3,1,SSTTAALL,CHEAP
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 73.77,22001,Furious Gem,499,1902.3,10,49,hunterx,ug strike/signet/repu/bp /xp/etc
-73.69,2301,,19999,75999.8,3,1,BLaCKMooN,garner
 66.01,22004,Shining Gem,999,2939.12,5,37,hunterx,ug strike/signet/repu/bp /xp/etc
 65.98,22004,Shining Gem,1000,2939.12,5,18,011,cleaning
 65.12,28430,Fire Sealed Robe of Malediction,3333,9555.33,4,1,CallMeBaby,123123123
-61.45,28326,Divine Grace Cap,40000,103749.75,4,1,ZafirRose,=D
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
+58.44,28326,Divine Grace Cap,40000,96249.75,4,1,ZafirRose,=D
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
-54.4,26591,Potion of Lion,1000,2193.06,11,1,Lja,garner
+54.38,26591,Potion of Lion,1000,2191.99,11,1,Lja,garner
 50.65,29023,Standard 15 Treasure Hunting EXP Card,500,1013.17,4,24,PublicWin,uns 45 cru armor
 50.24,28442,Fire Sealed Coat of Evanescence,14500,29142.71,5,1,bowstalls,All Fire Sealed lv50 items
 50.24,28442,Fire Sealed Coat of Evanescence,14500,29142.71,5,1,bowstalls,All Fire Sealed lv50 items
