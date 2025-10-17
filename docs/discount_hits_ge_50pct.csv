@@ -1,9 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,25,1060011.7,5,2,Jew,sell
 100.0,22010,Gem of Rage,23,1060011.7,5,3,Happyman,QUITTING CRUS SALE
-100.0,22011,Gemof Sout,20,933227.56,7,1,monchito1,noxpirin
-100.0,22011,Gemof Sout,13,933227.56,7,1,MrFarm,cheapest stall in town//check IT
-100.0,22011,Gemof Sout,15,933227.56,7,1,Asten,Demonic gem of Soul/Gem of Soul
+100.0,22011,Gemof Sout,14,699924.17,8,3,Deathless,garner
+100.0,22011,Gemof Sout,20,699924.17,8,1,monchito1,noxpirin
+100.0,22011,Gemof Sout,13,699924.17,8,1,MrFarm,cheapest stall in town//check IT
+100.0,22011,Gemof Sout,15,699924.17,8,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,22012,Demonic Gem of Wind,12,724757.0,4,1,Conquest,winds
 100.0,22012,Demonic Gem of Wind,16,724757.0,4,1,Happyman,QUITTING CRUS SALE
 100.0,22016,Demonic Gem of Sout,15,983338.33,3,1,Asten,Demonic gem of Soul/Gem of Soul
@@ -17,7 +18,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28136,Crown of Decendant,10,233338.67,3,1,BBVA,1231
 100.0,28136,Crown of Decendant,6,233338.67,3,1,Happyman,QUITTING CRUS SALE
 100.0,28434,Fire Sealed Robe of the Arcane,1,21667.0,3,1,Jikoy,Kugmo!!!!!!
-100.0,28466,Ice Sealed Judgment of Enigma,1,21249.75,3,1,Jikoy,Kugmo!!!!!!
+100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 99.99,25452,Rock Gem Fragment,2,32820.0,11,12,monchito1,noxpirin
@@ -48,7 +49,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.98,22004,Shining Gem,1000,2939.12,5,18,011,cleaning
 65.12,28430,Fire Sealed Robe of Malediction,3333,9555.33,4,1,CallMeBaby,123123123
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
-58.44,28326,Divine Grace Cap,40000,96249.75,4,1,ZafirRose,=D
+57.89,28326,Divine Grace Cap,40000,95000.0,3,1,ZafirRose,=D
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
