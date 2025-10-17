@@ -1,7 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,20,550016.25,4,4,Sysh,S> RAGES 2k imp
-100.0,22010,Gem of Rage,23,550016.25,4,2,Jew,ez
-100.0,22010,Gem of Rage,23,550016.25,4,3,Happyman,QUITTING CRUS SALE
+100.0,22010,Gem of Rage,23,1060011.3,4,2,Jew,ez
+100.0,22010,Gem of Rage,23,1060011.3,4,3,Happyman,QUITTING CRUS SALE
 100.0,22011,Gemof Sout,20,699924.17,8,1,monchito1,noxpirin
 100.0,22011,Gemof Sout,13,699924.17,8,1,MrFarm,cheapest stall in town//check IT
 100.0,22011,Gemof Sout,14,699924.17,8,3,Deathless,garner
@@ -39,6 +38,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.95,25452,Rock Gem Fragment,10,22081.18,9,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
 79.49,28036,Emerald Shield,10000,48750.0,3,1,SSTTAALL,CHEAP
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
+77.01,22009,Gem of Colossus,20,87.0,3,1,BV10,q
+75.86,22009,Gem of Colossus,21,87.0,3,1,Coffi,UG COLO/GEM FRAGMENTS
 73.77,22001,Furious Gem,499,1902.3,10,49,hunterx,ug strike/signet/repu/bp /xp/etc
 69.19,2301,,11111,36068.23,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 69.19,2301,,11111,36068.23,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -50,11 +51,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.19,2301,,11111,36068.23,4,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 66.08,22004,Shining Gem,999,2945.28,5,37,hunterx,ug strike/signet/repu/bp /xp/etc
 66.05,22004,Shining Gem,1000,2945.28,5,18,011,cleaning
-65.82,28403,Blade of Incantation,135000,394999.67,3,1,sstido,selling
 65.12,28430,Fire Sealed Robe of Malediction,3333,9555.33,4,1,CallMeBaby,123123123
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
-59.62,22006,Spirit Gem,2000,4953.33,3,1,MushroomShop8,Normal Gems
-59.39,22000,FieryGem,1000,2462.64,10,12,011,cleaning
+59.52,28403,Blade of Incantation,135000,333499.75,4,1,sstido,selling
 57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
 57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
 57.54,25503,Magical Stone,140,329.7,6,99,JunoJuno,CHEAP
@@ -63,6 +62,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
+55.32,28403,Blade of Incantation,149000,333499.75,4,1,VENDEDORAA,BOI +5 FREE
 54.8,26591,Potion of Lion,1000,2212.48,12,1,Lja,garner
 54.5,25503,Magical Stone,150,329.7,6,99,OdeteRoitman,stuff
 54.5,25503,Magical Stone,150,329.7,6,1,OdeteRoitman,stuff
