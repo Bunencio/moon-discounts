@@ -10,7 +10,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,39589.9,11,10,yuiy78,Jade/Rock
 100.0,25525,,4,290929.44,8,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,290929.44,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS#
-100.0,27020,Gold Pirate Scroll,1,26212.66,6,3,Leviac,buy pls
+100.0,27020,Gold Pirate Scroll,1,20732.46,7,3,Leviac,buy pls
 100.0,28429,Dance of Evanescence,20,546673.0,3,1,BBVA,LV5 FIERY SWORDS
 100.0,28434,Fire Sealed Robe of the Arcane,1,22250.25,4,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
@@ -22,6 +22,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,200002.6,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,200002.6,4,1,MrFarm,cheapest stall in town//check IT
 99.99,25452,Rock Gem Fragment,2,39589.9,11,12,monchito1,noxpirin
+99.99,27020,Gold Pirate Scroll,3,20732.46,7,46,Vanny,ring of spell and more
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7499.8,4,1,Jikoy,Kugmo!!!!!!
 99.98,25451,Jade Gem Fragment,8,46029.91,12,2,Goliat,Fragment Store
@@ -30,7 +31,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25426,Universe Purse Fragment.,34,112507.17,4,2,Xiomarvic,fREEE hELP ME
 99.97,25452,Rock Gem Fragment,12,39589.9,11,1,Goliat,Fragment Store
 99.97,25452,Rock Gem Fragment,10,39589.9,11,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
-96.85,30135,Demonic Rock,99,3145.32,6,1,Madarax**,:D
+99.1,26001,Ninja Coin,1,111.22,3,99,Vanny,ring of spell and more
+96.95,30135,Demonic Rock,99,3243.22,5,1,Madarax**,:D
 79.49,28036,Emerald Shield,10000,48750.0,3,1,SSTTAALL,CHEAP
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 77.01,22009,Gem of Colossus,20,87.0,3,1,BV10,q
@@ -49,9 +51,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
-55.64,25440,Evanescence Stone,500,1127.05,4,70,sellerforfree,cheap
-55.64,25440,Evanescence Stone,500,1127.05,4,2,vendedolmax,2000
 54.99,26591,Potion of Lion,1000,2221.9,12,1,Lja,garner
-53.85,28326,Divine Grace Cap,50000,108333.33,3,1,ZafirRose,cheap
 51.0,27021,Green Pirate Scroll,250,510.22,3,4,amiix,LBS PPS GPS PG MvsM FGP
 50.64,28403,Blade of Incantation,159999,324166.0,5,1,NecroManS,@@@@
