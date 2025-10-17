@@ -7,7 +7,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,46029.91,12,9,monchito1,noxpirin
 100.0,25452,Rock Gem Fragment,1,39589.9,11,10,yuiy78,Jade/Rock
 100.0,25525,,4,377744.94,7,1,Jikoy,Kugmo!!!!!!
-100.0,26568,Skating Potion,1,49705.71,7,1,Asten,Demonic gem of Soul/Gem of Soul
+100.0,26568,Skating Potion,1,50769.0,6,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,27020,Gold Pirate Scroll,1,20811.76,8,3,Leviac,buy pls
 100.0,28434,Fire Sealed Robe of the Arcane,1,21667.0,3,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
@@ -57,7 +57,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
-55.27,26591,Potion of Lion,1000,2235.62,12,1,Lja,garner
+55.12,26591,Potion of Lion,1000,2228.15,12,1,Lja,garner
 54.5,25503,Magical Stone,150,329.7,6,99,OdeteRoitman,stuff
 54.5,25503,Magical Stone,150,329.7,6,1,OdeteRoitman,stuff
 51.0,27021,Green Pirate Scroll,250,510.22,3,4,amiix,LBS PPS GPS PG MvsM FGP
