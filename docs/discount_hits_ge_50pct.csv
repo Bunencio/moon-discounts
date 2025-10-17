@@ -25,7 +25,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,220002.8,4,1,MrFarm,cheapest stall in town//check IT
 99.99,25452,Rock Gem Fragment,2,39589.9,11,12,monchito1,noxpirin
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
-99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
+99.99,28458,Ice Sealed Staff of the Sphinx,1,7499.8,4,1,Jikoy,Kugmo!!!!!!
 99.98,25451,Jade Gem Fragment,8,46029.91,12,2,Goliat,Fragment Store
 99.98,25452,Rock Gem Fragment,7,39589.9,11,3,iTonik,SELLING IN IMPS
 99.98,25525,,45,290929.44,8,2,Xiomarvic,fREEE hELP ME
@@ -39,22 +39,24 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.01,22009,Gem of Colossus,20,87.0,3,1,BV10,q
 75.86,22009,Gem of Colossus,21,87.0,3,1,Coffi,UG COLO/GEM FRAGMENTS
 74.42,25258,Spirit Feather,99,387.0,3,3,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
-74.32,22001,Furious Gem,499,1943.09,8,49,hunterx,ug strike/signet/repu/bp /xp/etc
+74.23,22001,Furious Gem,499,1936.32,9,49,hunterx,ug strike/signet/repu/bp /xp/etc
 73.69,2301,,19999,75999.8,3,1,BLaCKMooN,garner
 69.39,28430,Fire Sealed Robe of Malediction,3333,10888.67,4,1,CallMeBaby,123123123
-68.5,22004,Shining Gem,999,3171.23,3,42,hunterx,ug strike/signet/repu/bp /xp/etc
 68.29,28442,Fire Sealed Coat of Evanescence,7999,25222.0,6,1,Nikoz,Chet for Sale Come Looky
-68.08,25440,Evanescence Stone,300,939.86,4,23,HyjoSeller,PSSS COME HERE
+68.0,22004,Shining Gem,999,3122.08,4,42,hunterx,ug strike/signet/repu/bp /xp/etc
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
 59.79,26591,Potion of Lion,1000,2487.2,13,1,Lja,garner
+58.55,22006,Spirit Gem,2000,4825.14,5,5,MushroomShop8,Normal Gems
+57.65,25503,Magical Stone,100,236.15,6,39,xVENDORx,RUSH
+57.65,25503,Magical Stone,100,236.15,6,99,xVENDORx,RUSH
+57.65,25503,Magical Stone,100,236.15,6,87,xVENDORx,RUSH
+57.65,25503,Magical Stone,100,236.15,6,28,xVENDORx,RUSH
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
 57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
 56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
-56.47,25503,Magical Stone,100,229.73,6,99,xVENDORx,RUSH
-56.47,25503,Magical Stone,100,229.73,6,99,xVENDORx,RUSH
-56.47,25503,Magical Stone,100,229.73,6,87,xVENDORx,RUSH
-56.47,25503,Magical Stone,100,229.73,6,28,xVENDORx,RUSH
+55.64,25440,Evanescence Stone,500,1127.05,4,70,sellerforfree,cheap
+55.64,25440,Evanescence Stone,500,1127.05,4,2,vendedolmax,2000
 55.62,28403,Blade of Incantation,135000,304166.17,6,1,sstido,selling
 53.85,28326,Divine Grace Cap,50000,108333.33,3,1,ZafirRose,cheap
