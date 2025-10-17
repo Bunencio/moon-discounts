@@ -1,13 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,15,980771.46,3,1,zzzzz,garner
-100.0,22007,Gem of Striking,15,980771.46,3,1,Jew,gems
 100.0,22011,Gemof Sout,14,546085.77,6,1,SSxConvict,Gem of Soul  Hexwood Bow 110%
 100.0,22011,Gemof Sout,20,546085.77,6,1,monchito1,noxpirin
 100.0,22011,Gemof Sout,13,546085.77,6,2,Jew,gems
 100.0,22011,Gemof Sout,13,546085.77,6,1,MrFarm,cheapest stall in town
 100.0,22011,Gemof Sout,14,546085.77,6,3,Deathless,garner
 100.0,22024,Purple Jade,9,566669.33,3,1,Systembuff,x
-100.0,22030,Earth Rock,22,1566674.0,3,1,ShowerBro,afk
+100.0,22030,Earth Rock,22,1175009.25,4,1,ShowerBro,afk
+100.0,22030,Earth Rock,15,1175009.25,4,1,Pescado,Sell
 100.0,25426,Universe Purse Fragment.,4,163893.56,6,5,Coffi,UG COLO/GEM FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,45250.59,12,9,monchito1,noxpirin
 100.0,25452,Rock Gem Fragment,1,34335.1,9,10,yuiy78,Jade/Rock
@@ -20,12 +19,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28434,Fire Sealed Robe of the Arcane,1,22250.25,4,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,23000.0,4,1,Jikoy,Kugmo!!!!!!
 100.0,28491,Ice Sealed Greaves of Enigma,5,149751.25,4,1,Happyman,QUITTING CRUS SALE
-100.0,29314,Ring of Angelic,5,247502.33,5,1,Systembuff,x
-100.0,29314,Ring of Angelic,5,247502.33,5,1,Systembuff,x
-100.0,29314,Ring of Angelic,5,247502.33,5,1,BV10,q
-100.0,29314,Ring of Angelic,5,247502.33,5,1,BV10,q
-100.0,29314,Ring of Angelic,4,247502.33,5,1,MrFarm,cheapest stall in town
-100.0,29314,Ring of Angelic,4,247502.33,5,1,MrFarm,cheapest stall in town
+100.0,29314,Ring of Angelic,5,220002.8,4,1,Systembuff,x
+100.0,29314,Ring of Angelic,5,220002.8,4,1,Systembuff,x
+100.0,29314,Ring of Angelic,5,220002.8,4,1,BV10,q
+100.0,29314,Ring of Angelic,5,220002.8,4,1,BV10,q
+100.0,29314,Ring of Angelic,4,220002.8,4,1,MrFarm,cheapest stall in town
+100.0,29314,Ring of Angelic,4,220002.8,4,1,MrFarm,cheapest stall in town
 99.99,25452,Rock Gem Fragment,2,34335.1,9,12,monchito1,noxpirin
 99.99,28456,Ice Sealed Robe of the Sphinx,1,7499.75,3,1,Jikoy,Kugmo!!!!!!
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7916.5,4,1,Jikoy,Kugmo!!!!!!
@@ -33,34 +32,34 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25451,Jade Gem Fragment,8,45250.59,12,2,Goliat,Fragment Store
 99.98,25452,Rock Gem Fragment,7,34335.1,9,3,iTonik,SELLING IN IMPS
 99.98,25525,,45,290929.44,8,2,Xiomarvic,fREEE hELP ME
+99.98,29305,Ring of Destruction,15,95003.75,3,1,Ludopat1n,Ring 50 spr Lance apps
 99.97,25452,Rock Gem Fragment,12,34335.1,9,1,Goliat,Fragment Store
 99.97,25452,Rock Gem Fragment,10,34335.1,9,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
-88.28,30121,Vial of Accuracy Reset,555,4734.54,9,11,NainBASTARD,x
+88.04,30121,Vial of Accuracy Reset,555,4640.93,10,11,NainBASTARD,x
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
+72.09,22001,Furious Gem,499,1788.15,9,49,hunterx,ug strike/signet/repu/bp /xp/etc
 71.43,30120,Vial of Agility Reset,2500,8749.2,3,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
 69.39,28430,Fire Sealed Robe of Malediction,3333,10888.67,4,1,CallMeBaby,123123123
+68.96,22001,Furious Gem,555,1788.15,9,29,NainBASTARD,x
 68.29,28442,Fire Sealed Coat of Evanescence,7999,25222.0,6,1,Nikoz,Chet for Sale Come Looky
 68.08,25440,Evanescence Stone,300,939.86,4,23,HyjoSeller,PSSS COME HERE
 66.9,2301,,23456,70864.0,3,1,BLaCKMooN,garner
-65.97,22001,Furious Gem,499,1466.56,9,49,hunterx,ug strike/signet/repu/bp /xp/etc
 63.16,30118,Vial of Strength Reset,2000,5428.57,3,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
-62.16,22001,Furious Gem,555,1466.56,9,29,NainBASTARD,x
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
 60.62,22004,Shining Gem,999,2536.51,4,42,hunterx,ug strike/signet/repu/bp /xp/etc
 59.38,25522,,40,98.47,3,12,xSsnowBeaRx,sale
-57.76,30121,Vial of Accuracy Reset,2000,4734.54,9,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,Hairstyle
 57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,lv50braceFree|MinionSprFruit|BPs
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
+56.91,30121,Vial of Accuracy Reset,2000,4640.93,10,1,Yennefer,STRI KAL MOON SUN CLOUD PURS ROC
 56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/MOONROOT/JELLY/POTION
 56.44,28403,Blade of Incantation,164999,378749.5,4,1,CallMeBaby,123123123
 56.2,22004,Shining Gem,1111,2536.51,4,61,NainBASTARD,x
 54.48,29062,Field Brew,45,98.86,5,24,Heracles,Cheapest on Market
 53.85,28326,Divine Grace Cap,50000,108333.33,3,1,ZafirRose,cheap
+53.07,22000,FieryGem,1111,2367.25,11,34,NainBASTARD,x
 52.52,25503,Magical Stone,100,210.62,6,99,xVENDORx,RUSH
 52.52,25503,Magical Stone,100,210.62,6,99,xVENDORx,RUSH
 52.52,25503,Magical Stone,100,210.62,6,87,xVENDORx,RUSH
 52.52,25503,Magical Stone,100,210.62,6,28,xVENDORx,RUSH
-51.74,22000,FieryGem,1111,2302.23,11,34,NainBASTARD,x
-51.69,30122,Vial of Spirit Reset,3000,6209.52,6,1,Ivynor,All cheap
