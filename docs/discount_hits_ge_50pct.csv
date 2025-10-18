@@ -5,13 +5,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,24167.42,3,9,monchito1,bowepelu
 100.0,25452,Rock Gem Fragment,2,40590.53,7,12,monchito1,bowepelu
 100.0,25452,Rock Gem Fragment,2,40590.53,7,1,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
-100.0,25525,,4,285276.18,8,1,Jikoy,Kugmo!!!!!!
-100.0,25525,,7,285276.18,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
+100.0,25525,,7,290559.0,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,27020,Gold Pirate Scroll,1,23704.62,6,3,Leviac,buy pls
 100.0,28136,Crown of Decendant,5,570002.0,4,1,Happyman,QUITTING CRUS SALE
 100.0,28136,Crown of Decendant,5,570002.0,4,1,jajaaaaja,sell
-100.0,28434,Fire Sealed Robe of the Arcane,1,22333.67,3,1,Jikoy,Kugmo!!!!!!
-100.0,28466,Ice Sealed Judgment of Enigma,1,23999.8,3,1,Jikoy,Kugmo!!!!!!
 100.0,29312,Ring of Might,4,325000.75,3,1,Happyman,QUITTING CRUS SALE
 100.0,29314,Ring of Angelic,5,188002.8,4,1,Systembuff,++
 100.0,29314,Ring of Angelic,5,188002.8,4,1,Systembuff,++
@@ -20,10 +17,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,188002.8,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,188002.8,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29324,Soulbinding Necklace,6,400002.0,3,1,Conchito,neck / pet 22
-99.99,28458,Ice Sealed Staff of the Sphinx,1,7749.83,5,1,Jikoy,Kugmo!!!!!!
 99.98,25452,Rock Gem Fragment,10,40590.53,7,1,Goliat,Fragment Store
 99.98,25452,Rock Gem Fragment,10,40590.53,7,5,SuperBuffer,garner
-99.98,25525,,45,285276.18,8,2,Xiomarvic,fREEE hELP ME
+99.98,25525,,45,290559.0,7,2,Xiomarvic,fREEE hELP ME
 99.98,27020,Gold Pirate Scroll,4,23704.62,6,13,SuperBuffer,garner
 99.98,29323,Nimble Venturer,25,150006.0,4,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
@@ -49,4 +45,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.32,25503,Magical Stone,199,426.32,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
 53.22,29058,20 Crafting EXP Card,800,1710.26,5,5,PublicWin,All Cheap
 51.19,27033,Radar Lv!,400,819.59,3,9,BossLiam,OMG
-51.12,26589,Potion of Bull,1200,2455.18,10,6,Cheap,asdasd
+51.11,26589,Potion of Bull,1200,2454.44,10,6,Cheap,asdasd

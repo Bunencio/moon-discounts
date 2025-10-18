@@ -1,5 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-10-18,25525,,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS,7,285276.18,285269.18,15,4279037.73,100.0,8
+2025-10-18,25525,,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS,7,290559.0,290552.0,15,4358280.0,100.0,7
 2025-10-18,22012,Demonic Gem of Wind,Happyman,QUITTING CRUS SALE,14,949753.0,949739.0,1,949739.0,100.0,4
 2025-10-18,28136,Crown of Decendant,Happyman,QUITTING CRUS SALE,5,570002.0,569997.0,1,569997.0,100.0,4
 2025-10-18,28136,Crown of Decendant,jajaaaaja,sell,5,570002.0,569997.0,1,569997.0,100.0,4
@@ -8,7 +8,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,25452,Rock Gem Fragment,monchito1,bowepelu,2,40590.53,40588.53,12,487062.35,100.0,7
 2025-10-18,29324,Soulbinding Necklace,Conchito,neck / pet 22,6,400002.0,399996.0,1,399996.0,100.0,3
 2025-10-18,29312,Ring of Might,Happyman,QUITTING CRUS SALE,4,325000.75,324996.75,1,324996.75,100.0,3
-2025-10-18,25525,,Jikoy,Kugmo!!!!!!,4,285276.18,285272.18,1,285272.18,100.0,8
 2025-10-18,25451,Jade Gem Fragment,monchito1,bowepelu,1,24167.42,24166.42,9,217497.75,100.0,3
 2025-10-18,29314,Ring of Angelic,MrFarm,cheapest stall in town//check IT,4,188002.8,187998.8,1,187998.8,100.0,4
 2025-10-18,29314,Ring of Angelic,MrFarm,cheapest stall in town//check IT,4,188002.8,187998.8,1,187998.8,100.0,4
@@ -18,9 +17,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,29314,Ring of Angelic,BV10,q,5,188002.8,187997.8,1,187997.8,100.0,4
 2025-10-18,27020,Gold Pirate Scroll,Leviac,buy pls,1,23704.62,23703.62,3,71110.88,100.0,6
 2025-10-18,25452,Rock Gem Fragment,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM,2,40590.53,40588.53,1,40588.53,100.0,7
-2025-10-18,28466,Ice Sealed Judgment of Enigma,Jikoy,Kugmo!!!!!!,1,23999.8,23998.8,1,23998.8,100.0,3
-2025-10-18,28434,Fire Sealed Robe of the Arcane,Jikoy,Kugmo!!!!!!,1,22333.67,22332.67,1,22332.67,100.0,3
-2025-10-18,25525,,Xiomarvic,fREEE hELP ME,45,285276.18,285231.18,2,570462.36,99.98,8
+2025-10-18,25525,,Xiomarvic,fREEE hELP ME,45,290559.0,290514.0,2,581028.0,99.98,7
 2025-10-18,27020,Gold Pirate Scroll,SuperBuffer,garner,4,23704.62,23700.62,13,308108.12,99.98,6
 2025-10-18,30157,Iron Bar,DemiMerchant,99c Item Mall/ Pet/Gems 99c,10,43604.9,43594.9,5,217974.5,99.98,3
 2025-10-18,25452,Rock Gem Fragment,SuperBuffer,garner,10,40590.53,40580.53,5,202902.65,99.98,7
@@ -62,8 +59,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,30102,1000 Reputation Scroll,Ivynor,All cheap,5999,7750.49,1751.49,44,77065.7,22.6,6
 2025-10-18,30102,1000 Reputation Scroll,iinerti,Jackpot/GPS/PPS/Ref/Repu1k/PB/FB,6000,7750.49,1750.49,46,80522.69,22.59,6
 2025-10-18,30102,1000 Reputation Scroll,MatsBk,S>IMPS/GPS/PPS/BLUEPRINTS,6000,7750.49,1750.49,29,50764.3,22.59,6
-2025-10-18,26589,Potion of Bull,STAII,CHEAP,1990,2455.18,465.18,115,53495.98,18.95,10
 2025-10-18,25496,Cyan Colorant.,hahahehehoho,All colorants,4000,4933.33,933.33,62,57866.67,18.92,3
+2025-10-18,26589,Potion of Bull,STAII,CHEAP,1990,2454.44,464.44,115,53410.65,18.92,10
 2025-10-18,26344,Novice Weightless Potion,STAII,CHEAP,2990,3657.81,667.81,76,50753.47,18.26,5
 2025-10-18,28491,Ice Sealed Greaves of Enigma,lamamandoski,super cheap,99000,119806.0,20806.0,1,20806.0,17.37,4
 2025-10-18,30102,1000 Reputation Scroll,sstido,buy here title contrac,6500,7750.49,1250.49,30,37514.8,16.13,6
