@@ -15,7 +15,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,2,48634.27,8,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25452,Rock Gem Fragment,2,48634.27,8,12,monchito1,bowepelu
 100.0,25525,,7,271180.92,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
-100.0,27020,Gold Pirate Scroll,1,23652.92,7,1,LuBu+,Gnight
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,15,520005.8,4,1,BBVA,1231
 100.0,28429,Dance of Evanescence,7,520005.8,4,1,jajaaaaja,sell
@@ -27,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,232502.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29324,Soulbinding Necklace,6,400002.0,3,1,Conchito,neck / pet 22
 99.99,25525,,40,271180.92,7,1,xJavux,cheap
-99.99,27020,Gold Pirate Scroll,3,23652.92,7,16,xJavux,cheap
+99.99,27020,Gold Pirate Scroll,3,23982.92,7,16,xJavux,cheap
 99.98,25060,Cocobolo Log,3,15894.16,4,79,reserv,COCOBOLO LOGS
 99.98,25060,Cocobolo Log,3,15894.16,4,11,reserv,COCOBOLO LOGS
 99.98,25452,Rock Gem Fragment,10,48634.27,8,1,Goliat,Fragment Store
