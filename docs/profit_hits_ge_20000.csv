@@ -1,7 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-10-18,22011,Gemof Sout,jejejeje,Magic gems,15,666324.0,666309.0,15,9994635.0,100.0,8
 2025-10-18,22010,Gem of Rage,Happyman,QUITTING CRUS SALE,21,760014.0,759993.0,8,6079944.0,100.0,5
-2025-10-18,25525,,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS,7,282247.69,282240.69,15,4233610.41,100.0,6
+2025-10-18,25525,,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS,7,234709.91,234702.91,15,3520543.68,100.0,5
 2025-10-18,22010,Gem of Rage,Sysh,SELL SOME GEMS,23,760014.0,759991.0,4,3039964.0,100.0,5
 2025-10-18,22011,Gemof Sout,Deathless,garner,14,666324.0,666310.0,3,1998930.0,100.0,8
 2025-10-18,22010,Gem of Rage,ShowerBro,afk,23,760014.0,759991.0,1,759991.0,100.0,5
@@ -18,8 +18,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,29314,Ring of Angelic,Systembuff,xx,5,235002.25,234997.25,1,234997.25,100.0,4
 2025-10-18,27020,Gold Pirate Scroll,xJavux,cheap,3,20740.47,20737.47,16,331799.49,99.99,6
 2025-10-18,25452,Rock Gem Fragment,monchito1,bowepelu,2,27224.22,27222.22,12,326666.67,99.99,5
-2025-10-18,25525,,xJavux,cheap,40,282247.69,282207.69,1,282207.69,99.99,6
 2025-10-18,25452,Rock Gem Fragment,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL,2,27224.22,27222.22,1,27222.22,99.99,5
+2025-10-18,25525,,xJavux,cheap,40,234709.91,234669.91,1,234669.91,99.98,5
 2025-10-18,30157,Iron Bar,DemiMerchant,99c Item Mall/ Pet/Gems 99c,10,42804.9,42794.9,5,213974.5,99.98,3
 2025-10-18,25060,Cocobolo Log,reserv,COCOBOLO LOGS,3,11075.99,11072.99,79,874766.35,99.97,3
 2025-10-18,25060,Cocobolo Log,ebashuloxov,cocobolo,3,11075.99,11072.99,40,442919.67,99.97,3
@@ -39,7 +39,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,2301,,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,11111,32802.92,21691.92,1,21691.92,66.13,6
 2025-10-18,2301,,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,11111,32802.92,21691.92,1,21691.92,66.13,6
 2025-10-18,2301,,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,11111,32802.92,21691.92,1,21691.92,66.13,6
-2025-10-18,25503,Magical Stone,OdeteRoitman,fairy dust  /   pps   /   legend,150,425.84,275.84,99,27308.61,64.78,5
+2025-10-18,25503,Magical Stone,XthedreamkillerX,mgs,150,397.04,247.04,99,24456.76,62.22,5
+2025-10-18,25503,Magical Stone,OdeteRoitman,fairy dust  /   pps   /   legend,150,397.04,247.04,99,24456.76,62.22,5
 2025-10-18,28403,Blade of Incantation,sstido,buy here title contrac,120000,293571.43,173571.43,1,173571.43,59.12,6
 2025-10-18,28403,Blade of Incantation,sstido,buy here title contrac,120000,293571.43,173571.43,1,173571.43,59.12,6
 2025-10-18,22001,Furious Gem,cheapcheapcheap,cheap,999,2320.7,1321.7,23,30399.12,56.95,12
