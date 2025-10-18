@@ -21,7 +21,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 99.99,22016,Demonic Gem of Sout,17,327791.0,3,7,jejejeje,Magic gems
-99.99,25451,Jade Gem Fragment,7,62941.71,10,2,Goliat,Fragment Store
+99.99,25451,Jade Gem Fragment,7,63333.76,10,2,Goliat,Fragment Store
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7000.2,5,1,Jikoy,Kugmo!!!!!!
 99.99,29310,Ring of Hawk,45,316681.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.99,29310,Ring of Hawk,45,316681.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
@@ -61,9 +61,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.09,25501,Brown Colorant,1000,2330.36,3,2,pisslow,Frozen ElixirS>
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
 56.37,25503,Magical Stone,199,456.06,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
-54.93,28403,Blade of Incantation,120000,266250.0,5,1,sstido,buy here title contrac
-54.93,28403,Blade of Incantation,120000,266250.0,5,1,sstido,buy here title contrac
 54.09,28442,Fire Sealed Coat of Evanescence,14500,31583.17,5,1,bowstalls,All Fire Sealed lv50 items
+54.02,28403,Blade of Incantation,120000,261000.0,6,1,sstido,buy here title contrac
+54.02,28403,Blade of Incantation,120000,261000.0,6,1,sstido,buy here title contrac
 52.9,22001,Furious Gem,1000,2122.99,11,10,011,cleaning
 52.51,28442,Fire Sealed Coat of Evanescence,15000,31583.17,5,1,Nixm,Cheap Lv50 Items all classes
 50.96,26589,Potion of Bull,1200,2447.1,13,6,Cheap,asdasd
