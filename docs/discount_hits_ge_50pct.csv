@@ -1,9 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22011,Gemof Sout,15,721934.0,6,15,jejejeje,Magic gems
-100.0,22011,Gemof Sout,14,721934.0,6,3,Deathless,garner
-100.0,22011,Gemof Sout,15,721934.0,6,1,Goon,yes
-100.0,22011,Gemof Sout,13,721934.0,6,1,MrFarm,cheapest stall in town//check IT
-100.0,22011,Gemof Sout,15,721934.0,6,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,22012,Demonic Gem of Wind,12,819804.8,5,1,Sysh,SELL SOME GEMS
 100.0,22012,Demonic Gem of Wind,14,819804.8,5,1,Happyman,QUPTTING CRUS SALE - UPDATED
 100.0,22024,Purple Jade,8,760000.8,3,1,Systembuff,++
@@ -16,9 +11,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,27020,Gold Pirate Scroll,1,24508.02,6,3,Leviac,buy pls
 100.0,28136,Crown of Decendant,5,580002.0,3,1,Happyman,QUPTTING CRUS SALE - UPDATED
 100.0,28136,Crown of Decendant,5,580002.0,3,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,15,486005.8,4,1,BBVA,1231
-100.0,28429,Dance of Evanescence,7,486005.8,4,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,486005.8,4,1,jajaaaaja,sell
 100.0,28434,Fire Sealed Robe of the Arcane,1,21667.0,3,1,Jikoy,Kugmo!!!!!!
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
@@ -39,7 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25452,Rock Gem Fragment,10,41335.79,12,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
 99.98,25525,,45,290730.73,8,2,Xiomarvic,fREEE hELP ME
 99.98,27020,Gold Pirate Scroll,4,24508.02,6,13,SuperBuffer,garner
-99.98,29323,Nimble Venturer,25,147505.5,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
+99.98,29323,Nimble Venturer,25,130007.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.96,25426,Universe Purse Fragment.,34,88008.6,4,2,Xiomarvic,fREEE hELP ME
 99.88,26326,Elven Royal Signet,1,865.55,12,199,Dad,ez
