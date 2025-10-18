@@ -37,6 +37,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,22006,Spirit Gem,DemiMerchant,99c Item Mall/ Pet/Gems 99c,1,5924.75,5923.75,16,94779.93,99.98,5
 2025-10-18,25452,Rock Gem Fragment,xxD,ROCK FRAGMENT / UG COLO / SHINER,10,41335.79,41325.79,2,82651.57,99.98,12
 2025-10-18,25452,Rock Gem Fragment,Goliat,Fragment Store,10,41335.79,41325.79,1,41325.79,99.98,12
+2025-10-18,28491,Ice Sealed Greaves of Enigma,PALA02,garner,30,90010.0,89980.0,1,89980.0,99.97,3
 2025-10-18,25426,Universe Purse Fragment.,Xiomarvic,fREEE hELP ME,34,88008.6,87974.6,2,175949.2,99.96,4
 2025-10-18,26326,Elven Royal Signet,Dad,ez,1,865.55,864.55,199,172045.95,99.88,12
 2025-10-18,26326,Elven Royal Signet,Dad,ez,1,865.55,864.55,197,170316.85,99.88,12
@@ -48,8 +49,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,22004,Shining Gem,hunterx,ug strike/signet/repu/bp /xp/etc,999,2884.73,1885.73,37,69772.05,65.37,6
 2025-10-18,22004,Shining Gem,011,cleaning,1000,2884.73,1884.73,18,33925.16,65.33,6
 2025-10-18,28326,Divine Grace Cap,ZafirRose,cheap,40000,93749.75,53749.75,1,53749.75,57.33,4
-2025-10-18,28403,Blade of Incantation,sstido,buy here title contrac,120000,238333.33,118333.33,1,118333.33,49.65,4
-2025-10-18,28403,Blade of Incantation,sstido,buy here title contrac,120000,238333.33,118333.33,1,118333.33,49.65,4
+2025-10-18,28403,Blade of Incantation,sstido,buy here title contrac,120000,266250.0,146250.0,1,146250.0,54.93,5
+2025-10-18,28403,Blade of Incantation,sstido,buy here title contrac,120000,266250.0,146250.0,1,146250.0,54.93,5
 2025-10-18,26568,Skating Potion,Gryffindor,cheap,30000,59332.53,29332.53,1,29332.53,49.44,6
 2025-10-18,29002,Green Statue,ghost26,jackpot coin,850,1352.69,502.69,60,30161.54,37.16,4
 2025-10-18,25420,Sunlight Heart,Yennefer,PURSE MOON SUN CLOUD ROCK FRAG,18000,27571.43,9571.43,7,67000.0,34.72,4
@@ -95,8 +96,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,26588,Potion of Eagle,GeorgeFloyd,yes,2500,2785.58,285.58,200,57116.02,10.25,8
 2025-10-18,25420,Sunlight Heart,purplered,Sunlight hearts,25000,27571.43,2571.43,20,51428.57,9.33,4
 2025-10-18,25031,Refining Gem,TJhonsonRock,Cheap Stuff !,6499,7159.49,660.49,36,23777.67,9.23,10
-2025-10-18,30139,100x Crystal,MatsBk,S>Imps/GPS/PPS/BLUEPRINTS,100000,109999.25,9999.25,10,99992.53,9.09,5
-2025-10-18,30140,10x Crystal,Bathroom,S>10x Crystal ss ami sage spr,9999,10979.67,980.67,65,63743.44,8.93,4
+2025-10-18,30139,100x Crystal,MatsBk,S>Imps/GPS/PPS/BLUEPRINTS,100000,110071.22,10071.22,8,80569.78,9.15,5
+2025-10-18,30140,10x Crystal,Bathroom,S>10x Crystal ss ami sage spr,9999,10979.52,980.52,65,63734.04,8.93,4
 2025-10-18,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2840,3114.94,274.94,99,27219.13,8.83,4
 2025-10-18,25508,Demonic Gem Fragment,ESNAIDER,SELL IMPS/GPS/REF/JACKPOT/PPS,120000,130000.0,10000.0,3,30000.0,7.69,3
 2025-10-18,25417,Moonlight Heart,GeorgeFloyd,yes,100000,108000.0,8000.0,5,40000.0,7.41,3
