@@ -5,10 +5,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,24167.42,3,9,monchito1,bowepelu
 100.0,25452,Rock Gem Fragment,2,40590.53,7,12,monchito1,bowepelu
 100.0,25452,Rock Gem Fragment,2,40590.53,7,1,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
-100.0,25525,,7,290559.0,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
+100.0,25525,,7,288494.08,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,27020,Gold Pirate Scroll,1,23704.62,6,3,Leviac,buy pls
 100.0,28136,Crown of Decendant,5,570002.0,4,1,Happyman,QUITTING CRUS SALE
 100.0,28136,Crown of Decendant,5,570002.0,4,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,15,520005.8,4,1,BBVA,1231
+100.0,28429,Dance of Evanescence,7,520005.8,4,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,7,520005.8,4,1,jajaaaaja,sell
 100.0,29312,Ring of Might,4,325000.75,3,1,Happyman,QUITTING CRUS SALE
 100.0,29314,Ring of Angelic,5,188002.8,4,1,Systembuff,++
 100.0,29314,Ring of Angelic,5,188002.8,4,1,Systembuff,++
@@ -19,29 +22,27 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29324,Soulbinding Necklace,6,400002.0,3,1,Conchito,neck / pet 22
 99.98,25452,Rock Gem Fragment,10,40590.53,7,1,Goliat,Fragment Store
 99.98,25452,Rock Gem Fragment,10,40590.53,7,5,SuperBuffer,garner
-99.98,25525,,45,290559.0,7,2,Xiomarvic,fREEE hELP ME
+99.98,25525,,45,288494.08,7,2,Xiomarvic,fREEE hELP ME
 99.98,27020,Gold Pirate Scroll,4,23704.62,6,13,SuperBuffer,garner
-99.98,29323,Nimble Venturer,25,150006.0,4,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
+99.98,29323,Nimble Venturer,25,133341.33,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25426,Universe Purse Fragment.,34,106371.45,5,2,Xiomarvic,fREEE hELP ME
 99.97,28491,Ice Sealed Greaves of Enigma,30,119806.0,4,1,PALA02,garner
-99.88,26326,Elven Royal Signet,1,864.59,10,199,Dad,ez
-99.88,26326,Elven Royal Signet,1,864.59,10,197,Dad,ez
-79.31,2301,,15000,72500.0,5,1,ZafirRose,all here
+99.88,26326,Elven Royal Signet,1,867.7,10,199,Dad,ez
+99.88,26326,Elven Royal Signet,1,867.7,10,197,Dad,ez
 77.38,25440,Evanescence Stone,200,884.13,6,1,BL4CKM4RK3T,cheap stuff
 69.54,22004,Shining Gem,1000,3283.43,5,18,011,cleaning
 68.42,28446,Fire Sealed Bow of Evanescence,15000,47499.5,4,1,Nixm,Cheap Lv50 Items all classes
 64.81,25503,Magical Stone,150,426.32,5,99,OdeteRoitman,fairy dust    /   pbs
 62.17,29056,20 Cooking EXP Card,800,2115.0,3,6,PublicWin,All Cheap
-62.16,28326,Divine Grace Cap,35000,92499.75,4,1,ZafirRose,all here
 60.92,25258,Spirit Feather,99,253.35,7,3,DiscipleTwo,IMPS|KAL|PURPLE JADE|LEGEND BP
 60.0,28442,Fire Sealed Coat of Evanescence,15000,37499.83,4,1,Nixm,Cheap Lv50 Items all classes
 59.46,25496,Cyan Colorant.,2000,4933.33,3,1,cheapstuffsell,cheap
+58.87,28403,Blade of Incantation,120000,291776.67,8,1,sstido,buy here title contrac
+58.87,28403,Blade of Incantation,120000,291776.67,8,1,sstido,buy here title contrac
 58.39,25143,Delicious Worm,30,72.1,3,99,cheapcheapcheap,cheap
 57.03,22001,Furious Gem,999,2324.63,10,23,cheapcheapcheap,cheap
 56.98,22001,Furious Gem,1000,2324.63,10,10,011,cleaning
-53.87,28403,Blade of Incantation,120000,260123.75,7,1,sstido,buy here title contrac
-53.87,28403,Blade of Incantation,120000,260123.75,7,1,sstido,buy here title contrac
 53.32,25503,Magical Stone,199,426.32,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
 53.22,29058,20 Crafting EXP Card,800,1710.26,5,5,PublicWin,All Cheap
 51.19,27033,Radar Lv!,400,819.59,3,9,BossLiam,OMG
