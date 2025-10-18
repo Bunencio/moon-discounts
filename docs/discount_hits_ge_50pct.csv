@@ -3,10 +3,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,23,690923.68,6,4,Sysh,SELL SOME GEMS
 100.0,22010,Gem of Rage,23,690923.68,6,1,ShowerBro,afk
 100.0,22010,Gem of Rage,21,690923.68,6,9,Happyman,QUITTING CRUS SALE
-100.0,22011,Gemof Sout,15,705348.39,8,15,jejejeje,Magic gems
-100.0,22011,Gemof Sout,14,705348.39,8,3,Deathless,garner
-100.0,22011,Gemof Sout,20,705348.39,8,1,monchito1,bowepelu
-100.0,22011,Gemof Sout,13,705348.39,8,1,MrFarm,cheapest stall in town//check IT
 100.0,22012,Demonic Gem of Wind,15,519808.6,4,2,Jew,gems
 100.0,22012,Demonic Gem of Wind,14,519808.6,4,1,Happyman,QUITTING CRUS SALE
 100.0,22029,Fire Rock,7,545454.55,3,1,Sysh,SELL SOME GEMS
@@ -14,7 +10,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,24167.42,3,9,monchito1,bowepelu
 100.0,25452,Rock Gem Fragment,2,48634.27,8,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25452,Rock Gem Fragment,2,48634.27,8,12,monchito1,bowepelu
-100.0,25525,,7,252959.68,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
+100.0,25525,,7,275581.27,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
+100.0,27020,Gold Pirate Scroll,1,23652.92,7,1,LuBu+,Gnight
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
 100.0,29312,Ring of Might,4,325000.75,3,1,Happyman,QUITTING CRUS SALE
 100.0,29314,Ring of Angelic,5,232502.25,4,1,Systembuff,++
@@ -22,17 +19,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,232502.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,232502.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29324,Soulbinding Necklace,6,400002.0,3,1,Conchito,neck / pet 22
-99.99,27020,Gold Pirate Scroll,3,23921.66,5,16,xJavux,cheap
+99.99,25525,,40,275581.27,7,1,xJavux,cheap
+99.99,27020,Gold Pirate Scroll,3,23652.92,7,16,xJavux,cheap
 99.98,25060,Cocobolo Log,3,14509.67,3,79,reserv,COCOBOLO LOGS
 99.98,25060,Cocobolo Log,3,14509.67,3,11,reserv,COCOBOLO LOGS
 99.98,25452,Rock Gem Fragment,10,48634.27,8,1,Goliat,Fragment Store
-99.98,25525,,40,252959.68,7,1,xJavux,cheap
-99.98,25525,,45,252959.68,7,2,Xiomarvic,fREEE hELP ME
+99.98,25525,,45,275581.27,7,2,Xiomarvic,fREEE hELP ME
+99.98,29323,Nimble Venturer,25,136675.0,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,28491,Ice Sealed Greaves of Enigma,30,119757.5,4,1,PALA02,garner
 99.96,25426,Universe Purse Fragment.,34,85008.6,4,2,Xiomarvic,fREEE hELP ME
-99.88,26326,Elven Royal Signet,1,847.97,10,199,Dad,ez
-99.88,26326,Elven Royal Signet,1,847.97,10,197,Dad,ez
+99.88,26326,Elven Royal Signet,1,843.53,10,199,Dad,ez
+99.88,26326,Elven Royal Signet,1,843.53,10,197,Dad,ez
+80.95,28476,Ice Sealed Kris of the Sphinx,15000,78749.75,3,1,Winston,voy geras
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 77.38,25440,Evanescence Stone,200,884.13,6,1,BL4CKM4RK3T,cheap stuff
 71.75,29062,Field Brew,40,141.6,3,15,xLiliith,New materials for crafting!! BUY
@@ -44,11 +43,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.52,25496,Cyan Colorant.,2000,4941.18,4,1,cheapstuffsell,cheap
 59.43,25503,Magical Stone,199,490.45,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
 58.39,25143,Delicious Worm,30,72.1,3,99,cheapcheapcheap,cheap
-57.45,28432,Fire Sealed Staff of Mirage,5000,11749.75,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,HAIRSTYLE
 56.97,22001,Furious Gem,999,2321.8,11,23,cheapcheapcheap,cheap
 56.93,22001,Furious Gem,1000,2321.8,11,10,011,cleaning
+56.14,28432,Fire Sealed Staff of Mirage,5000,11399.8,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 53.61,28442,Fire Sealed Coat of Evanescence,15000,32333.0,5,1,Nixm,Cheap Lv50 Items all classes
+52.94,28326,Divine Grace Cap,40000,84999.75,4,1,ZafirRose,cheap
 51.35,28403,Blade of Incantation,120000,246666.67,5,1,sstido,buy here title contrac
 51.35,28403,Blade of Incantation,120000,246666.67,5,1,sstido,buy here title contrac
 51.1,28440,Fire Sealed Roar of Evanescence,13000,26583.0,4,1,bowstalls,all Fire sealed  items
