@@ -8,27 +8,27 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,20,666324.0,8,1,monchito1,bowepelu
 100.0,22011,Gemof Sout,13,666324.0,8,1,MrFarm,cheapest stall in town//check IT
 100.0,22029,Fire Rock,7,545454.55,3,1,Sysh,SELL SOME GEMS
-100.0,25451,Jade Gem Fragment,1,24167.42,3,9,monchito1,bowepelu
+100.0,25426,Universe Purse Fragment.,4,111252.25,3,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
+100.0,25451,Jade Gem Fragment,1,36733.93,4,9,monchito1,bowepelu
 100.0,25525,,7,282247.69,6,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,650003.5,3,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,650003.5,3,1,jajaaaaja,sell
-100.0,29312,Ring of Might,4,383333.5,3,1,Happyman,QUITTING CRUS SALE
+100.0,29312,Ring of Might,4,380000.2,3,1,Happyman,QUITTING CRUS SALE
 100.0,29314,Ring of Angelic,5,235002.25,4,1,Systembuff,xx
 100.0,29314,Ring of Angelic,5,235002.25,4,1,Systembuff,xx
 100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29324,Soulbinding Necklace,6,400002.0,3,1,Conchito,neck / pet 22
-99.99,25452,Rock Gem Fragment,2,26001.65,5,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
-99.99,25452,Rock Gem Fragment,2,26001.65,5,12,monchito1,bowepelu
+99.99,25452,Rock Gem Fragment,2,29049.19,5,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
+99.99,25452,Rock Gem Fragment,2,29049.19,5,12,monchito1,bowepelu
 99.99,25525,,40,282247.69,6,1,xJavux,cheap
 99.99,27020,Gold Pirate Scroll,3,24199.35,6,16,xJavux,cheap
 99.98,29323,Nimble Venturer,25,136675.0,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
+99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25060,Cocobolo Log,3,11075.99,3,40,ebashuloxov,cocobolo
 99.97,25060,Cocobolo Log,3,11075.99,3,79,reserv,COCOBOLO LOGS
 99.97,25060,Cocobolo Log,3,11075.99,3,11,reserv,COCOBOLO LOGS
+99.97,25452,Rock Gem Fragment,10,29049.19,5,1,Goliat,Fragment Store
 99.97,28470,Ice Sealed Rifle of Enigma,9,26669.0,3,1,stalling1,cheap cheap SS stuffs
-99.96,25452,Rock Gem Fragment,10,26001.65,5,1,Goliat,Fragment Store
 99.88,26326,Elven Royal Signet,1,866.19,10,199,Dad,ez
 99.88,26326,Elven Royal Signet,1,866.19,10,197,Dad,ez
 94.47,26564,Meditation Potion,40,723.37,3,28,BLaCKMooN,X_X
@@ -41,6 +41,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.93,2301,,17550,72925.0,5,1,BLaCKMooN,X_X
 71.75,29062,Field Brew,40,141.6,3,15,xLiliith,New materials for crafting!! BUY
 69.54,22004,Shining Gem,1000,3283.43,5,18,011,cleaning
+65.22,30118,Vial of Strength Reset,2000,5749.75,3,1,Yennefer,STRIKING ROCK CHEST MOON SUN CLO
+65.01,25503,Magical Stone,149,425.84,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration
+64.78,25503,Magical Stone,150,425.84,5,99,OdeteRoitman,fairy dust  /   pps   /   legend
 63.15,25501,Brown Colorant,1000,2713.64,3,1,cheapstuffsell,cheap
 61.19,25498,Black Colorant,2000,5153.85,3,1,cheapcheapcheap,cheap
 59.52,25496,Cyan Colorant.,2000,4941.18,4,1,cheapstuffsell,cheap
