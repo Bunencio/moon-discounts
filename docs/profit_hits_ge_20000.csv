@@ -43,12 +43,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,25503,Magical Stone,Cush,Radiant staff|+6 con boot|magic,250,490.45,240.45,99,23804.54,49.03,5
 2025-10-18,25503,Magical Stone,Cush,Radiant staff|+6 con boot|magic,250,490.45,240.45,99,23804.54,49.03,5
 2025-10-18,28454,Ice Sealed Blade of Enigma,lamamandoski,super cheap,220000,430000.0,210000.0,1,210000.0,48.84,4
-2025-10-18,28491,Ice Sealed Greaves of Enigma,lamamandoski,super cheap,99000,189750.0,90750.0,1,90750.0,47.83,4
 2025-10-18,26568,Skating Potion,MiLD,rrr,35000,61550.83,26550.83,2,53101.66,43.14,5
 2025-10-18,25056,Willow Wood Log,satzstall2,GUARD BREW AND MATERIALS,330,562.45,232.45,99,23012.58,41.33,6
 2025-10-18,25056,Willow Wood Log,BestSeller,ALL KINDS OF WOODS/LOG FOR SALE!,335,562.45,227.45,99,22517.58,40.44,6
 2025-10-18,25056,Willow Wood Log,YatoroGod,Willow/Red Ore/Coal For SALE!,335,562.45,227.45,99,22517.58,40.44,6
-2025-10-18,28491,Ice Sealed Greaves of Enigma,XiXi0n,cruss/app/pet2ndGen/jade,120000,189750.0,69750.0,1,69750.0,36.76,4
+2025-10-18,28491,Ice Sealed Greaves of Enigma,lamamandoski,super cheap,99000,157250.0,58250.0,1,58250.0,37.04,4
 2025-10-18,28036,Emerald Shield,zWhiteBeard,Equips,50000,78333.33,28333.33,1,28333.33,36.17,3
 2025-10-18,26588,Potion of Eagle,BuySome,FvCk Friends,1999,2979.9,980.9,33,32369.57,32.92,7
 2025-10-18,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,Cheap EXP,990,1458.78,468.78,99,46409.3,32.14,6
@@ -58,6 +57,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,560.27,160.27,195,31251.86,28.61,5
 2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,560.27,160.27,142,22757.76,28.61,5
 2025-10-18,2301,,Kasyadex,FAIRY DUST/EVA POWER/EVA ROCKS!!,60000,84000.0,24000.0,1,24000.0,28.57,4
+2025-10-18,28491,Ice Sealed Greaves of Enigma,XiXi0n,cruss/app/pet2ndGen/jade,120000,157250.0,37250.0,1,37250.0,23.69,4
 2025-10-18,30156,Jackpot Coin,MatsBk,S>IMPS/BLUEPRINTS,8900,11621.46,2721.46,40,108858.25,23.42,6
 2025-10-18,30102,1000 Reputation Scroll,sellerforfree,cheap,5999,7768.52,1769.52,70,123866.17,22.78,8
 2025-10-18,30102,1000 Reputation Scroll,Despair,STR> REPUU,5999,7768.52,1769.52,50,88475.84,22.78,8
@@ -79,15 +79,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,30102,1000 Reputation Scroll,Saller,ty,7000,7768.52,768.52,99,76083.16,9.89,8
 2025-10-18,27025,Radiation Lv1,Kalista,radiation detector flash bomb,2199,2423.32,224.32,91,20413.29,9.26,4
 2025-10-18,28136,Crown of Decendant,Skip,wew,650000,712501.25,62501.25,1,62501.25,8.77,4
-2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,12021.06,1022.06,25,25551.38,8.5,3
-2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,12021.06,1022.06,24,24529.33,8.5,3
-2025-10-18,25534,,freeee,cheap,3999,4336.47,337.47,89,30034.91,7.78,9
-2025-10-18,25534,,*DEATH*~#14,fragmento4k,4000,4336.47,336.47,71,23889.44,7.76,9
+2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,12038.75,1039.75,24,24954.08,8.64,3
+2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,12038.75,1039.75,21,21834.82,8.64,3
+2025-10-18,25534,,freeee,cheap,3999,4357.24,358.24,89,31883.43,8.22,9
+2025-10-18,25534,,*DEATH*~#14,fragmento4k,4000,4357.24,357.24,71,25364.09,8.2,9
 2025-10-18,26377,Pharaoh's Lantern,dwtix,PharaLantern/ElvenBunnyPot,8500,9190.85,690.85,87,60104.24,7.52,4
 2025-10-18,28454,Ice Sealed Blade of Enigma,OsToWBaby,ALL ITEMS 40-60,400000,430000.0,30000.0,1,30000.0,6.98,4
 2025-10-18,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7158.72,492.72,61,30056.04,6.88,9
 2025-10-18,27017,Sorcerer's Wine,GordanRamsay,Cheapest Warlord Aegis Sorc Iron,12000,12793.05,793.05,89,70581.1,6.2,6
-2025-10-18,27019,Purple Pirate Scroll,MatsBk,S>IMPS/BLUEPRINTS,4100,4368.32,268.32,83,22270.51,6.14,9
 2025-10-18,26576,Iron Brew,Cincar,Cincar Pots,7499,7979.61,480.61,185,88913.75,6.02,4
 2025-10-18,26504,Blessed Berry,Tanjer0,*Cheapest CB | Weightless here,9799,10381.39,582.39,46,26789.94,5.61,3
 2025-10-18,26504,Blessed Berry,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,9999,10381.39,382.39,99,37856.6,3.68,3
