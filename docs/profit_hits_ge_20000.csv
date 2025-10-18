@@ -13,6 +13,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,29314,Ring of Angelic,MrFarm,cheapest stall in town//check IT,4,97503.5,97499.5,1,97499.5,100.0,3
 2025-10-18,27020,Gold Pirate Scroll,Leviac,buy pls,1,24536.67,24535.67,3,73607.02,100.0,6
 2025-10-18,28466,Ice Sealed Judgment of Enigma,Jikoy,Kugmo!!!!!!,1,22999.8,22998.8,1,22998.8,100.0,4
+2025-10-18,28434,Fire Sealed Robe of the Arcane,Jikoy,Kugmo!!!!!!,1,22333.67,22332.67,1,22332.67,100.0,3
 2025-10-18,25452,Rock Gem Fragment,monchito1,bowepelu,2,30002.35,30000.35,12,360004.17,99.99,8
 2025-10-18,29314,Ring of Angelic,Systembuff,++,5,97503.5,97498.5,1,97498.5,99.99,3
 2025-10-18,29314,Ring of Angelic,Systembuff,++,5,97503.5,97498.5,1,97498.5,99.99,3
@@ -30,11 +31,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,25452,Rock Gem Fragment,xxD,ROCK FRAGMENT / UG COLO / SHINER,10,30002.35,29992.35,2,59984.7,99.97,8
 2025-10-18,25451,Jade Gem Fragment,Goliat,Fragment Store,7,24001.53,23994.53,2,47989.07,99.97,5
 2025-10-18,25452,Rock Gem Fragment,Goliat,Fragment Store,10,30002.35,29992.35,1,29992.35,99.97,8
-2025-10-18,26326,Elven Royal Signet,Dad,ez,1,863.24,862.24,199,171585.5,99.88,12
-2025-10-18,26326,Elven Royal Signet,Dad,ez,1,863.24,862.24,197,169861.02,99.88,12
+2025-10-18,26326,Elven Royal Signet,Dad,ez,1,865.06,864.06,199,171947.26,99.88,11
+2025-10-18,26326,Elven Royal Signet,Dad,ez,1,865.06,864.06,197,170219.15,99.88,11
 2025-10-18,28472,Ice Sealed Bow of Enigma,HitAndRun,Bow ICE|Bow APP|Gun|Green,80999,693666.33,612667.33,1,612667.33,88.32,3
-2025-10-18,22001,Furious Gem,hunterx,ug strike/signet/repu/bp /xp/etc,499,2119.7,1620.7,49,79414.06,76.46,11
-2025-10-18,2301,,ZafirRose,cheap,20000,82000.0,62000.0,1,62000.0,75.61,3
+2025-10-18,22001,Furious Gem,hunterx,ug strike/signet/repu/bp /xp/etc,499,2139.2,1640.2,49,80369.86,76.67,10
+2025-10-18,2301,,ZafirRose,cheap,20000,78333.33,58333.33,1,58333.33,74.47,4
 2025-10-18,25503,Magical Stone,OdeteRoitman,fairy dust    /   pbs,150,456.06,306.06,99,30299.68,67.11,5
 2025-10-18,22004,Shining Gem,hunterx,ug strike/signet/repu/bp /xp/etc,999,2884.73,1885.73,37,69772.05,65.37,6
 2025-10-18,22004,Shining Gem,011,cleaning,1000,2884.73,1884.73,18,33925.16,65.33,6
@@ -46,21 +47,20 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,28036,Emerald Shield,zWhiteBeard,Equips,50000,78333.33,28333.33,1,28333.33,36.17,3
 2025-10-18,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,cheap EXP,990,1530.55,540.55,98,52973.5,35.32,5
 2025-10-18,26568,Skating Potion,MiLD,rrr,40000,61378.45,21378.45,2,42756.9,34.83,5
-2025-10-18,30171,Ticket to Demonic World,MysticLeafStore,Cheapest DW Tickets,389,583.67,194.67,162,31537.23,33.35,5
-2025-10-18,30171,Ticket to Demonic World,dwtix,FB's/Lantern/ ElvenBunny pot,390,583.67,193.67,113,21885.19,33.18,5
+2025-10-18,30171,Ticket to Demonic World,dwtix,FB's/Lantern/ ElvenBunny pot,390,590.82,200.82,113,22692.68,33.99,5
+2025-10-18,22000,FieryGem,STAII,cheap,1990,2948.18,958.18,53,50783.55,32.5,9
+2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,590.82,190.82,195,37209.93,32.3,5
+2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,590.82,190.82,144,27478.1,32.3,5
 2025-10-18,25420,Sunlight Heart,Yennefer,STRIK PURSE MOON SUN CLOUD ROCK,19000,27771.43,8771.43,7,61400.0,31.58,4
-2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,583.67,183.67,195,35816.48,31.47,5
-2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,583.67,183.67,144,26449.09,31.47,5
-2025-10-18,22000,FieryGem,STAII,cheap,1990,2894.0,904.0,53,47911.82,31.24,9
 2025-10-18,26588,Potion of Eagle,BuySome,FvCk Friends,1999,2822.73,823.73,33,27183.01,29.18,7
 2025-10-18,26590,Potion of Soul,Yennefer,STRIK PURSE MOON SUN CLOUD ROCK,1900,2666.31,766.31,27,20690.28,28.74,7
-2025-10-18,30102,1000 Reputation Scroll,hunterx,ug strike/signet/repu/bp /xp/etc,5990,7684.11,1694.11,54,91482.03,22.05,8
-2025-10-18,30102,1000 Reputation Scroll,sellerforfree,cheap,5999,7684.11,1685.11,70,117957.81,21.93,8
-2025-10-18,30102,1000 Reputation Scroll,Despair,STR> REPUU,5999,7684.11,1685.11,50,84255.58,21.93,8
-2025-10-18,30102,1000 Reputation Scroll,Ivynor,All cheap,5999,7684.11,1685.11,44,74144.91,21.93,8
-2025-10-18,30102,1000 Reputation Scroll,iinerti,Jackpot/GPS/PPS/Ref/Repu1k/PB/FB,6000,7684.11,1684.11,46,77469.13,21.92,8
+2025-10-18,30102,1000 Reputation Scroll,hunterx,ug strike/signet/repu/bp /xp/etc,5990,7689.01,1699.01,54,91746.39,22.1,8
+2025-10-18,30102,1000 Reputation Scroll,sellerforfree,cheap,5999,7689.01,1690.01,70,118300.51,21.98,8
+2025-10-18,30102,1000 Reputation Scroll,Despair,STR> REPUU,5999,7689.01,1690.01,50,84500.36,21.98,8
+2025-10-18,30102,1000 Reputation Scroll,Ivynor,All cheap,5999,7689.01,1690.01,44,74360.32,21.98,8
+2025-10-18,30102,1000 Reputation Scroll,iinerti,Jackpot/GPS/PPS/Ref/Repu1k/PB/FB,6000,7689.01,1689.01,46,77694.33,21.97,8
 2025-10-18,29002,Green Statue,IronM4n,Pharaoh Lantern/Green Statue,1190,1503.54,313.54,74,23201.91,20.85,3
-2025-10-18,26589,Potion of Bull,STAII,cheap,1990,2442.17,452.17,115,51999.01,18.51,12
+2025-10-18,26589,Potion of Bull,STAII,cheap,1990,2446.4,456.4,115,52486.37,18.66,11
 2025-10-18,26344,Novice Weightless Potion,STAII,cheap,2990,3635.77,645.77,86,55536.13,17.76,5
 2025-10-18,26571,Warlord Potion,satzstall2,POTS AND MATERIALS,3400,4133.07,733.07,89,65243.52,17.74,7
 2025-10-18,28491,Ice Sealed Greaves of Enigma,lamamandoski,super cheap,99000,119806.0,20806.0,1,20806.0,17.37,4
@@ -70,12 +70,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,1999,2377.62,378.62,64,24231.57,15.92,3
 2025-10-18,25091,Heavy Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,2000,2377.62,377.62,99,37384.21,15.88,3
 2025-10-18,22006,Spirit Gem,STAII,cheap,4990,5924.1,934.1,52,48573.33,15.77,4
-2025-10-18,30102,1000 Reputation Scroll,sstido,buy here title contrac,6500,7684.11,1184.11,30,35523.35,15.41,8
+2025-10-18,30102,1000 Reputation Scroll,sstido,buy here title contrac,6500,7689.01,1189.01,30,35670.22,15.46,8
 2025-10-18,26571,Warlord Potion,DwShops,the finest cookings for DW,3499,4133.07,634.07,99,62773.25,15.34,7
 2025-10-18,26571,Warlord Potion,Mamii,BETTER THAN TOTEM HE SUCKS,3500,4133.07,633.07,118,74702.64,15.32,7
+2025-10-18,22000,FieryGem,BuySome,FvCk Friends,2500,2948.18,448.18,72,32268.98,15.2,9
 2025-10-18,25436,Chest of Demonic World II,sellerforfree,cheap,45000,52500.0,7500.0,3,22500.0,14.29,4
-2025-10-18,22000,FieryGem,BuySome,FvCk Friends,2500,2894.0,394.0,72,28367.76,13.61,9
-2025-10-18,27006,Bunny Potion,MiLD,rrr,1000,1146.61,146.61,184,26977.16,12.79,6
+2025-10-18,27006,Bunny Potion,MiLD,rrr,1000,1145.8,145.8,184,26827.47,12.72,5
 2025-10-18,25505,Standard Stone,VendedoraJequiti,stones / +,1997,2272.23,275.23,81,22293.76,12.11,4
 2025-10-18,25505,Standard Stone,TTKillGirlTT,STD Stone / Equip 50/APP hat,1999,2272.23,273.23,99,27049.93,12.02,4
 2025-10-18,27034,Grenade Lv2,F0X01,Iron Brew 7.9K/ Grenade Lv2 1.8K,1800,2041.28,241.28,94,22680.57,11.82,7
@@ -87,17 +87,17 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,25534,,*DEATH*~#14,fragmento4k,4000,4414.64,414.64,71,29439.69,9.39,9
 2025-10-18,25534,,*DEATH*~#14,fragmento4k,4000,4414.64,414.64,55,22805.39,9.39,9
 2025-10-18,30140,10x Crystal,Bathroom,S>10x Crystal ss ami sage spr,9999,10999.56,1000.56,57,57031.99,9.1,4
-2025-10-18,30139,100x Crystal,MushroomShop12,NEW PRICE-CAP 4spr +1/ Soul Gems,100000,109817.04,9817.04,8,78536.32,8.94,6
-2025-10-18,30102,1000 Reputation Scroll,Saller,ty,7000,7684.11,684.11,99,67727.05,8.9,8
-2025-10-18,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2840,3114.94,274.94,99,27219.13,8.83,4
+2025-10-18,30139,100x Crystal,MushroomShop12,NEW PRICE-CAP 4spr +1/ Soul Gems,100000,109939.75,9939.75,4,39759.01,9.04,6
+2025-10-18,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2840,3121.05,281.05,88,24732.44,9.0,4
+2025-10-18,30102,1000 Reputation Scroll,Saller,ty,7000,7689.01,689.01,99,68211.72,8.96,8
 2025-10-18,26504,Blessed Berry,Tanjer0,*Cheapest CB | Weightless here,9799,10641.46,842.46,50,42122.91,7.92,3
 2025-10-18,25508,Demonic Gem Fragment,ESNAIDER,SELL IMPS/GPS/REF/JACKPOT/PPS,120000,130000.0,10000.0,3,30000.0,7.69,3
-2025-10-18,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7180.82,514.82,42,21622.56,7.17,11
+2025-10-18,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7181.25,515.25,42,21640.3,7.17,10
 2025-10-18,28454,Ice Sealed Blade of Enigma,OsToWBaby,ALL ITEMS 40-60,400000,430000.0,30000.0,1,30000.0,6.98,4
 2025-10-18,22028,Water Rock,Rambo,SALE!,1400000,1500000.0,100000.0,1,100000.0,6.67,3
-2025-10-18,26346,Lantern,Honey,---------  Pet  Fruits  --------,3999,4284.72,285.72,162,46286.91,6.67,9
-2025-10-18,26346,Lantern,SeventhHeaven,Scrolls/Lantern/Coins etc,4000,4284.72,284.72,200,56944.33,6.65,9
-2025-10-18,26346,Lantern,dwtix,FB's/Lantern/ ElvenBunny pot,4000,4284.72,284.72,87,24770.78,6.65,9
+2025-10-18,26346,Lantern,Honey,---------  Pet  Fruits  --------,3999,4285.02,286.02,162,46336.01,6.67,8
+2025-10-18,26346,Lantern,SeventhHeaven,Scrolls/Lantern/Coins etc,4000,4285.02,285.02,200,57004.95,6.65,8
+2025-10-18,26346,Lantern,dwtix,FB's/Lantern/ ElvenBunny pot,4000,4285.02,285.02,87,24797.15,6.65,8
 2025-10-18,26567,Weightless Potion,Tanjer0,*Cheapest CB | Weightless here,8899,9486.66,587.66,43,25269.44,6.19,4
 2025-10-18,26504,Blessed Berry,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,9999,10641.46,642.46,104,66815.64,6.04,3
 2025-10-18,26567,Weightless Potion,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,8999,9486.66,487.66,78,38037.59,5.14,4
@@ -107,10 +107,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,26578,Aegis Brew,Puki,Aegis brew/wines cheap,59000,60949.58,1949.58,45,87731.09,3.2,4
 2025-10-18,26576,Iron Brew,Cincar,Cincar pots,7899,8109.34,210.34,200,42068.83,2.59,4
 2025-10-18,26576,Iron Brew,sds,Iron Brew Here!!,7900,8109.34,209.34,170,35588.51,2.58,4
-2025-10-18,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7180.82,181.82,200,36364.57,2.53,11
-2025-10-18,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7180.82,181.82,199,36182.74,2.53,11
-2025-10-18,25031,Refining Gem,ESNAIDER,SELL IMPS/GPS/REF/JACKPOT/PPS,6999,7180.82,181.82,191,34728.16,2.53,11
+2025-10-18,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7181.25,182.25,200,36449.04,2.54,10
+2025-10-18,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7181.25,182.25,199,36266.79,2.54,10
+2025-10-18,25031,Refining Gem,ESNAIDER,SELL IMPS/GPS/REF/JACKPOT/PPS,6999,7181.25,182.25,191,34808.83,2.54,10
 2025-10-18,26568,Skating Potion,Tralalera,GYOZA WORLD! COINS! CRYSTALS!,59999,61378.45,1379.45,22,30347.86,2.25,5
 2025-10-18,27017,Sorcerer's Wine,GordanRamsay,Cheap Warlord Aegis Sorc Irons,13400,13703.74,303.74,89,27033.24,2.22,6
 2025-10-18,27017,Sorcerer's Wine,TotemCookings,TOTEM COOKINGS RESTOCK SOON,13500,13703.74,203.74,178,36266.48,1.49,6
-2025-10-18,30139,100x Crystal,Muffins,CHEAP IMP!!!!!!!!,108999,109817.04,818.04,79,64625.17,0.74,6
+2025-10-18,30139,100x Crystal,Muffins,CHEAP IMP!!!!!!!!,108999,109939.75,940.75,79,74319.5,0.86,6
