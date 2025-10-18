@@ -17,6 +17,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,29324,Soulbinding Necklace,Conchito,neck / pet 22,6,400002.0,399996.0,1,399996.0,100.0,3
 2025-10-18,29312,Ring of Might,Happyman,QUITTING CRUS SALE,4,383333.5,383329.5,1,383329.5,100.0,3
 2025-10-18,25451,Jade Gem Fragment,monchito1,bowepelu,1,36733.93,36732.93,9,330596.4,100.0,4
+2025-10-18,29314,Ring of Angelic,MrFarm,cheapest stall in town//check IT,4,235002.25,234998.25,1,234998.25,100.0,4
+2025-10-18,29314,Ring of Angelic,MrFarm,cheapest stall in town//check IT,4,235002.25,234998.25,1,234998.25,100.0,4
+2025-10-18,29314,Ring of Angelic,Systembuff,xx,5,235002.25,234997.25,1,234997.25,100.0,4
+2025-10-18,29314,Ring of Angelic,Systembuff,xx,5,235002.25,234997.25,1,234997.25,100.0,4
 2025-10-18,25452,Rock Gem Fragment,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL,2,48001.06,47999.06,1,47999.06,100.0,6
 2025-10-18,27020,Gold Pirate Scroll,xJavux,cheap,3,24199.35,24196.35,16,387141.57,99.99,6
 2025-10-18,25525,,xJavux,cheap,40,282247.69,282207.69,1,282207.69,99.99,6
@@ -54,28 +58,29 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,570.08,170.08,195,33166.13,29.83,6
 2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,570.08,170.08,141,23981.66,29.83,6
 2025-10-18,28491,Ice Sealed Greaves of Enigma,XiXi0n,cruss/app/pet2ndGen/jade,120000,157250.0,37250.0,1,37250.0,23.69,4
-2025-10-18,30102,1000 Reputation Scroll,sellerforfree,cheap,5999,7765.81,1766.81,70,123676.68,22.75,9
-2025-10-18,30102,1000 Reputation Scroll,Despair,STR> REPUU,5999,7765.81,1766.81,50,88340.49,22.75,9
-2025-10-18,30102,1000 Reputation Scroll,Ivynor,All cheap,5999,7765.81,1766.81,44,77739.63,22.75,9
-2025-10-18,30102,1000 Reputation Scroll,iinerti,Jackpot/GPS/PPS/Ref/Repu1k/PB/FB,6000,7765.81,1765.81,40,70632.39,22.74,9
-2025-10-18,30102,1000 Reputation Scroll,MatsBk,S>IMPS/BLUEPRINTS,6000,7765.81,1765.81,29,51208.48,22.74,9
+2025-10-18,30102,1000 Reputation Scroll,sellerforfree,cheap,5999,7782.48,1783.48,70,124843.86,22.92,9
+2025-10-18,30102,1000 Reputation Scroll,Despair,STR> REPUU,5999,7782.48,1783.48,50,89174.18,22.92,9
+2025-10-18,30102,1000 Reputation Scroll,Ivynor,All cheap,5999,7782.48,1783.48,44,78473.28,22.92,9
+2025-10-18,30102,1000 Reputation Scroll,iinerti,Jackpot/GPS/PPS/Ref/Repu1k/PB/FB,6000,7782.48,1782.48,40,71299.35,22.9,9
+2025-10-18,30102,1000 Reputation Scroll,MatsBk,S>IMPS/BLUEPRINTS,6000,7782.48,1782.48,29,51692.03,22.9,9
 2025-10-18,25420,Sunlight Heart,Yennefer,STRIK ROCK JADE PURSE KAL SUN MO,18000,22931.03,4931.03,7,34517.24,21.5,3
 2025-10-18,26589,Potion of Bull,STAII,CHEAP,1990,2492.31,502.31,115,57765.4,20.15,8
 2025-10-18,26589,Potion of Bull,Vendedol,1000,2000,2492.31,492.31,43,21169.24,19.75,8
 2025-10-18,26589,Potion of Bull,cheapstuffguys,cheap,2000,2492.31,492.31,41,20184.62,19.75,8
 2025-10-18,25496,Cyan Colorant.,hahahehehoho,All colorants,4000,4941.18,941.18,62,58352.94,19.05,4
-2025-10-18,30102,1000 Reputation Scroll,sstido,buy here title contrac,6500,7765.81,1265.81,30,37974.29,16.3,9
+2025-10-18,30102,1000 Reputation Scroll,sstido,buy here title contrac,6500,7782.48,1282.48,30,38474.51,16.48,9
 2025-10-18,25091,Heavy Crystal,CrystalSeller,CRYSTAL   ORE FOR SALE!,1999,2377.62,378.62,64,24231.57,15.92,3
 2025-10-18,25091,Heavy Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,2000,2377.62,377.62,99,37384.21,15.88,3
 2025-10-18,22001,Furious Gem,STAII,CHEAP,1990,2321.8,331.8,68,22562.31,14.29,11
 2025-10-18,22000,FieryGem,BuySome,FvCk Friends,2500,2898.46,398.46,72,28688.77,13.75,10
 2025-10-18,25436,Chest of Demonic World II,sellerforfree,cheap,45000,51871.88,6871.88,3,20615.62,13.25,4
 2025-10-18,26344,Novice Weightless Potion,STAII,CHEAP,2990,3364.74,374.74,62,23233.81,11.14,6
-2025-10-18,30102,1000 Reputation Scroll,Saller,ty,7000,7765.81,765.81,99,75815.16,9.86,9
+2025-10-18,30102,1000 Reputation Scroll,Saller,ty,7000,7782.48,782.48,85,66511.11,10.05,9
 2025-10-18,28136,Crown of Decendant,Skip,wew,650000,712501.25,62501.25,1,62501.25,8.77,4
 2025-10-18,27025,Radiation Lv1,Kalista,radiation detector flash bomb,2199,2408.91,209.91,197,41352.45,8.71,4
 2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,12043.27,1044.27,24,25062.57,8.67,3
 2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,12043.27,1044.27,20,20885.48,8.67,3
+2025-10-18,25501,Brown Colorant,hahahehehoho,All colorants,2500,2713.64,213.64,99,21150.0,7.87,3
 2025-10-18,26377,Pharaoh's Lantern,dwtix,PharaLantern/ElvenBunnyPot,8500,9209.53,709.53,87,61729.4,7.7,4
 2025-10-18,25534,,freeee,cheap,3999,4327.33,328.33,89,29221.48,7.59,9
 2025-10-18,25534,,*DEATH*~#14,fragmento4k,4000,4327.33,327.33,67,21931.19,7.56,9
@@ -85,8 +90,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,26576,Iron Brew,Cincar,Cincar Pots,7499,7987.11,488.11,177,86396.26,6.11,4
 2025-10-18,26504,Blessed Berry,Tanjer0,*Cheapest CB | Weightless here,9799,10383.81,584.81,46,26901.27,5.63,3
 2025-10-18,26504,Blessed Berry,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,9999,10383.81,384.81,98,37711.39,3.71,3
+2025-10-18,26346,Lantern,SeventhHeaven,Scrolls/Lantern/Coins etc,4000,4136.22,136.22,200,27243.22,3.29,8
 2025-10-18,26585,Blessed Potion,Capo2,cheap,95000,97965.38,2965.38,22,65238.34,3.03,3
-2025-10-18,26346,Lantern,SeventhHeaven,Scrolls/Lantern/Coins etc,4000,4115.16,115.16,200,23031.01,2.8,8
 2025-10-18,26568,Skating Potion,Tralalera,GYOZA WORLD! COINS! CRYSTALS!,59999,61550.83,1551.83,22,34140.21,2.52,5
 2025-10-18,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,12500,12793.05,293.05,178,52162.21,2.29,6
 2025-10-18,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7158.88,159.88,200,31975.91,2.23,9
