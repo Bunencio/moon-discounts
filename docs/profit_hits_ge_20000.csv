@@ -1,7 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-10-18,25525,,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS,7,285276.18,285269.18,15,4279037.73,100.0,8
-2025-10-18,22014,Demonic Gem of Colossus,Sysh,SELL SOME GEMS,29,2208005.8,2207976.8,1,2207976.8,100.0,3
-2025-10-18,25431,Kal Runestone,zzzzz,garner,15,642863.14,642848.14,3,1928544.43,100.0,3
 2025-10-18,22012,Demonic Gem of Wind,Sysh,SELL SOME GEMS,12,819804.8,819792.8,1,819792.8,100.0,5
 2025-10-18,22012,Demonic Gem of Wind,Happyman,QUPTTING CRUS SALE - UPDATED,14,819804.8,819790.8,1,819790.8,100.0,5
 2025-10-18,22024,Purple Jade,Systembuff,++,8,760000.8,759992.8,1,759992.8,100.0,3
@@ -28,10 +26,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,22006,Spirit Gem,DemiMerchant,99c Item Mall/ Pet/Gems 99c,1,5924.1,5923.1,16,94769.64,99.98,4
 2025-10-18,25426,Universe Purse Fragment.,Xiomarvic,fREEE hELP ME,34,106371.45,106337.45,2,212674.91,99.97,5
 2025-10-18,25452,Rock Gem Fragment,SuperBuffer,garner,10,30002.35,29992.35,5,149961.74,99.97,8
+2025-10-18,28491,Ice Sealed Greaves of Enigma,PALA02,garner,30,119806.0,119776.0,1,119776.0,99.97,4
 2025-10-18,25452,Rock Gem Fragment,xxD,ROCK FRAGMENT / UG COLO / SHINER,10,30002.35,29992.35,2,59984.7,99.97,8
 2025-10-18,25451,Jade Gem Fragment,Goliat,Fragment Store,7,24001.53,23994.53,2,47989.07,99.97,5
 2025-10-18,25452,Rock Gem Fragment,Goliat,Fragment Store,10,30002.35,29992.35,1,29992.35,99.97,8
-2025-10-18,28491,Ice Sealed Greaves of Enigma,PALA02,garner,30,84757.5,84727.5,1,84727.5,99.96,3
 2025-10-18,26326,Elven Royal Signet,Dad,ez,1,863.24,862.24,199,171585.5,99.88,12
 2025-10-18,26326,Elven Royal Signet,Dad,ez,1,863.24,862.24,197,169861.02,99.88,12
 2025-10-18,28472,Ice Sealed Bow of Enigma,HitAndRun,Bow ICE|Bow APP|Gun|Green,80999,693666.33,612667.33,1,612667.33,88.32,3
@@ -46,7 +44,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,26568,Skating Potion,Gryffindor,cheap,30000,61378.45,31378.45,1,31378.45,51.12,5
 2025-10-18,28454,Ice Sealed Blade of Enigma,lamamandoski,super cheap,220000,430000.0,210000.0,1,210000.0,48.84,4
 2025-10-18,28036,Emerald Shield,zWhiteBeard,Equips,50000,78333.33,28333.33,1,28333.33,36.17,3
-2025-10-18,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,cheap EXP,990,1527.14,537.14,98,52639.46,35.17,5
+2025-10-18,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,cheap EXP,990,1530.55,540.55,98,52973.5,35.32,5
 2025-10-18,26568,Skating Potion,MiLD,rrr,40000,61378.45,21378.45,2,42756.9,34.83,5
 2025-10-18,30171,Ticket to Demonic World,MysticLeafStore,Cheapest DW Tickets,389,583.67,194.67,162,31537.23,33.35,5
 2025-10-18,30171,Ticket to Demonic World,dwtix,FB's/Lantern/ ElvenBunny pot,390,583.67,193.67,113,21885.19,33.18,5
@@ -54,8 +52,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,583.67,183.67,195,35816.48,31.47,5
 2025-10-18,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,583.67,183.67,144,26449.09,31.47,5
 2025-10-18,22000,FieryGem,STAII,cheap,1990,2894.0,904.0,53,47911.82,31.24,9
-2025-10-18,26590,Potion of Soul,Yennefer,STRIK PURSE MOON SUN CLOUD ROCK,1900,2655.15,755.15,27,20388.99,28.44,8
-2025-10-18,26588,Potion of Eagle,BuySome,FvCk Friends,1999,2787.33,788.33,33,26014.84,28.28,8
+2025-10-18,26588,Potion of Eagle,BuySome,FvCk Friends,1999,2822.73,823.73,33,27183.01,29.18,7
+2025-10-18,26590,Potion of Soul,Yennefer,STRIK PURSE MOON SUN CLOUD ROCK,1900,2666.31,766.31,27,20690.28,28.74,7
 2025-10-18,30102,1000 Reputation Scroll,hunterx,ug strike/signet/repu/bp /xp/etc,5990,7684.11,1694.11,54,91482.03,22.05,8
 2025-10-18,30102,1000 Reputation Scroll,sellerforfree,cheap,5999,7684.11,1685.11,70,117957.81,21.93,8
 2025-10-18,30102,1000 Reputation Scroll,Despair,STR> REPUU,5999,7684.11,1685.11,50,84255.58,21.93,8
@@ -65,7 +63,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,26589,Potion of Bull,STAII,cheap,1990,2442.17,452.17,115,51999.01,18.51,12
 2025-10-18,26344,Novice Weightless Potion,STAII,cheap,2990,3635.77,645.77,86,55536.13,17.76,5
 2025-10-18,26571,Warlord Potion,satzstall2,POTS AND MATERIALS,3400,4133.07,733.07,89,65243.52,17.74,7
-2025-10-18,25496,Cyan Colorant.,hahahehehoho,All colorants,4000,4817.65,817.65,62,50694.12,16.97,3
+2025-10-18,28491,Ice Sealed Greaves of Enigma,lamamandoski,super cheap,99000,119806.0,20806.0,1,20806.0,17.37,4
 2025-10-18,26571,Warlord Potion,TotemCookings,TOTEM COOKINGS RESTOCK SOON,3450,4133.07,683.07,164,112024.01,16.53,7
 2025-10-18,26571,Warlord Potion,TotemCookings,TOTEM COOKINGS RESTOCK SOON,3450,4133.07,683.07,114,77870.35,16.53,7
 2025-10-18,30156,Jackpot Coin,CHOLOVARATO,12312312312312312312312312312,8899,10614.5,1715.5,16,27447.95,16.16,12
@@ -81,11 +79,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,25505,Standard Stone,VendedoraJequiti,stones / +,1997,2272.23,275.23,81,22293.76,12.11,4
 2025-10-18,25505,Standard Stone,TTKillGirlTT,STD Stone / Equip 50/APP hat,1999,2272.23,273.23,99,27049.93,12.02,4
 2025-10-18,27034,Grenade Lv2,F0X01,Iron Brew 7.9K/ Grenade Lv2 1.8K,1800,2041.28,241.28,94,22680.57,11.82,7
+2025-10-18,26588,Potion of Eagle,GeorgeFloyd,yes,2500,2822.73,322.73,197,63577.31,11.43,7
 2025-10-18,26571,Warlord Potion,KFCC,KFC SHOP 24-7 OPEN ALL POTS,3699,4133.07,434.07,117,50786.57,10.5,7
 2025-10-18,26571,Warlord Potion,shooter,demonic inferno warlord fb bless,3700,4133.07,433.07,144,62362.55,10.48,7
-2025-10-18,26588,Potion of Eagle,GeorgeFloyd,yes,2500,2787.33,287.33,197,56603.73,10.31,8
 2025-10-18,25420,Sunlight Heart,purplered,Sunlight hearts,25000,27771.43,2771.43,20,55428.57,9.98,4
-2025-10-18,27019,Purple Pirate Scroll,ricechips,pps 4k ea,4000,4430.65,430.65,53,22824.68,9.72,11
 2025-10-18,25534,,freeee,cheap,3999,4414.64,415.64,93,38654.84,9.42,9
 2025-10-18,25534,,*DEATH*~#14,fragmento4k,4000,4414.64,414.64,71,29439.69,9.39,9
 2025-10-18,25534,,*DEATH*~#14,fragmento4k,4000,4414.64,414.64,55,22805.39,9.39,9
@@ -95,7 +92,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,2840,3114.94,274.94,99,27219.13,8.83,4
 2025-10-18,26504,Blessed Berry,Tanjer0,*Cheapest CB | Weightless here,9799,10641.46,842.46,50,42122.91,7.92,3
 2025-10-18,25508,Demonic Gem Fragment,ESNAIDER,SELL IMPS/GPS/REF/JACKPOT/PPS,120000,130000.0,10000.0,3,30000.0,7.69,3
-2025-10-18,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7178.34,512.34,42,21518.33,7.14,12
+2025-10-18,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7180.82,514.82,42,21622.56,7.17,11
 2025-10-18,28454,Ice Sealed Blade of Enigma,OsToWBaby,ALL ITEMS 40-60,400000,430000.0,30000.0,1,30000.0,6.98,4
 2025-10-18,22028,Water Rock,Rambo,SALE!,1400000,1500000.0,100000.0,1,100000.0,6.67,3
 2025-10-18,26346,Lantern,Honey,---------  Pet  Fruits  --------,3999,4284.72,285.72,162,46286.91,6.67,9
@@ -110,9 +107,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,26578,Aegis Brew,Puki,Aegis brew/wines cheap,59000,60949.58,1949.58,45,87731.09,3.2,4
 2025-10-18,26576,Iron Brew,Cincar,Cincar pots,7899,8109.34,210.34,200,42068.83,2.59,4
 2025-10-18,26576,Iron Brew,sds,Iron Brew Here!!,7900,8109.34,209.34,170,35588.51,2.58,4
-2025-10-18,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7178.34,179.34,200,35868.24,2.5,12
-2025-10-18,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7178.34,179.34,199,35688.9,2.5,12
-2025-10-18,25031,Refining Gem,ESNAIDER,SELL IMPS/GPS/REF/JACKPOT/PPS,6999,7178.34,179.34,191,34254.17,2.5,12
+2025-10-18,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7180.82,181.82,200,36364.57,2.53,11
+2025-10-18,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7180.82,181.82,199,36182.74,2.53,11
+2025-10-18,25031,Refining Gem,ESNAIDER,SELL IMPS/GPS/REF/JACKPOT/PPS,6999,7180.82,181.82,191,34728.16,2.53,11
 2025-10-18,26568,Skating Potion,Tralalera,GYOZA WORLD! COINS! CRYSTALS!,59999,61378.45,1379.45,22,30347.86,2.25,5
 2025-10-18,27017,Sorcerer's Wine,GordanRamsay,Cheap Warlord Aegis Sorc Irons,13400,13703.74,303.74,89,27033.24,2.22,6
 2025-10-18,27017,Sorcerer's Wine,TotemCookings,TOTEM COOKINGS RESTOCK SOON,13500,13703.74,203.74,178,36266.48,1.49,6
