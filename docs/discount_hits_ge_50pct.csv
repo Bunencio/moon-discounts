@@ -8,10 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,20,666324.0,8,1,monchito1,bowepelu
 100.0,22011,Gemof Sout,13,666324.0,8,1,MrFarm,cheapest stall in town//check IT
 100.0,22029,Fire Rock,7,545454.55,3,1,Sysh,SELL SOME GEMS
-100.0,25426,Universe Purse Fragment.,4,111252.25,3,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
-100.0,25451,Jade Gem Fragment,1,36733.93,4,9,monchito1,bowepelu
-100.0,25452,Rock Gem Fragment,2,48001.06,6,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
-100.0,25452,Rock Gem Fragment,2,48001.06,6,12,monchito1,bowepelu
+100.0,25451,Jade Gem Fragment,1,24167.42,3,9,monchito1,bowepelu
 100.0,25525,,7,282247.69,6,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,650003.5,3,1,jajaaaaja,sell
@@ -22,15 +19,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29324,Soulbinding Necklace,6,400002.0,3,1,Conchito,neck / pet 22
+99.99,25452,Rock Gem Fragment,2,26001.65,5,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
+99.99,25452,Rock Gem Fragment,2,26001.65,5,12,monchito1,bowepelu
 99.99,25525,,40,282247.69,6,1,xJavux,cheap
 99.99,27020,Gold Pirate Scroll,3,24199.35,6,16,xJavux,cheap
-99.98,25452,Rock Gem Fragment,10,48001.06,6,1,Goliat,Fragment Store
 99.98,29323,Nimble Venturer,25,136675.0,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25060,Cocobolo Log,3,11075.99,3,40,ebashuloxov,cocobolo
 99.97,25060,Cocobolo Log,3,11075.99,3,79,reserv,COCOBOLO LOGS
 99.97,25060,Cocobolo Log,3,11075.99,3,11,reserv,COCOBOLO LOGS
 99.97,28470,Ice Sealed Rifle of Enigma,9,26669.0,3,1,stalling1,cheap cheap SS stuffs
+99.96,25452,Rock Gem Fragment,10,26001.65,5,1,Goliat,Fragment Store
 99.88,26326,Elven Royal Signet,1,866.19,10,199,Dad,ez
 99.88,26326,Elven Royal Signet,1,866.19,10,197,Dad,ez
 94.47,26564,Meditation Potion,40,723.37,3,28,BLaCKMooN,X_X
@@ -46,7 +44,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.15,25501,Brown Colorant,1000,2713.64,3,1,cheapstuffsell,cheap
 61.19,25498,Black Colorant,2000,5153.85,3,1,cheapcheapcheap,cheap
 59.52,25496,Cyan Colorant.,2000,4941.18,4,1,cheapstuffsell,cheap
-59.43,25503,Magical Stone,199,490.45,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
 59.12,28403,Blade of Incantation,120000,293571.43,6,1,sstido,buy here title contrac
 59.12,28403,Blade of Incantation,120000,293571.43,6,1,sstido,buy here title contrac
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,HAIRSTYLE
