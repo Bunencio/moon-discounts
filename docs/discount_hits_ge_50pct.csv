@@ -2,13 +2,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22012,Demonic Gem of Wind,12,819804.8,5,1,Sysh,SELL SOME GEMS
 100.0,22012,Demonic Gem of Wind,14,819804.8,5,1,Happyman,QUPTTING CRUS SALE - UPDATED
 100.0,22024,Purple Jade,8,760000.8,3,1,Systembuff,++
-100.0,25426,Universe Purse Fragment.,4,88008.6,4,5,Coffi,UG COLO/GEM FRAGMENTS
-100.0,25451,Jade Gem Fragment,1,39834.12,10,9,monchito1,noxpirin
-100.0,25452,Rock Gem Fragment,1,36647.4,11,10,yuiy78,Jade/Rock
+100.0,25451,Jade Gem Fragment,1,40960.76,11,9,monchito1,noxpirin
+100.0,25452,Rock Gem Fragment,1,33096.7,12,10,yuiy78,Jade/Rock
 100.0,25525,,4,290730.73,8,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,290730.73,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,26568,Skating Potion,1,59654.34,5,1,Asten,Demonic gem of Soul/Gem of Soul
-100.0,27020,Gold Pirate Scroll,1,26224.57,7,3,Leviac,buy pls
+100.0,27020,Gold Pirate Scroll,1,24490.32,7,3,Leviac,buy pls
 100.0,28136,Crown of Decendant,5,580002.0,3,1,Happyman,QUPTTING CRUS SALE - UPDATED
 100.0,28136,Crown of Decendant,5,580002.0,3,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,15,486005.8,4,1,BBVA,1231
@@ -19,7 +18,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 99.99,22016,Demonic Gem of Sout,17,327791.0,3,7,jejejeje,Magic gems
-99.99,25452,Rock Gem Fragment,2,36647.4,11,12,monchito1,noxpirin
+99.99,25452,Rock Gem Fragment,2,33096.7,12,12,monchito1,noxpirin
 99.99,29310,Ring of Hawk,45,316681.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.99,29310,Ring of Hawk,45,316681.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
@@ -27,29 +26,31 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
 99.98,22006,Spirit Gem,1,5924.75,5,16,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.98,25451,Jade Gem Fragment,7,39834.12,10,2,Goliat,Fragment Store
-99.98,25452,Rock Gem Fragment,7,36647.4,11,3,iTonik,SELLING IN IMPS
+99.98,25426,Universe Purse Fragment.,34,176013.2,3,2,Xiomarvic,fREEE hELP ME
+99.98,25451,Jade Gem Fragment,7,40960.76,11,2,Goliat,Fragment Store
+99.98,25452,Rock Gem Fragment,7,33096.7,12,3,iTonik,SELLING IN IMPS
 99.98,25525,,45,290730.73,8,2,Xiomarvic,fREEE hELP ME
-99.98,28458,Ice Sealed Staff of the Sphinx,1,5833.67,3,1,Jikoy,Kugmo!!!!!!
+99.98,27020,Gold Pirate Scroll,4,24490.32,7,13,SuperBuffer,garner
+99.98,28458,Ice Sealed Staff of the Sphinx,1,6625.25,4,1,Jikoy,Kugmo!!!!!!
 99.98,28491,Ice Sealed Greaves of Enigma,30,123010.0,3,1,PALA02,garner
 99.98,29323,Nimble Venturer,25,147505.5,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.97,25452,Rock Gem Fragment,10,36647.4,11,1,Goliat,Fragment Store
-99.97,25452,Rock Gem Fragment,10,36647.4,11,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
-99.96,25426,Universe Purse Fragment.,34,88008.6,4,2,Xiomarvic,fREEE hELP ME
+99.97,25452,Rock Gem Fragment,10,33096.7,12,1,Goliat,Fragment Store
+99.97,25452,Rock Gem Fragment,10,33096.7,12,5,SuperBuffer,garner
+99.97,25452,Rock Gem Fragment,10,33096.7,12,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
 99.88,26326,Elven Royal Signet,1,865.99,11,199,Dad,ez
 99.88,26326,Elven Royal Signet,1,865.99,11,197,Dad,ez
 80.01,26501,Tiny EXP Berry,999,4998.07,4,2,DementedYak,S> Radar  Ship Penetrator  Cheap
 79.49,28036,Emerald Shield,10000,48750.0,3,1,SSTTAALL,CHEAP
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
-76.81,22001,Furious Gem,499,2151.51,11,49,hunterx,ug strike/signet/repu/bp /xp/etc
+76.49,22001,Furious Gem,499,2122.27,11,49,hunterx,ug strike/signet/repu/bp /xp/etc
+75.11,26590,Potion of Soul,650,2611.0,9,2,CrackHead,ALMOST 4 FREE
 74.87,2301,,17500,69642.86,5,1,BLaCKMooN,--------------------------
-74.53,26590,Potion of Soul,650,2551.82,8,2,CrackHead,ALMOST 4 FREE
 71.28,2301,,20000,69642.86,5,1,ZafirRose,cheap
 68.86,25496,Cyan Colorant.,1500,4817.65,3,1,cheapstuffsell,cheap
-67.74,22004,Shining Gem,999,3097.0,6,37,hunterx,ug strike/signet/repu/bp /xp/etc
-67.71,22004,Shining Gem,1000,3097.0,6,18,011,cleaning
 67.11,25503,Magical Stone,150,456.06,5,99,OdeteRoitman,fairy dust    /   pbs
+65.37,22004,Shining Gem,999,2884.73,6,37,hunterx,ug strike/signet/repu/bp /xp/etc
+65.33,22004,Shining Gem,1000,2884.73,6,18,011,cleaning
 65.12,28430,Fire Sealed Robe of Malediction,3333,9555.33,4,1,CallMeBaby,123123123
 62.13,29023,Standard 15 Treasure Hunting EXP Card,500,1320.24,4,24,PublicWin,uns 45 cru armor
 61.28,25499,Purple Colorant,1000,2582.42,3,1,pisslow,Frozen ElixirS>
@@ -59,7 +60,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.09,25501,Brown Colorant,1000,2330.36,3,10,MushroomShop10,Hairstyle
 56.37,25503,Magical Stone,199,456.06,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
 54.09,28442,Fire Sealed Coat of Evanescence,14500,31583.17,5,1,bowstalls,All Fire Sealed lv50 items
-53.52,22001,Furious Gem,1000,2151.51,11,10,011,cleaning
+52.88,22001,Furious Gem,1000,2122.27,11,10,011,cleaning
 52.51,28442,Fire Sealed Coat of Evanescence,15000,31583.17,5,1,Nixm,Cheap Lv50 Items all classes
+51.9,26592,Flash Bomb,550,1143.36,6,5,GABRAS,FLASH BOMB AND RED BLUEPRINSCROL
 51.82,25440,Evanescence Stone,500,1037.73,4,2,vendedolmax,2000
-51.19,26589,Potion of Bull,1200,2458.75,13,6,Cheap,asdasd
+50.98,26589,Potion of Bull,1200,2447.81,13,6,Cheap,asdasd
