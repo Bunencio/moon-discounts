@@ -6,10 +6,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,14,666324.0,8,3,Deathless,garner
 100.0,22011,Gemof Sout,20,666324.0,8,1,monchito1,bowepelu
 100.0,22011,Gemof Sout,13,666324.0,8,1,MrFarm,cheapest stall in town//check IT
-100.0,22029,Fire Rock,7,545454.55,3,1,Sysh,SELL SOME GEMS
 100.0,25426,Universe Purse Fragment.,4,111252.25,3,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,36733.93,4,9,monchito1,bowepelu
-100.0,25525,,7,234709.91,5,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
+100.0,25525,,7,230307.18,4,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
 100.0,29312,Ring of Might,4,380000.2,3,1,Happyman,QUITTING CRUS SALE
 100.0,29314,Ring of Angelic,5,235002.25,4,1,Systembuff,xx
@@ -19,7 +18,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,27224.22,5,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 99.99,25452,Rock Gem Fragment,2,27224.22,5,12,monchito1,bowepelu
 99.99,27020,Gold Pirate Scroll,3,20740.47,6,16,xJavux,cheap
-99.98,25525,,40,234709.91,5,1,xJavux,cheap
+99.98,25525,,40,230307.18,4,1,xJavux,cheap
 99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25060,Cocobolo Log,3,11075.99,3,40,ebashuloxov,cocobolo
 99.97,25060,Cocobolo Log,3,11075.99,3,79,reserv,COCOBOLO LOGS
@@ -37,26 +36,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.38,25440,Evanescence Stone,200,884.13,6,1,BL4CKM4RK3T,cheap stuff
 71.75,29062,Field Brew,40,141.6,3,15,xLiliith,New materials for crafting!! BUY
 69.54,22004,Shining Gem,1000,3283.43,5,18,011,cleaning
-66.13,2301,,11111,32802.92,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-66.13,2301,,11111,32802.92,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-66.13,2301,,11111,32802.92,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-66.13,2301,,11111,32802.92,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-66.13,2301,,11111,32802.92,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-66.13,2301,,11111,32802.92,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-66.13,2301,,11111,32802.92,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-66.13,2301,,11111,32802.92,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 65.22,30118,Vial of Strength Reset,2000,5749.75,3,1,Yennefer,STRIKING ROCK CHEST MOON SUN CLO
 63.15,25501,Brown Colorant,1000,2713.64,3,1,cheapstuffsell,cheap
-62.47,25503,Magical Stone,149,397.04,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration
-62.22,25503,Magical Stone,150,397.04,5,99,XthedreamkillerX,mgs
-62.22,25503,Magical Stone,150,397.04,5,99,OdeteRoitman,fairy dust  /   pps   /   legend
 61.19,25498,Black Colorant,2000,5153.85,3,1,cheapcheapcheap,cheap
-59.52,25496,Cyan Colorant.,2000,4941.18,4,1,cheapstuffsell,cheap
-59.12,28403,Blade of Incantation,120000,293571.43,6,1,sstido,buy here title contrac
-59.12,28403,Blade of Incantation,120000,293571.43,6,1,sstido,buy here title contrac
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,HAIRSTYLE
-56.95,22001,Furious Gem,999,2320.7,12,23,cheapcheapcheap,cheap
-56.91,22001,Furious Gem,1000,2320.7,12,10,011,cleaning
+56.82,22001,Furious Gem,999,2313.7,12,23,cheapcheapcheap,cheap
+56.78,22001,Furious Gem,1000,2313.7,12,10,011,cleaning
 56.14,28432,Fire Sealed Staff of Mirage,5000,11399.8,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
+54.61,25503,Magical Stone,149,328.24,4,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration
+54.3,25503,Magical Stone,150,328.24,4,99,XthedreamkillerX,mgs
+54.3,25503,Magical Stone,150,328.24,4,99,OdeteRoitman,fairy dust  /   pps   /   legend
 53.61,28442,Fire Sealed Coat of Evanescence,15000,32333.0,5,1,Nixm,Cheap Lv50 Items all classes
 52.94,28326,Divine Grace Cap,40000,84999.75,4,1,ZafirRose,cheap
+51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
