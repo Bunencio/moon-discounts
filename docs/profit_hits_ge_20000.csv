@@ -5,13 +5,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,22010,Gem of Rage,Sysh,SELL SOME GEMS,23,690923.68,690900.68,4,2763602.73,100.0,6
 2025-10-18,22011,Gemof Sout,Deathless,garner,14,705348.39,705334.39,3,2116003.17,100.0,8
 2025-10-18,22012,Demonic Gem of Wind,Jew,gems,15,519808.6,519793.6,2,1039587.2,100.0,4
+2025-10-18,28136,Crown of Decendant,jajaaaaja,sell,5,712501.25,712496.25,1,712496.25,100.0,4
 2025-10-18,22011,Gemof Sout,MrFarm,cheapest stall in town//check IT,13,705348.39,705335.39,1,705335.39,100.0,8
 2025-10-18,22011,Gemof Sout,monchito1,bowepelu,20,705348.39,705328.39,1,705328.39,100.0,8
 2025-10-18,22010,Gem of Rage,Jew,gems,20,690923.68,690903.68,1,690903.68,100.0,6
 2025-10-18,22010,Gem of Rage,ShowerBro,afk,23,690923.68,690900.68,1,690900.68,100.0,6
 2025-10-18,25452,Rock Gem Fragment,monchito1,bowepelu,2,48634.27,48632.27,12,583587.2,100.0,8
-2025-10-18,28136,Crown of Decendant,Happyman,QUITTING CRUS SALE,5,570002.0,569997.0,1,569997.0,100.0,4
-2025-10-18,28136,Crown of Decendant,jajaaaaja,sell,5,570002.0,569997.0,1,569997.0,100.0,4
 2025-10-18,22029,Fire Rock,Sysh,SELL SOME GEMS,7,545454.55,545447.55,1,545447.55,100.0,3
 2025-10-18,22012,Demonic Gem of Wind,Happyman,QUITTING CRUS SALE,14,519808.6,519794.6,1,519794.6,100.0,4
 2025-10-18,25426,Universe Purse Fragment.,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL,4,85008.6,85004.6,5,425023.0,100.0,4
@@ -80,9 +79,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,25420,Sunlight Heart,purplered,Sunlight hearts,25000,27771.43,2771.43,20,55428.57,9.98,4
 2025-10-18,26588,Potion of Eagle,GeorgeFloyd,yes,2500,2772.69,272.69,195,53174.63,9.83,7
 2025-10-18,27025,Radiation Lv1,Kalista,radiation detector,2199,2425.16,226.16,91,20580.9,9.33,5
+2025-10-18,28136,Crown of Decendant,Skip,wew,650000,712501.25,62501.25,1,62501.25,8.77,4
+2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,11963.59,964.59,37,35689.84,8.06,3
+2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,11963.59,964.59,26,25079.35,8.06,3
 2025-10-18,25508,Demonic Gem Fragment,ESNAIDER,SELL IMPS/GPS/REF/JACKPOT/PPS,120000,130000.0,10000.0,3,30000.0,7.69,3
-2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,11879.67,880.67,61,53721.04,7.41,3
-2025-10-18,30140,10x Crystal,Perversu,Sell IMP / Super Pro Champ Boots,10999,11879.67,880.67,26,22897.49,7.41,3
 2025-10-18,28454,Ice Sealed Blade of Enigma,OsToWBaby,ALL ITEMS 40-60,400000,430000.0,30000.0,1,30000.0,6.98,4
 2025-10-18,26346,Lantern,Honey,---------  Pet  Fruits  --------,3999,4296.96,297.96,160,47673.49,6.93,8
 2025-10-18,26346,Lantern,SeventhHeaven,Scrolls/Lantern/Coins etc,4000,4296.96,296.96,200,59391.86,6.91,8
@@ -90,7 +90,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,26576,Iron Brew,Cincar,Cincar Pots,7499,7979.61,480.61,185,88913.75,6.02,4
 2025-10-18,22028,Water Rock,Rambo,SALE!,1400000,1483333.33,83333.33,1,83333.33,5.62,3
 2025-10-18,26504,Blessed Berry,Tanjer0,*Cheapest CB | Weightless here,9799,10374.31,575.31,46,26464.2,5.55,3
-2025-10-18,27019,Purple Pirate Scroll,MiLD,rrr,4300,4528.8,228.8,99,22651.58,5.05,8
+2025-10-18,27019,Purple Pirate Scroll,MiLD,rrr,4300,4528.56,228.56,99,22627.21,5.05,8
 2025-10-18,26567,Weightless Potion,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,8999,9469.35,470.35,75,35276.0,4.97,3
 2025-10-18,25417,Moonlight Heart,GeorgeFloyd,yes,100000,104444.11,4444.11,5,22220.56,4.26,3
 2025-10-18,26504,Blessed Berry,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,9999,10374.31,375.31,102,38281.48,3.62,3
