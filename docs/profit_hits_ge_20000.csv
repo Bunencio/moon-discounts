@@ -1,5 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-10-18,25525,,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS,7,288494.08,288487.08,15,4327306.13,100.0,7
+2025-10-18,22010,Gem of Rage,Happyman,QUITTING CRUS SALE,21,600015.44,599994.44,9,5399950.0,100.0,5
+2025-10-18,25525,,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS,7,284121.29,284114.29,15,4261714.41,100.0,7
+2025-10-18,22010,Gem of Rage,Sysh,SELL SOME GEMS,23,600015.44,599992.44,4,2399969.78,100.0,5
 2025-10-18,22012,Demonic Gem of Wind,Happyman,QUITTING CRUS SALE,14,866337.67,866323.67,1,866323.67,100.0,3
 2025-10-18,28136,Crown of Decendant,Happyman,QUITTING CRUS SALE,5,570002.0,569997.0,1,569997.0,100.0,4
 2025-10-18,28136,Crown of Decendant,jajaaaaja,sell,5,570002.0,569997.0,1,569997.0,100.0,4
@@ -18,16 +20,17 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,29314,Ring of Angelic,Systembuff,++,5,186002.8,185997.8,1,185997.8,100.0,4
 2025-10-18,29314,Ring of Angelic,BV10,q,5,186002.8,185997.8,1,185997.8,100.0,4
 2025-10-18,29314,Ring of Angelic,BV10,q,5,186002.8,185997.8,1,185997.8,100.0,4
-2025-10-18,27020,Gold Pirate Scroll,Leviac,buy pls,1,23714.5,23713.5,3,71140.51,100.0,7
+2025-10-18,27020,Gold Pirate Scroll,Leviac,buy pls,1,23520.21,23519.21,3,70557.64,100.0,8
 2025-10-18,25452,Rock Gem Fragment,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM,2,40590.53,40588.53,1,40588.53,100.0,7
-2025-10-18,25525,,Xiomarvic,fREEE hELP ME,45,288494.08,288449.08,2,576898.15,99.98,7
-2025-10-18,27020,Gold Pirate Scroll,SuperBuffer,garner,4,23714.5,23710.5,13,308236.55,99.98,7
+2025-10-18,25525,,Xiomarvic,fREEE hELP ME,45,284121.29,284076.29,2,568152.59,99.98,7
+2025-10-18,27020,Gold Pirate Scroll,SuperBuffer,garner,4,23520.21,23516.21,13,305710.77,99.98,8
 2025-10-18,30157,Iron Bar,DemiMerchant,99c Item Mall/ Pet/Gems 99c,10,43604.9,43594.9,5,217974.5,99.98,3
 2025-10-18,25452,Rock Gem Fragment,SuperBuffer,garner,10,40590.53,40580.53,5,202902.65,99.98,7
 2025-10-18,29323,Nimble Venturer,DemiMerchant,99c Item Mall/ Pet/Gems 99c,25,133341.33,133316.33,1,133316.33,99.98,3
 2025-10-18,25452,Rock Gem Fragment,Goliat,Fragment Store,10,40590.53,40580.53,1,40580.53,99.98,7
 2025-10-18,25426,Universe Purse Fragment.,Xiomarvic,fREEE hELP ME,34,106371.45,106337.45,2,212674.91,99.97,5
 2025-10-18,28491,Ice Sealed Greaves of Enigma,PALA02,garner,30,119806.0,119776.0,1,119776.0,99.97,4
+2025-10-18,27020,Gold Pirate Scroll,Remeca,Sell Shadow Pirate Scrolls FASTT,11,23520.21,23509.21,1,23509.21,99.95,8
 2025-10-18,26326,Elven Royal Signet,Dad,ez,1,867.7,866.7,199,172474.13,99.88,10
 2025-10-18,26326,Elven Royal Signet,Dad,ez,1,867.7,866.7,197,170740.72,99.88,10
 2025-10-18,22004,Shining Gem,011,cleaning,1000,3283.43,2283.43,18,41101.71,69.54,5
@@ -61,16 +64,16 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,26344,Novice Weightless Potion,STAII,CHEAP,2990,3655.46,665.46,76,50575.26,18.2,4
 2025-10-18,28491,Ice Sealed Greaves of Enigma,lamamandoski,super cheap,99000,119806.0,20806.0,1,20806.0,17.37,4
 2025-10-18,30102,1000 Reputation Scroll,sstido,buy here title contrac,6500,7801.98,1301.98,30,39059.44,16.69,7
-2025-10-18,26571,Warlord Potion,TotemCookings,Totem Cookings Made wLove n Weed,3600,4309.94,709.94,100,70993.95,16.47,4
+2025-10-18,26571,Warlord Potion,TotemCookings,Totem Cookings Made wLove n Weed,3600,4312.79,712.79,100,71279.44,16.53,4
 2025-10-18,25091,Heavy Crystal,CrystalSeller,CRYSTAL   ORE FOR SALE!,1999,2377.62,378.62,64,24231.57,15.92,3
 2025-10-18,25091,Heavy Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,2000,2377.62,377.62,99,37384.21,15.88,3
 2025-10-18,22000,FieryGem,BuySome,FvCk Friends,2500,2945.68,445.68,72,32089.15,15.13,10
 2025-10-18,22001,Furious Gem,STAII,CHEAP,1990,2327.47,337.47,68,22947.78,14.5,9
 2025-10-18,25436,Chest of Demonic World II,sellerforfree,cheap,45000,52500.0,7500.0,3,22500.0,14.29,4
-2025-10-18,26571,Warlord Potion,DwShops,the finest cookings for DW,3699,4309.94,610.94,198,120966.03,14.18,4
-2025-10-18,26571,Warlord Potion,KFCC,KFC STORE 24-7 OPEN ALL POTS,3699,4309.94,610.94,117,71479.93,14.18,4
-2025-10-18,26571,Warlord Potion,Mamii,BETTER THAN TOTEM HE SUCKS,3700,4309.94,609.94,146,89051.17,14.15,4
-2025-10-18,26571,Warlord Potion,shooter,demonic inferno warlord fb bless,3700,4309.94,609.94,144,87831.29,14.15,4
+2025-10-18,26571,Warlord Potion,DwShops,the finest cookings for DW,3699,4312.79,613.79,198,121531.29,14.23,4
+2025-10-18,26571,Warlord Potion,KFCC,KFC STORE 24-7 OPEN ALL POTS,3699,4312.79,613.79,112,68744.97,14.23,4
+2025-10-18,26571,Warlord Potion,Mamii,BETTER THAN TOTEM HE SUCKS,3700,4312.79,612.79,146,89467.98,14.21,4
+2025-10-18,26571,Warlord Potion,shooter,demonic inferno warlord fb bless,3700,4312.79,612.79,144,88242.39,14.21,4
 2025-10-18,26377,Pharaoh's Lantern,CheapestASF,Ezzzzzzzzzzzzzzzzzzzz,8000,9318.64,1318.64,50,65931.94,14.15,4
 2025-10-18,25505,Standard Stone,VendedoraJequiti,stones / +,1997,2273.24,276.24,81,22375.43,12.15,4
 2025-10-18,25505,Standard Stone,TTKillGirlTT,STD Stone / Equip 50/APP hat,1999,2273.24,274.24,98,26875.51,12.06,4
@@ -80,6 +83,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-18,25534,,*DEATH*~#14,fragmento4k,4000,4449.69,449.69,55,24732.75,10.11,9
 2025-10-18,30140,10x Crystal,Bathroom,10x Crystal gold skating repu,9999,11113.71,1114.71,23,25638.44,10.03,4
 2025-10-18,25420,Sunlight Heart,purplered,Sunlight hearts,25000,27771.43,2771.43,20,55428.57,9.98,4
+2025-10-18,26590,Potion of Soul,GeorgeFloyd,yes,2500,2773.87,273.87,80,21909.36,9.87,7
 2025-10-18,26588,Potion of Eagle,GeorgeFloyd,yes,2500,2759.3,259.3,197,51082.22,9.4,7
 2025-10-18,27025,Radiation Lv1,Kalista,radiation detector,2199,2422.14,223.14,121,26999.6,9.21,5
 2025-10-18,27019,Purple Pirate Scroll,WindSlash,PPS/PBS/LBS/GPS/Fragment,4100,4505.38,405.38,53,21485.24,9.0,8
