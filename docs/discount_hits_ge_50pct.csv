@@ -7,7 +7,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,32150.5,12,10,yuiy78,Jade/Rock
 100.0,25525,,4,290730.73,8,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,290730.73,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
-100.0,26568,Skating Potion,1,59332.53,6,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,27020,Gold Pirate Scroll,1,24536.67,6,3,Leviac,buy pls
 100.0,28136,Crown of Decendant,5,580002.0,3,1,Happyman,QUPTTING CRUS SALE - UPDATED
 100.0,28136,Crown of Decendant,5,580002.0,3,1,jajaaaaja,sell
@@ -19,8 +18,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,32150.5,12,12,monchito1,bowepelu
 99.99,25452,Rock Gem Fragment,2,32150.5,12,1,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7000.2,5,1,Jikoy,Kugmo!!!!!!
-99.99,29310,Ring of Hawk,45,316681.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.99,29310,Ring of Hawk,45,316681.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
@@ -60,4 +57,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.09,28442,Fire Sealed Coat of Evanescence,14500,31583.17,5,1,bowstalls,All Fire Sealed lv50 items
 52.9,22001,Furious Gem,1000,2122.99,11,10,011,cleaning
 52.51,28442,Fire Sealed Coat of Evanescence,15000,31583.17,5,1,Nixm,Cheap Lv50 Items all classes
+51.12,26568,Skating Potion,30000,61378.45,5,1,Gryffindor,cheap
 51.06,26589,Potion of Bull,1200,2452.23,12,6,Cheap,asdasd
