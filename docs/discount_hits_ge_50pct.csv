@@ -7,13 +7,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,14,666324.0,8,3,Deathless,garner
 100.0,22011,Gemof Sout,20,666324.0,8,1,monchito1,bowepelu
 100.0,22011,Gemof Sout,13,666324.0,8,1,MrFarm,cheapest stall in town//check IT
-100.0,22012,Demonic Gem of Wind,15,519808.6,4,2,Jew,gems
-100.0,22012,Demonic Gem of Wind,14,519808.6,4,1,Happyman,QUITTING CRUS SALE
+100.0,22012,Demonic Gem of Wind,15,649757.25,3,2,Jew,gems
 100.0,22029,Fire Rock,7,545454.55,3,1,Sysh,SELL SOME GEMS
 100.0,25426,Universe Purse Fragment.,4,106252.25,3,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,24167.42,3,9,monchito1,bowepelu
-100.0,25452,Rock Gem Fragment,2,48634.27,8,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
-100.0,25452,Rock Gem Fragment,2,48634.27,8,12,monchito1,bowepelu
+100.0,25452,Rock Gem Fragment,2,41393.86,7,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
+100.0,25452,Rock Gem Fragment,2,41393.86,7,12,monchito1,bowepelu
 100.0,25525,,7,282247.69,6,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,15,520005.8,4,1,BBVA,1231
@@ -29,12 +28,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,23982.92,7,16,xJavux,cheap
 99.98,25060,Cocobolo Log,3,14810.19,3,79,reserv,COCOBOLO LOGS
 99.98,25060,Cocobolo Log,3,14810.19,3,11,reserv,COCOBOLO LOGS
-99.98,25452,Rock Gem Fragment,10,48634.27,8,1,Goliat,Fragment Store
+99.98,25452,Rock Gem Fragment,10,41393.86,7,1,Goliat,Fragment Store
 99.98,29323,Nimble Venturer,25,136675.0,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,28470,Ice Sealed Rifle of Enigma,9,26669.0,3,1,stalling1,cheap cheap SS stuffs
-99.88,26326,Elven Royal Signet,1,849.51,9,199,Dad,ez
-99.88,26326,Elven Royal Signet,1,849.51,9,197,Dad,ez
+99.88,26326,Elven Royal Signet,1,866.19,10,199,Dad,ez
+99.88,26326,Elven Royal Signet,1,866.19,10,197,Dad,ez
 84.7,22434,,7,45.75,3,1,IfYouSeemeRun,///   Shadow C    //////
 84.7,22434,,7,45.75,3,2,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 80.95,28476,Ice Sealed Kris of the Sphinx,15000,78749.75,3,1,Winston,voy geras
@@ -56,4 +55,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.14,28432,Fire Sealed Staff of Mirage,5000,11399.8,5,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 53.61,28442,Fire Sealed Coat of Evanescence,15000,32333.0,5,1,Nixm,Cheap Lv50 Items all classes
 52.94,28326,Divine Grace Cap,40000,84999.75,4,1,ZafirRose,cheap
-51.1,28440,Fire Sealed Roar of Evanescence,13000,26583.0,4,1,bowstalls,all Fire sealed  items
