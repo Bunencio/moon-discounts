@@ -1,15 +1,11 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,20,568436.74,6,1,Jew,gems
-100.0,22010,Gem of Rage,23,568436.74,6,4,Sysh,SELL SOME GEMS
-100.0,22010,Gem of Rage,21,568436.74,6,9,Happyman,QUITTING CRUS SALE
 100.0,22012,Demonic Gem of Wind,15,519808.6,4,2,Jew,gems
 100.0,22012,Demonic Gem of Wind,14,519808.6,4,1,Happyman,QUITTING CRUS SALE
 100.0,22029,Fire Rock,7,545454.55,3,1,Sysh,SELL SOME GEMS
-100.0,25426,Universe Purse Fragment.,4,106371.45,5,5,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
 100.0,25451,Jade Gem Fragment,1,24167.42,3,9,monchito1,bowepelu
 100.0,25452,Rock Gem Fragment,2,40590.53,7,12,monchito1,bowepelu
 100.0,25452,Rock Gem Fragment,2,40590.53,7,1,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
-100.0,25525,,7,284121.29,7,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
+100.0,25525,,7,278658.19,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,28136,Crown of Decendant,5,570002.0,4,1,Happyman,QUITTING CRUS SALE
 100.0,28136,Crown of Decendant,5,570002.0,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,15,520005.8,4,1,BBVA,1231
@@ -21,28 +17,27 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,232502.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,232502.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29324,Soulbinding Necklace,6,400002.0,3,1,Conchito,neck / pet 22
+99.99,25525,,40,278658.19,8,1,xJavux,cheap
+99.99,27020,Gold Pirate Scroll,3,20483.87,5,16,xJavux,cheap
 99.98,25452,Rock Gem Fragment,10,40590.53,7,1,Goliat,Fragment Store
 99.98,25452,Rock Gem Fragment,10,40590.53,7,5,SuperBuffer,garner
-99.98,25525,,45,284121.29,7,2,Xiomarvic,fREEE hELP ME
-99.98,27020,Gold Pirate Scroll,4,24423.58,6,13,SuperBuffer,garner
+99.98,25525,,45,278658.19,8,2,Xiomarvic,fREEE hELP ME
+99.98,27020,Gold Pirate Scroll,4,20483.87,5,13,SuperBuffer,garner
 99.98,29323,Nimble Venturer,25,133341.33,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.97,25426,Universe Purse Fragment.,34,106371.45,5,2,Xiomarvic,fREEE hELP ME
-99.97,28491,Ice Sealed Greaves of Enigma,30,119806.0,4,1,PALA02,garner
-99.95,27020,Gold Pirate Scroll,11,24423.58,6,1,Remeca,Sell Shadow Pirate Scrolls FASTT
+99.97,28491,Ice Sealed Greaves of Enigma,30,119757.5,4,1,PALA02,garner
 99.88,26326,Elven Royal Signet,1,867.7,10,199,Dad,ez
 99.88,26326,Elven Royal Signet,1,867.7,10,197,Dad,ez
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 77.38,25440,Evanescence Stone,200,884.13,6,1,BL4CKM4RK3T,cheap stuff
-75.52,26589,Potion of Bull,600,2451.38,11,1,CrackHead,TODO  A  BCV
+75.74,26589,Potion of Bull,600,2473.28,11,1,CrackHead,TODO  A  BCV
 69.54,22004,Shining Gem,1000,3283.43,5,18,011,cleaning
-64.81,25503,Magical Stone,150,426.32,5,99,OdeteRoitman,fairy dust    /   pbs
 62.73,25501,Brown Colorant,1000,2683.04,3,1,cheapstuffsell,cheap
 62.73,25501,Brown Colorant,1000,2683.04,3,2,pisslow,Frozen ElixirS>
 62.24,25499,Purple Colorant,1000,2648.35,3,1,pisslow,Frozen ElixirS>
 61.19,25498,Black Colorant,2000,5153.85,3,1,cheapcheapcheap,cheap
-60.92,25258,Spirit Feather,99,253.35,7,3,DiscipleTwo,IMPS|KAL|PURPLE JADE|LEGEND BP
 59.52,25496,Cyan Colorant.,2000,4941.18,4,1,cheapstuffsell,cheap
+59.43,25503,Magical Stone,199,490.45,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
 58.87,28403,Blade of Incantation,120000,291776.67,8,1,sstido,buy here title contrac
 58.87,28403,Blade of Incantation,120000,291776.67,8,1,sstido,buy here title contrac
 58.39,25143,Delicious Worm,30,72.1,3,99,cheapcheapcheap,cheap
@@ -51,6 +46,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.98,22001,Furious Gem,1000,2324.63,10,10,011,cleaning
 56.52,28432,Fire Sealed Staff of Mirage,5000,11499.67,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 53.61,28442,Fire Sealed Coat of Evanescence,15000,32333.0,5,1,Nixm,Cheap Lv50 Items all classes
-53.32,25503,Magical Stone,199,426.32,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
+51.48,26589,Potion of Bull,1200,2473.28,11,6,Cheap,asdasd
 51.19,27033,Radar Lv!,400,819.59,3,9,BossLiam,OMG
-51.05,26589,Potion of Bull,1200,2451.38,11,6,Cheap,asdasd
