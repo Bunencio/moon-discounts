@@ -1,8 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,20,568436.74,6,1,Jew,garner
+100.0,22010,Gem of Rage,20,568436.74,6,1,Jew,gems
 100.0,22010,Gem of Rage,23,568436.74,6,4,Sysh,SELL SOME GEMS
 100.0,22010,Gem of Rage,21,568436.74,6,9,Happyman,QUITTING CRUS SALE
-100.0,22012,Demonic Gem of Wind,14,866337.67,3,1,Happyman,QUITTING CRUS SALE
+100.0,22012,Demonic Gem of Wind,15,519808.6,4,2,Jew,gems
+100.0,22012,Demonic Gem of Wind,14,519808.6,4,1,Happyman,QUITTING CRUS SALE
 100.0,22029,Fire Rock,7,545454.55,3,1,Sysh,SELL SOME GEMS
 100.0,25426,Universe Purse Fragment.,4,106371.45,5,5,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
 100.0,25451,Jade Gem Fragment,1,24167.42,3,9,monchito1,bowepelu
@@ -15,22 +16,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28429,Dance of Evanescence,7,520005.8,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,520005.8,4,1,jajaaaaja,sell
 100.0,29312,Ring of Might,4,325000.75,3,1,Happyman,QUITTING CRUS SALE
-100.0,29314,Ring of Angelic,5,186002.8,4,1,Systembuff,++
-100.0,29314,Ring of Angelic,5,186002.8,4,1,Systembuff,++
-100.0,29314,Ring of Angelic,5,186002.8,4,1,BV10,q
-100.0,29314,Ring of Angelic,5,186002.8,4,1,BV10,q
-100.0,29314,Ring of Angelic,4,186002.8,4,1,MrFarm,cheapest stall in town//check IT
-100.0,29314,Ring of Angelic,4,186002.8,4,1,MrFarm,cheapest stall in town//check IT
+100.0,29314,Ring of Angelic,5,232502.25,4,1,Systembuff,++
+100.0,29314,Ring of Angelic,5,232502.25,4,1,Systembuff,++
+100.0,29314,Ring of Angelic,4,232502.25,4,1,MrFarm,cheapest stall in town//check IT
+100.0,29314,Ring of Angelic,4,232502.25,4,1,MrFarm,cheapest stall in town//check IT
 100.0,29324,Soulbinding Necklace,6,400002.0,3,1,Conchito,neck / pet 22
 99.98,25452,Rock Gem Fragment,10,40590.53,7,1,Goliat,Fragment Store
 99.98,25452,Rock Gem Fragment,10,40590.53,7,5,SuperBuffer,garner
 99.98,25525,,45,284121.29,7,2,Xiomarvic,fREEE hELP ME
-99.98,27020,Gold Pirate Scroll,4,24113.13,7,13,SuperBuffer,garner
+99.98,27020,Gold Pirate Scroll,4,24423.58,6,13,SuperBuffer,garner
 99.98,29323,Nimble Venturer,25,133341.33,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25426,Universe Purse Fragment.,34,106371.45,5,2,Xiomarvic,fREEE hELP ME
-99.96,28491,Ice Sealed Greaves of Enigma,30,84757.5,3,1,PALA02,garner
-99.95,27020,Gold Pirate Scroll,11,24113.13,7,1,Remeca,Sell Shadow Pirate Scrolls FASTT
+99.97,28491,Ice Sealed Greaves of Enigma,30,119806.0,4,1,PALA02,garner
+99.95,27020,Gold Pirate Scroll,11,24423.58,6,1,Remeca,Sell Shadow Pirate Scrolls FASTT
 99.88,26326,Elven Royal Signet,1,867.7,10,199,Dad,ez
 99.88,26326,Elven Royal Signet,1,867.7,10,197,Dad,ez
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
@@ -48,8 +47,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.87,28403,Blade of Incantation,120000,291776.67,8,1,sstido,buy here title contrac
 58.39,25143,Delicious Worm,30,72.1,3,99,cheapcheapcheap,cheap
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,HAIRSTYLE
-57.08,22001,Furious Gem,999,2327.47,9,23,cheapcheapcheap,cheap
-57.03,22001,Furious Gem,1000,2327.47,9,10,011,cleaning
+57.03,22001,Furious Gem,999,2324.63,10,23,cheapcheapcheap,cheap
+56.98,22001,Furious Gem,1000,2324.63,10,10,011,cleaning
 56.52,28432,Fire Sealed Staff of Mirage,5000,11499.67,3,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 53.61,28442,Fire Sealed Coat of Evanescence,15000,32333.0,5,1,Nixm,Cheap Lv50 Items all classes
 53.32,25503,Magical Stone,199,426.32,5,8,bouncer,ExpB/GEB/BB/EB/Nana/Ration/Etc
