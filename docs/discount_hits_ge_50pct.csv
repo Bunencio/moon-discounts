@@ -1,8 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,20,540016.05,6,1,Jew,gems
-100.0,22010,Gem of Rage,23,540016.05,6,4,Sysh,SELL SOME GEMS
-100.0,22010,Gem of Rage,23,540016.05,6,1,ShowerBro,afk
-100.0,22010,Gem of Rage,21,540016.05,6,9,Happyman,QUITTING CRUS SALE
+100.0,22010,Gem of Rage,20,690923.68,6,1,Jew,gems
+100.0,22010,Gem of Rage,23,690923.68,6,4,Sysh,SELL SOME GEMS
+100.0,22010,Gem of Rage,23,690923.68,6,1,ShowerBro,afk
+100.0,22010,Gem of Rage,21,690923.68,6,9,Happyman,QUITTING CRUS SALE
+100.0,22011,Gemof Sout,15,705348.39,8,15,jejejeje,Magic gems
+100.0,22011,Gemof Sout,14,705348.39,8,3,Deathless,garner
+100.0,22011,Gemof Sout,20,705348.39,8,1,monchito1,bowepelu
+100.0,22011,Gemof Sout,13,705348.39,8,1,MrFarm,cheapest stall in town//check IT
 100.0,22012,Demonic Gem of Wind,15,519808.6,4,2,Jew,gems
 100.0,22012,Demonic Gem of Wind,14,519808.6,4,1,Happyman,QUITTING CRUS SALE
 100.0,22029,Fire Rock,7,545454.55,3,1,Sysh,SELL SOME GEMS
@@ -45,6 +49,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,HAIRSTYLE
 56.97,22001,Furious Gem,999,2321.8,11,23,cheapcheapcheap,cheap
 56.93,22001,Furious Gem,1000,2321.8,11,10,011,cleaning
-53.87,28403,Blade of Incantation,120000,260123.75,7,1,sstido,buy here title contrac
-53.87,28403,Blade of Incantation,120000,260123.75,7,1,sstido,buy here title contrac
 53.61,28442,Fire Sealed Coat of Evanescence,15000,32333.0,5,1,Nixm,Cheap Lv50 Items all classes
+51.35,28403,Blade of Incantation,120000,246666.67,5,1,sstido,buy here title contrac
+51.35,28403,Blade of Incantation,120000,246666.67,5,1,sstido,buy here title contrac
+51.1,28440,Fire Sealed Roar of Evanescence,13000,26583.0,4,1,bowstalls,all Fire sealed  items
