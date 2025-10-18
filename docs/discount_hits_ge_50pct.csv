@@ -1,10 +1,12 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22012,Demonic Gem of Wind,12,819804.8,5,1,Sysh,SELL SOME GEMS
 100.0,22012,Demonic Gem of Wind,14,819804.8,5,1,Happyman,QUPTTING CRUS SALE - UPDATED
+100.0,22014,Demonic Gem of Colossus,29,2208005.8,3,1,Sysh,SELL SOME GEMS
 100.0,22024,Purple Jade,8,760000.8,3,1,Systembuff,++
 100.0,25426,Universe Purse Fragment.,4,106371.45,5,5,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
+100.0,25431,Kal Runestone,15,642863.14,3,3,zzzzz,garner
 100.0,25451,Jade Gem Fragment,1,24001.53,5,9,monchito1,bowepelu
-100.0,25452,Rock Gem Fragment,1,32224.57,12,10,yuiy78,Jade/Rock
+100.0,25452,Rock Gem Fragment,1,30002.35,8,10,yuiy78,Jade/Rock
 100.0,25525,,4,285276.18,8,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,285276.18,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,27020,Gold Pirate Scroll,1,24536.67,6,3,Leviac,buy pls
@@ -13,28 +15,26 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28466,Ice Sealed Judgment of Enigma,1,22999.8,4,1,Jikoy,Kugmo!!!!!!
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
-99.99,22016,Demonic Gem of Sout,17,327791.0,3,7,jejejeje,Magic gems
-99.99,25452,Rock Gem Fragment,2,32224.57,12,12,monchito1,bowepelu
-99.99,25452,Rock Gem Fragment,2,32224.57,12,1,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
+99.99,25452,Rock Gem Fragment,2,30002.35,8,12,monchito1,bowepelu
+99.99,25452,Rock Gem Fragment,2,30002.35,8,1,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7857.0,6,1,Jikoy,Kugmo!!!!!!
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
 99.99,29314,Ring of Angelic,5,97503.5,3,1,Systembuff,++
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
 99.98,22006,Spirit Gem,1,5924.1,4,16,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.98,25452,Rock Gem Fragment,7,32224.57,12,3,iTonik,SELLING IN IMPS
 99.98,25525,,45,285276.18,8,2,Xiomarvic,fREEE hELP ME
 99.98,27020,Gold Pirate Scroll,4,24536.67,6,13,SuperBuffer,garner
 99.98,29323,Nimble Venturer,25,140005.5,4,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25426,Universe Purse Fragment.,34,106371.45,5,2,Xiomarvic,fREEE hELP ME
 99.97,25451,Jade Gem Fragment,7,24001.53,5,2,Goliat,Fragment Store
-99.97,25452,Rock Gem Fragment,10,32224.57,12,1,Goliat,Fragment Store
-99.97,25452,Rock Gem Fragment,10,32224.57,12,5,SuperBuffer,garner
-99.97,25452,Rock Gem Fragment,10,32224.57,12,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.97,25452,Rock Gem Fragment,10,30002.35,8,1,Goliat,Fragment Store
+99.97,25452,Rock Gem Fragment,10,30002.35,8,5,SuperBuffer,garner
+99.97,25452,Rock Gem Fragment,10,30002.35,8,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
 99.96,28491,Ice Sealed Greaves of Enigma,30,84757.5,3,1,PALA02,garner
-99.88,26326,Elven Royal Signet,1,861.27,11,199,Dad,ez
-99.88,26326,Elven Royal Signet,1,861.27,11,197,Dad,ez
+99.88,26326,Elven Royal Signet,1,863.24,12,199,Dad,ez
+99.88,26326,Elven Royal Signet,1,863.24,12,197,Dad,ez
 88.32,28472,Ice Sealed Bow of Enigma,80999,693666.33,3,1,HitAndRun,Bow ICE|Bow APP|Gun|Green
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 77.38,25440,Evanescence Stone,200,884.13,6,1,BL4CKM4RK3T,cheap stuff
