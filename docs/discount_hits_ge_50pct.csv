@@ -1,15 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22011,Gemof Sout,15,682909.61,6,15,jejejeje,Magic gems
-100.0,22011,Gemof Sout,14,682909.61,6,3,Deathless,garner
-100.0,22011,Gemof Sout,15,682909.61,6,1,Goon,yes
-100.0,22011,Gemof Sout,13,682909.61,6,1,MrFarm,cheapest stall in town//check IT
-100.0,22011,Gemof Sout,15,682909.61,6,1,Asten,Demonic gem of Soul/Gem of Soul
 100.0,22012,Demonic Gem of Wind,12,819804.8,5,1,Sysh,SELL SOME GEMS
 100.0,22012,Demonic Gem of Wind,14,819804.8,5,1,Happyman,QUPTTING CRUS SALE - UPDATED
 100.0,22024,Purple Jade,8,760000.8,3,1,Systembuff,++
 100.0,25426,Universe Purse Fragment.,4,88008.6,4,5,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
-100.0,25452,Rock Gem Fragment,2,41335.79,12,1,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
-100.0,25452,Rock Gem Fragment,1,41335.79,12,10,yuiy78,Jade/Rock
+100.0,25451,Jade Gem Fragment,1,44333.93,11,9,monchito1,bowepelu
+100.0,25452,Rock Gem Fragment,1,32150.5,12,10,yuiy78,Jade/Rock
 100.0,25525,,4,290730.73,8,1,Jikoy,Kugmo!!!!!!
 100.0,25525,,7,290730.73,8,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,26568,Skating Potion,1,59332.53,6,1,Asten,Demonic gem of Soul/Gem of Soul
@@ -21,7 +16,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 100.0,29314,Ring of Angelic,4,97503.5,3,1,MrFarm,cheapest stall in town//check IT
 99.99,22016,Demonic Gem of Sout,17,327791.0,3,7,jejejeje,Magic gems
-99.99,25451,Jade Gem Fragment,7,63333.76,10,2,Goliat,Fragment Store
+99.99,25452,Rock Gem Fragment,2,32150.5,12,12,monchito1,bowepelu
+99.99,25452,Rock Gem Fragment,2,32150.5,12,1,Coffi,SHADOW CRYSTAL/PURSE ROCK FRAGM
 99.99,28458,Ice Sealed Staff of the Sphinx,1,7000.2,5,1,Jikoy,Kugmo!!!!!!
 99.99,29310,Ring of Hawk,45,316681.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.99,29310,Ring of Hawk,45,316681.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
@@ -30,14 +26,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
 99.99,29314,Ring of Angelic,5,97503.5,3,1,BV10,q
 99.98,22006,Spirit Gem,1,5924.75,5,16,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.98,25452,Rock Gem Fragment,10,41335.79,12,1,Goliat,Fragment Store
-99.98,25452,Rock Gem Fragment,7,41335.79,12,3,iTonik,SELLING IN IMPS
-99.98,25452,Rock Gem Fragment,10,41335.79,12,5,SuperBuffer,garner
-99.98,25452,Rock Gem Fragment,10,41335.79,12,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
+99.98,25451,Jade Gem Fragment,7,44333.93,11,2,Goliat,Fragment Store
+99.98,25452,Rock Gem Fragment,7,32150.5,12,3,iTonik,SELLING IN IMPS
 99.98,25525,,45,290730.73,8,2,Xiomarvic,fREEE hELP ME
 99.98,27020,Gold Pirate Scroll,4,24536.67,6,13,SuperBuffer,garner
 99.98,29323,Nimble Venturer,25,140005.5,4,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,43604.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
+99.97,25452,Rock Gem Fragment,10,32150.5,12,1,Goliat,Fragment Store
+99.97,25452,Rock Gem Fragment,10,32150.5,12,5,SuperBuffer,garner
+99.97,25452,Rock Gem Fragment,10,32150.5,12,2,xxD,ROCK FRAGMENT / UG COLO / SHINER
 99.96,25426,Universe Purse Fragment.,34,88008.6,4,2,Xiomarvic,fREEE hELP ME
 99.88,26326,Elven Royal Signet,1,865.55,12,199,Dad,ez
 99.88,26326,Elven Royal Signet,1,865.55,12,197,Dad,ez
