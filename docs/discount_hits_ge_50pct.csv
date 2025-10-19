@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,20,1328573.71,4,1,zzzzz,garner
 100.0,22010,Gem of Rage,23,711125.39,5,4,Sysh,SELL SOME GEMS
 100.0,22010,Gem of Rage,21,711125.39,5,8,Happyman,UG RAGE | JADE | FAIRIES
 100.0,22011,Gemof Sout,15,375788.3,7,15,jejejeje,Magic gems
@@ -7,18 +6,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,170834.58,5,5,Coffi,garner
+100.0,25452,Rock Gem Fragment,1,34111.5,9,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 100.0,26585,Blessed Potion,1,80090.96,5,10,Systembuff,x
 99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,modo compa mi guerra
-99.99,25451,Jade Gem Fragment,1,18917.46,4,9,monchito1,modo compa mi guerra
-99.99,25451,Jade Gem Fragment,1,18917.46,4,10,CocoZap,Jade Gem Fragments
-99.99,25452,Rock Gem Fragment,2,34869.51,8,17,monchito1,modo compa mi guerra
-99.99,25452,Rock Gem Fragment,2,34869.51,8,1,Coffi,garner
+99.99,25451,Jade Gem Fragment,1,16815.63,4,9,monchito1,modo compa mi guerra
+99.99,25451,Jade Gem Fragment,1,16815.63,4,10,CocoZap,Jade Gem Fragments
+99.99,25451,Jade Gem Fragment,1,16815.63,4,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
+99.99,25452,Rock Gem Fragment,2,34111.5,9,17,monchito1,modo compa mi guerra
+99.99,25452,Rock Gem Fragment,2,34111.5,9,1,Coffi,garner
 99.99,29310,Ring of Hawk,45,380008.6,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,25060,Cocobolo Log,3,15896.06,5,40,ebashuloxov,cocobolo
 99.98,29323,Nimble Venturer,25,126674.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.97,25452,Rock Gem Fragment,9,34869.51,8,10,yuiy78,Rock Gem
-99.97,25452,Rock Gem Fragment,10,34869.51,8,1,Goliat,Fragment Store
+99.97,25452,Rock Gem Fragment,9,34111.5,9,10,yuiy78,Rock Gem
+99.97,25452,Rock Gem Fragment,10,34111.5,9,1,Goliat,Fragment Store
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,JACKPOT COINS
 85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
 79.45,22004,Shining Gem,555,2701.04,6,61,NainBASTARD,xxx
@@ -54,4 +55,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.79,22001,Furious Gem,1000,2212.1,11,3,MushroomShop8,Normal Gems
 51.94,22016,Demonic Gem of Sout,17,35.38,3,1,Jew,yes
 51.94,22016,Demonic Gem of Sout,17,35.38,3,4,jejejeje,Magic gems
+51.39,26594,Novice Explosive Ball,200,411.48,6,1,PALA02,doe uns  greaves  app bow  wings
 50.57,26589,Potion of Bull,1162,2350.88,11,34,cFIB,cheap pots
