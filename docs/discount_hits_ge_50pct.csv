@@ -2,14 +2,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,20,1328573.71,4,1,zzzzz,s
 100.0,22010,Gem of Rage,23,711125.39,5,4,Sysh,SELL SOME GEMS
 100.0,22010,Gem of Rage,21,711125.39,5,8,Happyman,UG RAGE | JADE | FAIRIES
-100.0,22011,Gemof Sout,20,406653.0,8,1,monchito1,modo compa mi guerra
-100.0,22011,Gemof Sout,15,406653.0,8,15,jejejeje,Magic gems
-100.0,22011,Gemof Sout,14,406653.0,8,3,Deathless,garner
+100.0,22011,Gemof Sout,15,375788.3,7,15,jejejeje,Magic gems
+100.0,22011,Gemof Sout,14,375788.3,7,3,Deathless,garner
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,170834.58,5,5,Coffi,garner
 100.0,25452,Rock Gem Fragment,1,34111.5,9,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 100.0,26585,Blessed Potion,1,80090.96,5,10,Systembuff,x
+99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,10,CocoZap,Jade Gem Fragments
 99.99,25451,Jade Gem Fragment,1,16815.63,4,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
@@ -17,44 +17,34 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,34111.5,9,1,Coffi,garner
 99.99,29310,Ring of Hawk,45,380008.6,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,25060,Cocobolo Log,3,15896.06,5,40,ebashuloxov,cocobolo
-99.98,29323,Nimble Venturer,25,126674.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25452,Rock Gem Fragment,9,34111.5,9,10,yuiy78,Rock Gem
 99.97,25452,Rock Gem Fragment,10,34111.5,9,1,Goliat,Fragment Store
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,JACKPOT COINS
 85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
-79.27,22004,Shining Gem,555,2676.65,7,61,NainBASTARD,xxx
+79.15,22004,Shining Gem,555,2662.32,8,61,NainBASTARD,xxx
 78.66,22000,FieryGem,555,2601.18,15,34,NainBASTARD,xxx
-78.62,2301,,6000,28068.31,6,1,idex,8888
 76.0,28036,Emerald Shield,10000,41666.67,3,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 74.91,22001,Furious Gem,555,2212.1,11,29,NainBASTARD,xxx
 74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 71.15,25527,,10,34.67,3,1,Deathless,garner
-70.74,26588,Potion of Eagle,750,2563.63,8,18,ZafirRose,cheap
+70.65,26588,Potion of Eagle,750,2555.19,9,18,ZafirRose,cheap
 69.27,26591,Potion of Lion,750,2440.75,10,11,ZafirRose,cheap
 66.78,29062,Field Brew,30,90.31,4,198,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
-64.37,2301,,10000,28068.31,6,1,ZafirRose,cheap
+66.19,22004,Shining Gem,900,2662.32,8,2,Mambanegra,lust/glowing/shining/spirit gem
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.64,28326,Divine Grace Cap,30000,82499.75,4,1,ZafirRose,cheap
-62.64,22004,Shining Gem,1000,2676.65,7,18,011,cleaning
+62.44,22004,Shining Gem,1000,2662.32,8,18,011,cleaning
 62.11,28403,Blade of Incantation,95000,250714.0,7,1,BeIa,Uns 45 Cruz cheap
 61.56,22000,FieryGem,1000,2601.18,15,4,MushroomShop8,Normal Gems
-60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-58.48,28446,Fire Sealed Bow of Evanescence,10000,24083.17,6,1,Mikaligueba,tickets tickets
-56.72,25503,Magical Stone,100,231.05,6,24,xVENDORx,RUSH
+59.8,28446,Fire Sealed Bow of Evanescence,10000,24875.0,4,1,Mikaligueba,tickets tickets
 55.56,25498,Black Colorant,2000,4500.0,3,1,cheapcheapcheap,cheap
 54.84,22001,Furious Gem,999,2212.1,11,21,cheapcheapcheap,cheap
 54.79,22001,Furious Gem,1000,2212.1,11,10,011,cleaning
 54.79,22001,Furious Gem,1000,2212.1,11,3,MushroomShop8,Normal Gems
+52.72,25503,Magical Stone,100,211.5,6,24,xVENDORx,RUSH
 51.94,22016,Demonic Gem of Sout,17,35.38,3,1,Jew,yes
 51.94,22016,Demonic Gem of Sout,17,35.38,3,4,jejejeje,Magic gems
 51.39,26594,Novice Explosive Ball,200,411.48,6,1,PALA02,doe uns  greaves  app bow  wings
-50.57,26589,Potion of Bull,1162,2350.88,11,34,cFIB,cheap pots
+50.55,26589,Potion of Bull,1162,2349.83,11,34,cFIB,cheap pots
