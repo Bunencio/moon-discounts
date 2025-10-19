@@ -52,22 +52,20 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,29002,Green Statue,ghost26,scroll,500,1104.21,604.21,60,36252.52,54.72,5
 2025-10-19,26589,Potion of Bull,cFIB,cheap pots,1162,2392.12,1230.12,34,41824.18,51.42,8
 2025-10-19,22001,Furious Gem,cheapcheapcheap,cheap,999,2027.99,1028.99,23,23666.7,50.74,11
-2025-10-19,28472,Ice Sealed Bow of Enigma,HitAndRun,Bow ICE|Bow APP|Gun|Green,80999,160333.0,79334.0,1,79334.0,49.48,3
 2025-10-19,28454,Ice Sealed Blade of Enigma,lamamandoski,super cheap,220000,408000.0,188000.0,1,188000.0,46.08,5
 2025-10-19,25056,Willow Wood Log,satzstall2,satz staller,310,569.42,259.42,80,20753.66,45.56,6
 2025-10-19,25056,Willow Wood Log,BestSeller,WOOD STRIP/LOG FOR SALE!,320,569.42,249.42,99,24692.65,43.8,6
 2025-10-19,25056,Willow Wood Log,YatoroGod,Willow/Red/Coal Ore for SALE!,320,569.42,249.42,95,23694.97,43.8,6
 2025-10-19,28327,Great Aqua Cap,WhereIsMyBraSize,sefse,775000,1325000.0,550000.0,1,550000.0,41.51,3
 2025-10-19,22006,Spirit Gem,STAII,CHEAP,4990,8216.1,3226.1,9,29034.93,39.27,3
-2025-10-19,28472,Ice Sealed Bow of Enigma,Jumong,SS SEALED /UNSEALED WEAP,100000,160333.0,60333.0,1,60333.0,37.63,3
 2025-10-19,25416,Cloud Heart,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS,14000,22318.18,8318.18,9,74863.64,37.27,4
 2025-10-19,25420,Sunlight Heart,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS,17000,26583.33,9583.33,7,67083.33,36.05,5
+2025-10-19,30171,Ticket to Demonic World,dwtix,PharaLantern/ElvenBunnyPot,390,582.77,192.77,192,37011.66,33.08,6
 2025-10-19,25507,Expert Stone,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS,700,1038.6,338.6,88,29796.46,32.6,6
 2025-10-19,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,Cheap EXP,990,1458.78,468.78,99,46409.3,32.14,6
-2025-10-19,30171,Ticket to Demonic World,dwtix,PharaLantern/ElvenBunnyPot,390,572.79,182.79,192,35095.34,31.91,6
 2025-10-19,26591,Potion of Lion,cFIB,cheap pots,1630,2382.03,752.03,43,32337.17,31.57,9
-2025-10-19,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,572.79,172.79,195,33693.71,30.17,6
-2025-10-19,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,572.79,172.79,126,21771.32,30.17,6
+2025-10-19,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,582.77,182.77,195,35639.97,31.36,6
+2025-10-19,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,582.77,182.77,126,23028.9,31.36,6
 2025-10-19,26588,Potion of Eagle,SvckMe,CHEAP POTIONNN,1888,2635.08,747.08,82,61260.49,28.35,7
 2025-10-19,28403,Blade of Incantation,T3Teng,www,200000,278888.89,78888.89,1,78888.89,28.29,8
 2025-10-19,22000,FieryGem,STAII,CHEAP,1990,2695.95,705.95,53,37415.25,26.19,11
@@ -81,7 +79,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,30102,1000 Reputation Scroll,iinerti,Jackpot/GPS/PPS/Ref/Repu1k/PB/FB,6000,7854.65,1854.65,40,74186.17,23.61,10
 2025-10-19,25507,Expert Stone,tiendaonline,offer offer offer,799,1038.6,239.6,99,23720.02,23.07,6
 2025-10-19,25507,Expert Stone,tiendaonline,offer offer offer,799,1038.6,239.6,99,23720.02,23.07,6
-2025-10-19,26575,Guardian's Brew,satzstall2,satz staller,445,567.67,122.67,200,24534.55,21.61,8
+2025-10-19,26575,Guardian's Brew,satzstall2,satz staller,445,567.71,122.71,200,24541.61,21.61,8
 2025-10-19,28454,Ice Sealed Blade of Enigma,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60,320000,408000.0,88000.0,1,88000.0,21.57,5
 2025-10-19,30156,Jackpot Coin,MatsBk,s>GPS/PPS/JC/BLUEPRINTS,8800,11165.54,2365.54,99,234188.85,21.19,3
 2025-10-19,26344,Novice Weightless Potion,STAII,CHEAP,2990,3741.25,751.25,44,33055.22,20.08,5
@@ -97,6 +95,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,30102,1000 Reputation Scroll,Saller,ty,7000,7854.65,854.65,83,70936.3,10.88,10
 2025-10-19,28403,Blade of Incantation,Brunette,jck pot/pet str/crus leave offer,250000,278888.89,28888.89,1,28888.89,10.36,8
 2025-10-19,28403,Blade of Incantation,Brunette,jck pot/pet str/crus leave offer,250000,278888.89,28888.89,1,28888.89,10.36,8
+2025-10-19,27034,Grenade Lv2,F0X01,Iron Brew 7.7K/ Grenade Lv2 2K,2000,2201.02,201.02,115,23117.02,9.13,8
 2025-10-19,28136,Crown of Decendant,Skip,wew,650000,712501.25,62501.25,1,62501.25,8.77,4
 2025-10-19,27025,Radiation Lv1,Kalista,radiation detector flash bomb,2199,2406.31,207.31,182,37731.24,8.62,4
 2025-10-19,26346,Lantern,Honey,---------  Pet  Fruits  --------,3999,4371.39,372.39,61,22715.6,8.52,10
@@ -114,8 +113,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,27020,Gold Pirate Scroll,MatsBk,s>GPS/PPS/JC/BLUEPRINTS,24500,25527.46,1027.46,55,56510.2,4.02,9
 2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7206.65,207.65,200,41529.29,2.88,11
 2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7206.65,207.65,179,37168.72,2.88,11
-2025-10-19,26576,Iron Brew,F0X01,Iron Brew 7.7K/ Grenade lv2 2K,7795,7959.32,164.32,132,21689.79,2.06,4
-2025-10-19,30139,100x Crystal,KarateCruZ,S> IMPS,101999,103994.19,1995.19,50,99759.51,1.92,6
-2025-10-19,30139,100x Crystal,Aois,STALL,102000,103994.19,1994.19,15,29912.85,1.92,6
+2025-10-19,26576,Iron Brew,F0X01,Iron Brew 7.7K/ Grenade Lv2 2K,7795,7959.32,164.32,132,21689.79,2.06,4
+2025-10-19,30139,100x Crystal,KarateCruZ,S> IMPS,101999,104044.61,2045.61,44,90006.69,1.97,6
+2025-10-19,30139,100x Crystal,Aois,STALL,102000,104044.61,2044.61,14,28624.49,1.97,6
 2025-10-19,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,12500,12709.66,209.66,178,37320.07,1.65,8
 2025-10-19,26578,Aegis Brew,Puki,JACKPOT COINS /  POTS,57500,58318.18,818.18,80,65454.55,1.4,4
