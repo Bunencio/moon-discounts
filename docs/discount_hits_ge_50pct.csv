@@ -11,11 +11,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,7,228002.74,4,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,26585,Blessed Potion,1,81101.75,5,10,Systembuff,x
 100.0,28136,Crown of Decendant,5,716668.33,3,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,741430.57,4,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,741430.57,4,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,7,576686.0,5,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,7,576686.0,5,1,jajaaaaja,sell
 99.99,22011,Gemof Sout,20,362367.71,8,1,monchito1,bowepelu
 99.99,25452,Rock Gem Fragment,2,33586.61,7,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 99.99,25452,Rock Gem Fragment,2,33586.61,7,12,monchito1,bowepelu
+99.99,28429,Dance of Evanescence,80,576686.0,5,1,SnowCr4sh,DOE X2
+99.99,28429,Dance of Evanescence,80,576686.0,5,1,SnowCr4sh,DOE X2
 99.99,29310,Ring of Hawk,45,316681.33,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.99,29310,Ring of Hawk,45,316681.33,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,29323,Nimble Venturer,25,145005.75,4,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
@@ -23,14 +25,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25452,Rock Gem Fragment,9,33586.61,7,10,yuiy78,Rock Gem
 99.97,25452,Rock Gem Fragment,10,33586.61,7,1,Goliat,Fragment Store
 96.37,28327,Great Aqua Cap,29999,825999.8,5,1,RanqueWisss,Low Pricee
-90.36,28468,Ice Sealed Mantle of Enigma,5999,62199.4,5,1,BjornIronside,@@@@
-85.82,30121,Vial of Accuracy Reset,555,3913.3,10,11,NainBASTARD,xxx
+85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
 84.87,28327,Great Aqua Cap,125000,825999.8,5,1,Humm,JACKPOT COINS
 79.58,22004,Shining Gem,555,2718.56,6,61,NainBASTARD,xxx
 78.89,22000,FieryGem,555,2629.68,14,34,NainBASTARD,xxx
 78.62,2301,,6000,28068.31,6,1,idex,8888
 76.0,28036,Emerald Shield,10000,41666.67,3,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
-75.03,22001,Furious Gem,555,2222.43,11,29,NainBASTARD,xxx
+75.05,22001,Furious Gem,555,2224.49,10,29,NainBASTARD,xxx
 74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 71.15,25527,,10,34.67,3,1,Deathless,garner
 70.54,26588,Potion of Eagle,750,2545.83,9,18,ZafirRose,cheap
@@ -52,8 +53,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 58.11,26591,Potion of Lion,1000,2387.4,12,2,PALA02,garner
 55.56,25498,Black Colorant,2000,4500.0,3,1,cheapcheapcheap,cheap
-55.05,22001,Furious Gem,999,2222.43,11,21,cheapcheapcheap,cheap
-55.0,22001,Furious Gem,1000,2222.43,11,10,011,cleaning
+55.09,22001,Furious Gem,999,2224.49,10,21,cheapcheapcheap,cheap
+55.05,22001,Furious Gem,1000,2224.49,10,10,011,cleaning
 54.14,28403,Blade of Incantation,120000,261666.56,9,1,BeIa,Uns 45 Cruz /Ref / GBS
 52.16,26594,Novice Explosive Ball,200,418.05,7,1,PALA02,garner
 51.84,22016,Demonic Gem of Sout,16,33.22,4,1,Bankera,Demonic Soul
