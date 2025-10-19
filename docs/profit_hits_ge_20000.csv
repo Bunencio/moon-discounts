@@ -53,10 +53,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,28403,Blade of Incantation,BeIa,Uns 45 Cruz /Ref / GBS,120000,248333.33,128333.33,1,128333.33,51.68,8
 2025-10-19,26589,Potion of Bull,cFIB,cheap pots,1162,2392.12,1230.12,34,41824.18,51.42,8
 2025-10-19,22001,Furious Gem,cheapcheapcheap,cheap,999,2027.99,1028.99,23,23666.7,50.74,11
+2025-10-19,25056,Willow Wood Log,YatoroGod,WILLOW/COAL/RED ORE MINION QUEST,298,569.33,271.33,90,24419.31,47.66,7
+2025-10-19,25056,Willow Wood Log,BestSeller,WOODS FOE SALE!,299,569.33,270.33,89,24058.99,47.48,7
 2025-10-19,28454,Ice Sealed Blade of Enigma,lamamandoski,super cheap,220000,408000.0,188000.0,1,188000.0,46.08,5
-2025-10-19,25056,Willow Wood Log,satzstall2,satz staller,310,572.72,262.72,80,21017.83,45.87,6
-2025-10-19,25056,Willow Wood Log,YatoroGod,Willow/Red/Coal Ore for SALE!,320,572.72,252.72,90,22745.06,44.13,6
-2025-10-19,25056,Willow Wood Log,BestSeller,WOOD STRIP/LOG FOR SALE!,320,572.72,252.72,89,22492.33,44.13,6
+2025-10-19,25056,Willow Wood Log,satzstall2,satz staller,310,569.33,259.33,80,20746.05,45.55,7
 2025-10-19,28327,Great Aqua Cap,WhereIsMyBraSize,sefse,775000,1325000.0,550000.0,1,550000.0,41.51,3
 2025-10-19,25416,Cloud Heart,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS,14000,22318.18,8318.18,9,74863.64,37.27,4
 2025-10-19,30171,Ticket to Demonic World,MysticLeafStore,Cheapest DW tickets,389,618.34,229.34,97,22245.5,37.09,6
@@ -103,7 +103,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,26346,Lantern,Honey,---------  Pet  Fruits  --------,3999,4371.39,372.39,61,22715.6,8.52,10
 2025-10-19,26346,Lantern,SeventhHeaven,Scrolls/Lantern/Coins etc,4000,4371.39,371.39,196,72791.82,8.5,10
 2025-10-19,26591,Potion of Lion,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60,2200,2382.03,182.03,117,21297.18,7.64,9
-2025-10-19,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7206.52,540.52,46,24863.77,7.5,12
+2025-10-19,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7211.7,545.7,46,25102.32,7.57,12
 2025-10-19,27017,Sorcerer's Wine,Puki,JACKPOT COINS /  POTS,11900,12709.66,809.66,56,45341.15,6.37,8
 2025-10-19,26576,Iron Brew,Cincar,Cincar Pots,7499,7959.32,460.32,156,71809.39,5.78,4
 2025-10-19,26377,Pharaoh's Lantern,Sisifo,PHARAOH LANTERN,8444,8945.02,501.02,56,28056.9,5.6,4
@@ -112,10 +112,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,26377,Pharaoh's Lantern,dwtix,PharaLantern/ElvenBunnyPot,8500,8945.02,445.02,84,37381.35,4.98,4
 2025-10-19,26345,Elven Potion,EIlIIliah,elven potion cheap,5099,5309.0,210.0,199,41790.87,3.96,5
 2025-10-19,26504,Blessed Berry,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,9999,10338.66,339.66,145,49251.4,3.29,3
-2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7206.52,207.52,200,41503.33,2.88,12
-2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7206.52,207.52,174,36107.89,2.88,12
-2025-10-19,30139,100x Crystal,KarateCruZ,S> IMPS,101999,104309.79,2310.79,12,27729.44,2.22,6
-2025-10-19,30139,100x Crystal,Aois,STALL,102000,104309.79,2309.79,14,32337.02,2.21,6
+2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7211.7,212.7,200,42540.52,2.95,12
+2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7211.7,212.7,174,37010.26,2.95,12
+2025-10-19,30139,100x Crystal,Aois,STALL,102000,104429.31,2429.31,14,34010.34,2.33,5
 2025-10-19,26576,Iron Brew,F0X01,Iron Brew 7.7K/ Grenade Lv2 2K,7795,7959.32,164.32,132,21689.79,2.06,4
 2025-10-19,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,12500,12709.66,209.66,178,37320.07,1.65,8
 2025-10-19,26578,Aegis Brew,Puki,JACKPOT COINS /  POTS,57500,58318.18,818.18,80,65454.55,1.4,4
