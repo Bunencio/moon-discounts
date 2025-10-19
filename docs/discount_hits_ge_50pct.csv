@@ -1,14 +1,13 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,15,1162503.88,5,1,Pescadora,GEM OF STRIKING QUITTING PRICE
-100.0,22007,Gem of Striking,20,1162503.88,5,1,zzzzz,garner
+100.0,22007,Gem of Striking,20,1328573.71,4,1,zzzzz,garner
 100.0,22010,Gem of Rage,23,711125.39,5,4,Sysh,SELL SOME GEMS
 100.0,22010,Gem of Rage,21,711125.39,5,8,Happyman,UG RAGE | JADE | FAIRIES
 100.0,22011,Gemof Sout,15,375788.3,7,15,jejejeje,Magic gems
 100.0,22011,Gemof Sout,14,375788.3,7,3,Deathless,garner
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,22306,,10,799755.0,3,2,Jew,yes
-100.0,25426,Universe Purse Fragment.,4,178462.62,6,5,Coffi,garner
-100.0,26585,Blessed Potion,1,80090.96,5,10,Systembuff,x
+100.0,25426,Universe Purse Fragment.,4,170834.58,5,5,Coffi,garner
+100.0,26585,Blessed Potion,1,79339.72,4,10,Systembuff,x
 99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,18917.46,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,18917.46,4,10,CocoZap,Jade Gem Fragments
@@ -53,5 +52,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.84,22001,Furious Gem,999,2212.1,11,21,cheapcheapcheap,cheap
 54.79,22001,Furious Gem,1000,2212.1,11,10,011,cleaning
 54.79,22001,Furious Gem,1000,2212.1,11,3,MushroomShop8,Normal Gems
-51.84,22016,Demonic Gem of Sout,16,33.22,4,1,Bankera,Demonic Soul
+51.94,22016,Demonic Gem of Sout,17,35.38,3,1,Jew,yes
+51.94,22016,Demonic Gem of Sout,17,35.38,3,4,jejejeje,Magic gems
 50.57,26589,Potion of Bull,1162,2350.88,11,34,cFIB,cheap pots
