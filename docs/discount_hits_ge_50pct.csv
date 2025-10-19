@@ -9,7 +9,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25426,Universe Purse Fragment.,4,161819.55,4,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,46800.2,5,9,monchito1,bowepelu
 100.0,25525,,7,250859.89,5,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
-100.0,26585,Blessed Potion,1,79792.98,5,10,Systembuff,Bless/pet con/rings con++
+100.0,26585,Blessed Potion,1,79018.05,5,10,Systembuff,Bless/pet con/rings con++
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,640002.0,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,640002.0,4,1,jajaaaaja,sell
@@ -62,7 +62,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,HAIRSTYLE
 55.45,27029,Ship Penetrator Lv1,250,561.2,4,37,Lja,garner
 52.38,28432,Fire Sealed Staff of Mirage,5000,10500.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
-52.36,26589,Potion of Bull,1162,2439.26,9,34,cFIB,cheap pots
+52.33,26589,Potion of Bull,1162,2437.75,9,34,cFIB,cheap pots
 51.91,26594,Novice Explosive Ball,200,415.9,6,3,PALA02,garner
 51.61,28442,Fire Sealed Coat of Evanescence,15000,30999.75,4,1,Nixm,Cheap Lv50 Items all classes
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
