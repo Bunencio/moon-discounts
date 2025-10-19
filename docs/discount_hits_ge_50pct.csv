@@ -18,8 +18,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25451,Jade Gem Fragment,1,16815.63,4,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 99.99,25452,Rock Gem Fragment,2,35258.06,10,17,monchito1,modo compa mi guerra
 99.99,25452,Rock Gem Fragment,2,35258.06,10,1,Coffi,garner
-99.99,28429,Dance of Evanescence,75,742238.89,5,1,SnowCr4sh,DOE X2
-99.99,28429,Dance of Evanescence,75,742238.89,5,1,SnowCr4sh,DOE X2
+99.99,28429,Dance of Evanescence,75,554307.14,4,1,SnowCr4sh,DOE X2
+99.99,28429,Dance of Evanescence,75,554307.14,4,1,SnowCr4sh,DOE X2
 99.98,25060,Cocobolo Log,3,15896.06,5,40,ebashuloxov,cocobolo
 99.97,22016,Demonic Gem of Sout,160,533273.5,6,1,iTonik,10x Crystal
 99.97,25452,Rock Gem Fragment,9,35258.06,10,10,yuiy78,Rock Gem
@@ -39,9 +39,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 71.15,25527,,10,34.67,3,1,Deathless,garner
 69.94,26588,Potion of Eagle,750,2494.86,11,18,ZafirRose,cheap
 68.54,26591,Potion of Lion,750,2383.69,11,11,ZafirRose,cheap
+68.45,27033,Radar Lv!,300,950.84,4,9,BossLiam,very cheap
 66.19,22004,Shining Gem,900,2662.32,8,2,Mambanegra,lust/glowing/shining/spirit gem
-65.63,28403,Blade of Incantation,95000,276428.43,6,1,BeIa,Uns 45 Cruz cheap
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
+64.04,28403,Blade of Incantation,95000,264166.5,6,1,BeIa,Uns 45 Cruz cheap
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.27,28326,Divine Grace Cap,30000,81666.33,3,1,ZafirRose,cheap
 62.44,22004,Shining Gem,1000,2662.32,8,18,011,cleaning
@@ -62,4 +63,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.85,2301,,11111,23563.43,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 52.85,2301,,11111,23563.43,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 52.72,25503,Magical Stone,100,211.5,6,24,xVENDORx,RUSH
-51.39,26594,Novice Explosive Ball,200,411.48,6,1,PALA02,doe uns  greaves  app bow  wings
+51.2,26594,Novice Explosive Ball,200,409.85,7,1,PALA02,doe uns  greaves  app bow  wings
