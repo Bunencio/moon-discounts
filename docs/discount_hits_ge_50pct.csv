@@ -8,7 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,179231.85,6,5,Coffi,garner
 100.0,25452,Rock Gem Fragment,1,35258.06,10,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
-100.0,26585,Blessed Potion,1,80090.96,5,10,Systembuff,x
+100.0,26585,Blessed Potion,1,83643.88,6,10,Systembuff,x
 99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,10,CocoZap,Jade Gem Fragments
@@ -18,9 +18,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25060,Cocobolo Log,3,15896.06,5,40,ebashuloxov,cocobolo
 99.97,25452,Rock Gem Fragment,9,35258.06,10,10,yuiy78,Rock Gem
 99.97,25452,Rock Gem Fragment,10,35258.06,10,1,Goliat,Fragment Store
-94.34,26564,Meditation Potion,40,706.49,3,28,Skills,x_X    Free    *_*    Free   X_x
-92.92,26564,Meditation Potion,50,706.49,3,13,labubu25,hearts crab pot
-92.92,26564,Meditation Potion,50,706.49,3,200,lamamandoski,super cheap
+94.27,26564,Meditation Potion,40,697.59,3,28,Skills,x_X    Free    *_*    Free   X_x
+92.83,26564,Meditation Potion,50,697.59,3,13,labubu25,hearts crab pot
+92.83,26564,Meditation Potion,50,697.59,3,200,lamamandoski,super cheap
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,JACKPOT COINS
 85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
 79.15,22004,Shining Gem,555,2662.32,8,61,NainBASTARD,xxx
@@ -31,7 +31,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.01,29062,Field Brew,30,107.18,4,99,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
 71.15,25527,,10,34.67,3,1,Deathless,garner
 70.64,26588,Potion of Eagle,750,2554.21,10,18,ZafirRose,cheap
-69.27,26591,Potion of Lion,750,2440.75,10,11,ZafirRose,cheap
+69.25,26591,Potion of Lion,750,2439.11,10,11,ZafirRose,cheap
 66.19,22004,Shining Gem,900,2662.32,8,2,Mambanegra,lust/glowing/shining/spirit gem
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
 63.9,28403,Blade of Incantation,95000,263124.75,7,1,BeIa,Uns 45 Cruz cheap
@@ -48,4 +48,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.94,22016,Demonic Gem of Sout,17,35.38,3,1,Jew,yes
 51.94,22016,Demonic Gem of Sout,17,35.38,3,4,jejejeje,Magic gems
 51.39,26594,Novice Explosive Ball,200,411.48,6,1,PALA02,doe uns  greaves  app bow  wings
-50.55,26589,Potion of Bull,1162,2349.83,11,34,cFIB,cheap pots
+50.4,26589,Potion of Bull,1162,2342.64,11,34,cFIB,cheap pots
