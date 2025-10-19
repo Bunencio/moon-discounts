@@ -28,8 +28,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25452,Rock Gem Fragment,9,33586.61,7,10,yuiy78,Rock Gem
 99.97,25452,Rock Gem Fragment,10,33586.61,7,1,Goliat,Fragment Store
-97.0,28327,Great Aqua Cap,29999,1001249.75,4,1,RanqueWisss,Low Pricee
+96.37,28327,Great Aqua Cap,29999,825999.8,5,1,RanqueWisss,Low Pricee
+90.36,28468,Ice Sealed Mantle of Enigma,5999,62199.4,5,1,BjornIronside,@@@@
 85.82,30121,Vial of Accuracy Reset,555,3913.3,10,11,NainBASTARD,xxx
+84.87,28327,Great Aqua Cap,125000,825999.8,5,1,Humm,JACKPOT COINS
 79.58,22004,Shining Gem,555,2718.56,6,61,NainBASTARD,xxx
 78.89,22000,FieryGem,555,2629.68,14,34,NainBASTARD,xxx
 78.62,2301,,6000,28068.31,6,1,idex,8888
@@ -53,8 +55,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-59.65,28403,Blade of Incantation,100000,247857.14,7,1,BeIa,Uns 45 Cruz /Ref / GBS
 58.11,26591,Potion of Lion,1000,2387.4,12,2,PALA02,garner
+58.01,28403,Blade of Incantation,100000,238124.88,8,1,BeIa,Uns 45 Cruz /Ref / GBS
 55.56,25498,Black Colorant,2000,4500.0,3,1,cheapcheapcheap,cheap
 55.05,22001,Furious Gem,999,2222.43,11,21,cheapcheapcheap,cheap
 55.0,22001,Furious Gem,1000,2222.43,11,10,011,cleaning
@@ -62,6 +64,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.44,25056,Willow Wood Log,299,628.69,6,89,BestSeller,WOODS FOE SALE!
 52.16,26594,Novice Explosive Ball,200,418.05,7,1,PALA02,garner
 51.84,22016,Demonic Gem of Sout,16,33.22,4,1,Bankera,Demonic Soul
-51.59,28403,Blade of Incantation,120000,247857.14,7,1,BeIa,Uns 45 Cruz /Ref / GBS
 50.69,25056,Willow Wood Log,310,628.69,6,60,satzstall2,satz staller
 50.61,26589,Potion of Bull,1162,2352.65,11,34,cFIB,cheap pots
