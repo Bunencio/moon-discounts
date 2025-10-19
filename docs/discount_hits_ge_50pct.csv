@@ -6,6 +6,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,14,706120.0,9,3,Deathless,garner
 100.0,22011,Gemof Sout,20,706120.0,9,1,monchito1,bowepelu
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
+100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,170834.58,5,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,28769.92,3,9,monchito1,bowepelu
 100.0,25525,,7,177040.89,4,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
@@ -27,8 +28,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25060,Cocobolo Log,3,11075.99,3,11,reserv,COCOBOLO LOGS
 99.97,25452,Rock Gem Fragment,9,26203.37,7,10,yuiy78,Rock Gem
 99.96,25452,Rock Gem Fragment,10,26203.37,7,1,Goliat,Fragment Store
-99.85,26326,Elven Royal Signet,1,684.02,9,199,Dad,ez
-99.85,26326,Elven Royal Signet,1,684.02,9,197,Dad,ez
 94.47,26564,Meditation Potion,40,723.37,3,28,BLaCKMooN,X_X
 93.09,26564,Meditation Potion,50,723.37,3,200,lamamandoski,super cheap
 85.77,30121,Vial of Accuracy Reset,555,3899.0,8,11,NainBASTARD,xxx
@@ -36,7 +35,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.6,22004,Shining Gem,555,2593.28,6,61,NainBASTARD,xxx
 77.38,25440,Evanescence Stone,200,884.13,6,1,BL4CKM4RK3T,cheap stuff
 74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-72.63,22001,Furious Gem,555,2027.99,11,29,NainBASTARD,xxx
+72.76,22001,Furious Gem,555,2037.09,11,29,NainBASTARD,xxx
 71.15,25527,,10,34.67,3,1,Deathless,garner
 69.47,25452,Rock Gem Fragment,8000,26203.37,7,1,ESNAIDER,SELL JACKPOT/REF/PPS/GPS
 65.31,2301,,11111,32033.69,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -54,6 +53,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.45,27029,Ship Penetrator Lv1,250,561.2,4,37,Lja,garner
 52.38,28432,Fire Sealed Staff of Mirage,5000,10500.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
 52.07,26594,Novice Explosive Ball,200,417.24,6,1,PALA02,garner
+51.84,22016,Demonic Gem of Sout,16,33.22,4,1,Bankera,Demonic Soul
 51.28,26589,Potion of Bull,1162,2385.01,8,34,cFIB,cheap pots
-50.74,22001,Furious Gem,999,2027.99,11,23,cheapcheapcheap,cheap
-50.69,22001,Furious Gem,1000,2027.99,11,10,011,cleaning
+50.96,22001,Furious Gem,999,2037.09,11,21,cheapcheapcheap,cheap
+50.91,22001,Furious Gem,1000,2037.09,11,10,011,cleaning
