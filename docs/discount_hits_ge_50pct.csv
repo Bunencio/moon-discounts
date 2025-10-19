@@ -1,26 +1,32 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,20,1328573.71,4,1,zzzzz,s
-100.0,22010,Gem of Rage,23,711125.39,5,4,Sysh,SELL SOME GEMS
-100.0,22010,Gem of Rage,21,711125.39,5,8,Happyman,UG RAGE | JADE | FAIRIES
-100.0,22011,Gemof Sout,15,375788.3,7,15,jejejeje,Magic gems
-100.0,22011,Gemof Sout,14,375788.3,7,3,Deathless,garner
+100.0,22010,Gem of Rage,23,849912.85,6,4,Sysh,SELL SOME GEMS
+100.0,22010,Gem of Rage,21,849912.85,6,8,Happyman,UG RAGE | JADE | FAIRIES
+100.0,22011,Gemof Sout,15,398045.86,7,15,jejejeje,Magic gems
+100.0,22011,Gemof Sout,14,398045.86,7,3,Deathless,garner
+100.0,22016,Demonic Gem of Sout,17,533273.5,6,1,Jew,yes
+100.0,22016,Demonic Gem of Sout,17,533273.5,6,4,jejejeje,Magic gems
+100.0,22016,Demonic Gem of Sout,19,533273.5,6,2,Babi02,ty
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,179231.85,6,5,Coffi,garner
 100.0,25452,Rock Gem Fragment,1,35258.06,10,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 100.0,26585,Blessed Potion,1,83643.88,6,10,Systembuff,x
-99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,modo compa mi guerra
+99.99,22011,Gemof Sout,20,398045.86,7,1,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,10,CocoZap,Jade Gem Fragments
 99.99,25451,Jade Gem Fragment,1,16815.63,4,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 99.99,25452,Rock Gem Fragment,2,35258.06,10,17,monchito1,modo compa mi guerra
 99.99,25452,Rock Gem Fragment,2,35258.06,10,1,Coffi,garner
+99.99,28429,Dance of Evanescence,75,742238.89,5,1,SnowCr4sh,DOE X2
+99.99,28429,Dance of Evanescence,75,742238.89,5,1,SnowCr4sh,DOE X2
 99.98,25060,Cocobolo Log,3,15896.06,5,40,ebashuloxov,cocobolo
+99.97,22016,Demonic Gem of Sout,160,533273.5,6,1,iTonik,10x Crystal
 99.97,25452,Rock Gem Fragment,9,35258.06,10,10,yuiy78,Rock Gem
 99.97,25452,Rock Gem Fragment,10,35258.06,10,1,Goliat,Fragment Store
-94.27,26564,Meditation Potion,40,697.59,3,28,Skills,x_X    Free    *_*    Free   X_x
-92.83,26564,Meditation Potion,50,697.59,3,13,labubu25,hearts crab pot
-92.83,26564,Meditation Potion,50,697.59,3,200,lamamandoski,super cheap
+94.24,26564,Meditation Potion,40,694.36,3,28,Skills,x_X    Free    *_*    Free   X_x
+92.8,26564,Meditation Potion,50,694.36,3,13,labubu25,hearts crab pot
+92.8,26564,Meditation Potion,50,694.36,3,200,lamamandoski,super cheap
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,JACKPOT COINS
 85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
 79.15,22004,Shining Gem,555,2662.32,8,61,NainBASTARD,xxx
@@ -30,13 +36,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 72.01,29062,Field Brew,30,107.18,4,99,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
 71.15,25527,,10,34.67,3,1,Deathless,garner
-70.64,26588,Potion of Eagle,750,2554.21,10,18,ZafirRose,cheap
-69.25,26591,Potion of Lion,750,2439.11,10,11,ZafirRose,cheap
+69.94,26588,Potion of Eagle,750,2494.86,11,18,ZafirRose,cheap
+68.54,26591,Potion of Lion,750,2383.69,11,11,ZafirRose,cheap
 66.19,22004,Shining Gem,900,2662.32,8,2,Mambanegra,lust/glowing/shining/spirit gem
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
 63.9,28403,Blade of Incantation,95000,263124.75,7,1,BeIa,Uns 45 Cruz cheap
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
-63.64,28326,Divine Grace Cap,30000,82499.75,4,1,ZafirRose,cheap
+63.27,28326,Divine Grace Cap,30000,81666.33,3,1,ZafirRose,cheap
 62.44,22004,Shining Gem,1000,2662.32,8,18,011,cleaning
 61.03,22000,FieryGem,1000,2566.12,16,4,MushroomShop8,Normal Gems
 55.79,29058,20 Crafting EXP Card,800,1809.52,3,1,Skills,x_X    Free    *_*    Free   X_x
@@ -45,7 +51,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.79,22001,Furious Gem,1000,2212.1,11,10,011,cleaning
 54.79,22001,Furious Gem,1000,2212.1,11,3,MushroomShop8,Normal Gems
 52.72,25503,Magical Stone,100,211.5,6,24,xVENDORx,RUSH
-51.94,22016,Demonic Gem of Sout,17,35.38,3,1,Jew,yes
-51.94,22016,Demonic Gem of Sout,17,35.38,3,4,jejejeje,Magic gems
 51.39,26594,Novice Explosive Ball,200,411.48,6,1,PALA02,doe uns  greaves  app bow  wings
-50.4,26589,Potion of Bull,1162,2342.64,11,34,cFIB,cheap pots
