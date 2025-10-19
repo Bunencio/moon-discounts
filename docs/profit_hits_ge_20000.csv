@@ -18,7 +18,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,25060,Cocobolo Log,ebashuloxov,cocobolo,3,15896.06,15893.06,40,635722.57,99.98,5
 2025-10-19,25452,Rock Gem Fragment,yuiy78,Rock Gem,9,35258.06,35249.06,10,352490.64,99.97,10
 2025-10-19,25452,Rock Gem Fragment,Goliat,Fragment Store,10,35258.06,35248.06,1,35248.06,99.97,10
-2025-10-19,26564,Meditation Potion,lamamandoski,super cheap,50,709.84,659.84,200,131967.09,92.96,3
+2025-10-19,26564,Meditation Potion,lamamandoski,super cheap,50,706.49,656.49,200,131298.34,92.92,3
 2025-10-19,28327,Great Aqua Cap,Humm,JACKPOT COINS,125000,974999.75,849999.75,1,849999.75,87.18,4
 2025-10-19,30121,Vial of Accuracy Reset,NainBASTARD,xxx,555,3932.37,3377.37,11,37151.05,85.89,10
 2025-10-19,22004,Shining Gem,NainBASTARD,xxx,555,2662.32,2107.32,61,128546.43,79.15,8
@@ -65,7 +65,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,26590,Potion of Soul,MatsBk,S>Imps/pps/jc/dust/rep/more,2200,2768.62,568.62,38,21607.65,20.54,7
 2025-10-19,28327,Great Aqua Cap,WhereIsMyBraSize,sefse,775000,974999.75,199999.75,1,199999.75,20.51,4
 2025-10-19,26326,Elven Royal Signet,hunterx,ug wind/knife/fb/bp/pots/xp,699,877.31,178.31,200,35662.51,20.32,9
-2025-10-19,25534,,tiendaonline,offer offer offer,3299,4083.86,784.86,63,49446.46,19.22,14
+2025-10-19,25534,,tiendaonline,offer offer offer,3299,4093.41,794.41,63,50048.03,19.41,13
 2025-10-19,30102,1000 Reputation Scroll,Saller,ty,7000,8657.59,1657.59,83,137579.99,19.15,6
 2025-10-19,30102,1000 Reputation Scroll,Saller,ty,7000,8657.59,1657.59,19,31494.21,19.15,6
 2025-10-19,26344,Novice Weightless Potion,STAII,CHEAP,2990,3689.31,699.31,34,23776.69,18.96,5
@@ -75,7 +75,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,27025,Radiation Lv1,SellMe,cheap items,2000,2373.42,373.42,90,33607.67,15.73,4
 2025-10-19,26589,Potion of Bull,STAII,CHEAP,1990,2349.83,359.83,115,41380.69,15.31,11
 2025-10-19,26589,Potion of Bull,011,cleaning,2000,2349.83,349.83,70,24488.25,14.89,11
-2025-10-19,25534,,Dreamify,FRAGMENTS OF FRAGMENTATION,3490,4083.86,593.86,40,23754.58,14.54,14
+2025-10-19,25534,,Dreamify,FRAGMENTS OF FRAGMENTATION,3490,4093.41,603.41,40,24136.52,14.74,13
 2025-10-19,28454,Ice Sealed Blade of Enigma,OsToWBaby,ALL ITEMS 40-60,400000,455000.0,55000.0,1,55000.0,12.09,4
 2025-10-19,27034,Grenade Lv2,OverTarget,Iron Brew 7.7K/ Grenade Lv2 2K,2000,2260.42,260.42,85,22135.74,11.52,8
 2025-10-19,26591,Potion of Lion,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60,2200,2440.75,240.75,117,28167.59,9.86,10
@@ -86,15 +86,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,26346,Lantern,SeventhHeaven,Cards/Lantern,4000,4351.52,351.52,190,66789.42,8.08,9
 2025-10-19,30140,10x Crystal,PUTANG,LAST CHEAP IMPS IN SERVER,10900,11742.65,842.65,25,21066.36,7.18,3
 2025-10-19,26576,Iron Brew,GordanRamsay,Cheapest Aegis Sorc Iron Warlord,7400,7750.51,350.51,76,26638.59,4.52,6
-2025-10-19,27017,Sorcerer's Wine,DwShops,the finest cookings for DW,10999,11513.63,514.63,85,43743.42,4.47,6
-2025-10-19,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,11000,11513.63,513.63,178,91425.87,4.46,6
+2025-10-19,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,11000,11476.96,476.96,178,84898.16,4.16,5
+2025-10-19,27017,Sorcerer's Wine,DwShops,the finest cookings for DW,10999,11476.96,477.96,85,40626.25,4.16,5
 2025-10-19,26504,Blessed Berry,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,9999,10405.41,406.41,135,54865.38,3.91,3
 2025-10-19,25525,,Hasbi,sell,380000,394615.04,14615.04,6,87690.23,3.7,3
 2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7233.48,234.48,200,46895.98,3.24,10
 2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7233.48,234.48,154,36109.91,3.24,10
 2025-10-19,26576,Iron Brew,ChocolateDaddy,Supplies,7500,7750.51,250.51,99,24800.26,3.23,6
-2025-10-19,26578,Aegis Brew,Mamii,BETTER THAN TOTEMS HE SUCKS,55000,56796.05,1796.05,15,26940.79,3.16,4
 2025-10-19,26345,Elven Potion,EIlIIliah,elven potion cheap,5099,5244.29,145.29,193,28040.08,2.77,5
 2025-10-19,27020,Gold Pirate Scroll,cheapstuffguys,cheap,27000,27640.07,640.07,48,30723.2,2.32,3
 2025-10-19,30139,100x Crystal,Aois,STALL,102000,104386.47,2386.47,14,33410.53,2.29,6
-2025-10-19,26578,Aegis Brew,GordanRamsay,Cheapest Aegis Sorc Iron Warlord,56000,56796.05,796.05,43,34230.26,1.4,4
