@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,20,1328573.71,4,1,zzzzz,s
-100.0,22010,Gem of Rage,21,772649.59,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,772649.59,5,8,Happyman,UG RAGE | JADE | FAIRIES
+100.0,22010,Gem of Rage,21,563068.11,4,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,563068.11,4,8,Happyman,UG RAGE | JADE | FAIRIES
 100.0,22011,Gemof Sout,20,857312.23,6,1,monchito1,modo compa mi guerra
 100.0,22011,Gemof Sout,14,857312.23,6,3,Deathless,garner
 100.0,22016,Demonic Gem of Sout,17,799901.75,6,1,Jew,yes
@@ -9,37 +9,38 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,179231.85,6,5,Coffi,garner
-100.0,25452,Rock Gem Fragment,1,36024.33,9,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
+100.0,25452,Rock Gem Fragment,1,35257.87,9,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,35257.87,9,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 100.0,25525,,4,379999.71,4,1,xTrueHistory,ShadowCrystal/ChaosJewellFrag
 100.0,26585,Blessed Potion,1,81930.88,6,10,Systembuff,x
 99.99,25451,Jade Gem Fragment,1,16815.63,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,10,CocoZap,Jade Gem Fragments
 99.99,25451,Jade Gem Fragment,1,16815.63,4,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
-99.99,25452,Rock Gem Fragment,2,36024.33,9,17,monchito1,modo compa mi guerra
-99.99,25452,Rock Gem Fragment,2,36024.33,9,1,Coffi,garner
+99.99,25452,Rock Gem Fragment,2,35257.87,9,17,monchito1,modo compa mi guerra
+99.99,25452,Rock Gem Fragment,2,35257.87,9,1,Coffi,garner
 99.99,28429,Dance of Evanescence,70,745017.5,5,1,SnowCr4sh,DOE PET
 99.99,28429,Dance of Evanescence,70,745017.5,5,1,SnowCr4sh,DOE PET
 99.98,22016,Demonic Gem of Sout,160,799901.75,6,1,iTonik,10x Crystal
 99.98,25060,Cocobolo Log,3,15907.24,6,40,ebashuloxov,cocobolo
-99.98,25452,Rock Gem Fragment,9,36024.33,9,10,yuiy78,Rock Gem
+99.97,25452,Rock Gem Fragment,9,35257.87,9,10,yuiy78,Rock Gem
 96.23,2302,,500,13261.62,4,1,25Lunarangel25,bb fruit
 95.48,2302,,599,13261.62,4,1,25Lunarangel25,bb fruit
+90.7,25416,Cloud Heart,2000,21500.0,4,1,TuoTuo,Cleaning Bank
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,4 SPR CLERIC HAT CHEAP
 84.05,30121,Vial of Accuracy Reset,555,3478.62,10,11,NainBASTARD,xxx
 80.4,2301,,6000,30618.0,9,1,idex,8888
 77.05,22004,Shining Gem,555,2417.99,7,61,NainBASTARD,xxx
 76.0,28036,Emerald Shield,10000,41666.67,3,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
-74.71,22000,FieryGem,555,2194.74,14,34,NainBASTARD,xxx
+74.79,22000,FieryGem,555,2201.71,14,34,NainBASTARD,xxx
 74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-72.06,22001,Furious Gem,555,1986.62,10,29,NainBASTARD,xxx
+72.11,22001,Furious Gem,555,1990.27,11,29,NainBASTARD,xxx
 72.01,29062,Field Brew,30,107.18,4,99,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
 71.15,25527,,10,34.67,3,1,Deathless,garner
 68.56,26588,Potion of Eagle,750,2385.8,11,18,ZafirRose,cheap
 68.45,27033,Radar Lv!,300,950.84,4,9,BossLiam,very cheap
 67.34,2301,,10000,30618.0,9,1,ZafirRose,cheap
+65.72,26591,Potion of Lion,750,2187.66,10,11,ZafirRose,cheap
 65.22,30118,Vial of Strength Reset,2000,5749.75,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
-65.12,26591,Potion of Lion,750,2150.51,11,11,ZafirRose,cheap
-63.98,28403,Blade of Incantation,95000,263749.88,8,1,BeIa,Uns 45 Cruz cheap
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.71,2301,,11111,30618.0,9,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 63.71,2301,,11111,30618.0,9,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -51,14 +52,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.71,2301,,11111,30618.0,9,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 63.27,28326,Divine Grace Cap,30000,81666.33,3,1,ZafirRose,cheap
 62.78,22004,Shining Gem,900,2417.99,7,2,Mambanegra,lust/glowing/shining/spirit gem
+61.11,28403,Blade of Incantation,95000,244285.57,7,1,BeIa,Uns 45 Cruz cheap
 58.64,22004,Shining Gem,1000,2417.99,7,18,011,cleaning
 58.38,25503,Magical Stone,100,240.28,8,24,xVENDORx,RUSH
-55.79,29058,20 Crafting EXP Card,800,1809.52,3,1,Skills,x_X    Free    *_*    Free   X_x
-54.7,22003,Glowing Gem,990,2185.25,5,25,STAII,CHEAP GEMS   POTS
-54.44,22000,FieryGem,1000,2194.74,14,4,MushroomShop8,Normal Gems
-54.24,22003,Glowing Gem,1000,2185.25,5,14,Mambanegra,lust/glowing/shining/spirit gem
-54.24,22003,Glowing Gem,1000,2185.25,5,6,011,cleaning
-54.24,22003,Glowing Gem,1000,2185.25,5,6,MushroomShop8,Normal Gems
+56.54,29058,20 Crafting EXP Card,800,1840.91,4,1,Skills,x_X    Free    *_*    Free   X_x
+54.66,22003,Glowing Gem,990,2183.61,5,25,STAII,CHEAP GEMS   POTS
+54.58,22000,FieryGem,1000,2201.71,14,4,MushroomShop8,Normal Gems
+54.2,22003,Glowing Gem,1000,2183.61,5,14,Mambanegra,lust/glowing/shining/spirit gem
+54.2,22003,Glowing Gem,1000,2183.61,5,6,011,cleaning
+54.2,22003,Glowing Gem,1000,2183.61,5,6,MushroomShop8,Normal Gems
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
 51.01,2301,,15000,30618.0,9,1,BLaCKMooN,X_X
 50.21,26594,Novice Explosive Ball,200,401.67,5,1,PALA02,garner
