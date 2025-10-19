@@ -1,25 +1,25 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1162503.88,5,1,Pescadora,GEM OF STRIKING QUITTING PRICE
 100.0,22007,Gem of Striking,20,1162503.88,5,1,zzzzz,garner
-100.0,22011,Gemof Sout,12,387803.31,9,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,22011,Gemof Sout,15,387803.31,9,15,jejejeje,Magic gems
-100.0,22011,Gemof Sout,14,387803.31,9,3,Deathless,garner
+100.0,22011,Gemof Sout,12,362367.71,8,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,22011,Gemof Sout,15,362367.71,8,15,jejejeje,Magic gems
+100.0,22011,Gemof Sout,14,362367.71,8,3,Deathless,garner
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,170834.58,5,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,38176.82,5,9,monchito1,bowepelu
 100.0,25525,,7,228002.74,4,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
-100.0,26585,Blessed Potion,1,81101.75,5,10,Systembuff,Bless/pet con/rings con++
+100.0,26585,Blessed Potion,1,81101.75,5,10,Systembuff,x
 100.0,28136,Crown of Decendant,5,716668.33,3,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,498002.8,3,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,498002.8,3,1,jajaaaaja,sell
-100.0,29314,Ring of Angelic,4,188002.8,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,29314,Ring of Angelic,4,188002.8,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,29314,Ring of Angelic,5,188002.8,4,1,Systembuff,Bless/pet con/rings con++
-100.0,29314,Ring of Angelic,5,188002.8,4,1,Systembuff,Bless/pet con/rings con++
-100.0,29314,Ring of Angelic,5,188002.8,4,1,Paaches,Voy Unseal 65 | Con Gems | Stuff
-100.0,29314,Ring of Angelic,5,188002.8,4,1,Paaches,Voy Unseal 65 | Con Gems | Stuff
-99.99,22011,Gemof Sout,20,387803.31,9,1,monchito1,bowepelu
+100.0,28429,Dance of Evanescence,7,741430.57,4,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,7,741430.57,4,1,jajaaaaja,sell
+100.0,29314,Ring of Angelic,4,188002.6,4,1,Systembuff,x
+100.0,29314,Ring of Angelic,4,188002.6,4,1,Systembuff,x
+100.0,29314,Ring of Angelic,4,188002.6,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,29314,Ring of Angelic,4,188002.6,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,29314,Ring of Angelic,5,188002.6,4,1,Paaches,Voy Unseal 65 | Con Gems | Stuff
+100.0,29314,Ring of Angelic,5,188002.6,4,1,Paaches,Voy Unseal 65 | Con Gems | Stuff
+99.99,22011,Gemof Sout,20,362367.71,8,1,monchito1,bowepelu
 99.99,25452,Rock Gem Fragment,2,33586.61,7,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 99.99,25452,Rock Gem Fragment,2,33586.61,7,12,monchito1,bowepelu
 99.99,29310,Ring of Hawk,45,316681.33,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
@@ -46,6 +46,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
 63.64,28326,Divine Grace Cap,30000,82499.75,4,1,ZafirRose,cheap
 63.22,22004,Shining Gem,1000,2718.56,6,18,011,cleaning
+61.78,28403,Blade of Incantation,100000,261666.56,9,1,BeIa,Uns 45 Cruz /Ref / GBS
 60.72,26588,Potion of Eagle,1000,2545.83,9,2,PALA02,garner
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -56,13 +57,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 58.11,26591,Potion of Lion,1000,2387.4,12,2,PALA02,garner
-58.01,28403,Blade of Incantation,100000,238124.88,8,1,BeIa,Uns 45 Cruz /Ref / GBS
 55.56,25498,Black Colorant,2000,4500.0,3,1,cheapcheapcheap,cheap
 55.05,22001,Furious Gem,999,2222.43,11,21,cheapcheapcheap,cheap
 55.0,22001,Furious Gem,1000,2222.43,11,10,011,cleaning
-52.6,25056,Willow Wood Log,298,628.69,6,85,YatoroGod,WILLOW/COAL/RED ORE MINION QUEST
-52.44,25056,Willow Wood Log,299,628.69,6,89,BestSeller,WOODS FOE SALE!
+54.14,28403,Blade of Incantation,120000,261666.56,9,1,BeIa,Uns 45 Cruz /Ref / GBS
 52.16,26594,Novice Explosive Ball,200,418.05,7,1,PALA02,garner
 51.84,22016,Demonic Gem of Sout,16,33.22,4,1,Bankera,Demonic Soul
-50.69,25056,Willow Wood Log,310,628.69,6,60,satzstall2,satz staller
 50.61,26589,Potion of Bull,1162,2352.65,11,34,cFIB,cheap pots
