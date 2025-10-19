@@ -12,12 +12,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,7,177040.89,4,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,26585,Blessed Potion,1,83704.2,6,10,Systembuff,Bless/pet con/rings con++
 100.0,28136,Crown of Decendant,5,716668.33,3,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,690002.0,4,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,690002.0,4,1,jajaaaaja,sell
-100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,29314,Ring of Angelic,5,235002.25,4,1,Systembuff,Bless/pet con/rings con++
-100.0,29314,Ring of Angelic,5,235002.25,4,1,Systembuff,Bless/pet con/rings con++
+100.0,28327,Great Aqua Cap,10,993752.5,4,1,Paaches,Voy Unseal 65 | Con Gems | Stuff
+100.0,28429,Dance of Evanescence,7,628751.75,5,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,7,628751.75,5,1,jajaaaaja,sell
+100.0,29314,Ring of Angelic,4,188002.8,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,29314,Ring of Angelic,4,188002.8,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,29314,Ring of Angelic,5,188002.8,4,1,Systembuff,Bless/pet con/rings con++
+100.0,29314,Ring of Angelic,5,188002.8,4,1,Systembuff,Bless/pet con/rings con++
+100.0,29314,Ring of Angelic,5,188002.8,4,1,Paaches,Voy Unseal 65 | Con Gems | Stuff
+100.0,29314,Ring of Angelic,5,188002.8,4,1,Paaches,Voy Unseal 65 | Con Gems | Stuff
 99.99,25452,Rock Gem Fragment,2,26203.37,7,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 99.99,25452,Rock Gem Fragment,2,26203.37,7,12,monchito1,bowepelu
 99.99,29310,Ring of Hawk,45,316681.33,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
@@ -28,11 +31,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25060,Cocobolo Log,3,11693.81,3,11,reserv,COCOBOLO LOGS
 99.97,25452,Rock Gem Fragment,9,26203.37,7,10,yuiy78,Rock Gem
 99.96,25452,Rock Gem Fragment,10,26203.37,7,1,Goliat,Fragment Store
-94.39,26564,Meditation Potion,40,712.38,3,28,BLaCKMooN,X_X
-92.98,26564,Meditation Potion,50,712.38,3,13,labubu25,hearts crab pot
-92.98,26564,Meditation Potion,50,712.38,3,200,lamamandoski,super cheap
 85.81,30121,Vial of Accuracy Reset,555,3911.73,9,11,NainBASTARD,xxx
-80.12,2301,,6000,30174.14,7,1,idex,8888
+80.74,2301,,6000,31145.23,6,1,idex,8888
 78.6,22004,Shining Gem,555,2593.28,6,61,NainBASTARD,xxx
 78.23,22000,FieryGem,555,2549.22,12,34,NainBASTARD,xxx
 77.38,25440,Evanescence Stone,200,884.13,6,1,BL4CKM4RK3T,cheap stuff
@@ -40,22 +40,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.61,22001,Furious Gem,555,2026.33,11,29,NainBASTARD,xxx
 71.15,25527,,10,34.67,3,1,Deathless,garner
 69.47,25452,Rock Gem Fragment,8000,26203.37,7,1,ESNAIDER,SELL JACKPOT/REF/PPS/GPS
+64.33,2301,,11111,31145.23,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+64.33,2301,,11111,31145.23,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+64.33,2301,,11111,31145.23,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+64.33,2301,,11111,31145.23,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+64.33,2301,,11111,31145.23,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+64.33,2301,,11111,31145.23,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+64.33,2301,,11111,31145.23,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+64.33,2301,,11111,31145.23,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
-64.21,28403,Blade of Incantation,100000,279444.44,8,1,BeIa,Uns 45 Cruz /Ref / GBS
-63.18,2301,,11111,30174.14,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-63.18,2301,,11111,30174.14,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-63.18,2301,,11111,30174.14,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-63.18,2301,,11111,30174.14,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-63.18,2301,,11111,30174.14,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-63.18,2301,,11111,30174.14,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-63.18,2301,,11111,30174.14,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-63.18,2301,,11111,30174.14,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 61.44,22004,Shining Gem,1000,2593.28,6,18,011,cleaning
-57.06,28403,Blade of Incantation,120000,279444.44,8,1,BeIa,Uns 45 Cruz /Ref / GBS
+59.18,28403,Blade of Incantation,100000,245000.0,7,1,BeIa,Uns 45 Cruz /Ref / GBS
 55.45,27029,Ship Penetrator Lv1,250,561.2,4,37,Lja,garner
 52.38,28432,Fire Sealed Staff of Mirage,5000,10500.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
-52.09,26594,Novice Explosive Ball,200,417.49,7,1,PALA02,garner
+52.09,26594,Novice Explosive Ball,200,417.44,7,1,PALA02,garner
 51.84,22016,Demonic Gem of Sout,16,33.22,4,1,Bankera,Demonic Soul
-51.28,26589,Potion of Bull,1162,2385.01,8,34,cFIB,cheap pots
+51.27,26589,Potion of Bull,1162,2384.42,9,34,cFIB,cheap pots
+51.02,28403,Blade of Incantation,120000,245000.0,7,1,BeIa,Uns 45 Cruz /Ref / GBS
 50.7,22001,Furious Gem,999,2026.33,11,21,cheapcheapcheap,cheap
 50.65,22001,Furious Gem,1000,2026.33,11,10,011,cleaning
