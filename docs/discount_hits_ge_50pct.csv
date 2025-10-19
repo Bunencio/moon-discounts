@@ -11,7 +11,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,179231.85,6,5,Coffi,garner
 100.0,25452,Rock Gem Fragment,1,35258.06,10,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
-100.0,26585,Blessed Potion,1,83643.88,6,10,Systembuff,x
+100.0,26585,Blessed Potion,1,82580.99,6,10,Systembuff,x
 99.99,22011,Gemof Sout,20,398045.86,7,1,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,10,CocoZap,Jade Gem Fragments
@@ -22,6 +22,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,22016,Demonic Gem of Sout,160,533273.5,6,1,iTonik,10x Crystal
 99.97,25452,Rock Gem Fragment,9,35258.06,10,10,yuiy78,Rock Gem
 99.97,25452,Rock Gem Fragment,10,35258.06,10,1,Goliat,Fragment Store
+96.23,2302,,500,13261.62,4,1,25Lunarangel25,bb fruit
+95.48,2302,,599,13261.62,4,1,25Lunarangel25,bb fruit
 94.24,26564,Meditation Potion,40,694.36,3,28,Skills,x_X    Free    *_*    Free   X_x
 92.8,26564,Meditation Potion,50,694.36,3,13,labubu25,hearts crab pot
 92.8,26564,Meditation Potion,50,694.36,3,200,lamamandoski,super cheap
@@ -43,7 +45,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.27,28326,Divine Grace Cap,30000,81666.33,3,1,ZafirRose,cheap
 62.78,22004,Shining Gem,900,2417.99,7,2,Mambanegra,lust/glowing/shining/spirit gem
-61.38,25258,Spirit Feather,99,256.32,7,3,DiscipleTwo,CHEAPEST POSSIBLE PPS BPS SS STF
 58.64,22004,Shining Gem,1000,2417.99,7,18,011,cleaning
 58.34,22000,FieryGem,1000,2400.45,15,4,MushroomShop8,Normal Gems
 57.56,2301,,10000,23563.43,7,1,ZafirRose,cheap
@@ -53,6 +54,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.24,22003,Glowing Gem,1000,2185.25,5,14,Mambanegra,lust/glowing/shining/spirit gem
 54.24,22003,Glowing Gem,1000,2185.25,5,6,011,cleaning
 54.24,22003,Glowing Gem,1000,2185.25,5,6,MushroomShop8,Normal Gems
+53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
 52.85,2301,,11111,23563.43,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 52.85,2301,,11111,23563.43,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 52.85,2301,,11111,23563.43,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
