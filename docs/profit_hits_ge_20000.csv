@@ -18,7 +18,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,25060,Cocobolo Log,ebashuloxov,cocobolo,3,15896.06,15893.06,40,635722.57,99.98,5
 2025-10-19,25452,Rock Gem Fragment,yuiy78,Rock Gem,9,35258.06,35249.06,10,352490.64,99.97,10
 2025-10-19,25452,Rock Gem Fragment,Goliat,Fragment Store,10,35258.06,35248.06,1,35248.06,99.97,10
-2025-10-19,26564,Meditation Potion,lamamandoski,super cheap,50,712.38,662.38,200,132476.79,92.98,3
+2025-10-19,26564,Meditation Potion,lamamandoski,super cheap,50,709.84,659.84,200,131967.09,92.96,3
 2025-10-19,28327,Great Aqua Cap,Humm,JACKPOT COINS,125000,974999.75,849999.75,1,849999.75,87.18,4
 2025-10-19,30121,Vial of Accuracy Reset,NainBASTARD,xxx,555,3932.37,3377.37,11,37151.05,85.89,10
 2025-10-19,22004,Shining Gem,NainBASTARD,xxx,555,2662.32,2107.32,61,128546.43,79.15,8
@@ -47,10 +47,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,30171,Ticket to Demonic World,dsadsa,weightless ration tix dw treasur,450,620.5,170.5,190,32395.18,27.48,5
 2025-10-19,25507,Expert Stone,VendedoraJequiti,standard stone / more stones,749,1021.38,272.38,99,26965.43,26.67,6
 2025-10-19,25507,Expert Stone,VendedoraJequiti,standard stone / more stones,749,1021.38,272.38,96,26148.3,26.67,6
+2025-10-19,28429,Dance of Evanescence,Barekkk,Cruz Rush,700000,954285.71,254285.71,1,254285.71,26.65,4
 2025-10-19,26588,Potion of Eagle,SvckMe,CHEAP POTIONNN,1888,2554.21,666.21,82,54629.49,26.08,10
 2025-10-19,25417,Moonlight Heart,Cheap,ASDASD,75000,101090.82,26090.82,1,26090.82,25.81,5
-2025-10-19,28429,Dance of Evanescence,PALA02,doe uns  greaves  app bow  wings,720000,961428.57,241428.57,1,241428.57,25.11,4
-2025-10-19,28429,Dance of Evanescence,PALA02,doe uns  greaves  app bow  wings,720000,961428.57,241428.57,1,241428.57,25.11,4
+2025-10-19,28429,Dance of Evanescence,PALA02,doe uns  greaves  app bow  wings,720000,954285.71,234285.71,1,234285.71,24.55,4
+2025-10-19,28429,Dance of Evanescence,PALA02,doe uns  greaves  app bow  wings,720000,954285.71,234285.71,1,234285.71,24.55,4
 2025-10-19,28403,Blade of Incantation,T3Teng,www,200000,263124.75,63124.75,1,63124.75,23.99,7
 2025-10-19,25420,Sunlight Heart,BpBuyer,Hearts Coins Crystals Coins !!!!,20000,26310.34,6310.34,9,56793.1,23.98,5
 2025-10-19,25094,Purple Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,1990,2579.24,589.24,90,53031.2,22.85,5
@@ -58,7 +59,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,25094,Purple Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@,2000,2579.24,579.24,54,31278.72,22.46,5
 2025-10-19,22000,FieryGem,STAII,CHEAP,1990,2566.12,576.12,53,30534.14,22.45,16
 2025-10-19,22000,FieryGem,BuySome,Buy Gayss,1999,2566.12,567.12,72,40832.34,22.1,16
-2025-10-19,28429,Dance of Evanescence,Barekkk,Cruz Equips,750000,961428.57,211428.57,1,211428.57,21.99,4
 2025-10-19,25507,Expert Stone,tiendaonline,offer offer offer,799,1021.38,222.38,99,22015.43,21.77,6
 2025-10-19,25507,Expert Stone,tiendaonline,offer offer offer,799,1021.38,222.38,99,22015.43,21.77,6
 2025-10-19,26588,Potion of Eagle,011,cleaning,2000,2554.21,554.21,45,24939.6,21.7,10
@@ -80,8 +80,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,27034,Grenade Lv2,OverTarget,Iron Brew 7.7K/ Grenade Lv2 2K,2000,2260.42,260.42,85,22135.74,11.52,8
 2025-10-19,26591,Potion of Lion,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60,2200,2440.75,240.75,117,28167.59,9.86,10
 2025-10-19,26576,Iron Brew,Cincar,Cincar pots,6999,7750.51,751.51,110,82665.85,9.7,6
-2025-10-19,28429,Dance of Evanescence,ZiggyMarley,Cheaper,870000,961428.57,91428.57,1,91428.57,9.51,4
-2025-10-19,28429,Dance of Evanescence,ZiggyMarley,Cheaper,870000,961428.57,91428.57,1,91428.57,9.51,4
+2025-10-19,28429,Dance of Evanescence,ZiggyMarley,Cheaper,870000,954285.71,84285.71,1,84285.71,8.83,4
+2025-10-19,28429,Dance of Evanescence,ZiggyMarley,Cheaper,870000,954285.71,84285.71,1,84285.71,8.83,4
 2025-10-19,26346,Lantern,Honey,---------  Pet  Fruits  --------,3999,4351.52,352.52,61,21503.92,8.1,9
 2025-10-19,26346,Lantern,SeventhHeaven,Cards/Lantern,4000,4351.52,351.52,190,66789.42,8.08,9
 2025-10-19,30140,10x Crystal,PUTANG,LAST CHEAP IMPS IN SERVER,10900,11742.65,842.65,25,21066.36,7.18,3
@@ -95,5 +95,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,26576,Iron Brew,ChocolateDaddy,Supplies,7500,7750.51,250.51,99,24800.26,3.23,6
 2025-10-19,26578,Aegis Brew,Mamii,BETTER THAN TOTEMS HE SUCKS,55000,56796.05,1796.05,15,26940.79,3.16,4
 2025-10-19,26345,Elven Potion,EIlIIliah,elven potion cheap,5099,5244.29,145.29,193,28040.08,2.77,5
+2025-10-19,27020,Gold Pirate Scroll,cheapstuffguys,cheap,27000,27640.07,640.07,48,30723.2,2.32,3
 2025-10-19,30139,100x Crystal,Aois,STALL,102000,104386.47,2386.47,14,33410.53,2.29,6
 2025-10-19,26578,Aegis Brew,GordanRamsay,Cheapest Aegis Sorc Iron Warlord,56000,56796.05,796.05,43,34230.26,1.4,4
