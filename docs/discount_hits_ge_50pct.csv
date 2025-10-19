@@ -12,7 +12,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,35257.87,9,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,1,35257.87,9,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 100.0,25525,,4,379999.71,4,1,xTrueHistory,ShadowCrystal/ChaosJewellFrag
-100.0,26585,Blessed Potion,1,81930.88,6,10,Systembuff,x
+100.0,26585,Blessed Potion,1,81726.67,6,10,Systembuff,x
 99.99,25451,Jade Gem Fragment,1,16815.63,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,10,CocoZap,Jade Gem Fragments
 99.99,25451,Jade Gem Fragment,1,16815.63,4,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
@@ -36,11 +36,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.11,22001,Furious Gem,555,1990.27,11,29,NainBASTARD,xxx
 72.01,29062,Field Brew,30,107.18,4,99,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
 71.15,25527,,10,34.67,3,1,Deathless,garner
-68.56,26588,Potion of Eagle,750,2385.8,11,18,ZafirRose,cheap
 68.45,27033,Radar Lv!,300,950.84,4,9,BossLiam,very cheap
+68.33,26588,Potion of Eagle,750,2368.12,12,18,ZafirRose,cheap
 67.34,2301,,10000,30618.0,9,1,ZafirRose,cheap
-65.72,26591,Potion of Lion,750,2187.66,10,11,ZafirRose,cheap
 65.22,30118,Vial of Strength Reset,2000,5749.75,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
+65.06,26591,Potion of Lion,750,2146.25,12,11,ZafirRose,cheap
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.71,2301,,11111,30618.0,9,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 63.71,2301,,11111,30618.0,9,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -61,6 +61,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.2,22003,Glowing Gem,1000,2183.61,5,14,Mambanegra,lust/glowing/shining/spirit gem
 54.2,22003,Glowing Gem,1000,2183.61,5,6,011,cleaning
 54.2,22003,Glowing Gem,1000,2183.61,5,6,MushroomShop8,Normal Gems
+53.85,26589,Potion of Bull,980,2123.49,10,34,cFIB,cheap
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
 51.01,2301,,15000,30618.0,9,1,BLaCKMooN,X_X
 50.21,26594,Novice Explosive Ball,200,401.67,5,1,PALA02,garner
