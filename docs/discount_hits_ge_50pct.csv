@@ -7,12 +7,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,20,706120.0,9,1,monchito1,bowepelu
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,25426,Universe Purse Fragment.,4,161819.55,4,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
-100.0,25451,Jade Gem Fragment,1,46800.2,5,9,monchito1,bowepelu
+100.0,25451,Jade Gem Fragment,1,45316.0,4,9,monchito1,bowepelu
 100.0,25525,,7,250859.89,5,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
 100.0,26585,Blessed Potion,1,76979.96,5,10,Systembuff,Bless/pet con/rings con++
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,563335.67,3,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,563335.67,3,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,7,679287.71,4,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,7,679287.71,4,1,jajaaaaja,sell
 100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,29314,Ring of Angelic,5,235002.25,4,1,Systembuff,Bless/pet con/rings con++
@@ -30,8 +30,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25452,Rock Gem Fragment,10,33614.39,7,1,Goliat,Fragment Store
 99.85,26326,Elven Royal Signet,1,682.97,10,199,Dad,ez
 99.85,26326,Elven Royal Signet,1,682.97,10,197,Dad,ez
-94.39,26564,Meditation Potion,40,713.04,4,28,BLaCKMooN,X_X
-92.99,26564,Meditation Potion,50,713.04,4,200,lamamandoski,super cheap
+94.47,26564,Meditation Potion,40,723.37,3,28,BLaCKMooN,X_X
+93.09,26564,Meditation Potion,50,723.37,3,200,lamamandoski,super cheap
 85.91,30121,Vial of Accuracy Reset,555,3939.4,7,11,NainBASTARD,xxx
 80.95,28476,Ice Sealed Kris of the Sphinx,15000,78749.75,3,1,Winston,voy geras
 79.28,22000,FieryGem,555,2678.49,12,34,NainBASTARD,xxx
@@ -53,18 +53,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.31,2301,,11111,32033.69,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 65.31,2301,,11111,32033.69,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING ROCK CHEST MOON SUN CLO
+64.14,28403,Blade of Incantation,100000,278888.89,8,1,BeIa,Uns 45 Cruz /Ref / GBS
 63.15,25501,Brown Colorant,1000,2713.64,3,1,cheapstuffsell,cheap
 61.21,22004,Shining Gem,1000,2578.2,6,18,011,cleaning
 61.19,25498,Black Colorant,2000,5153.85,3,1,cheapcheapcheap,cheap
-59.18,28403,Blade of Incantation,100000,245000.0,7,1,BeIa,Uns 45 Cruz /Ref / GBS
 58.21,28326,Divine Grace Cap,35000,83749.75,4,1,ZafirRose,CHEAP
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,HAIRSTYLE
+56.97,28403,Blade of Incantation,120000,278888.89,8,1,BeIa,Uns 45 Cruz /Ref / GBS
 55.45,27029,Ship Penetrator Lv1,250,561.2,4,37,Lja,garner
 52.38,28432,Fire Sealed Staff of Mirage,5000,10500.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
-52.33,26589,Potion of Bull,1162,2437.75,9,34,cFIB,cheap pots
-51.91,26594,Novice Explosive Ball,200,415.9,6,3,PALA02,garner
+52.07,26594,Novice Explosive Ball,200,417.24,6,1,PALA02,garner
 51.61,28442,Fire Sealed Coat of Evanescence,15000,30999.75,4,1,Nixm,Cheap Lv50 Items all classes
+51.4,26589,Potion of Bull,1162,2390.75,9,34,cFIB,cheap pots
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
-51.02,28403,Blade of Incantation,120000,245000.0,7,1,BeIa,Uns 45 Cruz /Ref / GBS
 50.57,22001,Furious Gem,999,2021.13,12,23,cheapcheapcheap,cheap
 50.52,22001,Furious Gem,1000,2021.13,12,10,011,cleaning
