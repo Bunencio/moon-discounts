@@ -1,5 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22007,Gem of Striking,20,1392859.43,4,1,zzzzz,garner
+100.0,22007,Gem of Striking,15,1218753.88,5,1,Pescadora,GEM OF STRIKING QUITTING PRICE
+100.0,22007,Gem of Striking,20,1218753.88,5,1,zzzzz,garner
 100.0,22011,Gemof Sout,15,706120.02,9,15,jejejeje,Magic gems
 100.0,22011,Gemof Sout,14,706120.02,9,3,Deathless,garner
 100.0,22011,Gemof Sout,20,706120.02,9,1,monchito1,bowepelu
@@ -8,7 +9,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25426,Universe Purse Fragment.,4,161819.55,4,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,46800.2,5,9,monchito1,bowepelu
 100.0,25525,,7,250859.89,5,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
-100.0,26585,Blessed Potion,1,80033.78,5,10,Systembuff,Bless/pet con/rings con++
+100.0,26585,Blessed Potion,1,79792.98,5,10,Systembuff,Bless/pet con/rings con++
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,640002.0,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,640002.0,4,1,jajaaaaja,sell
