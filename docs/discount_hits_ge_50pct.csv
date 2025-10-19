@@ -9,7 +9,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25426,Universe Purse Fragment.,4,161819.55,4,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,46800.2,5,9,monchito1,bowepelu
 100.0,25525,,7,250859.89,5,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
-100.0,26585,Blessed Potion,1,78629.52,5,10,Systembuff,Bless/pet con/rings con++
+100.0,26585,Blessed Potion,1,78226.32,5,10,Systembuff,Bless/pet con/rings con++
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,563335.67,3,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,563335.67,3,1,jajaaaaja,sell
@@ -28,7 +28,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25060,Cocobolo Log,3,11075.99,3,11,reserv,COCOBOLO LOGS
 99.97,25452,Rock Gem Fragment,9,33614.39,7,10,yuiy78,Rock Gem
 99.97,25452,Rock Gem Fragment,10,33614.39,7,1,Goliat,Fragment Store
-99.97,28470,Ice Sealed Rifle of Enigma,9,26669.33,3,1,stalling1,cheap cheap SS stuffs
 99.85,26326,Elven Royal Signet,1,682.97,10,199,Dad,ez
 99.85,26326,Elven Royal Signet,1,682.97,10,197,Dad,ez
 94.39,26564,Meditation Potion,40,713.04,4,28,BLaCKMooN,X_X
