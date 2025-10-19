@@ -1,5 +1,6 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-10-19,22011,Gemof Sout,jejejeje,Magic gems,15,362367.71,362352.71,15,5435290.71,100.0,8
+2025-10-19,22010,Gem of Rage,Happyman,UG RAGE | JADE | FAIRIES,21,433350.67,433329.67,8,3466637.33,100.0,4
 2025-10-19,25525,,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS,7,228002.74,227995.74,15,3419936.14,100.0,4
 2025-10-19,22306,,Jew,yes,10,799755.0,799745.0,2,1599490.0,100.0,3
 2025-10-19,22007,Gem of Striking,Pescadora,GEM OF STRIKING QUITTING PRICE,15,1162503.88,1162488.88,1,1162488.88,100.0,5
@@ -14,6 +15,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,28429,Dance of Evanescence,jajaaaaja,sell,7,355739.14,355732.14,1,355732.14,100.0,4
 2025-10-19,25451,Jade Gem Fragment,CocoZap,Jade Gem Fragments,1,24037.63,24036.63,10,240366.3,100.0,5
 2025-10-19,25451,Jade Gem Fragment,monchito1,bowepelu,1,24037.63,24036.63,9,216329.67,100.0,5
+2025-10-19,22010,Gem of Rage,Sysh,SELL SOME GEMS,23,433350.67,433327.67,4,1733310.67,99.99,4
 2025-10-19,25452,Rock Gem Fragment,monchito1,bowepelu,2,33586.61,33584.61,12,403015.33,99.99,7
 2025-10-19,22011,Gemof Sout,monchito1,bowepelu,20,362367.71,362347.71,1,362347.71,99.99,8
 2025-10-19,29310,Ring of Hawk,DemiMerchant,99c Item Mall/ Pet/Gems 99c,45,316681.33,316636.33,1,316636.33,99.99,3
@@ -25,9 +27,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,29323,Nimble Venturer,DemiMerchant,99c Item Mall/ Pet/Gems 99c,25,145005.75,144980.75,1,144980.75,99.98,4
 2025-10-19,25452,Rock Gem Fragment,yuiy78,Rock Gem,9,33586.61,33577.61,10,335776.11,99.97,7
 2025-10-19,25452,Rock Gem Fragment,Goliat,Fragment Store,10,33586.61,33576.61,1,33576.61,99.97,7
-2025-10-19,28327,Great Aqua Cap,RanqueWisss,Low Pricee,29999,825999.8,796000.8,1,796000.8,96.37,5
+2025-10-19,28327,Great Aqua Cap,Humm,JACKPOT COINS,125000,1025000.0,900000.0,1,900000.0,87.8,4
 2025-10-19,30121,Vial of Accuracy Reset,NainBASTARD,xxx,555,3932.37,3377.37,11,37151.05,85.89,10
-2025-10-19,28327,Great Aqua Cap,Humm,JACKPOT COINS,125000,825999.8,700999.8,1,700999.8,84.87,5
 2025-10-19,22004,Shining Gem,NainBASTARD,xxx,555,2718.56,2163.56,61,131977.31,79.58,6
 2025-10-19,22000,FieryGem,NainBASTARD,xxx,555,2629.68,2074.68,34,70539.19,78.89,14
 2025-10-19,2301,,idex,8888,6000,28068.31,22068.31,1,22068.31,78.62,6
@@ -55,6 +56,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,28403,Blade of Incantation,NecroManS,@@@@,169999,239444.22,69445.22,1,69445.22,29.0,9
 2025-10-19,30171,Ticket to Demonic World,dsadsa,weightless ration tix dw treasur,450,616.62,166.62,200,33324.57,27.02,6
 2025-10-19,26588,Potion of Eagle,SvckMe,CHEAP POTIONNN,1888,2545.83,657.83,82,53942.21,25.84,9
+2025-10-19,28327,Great Aqua Cap,WhereIsMyBraSize,sefse,775000,1025000.0,250000.0,1,250000.0,24.39,4
 2025-10-19,22000,FieryGem,STAII,CHEAP,1990,2629.68,639.68,53,33903.16,24.33,14
 2025-10-19,25420,Sunlight Heart,BpBuyer,Hearts Coins Crystals Coins !!!!,20000,26310.34,6310.34,9,56793.1,23.98,5
 2025-10-19,22000,FieryGem,BuySome,Buy Gayss,1999,2629.68,630.68,72,45409.12,23.98,14
@@ -85,9 +87,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,27034,Grenade Lv2,F0X01,Iron Brew 7.7K/ Grenade Lv2 2K,2000,2207.8,207.8,115,23897.21,9.41,7
 2025-10-19,28136,Crown of Decendant,Skip,wew,650000,716668.33,66668.33,1,66668.33,9.3,3
 2025-10-19,26591,Potion of Lion,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60,2200,2387.4,187.4,117,21925.97,7.85,12
-2025-10-19,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7213.12,547.12,46,25167.47,7.59,11
+2025-10-19,25031,Refining Gem,GBP,SELL CHEAP SELL CHEAP SELL CHEAP,6666,7212.29,546.29,46,25129.36,7.57,11
 2025-10-19,30140,10x Crystal,PUTANG,LAST CHEAP IMPS IN SERVER,10900,11739.61,839.61,25,20990.16,7.15,3
-2025-10-19,28327,Great Aqua Cap,WhereIsMyBraSize,sefse,775000,825999.8,50999.8,1,50999.8,6.17,5
 2025-10-19,26346,Lantern,Babi01,tyyyyy,4222,4493.12,271.12,96,26027.75,6.03,8
 2025-10-19,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,11000,11591.6,591.6,178,105305.24,5.1,6
 2025-10-19,26576,Iron Brew,GordanRamsay,Cheapest Aegis Sorc Iron Warlord,7400,7739.09,339.09,76,25771.02,4.38,6
@@ -98,7 +99,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,30156,Jackpot Coin,Humm,JACKPOT COINS,9999,10376.65,377.65,199,75151.49,3.64,5
 2025-10-19,26578,Aegis Brew,Mamii,BETTER THAN TOTEMS HE SUCKS,55000,56796.05,1796.05,15,26940.79,3.16,4
 2025-10-19,26576,Iron Brew,ChocolateDaddy,Supplies,7500,7739.09,239.09,99,23670.15,3.09,6
-2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7213.12,214.12,200,42823.76,2.97,11
-2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7213.12,214.12,174,37256.68,2.97,11
+2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7212.29,213.29,200,42658.11,2.96,11
+2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7212.29,213.29,174,37112.55,2.96,11
+2025-10-19,28327,Great Aqua Cap,AAA123,12313123131,1000000,1025000.0,25000.0,1,25000.0,2.44,4
 2025-10-19,26578,Aegis Brew,GordanRamsay,Cheapest Aegis Sorc Iron Warlord,56000,56796.05,796.05,43,34230.26,1.4,4
 2025-10-19,30139,100x Crystal,PUTANG,LAST CHEAP IMPS IN SERVER,103999,104538.1,539.1,47,25337.58,0.52,5

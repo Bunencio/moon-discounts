@@ -1,6 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1162503.88,5,1,Pescadora,GEM OF STRIKING QUITTING PRICE
 100.0,22007,Gem of Striking,20,1162503.88,5,1,zzzzz,garner
+100.0,22010,Gem of Rage,21,433350.67,4,8,Happyman,UG RAGE | JADE | FAIRIES
 100.0,22011,Gemof Sout,12,362367.71,8,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,22011,Gemof Sout,15,362367.71,8,15,jejejeje,Magic gems
 100.0,22011,Gemof Sout,14,362367.71,8,3,Deathless,garner
@@ -14,6 +15,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28136,Crown of Decendant,5,716668.33,3,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,355739.14,4,1,jajaaaaja,sell
 100.0,28429,Dance of Evanescence,7,355739.14,4,1,jajaaaaja,sell
+99.99,22010,Gem of Rage,23,433350.67,4,4,Sysh,SELL SOME GEMS
 99.99,22011,Gemof Sout,20,362367.71,8,1,monchito1,bowepelu
 99.99,25452,Rock Gem Fragment,2,33586.61,7,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 99.99,25452,Rock Gem Fragment,2,33586.61,7,12,monchito1,bowepelu
@@ -25,9 +27,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.97,25452,Rock Gem Fragment,9,33586.61,7,10,yuiy78,Rock Gem
 99.97,25452,Rock Gem Fragment,10,33586.61,7,1,Goliat,Fragment Store
-96.37,28327,Great Aqua Cap,29999,825999.8,5,1,RanqueWisss,Low Pricee
+87.8,28327,Great Aqua Cap,125000,1025000.0,4,1,Humm,JACKPOT COINS
 85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
-84.87,28327,Great Aqua Cap,125000,825999.8,5,1,Humm,JACKPOT COINS
 79.58,22004,Shining Gem,555,2718.56,6,61,NainBASTARD,xxx
 78.89,22000,FieryGem,555,2629.68,14,34,NainBASTARD,xxx
 78.62,2301,,6000,28068.31,6,1,idex,8888
