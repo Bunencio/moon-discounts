@@ -2,10 +2,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,20,1328573.71,4,1,zzzzz,s
 100.0,22010,Gem of Rage,21,563068.11,4,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22010,Gem of Rage,21,563068.11,4,8,Happyman,UG RAGE | JADE | FAIRIES
-100.0,22011,Gemof Sout,20,857312.23,6,1,monchito1,modo compa mi guerra
-100.0,22011,Gemof Sout,14,857312.23,6,3,Deathless,garner
-100.0,22016,Demonic Gem of Sout,17,799901.75,6,1,Jew,yes
-100.0,22016,Demonic Gem of Sout,19,799901.75,6,2,Babi02,ty
+100.0,22011,Gemof Sout,20,428662.62,7,1,monchito1,modo compa mi guerra
+100.0,22011,Gemof Sout,13,428662.62,7,13,jejejeje,GEMS
+100.0,22011,Gemof Sout,14,428662.62,7,3,Deathless,garner
+100.0,22016,Demonic Gem of Sout,17,533273.5,6,1,Jew,yes
+100.0,22016,Demonic Gem of Sout,17,533273.5,6,4,jejejeje,GEMS
+100.0,22016,Demonic Gem of Sout,19,533273.5,6,2,Babi02,ty
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,179231.85,6,5,Coffi,garner
@@ -20,8 +22,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,35257.87,9,1,Coffi,garner
 99.99,28429,Dance of Evanescence,70,745017.5,5,1,SnowCr4sh,DOE PET
 99.99,28429,Dance of Evanescence,70,745017.5,5,1,SnowCr4sh,DOE PET
-99.98,22016,Demonic Gem of Sout,160,799901.75,6,1,iTonik,10x Crystal
 99.98,25060,Cocobolo Log,3,15907.24,6,40,ebashuloxov,cocobolo
+99.97,22016,Demonic Gem of Sout,160,533273.5,6,1,iTonik,10x Crystal
 99.97,25452,Rock Gem Fragment,9,35257.87,9,10,yuiy78,Rock Gem
 96.23,2302,,500,13261.62,4,1,25Lunarangel25,bb fruit
 95.48,2302,,599,13261.62,4,1,25Lunarangel25,bb fruit
