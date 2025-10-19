@@ -7,17 +7,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,14,375788.3,7,3,Deathless,garner
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,22306,,10,799755.0,3,2,Jew,yes
-100.0,25452,Rock Gem Fragment,2,40233.74,8,12,monchito1,bowepelu
-100.0,26585,Blessed Potion,1,81101.75,5,10,Systembuff,x
-99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,bowepelu
+100.0,25426,Universe Purse Fragment.,4,178462.62,6,5,Coffi,garner
+100.0,26585,Blessed Potion,1,80090.96,5,10,Systembuff,x
+99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,modo compa mi guerra
+99.99,25451,Jade Gem Fragment,1,18917.46,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,18917.46,4,10,CocoZap,Jade Gem Fragments
-99.99,25451,Jade Gem Fragment,1,18917.46,4,9,monchito1,bowepelu
+99.99,25452,Rock Gem Fragment,2,34869.51,8,17,monchito1,modo compa mi guerra
+99.99,25452,Rock Gem Fragment,2,34869.51,8,1,Coffi,garner
 99.99,29310,Ring of Hawk,45,380008.6,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,25060,Cocobolo Log,3,15896.06,5,40,ebashuloxov,cocobolo
-99.98,25452,Rock Gem Fragment,9,40233.74,8,10,yuiy78,Rock Gem
-99.98,25452,Rock Gem Fragment,10,40233.74,8,1,Goliat,Fragment Store
 99.98,29323,Nimble Venturer,25,126674.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
+99.97,25452,Rock Gem Fragment,9,34869.51,8,10,yuiy78,Rock Gem
+99.97,25452,Rock Gem Fragment,10,34869.51,8,1,Goliat,Fragment Store
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,JACKPOT COINS
 85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
 79.45,22004,Shining Gem,555,2701.04,6,61,NainBASTARD,xxx
@@ -28,7 +30,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 71.15,25527,,10,34.67,3,1,Deathless,garner
 70.74,26588,Potion of Eagle,750,2563.63,8,18,ZafirRose,cheap
-69.04,26591,Potion of Lion,750,2422.61,10,11,ZafirRose,cheap
+69.27,26591,Potion of Lion,750,2440.75,10,11,ZafirRose,cheap
 66.78,29062,Field Brew,30,90.31,4,198,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
 64.37,2301,,10000,28068.31,6,1,ZafirRose,cheap
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
@@ -52,4 +54,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.79,22001,Furious Gem,1000,2212.1,11,10,011,cleaning
 54.79,22001,Furious Gem,1000,2212.1,11,3,MushroomShop8,Normal Gems
 51.84,22016,Demonic Gem of Sout,16,33.22,4,1,Bankera,Demonic Soul
-50.68,26589,Potion of Bull,1162,2355.87,11,34,cFIB,cheap pots
+50.57,26589,Potion of Bull,1162,2350.88,11,34,cFIB,cheap pots
