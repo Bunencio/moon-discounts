@@ -17,7 +17,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,35258.06,10,17,monchito1,modo compa mi guerra
 99.99,25452,Rock Gem Fragment,2,35258.06,10,1,Coffi,garner
 99.98,22016,Demonic Gem of Sout,160,799901.75,6,1,iTonik,10x Crystal
-99.98,25060,Cocobolo Log,3,16054.52,5,40,ebashuloxov,cocobolo
+99.98,25060,Cocobolo Log,3,15907.24,6,40,ebashuloxov,cocobolo
 99.97,25452,Rock Gem Fragment,9,35258.06,10,10,yuiy78,Rock Gem
 99.97,25452,Rock Gem Fragment,10,35258.06,10,1,Goliat,Fragment Store
 96.23,2302,,500,13261.62,4,1,25Lunarangel25,bb fruit
@@ -27,16 +27,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 80.4,2301,,6000,30618.0,9,1,idex,8888
 77.05,22004,Shining Gem,555,2417.99,7,61,NainBASTARD,xxx
 76.0,28036,Emerald Shield,10000,41666.67,3,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
-74.84,22000,FieryGem,555,2205.58,14,34,NainBASTARD,xxx
+74.71,22000,FieryGem,555,2194.74,14,34,NainBASTARD,xxx
 74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-72.16,22001,Furious Gem,555,1993.86,10,29,NainBASTARD,xxx
+72.06,22001,Furious Gem,555,1986.62,10,29,NainBASTARD,xxx
 72.01,29062,Field Brew,30,107.18,4,99,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
 71.15,25527,,10,34.67,3,1,Deathless,garner
 68.56,26588,Potion of Eagle,750,2385.8,11,18,ZafirRose,cheap
 68.45,27033,Radar Lv!,300,950.84,4,9,BossLiam,very cheap
 67.34,2301,,10000,30618.0,9,1,ZafirRose,cheap
-65.35,26591,Potion of Lion,750,2164.4,11,11,ZafirRose,cheap
 65.22,30118,Vial of Strength Reset,2000,5749.75,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
+65.12,26591,Potion of Lion,750,2150.51,11,11,ZafirRose,cheap
 63.98,28403,Blade of Incantation,95000,263749.88,8,1,BeIa,Uns 45 Cruz cheap
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.71,2301,,11111,30618.0,9,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -52,9 +52,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.64,22004,Shining Gem,1000,2417.99,7,18,011,cleaning
 58.38,25503,Magical Stone,100,240.28,8,24,xVENDORx,RUSH
 55.79,29058,20 Crafting EXP Card,800,1809.52,3,1,Skills,x_X    Free    *_*    Free   X_x
-55.56,25498,Black Colorant,2000,4500.0,3,1,cheapcheapcheap,cheap
 54.7,22003,Glowing Gem,990,2185.25,5,25,STAII,CHEAP GEMS   POTS
-54.66,22000,FieryGem,1000,2205.58,14,4,MushroomShop8,Normal Gems
+54.44,22000,FieryGem,1000,2194.74,14,4,MushroomShop8,Normal Gems
 54.24,22003,Glowing Gem,1000,2185.25,5,14,Mambanegra,lust/glowing/shining/spirit gem
 54.24,22003,Glowing Gem,1000,2185.25,5,6,011,cleaning
 54.24,22003,Glowing Gem,1000,2185.25,5,6,MushroomShop8,Normal Gems
