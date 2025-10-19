@@ -6,43 +6,44 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,14,375788.3,7,3,Deathless,garner
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,22306,,10,799755.0,3,2,Jew,yes
-100.0,25426,Universe Purse Fragment.,4,170834.58,5,5,Coffi,garner
-100.0,25452,Rock Gem Fragment,1,34111.5,9,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
+100.0,25426,Universe Purse Fragment.,4,179231.85,6,5,Coffi,garner
+100.0,25452,Rock Gem Fragment,1,35258.06,10,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 100.0,26585,Blessed Potion,1,80090.96,5,10,Systembuff,x
 99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,10,CocoZap,Jade Gem Fragments
 99.99,25451,Jade Gem Fragment,1,16815.63,4,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
-99.99,25452,Rock Gem Fragment,2,34111.5,9,17,monchito1,modo compa mi guerra
-99.99,25452,Rock Gem Fragment,2,34111.5,9,1,Coffi,garner
-99.99,29310,Ring of Hawk,45,380008.6,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
+99.99,25452,Rock Gem Fragment,2,35258.06,10,17,monchito1,modo compa mi guerra
+99.99,25452,Rock Gem Fragment,2,35258.06,10,1,Coffi,garner
 99.98,25060,Cocobolo Log,3,15896.06,5,40,ebashuloxov,cocobolo
-99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.97,25452,Rock Gem Fragment,9,34111.5,9,10,yuiy78,Rock Gem
-99.97,25452,Rock Gem Fragment,10,34111.5,9,1,Goliat,Fragment Store
+99.97,25452,Rock Gem Fragment,9,35258.06,10,10,yuiy78,Rock Gem
+99.97,25452,Rock Gem Fragment,10,35258.06,10,1,Goliat,Fragment Store
+94.39,26564,Meditation Potion,40,712.38,3,28,Skills,x_X    Free    *_*    Free   X_x
+92.98,26564,Meditation Potion,50,712.38,3,13,labubu25,hearts crab pot
+92.98,26564,Meditation Potion,50,712.38,3,200,lamamandoski,super cheap
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,JACKPOT COINS
 85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
 79.15,22004,Shining Gem,555,2662.32,8,61,NainBASTARD,xxx
-78.66,22000,FieryGem,555,2601.18,15,34,NainBASTARD,xxx
+78.37,22000,FieryGem,555,2566.12,16,34,NainBASTARD,xxx
 76.0,28036,Emerald Shield,10000,41666.67,3,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 74.91,22001,Furious Gem,555,2212.1,11,29,NainBASTARD,xxx
 74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+72.01,29062,Field Brew,30,107.18,4,99,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
 71.15,25527,,10,34.67,3,1,Deathless,garner
-70.65,26588,Potion of Eagle,750,2555.19,9,18,ZafirRose,cheap
+70.64,26588,Potion of Eagle,750,2554.21,10,18,ZafirRose,cheap
 69.27,26591,Potion of Lion,750,2440.75,10,11,ZafirRose,cheap
-66.78,29062,Field Brew,30,90.31,4,198,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
 66.19,22004,Shining Gem,900,2662.32,8,2,Mambanegra,lust/glowing/shining/spirit gem
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
+63.9,28403,Blade of Incantation,95000,263124.75,7,1,BeIa,Uns 45 Cruz cheap
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.64,28326,Divine Grace Cap,30000,82499.75,4,1,ZafirRose,cheap
 62.44,22004,Shining Gem,1000,2662.32,8,18,011,cleaning
-62.11,28403,Blade of Incantation,95000,250714.0,7,1,BeIa,Uns 45 Cruz cheap
-61.56,22000,FieryGem,1000,2601.18,15,4,MushroomShop8,Normal Gems
-59.8,28446,Fire Sealed Bow of Evanescence,10000,24875.0,4,1,Mikaligueba,tickets tickets
+61.03,22000,FieryGem,1000,2566.12,16,4,MushroomShop8,Normal Gems
 55.56,25498,Black Colorant,2000,4500.0,3,1,cheapcheapcheap,cheap
 54.84,22001,Furious Gem,999,2212.1,11,21,cheapcheapcheap,cheap
 54.79,22001,Furious Gem,1000,2212.1,11,10,011,cleaning
 54.79,22001,Furious Gem,1000,2212.1,11,3,MushroomShop8,Normal Gems
+53.29,29058,20 Crafting EXP Card,800,1712.82,4,1,Skills,x_X    Free    *_*    Free   X_x
 52.72,25503,Magical Stone,100,211.5,6,24,xVENDORx,RUSH
 51.94,22016,Demonic Gem of Sout,17,35.38,3,1,Jew,yes
 51.94,22016,Demonic Gem of Sout,17,35.38,3,4,jejejeje,Magic gems
