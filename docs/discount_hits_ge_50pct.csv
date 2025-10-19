@@ -1,14 +1,15 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
+100.0,22007,Gem of Striking,20,1328573.71,4,1,zzzzz,s
 100.0,22010,Gem of Rage,23,711125.39,5,4,Sysh,SELL SOME GEMS
 100.0,22010,Gem of Rage,21,711125.39,5,8,Happyman,UG RAGE | JADE | FAIRIES
-100.0,22011,Gemof Sout,15,375788.3,7,15,jejejeje,Magic gems
-100.0,22011,Gemof Sout,14,375788.3,7,3,Deathless,garner
+100.0,22011,Gemof Sout,20,406653.0,8,1,monchito1,modo compa mi guerra
+100.0,22011,Gemof Sout,15,406653.0,8,15,jejejeje,Magic gems
+100.0,22011,Gemof Sout,14,406653.0,8,3,Deathless,garner
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,22306,,10,799755.0,3,2,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,170834.58,5,5,Coffi,garner
 100.0,25452,Rock Gem Fragment,1,34111.5,9,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 100.0,26585,Blessed Potion,1,80090.96,5,10,Systembuff,x
-99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,9,monchito1,modo compa mi guerra
 99.99,25451,Jade Gem Fragment,1,16815.63,4,10,CocoZap,Jade Gem Fragments
 99.99,25451,Jade Gem Fragment,1,16815.63,4,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
@@ -22,8 +23,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25452,Rock Gem Fragment,10,34111.5,9,1,Goliat,Fragment Store
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,JACKPOT COINS
 85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
-79.45,22004,Shining Gem,555,2701.04,6,61,NainBASTARD,xxx
-78.75,22000,FieryGem,555,2612.02,15,34,NainBASTARD,xxx
+79.27,22004,Shining Gem,555,2676.65,7,61,NainBASTARD,xxx
+78.66,22000,FieryGem,555,2601.18,15,34,NainBASTARD,xxx
 78.62,2301,,6000,28068.31,6,1,idex,8888
 76.0,28036,Emerald Shield,10000,41666.67,3,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 74.91,22001,Furious Gem,555,2212.1,11,29,NainBASTARD,xxx
@@ -36,9 +37,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.64,28326,Divine Grace Cap,30000,82499.75,4,1,ZafirRose,cheap
-62.98,22004,Shining Gem,1000,2701.04,6,18,011,cleaning
+62.64,22004,Shining Gem,1000,2676.65,7,18,011,cleaning
 62.11,28403,Blade of Incantation,95000,250714.0,7,1,BeIa,Uns 45 Cruz cheap
-61.72,22000,FieryGem,1000,2612.02,15,4,MushroomShop8,Normal Gems
+61.56,22000,FieryGem,1000,2601.18,15,4,MushroomShop8,Normal Gems
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
