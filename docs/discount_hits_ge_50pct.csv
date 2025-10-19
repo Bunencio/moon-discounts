@@ -1,22 +1,22 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22007,Gem of Striking,15,1218753.88,5,1,Pescadora,GEM OF STRIKING QUITTING PRICE
 100.0,22007,Gem of Striking,20,1218753.88,5,1,zzzzz,garner
-100.0,22011,Gemof Sout,15,706120.02,9,15,jejejeje,Magic gems
-100.0,22011,Gemof Sout,14,706120.02,9,3,Deathless,garner
-100.0,22011,Gemof Sout,20,706120.02,9,1,monchito1,bowepelu
-100.0,22011,Gemof Sout,13,706120.02,9,1,MrFarm,cheapest stall in town//check IT
+100.0,22011,Gemof Sout,12,706120.0,9,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,22011,Gemof Sout,15,706120.0,9,15,jejejeje,Magic gems
+100.0,22011,Gemof Sout,14,706120.0,9,3,Deathless,garner
+100.0,22011,Gemof Sout,20,706120.0,9,1,monchito1,bowepelu
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,25426,Universe Purse Fragment.,4,161819.55,4,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 100.0,25451,Jade Gem Fragment,1,46800.2,5,9,monchito1,bowepelu
 100.0,25525,,7,250859.89,5,15,ZSOLOZ,CHAOS JEWELL FRAGMENT x IMPS
-100.0,26585,Blessed Potion,1,79018.05,5,10,Systembuff,Bless/pet con/rings con++
+100.0,26585,Blessed Potion,1,78629.52,5,10,Systembuff,Bless/pet con/rings con++
 100.0,28136,Crown of Decendant,5,712501.25,4,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,640002.0,4,1,jajaaaaja,sell
-100.0,28429,Dance of Evanescence,7,640002.0,4,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,7,563335.67,3,1,jajaaaaja,sell
+100.0,28429,Dance of Evanescence,7,563335.67,3,1,jajaaaaja,sell
+100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,29314,Ring of Angelic,5,235002.25,4,1,Systembuff,Bless/pet con/rings con++
 100.0,29314,Ring of Angelic,5,235002.25,4,1,Systembuff,Bless/pet con/rings con++
-100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,cheapest stall in town//check IT
-100.0,29314,Ring of Angelic,4,235002.25,4,1,MrFarm,cheapest stall in town//check IT
 99.99,25452,Rock Gem Fragment,2,33614.39,7,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
 99.99,25452,Rock Gem Fragment,2,33614.39,7,12,monchito1,bowepelu
 99.99,29310,Ring of Hawk,45,316681.33,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
@@ -39,12 +39,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.67,25493,Orange Colorant,500,2344.09,3,2,cheapstuffsell,cheap
 78.47,22004,Shining Gem,555,2578.2,6,61,NainBASTARD,xxx
 77.38,25440,Evanescence Stone,200,884.13,6,1,BL4CKM4RK3T,cheap stuff
+74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 73.21,29056,20 Cooking EXP Card,500,1866.67,4,1,PublicWin,Cheap
 72.54,22001,Furious Gem,555,2021.13,12,29,NainBASTARD,xxx
 71.79,29057,20 Manufacturing EXP Card,500,1772.5,6,1,PublicWin,Cheap
 71.75,29062,Field Brew,40,141.6,3,15,xLiliith,New materials for crafting!! BUY
 71.24,30172,Ticket to Treasure Island,400,1391.0,3,1,xJasskun,ring app eva ref pet str ticket
-64.5,28403,Blade of Incantation,100000,281666.67,8,1,BeIa,Uns 45 Cruz /Ref / GBS
+71.15,25527,,10,34.67,3,1,Deathless,garner
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING ROCK CHEST MOON SUN CLO
 63.49,2301,,11111,30429.07,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 63.49,2301,,11111,30429.07,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -57,8 +58,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.15,25501,Brown Colorant,1000,2713.64,3,1,cheapstuffsell,cheap
 61.21,22004,Shining Gem,1000,2578.2,6,18,011,cleaning
 61.19,25498,Black Colorant,2000,5153.85,3,1,cheapcheapcheap,cheap
+59.18,28403,Blade of Incantation,100000,245000.0,7,1,BeIa,Uns 45 Cruz /Ref / GBS
 58.21,28326,Divine Grace Cap,35000,83749.75,4,1,ZafirRose,CHEAP
-57.4,28403,Blade of Incantation,120000,281666.67,8,1,BeIa,Uns 45 Cruz /Ref / GBS
 57.34,25493,Orange Colorant,1000,2344.09,3,7,MushroomShop10,HAIRSTYLE
 55.45,27029,Ship Penetrator Lv1,250,561.2,4,37,Lja,garner
 52.38,28432,Fire Sealed Staff of Mirage,5000,10500.0,4,1,SuperComboFinish,PLEASE BUY BECAUSE IM POOOOOOR
@@ -66,5 +67,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.91,26594,Novice Explosive Ball,200,415.9,6,3,PALA02,garner
 51.61,28442,Fire Sealed Coat of Evanescence,15000,30999.75,4,1,Nixm,Cheap Lv50 Items all classes
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
+51.02,28403,Blade of Incantation,120000,245000.0,7,1,BeIa,Uns 45 Cruz /Ref / GBS
 50.57,22001,Furious Gem,999,2021.13,12,23,cheapcheapcheap,cheap
 50.52,22001,Furious Gem,1000,2021.13,12,10,011,cleaning
