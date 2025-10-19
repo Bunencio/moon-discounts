@@ -10,8 +10,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,28136,Crown of Decendant,jajaaaaja,sell,5,712501.25,712496.25,1,712496.25,100.0,4
 2025-10-19,22011,Gemof Sout,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!,12,706120.0,706108.0,1,706108.0,100.0,9
 2025-10-19,22011,Gemof Sout,monchito1,bowepelu,20,706120.0,706100.0,1,706100.0,100.0,9
-2025-10-19,28429,Dance of Evanescence,jajaaaaja,sell,7,679287.71,679280.71,1,679280.71,100.0,4
-2025-10-19,28429,Dance of Evanescence,jajaaaaja,sell,7,679287.71,679280.71,1,679280.71,100.0,4
+2025-10-19,28429,Dance of Evanescence,jajaaaaja,sell,7,563335.67,563328.67,1,563328.67,100.0,3
+2025-10-19,28429,Dance of Evanescence,jajaaaaja,sell,7,563335.67,563328.67,1,563328.67,100.0,3
 2025-10-19,22029,Fire Rock,Sysh,SELL SOME GEMS,7,543845.92,543838.92,1,543838.92,100.0,4
 2025-10-19,25451,Jade Gem Fragment,monchito1,bowepelu,1,28769.92,28768.92,9,258920.31,100.0,3
 2025-10-19,29314,Ring of Angelic,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!,4,235002.25,234998.25,1,234998.25,100.0,4
@@ -29,8 +29,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,25452,Rock Gem Fragment,yuiy78,Rock Gem,9,33586.61,33577.61,10,335776.11,99.97,7
 2025-10-19,25060,Cocobolo Log,reserv,COCOBOLO LOGS,3,11075.99,11072.99,11,121802.91,99.97,3
 2025-10-19,25452,Rock Gem Fragment,Goliat,Fragment Store,10,33586.61,33576.61,1,33576.61,99.97,7
-2025-10-19,26326,Elven Royal Signet,Dad,ez,1,683.32,682.32,199,135782.52,99.85,9
-2025-10-19,26326,Elven Royal Signet,Dad,ez,1,683.32,682.32,197,134417.87,99.85,9
+2025-10-19,26326,Elven Royal Signet,Dad,ez,1,684.02,683.02,199,135921.09,99.85,9
+2025-10-19,26326,Elven Royal Signet,Dad,ez,1,684.02,683.02,197,134555.05,99.85,9
 2025-10-19,26564,Meditation Potion,lamamandoski,super cheap,50,723.37,673.37,200,134673.47,93.09,3
 2025-10-19,30121,Vial of Accuracy Reset,NainBASTARD,xxx,555,3899.0,3344.0,11,36784.0,85.77,8
 2025-10-19,28476,Ice Sealed Kris of the Sphinx,Winston,voy geras,15000,78749.75,63749.75,1,63749.75,80.95,3
@@ -45,12 +45,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,2301,,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,11111,32033.69,20922.69,1,20922.69,65.31,6
 2025-10-19,2301,,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,11111,32033.69,20922.69,1,20922.69,65.31,6
 2025-10-19,2301,,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,11111,32033.69,20922.69,1,20922.69,65.31,6
-2025-10-19,28403,Blade of Incantation,BeIa,Uns 45 Cruz /Ref / GBS,100000,278888.89,178888.89,1,178888.89,64.14,8
 2025-10-19,22004,Shining Gem,011,cleaning,1000,2593.28,1593.28,18,28679.09,61.44,6
+2025-10-19,28403,Blade of Incantation,BeIa,Uns 45 Cruz /Ref / GBS,100000,245000.0,145000.0,1,145000.0,59.18,7
 2025-10-19,28326,Divine Grace Cap,ZafirRose,CHEAP,35000,83749.75,48749.75,1,48749.75,58.21,4
-2025-10-19,28403,Blade of Incantation,BeIa,Uns 45 Cruz /Ref / GBS,120000,278888.89,158888.89,1,158888.89,56.97,8
 2025-10-19,29002,Green Statue,ghost26,scroll,500,1104.21,604.21,60,36252.52,54.72,5
 2025-10-19,26589,Potion of Bull,cFIB,cheap pots,1162,2392.12,1230.12,34,41824.18,51.42,8
+2025-10-19,28403,Blade of Incantation,BeIa,Uns 45 Cruz /Ref / GBS,120000,245000.0,125000.0,1,125000.0,51.02,7
 2025-10-19,22001,Furious Gem,cheapcheapcheap,cheap,999,2027.99,1028.99,23,23666.7,50.74,11
 2025-10-19,28454,Ice Sealed Blade of Enigma,lamamandoski,super cheap,220000,408000.0,188000.0,1,188000.0,46.08,5
 2025-10-19,25056,Willow Wood Log,satzstall2,satz staller,310,571.61,261.61,80,20929.0,45.77,6
@@ -59,14 +59,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,28327,Great Aqua Cap,WhereIsMyBraSize,sefse,775000,1325000.0,550000.0,1,550000.0,41.51,3
 2025-10-19,25416,Cloud Heart,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS,14000,22318.18,8318.18,9,74863.64,37.27,4
 2025-10-19,25420,Sunlight Heart,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS,17000,26583.33,9583.33,7,67083.33,36.05,5
-2025-10-19,30171,Ticket to Demonic World,dwtix,PharaLantern/ElvenBunnyPot,390,582.88,192.88,192,37032.08,33.09,6
+2025-10-19,30171,Ticket to Demonic World,dwtix,PharaLantern/ElvenBunnyPot,390,582.98,192.98,192,37052.52,33.1,6
 2025-10-19,25507,Expert Stone,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS,700,1038.6,338.6,88,29796.46,32.6,6
 2025-10-19,29023,Standard 15 Treasure Hunting EXP Card,Ezzine,Cheap EXP,990,1458.78,468.78,99,46409.3,32.14,6
 2025-10-19,26591,Potion of Lion,cFIB,cheap pots,1630,2382.03,752.03,43,32337.17,31.57,9
-2025-10-19,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,582.88,182.88,195,35660.71,31.37,6
-2025-10-19,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,582.88,182.88,126,23042.3,31.37,6
+2025-10-19,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,582.98,182.98,195,35681.47,31.39,6
+2025-10-19,30171,Ticket to Demonic World,Wardo,S>DW TIX 400G,400,582.98,182.98,126,23055.72,31.39,6
 2025-10-19,26588,Potion of Eagle,SvckMe,CHEAP POTIONNN,1888,2635.08,747.08,82,61260.49,28.35,7
-2025-10-19,28403,Blade of Incantation,T3Teng,www,200000,278888.89,78888.89,1,78888.89,28.29,8
 2025-10-19,22000,FieryGem,STAII,CHEAP,1990,2695.95,705.95,53,37415.25,26.19,11
 2025-10-19,30102,1000 Reputation Scroll,CallMeBaby,Jackpot Repu,5888,7866.3,1978.3,33,65283.83,25.15,9
 2025-10-19,25420,Sunlight Heart,BpBuyer,Hearts Coins Crystals Coins !!!!,20000,26583.33,6583.33,9,59250.0,24.76,5
@@ -82,8 +81,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,28454,Ice Sealed Blade of Enigma,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60,320000,408000.0,88000.0,1,88000.0,21.57,5
 2025-10-19,30156,Jackpot Coin,MatsBk,s>GPS/PPS/JC/BLUEPRINTS,8800,11165.54,2365.54,99,234188.85,21.19,3
 2025-10-19,26344,Novice Weightless Potion,STAII,CHEAP,2990,3741.25,751.25,44,33055.22,20.08,5
-2025-10-19,25094,Purple Crystal,Bebang,PURPLE AND BLUE CRYSTALS,2500,3047.79,547.79,99,54230.88,17.97,5
-2025-10-19,25094,Purple Crystal,Bebang,PURPLE AND BLUE CRYSTALS,2500,3047.79,547.79,45,24650.4,17.97,5
+2025-10-19,28403,Blade of Incantation,T3Teng,www,200000,245000.0,45000.0,1,45000.0,18.37,7
+2025-10-19,25094,Purple Crystal,Bebang,PURPLE AND BLUE CRYSTALS,2500,3048.09,548.09,99,54261.2,17.98,5
+2025-10-19,25094,Purple Crystal,Bebang,PURPLE AND BLUE CRYSTALS,2500,3048.09,548.09,45,24664.18,17.98,5
 2025-10-19,25436,Chest of Demonic World II,sellerforfree,cheap,45000,54282.14,9282.14,3,27846.43,17.1,3
 2025-10-19,26589,Potion of Bull,STAII,CHEAP,1990,2392.12,402.12,115,46244.13,16.81,8
 2025-10-19,26589,Potion of Bull,011,cleaning,2000,2392.12,392.12,70,27448.6,16.39,8
@@ -93,9 +93,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,28451,Tooth of Evanescence,Juzo,lvl 55 uns,900000,1066666.67,166666.67,1,166666.67,15.63,3
 2025-10-19,26590,Potion of Soul,GeorgeFloyd,zaza,2500,2812.71,312.71,76,23765.86,11.12,7
 2025-10-19,30102,1000 Reputation Scroll,Saller,ty,7000,7866.3,866.3,83,71902.72,11.01,9
-2025-10-19,28403,Blade of Incantation,Brunette,jck pot/pet str/crus leave offer,250000,278888.89,28888.89,1,28888.89,10.36,8
-2025-10-19,28403,Blade of Incantation,Brunette,jck pot/pet str/crus leave offer,250000,278888.89,28888.89,1,28888.89,10.36,8
-2025-10-19,25094,Purple Crystal,stalleer,Crystal+ shields,2750,3047.79,297.79,82,24418.5,9.77,5
+2025-10-19,25094,Purple Crystal,stalleer,Crystal+ shields,2750,3048.09,298.09,82,24443.62,9.78,5
 2025-10-19,27034,Grenade Lv2,F0X01,Iron Brew 7.7K/ Grenade Lv2 2K,2000,2201.02,201.02,115,23117.02,9.13,8
 2025-10-19,28136,Crown of Decendant,Skip,wew,650000,712501.25,62501.25,1,62501.25,8.77,4
 2025-10-19,27025,Radiation Lv1,Kalista,radiation detector flash bomb,2199,2406.31,207.31,182,37731.24,8.62,4
@@ -110,6 +108,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-19,26377,Pharaoh's Lantern,Sisifo,PHARAOH LANTERN,8444,8939.03,495.03,59,29206.65,5.54,4
 2025-10-19,26588,Potion of Eagle,GeorgeFloyd,zaza,2500,2635.08,135.08,200,27015.82,5.13,7
 2025-10-19,26377,Pharaoh's Lantern,dwtix,PharaLantern/ElvenBunnyPot,8500,8939.03,439.03,84,36878.34,4.91,4
+2025-10-19,26345,Elven Potion,EIlIIliah,elven potion cheap,5099,5309.0,210.0,199,41790.87,3.96,5
 2025-10-19,26504,Blessed Berry,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,9999,10338.66,339.66,145,49251.4,3.29,3
 2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7207.97,208.97,200,41793.14,2.9,11
 2025-10-19,25031,Refining Gem,Honey,---------  Pet  Fruits  --------,6999,7207.97,208.97,174,36360.03,2.9,11
