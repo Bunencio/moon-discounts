@@ -34,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.16,22001,Furious Gem,555,1993.86,10,29,NainBASTARD,xxx
 72.01,29062,Field Brew,30,107.18,4,99,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
 71.15,25527,,10,34.67,3,1,Deathless,garner
-68.58,26588,Potion of Eagle,750,2387.02,11,18,ZafirRose,cheap
+68.55,26588,Potion of Eagle,750,2384.6,11,18,ZafirRose,cheap
 68.45,27033,Radar Lv!,300,950.84,4,9,BossLiam,very cheap
 65.34,26591,Potion of Lion,750,2164.04,11,11,ZafirRose,cheap
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
@@ -43,6 +43,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.27,28326,Divine Grace Cap,30000,81666.33,3,1,ZafirRose,cheap
 62.78,22004,Shining Gem,900,2417.99,7,2,Mambanegra,lust/glowing/shining/spirit gem
 58.64,22004,Shining Gem,1000,2417.99,7,18,011,cleaning
+58.38,25503,Magical Stone,100,240.28,8,24,xVENDORx,RUSH
 58.34,22000,FieryGem,1000,2400.45,15,4,MushroomShop8,Normal Gems
 57.56,2301,,10000,23563.43,7,1,ZafirRose,cheap
 55.79,29058,20 Crafting EXP Card,800,1809.52,3,1,Skills,x_X    Free    *_*    Free   X_x
@@ -60,4 +61,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.85,2301,,11111,23563.43,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 52.85,2301,,11111,23563.43,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 52.85,2301,,11111,23563.43,7,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-52.72,25503,Magical Stone,100,211.5,6,24,xVENDORx,RUSH
+50.21,26594,Novice Explosive Ball,200,401.67,5,1,PALA02,garner
