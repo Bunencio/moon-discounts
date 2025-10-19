@@ -7,19 +7,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,14,375788.3,7,3,Deathless,garner
 100.0,22029,Fire Rock,7,543845.92,4,1,Sysh,SELL SOME GEMS
 100.0,22306,,10,799755.0,3,2,Jew,yes
-100.0,25426,Universe Purse Fragment.,4,170834.58,5,5,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
+100.0,25452,Rock Gem Fragment,2,40233.74,8,12,monchito1,bowepelu
 100.0,26585,Blessed Potion,1,81101.75,5,10,Systembuff,x
 99.99,22011,Gemof Sout,20,375788.3,7,1,monchito1,bowepelu
 99.99,25451,Jade Gem Fragment,1,18917.46,4,10,CocoZap,Jade Gem Fragments
 99.99,25451,Jade Gem Fragment,1,18917.46,4,9,monchito1,bowepelu
-99.99,25452,Rock Gem Fragment,2,39227.95,8,1,Coffi,ROCK   PURE FRAG/SHADOW CRYSTAL
-99.99,25452,Rock Gem Fragment,2,39227.95,8,12,monchito1,bowepelu
 99.99,29310,Ring of Hawk,45,380008.6,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,25060,Cocobolo Log,3,15896.06,5,40,ebashuloxov,cocobolo
-99.98,25452,Rock Gem Fragment,9,39227.95,8,10,yuiy78,Rock Gem
+99.98,25452,Rock Gem Fragment,9,40233.74,8,10,yuiy78,Rock Gem
+99.98,25452,Rock Gem Fragment,10,40233.74,8,1,Goliat,Fragment Store
 99.98,29323,Nimble Venturer,25,126674.67,3,1,DemiMerchant,99c Item Mall/ Pet/Gems 99c
 99.98,30157,Iron Bar,10,42804.9,3,5,DemiMerchant,99c Item Mall/ Pet/Gems 99c
-99.97,25452,Rock Gem Fragment,10,39227.95,8,1,Goliat,Fragment Store
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,JACKPOT COINS
 85.89,30121,Vial of Accuracy Reset,555,3932.37,10,11,NainBASTARD,xxx
 79.45,22004,Shining Gem,555,2701.04,6,61,NainBASTARD,xxx
@@ -29,14 +27,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.91,22001,Furious Gem,555,2212.1,11,29,NainBASTARD,xxx
 74.04,25527,,9,34.67,3,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 71.15,25527,,10,34.67,3,1,Deathless,garner
-70.56,26588,Potion of Eagle,750,2547.32,8,18,ZafirRose,cheap
-69.05,26591,Potion of Lion,750,2423.36,10,11,ZafirRose,cheap
+70.74,26588,Potion of Eagle,750,2563.63,8,18,ZafirRose,cheap
+69.04,26591,Potion of Lion,750,2422.61,10,11,ZafirRose,cheap
 66.78,29062,Field Brew,30,90.31,4,198,DAGANG9,MOONROOT/GUARDIAN BREW/CHEAP
-64.73,28403,Blade of Incantation,95000,269374.75,7,1,BeIa,Uns 45 Cruz cheap
 64.37,2301,,10000,28068.31,6,1,ZafirRose,cheap
 64.28,30118,Vial of Strength Reset,2000,5599.6,3,1,Yennefer,STRIKING  ROCK CHEST PURSE FRAGS
+63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.64,28326,Divine Grace Cap,30000,82499.75,4,1,ZafirRose,cheap
 62.98,22004,Shining Gem,1000,2701.04,6,18,011,cleaning
+62.11,28403,Blade of Incantation,95000,250714.0,7,1,BeIa,Uns 45 Cruz cheap
 61.72,22000,FieryGem,1000,2612.02,15,4,MushroomShop8,Normal Gems
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -46,7 +45,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 60.41,2301,,11111,28068.31,6,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-58.04,28446,Fire Sealed Bow of Evanescence,10000,23833.17,6,1,Mikaligueba,tickets tickets
+58.48,28446,Fire Sealed Bow of Evanescence,10000,24083.17,6,1,Mikaligueba,tickets tickets
+56.72,25503,Magical Stone,100,231.05,6,24,xVENDORx,RUSH
 55.56,25498,Black Colorant,2000,4500.0,3,1,cheapcheapcheap,cheap
 54.84,22001,Furious Gem,999,2212.1,11,21,cheapcheapcheap,cheap
 54.79,22001,Furious Gem,1000,2212.1,11,10,011,cleaning
