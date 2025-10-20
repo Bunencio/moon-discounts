@@ -1,9 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,21,779922.45,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22010,Gem of Rage,21,779922.45,5,8,Happyman,UG RAGE | RED JADE | FAIRIES
-100.0,22011,Gemof Sout,20,722505.05,8,1,monchito1,G G
-100.0,22011,Gemof Sout,13,722505.05,8,13,jejejeje,GEMS
-100.0,22011,Gemof Sout,14,722505.05,8,3,Deathless,garner
+100.0,22011,Gemof Sout,20,696180.3,8,1,monchito1,G G
+100.0,22011,Gemof Sout,13,696180.3,8,13,jejejeje,GEMS
+100.0,22011,Gemof Sout,14,696180.3,8,3,Deathless,garner
 100.0,22016,Demonic Gem of Sout,17,533273.5,6,1,Jew,yes
 100.0,22016,Demonic Gem of Sout,17,533273.5,6,4,jejejeje,GEMS
 100.0,22016,Demonic Gem of Sout,19,533273.5,6,2,Babi02,ty
@@ -27,10 +27,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,22016,Demonic Gem of Sout,160,533273.5,6,1,iTonik,10x Crystal
 99.97,28470,Ice Sealed Rifle of Enigma,8,26669.0,3,1,stalling1,CHEAP CHEAP! SS STUFFS
 99.96,25452,Rock Gem Fragment,9,23812.6,5,10,yuiy78,Rock Gem
+97.44,28327,Great Aqua Cap,20000,780000.0,5,1,MrSaiZen,Sealed60 voy
 97.33,25479,Phyllis Hairstyle Book,50,1870.83,3,45,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.8,25495,Green Colorant,500,4100.0,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.39,25497,Blue Colorant,500,3963.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
-87.11,28327,Great Aqua Cap,125000,970000.0,4,1,Humm,4 SPR CLERIC HAT CHEAP
+83.97,28327,Great Aqua Cap,125000,780000.0,5,1,Humm,4 SPR CLERIC HAT CHEAP
 81.25,30121,Vial of Accuracy Reset,555,2960.15,7,11,NainBASTARD,xxx
 80.75,25499,Purple Colorant,500,2596.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 80.7,22004,Shining Gem,555,2875.33,7,30,NainBASTARD,xxx
