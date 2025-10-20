@@ -7,16 +7,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22016,Demonic Gem of Sout,17,533273.5,6,1,Jew,yes
 100.0,22016,Demonic Gem of Sout,17,533273.5,6,4,jejejeje,GEMS
 100.0,22016,Demonic Gem of Sout,19,533273.5,6,2,Babi02,ty
+100.0,22022,Red Jade,25,1266674.67,3,1,Happyman,UG RAGE | RED JADE | FAIRIES
 100.0,22024,Purple Jade,9,566669.0,3,1,ShowerBro,afk
 100.0,22306,,10,916670.0,3,1,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,130839.08,5,5,Coffi,garner
+100.0,25433,Blessed Runestone,15,868753.75,3,1,MUTAA,FREE
 100.0,25452,Rock Gem Fragment,1,25351.84,5,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,1,25351.84,5,1,RiasGremory,UG COLO CHEAP JADE ROCK FRAG GBA
 100.0,25452,Rock Gem Fragment,1,25351.84,5,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25525,,4,206754.67,7,1,Icerberck,stalls champ!!
 100.0,25525,,7,206754.67,7,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
-100.0,28403,Blade of Incantation,1,188454.45,9,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,28403,Blade of Incantation,1,188454.45,9,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,29323,Nimble Venturer,2,149000.2,4,1,Icerberck,stalls champ!!
 99.99,25452,Rock Gem Fragment,2,25351.84,5,17,monchito1,G G
 99.99,25452,Rock Gem Fragment,2,25351.84,5,1,Coffi,garner
@@ -60,6 +60,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.2,25493,Orange Colorant,300,753.85,3,1,xVENDORx,RUSH
 59.52,25496,Cyan Colorant.,2000,4941.18,4,1,cheapstuffsell,cheap
 59.33,29056,20 Cooking EXP Card,800,1966.96,6,1,PublicWin,that's all
+58.76,28403,Blade of Incantation,95000,230333.0,8,1,BeIa,Uns 45 Cruz cheap
 58.75,25503,Magical Stone,100,242.4,8,24,xVENDORx,RUSH
 57.53,26588,Potion of Eagle,1000,2354.74,13,2,Kayo,Pots/Reset/Chest/Blueprint/fragm
 57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,CHEAPEST POSSIBLE PPS BPS SS STF
@@ -72,5 +73,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.94,22000,FieryGem,1000,2125.16,11,4,MushroomShop8,Normal Gems
 52.65,29058,20 Crafting EXP Card,800,1689.47,4,4,PublicWin,that's all
 52.31,26589,Potion of Bull,1000,2096.95,14,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
-51.89,25081,Coal Ore,90,187.06,7,9,Lane,scrol/elixir/spirit/ore
+51.97,25081,Coal Ore,90,187.39,7,9,Lane,scrol/elixir/spirit/ore
 51.52,28036,Emerald Shield,20000,41250.0,4,1,lamamandoski,super super cremoso
