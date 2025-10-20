@@ -81,7 +81,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-20,27017,Sorcerer's Wine,GordanRamsay,Cheapest Warlord Aegis Sorcerer,10000,11176.2,1176.2,87,102329.34,10.52,5
 2025-10-20,26346,Lantern,SeventhHeaven,Scrolls/Coins/Frags/Lantern etc,3900,4319.34,419.34,92,38579.15,9.71,10
 2025-10-20,30156,Jackpot Coin,SeventhHeaven,Scrolls/Coins/Frags/Lantern etc,9000,9950.19,950.19,35,33256.54,9.55,10
-2025-10-20,30135,Demonic Rock,JakubMarket,Jakub Enterprises,2900,3172.75,272.75,99,27002.37,8.6,8
+2025-10-20,30135,Demonic Rock,JakubMarket,Jakub Enterprises,2900,3186.14,286.14,99,28327.79,8.98,8
 2025-10-20,25060,Cocobolo Log,LordeCracka,LORDECRACKO LOGS,12000,13111.11,1111.11,20,22222.22,8.47,9
 2025-10-20,26503,Great EXP Berry,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,20999,22857.5,1858.5,30,55755.0,8.13,3
 2025-10-20,26346,Lantern,STAII,CHEAP GEMS   POTS,3990,4319.34,329.34,128,42155.34,7.62,10
@@ -94,6 +94,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-20,25031,Refining Gem,LiDL,thingies,6900,7109.7,209.7,111,23276.43,2.95,6
 2025-10-20,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,11000,11176.2,176.2,178,31363.47,1.58,5
 2025-10-20,26585,Blessed Potion,BlessIfMan,BLESS IF MAN,98000,99399.45,1399.45,30,41983.5,1.41,4
-2025-10-20,30139,100x Crystal,FreePalestine1,SELL IMPS,102900,103612.39,712.39,98,69814.02,0.69,7
-2025-10-20,30139,100x Crystal,FreePalestine1,SELL IMPS,102900,103612.39,712.39,34,24221.19,0.69,7
-2025-10-20,30139,100x Crystal,HaBuffer,Imps,103000,103612.39,612.39,98,60014.02,0.59,7
+2025-10-20,30139,100x Crystal,FreePalestine1,SELL IMPS,102900,103628.29,728.29,98,71372.91,0.7,7
+2025-10-20,30139,100x Crystal,FreePalestine1,SELL IMPS,102900,103628.29,728.29,34,24762.03,0.7,7
+2025-10-20,30139,100x Crystal,HaBuffer,Imps,103000,103628.29,628.29,98,61572.91,0.61,7
