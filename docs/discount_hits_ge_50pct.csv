@@ -5,6 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,13,277732.56,4,13,jejejeje,GEMS
 100.0,22014,Demonic Gem of Colossus,28,2066676.0,4,1,zzzzz,garner
 100.0,22014,Demonic Gem of Colossus,29,2066676.0,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22016,Demonic Gem of Sout,20,774794.75,4,1,Jew,garner
 100.0,25426,Universe Purse Fragment.,4,131158.46,5,5,Coffi,FRAGMENT /STONE
 100.0,25451,Jade Gem Fragment,1,43809.62,4,9,monchito1,G G
 100.0,25451,Jade Gem Fragment,1,43809.62,4,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
@@ -18,6 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,38315.4,6,1,Coffi,FRAGMENT /STONE
 99.99,25452,Rock Gem Fragment,2,38315.4,6,17,monchito1,G G
 99.99,28134,Commanders Cap,5,66668.33,3,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
+99.98,22016,Demonic Gem of Sout,160,774794.75,4,1,iTonik,10x Crystal
 99.98,25426,Universe Purse Fragment.,30,131158.46,5,2,Xiomarvic,fysdas
 99.98,29323,Nimble Venturer,20,97505.0,4,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.98,30157,Iron Bar,10,57891.61,4,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
@@ -44,7 +46,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.26,25525,,4,14.96,5,1,Icerberck,stalls champ!!
 73.23,22004,Shining Gem,900,3362.22,7,2,Mambanegra,lust/glowing/shining/spirit gem
 70.26,22004,Shining Gem,1000,3362.22,7,18,011,cleaning
-66.91,26568,Skating Potion,14999,45330.72,8,3,Later,Skating Potion
 62.75,28403,Blade of Incantation,95000,254999.86,6,1,BeIa,Uns 45 Cruz cheap
 61.57,25389,Shark Fin,89,231.61,4,10,DiscipleTwo,CHEAPEST FAIRY DUST|PPS|ORE|LOGs
 60.02,29056,20 Cooking EXP Card,800,2000.8,6,1,PublicWin,that's all
@@ -54,15 +55,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.03,22000,FieryGem,1000,2382.7,11,4,MushroomShop8,Normal Gems
 56.82,25389,Shark Fin,100,231.61,4,6,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 56.6,29057,20 Manufacturing EXP Card,800,1843.31,4,7,PublicWin,that's all
-56.37,26589,Potion of Bull,999,2289.79,15,1,Later,Skating Potion
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
 54.86,22001,Furious Gem,999,2213.08,10,21,cheapcheapcheap,cheap
 54.81,22001,Furious Gem,1000,2213.08,10,10,011,cleaning
 54.81,22001,Furious Gem,1000,2213.08,10,3,MushroomShop8,Normal Gems
-54.29,22016,Demonic Gem of Sout,16,35.0,4,2,AAAAA123,come cheap
 53.21,25525,,7,14.96,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 52.67,29058,20 Crafting EXP Card,800,1690.22,5,1,Skills,x_X   Free    *_*    Free   X_x
 51.52,28036,Emerald Shield,20000,41250.0,4,1,lamamandoski,super super cremoso
-51.43,22016,Demonic Gem of Sout,17,35.0,4,4,jejejeje,GEMS
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
