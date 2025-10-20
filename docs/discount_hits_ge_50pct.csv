@@ -27,7 +27,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,28132,Voyager Cap,5,20001.0,3,1,Pescado,Selling
 99.97,22016,Demonic Gem of Sout,160,533273.5,6,1,iTonik,10x Crystal
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,4 SPR CLERIC HAT CHEAP
-81.44,30121,Vial of Accuracy Reset,555,2990.14,8,11,NainBASTARD,xxx
+81.27,30121,Vial of Accuracy Reset,555,2963.38,8,11,NainBASTARD,xxx
 80.7,22004,Shining Gem,555,2875.33,7,30,NainBASTARD,xxx
 79.13,2301,,6000,28743.0,8,1,idex,8888
 76.56,25452,Rock Gem Fragment,1,4.27,3,1,Goliat,Fragment Store
@@ -54,16 +54,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.34,2301,,11111,28743.0,8,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 61.34,2301,,11111,28743.0,8,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 59.86,25503,Magical Stone,100,249.16,7,24,xVENDORx,RUSH
-59.33,29056,20 Cooking EXP Card,800,1966.96,6,1,PublicWin,that's all
+58.86,29056,20 Cooking EXP Card,800,1944.75,6,1,PublicWin,that's all
 57.53,26588,Potion of Eagle,1000,2354.47,15,2,Kayo,Pots/Reset/Chest/Blueprint/fragm
-56.07,29057,20 Manufacturing EXP Card,800,1820.9,6,7,PublicWin,that's all
 55.82,25081,Coal Ore,90,203.71,7,9,Lane,scrol/elixir/spirit/ore
 55.79,27029,Ship Penetrator Lv1,250,565.5,3,37,Lja,fairy str 1gen lv13 / magical st
+55.71,29057,20 Manufacturing EXP Card,800,1806.45,6,7,PublicWin,that's all
+54.99,30122,Vial of Spirit Reset,2000,4443.0,6,1,Buhonero,Welcome
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
-53.57,26589,Potion of Bull,980,2110.66,12,34,cFIB,cheap
 53.21,22000,FieryGem,1000,2137.3,12,4,MushroomShop8,Normal Gems
 53.12,25452,Rock Gem Fragment,2,4.27,3,17,monchito1,G G
 53.12,25452,Rock Gem Fragment,2,4.27,3,1,Coffi,garner
-52.65,29058,20 Crafting EXP Card,800,1689.47,4,4,PublicWin,that's all
-52.62,26589,Potion of Bull,1000,2110.66,12,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
+52.49,26589,Potion of Bull,980,2062.91,12,34,cFIB,cheap
+51.52,26589,Potion of Bull,1000,2062.91,12,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
+51.35,29058,20 Crafting EXP Card,800,1644.44,3,4,PublicWin,that's all
 50.0,28036,Emerald Shield,10000,20000.0,3,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
