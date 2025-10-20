@@ -1,9 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,21,779922.45,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22010,Gem of Rage,21,779922.45,5,8,Happyman,UG RAGE | RED JADE | FAIRIES
-100.0,22011,Gemof Sout,20,428662.62,7,1,monchito1,G G
-100.0,22011,Gemof Sout,13,428662.62,7,13,jejejeje,GEMS
-100.0,22011,Gemof Sout,14,428662.62,7,3,Deathless,garner
+100.0,22011,Gemof Sout,20,722505.05,8,1,monchito1,G G
+100.0,22011,Gemof Sout,13,722505.05,8,13,jejejeje,GEMS
+100.0,22011,Gemof Sout,14,722505.05,8,3,Deathless,garner
 100.0,22016,Demonic Gem of Sout,17,533273.5,6,1,Jew,yes
 100.0,22016,Demonic Gem of Sout,17,533273.5,6,4,jejejeje,GEMS
 100.0,22016,Demonic Gem of Sout,19,533273.5,6,2,Babi02,ty
@@ -20,8 +20,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28403,Blade of Incantation,1,183099.9,8,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,29323,Nimble Venturer,2,149000.2,4,1,Icerberck,stalls champ!!
 99.99,25525,,40,328264.3,5,2,Xiomarvic,fysdas
-99.99,28429,Dance of Evanescence,70,757517.5,5,1,SnowCr4sh,DOE PET
-99.99,28429,Dance of Evanescence,70,757517.5,5,1,SnowCr4sh,DOE PET
+99.99,28429,Dance of Evanescence,70,526690.0,4,1,SnowCr4sh,DOE PET
+99.99,28429,Dance of Evanescence,70,526690.0,4,1,SnowCr4sh,DOE PET
 99.98,25060,Cocobolo Log,3,16054.52,5,40,ebashuloxov,cocobolo
 99.98,25426,Universe Purse Fragment.,30,183950.79,9,2,Xiomarvic,fysdas
 99.98,28132,Voyager Cap,5,20001.0,3,1,Pescado,Selling
@@ -53,18 +53,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.34,2301,,11111,28743.0,8,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 61.34,2301,,11111,28743.0,8,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 61.34,2301,,11111,28743.0,8,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
-59.86,25503,Magical Stone,100,249.16,7,24,xVENDORx,RUSH
-58.86,29056,20 Cooking EXP Card,800,1944.75,6,1,PublicWin,that's all
+59.33,29056,20 Cooking EXP Card,800,1966.96,6,1,PublicWin,that's all
+58.72,25503,Magical Stone,100,242.25,8,24,xVENDORx,RUSH
 57.53,26588,Potion of Eagle,1000,2354.47,15,2,Kayo,Pots/Reset/Chest/Blueprint/fragm
+56.07,29057,20 Manufacturing EXP Card,800,1820.9,6,7,PublicWin,that's all
 55.82,25081,Coal Ore,90,203.71,7,9,Lane,scrol/elixir/spirit/ore
 55.79,27029,Ship Penetrator Lv1,250,565.5,3,37,Lja,fairy str 1gen lv13 / magical st
-55.71,29057,20 Manufacturing EXP Card,800,1806.45,6,7,PublicWin,that's all
 54.99,30122,Vial of Spirit Reset,2000,4443.0,6,1,Buhonero,Welcome
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
+53.6,26589,Potion of Bull,980,2111.96,12,34,cFIB,cheap
 53.21,22000,FieryGem,1000,2137.3,12,4,MushroomShop8,Normal Gems
 53.12,25452,Rock Gem Fragment,2,4.27,3,17,monchito1,G G
 53.12,25452,Rock Gem Fragment,2,4.27,3,1,Coffi,garner
-52.49,26589,Potion of Bull,980,2062.91,12,34,cFIB,cheap
-51.52,26589,Potion of Bull,1000,2062.91,12,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
-51.35,29058,20 Crafting EXP Card,800,1644.44,3,4,PublicWin,that's all
+52.65,26589,Potion of Bull,1000,2111.96,12,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
+52.65,29058,20 Crafting EXP Card,800,1689.47,4,4,PublicWin,that's all
 50.0,28036,Emerald Shield,10000,20000.0,3,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
