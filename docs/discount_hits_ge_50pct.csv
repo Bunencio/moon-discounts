@@ -12,8 +12,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25426,Universe Purse Fragment.,4,179415.53,7,5,Coffi,garner
 100.0,25525,,4,344586.46,6,1,Icerberck,stalls champ!!
 100.0,26585,Blessed Potion,1,79545.62,4,10,Systembuff,x
-100.0,28403,Blade of Incantation,1,182299.9,8,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,28403,Blade of Incantation,1,182299.9,8,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,28403,Blade of Incantation,1,188454.45,9,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
+100.0,28403,Blade of Incantation,1,188454.45,9,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
 100.0,29323,Nimble Venturer,2,149000.2,4,1,Icerberck,stalls champ!!
 99.99,25525,,40,344586.46,6,2,Xiomarvic,fysdas
 99.98,25060,Cocobolo Log,3,16054.52,5,40,ebashuloxov,cocobolo
@@ -57,14 +57,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.33,29056,20 Cooking EXP Card,800,1966.96,6,1,PublicWin,that's all
 58.75,25503,Magical Stone,100,242.4,8,24,xVENDORx,RUSH
 57.54,26588,Potion of Eagle,1000,2355.28,13,2,Kayo,Pots/Reset/Chest/Blueprint/fragm
+57.17,25389,Shark Fin,99,231.17,3,10,DiscipleTwo,CHEAPEST POSSIBLE PPS BPS SS STF
+56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 56.07,29057,20 Manufacturing EXP Card,800,1820.9,6,7,PublicWin,that's all
 55.79,27029,Ship Penetrator Lv1,250,565.5,3,37,Lja,fairy str 1gen lv13 / magical st
 54.99,30122,Vial of Spirit Reset,2000,4443.0,6,1,Buhonero,Welcome
-54.84,29062,Field Brew,30,66.43,4,99,DAGANG9,GUADIAN CHEAP /ALL POTION HERE
-54.84,29062,Field Brew,30,66.43,4,99,DAGANG9,GUADIAN CHEAP /ALL POTION HERE
-54.84,29062,Field Brew,30,66.43,4,99,DAGANG9,GUADIAN CHEAP /ALL POTION HERE
-54.84,29062,Field Brew,30,66.43,4,99,DAGANG9,GUADIAN CHEAP /ALL POTION HERE
-54.84,29062,Field Brew,30,66.43,4,99,DAGANG9,GUADIAN CHEAP /ALL POTION HERE
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
 53.57,26589,Potion of Bull,980,2110.92,13,34,cFIB,cheap
 53.21,22000,FieryGem,1000,2137.3,12,4,MushroomShop8,Normal Gems
