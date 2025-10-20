@@ -5,8 +5,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-20,22011,Gemof Sout,Deathless,garner,14,722505.05,722491.05,3,2167473.14,100.0,8
 2025-10-20,22016,Demonic Gem of Sout,jejejeje,GEMS,17,533273.5,533256.5,4,2133026.0,100.0,6
 2025-10-20,22016,Demonic Gem of Sout,Babi02,ty,19,533273.5,533254.5,2,1066509.0,100.0,6
-2025-10-20,25426,Universe Purse Fragment.,Coffi,garner,4,189213.89,189209.89,5,946049.47,100.0,9
 2025-10-20,22306,,Jew,yes,10,916670.0,916660.0,1,916660.0,100.0,3
+2025-10-20,25426,Universe Purse Fragment.,Coffi,garner,4,179415.53,179411.53,5,897057.65,100.0,7
 2025-10-20,26585,Blessed Potion,Systembuff,x,1,79545.62,79544.62,10,795446.18,100.0,4
 2025-10-20,22011,Gemof Sout,monchito1,G G,20,722505.05,722485.05,1,722485.05,100.0,8
 2025-10-20,22024,Purple Jade,ShowerBro,afk,9,566669.0,566660.0,1,566660.0,100.0,3
@@ -17,7 +17,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-20,29323,Nimble Venturer,Icerberck,stalls champ!!,2,149000.2,148998.2,1,148998.2,100.0,4
 2025-10-20,25525,,Xiomarvic,fysdas,40,344586.46,344546.46,2,689092.92,99.99,6
 2025-10-20,25060,Cocobolo Log,ebashuloxov,cocobolo,3,16054.52,16051.52,40,642060.69,99.98,5
-2025-10-20,25426,Universe Purse Fragment.,Xiomarvic,fysdas,30,189213.89,189183.89,2,378367.79,99.98,9
+2025-10-20,25426,Universe Purse Fragment.,Xiomarvic,fysdas,30,179415.53,179385.53,2,358771.06,99.98,7
 2025-10-20,22016,Demonic Gem of Sout,iTonik,10x Crystal,160,533273.5,533113.5,1,533113.5,99.97,6
 2025-10-20,28470,Ice Sealed Rifle of Enigma,stalling1,CHEAP CHEAP! SS STUFFS,8,26669.0,26661.0,1,26661.0,99.97,3
 2025-10-20,25479,Phyllis Hairstyle Book,Manager,CHEAP HAIRSTYLE DROP PRICE,50,1870.83,1820.83,45,81937.5,97.33,3
@@ -81,7 +81,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-20,26344,Novice Weightless Potion,STAII,CHEAP GEMS   POTS,2990,3451.78,461.78,51,23550.54,13.38,4
 2025-10-20,25094,Purple Crystal,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@,2500,2870.99,370.99,99,36728.07,12.92,4
 2025-10-20,25094,Purple Crystal,Bebang,PURPLE AND BLUE CRYSTALS,2500,2870.99,370.99,99,36728.07,12.92,4
-2025-10-20,27020,Gold Pirate Scroll,ghost26,scroll,24700,28288.96,3588.96,7,25122.75,12.69,7
 2025-10-20,28429,Dance of Evanescence,Barekkk,gg,700000,790000.0,90000.0,1,90000.0,11.39,3
 2025-10-20,30102,1000 Reputation Scroll,sstido,good price,8000,8918.21,918.21,26,23873.41,10.3,5
 2025-10-20,26592,Flash Bomb,vnt3,FBS FBS FBS FBS FBS FBS,999,1103.54,104.54,200,20908.43,9.47,9
@@ -91,11 +90,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-20,26576,Iron Brew,Cincar,Cincar pots,6999,7558.82,559.82,58,32469.6,7.41,4
 2025-10-20,25060,Cocobolo Log,LordeCracka,COCOBOLO LOG / ROSEWOOD LOG,15000,16054.52,1054.52,20,21090.35,6.57,5
 2025-10-20,26589,Potion of Bull,STAII,CHEAP GEMS   POTS,1990,2110.92,120.92,186,22490.78,5.73,13
-2025-10-20,27020,Gold Pirate Scroll,cheapstuffguys,cheap,27000,28288.96,1288.96,34,43824.79,4.56,7
-2025-10-20,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PPS | JACK | JADE | PHA ++,27000,28288.96,1288.96,34,43824.79,4.56,7
+2025-10-20,27020,Gold Pirate Scroll,cheapstuffguys,cheap,27000,28405.94,1405.94,34,47801.99,4.95,5
+2025-10-20,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PPS | JACK | JADE | PHA ++,27000,28405.94,1405.94,34,47801.99,4.95,5
 2025-10-20,27017,Sorcerer's Wine,DwShops,the finest cookings for DW,10999,11504.98,505.98,85,43007.89,4.4,6
 2025-10-20,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,11000,11504.98,504.98,178,89885.58,4.39,6
-2025-10-20,26345,Elven Potion,EIlIIliah,elven potion cheap,5099,5241.26,142.26,184,26174.97,2.71,3
-2025-10-20,27020,Gold Pirate Scroll,Merchanty,GPS|DemonicRock|Frags|Feral+6Acc,27990,28288.96,298.96,99,29597.46,1.06,7
-2025-10-20,30139,100x Crystal,1231244,CHEAPEST IMPS,102990,103973.56,983.56,99,97372.13,0.95,4
-2025-10-20,30139,100x Crystal,1231244,CHEAPEST IMPS,102990,103973.56,983.56,85,83602.33,0.95,4
+2025-10-20,26345,Elven Potion,EIlIIliah,elven potion cheap,5099,5244.11,145.11,184,26700.93,2.77,3
+2025-10-20,27020,Gold Pirate Scroll,Merchanty,GPS|DemonicRock|Frags|Feral+6Acc,27990,28405.94,415.94,99,41178.15,1.46,5
+2025-10-20,30139,100x Crystal,1231244,CHEAPEST IMPS,102990,104009.33,1019.33,99,100913.8,0.98,4
+2025-10-20,30139,100x Crystal,1231244,CHEAPEST IMPS,102990,104009.33,1019.33,73,74411.19,0.98,4
