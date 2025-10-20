@@ -53,7 +53,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.33,29056,20 Cooking EXP Card,800,1966.96,6,1,PublicWin,that's all
 58.72,25503,Magical Stone,100,242.25,8,24,xVENDORx,RUSH
 57.52,26588,Potion of Eagle,1000,2354.17,15,2,Kayo,Pots/Reset/Chest/Blueprint/fragm
-56.3,25081,Coal Ore,90,205.95,6,9,Lane,scrol/elixir/spirit/ore
 56.07,29057,20 Manufacturing EXP Card,800,1820.9,6,7,PublicWin,that's all
 55.79,27029,Ship Penetrator Lv1,250,565.5,3,37,Lja,fairy str 1gen lv13 / magical st
 54.99,30122,Vial of Spirit Reset,2000,4443.0,6,1,Buhonero,Welcome
@@ -64,3 +63,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.12,25452,Rock Gem Fragment,2,4.27,3,1,Coffi,garner
 52.65,29058,20 Crafting EXP Card,800,1689.47,4,4,PublicWin,that's all
 52.63,26589,Potion of Bull,1000,2110.92,13,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
+51.89,25081,Coal Ore,90,187.06,7,9,Lane,scrol/elixir/spirit/ore
