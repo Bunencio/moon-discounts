@@ -1,8 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,21,835143.22,6,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,835143.22,6,8,Happyman,UG RAGE | RED JADE | FAIRIES
-100.0,22011,Gemof Sout,20,411770.76,6,1,monchito1,G G
-100.0,22011,Gemof Sout,13,411770.76,6,13,jejejeje,GEMS
+100.0,22010,Gem of Rage,21,705156.86,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,705156.86,5,8,Happyman,UG RAGE | RED JADE | FAIRIES
+100.0,22011,Gemof Sout,13,369859.3,5,13,jejejeje,GEMS
 100.0,22306,,10,1000003.0,3,1,Jew,garner
 100.0,25426,Universe Purse Fragment.,4,141432.86,6,5,Coffi,FRAGMENT /STONE
 100.0,25451,Jade Gem Fragment,1,42000.1,3,9,monchito1,G G
@@ -11,12 +10,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,39601.11,6,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG GBA
 100.0,25452,Rock Gem Fragment,1,39601.11,6,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,29323,Nimble Venturer,2,123336.67,5,1,Icerberck,stalls champ!!
-99.99,25416,Cloud Heart,2,21912.04,6,1,WhereIsMyBraSize,dfzhbsdhbns
+99.99,22011,Gemof Sout,20,369859.3,5,1,monchito1,G G
+99.99,25416,Cloud Heart,2,26211.7,4,1,WhereIsMyBraSize,dfzhbsdhbns
 99.99,25452,Rock Gem Fragment,2,39601.11,6,1,Coffi,FRAGMENT /STONE
 99.99,25452,Rock Gem Fragment,2,39601.11,6,17,monchito1,G G
 99.99,28134,Commanders Cap,5,66668.33,3,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.98,25426,Universe Purse Fragment.,30,141432.86,6,2,Xiomarvic,fysdas
-99.98,28327,Great Aqua Cap,72,375024.0,3,1,WhereIsMyBraSize,dfzhbsdhbns
 99.98,29323,Nimble Venturer,20,123336.67,5,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.98,30157,Iron Bar,10,47337.42,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.97,28132,Voyager Cap,5,18334.67,3,1,Pescado,Selling
@@ -43,7 +42,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.74,25525,,4,12.4,5,1,Icerberck,stalls champ!!
 67.16,25423,Evanescence Rock,200,609.01,6,16,BL4CKM4RK3T,stuff
 67.05,26568,Skating Potion,14999,45526.65,9,3,Later,Skating Potion
-66.67,28327,Great Aqua Cap,125000,375024.0,3,1,Humm,4 SPR CLERIC HAT CHEAP
 64.37,22004,Shining Gem,1000,2806.36,7,18,011,cleaning
 64.03,22003,Glowing Gem,1000,2780.2,5,7,Mambanegra,lust/glowing/shining/spirit gem
 64.03,22003,Glowing Gem,1000,2780.2,5,1,011,cleaning
