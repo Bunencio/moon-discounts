@@ -10,7 +10,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,39601.11,6,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
 100.0,25452,Rock Gem Fragment,1,39601.11,6,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,28474,Ice Sealed Mantle of the Sphinx,1,115000.33,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
-100.0,29323,Nimble Venturer,2,123336.67,5,1,Icerberck,stalls champ!!
+100.0,29323,Nimble Venturer,2,113004.0,5,1,Icerberck,stalls champ!!
 99.99,22011,Gemof Sout,20,277732.56,4,1,monchito1,G G
 99.99,25416,Cloud Heart,2,25605.64,4,1,WhereIsMyBraSize,dfzhbsdhbns
 99.99,25452,Rock Gem Fragment,2,39601.11,6,1,Coffi,FRAGMENT /STONE
@@ -19,7 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,28429,Dance of Evanescence,70,745017.5,5,1,SnowCr4sh,DOE X2
 99.99,28429,Dance of Evanescence,70,745017.5,5,1,SnowCr4sh,DOE X2
 99.98,25426,Universe Purse Fragment.,30,131158.46,5,2,Xiomarvic,fysdas
-99.98,29323,Nimble Venturer,20,123336.67,5,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
+99.98,29323,Nimble Venturer,20,113004.0,5,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.98,30157,Iron Bar,10,57891.61,4,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 87.8,25495,Green Colorant,500,4100.0,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.23,25497,Blue Colorant,500,3914.29,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
@@ -28,17 +28,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.86,30121,Vial of Accuracy Reset,555,3238.09,8,11,NainBASTARD,xxx
 80.75,25499,Purple Colorant,500,2596.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 80.22,22004,Shining Gem,555,2806.36,7,30,NainBASTARD,xxx
+79.95,25525,,3,14.96,5,1,yuiy78,Chaos Rune/Earth/Kal/Jewell
 78.62,25493,Orange Colorant,500,2339.18,4,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 78.62,25493,Orange Colorant,500,2339.18,4,2,cheapstuffsell,cheap
 77.67,25501,Brown Colorant,500,2239.32,3,7,Manager,CHEAP HAIRSTYLE DROP PRICE
-76.86,25525,,3,12.97,5,3,yuiy78,Chaos Rune/Earth/Kal/Jewell
-76.86,25525,,3,12.97,5,3,VelvetRevolver,Chaos
 75.76,28036,Emerald Shield,10000,41250.0,4,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 75.73,25439,Incantation Stone,200,824.14,3,6,BL4CKM4RK3T,stuff
 75.23,28454,Ice Sealed Blade of Enigma,320000,1291851.67,3,1,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60
 73.89,22000,FieryGem,555,2125.9,11,28,NainBASTARD,xxx
+73.26,25525,,4,14.96,5,1,Icerberck,stalls champ!!
 72.16,22001,Furious Gem,555,1993.83,10,29,NainBASTARD,xxx
-69.15,25525,,4,12.97,5,1,Icerberck,stalls champ!!
 69.1,25440,Evanescence Stone,200,647.24,5,6,BL4CKM4RK3T,stuff
 67.93,22004,Shining Gem,900,2806.36,7,2,Mambanegra,lust/glowing/shining/spirit gem
 67.39,26568,Skating Potion,14999,45997.15,8,3,Later,Skating Potion
@@ -57,10 +56,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.35,27029,Ship Penetrator Lv1,250,559.95,3,37,Lja,fairy str 1gen lv13 / magical st
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
-54.26,25505,Standard Stone,1295,2831.34,3,21,xLiliith,Some mats for craft! Take a look
-54.12,25505,Standard Stone,1299,2831.34,3,6,BL4CKM4RK3T,stuff
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
 53.65,26589,Potion of Bull,999,2155.29,13,1,Later,Skating Potion
+53.21,25525,,7,14.96,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 52.96,22000,FieryGem,1000,2125.9,11,4,MushroomShop8,Normal Gems
 52.45,29058,20 Crafting EXP Card,800,1682.28,5,1,Skills,x_X   Free    *_*    Free   X_x
 52.26,25212,Frozen Elixir,150,314.22,3,99,dsadsa,weightless ration tix superpot
