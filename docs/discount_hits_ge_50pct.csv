@@ -5,9 +5,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22011,Gemof Sout,13,277732.56,4,13,jejejeje,GEMS
 100.0,25426,Universe Purse Fragment.,4,131158.46,5,5,Coffi,FRAGMENT /STONE
 100.0,25451,Jade Gem Fragment,1,42000.1,3,9,monchito1,G G
-100.0,25451,Jade Gem Fragment,1,42000.1,3,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG GBA
+100.0,25451,Jade Gem Fragment,1,42000.1,3,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
 100.0,25452,Rock Gem Fragment,1,39601.11,6,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,39601.11,6,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG GBA
+100.0,25452,Rock Gem Fragment,1,39601.11,6,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
 100.0,25452,Rock Gem Fragment,1,39601.11,6,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,28474,Ice Sealed Mantle of the Sphinx,1,115000.33,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
 100.0,28491,Ice Sealed Greaves of Enigma,2,83334.0,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
@@ -45,6 +45,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.46,22003,Glowing Gem,1000,2736.82,4,1,011,cleaning
 63.46,22003,Glowing Gem,1000,2736.82,4,6,MushroomShop8,Normal Gems
 61.57,25389,Shark Fin,89,231.61,4,10,DiscipleTwo,CHEAPEST FAIRY DUST|PPS|ORE|LOGs
+60.87,28403,Blade of Incantation,95000,242777.67,7,1,BeIa,Uns 45 Cruz cheap
 60.02,29056,20 Cooking EXP Card,800,2000.83,6,1,PublicWin,that's all
 60.0,30118,Vial of Strength Reset,2000,4999.8,3,1,Yennefer,JADE ROCK CHEST PURSE FRAGMENTS
 60.0,30118,Vial of Strength Reset,2000,4999.8,3,1,Buhonero,Welcome
@@ -54,7 +55,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.35,27029,Ship Penetrator Lv1,250,559.95,3,37,Lja,fairy str 1gen lv13 / magical st
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
-55.22,28403,Blade of Incantation,95000,212142.71,6,1,BeIa,Uns 45 Cruz cheap
 54.26,25505,Standard Stone,1295,2831.34,3,21,xLiliith,Some mats for craft! Take a look
 54.12,25505,Standard Stone,1299,2831.34,3,6,BL4CKM4RK3T,stuff
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
