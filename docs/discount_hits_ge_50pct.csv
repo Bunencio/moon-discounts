@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,21,639914.7,4,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,639914.7,4,8,Happyman,UG RAGE | RED JADE | FAIRIES
+100.0,22010,Gem of Rage,21,779922.45,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,779922.45,5,8,Happyman,UG RAGE | RED JADE | FAIRIES
 100.0,22011,Gemof Sout,20,428662.62,7,1,monchito1,G G
 100.0,22011,Gemof Sout,13,428662.62,7,13,jejejeje,GEMS
 100.0,22011,Gemof Sout,14,428662.62,7,3,Deathless,garner
@@ -9,10 +9,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22016,Demonic Gem of Sout,19,533273.5,6,2,Babi02,ty
 100.0,22024,Purple Jade,9,566669.0,3,1,ShowerBro,afk
 100.0,22306,,10,916670.0,3,1,Jew,yes
-100.0,25426,Universe Purse Fragment.,4,178892.5,8,5,Coffi,garner
-100.0,25451,Jade Gem Fragment,1,29811.38,6,9,monchito1,G G
-100.0,25451,Jade Gem Fragment,1,29811.38,6,10,CocoZap,Jade Gem Fragments
-100.0,25451,Jade Gem Fragment,1,29811.38,6,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
+100.0,25426,Universe Purse Fragment.,4,183950.79,9,5,Coffi,garner
+100.0,25451,Jade Gem Fragment,1,33410.79,7,9,monchito1,G G
+100.0,25451,Jade Gem Fragment,1,33410.79,7,10,CocoZap,Jade Gem Fragments
+100.0,25451,Jade Gem Fragment,1,33410.79,7,3,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
 100.0,25525,,4,328264.3,5,1,xTrueHistory,ShadowCrystal/ChaosJewellFrag
 100.0,25525,,4,328264.3,5,1,Icerberck,stalls champ!!
 100.0,26585,Blessed Potion,1,79166.85,3,10,Systembuff,x
@@ -23,29 +23,28 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,28429,Dance of Evanescence,70,757517.5,5,1,SnowCr4sh,DOE PET
 99.99,28429,Dance of Evanescence,70,757517.5,5,1,SnowCr4sh,DOE PET
 99.98,25060,Cocobolo Log,3,16054.52,5,40,ebashuloxov,cocobolo
-99.98,25426,Universe Purse Fragment.,30,178892.5,8,2,Xiomarvic,fysdas
+99.98,25426,Universe Purse Fragment.,30,183950.79,9,2,Xiomarvic,fysdas
 99.98,28132,Voyager Cap,5,20001.0,3,1,Pescado,Selling
 99.97,22016,Demonic Gem of Sout,160,533273.5,6,1,iTonik,10x Crystal
 87.18,28327,Great Aqua Cap,125000,974999.75,4,1,Humm,4 SPR CLERIC HAT CHEAP
 81.44,30121,Vial of Accuracy Reset,555,2990.14,8,11,NainBASTARD,xxx
+80.7,22004,Shining Gem,555,2875.33,7,30,NainBASTARD,xxx
 79.13,2301,,6000,28743.0,8,1,idex,8888
-78.59,22004,Shining Gem,555,2592.69,5,30,NainBASTARD,xxx
 76.56,25452,Rock Gem Fragment,1,4.27,3,1,Goliat,Fragment Store
 76.56,25452,Rock Gem Fragment,1,4.27,3,1,RiasGremory,UG COLO DEMO COLO JADE ROCK KAL
+74.03,22000,FieryGem,555,2137.3,12,28,NainBASTARD,xxx
 73.26,25496,Cyan Colorant.,2000,7478.26,3,1,cheapstuffsell,cheap
-73.04,22000,FieryGem,555,2058.71,12,28,NainBASTARD,xxx
 72.11,22001,Furious Gem,555,1989.9,11,29,NainBASTARD,xxx
-68.42,25212,Frozen Elixir,88,278.65,3,54,dsadsa,weightless ration tix dw treasur
+68.7,22004,Shining Gem,900,2875.33,7,2,Mambanegra,lust/glowing/shining/spirit gem
 68.15,26588,Potion of Eagle,750,2354.47,15,18,ZafirRose,cheap
 65.34,28446,Fire Sealed Bow of Evanescence,8900,25679.8,5,1,iLegolas,GPs Jackpot Power RockFrag Cooki
-65.29,22004,Shining Gem,900,2592.69,5,2,Mambanegra,lust/glowing/shining/spirit gem
+65.22,22004,Shining Gem,1000,2875.33,7,18,011,cleaning
 65.21,2301,,10000,28743.0,8,1,ZafirRose,cheap
 64.09,22003,Glowing Gem,1000,2784.58,4,14,Mambanegra,lust/glowing/shining/spirit gem
 64.09,22003,Glowing Gem,1000,2784.58,4,1,011,cleaning
 64.09,22003,Glowing Gem,1000,2784.58,4,6,MushroomShop8,Normal Gems
 63.86,25493,Orange Colorant,300,830.0,3,1,xVENDORx,RUSH
 63.27,28326,Divine Grace Cap,30000,81666.33,3,1,ZafirRose,cheap
-61.43,22004,Shining Gem,1000,2592.69,5,18,011,cleaning
 61.34,2301,,11111,28743.0,8,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 61.34,2301,,11111,28743.0,8,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 61.34,2301,,11111,28743.0,8,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
@@ -57,14 +56,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 59.86,25503,Magical Stone,100,249.16,7,24,xVENDORx,RUSH
 59.33,29056,20 Cooking EXP Card,800,1966.96,6,1,PublicWin,that's all
 57.53,26588,Potion of Eagle,1000,2354.47,15,2,Kayo,Pots/Reset/Chest/Blueprint/fragm
-57.15,25081,Coal Ore,90,210.04,4,9,Lane,scrol/elixir/spirit/ore
 56.07,29057,20 Manufacturing EXP Card,800,1820.9,6,7,PublicWin,that's all
+55.82,25081,Coal Ore,90,203.71,7,9,Lane,scrol/elixir/spirit/ore
 55.79,27029,Ship Penetrator Lv1,250,565.5,3,37,Lja,fairy str 1gen lv13 / magical st
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
-53.62,26589,Potion of Bull,980,2112.93,12,34,cFIB,cheap
+53.57,26589,Potion of Bull,980,2110.66,12,34,cFIB,cheap
+53.21,22000,FieryGem,1000,2137.3,12,4,MushroomShop8,Normal Gems
 53.12,25452,Rock Gem Fragment,2,4.27,3,17,monchito1,G G
 53.12,25452,Rock Gem Fragment,2,4.27,3,1,Coffi,garner
-52.67,26589,Potion of Bull,1000,2112.93,12,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
 52.65,29058,20 Crafting EXP Card,800,1689.47,4,4,PublicWin,that's all
-51.43,22000,FieryGem,1000,2058.71,12,4,MushroomShop8,Normal Gems
+52.62,26589,Potion of Bull,1000,2110.66,12,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
 50.0,28036,Emerald Shield,10000,20000.0,3,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
