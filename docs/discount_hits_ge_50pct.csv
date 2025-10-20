@@ -23,8 +23,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.8,25495,Green Colorant,500,4100.0,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.23,25497,Blue Colorant,500,3914.29,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.23,25497,Blue Colorant,500,3914.29,3,1,cheapstuffguys,cheap asf
-83.36,30121,Vial of Accuracy Reset,555,3335.97,8,11,NainBASTARD,xxx
 82.9,25493,Orange Colorant,400,2339.18,4,1,xVENDORx,RUSH
+82.86,30121,Vial of Accuracy Reset,555,3238.09,8,11,NainBASTARD,xxx
 80.75,25499,Purple Colorant,500,2596.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 80.22,22004,Shining Gem,555,2806.36,7,30,NainBASTARD,xxx
 78.62,25493,Orange Colorant,500,2339.18,4,3,Manager,CHEAP HAIRSTYLE DROP PRICE
@@ -44,26 +44,28 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.03,22003,Glowing Gem,1000,2780.2,5,7,Mambanegra,lust/glowing/shining/spirit gem
 64.03,22003,Glowing Gem,1000,2780.2,5,1,011,cleaning
 64.03,22003,Glowing Gem,1000,2780.2,5,6,MushroomShop8,Normal Gems
-61.37,25389,Shark Fin,89,230.39,3,10,DiscipleTwo,CHEAPEST FAIRY DUST|PPS|ORE|LOGs
+61.57,25389,Shark Fin,89,231.61,4,10,DiscipleTwo,CHEAPEST FAIRY DUST|PPS|ORE|LOGs
 60.02,29056,20 Cooking EXP Card,800,2000.83,6,1,PublicWin,that's all
 60.0,30118,Vial of Strength Reset,2000,4999.8,3,1,Yennefer,JADE ROCK CHEST PURSE FRAGMENTS
 60.0,30118,Vial of Strength Reset,2000,4999.8,3,1,Buhonero,Welcome
-56.6,25389,Shark Fin,100,230.39,3,6,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
+58.87,22016,Demonic Gem of Sout,17,41.33,3,4,jejejeje,GEMS
+56.82,25389,Shark Fin,100,231.61,4,6,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 56.6,29057,20 Manufacturing EXP Card,800,1843.31,4,7,PublicWin,that's all
 55.35,27029,Ship Penetrator Lv1,250,559.95,3,37,Lja,fairy str 1gen lv13 / magical st
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
-55.26,22016,Demonic Gem of Sout,17,38.0,3,4,jejejeje,GEMS
 55.22,28403,Blade of Incantation,95000,212142.71,6,1,BeIa,Uns 45 Cruz cheap
+54.26,25505,Standard Stone,1295,2831.34,3,21,xLiliith,Some mats for craft! Take a look
+54.12,25505,Standard Stone,1299,2831.34,3,6,BL4CKM4RK3T,stuff
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
-53.64,26589,Potion of Bull,999,2155.03,13,1,Later,Skating Potion
+53.65,26589,Potion of Bull,999,2155.29,13,1,Later,Skating Potion
 53.55,22000,FieryGem,1000,2152.8,12,4,MushroomShop8,Normal Gems
 53.27,25525,,4,8.56,4,1,Icerberck,stalls champ!!
 52.45,29058,20 Crafting EXP Card,800,1682.28,5,1,Skills,x_X   Free    *_*    Free   X_x
 52.26,25212,Frozen Elixir,150,314.22,3,99,dsadsa,weightless ration tix superpot
+51.61,22016,Demonic Gem of Sout,20,41.33,3,1,Jew,garner
 51.55,22001,Furious Gem,999,2061.81,10,21,cheapcheapcheap,cheap
 51.52,28036,Emerald Shield,20000,41250.0,4,1,lamamandoski,super super cremoso
 51.5,22001,Furious Gem,1000,2061.81,10,10,011,cleaning
 51.5,22001,Furious Gem,1000,2061.81,10,3,MushroomShop8,Normal Gems
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
-50.0,22016,Demonic Gem of Sout,19,38.0,3,2,Babi02,ty
