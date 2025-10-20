@@ -2,25 +2,25 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,21,844332.4,7,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22010,Gem of Rage,20,844332.4,7,1,stallerx,UG Gems/ Shadow crystals+ + + +
 100.0,22010,Gem of Rage,21,844332.4,7,8,Happyman,UG RAGE | RED JADE | FAIRIES
-100.0,22011,Gemof Sout,13,277732.56,4,13,jejejeje,GEMS
+100.0,22011,Gemof Sout,13,323641.32,5,13,jejejeje,GEMS
 100.0,22014,Demonic Gem of Colossus,28,2066676.0,4,1,zzzzz,garner
 100.0,22014,Demonic Gem of Colossus,29,2066676.0,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22016,Demonic Gem of Sout,20,774794.75,4,1,Jew,garner
 100.0,22029,Fire Rock,7,485714.71,3,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,25426,Universe Purse Fragment.,4,131158.46,5,5,Coffi,FRAGMENT /STONE
-100.0,25451,Jade Gem Fragment,1,21539.23,3,9,monchito1,G G
-100.0,25451,Jade Gem Fragment,1,21539.23,3,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
-100.0,25452,Rock Gem Fragment,1,38315.4,6,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,38315.4,6,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
-100.0,25452,Rock Gem Fragment,1,38315.4,6,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+100.0,25426,Universe Purse Fragment.,4,149670.53,6,5,Coffi,FRAGMENT /STONE
+100.0,25451,Jade Gem Fragment,1,48333.29,4,9,monchito1,G G
+100.0,25451,Jade Gem Fragment,1,48333.29,4,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
+100.0,25452,Rock Gem Fragment,2,46841.59,7,1,Coffi,FRAGMENT /STONE
+100.0,25452,Rock Gem Fragment,2,46841.59,7,17,monchito1,G G
+100.0,25452,Rock Gem Fragment,1,46841.59,7,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,46841.59,7,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
+100.0,25452,Rock Gem Fragment,1,46841.59,7,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,28474,Ice Sealed Mantle of the Sphinx,1,63333.33,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
 100.0,29323,Nimble Venturer,2,97505.0,4,1,Icerberck,stalls champ!!
-99.99,22011,Gemof Sout,20,277732.56,4,1,monchito1,G G
+99.99,22011,Gemof Sout,20,323641.32,5,1,monchito1,G G
 99.99,25416,Cloud Heart,2,25605.64,4,1,WhereIsMyBraSize,dfzhbsdhbns
-99.99,25452,Rock Gem Fragment,2,38315.4,6,1,Coffi,FRAGMENT /STONE
-99.99,25452,Rock Gem Fragment,2,38315.4,6,17,monchito1,G G
 99.98,22016,Demonic Gem of Sout,160,774794.75,4,1,iTonik,10x Crystal
-99.98,25426,Universe Purse Fragment.,30,131158.46,5,2,Xiomarvic,fysdas
+99.98,25426,Universe Purse Fragment.,30,149670.53,6,2,Xiomarvic,fysdas
 99.98,29323,Nimble Venturer,20,97505.0,4,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.98,30157,Iron Bar,10,55128.06,4,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 92.69,26564,Meditation Potion,45,615.96,3,28,Skills,x_X   Free    *_*    Free   X_x
@@ -41,7 +41,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.36,28472,Ice Sealed Bow of Enigma,99999,461999.33,3,1,xASIONGx19,best item build
 77.67,25501,Brown Colorant,500,2239.32,3,7,Manager,CHEAP HAIRSTYLE DROP PRICE
 76.86,25439,Incantation Stone,200,864.32,4,6,BL4CKM4RK3T,stuff
-75.99,22000,FieryGem,555,2311.76,11,28,NainBASTARD,xxx
+76.01,22000,FieryGem,555,2313.77,11,28,NainBASTARD,xxx
 75.76,28036,Emerald Shield,10000,41250.0,4,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 75.23,28454,Ice Sealed Blade of Enigma,320000,1291851.67,3,1,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60
 73.61,25440,Evanescence Stone,200,757.96,6,6,BL4CKM4RK3T,stuff
@@ -55,7 +55,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.0,30118,Vial of Strength Reset,2000,4999.8,3,1,Buhonero,Welcome
 59.78,30122,Vial of Spirit Reset,2000,4972.9,6,1,Buhonero,Welcome
 58.82,25389,Shark Fin,100,242.84,3,6,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
-56.74,22000,FieryGem,1000,2311.76,11,4,MushroomShop8,Normal Gems
+56.78,22000,FieryGem,1000,2313.77,11,4,MushroomShop8,Normal Gems
 56.6,29057,20 Manufacturing EXP Card,800,1843.31,4,7,PublicWin,that's all
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
