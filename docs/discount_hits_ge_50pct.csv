@@ -12,26 +12,26 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22306,,10,916670.0,3,1,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,130839.08,5,5,Coffi,garner
 100.0,25433,Blessed Runestone,15,868753.75,3,1,MUTAA,FREE
-100.0,25452,Rock Gem Fragment,1,25351.84,5,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,25351.84,5,1,RiasGremory,UG COLO CHEAP JADE ROCK FRAG GBA
-100.0,25452,Rock Gem Fragment,1,25351.84,5,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+100.0,25452,Rock Gem Fragment,1,23812.6,5,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,23812.6,5,1,RiasGremory,UG COLO CHEAP JADE ROCK FRAG GBA
+100.0,25452,Rock Gem Fragment,1,23812.6,5,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25525,,4,206754.67,7,1,Icerberck,stalls champ!!
 100.0,25525,,7,206754.67,7,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,29323,Nimble Venturer,2,149000.2,4,1,Icerberck,stalls champ!!
-99.99,25452,Rock Gem Fragment,2,25351.84,5,17,monchito1,G G
-99.99,25452,Rock Gem Fragment,2,25351.84,5,1,Coffi,garner
+99.99,25452,Rock Gem Fragment,2,23812.6,5,17,monchito1,G G
+99.99,25452,Rock Gem Fragment,2,23812.6,5,1,Coffi,garner
 99.98,25060,Cocobolo Log,3,16054.52,5,40,ebashuloxov,cocobolo
 99.98,25426,Universe Purse Fragment.,30,130839.08,5,2,Xiomarvic,fysdas
 99.98,25525,,40,206754.67,7,2,Xiomarvic,fysdas
 99.98,28132,Voyager Cap,5,20001.0,3,1,Pescado,Selling
 99.97,22016,Demonic Gem of Sout,160,533273.5,6,1,iTonik,10x Crystal
 99.97,28470,Ice Sealed Rifle of Enigma,8,26669.0,3,1,stalling1,CHEAP CHEAP! SS STUFFS
-99.96,25452,Rock Gem Fragment,9,25351.84,5,10,yuiy78,Rock Gem
+99.96,25452,Rock Gem Fragment,9,23812.6,5,10,yuiy78,Rock Gem
 97.33,25479,Phyllis Hairstyle Book,50,1870.83,3,45,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.8,25495,Green Colorant,500,4100.0,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.39,25497,Blue Colorant,500,3963.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.11,28327,Great Aqua Cap,125000,970000.0,4,1,Humm,4 SPR CLERIC HAT CHEAP
-81.27,30121,Vial of Accuracy Reset,555,2963.38,8,11,NainBASTARD,xxx
+81.25,30121,Vial of Accuracy Reset,555,2960.15,7,11,NainBASTARD,xxx
 80.75,25499,Purple Colorant,500,2596.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 80.7,22004,Shining Gem,555,2875.33,7,30,NainBASTARD,xxx
 80.63,25501,Brown Colorant,500,2581.2,4,7,Manager,CHEAP HAIRSTYLE DROP PRICE
@@ -39,7 +39,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.76,28036,Emerald Shield,10000,41250.0,4,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 75.23,28454,Ice Sealed Blade of Enigma,320000,1291851.67,3,1,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60
 73.88,22000,FieryGem,555,2125.16,11,28,NainBASTARD,xxx
-72.11,22001,Furious Gem,555,1989.9,11,29,NainBASTARD,xxx
+72.11,22001,Furious Gem,555,1989.79,11,29,NainBASTARD,xxx
 68.7,22004,Shining Gem,900,2875.33,7,2,Mambanegra,lust/glowing/shining/spirit gem
 68.15,26588,Potion of Eagle,750,2354.74,13,18,ZafirRose,cheap
 65.22,22004,Shining Gem,1000,2875.33,7,18,011,cleaning
@@ -67,11 +67,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.74,25389,Shark Fin,100,231.17,3,6,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 56.07,29057,20 Manufacturing EXP Card,800,1820.9,6,7,PublicWin,that's all
 55.79,27029,Ship Penetrator Lv1,250,565.5,3,37,Lja,fairy str 1gen lv13 / magical st
-54.99,30122,Vial of Spirit Reset,2000,4443.0,6,1,Buhonero,Welcome
+55.39,30122,Vial of Spirit Reset,2000,4483.08,5,1,Buhonero,Welcome
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good Things to Buy <<
-53.27,26589,Potion of Bull,980,2096.95,14,34,cFIB,cheap
+53.27,26589,Potion of Bull,980,2097.12,13,34,cFIB,cheap
 52.94,22000,FieryGem,1000,2125.16,11,4,MushroomShop8,Normal Gems
 52.65,29058,20 Crafting EXP Card,800,1689.47,4,4,PublicWin,that's all
-52.31,26589,Potion of Bull,1000,2096.95,14,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
+52.32,26589,Potion of Bull,1000,2097.12,13,8,Kayo,Pots/Reset/Chest/Blueprint/fragm
 51.97,25081,Coal Ore,90,187.39,7,9,Lane,scrol/elixir/spirit/ore
 51.52,28036,Emerald Shield,20000,41250.0,4,1,lamamandoski,super super cremoso
