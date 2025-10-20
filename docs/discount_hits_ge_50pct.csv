@@ -10,27 +10,30 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22306,,10,916670.0,3,1,Jew,yes
 100.0,25426,Universe Purse Fragment.,4,130839.08,5,5,Coffi,garner
 100.0,25433,Blessed Runestone,15,846497.5,3,1,MUTAA,FREE
-100.0,25451,Jade Gem Fragment,1,25429.2,4,9,monchito1,G G
-100.0,25451,Jade Gem Fragment,1,25429.2,4,10,CocoZap,Jade Gem Fragments
-100.0,25451,Jade Gem Fragment,1,25429.2,4,3,RiasGremory,UG COLO CHEAP JADE ROCK FRAG GBA
 100.0,25452,Rock Gem Fragment,1,38115.64,7,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,1,38115.64,7,1,RiasGremory,UG COLO CHEAP JADE ROCK FRAG GBA
 100.0,25452,Rock Gem Fragment,1,38115.64,7,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25525,,4,231857.11,8,1,Icerberck,stalls champ!!
 100.0,25525,,7,231857.11,8,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,8,640014.3,4,1,MrFarm,CHEAPEST STALL IN TOWN CHECKIT!!
-100.0,29323,Nimble Venturer,2,146000.2,4,1,Icerberck,stalls champ!!
+100.0,29323,Nimble Venturer,2,121670.17,5,1,Icerberck,stalls champ!!
 99.99,25416,Cloud Heart,2,20219.56,5,1,WhereIsMyBraSize,dfzhbsdhbns
+99.99,25451,Jade Gem Fragment,1,17242.14,3,9,monchito1,G G
+99.99,25451,Jade Gem Fragment,1,17242.14,3,10,CocoZap,Jade Gem Fragments
+99.99,25451,Jade Gem Fragment,1,17242.14,3,3,RiasGremory,UG COLO CHEAP JADE ROCK FRAG GBA
 99.99,25452,Rock Gem Fragment,2,38115.64,7,17,monchito1,G G
 99.99,25452,Rock Gem Fragment,2,38115.64,7,1,Coffi,garner
 99.99,25527,,70,640014.3,4,2,VelvetRevolver,Chaos Rune/Chaos Jewell
+99.99,28134,Commanders Cap,5,68335.0,3,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.98,25426,Universe Purse Fragment.,30,130839.08,5,2,Xiomarvic,fysdas
 99.98,25452,Rock Gem Fragment,9,38115.64,7,10,yuiy78,Rock Gem
 99.98,25525,,35,231857.11,8,3,VelvetRevolver,Chaos Rune/Chaos Jewell
 99.98,25525,,40,231857.11,8,2,Xiomarvic,fysdas
 99.98,28132,Voyager Cap,5,20001.0,3,1,Pescado,Selling
+99.98,28327,Great Aqua Cap,72,375024.0,3,1,WhereIsMyBraSize,dfzhbsdhbns
+99.98,29323,Nimble Venturer,20,121670.17,5,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
+99.98,30157,Iron Bar,10,47837.42,4,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.97,22016,Demonic Gem of Sout,160,533273.5,6,1,iTonik,10x Crystal
-99.85,28327,Great Aqua Cap,72,48357.33,3,1,WhereIsMyBraSize,dfzhbsdhbns
 97.33,25479,Phyllis Hairstyle Book,50,1870.83,3,45,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.8,25495,Green Colorant,500,4100.0,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.39,25497,Blue Colorant,500,3963.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
@@ -44,6 +47,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.28,22001,Furious Gem,555,2076.8,9,29,NainBASTARD,xxx
 72.87,22000,FieryGem,555,2045.98,9,28,NainBASTARD,xxx
 68.7,22004,Shining Gem,900,2875.33,7,2,Mambanegra,lust/glowing/shining/spirit gem
+66.78,29062,Field Brew,30,90.31,4,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
+66.67,28327,Great Aqua Cap,125000,375024.0,3,1,Humm,4 SPR CLERIC HAT CHEAP
 65.22,22004,Shining Gem,1000,2875.33,7,18,011,cleaning
 63.69,22003,Glowing Gem,1000,2753.82,4,14,Mambanegra,lust/glowing/shining/spirit gem
 63.69,22003,Glowing Gem,1000,2753.82,4,1,011,cleaning
@@ -52,7 +57,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.37,25389,Shark Fin,89,230.39,3,10,DiscipleTwo,CHEAPEST FAIRY DUST|PPS|ORE|LOGs
 59.45,29056,20 Cooking EXP Card,800,1972.86,5,1,PublicWin,that's all
 58.78,25503,Magical Stone,100,242.6,7,24,xVENDORx,RUSH
-58.64,28327,Great Aqua Cap,20000,48357.33,3,1,MrSaiZen,Sealed60 voy
 58.31,28403,Blade of Incantation,95000,227874.75,7,1,BeIa,Uns 45 Cruz cheap
 57.66,2301,,11111,26240.67,5,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 57.66,2301,,11111,26240.67,5,1,torga1sh,@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
