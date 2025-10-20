@@ -7,12 +7,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,29,2066676.0,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22016,Demonic Gem of Sout,20,774794.75,4,1,Jew,garner
 100.0,25426,Universe Purse Fragment.,4,131158.46,5,5,Coffi,FRAGMENT /STONE
-100.0,25451,Jade Gem Fragment,1,43809.62,4,9,monchito1,G G
-100.0,25451,Jade Gem Fragment,1,43809.62,4,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
+100.0,25451,Jade Gem Fragment,1,25714.93,4,9,monchito1,G G
+100.0,25451,Jade Gem Fragment,1,25714.93,4,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
 100.0,25452,Rock Gem Fragment,1,38315.4,6,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,1,38315.4,6,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
 100.0,25452,Rock Gem Fragment,1,38315.4,6,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
-100.0,28474,Ice Sealed Mantle of the Sphinx,1,115000.33,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
+100.0,28474,Ice Sealed Mantle of the Sphinx,1,63333.33,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
 100.0,29323,Nimble Venturer,2,97505.0,4,1,Icerberck,stalls champ!!
 99.99,22011,Gemof Sout,20,277732.56,4,1,monchito1,G G
 99.99,25416,Cloud Heart,2,25605.64,4,1,WhereIsMyBraSize,dfzhbsdhbns
@@ -29,7 +29,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.23,25497,Blue Colorant,500,3914.29,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.23,25497,Blue Colorant,500,3914.29,3,1,cheapstuffguys,cheap asf
 85.49,30121,Vial of Accuracy Reset,555,3825.39,8,11,NainBASTARD,xxx
-83.49,22004,Shining Gem,555,3362.22,7,30,NainBASTARD,xxx
+83.02,22004,Shining Gem,555,3268.18,7,30,NainBASTARD,xxx
 82.9,25493,Orange Colorant,400,2339.18,4,1,xVENDORx,RUSH
 80.75,25499,Purple Colorant,500,2596.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 79.31,25525,,3,14.5,5,1,VelvetRevolver,Chaos Jewell
@@ -38,29 +38,29 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.62,25493,Orange Colorant,500,2339.18,4,2,cheapstuffsell,cheap
 77.67,25501,Brown Colorant,500,2239.32,3,7,Manager,CHEAP HAIRSTYLE DROP PRICE
 76.86,25439,Incantation Stone,200,864.32,4,6,BL4CKM4RK3T,stuff
-76.71,22000,FieryGem,555,2382.7,11,28,NainBASTARD,xxx
+75.99,22000,FieryGem,555,2311.76,11,28,NainBASTARD,xxx
 75.76,28036,Emerald Shield,10000,41250.0,4,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 75.23,28454,Ice Sealed Blade of Enigma,320000,1291851.67,3,1,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60
-74.92,22001,Furious Gem,555,2213.08,10,29,NainBASTARD,xxx
 73.61,25440,Evanescence Stone,200,757.96,6,6,BL4CKM4RK3T,stuff
-73.23,22004,Shining Gem,900,3362.22,7,2,Mambanegra,lust/glowing/shining/spirit gem
+72.48,22001,Furious Gem,555,2016.41,9,29,NainBASTARD,xxx
+72.46,22004,Shining Gem,900,3268.18,7,2,Mambanegra,lust/glowing/shining/spirit gem
 72.41,25525,,4,14.5,5,1,Icerberck,stalls champ!!
-70.26,22004,Shining Gem,1000,3362.22,7,18,011,cleaning
-61.57,25389,Shark Fin,89,231.61,4,10,DiscipleTwo,CHEAPEST FAIRY DUST|PPS|ORE|LOGs
-60.72,28403,Blade of Incantation,95000,241874.88,7,1,BeIa,Uns 45 Cruz cheap
+69.4,22004,Shining Gem,1000,3268.18,7,18,011,cleaning
+62.58,28403,Blade of Incantation,95000,253888.78,7,1,BeIa,Uns 45 Cruz cheap
+61.57,25389,Shark Fin,89,231.61,4,10,DiscipleTwo,FREE Sealed and Unsealed Voy|PPS
 60.02,29056,20 Cooking EXP Card,800,2000.8,6,1,PublicWin,that's all
 60.0,30118,Vial of Strength Reset,2000,4999.8,3,1,Yennefer,JADE ROCK CHEST PURSE FRAGMENTS
 60.0,30118,Vial of Strength Reset,2000,4999.8,3,1,Buhonero,Welcome
 59.78,30122,Vial of Spirit Reset,2000,4972.9,6,1,Buhonero,Welcome
-58.03,22000,FieryGem,1000,2382.7,11,4,MushroomShop8,Normal Gems
 56.82,25389,Shark Fin,100,231.61,4,6,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
+56.74,22000,FieryGem,1000,2311.76,11,4,MushroomShop8,Normal Gems
 56.6,29057,20 Manufacturing EXP Card,800,1843.31,4,7,PublicWin,that's all
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
-54.86,22001,Furious Gem,999,2213.08,10,21,cheapcheapcheap,cheap
-54.81,22001,Furious Gem,1000,2213.08,10,10,011,cleaning
-54.81,22001,Furious Gem,1000,2213.08,10,3,MushroomShop8,Normal Gems
 52.67,29058,20 Crafting EXP Card,800,1690.22,5,1,Skills,x_X   Free    *_*    Free   X_x
 51.72,25525,,7,14.5,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 51.52,28036,Emerald Shield,20000,41250.0,4,1,lamamandoski,super super cremoso
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
+50.46,22001,Furious Gem,999,2016.41,9,21,cheapcheapcheap,cheap
+50.41,22001,Furious Gem,1000,2016.41,9,10,011,cleaning
+50.41,22001,Furious Gem,1000,2016.41,9,3,MushroomShop8,Normal Gems
