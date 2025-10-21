@@ -1,5 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,20,620014.0,3,7,Aemond,UG/Demo/Jade/Rock gems cheap
+100.0,22009,Gem of Colossus,20,563650.91,3,1,zzzzz,garner
+100.0,22009,Gem of Colossus,20,563650.91,3,7,Aemond,UG/Demo/Jade/Rock gems cheap
 100.0,22010,Gem of Rage,21,698109.19,6,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22010,Gem of Rage,21,698109.19,6,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,28,2030008.5,5,1,MUTAA,FREE!
@@ -12,11 +13,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22029,Fire Rock,7,493750.38,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22434,,6,366669.0,4,3,monchito1,shadow crystal cheap
 100.0,22434,,6,366669.0,4,2,Ninja17,ITEM MALL
-100.0,25451,Jade Gem Fragment,1,37951.25,6,9,monchito1,shadow crystal cheap
-100.0,25452,Rock Gem Fragment,2,51021.73,11,17,monchito1,shadow crystal cheap
-100.0,25452,Rock Gem Fragment,2,51021.73,11,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
-100.0,25452,Rock Gem Fragment,1,51021.73,11,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,51021.73,11,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+100.0,25451,Jade Gem Fragment,1,42167.17,5,9,monchito1,shadow crystal cheap
+100.0,25452,Rock Gem Fragment,2,52107.13,10,17,monchito1,shadow crystal cheap
+100.0,25452,Rock Gem Fragment,2,52107.13,10,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
+100.0,25452,Rock Gem Fragment,1,52107.13,10,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,52107.13,10,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
 100.0,28326,Divine Grace Cap,1,33363.33,3,1,Pigrolac,CHEAPEST!!!
 100.0,28403,Blade of Incantation,3,150001.5,3,1,stallerx,Str pet+ crus equips and more
@@ -25,8 +26,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,26572,Inferno Potion,1,9636.92,4,45,Space,Inferno Potion (10 imp ea)
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
 99.99,28132,Voyager Cap,5,70001.0,4,1,Pescado,Selling
-99.98,25451,Jade Gem Fragment,8,37951.25,6,2,RiasGremory,JADE CHEST ROCK FRAG KAL GOLDBAR
-99.98,25452,Rock Gem Fragment,8,51021.73,11,1,RiasGremory,JADE CHEST ROCK FRAG KAL GOLDBAR
 99.97,29307,Ring of Damnation,18,62153.43,4,1,TheMystic,- STUFF SS CHEAP -
 99.97,29307,Ring of Damnation,18,62153.43,4,1,TheMystic,- STUFF SS CHEAP -
 99.97,29307,Ring of Damnation,19,62153.43,4,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
@@ -71,6 +70,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.3,25507,Expert Stone,599,1402.97,7,39,BL4CKM4RK3T,stuff
 57.14,28132,Voyager Cap,29999,70001.0,4,1,Destinys,@@@@
 55.92,28448,Fire Sealed Cloak of Evanescence,10000,22687.38,5,1,Exterminator,captian items buy pls
+55.87,26589,Potion of Bull,1000,2265.99,14,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 54.97,25501,Brown Colorant,1000,2220.83,4,1,cheapstuffsell,cheap
 54.97,25501,Brown Colorant,1000,2220.83,4,10,MushroomShop10,HAIRSTYLE
 54.34,25496,Cyan Colorant.,2200,4817.98,5,4,ratatata,cheap
