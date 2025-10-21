@@ -10,7 +10,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,41565.08,9,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,1,41565.08,9,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
-100.0,28474,Ice Sealed Mantle of the Sphinx,1,63333.33,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
+100.0,28474,Ice Sealed Mantle of the Sphinx,1,77499.75,4,1,stallerx,UG Gems/ Shadow crystals+ + + +
 99.99,25416,Cloud Heart,2,23749.3,3,1,WhereIsMyBraSize,dfzhbsdhbns
 99.98,25451,Jade Gem Fragment,9,49382.48,6,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.98,25452,Rock Gem Fragment,9,41565.08,9,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
@@ -27,8 +27,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 82.9,25493,Orange Colorant,400,2339.18,4,1,xVENDORx,RUSH
 80.75,25499,Purple Colorant,500,2596.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 80.09,22000,FieryGem,499,2506.54,12,2,Bathroom,Bank cleening S>
-79.89,25525,,3,14.92,4,1,VelvetRevolver,Chaos Jewell
-79.89,25525,,3,14.92,4,1,yuiy78,LAST JEWELL PLZ TAKE IT TY
+79.31,25525,,3,14.5,5,1,VelvetRevolver,Chaos Jewell
+79.31,25525,,3,14.5,5,1,yuiy78,LAST JEWELL PLZ TAKE IT TY
 78.62,25493,Orange Colorant,500,2339.18,4,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 78.62,25493,Orange Colorant,500,2339.18,4,2,cheapstuffsell,cheap
 77.67,25501,Brown Colorant,500,2239.32,3,7,Manager,CHEAP HAIRSTYLE DROP PRICE
@@ -38,6 +38,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.98,25440,Evanescence Stone,200,799.5,8,6,BL4CKM4RK3T,stuff
 73.71,22004,Shining Gem,1000,3803.14,6,18,011,cleaning
 72.97,28036,Emerald Shield,10000,37000.0,4,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
+72.41,25525,,4,14.5,5,1,tiendaonline,offer offer offer
 65.27,29057,20 Manufacturing EXP Card,800,2303.29,3,1,Wallnut,Corner Shop
 60.64,29056,20 Cooking EXP Card,800,2032.57,5,4,Wallnut,Corner Shop
 60.1,22000,FieryGem,1000,2506.54,12,4,MushroomShop8,Normal Gems
@@ -51,10 +52,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
 53.53,29058,20 Crafting EXP Card,800,1721.47,4,1,Wallnut,Corner Shop
-53.33,28403,Blade of Incantation,95000,203571.29,6,1,BeIa,Uns 45 Cruz cheap
-53.08,25525,,7,14.92,4,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+53.23,28403,Blade of Incantation,95000,203124.75,7,1,BeIa,Uns 45 Cruz cheap
 52.78,26568,Skating Potion,20000,42351.9,9,1,pisslow,S>frozen Elixir
 52.78,26568,Skating Potion,20000,42351.9,9,1,Bathroom,Bank cleening S>
+51.72,25525,,7,14.5,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 51.64,29002,Green Statue,600,1240.59,4,60,ghost26,scroll
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
 50.0,26501,Tiny EXP Berry,2000,4000.0,4,2,MikiMuto,Emma Tiglao

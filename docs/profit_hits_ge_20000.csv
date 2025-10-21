@@ -7,7 +7,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,25527,,Deathless,garner,10,873125.5,873115.5,1,873115.5,100.0,4
 2025-10-21,25452,Rock Gem Fragment,monchito1,G G,2,41565.08,41563.08,17,706572.31,100.0,9
 2025-10-21,25451,Jade Gem Fragment,monchito1,G G,1,49382.48,49381.48,9,444433.32,100.0,6
-2025-10-21,28474,Ice Sealed Mantle of the Sphinx,stallerx,UG Gems/ Shadow crystals+ + + +,1,63333.33,63332.33,1,63332.33,100.0,3
+2025-10-21,28474,Ice Sealed Mantle of the Sphinx,stallerx,UG Gems/ Shadow crystals+ + + +,1,77499.75,77498.75,1,77498.75,100.0,4
 2025-10-21,25452,Rock Gem Fragment,Goliat,Fragment Store,1,41565.08,41564.08,1,41564.08,100.0,9
 2025-10-21,25452,Rock Gem Fragment,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@,1,41565.08,41564.08,1,41564.08,100.0,9
 2025-10-21,25452,Rock Gem Fragment,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE,2,41565.08,41563.08,1,41563.08,100.0,9
@@ -21,7 +21,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,22004,Shining Gem,011,cleaning,1000,3803.14,2803.14,18,50456.54,73.71,6
 2025-10-21,28036,Emerald Shield,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM,10000,37000.0,27000.0,1,27000.0,72.97,4
 2025-10-21,22001,Furious Gem,cheapcheapcheap,cheap,999,2359.7,1360.7,21,28574.64,57.66,9
-2025-10-21,28403,Blade of Incantation,BeIa,Uns 45 Cruz cheap,95000,203571.29,108571.29,1,108571.29,53.33,6
+2025-10-21,28403,Blade of Incantation,BeIa,Uns 45 Cruz cheap,95000,203124.75,108124.75,1,108124.75,53.23,7
 2025-10-21,26568,Skating Potion,pisslow,S>frozen Elixir,20000,42351.9,22351.9,1,22351.9,52.78,9
 2025-10-21,26568,Skating Potion,Bathroom,Bank cleening S>,20000,42351.9,22351.9,1,22351.9,52.78,9
 2025-10-21,29002,Green Statue,ghost26,scroll,600,1240.59,640.59,60,38435.15,51.64,4
@@ -41,10 +41,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,30102,1000 Reputation Scroll,MatsBk,S>IMPS/PPS/JC/DUST/REP/MORE,6000,8397.38,2397.38,23,55139.8,28.55,7
 2025-10-21,30209,Island Card,SariSariStore1,CLEANING,2499,3491.47,992.47,29,28781.56,28.43,4
 2025-10-21,25507,Expert Stone,VendedoraJequiti,standard stone / more stones,749,1030.19,281.19,96,26994.62,27.3,7
-2025-10-21,30171,Ticket to Demonic World,dwtix,PharaLantern/ ElvenBunnyPot,390,529.7,139.7,158,22073.35,26.37,8
-2025-10-21,28403,Blade of Incantation,NecroManS,@@@@,150000,203571.29,53571.29,1,53571.29,26.32,6
-2025-10-21,28403,Blade of Incantation,Kasyadex,HL VOY/EVA ROCK N POWER/F.DUST!!,150000,203571.29,53571.29,1,53571.29,26.32,6
+2025-10-21,30171,Ticket to Demonic World,dwtix,PharaLantern/ ElvenBunnyPot,390,530.35,140.35,148,20771.16,26.46,8
 2025-10-21,28136,Crown of Decendant,smoI,water rock cod white color,750000,1016666.67,266666.67,1,266666.67,26.23,3
+2025-10-21,28403,Blade of Incantation,NecroManS,@@@@,150000,203124.75,53124.75,1,53124.75,26.15,7
+2025-10-21,28403,Blade of Incantation,Kasyadex,HL VOY/EVA ROCK N POWER/F.DUST!!,150000,203124.75,53124.75,1,53124.75,26.15,7
 2025-10-21,25060,Cocobolo Log,123123312,cocobolo,10000,13360.0,3360.0,31,104160.0,25.15,9
 2025-10-21,25060,Cocobolo Log,ebashuloxov,cocobolo,10000,13360.0,3360.0,20,67200.0,25.15,9
 2025-10-21,25060,Cocobolo Log,LordeCracka,LORDECRACKO LOGS,10000,13360.0,3360.0,20,67200.0,25.15,9
@@ -54,7 +54,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,28136,Crown of Decendant,Buuuyyyyer,Items!!,800000,1016666.67,216666.67,1,216666.67,21.31,3
 2025-10-21,22000,FieryGem,STAII,CHEAP GEMS   POTS,1990,2506.54,516.54,53,27376.49,20.61,12
 2025-10-21,22000,FieryGem,BuySome,Buy Gayss,1999,2506.54,507.54,72,36542.7,20.25,12
-2025-10-21,30156,Jackpot Coin,zSamanthaCurvy,pet lv shop,8000,9923.42,1923.42,23,44238.57,19.38,12
+2025-10-21,30156,Jackpot Coin,zSamanthaCurvy,pet lv shop,8000,10017.35,2017.35,23,46399.11,20.14,11
 2025-10-21,25534,,freeee,cheap,3150,3861.23,711.23,80,56898.5,18.42,10
 2025-10-21,25420,Sunlight Heart,buyme,FREE!,19999,24383.77,4384.77,9,39462.91,17.98,5
 2025-10-21,25060,Cocobolo Log,LordeCracka,LORDECRACKO LOGS,11000,13360.0,2360.0,20,47200.0,17.66,9
@@ -92,9 +92,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,26568,Skating Potion,Aois,STALL,40000,42351.9,2351.9,12,28222.84,5.55,9
 2025-10-21,26578,Aegis Brew,GordanRamsay,Cheapest Warlord Aegis Sorcerer,49500,52370.97,2870.97,36,103354.84,5.48,3
 2025-10-21,25417,Moonlight Heart,GeorgeFloyd,zaaz,100000,105571.43,5571.43,5,27857.14,5.28,3
+2025-10-21,30156,Jackpot Coin,ESNAIDER,SELL IMPS/JACKPOT/KAL/REF/PPS,9500,10017.35,517.35,59,30523.81,5.16,11
 2025-10-21,26585,Blessed Potion,stallaaa,BLESS / UG COLO,94000,98499.44,4499.44,9,40494.96,4.57,3
 2025-10-21,26585,Blessed Potion,sstido,buy all,94000,98499.44,4499.44,9,40494.96,4.57,3
-2025-10-21,30156,Jackpot Coin,ESNAIDER,SELL IMPS/JACKPOT/KAL/REF/PPS,9500,9923.42,423.42,59,24981.54,4.27,12
 2025-10-21,25031,Refining Gem,LiDL,thingies,6900,7099.56,199.56,111,22151.16,2.81,8
 2025-10-21,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,11000,11176.2,176.2,178,31363.47,1.58,5
-2025-10-21,30139,100x Crystal,Aois,STALL,102500,103013.62,513.62,83,42630.05,0.5,6
+2025-10-21,30139,100x Crystal,Aois,STALL,102500,103016.07,516.07,83,42833.57,0.5,6
