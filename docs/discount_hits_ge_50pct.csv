@@ -1,8 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,20,563650.91,3,1,zzzzz,garner
 100.0,22009,Gem of Colossus,20,563650.91,3,7,Aemond,UG/Demo/Jade/Rock gems cheap
-100.0,22010,Gem of Rage,21,698109.19,6,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,698109.19,6,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22010,Gem of Rage,21,748195.14,7,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,748195.14,7,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,28,2030008.5,5,1,MUTAA,FREE!
 100.0,22014,Demonic Gem of Colossus,29,2030008.5,5,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22014,Demonic Gem of Colossus,28,2030008.5,5,1,Lunity,Demonic Colo
@@ -10,27 +10,27 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22023,Green Jade,3,75265.37,4,1,AAAAA123,ty
 100.0,22023,Green Jade,3,75265.37,4,6,GemMarket,GREEN JADE
 100.0,22028,Water Rock,15,983338.33,3,1,Caraxes,Uns Bow | SS set | 24 acc| Kals
-100.0,22029,Fire Rock,7,493750.38,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22029,Fire Rock,7,481250.38,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22434,,6,366669.0,4,3,monchito1,shadow crystal cheap
 100.0,22434,,6,366669.0,4,2,Ninja17,ITEM MALL
-100.0,25451,Jade Gem Fragment,1,42167.17,5,9,monchito1,shadow crystal cheap
-100.0,25452,Rock Gem Fragment,2,52107.13,10,17,monchito1,shadow crystal cheap
-100.0,25452,Rock Gem Fragment,2,52107.13,10,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
-100.0,25452,Rock Gem Fragment,1,52107.13,10,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,52107.13,10,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+100.0,25426,Universe Purse Fragment.,4,98189.0,4,5,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
+100.0,25451,Jade Gem Fragment,1,37751.25,6,9,monchito1,shadow crystal cheap
+100.0,25452,Rock Gem Fragment,2,50213.68,11,17,monchito1,shadow crystal cheap
+100.0,25452,Rock Gem Fragment,2,50213.68,11,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
+100.0,25452,Rock Gem Fragment,1,50213.68,11,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,50213.68,11,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
 100.0,28326,Divine Grace Cap,1,33363.33,3,1,Pigrolac,CHEAPEST!!!
 100.0,28403,Blade of Incantation,3,150001.5,3,1,stallerx,Str pet+ crus equips and more
 100.0,28403,Blade of Incantation,3,150001.5,3,1,stallerx,Str pet+ crus equips and more
-99.99,25416,Cloud Heart,2,23749.3,3,1,WhereIsMyBraSize,dfzhbsdhbns
+99.99,25416,Cloud Heart,2,22777.26,4,1,WhereIsMyBraSize,dfzhbsdhbns
 99.99,26572,Inferno Potion,1,9636.92,4,45,Space,Inferno Potion (10 imp ea)
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
 99.99,28132,Voyager Cap,5,70001.0,4,1,Pescado,Selling
-99.97,29307,Ring of Damnation,18,62153.43,4,1,TheMystic,- STUFF SS CHEAP -
-99.97,29307,Ring of Damnation,18,62153.43,4,1,TheMystic,- STUFF SS CHEAP -
-99.97,29307,Ring of Damnation,19,62153.43,4,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
-99.97,29307,Ring of Damnation,19,62153.43,4,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
-99.97,30157,Iron Bar,10,38605.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
+99.98,25451,Jade Gem Fragment,8,37751.25,6,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
+99.98,25452,Rock Gem Fragment,8,50213.68,11,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
+99.97,25426,Universe Purse Fragment.,30,98189.0,4,2,Xiomarvic,fysdas
+99.97,30157,Iron Bar,10,38205.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
 92.44,26564,Meditation Potion,45,595.47,3,28,Skills,x_X   Free    *_*    Free   X_x
 91.6,26564,Meditation Potion,50,595.47,3,147,lamamandoski,super super cremoso
@@ -56,7 +56,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.98,22001,Furious Gem,999,2698.47,7,1,SariSariStore1,CLEANING BANK
 62.98,22001,Furious Gem,999,2698.47,7,3,Bathroom,Bank cleening S>
 61.93,29057,20 Manufacturing EXP Card,800,2101.27,5,1,Wallnut,Corner Shop
-61.51,30122,Vial of Spirit Reset,2000,5196.81,6,1,Buhonero,Welcome
+61.92,29058,20 Crafting EXP Card,800,2100.93,6,1,Wallnut,Corner Shop
+60.81,30122,Vial of Spirit Reset,2000,5103.32,6,1,Buhonero,Welcome
 60.11,29056,20 Cooking EXP Card,800,2005.47,7,4,Wallnut,Corner Shop
 60.0,28035,Solar Shield,9999,24999.0,4,1,TTKillGirlTT,Stand Stone /  Equips 50
 59.21,30121,Vial of Accuracy Reset,2000,4903.49,7,1,Buhonero,Welcome
@@ -65,21 +66,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.81,30119,Vial of Consitution Reset,2500,5925.0,4,1,cheapstuff3,cheap
 57.8,25503,Magical Stone,99,234.59,8,99,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 57.8,25503,Magical Stone,99,234.59,8,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
-57.59,25507,Expert Stone,595,1402.97,7,2,xLiliith,Some good mats for you!
 57.37,25503,Magical Stone,100,234.59,8,99,XthedreamkillerX,sss
-57.3,25507,Expert Stone,599,1402.97,7,39,BL4CKM4RK3T,stuff
 57.14,28132,Voyager Cap,29999,70001.0,4,1,Destinys,@@@@
+57.12,25507,Expert Stone,595,1387.66,7,2,xLiliith,Some good mats for you!
+56.83,25507,Expert Stone,599,1387.66,7,39,BL4CKM4RK3T,stuff
 55.92,28448,Fire Sealed Cloak of Evanescence,10000,22687.38,5,1,Exterminator,captian items buy pls
 55.87,26589,Potion of Bull,1000,2265.99,14,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 54.97,25501,Brown Colorant,1000,2220.83,4,1,cheapstuffsell,cheap
 54.97,25501,Brown Colorant,1000,2220.83,4,10,MushroomShop10,HAIRSTYLE
 54.34,25496,Cyan Colorant.,2200,4817.98,5,4,ratatata,cheap
 54.33,22000,FieryGem,1350,2956.17,8,1,iLegolas,MinionFuit CookinCard Power Lv50
-53.97,29058,20 Crafting EXP Card,800,1737.99,6,1,Wallnut,Corner Shop
-53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.33,3,1,Piru,>> Good to U <<
 53.21,25525,,7,14.96,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+52.94,28460,Ice Sealed Robe of Enigma,39999,84999.67,3,1,JedooC,GPS Jack PPs Pbs more
+52.71,29002,Green Statue,500,1057.2,4,60,ghost26,scroll
+52.64,22004,Shining Gem,2000,4223.17,4,12,vendedolmax,2000
 52.57,25504,Standard Scroll,59,124.4,5,16,xLiliith,Some good mats for you!
-52.49,22004,Shining Gem,2000,4209.7,4,13,vendedolmax,2000
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
@@ -97,8 +98,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
-51.03,29023,Standard 15 Treasure Hunting EXP Card,899,1835.93,5,3,BL4CKM4RK3T,stuff
 50.96,29062,Field Brew,35,71.37,5,13,Meguminn,EXPLOOOOSIOOONN!!!eee
-50.82,25507,Expert Stone,690,1402.97,7,69,sellerforfree,cheap
-50.82,25507,Expert Stone,690,1402.97,7,65,sellerforfree,cheap
-50.11,25507,Expert Stone,700,1402.97,7,28,Yennefer,ROCK JADE CHEST FRAG ROYAL SIGNE
+50.31,29023,Standard 15 Treasure Hunting EXP Card,899,1809.14,5,3,BL4CKM4RK3T,stuff
+50.28,25507,Expert Stone,690,1387.66,7,69,sellerforfree,cheap
+50.28,25507,Expert Stone,690,1387.66,7,65,sellerforfree,cheap
