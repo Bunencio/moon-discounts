@@ -1,26 +1,34 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,21,627914.7,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,627914.7,5,8,Happyman,UG RAGE | RED JADE | FAIRIES
+100.0,22010,Gem of Rage,21,693252.1,6,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,693252.1,6,8,Happyman,UG RAGE | RED JADE | FAIRIES
 100.0,22023,Green Jade,3,65002.33,3,7,Stalinha,Cleric Cap +6
 100.0,22023,Green Jade,3,65002.33,3,1,AAAAA123,ty
 100.0,22023,Green Jade,3,65002.33,3,6,GemMarket,GREEN JADE
 100.0,22306,,10,916669.67,3,1,Jew,garner
-100.0,25451,Jade Gem Fragment,1,48291.96,5,9,monchito1,elchinomilla
-100.0,25452,Rock Gem Fragment,2,41565.08,9,17,monchito1,elchinomilla
-100.0,25452,Rock Gem Fragment,2,41565.08,9,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
-100.0,25452,Rock Gem Fragment,1,41565.08,9,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,41565.08,9,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+100.0,22434,,6,181822.55,3,1,Nell,SHADOW CRYSTAL
+100.0,22434,,6,181822.55,3,1,monchito1,elchinomilla
+100.0,22434,,6,181822.55,3,1,IfYouSeemeRun,Ring Spr 60/Shadow C/Pet lv20
+100.0,22434,,6,181822.55,3,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
+100.0,22434,,6,181822.55,3,1,xTrueHistory,Shadow Crystal
+100.0,22434,,6,181822.55,3,2,Ninja17,ITEM MALL
+100.0,22434,,6,181822.55,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
+100.0,25451,Jade Gem Fragment,1,32876.12,5,9,monchito1,elchinomilla
+100.0,25452,Rock Gem Fragment,1,31904.74,8,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,31904.74,8,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
 100.0,28136,Crown of Decendant,15,825002.33,6,1,2sharp,SSale
 100.0,28474,Ice Sealed Mantle of the Sphinx,1,77499.75,4,1,stallerx,UG Gems/ Shadow crystals+ + + +
 99.99,25416,Cloud Heart,2,23749.3,3,1,WhereIsMyBraSize,dfzhbsdhbns
+99.99,25452,Rock Gem Fragment,2,31904.74,8,17,monchito1,elchinomilla
+99.99,25452,Rock Gem Fragment,2,31904.74,8,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
 99.99,26572,Inferno Potion,1,9594.49,5,45,Space,Inferno Potion (10 imp ea)
 99.99,26578,Aegis Brew,6,43789.27,3,7,Shadow,yes
-99.98,25451,Jade Gem Fragment,9,48291.96,5,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
-99.98,25452,Rock Gem Fragment,9,41565.08,9,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
-99.98,30157,Iron Bar,10,54003.12,4,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
+99.98,30157,Iron Bar,10,53753.12,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
+99.97,25451,Jade Gem Fragment,9,32876.12,5,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
+99.97,25452,Rock Gem Fragment,9,31904.74,8,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.97,28326,Divine Grace Cap,1,3773.0,3,1,Pigrolac,CHEAPEST!!!
 99.97,28326,Divine Grace Cap,1,3773.0,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
+99.46,25158,Snail Food,1,186.27,3,1,Nocturna#84,gg
 97.61,28326,Divine Grace Cap,90,3773.0,3,1,Stalinha,Cleric Cap +6
 92.69,26564,Meditation Potion,45,615.96,3,28,Skills,x_X   Free    *_*    Free   X_x
 91.88,26564,Meditation Potion,50,615.96,3,147,lamamandoski,super super cremoso
