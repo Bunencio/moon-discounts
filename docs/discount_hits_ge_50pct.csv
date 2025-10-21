@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,20,466682.22,3,7,Aemond,UG/Demo/Jade/Rock gems cheap
-100.0,22010,Gem of Rage,21,475571.83,4,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,475571.83,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22009,Gem of Colossus,20,620014.0,3,7,Aemond,UG/Demo/Jade/Rock gems cheap
+100.0,22010,Gem of Rage,21,555804.89,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,555804.89,5,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,MUTAA,FREE!
 100.0,22014,Demonic Gem of Colossus,29,1862510.62,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,Lunity,Demonic Colo
@@ -49,7 +49,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.9,28454,Ice Sealed Blade of Enigma,299999,964710.8,5,1,NecroManS,@@@
 66.45,25498,Black Colorant,1500,4470.53,4,4,ratatata,cheap
 66.26,30119,Vial of Consitution Reset,1999,5925.0,4,1,NinJaKol,Random cheap stall
-65.7,29062,Field Brew,25,72.89,4,32,Eslrea,title contract/fb/pbs/elder fur
+64.97,29062,Field Brew,25,71.37,5,32,Eslrea,title contract/fb/pbs/elder fur
 62.98,22001,Furious Gem,999,2698.47,7,21,cheapcheapcheap,cheap
 62.98,22001,Furious Gem,999,2698.47,7,1,SariSariStore1,CLEANING BANK
 62.98,22001,Furious Gem,999,2698.47,7,3,Bathroom,Bank cleening S>
@@ -58,8 +58,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.11,29056,20 Cooking EXP Card,800,2005.47,7,4,Wallnut,Corner Shop
 60.0,28035,Solar Shield,9999,24999.0,4,1,TTKillGirlTT,Stand Stone /  Equips 50
 59.21,30121,Vial of Accuracy Reset,2000,4903.49,7,1,Buhonero,Welcome
-58.84,29062,Field Brew,30,72.89,4,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 58.49,25496,Cyan Colorant.,2000,4817.98,5,1,cheapstuffsell,cheap
+57.96,29062,Field Brew,30,71.37,5,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 57.81,30119,Vial of Consitution Reset,2500,5925.0,4,1,cheapstuff3,cheap
 57.8,25503,Magical Stone,99,234.59,8,99,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 57.8,25503,Magical Stone,99,234.59,8,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
@@ -76,7 +76,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.21,25525,,7,14.96,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 52.57,25504,Standard Scroll,59,124.4,5,16,xLiliith,Some good mats for you!
 52.49,22004,Shining Gem,2000,4209.7,4,13,vendedolmax,2000
-51.98,29062,Field Brew,35,72.89,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
@@ -95,6 +94,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
 51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
 51.03,29023,Standard 15 Treasure Hunting EXP Card,899,1835.93,5,3,BL4CKM4RK3T,stuff
+50.96,29062,Field Brew,35,71.37,5,13,Meguminn,EXPLOOOOSIOOONN!!!eee
 50.82,25507,Expert Stone,690,1402.97,7,69,sellerforfree,cheap
 50.82,25507,Expert Stone,690,1402.97,7,65,sellerforfree,cheap
 50.11,25507,Expert Stone,700,1402.97,7,28,Yennefer,ROCK JADE CHEST FRAG ROYAL SIGNE
