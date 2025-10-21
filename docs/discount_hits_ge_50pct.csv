@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,20,466682.22,3,7,Aemond,UG/Demo/Jade/Rock gems cheap
-100.0,22010,Gem of Rage,21,470016.33,4,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,470016.33,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22010,Gem of Rage,21,555804.89,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,555804.89,5,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,29,2128579.57,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22014,Demonic Gem of Colossus,28,2128579.57,4,1,Lunity,Demonic Colo
 100.0,22023,Green Jade,3,65002.33,3,7,Stalinha,Cleric Cap +6
@@ -23,8 +23,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28403,Blade of Incantation,3,160001.0,4,1,stallerx,Str pet+ crus equips and more
 99.99,22028,Water Rock,15,295011.3,4,1,Caraxes,Uns Bow | SS set | 24 acc| Kals
 99.99,25416,Cloud Heart,2,23749.3,3,1,WhereIsMyBraSize,dfzhbsdhbns
-99.99,26572,Inferno Potion,1,10039.51,6,45,Space,Inferno Potion (10 imp ea)
-99.99,26578,Aegis Brew,6,46500.88,3,7,Shadow,yes
+99.99,26572,Inferno Potion,1,10025.22,6,45,Space,Inferno Potion (10 imp ea)
+99.99,26578,Aegis Brew,6,45220.54,3,7,Shadow,yes
 99.99,28132,Voyager Cap,5,83335.0,3,1,Pescado,Selling
 99.98,25451,Jade Gem Fragment,9,47875.75,6,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.98,25452,Rock Gem Fragment,9,50192.43,11,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
@@ -50,7 +50,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.52,25494,Yellow Colorant.,1000,3281.25,3,14,MushroomShop10,HAIRSTYLE
 66.45,25498,Black Colorant,1500,4470.53,4,4,ratatata,cheap
 66.26,30119,Vial of Consitution Reset,1999,5925.0,4,1,NinJaKol,Random cheap stall
-65.9,29062,Field Brew,25,73.32,4,32,Eslrea,title contract/fb/pbs/elder fur
+65.7,29062,Field Brew,25,72.89,4,32,Eslrea,title contract/fb/pbs/elder fur
 62.98,22001,Furious Gem,999,2698.47,7,21,cheapcheapcheap,cheap
 62.98,22001,Furious Gem,999,2698.47,7,1,SariSariStore1,CLEANING BANK
 62.98,22001,Furious Gem,999,2698.47,7,3,Bathroom,Bank cleening S>
@@ -59,7 +59,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.51,30122,Vial of Spirit Reset,2000,5196.81,6,1,Buhonero,Welcome
 60.11,29056,20 Cooking EXP Card,800,2005.47,7,4,Wallnut,Corner Shop
 59.21,30121,Vial of Accuracy Reset,2000,4903.49,7,1,Buhonero,Welcome
-59.08,29062,Field Brew,30,73.32,4,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
+58.84,29062,Field Brew,30,72.89,4,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 57.81,30119,Vial of Consitution Reset,2500,5925.0,4,1,cheapstuff3,cheap
 57.8,25503,Magical Stone,99,234.59,8,99,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 57.8,25503,Magical Stone,99,234.59,8,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
@@ -71,7 +71,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.33,22000,FieryGem,1350,2956.17,8,1,iLegolas,MinionFuit CookinCard Power Lv50
 53.97,29058,20 Crafting EXP Card,800,1737.99,6,1,Wallnut,Corner Shop
 53.21,25525,,7,14.96,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
-52.26,29062,Field Brew,35,73.32,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
@@ -90,6 +89,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolRoti01,Standard Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolRoti01,Standard Scroll
 52.04,22004,Shining Gem,2000,4170.06,5,13,vendedolmax,2000
+51.98,29062,Field Brew,35,72.89,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
 51.03,29023,Standard 15 Treasure Hunting EXP Card,899,1835.93,5,3,BL4CKM4RK3T,stuff
 50.83,25507,Expert Stone,690,1403.4,7,69,sellerforfree,cheap
 50.83,25507,Expert Stone,690,1403.4,7,65,sellerforfree,cheap
