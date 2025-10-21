@@ -17,7 +17,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,49089.78,9,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
 100.0,28136,Crown of Decendant,15,825002.33,6,1,2sharp,wow SSsale
-100.0,28474,Ice Sealed Mantle of the Sphinx,1,77500.0,4,1,stallerx,UG Gems/ Shadow crystals+ + + +
 100.0,29314,Ring of Angelic,5,178002.8,4,1,Paaches,Voy Uns Set | Custom Dagger| Pr
 100.0,29314,Ring of Angelic,5,178002.8,4,1,Paaches,Voy Uns Set | Custom Dagger| Pr
 100.0,29314,Ring of Angelic,5,178002.8,4,1,BV10,f
@@ -67,6 +66,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good to U <<
 53.21,25525,,7,14.96,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 52.26,29062,Field Brew,35,73.32,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
+52.2,22000,FieryGem,1350,2824.41,10,10,iLegolas,MinionFuit CookinCard Power Lv50
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
@@ -84,7 +84,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolRoti01,Standard Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolRoti01,Standard Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolRoti01,Standard Scroll
-52.06,22000,FieryGem,1350,2815.9,10,10,iLegolas,MinionFuit CookinCard Power Lv50
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
 51.22,26501,Tiny EXP Berry,2000,4100.0,3,2,MikiMuto,Emma Tiglao
 51.16,22004,Shining Gem,2000,4094.8,5,13,vendedolmax,2000
