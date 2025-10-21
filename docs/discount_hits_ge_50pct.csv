@@ -7,11 +7,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22022,Red Jade,25,1183341.33,3,1,Happyman,UG RAGE | RED JADE | FAIRIES
 100.0,25451,Jade Gem Fragment,1,48291.62,4,9,monchito1,G G
 100.0,25451,Jade Gem Fragment,1,48291.62,4,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
-100.0,25452,Rock Gem Fragment,2,40421.84,7,1,Coffi,FRAGMENT /STONE
-100.0,25452,Rock Gem Fragment,2,40421.84,7,17,monchito1,G G
-100.0,25452,Rock Gem Fragment,1,40421.84,7,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,40421.84,7,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
-100.0,25452,Rock Gem Fragment,1,40421.84,7,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+100.0,25452,Rock Gem Fragment,2,41564.87,8,1,Coffi,FRAGMENT /STONE
+100.0,25452,Rock Gem Fragment,2,41564.87,8,17,monchito1,G G
+100.0,25452,Rock Gem Fragment,1,41564.87,8,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,41564.87,8,1,RiasGremory,UG COLO JADE CHEST ROCK FRAG
+100.0,25452,Rock Gem Fragment,1,41564.87,8,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
 100.0,28474,Ice Sealed Mantle of the Sphinx,1,77500.0,4,1,stallerx,UG Gems/ Shadow crystals+ + + +
 100.0,29309,Ring of Grace,2,110000.8,3,1,NiNJAz,Ring Of Grace!
@@ -35,11 +35,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.62,25493,Orange Colorant,500,2339.18,4,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 78.62,25493,Orange Colorant,500,2339.18,4,2,cheapstuffsell,cheap
 77.67,25501,Brown Colorant,500,2239.32,3,7,Manager,CHEAP HAIRSTYLE DROP PRICE
-76.78,25439,Incantation Stone,200,861.15,6,6,BL4CKM4RK3T,stuff
 76.34,22004,Shining Gem,900,3803.14,6,2,Mambanegra,lust/glowing/shining/spirit gem
 75.76,28036,Emerald Shield,10000,41250.0,4,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 75.23,28454,Ice Sealed Blade of Enigma,320000,1291851.67,3,1,Chupeteira,CHEAP BLADE OF ENIGMA CRUZ Lv60
-74.98,25440,Evanescence Stone,200,799.5,8,6,BL4CKM4RK3T,stuff
 73.71,22004,Shining Gem,1000,3803.14,6,18,011,cleaning
 65.27,29057,20 Manufacturing EXP Card,800,2303.29,3,1,Wallnut,Corner Shop
 60.64,29056,20 Cooking EXP Card,800,2032.57,5,4,Wallnut,Corner Shop
@@ -53,10 +51,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.47,30121,Vial of Accuracy Reset,2000,4702.51,6,1,Buhonero,Welcome
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
-54.92,28403,Blade of Incantation,95000,210714.14,6,1,BeIa,Uns 45 Cruz cheap
-53.59,26568,Skating Potion,20000,43096.97,9,1,Bathroom,Bank cleening S>
 53.53,29058,20 Crafting EXP Card,800,1721.47,4,1,Wallnut,Corner Shop
+53.23,28403,Blade of Incantation,95000,203124.88,6,1,BeIa,Uns 45 Cruz cheap
 53.08,25525,,7,14.92,4,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+53.05,26568,Skating Potion,20000,42596.97,8,1,pisslow,S>frozen Elixir
+53.05,26568,Skating Potion,20000,42596.97,8,1,Bathroom,Bank cleening S>
 51.52,28036,Emerald Shield,20000,41250.0,4,1,lamamandoski,super super cremoso
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
+51.05,25440,Evanescence Stone,400,817.22,7,7,LunaMaya,S>PPS FB LightninHeart SnailFood
 50.0,26501,Tiny EXP Berry,2000,4000.0,4,2,MikiMuto,Emma Tiglao
