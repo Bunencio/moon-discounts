@@ -4,11 +4,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,zzzzz,garner
 100.0,22014,Demonic Gem of Colossus,29,1862510.62,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,Lunity,Demonic Colo
+100.0,22022,Red Jade,25,1165008.33,3,1,Happyman,UG RAGE | RED JADE | FAIRIES
 100.0,22023,Green Jade,3,65002.33,3,7,Stalinha,Cleric Cap +6
 100.0,22023,Green Jade,3,65002.33,3,1,AAAAA123,ty
 100.0,22023,Green Jade,3,65002.33,3,6,GemMarket,GREEN JADE
 100.0,22306,,10,916669.67,3,1,Jew,garner
-100.0,25451,Jade Gem Fragment,1,48291.96,5,9,monchito1,elchinomilla
+100.0,25451,Jade Gem Fragment,1,49360.28,6,9,monchito1,elchinomilla
 100.0,25452,Rock Gem Fragment,2,41565.08,9,17,monchito1,elchinomilla
 100.0,25452,Rock Gem Fragment,2,41565.08,9,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
 100.0,25452,Rock Gem Fragment,1,41565.08,9,1,Goliat,Fragment Store
@@ -18,7 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28474,Ice Sealed Mantle of the Sphinx,1,77499.75,4,1,stallerx,UG Gems/ Shadow crystals+ + + +
 99.99,25416,Cloud Heart,2,23749.3,3,1,WhereIsMyBraSize,dfzhbsdhbns
 99.99,26572,Inferno Potion,1,10323.63,5,45,Space,Inferno Potion (10 imp ea)
-99.98,25451,Jade Gem Fragment,9,48291.96,5,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
+99.98,25451,Jade Gem Fragment,9,49360.28,6,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.98,25452,Rock Gem Fragment,9,41565.08,9,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.98,30157,Iron Bar,10,54003.12,4,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.97,28326,Divine Grace Cap,1,3773.0,3,1,Pigrolac,CHEAPEST!!!
@@ -29,6 +30,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 91.88,26564,Meditation Potion,50,615.96,3,200,lamamandoski,super super cremoso
 87.8,25495,Green Colorant,500,4100.0,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.39,25497,Blue Colorant,500,3963.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
+84.02,28454,Ice Sealed Blade of Enigma,200000,1251851.67,3,1,LotokSell,UgColos DemoSoul ShadowCrystal
 82.9,25493,Orange Colorant,400,2339.18,4,1,xVENDORx,RUSH
 80.75,25499,Purple Colorant,500,2596.77,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 79.31,25525,,3,14.5,5,1,VelvetRevolver,Chaos Jewell
