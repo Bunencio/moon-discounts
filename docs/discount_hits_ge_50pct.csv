@@ -1,16 +1,13 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,20,563650.91,3,1,zzzzz,garner
 100.0,22009,Gem of Colossus,20,563650.91,3,7,Aemond,UG/Demo/Jade/Rock gems cheap
-100.0,22010,Gem of Rage,21,698109.19,6,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,698109.19,6,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
-100.0,22014,Demonic Gem of Colossus,28,2030008.5,5,1,MUTAA,FREE!
-100.0,22014,Demonic Gem of Colossus,29,2030008.5,5,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22014,Demonic Gem of Colossus,28,2030008.5,5,1,Lunity,Demonic Colo
+100.0,22010,Gem of Rage,21,977344.47,6,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22014,Demonic Gem of Colossus,28,2255561.78,4,1,MUTAA,FREE!
+100.0,22014,Demonic Gem of Colossus,28,2255561.78,4,1,Lunity,Demonic Colo
 100.0,22023,Green Jade,3,75265.37,4,7,Stalinha,Cleric Cap +6
 100.0,22023,Green Jade,3,75265.37,4,1,AAAAA123,ty
 100.0,22023,Green Jade,3,75265.37,4,6,GemMarket,GREEN JADE
 100.0,22028,Water Rock,15,983338.33,3,1,Caraxes,Uns Bow | SS set | 24 acc| Kals
-100.0,22029,Fire Rock,7,481250.38,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22434,,6,411112.78,4,4,monchito1,shadow crystal free
 100.0,22434,,6,411112.78,4,2,Ninja17,ITEM MALL
 100.0,25426,Universe Purse Fragment.,4,98189.0,4,5,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
@@ -27,7 +24,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28403,Blade of Incantation,3,150001.5,3,1,stallerx,Str pet+ crus equips and more
 100.0,28403,Blade of Incantation,3,150001.5,3,1,stallerx,Str pet+ crus equips and more
 99.99,25416,Cloud Heart,2,22777.26,4,1,WhereIsMyBraSize,dfzhbsdhbns
-99.99,26572,Inferno Potion,1,9636.92,4,45,Space,Inferno Potion (10 imp ea)
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
 99.98,25451,Jade Gem Fragment,8,37751.25,6,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.98,25452,Rock Gem Fragment,8,50213.68,11,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
@@ -42,15 +38,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.12,25493,Orange Colorant,300,2329.59,5,1,xVENDORx,RUSH
 87.12,25497,Blue Colorant,500,3881.94,4,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 86.21,25491,Decolorant,50,362.5,3,1,Manager,CHEAP HAIRSTYLE DROP PRICE
-82.38,28454,Ice Sealed Blade of Enigma,170000,964710.8,5,1,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 80.66,25499,Purple Colorant,500,2585.11,4,3,Manager,CHEAP HAIRSTYLE DROP PRICE
+80.64,28155,Steel Platemail,1000,5166.5,3,1,Swird,BPS/Tribal/Storm/Steel/Bow55
 78.54,25493,Orange Colorant,500,2329.59,5,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 78.54,25493,Orange Colorant,500,2329.59,5,2,cheapstuffsell,cheap
 77.49,25501,Brown Colorant,500,2220.83,4,7,Manager,CHEAP HAIRSTYLE DROP PRICE
-76.65,25439,Incantation Stone,200,856.66,7,6,BL4CKM4RK3T,stuff
+76.83,25439,Incantation Stone,200,863.36,7,4,BL4CKM4RK3T,stuff
 72.22,26590,Potion of Soul,750,2699.57,9,1,PALA02,garner
 69.52,25494,Yellow Colorant.,1000,3281.25,3,14,MushroomShop10,HAIRSTYLE
-68.9,28454,Ice Sealed Blade of Enigma,299999,964710.8,5,1,NecroManS,@@@
 67.86,28132,Voyager Cap,29999,93333.0,3,1,Destinys,@@@@
 66.86,26589,Potion of Bull,750,2263.44,15,1,PALA02,garner
 66.67,29062,Field Brew,25,75.01,6,32,Eslrea,title contract/fb/pbs/elder fur
@@ -65,12 +60,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.11,29056,20 Cooking EXP Card,800,2005.47,7,4,Wallnut,Corner Shop
 60.0,28035,Solar Shield,9999,24999.0,4,1,TTKillGirlTT,Stand Stone /  Equips 50
 60.0,29062,Field Brew,30,75.01,6,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
+59.78,28454,Ice Sealed Blade of Enigma,170000,422666.33,3,1,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 59.21,30121,Vial of Accuracy Reset,2000,4903.49,7,1,Buhonero,Welcome
 58.49,25496,Cyan Colorant.,2000,4817.98,5,1,cheapstuffsell,cheap
 57.81,30119,Vial of Consitution Reset,2500,5925.0,4,1,cheapstuff3,cheap
 57.12,25507,Expert Stone,595,1387.66,7,2,xLiliith,Some good mats for you!
 56.83,25507,Expert Stone,599,1387.66,7,39,BL4CKM4RK3T,stuff
-56.18,25375,Lightning Heart,80,182.56,3,7,KilbikolbiHUN,28 slot inventory 50k
 55.82,26589,Potion of Bull,1000,2263.44,15,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 54.97,25501,Brown Colorant,1000,2220.83,4,1,cheapstuffsell,cheap
 54.97,25501,Brown Colorant,1000,2220.83,4,10,MushroomShop10,HAIRSTYLE
