@@ -28,9 +28,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,26578,Aegis Brew,Shadow,yes,6,48210.35,48204.35,7,337430.48,99.99,3
 2025-10-21,28132,Voyager Cap,Pescado,Selling,5,83335.0,83330.0,1,83330.0,99.99,3
 2025-10-21,25416,Cloud Heart,WhereIsMyBraSize,dfzhbsdhbns,2,23749.3,23747.3,1,23747.3,99.99,3
-2025-10-21,30157,Iron Bar,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c,10,53753.12,53743.12,5,268715.62,99.98,3
 2025-10-21,25452,Rock Gem Fragment,RiasGremory,JADE CHEST ROCK FRAG GBAR,9,49089.78,49080.78,1,49080.78,99.98,9
 2025-10-21,25451,Jade Gem Fragment,RiasGremory,JADE CHEST ROCK FRAG GBAR,9,49080.72,49071.72,1,49071.72,99.98,6
+2025-10-21,30157,Iron Bar,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c,10,38605.0,38595.0,5,192975.0,99.97,3
 2025-10-21,26564,Meditation Potion,lamamandoski,super super cremoso,50,615.96,565.96,200,113191.81,91.88,3
 2025-10-21,26564,Meditation Potion,lamamandoski,super super cremoso,50,615.96,565.96,147,83195.98,91.88,3
 2025-10-21,28454,Ice Sealed Blade of Enigma,LotokSell,UgColos DemoSoul ShadowCrystal,200000,1251851.67,1051851.67,1,1051851.67,84.02,3
@@ -104,7 +104,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,26346,Lantern,LotokSell,UgColos DemoSoul ShadowCrystal,4000,4321.69,321.69,64,20588.11,7.44,13
 2025-10-21,30102,1000 Reputation Scroll,Saller,ty,7777,8357.58,580.58,99,57477.02,6.95,8
 2025-10-21,27017,Sorcerer's Wine,GordanRamsay,Cheapest Pots Ever Just Look !!!,9700,10414.3,714.3,87,62143.82,6.86,5
-2025-10-21,30139,100x Crystal,Diablo,garner,100000,106975.0,6975.0,20,139500.0,6.52,4
 2025-10-21,26576,Iron Brew,Kidlato,Pots/Cookeds/Radiation/BestPrice,7500,7977.59,477.59,86,41072.41,5.99,3
 2025-10-21,27020,Gold Pirate Scroll,FukPolice,jack/gps/pps/jade/lbp/stuffs,27000,28698.87,1698.87,16,27181.95,5.92,6
 2025-10-21,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,9800,10414.3,614.3,90,55286.72,5.9,5
