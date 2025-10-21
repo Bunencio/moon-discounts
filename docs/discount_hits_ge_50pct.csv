@@ -1,7 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,20,563650.91,3,1,zzzzz,garner
 100.0,22009,Gem of Colossus,20,563650.91,3,7,Aemond,UG/Demo/Jade/Rock gems cheap
-100.0,22010,Gem of Rage,21,792320.54,5,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22010,Gem of Rage,19,686680.33,6,2,MrFarm,CHEAPEST STALL IN TOWN
+100.0,22010,Gem of Rage,21,686680.33,6,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,MUTAA,FREE!
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,Lunity,Demonic Colo
 100.0,22023,Green Jade,3,74739.05,4,7,Stalinha,Cleric Cap +6
@@ -81,7 +82,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.06,25503,Magical Stone,100,213.03,7,99,XthedreamkillerX,sss
 53.0,28448,Fire Sealed Cloak of Evanescence,10000,21277.67,5,1,Exterminator,captian items buy pls
 53.0,28448,Fire Sealed Cloak of Evanescence,10000,21277.67,5,1,RenePuente,GEM OF WIND / POTS
-52.71,29002,Green Statue,500,1057.2,4,60,ghost26,scroll
 52.64,22004,Shining Gem,2000,4223.17,4,12,vendedolmax,2000
 52.57,25504,Standard Scroll,59,124.4,5,16,xLiliith,Some good mats for you!
 52.38,28444,Fire Sealed Bellow of Evanescence,10000,20999.8,5,1,Piru,>> Good To U <<
