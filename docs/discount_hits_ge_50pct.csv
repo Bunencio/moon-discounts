@@ -12,11 +12,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22029,Fire Rock,7,493750.38,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22434,,6,366669.0,4,3,monchito1,shadow crystal cheap
 100.0,22434,,6,366669.0,4,2,Ninja17,ITEM MALL
-100.0,25451,Jade Gem Fragment,1,39948.32,6,9,monchito1,shadow crystal cheap
-100.0,25452,Rock Gem Fragment,2,51021.75,11,17,monchito1,shadow crystal cheap
-100.0,25452,Rock Gem Fragment,2,51021.75,11,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
-100.0,25452,Rock Gem Fragment,1,51021.75,11,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,51021.75,11,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+100.0,25451,Jade Gem Fragment,1,37951.25,6,9,monchito1,shadow crystal cheap
+100.0,25452,Rock Gem Fragment,2,51021.73,11,17,monchito1,shadow crystal cheap
+100.0,25452,Rock Gem Fragment,2,51021.73,11,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
+100.0,25452,Rock Gem Fragment,1,51021.73,11,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,51021.73,11,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
 100.0,28326,Divine Grace Cap,1,33363.33,3,1,Pigrolac,CHEAPEST!!!
 100.0,28403,Blade of Incantation,3,150001.5,3,1,stallerx,Str pet+ crus equips and more
@@ -25,8 +25,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,26572,Inferno Potion,1,9636.92,4,45,Space,Inferno Potion (10 imp ea)
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
 99.99,28132,Voyager Cap,5,70001.0,4,1,Pescado,Selling
-99.98,25451,Jade Gem Fragment,9,39948.32,6,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
-99.98,25452,Rock Gem Fragment,9,51021.75,11,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
+99.98,25451,Jade Gem Fragment,8,37951.25,6,2,RiasGremory,JADE CHEST ROCK FRAG KAL GOLDBAR
+99.98,25452,Rock Gem Fragment,8,51021.73,11,1,RiasGremory,JADE CHEST ROCK FRAG KAL GOLDBAR
+99.97,29307,Ring of Damnation,18,62153.43,4,1,TheMystic,- STUFF SS CHEAP -
+99.97,29307,Ring of Damnation,18,62153.43,4,1,TheMystic,- STUFF SS CHEAP -
+99.97,29307,Ring of Damnation,19,62153.43,4,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
+99.97,29307,Ring of Damnation,19,62153.43,4,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.97,30157,Iron Bar,10,38605.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
 92.44,26564,Meditation Potion,45,595.47,3,28,Skills,x_X   Free    *_*    Free   X_x
