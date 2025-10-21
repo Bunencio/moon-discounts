@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22009,Gem of Colossus,20,466682.22,3,7,Aemond,UG/Demo/Jade/Rock gems cheap
-100.0,22010,Gem of Rage,21,555804.89,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,555804.89,5,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22010,Gem of Rage,21,475571.83,4,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,475571.83,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,MUTAA,FREE!
 100.0,22014,Demonic Gem of Colossus,29,1862510.62,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,Lunity,Demonic Colo
@@ -19,7 +19,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,51021.75,11,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,1,51021.75,11,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
-100.0,28136,Crown of Decendant,15,830002.8,5,1,2sharp,wow SSsale
+100.0,28326,Divine Grace Cap,1,33363.33,3,1,Pigrolac,CHEAPEST!!!
 100.0,28403,Blade of Incantation,3,175000.83,5,1,stallerx,Str pet+ crus equips and more
 100.0,28403,Blade of Incantation,3,175000.83,5,1,stallerx,Str pet+ crus equips and more
 99.99,25416,Cloud Heart,2,23749.3,3,1,WhereIsMyBraSize,dfzhbsdhbns
@@ -28,9 +28,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,28132,Voyager Cap,5,70001.0,4,1,Pescado,Selling
 99.98,25451,Jade Gem Fragment,9,47875.75,6,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.98,25452,Rock Gem Fragment,9,51021.75,11,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
-99.98,28326,Divine Grace Cap,1,5030.33,3,1,Pigrolac,CHEAPEST!!!
 99.97,30157,Iron Bar,10,38605.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
-98.21,28326,Divine Grace Cap,90,5030.33,3,1,Stalinha,Cleric Cap +6
+99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
 92.44,26564,Meditation Potion,45,595.47,3,28,Skills,x_X   Free    *_*    Free   X_x
 91.6,26564,Meditation Potion,50,595.47,3,147,lamamandoski,super super cremoso
 91.6,26564,Meditation Potion,50,595.47,3,200,lamamandoski,super super cremoso
@@ -64,8 +63,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.81,30119,Vial of Consitution Reset,2500,5925.0,4,1,cheapstuff3,cheap
 57.8,25503,Magical Stone,99,234.59,8,99,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 57.8,25503,Magical Stone,99,234.59,8,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
+57.59,25507,Expert Stone,595,1402.97,7,2,xLiliith,Some good mats for you!
 57.37,25503,Magical Stone,100,234.59,8,99,XthedreamkillerX,sss
-57.37,25507,Expert Stone,599,1405.26,6,39,BL4CKM4RK3T,stuff
+57.3,25507,Expert Stone,599,1402.97,7,39,BL4CKM4RK3T,stuff
 57.14,28132,Voyager Cap,29999,70001.0,4,1,Destinys,@@@@
 55.92,28448,Fire Sealed Cloak of Evanescence,10000,22687.38,5,1,Exterminator,captian items buy pls
 54.97,25501,Brown Colorant,1000,2220.83,4,1,cheapstuffsell,cheap
@@ -74,26 +74,27 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.33,22000,FieryGem,1350,2956.17,8,1,iLegolas,MinionFuit CookinCard Power Lv50
 53.97,29058,20 Crafting EXP Card,800,1737.99,6,1,Wallnut,Corner Shop
 53.21,25525,,7,14.96,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+52.57,25504,Standard Scroll,59,124.4,5,16,xLiliith,Some good mats for you!
 52.49,22004,Shining Gem,2000,4209.7,4,13,vendedolmax,2000
 51.98,29062,Field Brew,35,72.89,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
-51.93,25504,Standard Scroll,60,124.81,4,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
+51.77,25504,Standard Scroll,60,124.4,5,99,BakolRoti01,Standard Scroll
 51.03,29023,Standard 15 Treasure Hunting EXP Card,899,1835.93,5,3,BL4CKM4RK3T,stuff
-50.9,25507,Expert Stone,690,1405.26,6,69,sellerforfree,cheap
-50.9,25507,Expert Stone,690,1405.26,6,65,sellerforfree,cheap
-50.19,25507,Expert Stone,700,1405.26,6,28,Yennefer,ROCK JADE CHEST FRAG ROYAL SIGNE
+50.82,25507,Expert Stone,690,1402.97,7,69,sellerforfree,cheap
+50.82,25507,Expert Stone,690,1402.97,7,65,sellerforfree,cheap
+50.11,25507,Expert Stone,700,1402.97,7,28,Yennefer,ROCK JADE CHEST FRAG ROYAL SIGNE
