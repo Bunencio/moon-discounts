@@ -9,6 +9,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22023,Green Jade,3,65002.33,3,7,Stalinha,Cleric Cap +6
 100.0,22023,Green Jade,3,65002.33,3,1,AAAAA123,ty
 100.0,22023,Green Jade,3,65002.33,3,6,GemMarket,GREEN JADE
+100.0,22306,,10,916669.67,3,1,Jew,garner
+100.0,25426,Universe Purse Fragment.,4,136160.0,4,5,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
 100.0,25451,Jade Gem Fragment,1,48291.96,5,9,monchito1,elchinomilla
 100.0,25452,Rock Gem Fragment,2,41565.08,9,17,monchito1,elchinomilla
 100.0,25452,Rock Gem Fragment,2,41565.08,9,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
@@ -23,19 +25,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,4,190002.8,4,1,Systembuff,X
 100.0,29314,Ring of Angelic,4,190002.8,4,1,Systembuff,X
 99.99,25416,Cloud Heart,2,23749.3,3,1,WhereIsMyBraSize,dfzhbsdhbns
-99.99,26572,Inferno Potion,1,10245.72,5,47,Space,Inferno Potion (10 imp ea)
+99.99,26572,Inferno Potion,1,10323.63,5,45,Space,Inferno Potion (10 imp ea)
+99.98,25426,Universe Purse Fragment.,30,136160.0,4,2,Xiomarvic,fysdas
 99.98,25451,Jade Gem Fragment,9,48291.96,5,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.98,25452,Rock Gem Fragment,9,41565.08,9,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.98,30157,Iron Bar,10,54003.12,4,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.97,28326,Divine Grace Cap,1,3773.0,3,1,Pigrolac,CHEAPEST!!!
 99.97,28326,Divine Grace Cap,1,3773.0,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
 97.61,28326,Divine Grace Cap,90,3773.0,3,1,Stalinha,Cleric Cap +6
-94.74,2301,,500,9513.31,5,1,recogast,S> black color  dyes  misc
-94.74,2301,,500,9513.31,5,1,recogast,S> black color  dyes  misc
 92.69,26564,Meditation Potion,45,615.96,3,28,Skills,x_X   Free    *_*    Free   X_x
 91.88,26564,Meditation Potion,50,615.96,3,147,lamamandoski,super super cremoso
 91.88,26564,Meditation Potion,50,615.96,3,200,lamamandoski,super super cremoso
-88.42,25491,Decolorant,50,431.82,3,1,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.8,25495,Green Colorant,500,4100.0,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.23,25497,Blue Colorant,500,3914.29,3,3,Manager,CHEAP HAIRSTYLE DROP PRICE
 87.23,25497,Blue Colorant,500,3914.29,3,1,cheapstuffguys,cheap asf
@@ -51,10 +51,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 74.98,25440,Evanescence Stone,200,799.5,8,6,BL4CKM4RK3T,stuff
 72.97,28036,Emerald Shield,10000,37000.0,4,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 72.41,25525,,4,14.5,5,1,tiendaonline,offer offer offer
+65.9,29062,Field Brew,25,73.32,4,32,Eslrea,title contract/fb/pbs/elder fur
 64.78,29057,20 Manufacturing EXP Card,800,2271.37,4,1,Wallnut,Corner Shop
-61.24,29062,Field Brew,30,77.4,4,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 60.58,29056,20 Cooking EXP Card,800,2029.24,6,4,Wallnut,Corner Shop
 59.76,30122,Vial of Spirit Reset,2000,4970.16,5,1,Buhonero,Welcome
+59.08,29062,Field Brew,30,73.32,4,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 58.82,25389,Shark Fin,100,242.84,3,6,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 58.42,22001,Furious Gem,999,2402.59,9,21,cheapcheapcheap,cheap
 58.42,22001,Furious Gem,999,2402.59,9,3,Bathroom,Bank cleening S>
@@ -62,9 +63,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.47,30121,Vial of Accuracy Reset,2000,4702.51,6,1,Buhonero,Welcome
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
-54.78,29062,Field Brew,35,77.4,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
+54.0,28403,Blade of Incantation,95000,206499.6,8,1,BeIa,Uns 45 Cruz cheap
 53.62,29058,20 Crafting EXP Card,800,1724.91,5,1,Wallnut,Corner Shop
-53.23,28403,Blade of Incantation,95000,203124.75,7,1,BeIa,Uns 45 Cruz cheap
+52.26,29062,Field Brew,35,73.32,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
 51.72,25525,,7,14.5,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 51.64,29002,Green Statue,600,1240.59,4,60,ghost26,scroll
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
