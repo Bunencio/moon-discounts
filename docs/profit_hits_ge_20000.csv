@@ -7,6 +7,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,22022,Red Jade,Happyman,UG RAGE | RED JADE | FAIRIES,25,1183341.33,1183316.33,1,1183316.33,100.0,3
 2025-10-21,22306,,Jew,garner,10,916669.67,916659.67,1,916659.67,100.0,3
 2025-10-21,25527,,Deathless,garner,10,873125.5,873115.5,1,873115.5,100.0,4
+2025-10-21,28136,Crown of Decendant,2sharp,easy sale,15,810002.8,809987.8,1,809987.8,100.0,5
 2025-10-21,25452,Rock Gem Fragment,monchito1,elchinomilla,2,41565.08,41563.08,17,706572.31,100.0,9
 2025-10-21,25426,Universe Purse Fragment.,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE,4,136160.0,136156.0,5,680780.0,100.0,4
 2025-10-21,22010,Gem of Rage,River1,GemofRage,21,605157.86,605136.86,1,605136.86,100.0,5
@@ -55,8 +56,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,28403,Blade of Incantation,NecroManS,@@@@,150000,206499.6,56499.6,1,56499.6,27.36,8
 2025-10-21,28403,Blade of Incantation,Kasyadex,HL VOY/EVA ROCK N POWER/F.DUST!!,150000,206499.6,56499.6,1,56499.6,27.36,8
 2025-10-21,25507,Expert Stone,VendedoraJequiti,standard stone / more stones,749,1029.02,280.02,96,26882.21,27.21,7
-2025-10-21,30171,Ticket to Demonic World,dwtix,PharaLantern/ ElvenBunnyPot,390,531.12,141.12,148,20885.47,26.57,8
-2025-10-21,28136,Crown of Decendant,smoI,water rock cod white color,750000,1012499.75,262499.75,1,262499.75,25.93,4
+2025-10-21,30171,Ticket to Demonic World,dwtix,PharaLantern/ ElvenBunnyPot,390,531.11,141.11,148,20884.23,26.57,7
 2025-10-21,30168,Gyoza,Ludopat1n,Gyoza cheap pots,16000,21406.32,5406.32,9,48656.86,25.26,6
 2025-10-21,26588,Potion of Eagle,SvckMe,potion option potion,1888,2523.23,635.23,52,33031.73,25.18,11
 2025-10-21,25060,Cocobolo Log,123123312,cocobolo,10000,13360.0,3360.0,31,104160.0,25.15,9
@@ -67,7 +67,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,28401,Platemail of the Cursed Soul,BeIa,Uns 45 Cruz cheap,95000,124999.6,29999.6,1,29999.6,24.0,4
 2025-10-21,22000,FieryGem,STAII,CHEAP GEMS   POTS,1990,2538.52,548.52,53,29071.34,21.61,10
 2025-10-21,22000,FieryGem,BuySome,Buy Gayss,1999,2538.52,539.52,72,38845.15,21.25,10
-2025-10-21,28136,Crown of Decendant,Buuuyyyyer,Items!!,800000,1012499.75,212499.75,1,212499.75,20.99,4
 2025-10-21,26588,Potion of Eagle,cheapstuffsell,cheap,2000,2523.23,523.23,54,28254.18,20.74,11
 2025-10-21,30156,Jackpot Coin,zSamanthaCurvy,pet lv shop,8000,9998.71,1998.71,23,45970.36,19.99,12
 2025-10-21,26591,Potion of Lion,Ludopat1n,Gyoza cheap pots,1900,2374.11,474.11,47,22283.26,19.97,9
@@ -100,6 +99,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,27020,Gold Pirate Scroll,ShowMaker,Gps / Pps / Rock frag / +6 boots,26500,28880.9,2380.9,11,26189.91,8.24,8
 2025-10-21,26346,Lantern,Babi01,ty,3999,4356.89,357.89,152,54398.98,8.21,10
 2025-10-21,26576,Iron Brew,Cincar,Cincar pots,6999,7562.61,563.61,91,51288.23,7.45,3
+2025-10-21,28136,Crown of Decendant,smoI,water rock cod white color,750000,810002.8,60002.8,1,60002.8,7.41,5
 2025-10-21,27020,Gold Pirate Scroll,kory,GPS/PPS/JACK/REP/PBS/ALL POTION#,26999,28880.9,1881.9,14,26346.61,6.52,8
 2025-10-21,26571,Warlord Potion,GordanRamsay,Cheapest Warlord Aegis Sorcerer,3300,3520.83,220.83,115,25395.53,6.27,6
 2025-10-21,26571,Warlord Potion,GordanRamsay,Cheapest Warlord Aegis Sorcerer,3300,3520.83,220.83,102,22524.73,6.27,6
