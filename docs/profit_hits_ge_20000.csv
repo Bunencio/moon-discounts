@@ -72,12 +72,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,26588,Potion of Eagle,LotokSell,UgColos DemoSoul ShadowCrystal,2000,2470.81,470.81,55,25894.72,19.05,12
 2025-10-21,26588,Potion of Eagle,cheapstuffsell,cheap,2000,2470.81,470.81,54,25423.91,19.05,12
 2025-10-21,26588,Potion of Eagle,CHOLOVARATO,GPS/JPCOIN/PHA.GEM/POTIONS,2000,2470.81,470.81,46,21657.4,19.05,12
-2025-10-21,26575,Guardian's Brew,vnt3,Guardian Brew - Flas Bomb come !,499,612.72,113.72,188,21379.22,18.56,9
-2025-10-21,26575,Guardian's Brew,vnt3,Guardian Brew - Flas Bomb come !,499,612.72,113.72,178,20242.03,18.56,9
-2025-10-21,26575,Guardian's Brew,BPCRAFT,IRON BREW | GUARDIAN BREW,500,612.72,112.72,198,22318.42,18.4,9
-2025-10-21,26575,Guardian's Brew,OverTarget,Guardian Brew 500G,500,612.72,112.72,194,21867.54,18.4,9
-2025-10-21,26575,Guardian's Brew,OverTarget,Guardian Brew 500G,500,612.72,112.72,190,21416.66,18.4,9
-2025-10-21,26575,Guardian's Brew,OverTarget,Guardian Brew 500G,500,612.72,112.72,185,20853.07,18.4,9
+2025-10-21,26575,Guardian's Brew,vnt3,Guardian Brew - Flas Bomb come !,499,612.88,113.88,188,21409.34,18.58,9
+2025-10-21,26575,Guardian's Brew,vnt3,Guardian Brew - Flas Bomb come !,499,612.88,113.88,178,20270.55,18.58,9
+2025-10-21,26575,Guardian's Brew,BPCRAFT,IRON BREW | GUARDIAN BREW,500,612.88,112.88,198,22350.14,18.42,9
+2025-10-21,26575,Guardian's Brew,OverTarget,Guardian Brew 500G,500,612.88,112.88,194,21898.62,18.42,9
+2025-10-21,26575,Guardian's Brew,OverTarget,Guardian Brew 500G,500,612.88,112.88,190,21447.1,18.42,9
+2025-10-21,26575,Guardian's Brew,OverTarget,Guardian Brew 500G,500,612.88,112.88,185,20882.7,18.42,9
 2025-10-21,22306,,RecklessCruz,Cheapest Title Contract Eveeer,750000,916669.67,166669.67,1,166669.67,18.18,3
 2025-10-21,28454,Ice Sealed Blade of Enigma,VENDEDORAA,armor / boe / wing / crus stuff+,798000,964710.8,166710.8,1,166710.8,17.28,5
 2025-10-21,30102,1000 Reputation Scroll,LotokSell,UgColos DemoSoul ShadowCrystal,7000,8261.26,1261.26,68,85765.88,15.27,8
@@ -86,9 +86,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,26591,Potion of Lion,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS,2000,2307.99,307.99,113,34803.28,13.34,9
 2025-10-21,30135,Demonic Rock,Barya,FGP/DEMONIC ROCKS/PHARAOH LANTER,2800,3213.13,413.13,99,40899.46,12.86,7
 2025-10-21,26589,Potion of Bull,STAII,cheap gem/pots,1990,2262.74,272.74,186,50728.97,12.05,13
+2025-10-21,26592,Flash Bomb,LotokSell,UgColos DemoSoul ShadowCrystal,999,1132.7,133.7,200,26740.92,11.8,10
 2025-10-21,26567,Weightless Potion,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,8999,10200.92,1201.92,34,40865.36,11.78,3
-2025-10-21,26592,Flash Bomb,LotokSell,UgColos DemoSoul ShadowCrystal,999,1132.13,133.13,200,26625.83,11.76,10
-2025-10-21,26592,Flash Bomb,Bokol,FB Flash | Expert | Toxic,1000,1132.13,132.13,200,26425.83,11.67,10
+2025-10-21,26592,Flash Bomb,Bokol,FB Flash | Expert | Toxic,1000,1132.7,132.7,200,26540.92,11.72,10
 2025-10-21,28429,Dance of Evanescence,xTrueHistory,ShadowCrystal/Dance +5 x2,1000000,1131428.57,131428.57,1,131428.57,11.62,6
 2025-10-21,26589,Potion of Bull,LotokSell,UgColos DemoSoul ShadowCrystal,2000,2262.74,262.74,133,34943.94,11.61,13
 2025-10-21,26589,Potion of Bull,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS,2000,2262.74,262.74,79,20756.17,11.61,13
@@ -109,7 +109,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,30135,Demonic Rock,ESNAIDER,SELL JACKPOT/GPS/REF/PPS/DEMO RO,2999,3213.13,214.13,99,21198.46,6.66,7
 2025-10-21,30135,Demonic Rock,ESNAIDER,SELL JACKPOT/GPS/REF/PPS/DEMO RO,2999,3213.13,214.13,99,21198.46,6.66,7
 2025-10-21,30135,Demonic Rock,ESNAIDER,SELL JACKPOT/GPS/REF/PPS/DEMO RO,2999,3213.13,214.13,99,21198.46,6.66,7
-2025-10-21,26576,Iron Brew,Cincar,Cincar pots,6999,7453.69,454.69,190,86391.32,6.1,5
+2025-10-21,26576,Iron Brew,Cincar,Cincar pots,6999,7462.42,463.42,180,83415.32,6.21,5
 2025-10-21,27020,Gold Pirate Scroll,xJavux,cheap,27000,28729.82,1729.82,16,27677.1,6.02,8
 2025-10-21,27020,Gold Pirate Scroll,FukPolice,jack/gps/pps/jade/lbp/stuffs,27000,28729.82,1729.82,16,27677.1,6.02,8
 2025-10-21,30102,1000 Reputation Scroll,Saller,ty,7777,8261.26,484.26,99,47942.02,5.86,8
