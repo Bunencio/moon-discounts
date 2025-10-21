@@ -1,22 +1,25 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,21,693252.1,6,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22010,Gem of Rage,21,693252.1,6,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22014,Demonic Gem of Colossus,29,2128579.57,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22014,Demonic Gem of Colossus,28,2128579.57,4,1,Lunity,Demonic Colo
 100.0,22023,Green Jade,3,65002.33,3,7,Stalinha,Cleric Cap +6
 100.0,22023,Green Jade,3,65002.33,3,1,AAAAA123,ty
 100.0,22023,Green Jade,3,65002.33,3,6,GemMarket,GREEN JADE
 100.0,22029,Fire Rock,7,491667.17,3,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22306,,10,916669.67,3,1,Jew,garner
-100.0,22434,,6,288892.22,3,1,monchito1,elchinomilla
-100.0,22434,,6,288892.22,3,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
-100.0,22434,,6,288892.22,3,2,Ninja17,ITEM MALL
-100.0,22434,,6,288892.22,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
+100.0,22434,,6,325003.0,3,1,monchito1,elchinomilla
+100.0,22434,,6,325003.0,3,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
+100.0,22434,,6,325003.0,3,2,Ninja17,ITEM MALL
 100.0,25451,Jade Gem Fragment,1,49080.72,6,9,monchito1,elchinomilla
-100.0,25452,Rock Gem Fragment,2,49089.78,9,17,monchito1,elchinomilla
-100.0,25452,Rock Gem Fragment,2,49089.78,9,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
-100.0,25452,Rock Gem Fragment,1,49089.78,9,1,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,49089.78,9,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
+100.0,25452,Rock Gem Fragment,2,51613.06,10,17,monchito1,elchinomilla
+100.0,25452,Rock Gem Fragment,2,51613.06,10,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
+100.0,25452,Rock Gem Fragment,1,51613.06,10,1,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,51613.06,10,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
 100.0,28136,Crown of Decendant,15,825002.33,6,1,2sharp,wow SSsale
+100.0,28403,Blade of Incantation,3,160001.0,4,1,stallerx,Str pet+ crus equips and more
+100.0,28403,Blade of Incantation,3,160001.0,4,1,stallerx,Str pet+ crus equips and more
 100.0,29314,Ring of Angelic,5,178002.8,4,1,Paaches,Voy Uns Set | Custom Dagger| Pr
 100.0,29314,Ring of Angelic,5,178002.8,4,1,Paaches,Voy Uns Set | Custom Dagger| Pr
 100.0,29314,Ring of Angelic,5,178002.8,4,1,BV10,f
@@ -28,11 +31,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,26578,Aegis Brew,6,48210.35,3,7,Shadow,yes
 99.99,28132,Voyager Cap,5,83335.0,3,1,Pescado,Selling
 99.98,25451,Jade Gem Fragment,9,49080.72,6,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
-99.98,25452,Rock Gem Fragment,9,49089.78,9,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
-99.97,28326,Divine Grace Cap,1,3773.0,3,1,Pigrolac,CHEAPEST!!!
-99.97,28326,Divine Grace Cap,1,3773.0,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
+99.98,25452,Rock Gem Fragment,9,51613.06,10,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
+99.98,28326,Divine Grace Cap,1,5030.33,3,1,Pigrolac,CHEAPEST!!!
 99.97,30157,Iron Bar,10,38605.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
-97.61,28326,Divine Grace Cap,90,3773.0,3,1,Stalinha,Cleric Cap +6
+98.21,28326,Divine Grace Cap,90,5030.33,3,1,Stalinha,Cleric Cap +6
 92.69,26564,Meditation Potion,45,615.96,3,28,Skills,x_X   Free    *_*    Free   X_x
 91.88,26564,Meditation Potion,50,615.96,3,147,lamamandoski,super super cremoso
 91.88,26564,Meditation Potion,50,615.96,3,200,lamamandoski,super super cremoso
@@ -47,13 +49,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.62,25493,Orange Colorant,500,2339.18,4,2,cheapstuffsell,cheap
 78.02,22004,Shining Gem,900,4094.8,5,2,Mambanegra,lust/glowing/shining/spirit gem
 77.67,25501,Brown Colorant,500,2239.32,3,7,Manager,CHEAP HAIRSTYLE DROP PRICE
-76.78,25439,Incantation Stone,200,861.15,6,6,BL4CKM4RK3T,stuff
 73.26,25525,,4,14.96,5,1,tiendaonline,offer offer offer
 70.52,30119,Vial of Consitution Reset,1999,6781.25,3,1,NinJaKol,Random cheap stall
 65.9,29062,Field Brew,25,73.32,4,32,Eslrea,title contract/fb/pbs/elder fur
-62.83,22001,Furious Gem,999,2687.69,8,21,cheapcheapcheap,cheap
-62.83,22001,Furious Gem,999,2687.69,8,3,Bathroom,Bank cleening S>
-62.79,22001,Furious Gem,1000,2687.69,8,3,MushroomShop8,Normal Gems
+62.76,22001,Furious Gem,999,2682.34,8,21,cheapcheapcheap,cheap
+62.76,22001,Furious Gem,999,2682.34,8,1,SariSariStore1,CLEANING BANK
+62.76,22001,Furious Gem,999,2682.34,8,3,Bathroom,Bank cleening S>
+62.72,22001,Furious Gem,1000,2682.34,8,3,MushroomShop8,Normal Gems
 61.93,29057,20 Manufacturing EXP Card,800,2101.27,5,1,Wallnut,Corner Shop
 61.51,30122,Vial of Spirit Reset,2000,5196.81,6,1,Buhonero,Welcome
 60.11,29056,20 Cooking EXP Card,800,2005.47,7,4,Wallnut,Corner Shop
@@ -62,11 +64,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
 55.12,25503,Magical Stone,100,222.83,8,99,XthedreamkillerX,sss
+54.33,22000,FieryGem,1350,2956.17,8,1,iLegolas,MinionFuit CookinCard Power Lv50
 53.97,29058,20 Crafting EXP Card,800,1737.99,6,1,Wallnut,Corner Shop
 53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good to U <<
 53.21,25525,,7,14.96,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 52.26,29062,Field Brew,35,73.32,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
-52.2,22000,FieryGem,1350,2824.41,10,10,iLegolas,MinionFuit CookinCard Power Lv50
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
