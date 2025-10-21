@@ -19,15 +19,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,49089.78,9,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
 100.0,28474,Ice Sealed Mantle of the Sphinx,1,77500.0,4,1,stallerx,UG Gems/ Shadow crystals+ + + +
+100.0,29314,Ring of Angelic,5,178002.8,4,1,Paaches,Voy Uns Set | Custom Dagger| Pr
+100.0,29314,Ring of Angelic,5,178002.8,4,1,Paaches,Voy Uns Set | Custom Dagger| Pr
+100.0,29314,Ring of Angelic,5,178002.8,4,1,BV10,f
+100.0,29314,Ring of Angelic,5,178002.8,4,1,BV10,f
+100.0,29314,Ring of Angelic,4,178002.8,4,1,Systembuff,x
+100.0,29314,Ring of Angelic,4,178002.8,4,1,Systembuff,x
 99.99,25416,Cloud Heart,2,23749.3,3,1,WhereIsMyBraSize,dfzhbsdhbns
 99.99,26572,Inferno Potion,1,10198.02,7,45,Space,Inferno Potion (10 imp ea)
 99.99,26578,Aegis Brew,6,45597.45,3,7,Shadow,yes
+99.99,28132,Voyager Cap,5,83335.0,3,1,Pescado,Selling
 99.98,25451,Jade Gem Fragment,9,53900.6,6,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.98,25452,Rock Gem Fragment,9,49089.78,9,1,RiasGremory,JADE CHEST ROCK FRAG GBAR
 99.98,30157,Iron Bar,10,53753.12,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.97,28326,Divine Grace Cap,1,3773.0,3,1,Pigrolac,CHEAPEST!!!
 99.97,28326,Divine Grace Cap,1,3773.0,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
-99.46,25158,Snail Food,1,186.27,3,1,Nocturna#84,gg
 97.61,28326,Divine Grace Cap,90,3773.0,3,1,Stalinha,Cleric Cap +6
 92.69,26564,Meditation Potion,45,615.96,3,28,Skills,x_X   Free    *_*    Free   X_x
 91.88,26564,Meditation Potion,50,615.96,3,147,lamamandoski,super super cremoso
@@ -53,7 +59,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.93,29057,20 Manufacturing EXP Card,800,2101.27,5,1,Wallnut,Corner Shop
 61.51,30122,Vial of Spirit Reset,2000,5196.81,6,1,Buhonero,Welcome
 60.11,29056,20 Cooking EXP Card,800,2005.47,7,4,Wallnut,Corner Shop
-59.19,30121,Vial of Accuracy Reset,2000,4901.07,7,1,Buhonero,Welcome
+59.23,30121,Vial of Accuracy Reset,2000,4905.79,7,1,Buhonero,Welcome
 59.08,29062,Field Brew,30,73.32,4,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
@@ -82,4 +88,3 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.22,26501,Tiny EXP Berry,2000,4100.0,3,2,MikiMuto,Emma Tiglao
 51.16,22004,Shining Gem,2000,4094.8,5,13,vendedolmax,2000
 51.16,22004,Shining Gem,2000,4094.8,5,6,MushroomShop8,Normal Gems
-50.85,25440,Evanescence Stone,400,813.86,7,7,LunaMaya,S>PPS FB LightninHeart SnailFood
