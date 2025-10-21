@@ -1,17 +1,17 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,21,693252.1,6,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22010,Gem of Rage,21,693252.1,6,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22014,Demonic Gem of Colossus,29,2128579.57,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22014,Demonic Gem of Colossus,28,2128579.57,4,1,Lunity,Demonic Colo
 100.0,22023,Green Jade,3,65002.33,3,7,Stalinha,Cleric Cap +6
 100.0,22023,Green Jade,3,65002.33,3,1,AAAAA123,ty
 100.0,22023,Green Jade,3,65002.33,3,6,GemMarket,GREEN JADE
 100.0,22029,Fire Rock,7,491667.17,3,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22306,,10,916669.67,3,1,Jew,garner
-100.0,22434,,6,236367.45,3,1,Nell,SHADOW CRYSTAL
-100.0,22434,,6,236367.45,3,1,monchito1,elchinomilla
-100.0,22434,,6,236367.45,3,1,IfYouSeemeRun,Ring Spr 60/Shadow C/Pet lv20
-100.0,22434,,6,236367.45,3,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
-100.0,22434,,6,236367.45,3,2,Ninja17,ITEM MALL
-100.0,22434,,6,236367.45,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
+100.0,22434,,6,288892.22,3,1,monchito1,elchinomilla
+100.0,22434,,6,288892.22,3,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
+100.0,22434,,6,288892.22,3,2,Ninja17,ITEM MALL
+100.0,22434,,6,288892.22,3,1,stallerx,UG Gems/ Shadow crystals+ + + +
 100.0,25451,Jade Gem Fragment,1,53900.6,6,9,monchito1,elchinomilla
 100.0,25452,Rock Gem Fragment,2,49089.78,9,17,monchito1,elchinomilla
 100.0,25452,Rock Gem Fragment,2,49089.78,9,1,Coffi,SHADOW CRYSTAL/FRAGMENTS/STONE
@@ -53,9 +53,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.26,25525,,4,14.96,5,1,tiendaonline,offer offer offer
 70.52,30119,Vial of Consitution Reset,1999,6781.25,3,1,NinJaKol,Random cheap stall
 65.9,29062,Field Brew,25,73.32,4,32,Eslrea,title contract/fb/pbs/elder fur
-62.77,22001,Furious Gem,999,2683.35,8,21,cheapcheapcheap,cheap
-62.77,22001,Furious Gem,999,2683.35,8,3,Bathroom,Bank cleening S>
-62.73,22001,Furious Gem,1000,2683.35,8,3,MushroomShop8,Normal Gems
+62.83,22001,Furious Gem,999,2687.69,8,21,cheapcheapcheap,cheap
+62.83,22001,Furious Gem,999,2687.69,8,3,Bathroom,Bank cleening S>
+62.79,22001,Furious Gem,1000,2687.69,8,3,MushroomShop8,Normal Gems
 61.93,29057,20 Manufacturing EXP Card,800,2101.27,5,1,Wallnut,Corner Shop
 61.51,30122,Vial of Spirit Reset,2000,5196.81,6,1,Buhonero,Welcome
 60.11,29056,20 Cooking EXP Card,800,2005.47,7,4,Wallnut,Corner Shop
@@ -64,6 +64,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 55.34,25501,Brown Colorant,1000,2239.32,3,1,cheapstuffsell,cheap
 55.34,25501,Brown Colorant,1000,2239.32,3,10,MushroomShop10,HAIRSTYLE
 53.97,29058,20 Crafting EXP Card,800,1737.99,6,1,Wallnut,Corner Shop
+53.85,28444,Fire Sealed Bellow of Evanescence,10000,21666.67,3,1,Piru,>> Good to U <<
 53.21,25525,,7,14.96,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 52.26,29062,Field Brew,35,73.32,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolCumiCumi,Red Blueprint | Octopus | Scroll
@@ -83,7 +84,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolRoti01,Standard Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolRoti01,Standard Scroll
 52.1,25504,Standard Scroll,60,125.27,5,99,BakolRoti01,Standard Scroll
-51.76,22000,FieryGem,1350,2798.4,10,11,iLegolas,MinionFuit CookinCard Power Lv50
+51.98,22000,FieryGem,1350,2811.2,10,11,iLegolas,MinionFuit CookinCard Power Lv50
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
 51.22,26501,Tiny EXP Berry,2000,4100.0,3,2,MikiMuto,Emma Tiglao
 51.16,22004,Shining Gem,2000,4094.8,5,13,vendedolmax,2000
