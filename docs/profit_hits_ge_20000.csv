@@ -41,7 +41,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,30102,1000 Reputation Scroll,MatsBk,S>IMPS/PPS/JC/DUST/REP/MORE,6000,8397.38,2397.38,23,55139.8,28.55,7
 2025-10-21,30209,Island Card,SariSariStore1,CLEANING,2499,3491.47,992.47,29,28781.56,28.43,4
 2025-10-21,25507,Expert Stone,VendedoraJequiti,standard stone / more stones,749,1030.19,281.19,96,26994.62,27.3,7
-2025-10-21,30171,Ticket to Demonic World,dwtix,PharaLantern/ ElvenBunnyPot,390,530.35,140.35,148,20771.16,26.46,8
+2025-10-21,30171,Ticket to Demonic World,dwtix,PharaLantern/ ElvenBunnyPot,390,530.42,140.42,148,20782.4,26.47,8
 2025-10-21,28136,Crown of Decendant,smoI,water rock cod white color,750000,1016666.67,266666.67,1,266666.67,26.23,3
 2025-10-21,28403,Blade of Incantation,NecroManS,@@@@,150000,203124.75,53124.75,1,53124.75,26.15,7
 2025-10-21,28403,Blade of Incantation,Kasyadex,HL VOY/EVA ROCK N POWER/F.DUST!!,150000,203124.75,53124.75,1,53124.75,26.15,7
@@ -65,12 +65,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,26591,Potion of Lion,STAII,CHEAP GEMS   POTS,1990,2344.34,354.34,70,24803.97,15.11,10
 2025-10-21,26344,Novice Weightless Potion,STAII,CHEAP GEMS   POTS,2990,3510.08,520.08,99,51488.2,14.82,10
 2025-10-21,26591,Potion of Lion,011,cleaning,2000,2344.34,344.34,67,23070.94,14.69,10
-2025-10-21,26589,Potion of Bull,STAII,CHEAP GEMS   POTS,1990,2323.18,333.18,186,61971.57,14.34,11
-2025-10-21,26589,Potion of Bull,011,cleaning,2000,2323.18,323.18,70,22622.63,13.91,11
+2025-10-21,26589,Potion of Bull,STAII,CHEAP GEMS   POTS,1990,2328.93,338.93,186,63040.22,14.55,11
+2025-10-21,26589,Potion of Bull,011,cleaning,2000,2328.93,328.93,70,23024.81,14.12,11
 2025-10-21,25428,Shining Runestone,Buuuyyyyer,Items!!,155000,178000.0,23000.0,2,46000.0,12.92,3
-2025-10-21,26592,Flash Bomb,vnt3,fbs fbs fbs fbs best price! Come,999,1138.92,139.92,200,27984.63,12.29,10
-2025-10-21,26592,Flash Bomb,vnt3,fbs fbs fbs fbs best price! Come,999,1138.92,139.92,146,20428.78,12.29,10
-2025-10-21,27020,Gold Pirate Scroll,xSugar,empanada e mechada,25000,28426.56,3426.56,15,51398.41,12.05,8
+2025-10-21,26592,Flash Bomb,vnt3,fbs fbs fbs fbs best price! Come,999,1137.47,138.47,200,27694.99,12.17,8
+2025-10-21,26592,Flash Bomb,vnt3,fbs fbs fbs fbs best price! Come,999,1137.47,138.47,146,20217.35,12.17,8
 2025-10-21,26503,Great EXP Berry,op999999,*CB/HB/NANAS/WEIGT/GROWT/RATIONS,20999,23479.75,2480.75,19,47134.25,10.57,3
 2025-10-21,27017,Sorcerer's Wine,GordanRamsay,Cheapest Warlord Aegis Sorcerer,10000,11176.2,1176.2,87,102329.34,10.52,5
 2025-10-21,26346,Lantern,SeventhHeaven,Scrolls/Coins/Frags/Lantern etc,3900,4358.21,458.21,89,40780.29,10.51,11
@@ -78,16 +77,17 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-21,30135,Demonic Rock,JakubMarket,Jakub Enterprises,2900,3203.31,303.31,99,30027.42,9.47,6
 2025-10-21,26346,Lantern,STAII,CHEAP GEMS   POTS,3990,4358.21,368.21,128,47130.31,8.45,11
 2025-10-21,26346,Lantern,Babi01,ty,3999,4358.21,359.21,152,54599.24,8.24,11
+2025-10-21,27020,Gold Pirate Scroll,ghost26,scroll,26400,28734.34,2334.34,14,32680.69,8.12,7
+2025-10-21,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PURSE | JACK | POTS ++++++,26500,28734.34,2234.34,13,29046.36,7.78,7
+2025-10-21,27020,Gold Pirate Scroll,ShowMaker,Gps / Pps / Rock frag / +6 boots,26500,28734.34,2234.34,11,24577.69,7.78,7
 2025-10-21,30102,1000 Reputation Scroll,Saller,ty,7777,8397.38,620.38,99,61417.86,7.39,7
 2025-10-21,26576,Iron Brew,Cincar,Cincar pots,6999,7553.88,554.88,96,53268.71,7.35,3
-2025-10-21,27020,Gold Pirate Scroll,ghost26,scroll,26400,28426.56,2026.56,14,28371.85,7.13,8
-2025-10-21,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PURSE | JACK | POTS ++++++,26500,28426.56,1926.56,13,25045.29,6.78,8
-2025-10-21,27020,Gold Pirate Scroll,ShowMaker,Gps / Pps / Rock frag / +6 boots,26500,28426.56,1926.56,11,21192.16,6.78,8
 2025-10-21,30135,Demonic Rock,Merchanty,GPS|DemonicRock|Frags|Feral+6Acc,2990,3203.31,213.31,94,20050.89,6.66,6
 2025-10-21,30135,Demonic Rock,ESNAIDER,SELL IMPS/JACKPOT/KAL/REF/PPS,3000,3203.31,203.31,99,20127.42,6.35,6
 2025-10-21,30135,Demonic Rock,ESNAIDER,SELL IMPS/JACKPOT/KAL/REF/PPS,3000,3203.31,203.31,99,20127.42,6.35,6
 2025-10-21,26571,Warlord Potion,GordanRamsay,Cheapest Warlord Aegis Sorcerer,3300,3519.92,219.92,120,26390.18,6.25,6
 2025-10-21,26571,Warlord Potion,GordanRamsay,Cheapest Warlord Aegis Sorcerer,3300,3519.92,219.92,102,22431.65,6.25,6
+2025-10-21,27020,Gold Pirate Scroll,kory,GPS/PPS/JACK/REP/PBS/ALL POTION#,26999,28734.34,1735.34,14,24294.69,6.04,7
 2025-10-21,22028,Water Rock,Eryndor,Red/Yellow Jade | Water Rock,1400000,1483333.33,83333.33,1,83333.33,5.62,3
 2025-10-21,26568,Skating Potion,Aois,STALL,40000,42351.9,2351.9,12,28222.84,5.55,9
 2025-10-21,26578,Aegis Brew,GordanRamsay,Cheapest Warlord Aegis Sorcerer,49500,52370.97,2870.97,36,103354.84,5.48,3
