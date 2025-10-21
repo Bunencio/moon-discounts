@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,21,605157.86,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,605157.86,5,1,River1,GemofRage
-100.0,22010,Gem of Rage,21,605157.86,5,8,Happyman,UG RAGE | RED JADE | FAIRIES
+100.0,22010,Gem of Rage,21,767013.12,6,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,767013.12,6,1,River1,GemofRage
+100.0,22010,Gem of Rage,21,767013.12,6,8,Happyman,UG RAGE | RED JADE | FAIRIES
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,zzzzz,garner
 100.0,22014,Demonic Gem of Colossus,29,1862510.62,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,Lunity,Demonic Colo
@@ -17,14 +17,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,41565.08,9,1,Goliat,Fragment Store
 100.0,25452,Rock Gem Fragment,1,41565.08,9,1,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
 100.0,25527,,10,873125.5,4,1,Deathless,garner
-100.0,28136,Crown of Decendant,15,825002.33,6,1,2sharp,easy sale
+100.0,28136,Crown of Decendant,15,825002.33,6,1,2sharp,SSale
 100.0,28474,Ice Sealed Mantle of the Sphinx,1,77499.75,4,1,stallerx,UG Gems/ Shadow crystals+ + + +
-100.0,29314,Ring of Angelic,5,190002.8,4,1,Paaches,Voy Uns Set | Custom Dagger| Pr
-100.0,29314,Ring of Angelic,5,190002.8,4,1,Paaches,Voy Uns Set | Custom Dagger| Pr
-100.0,29314,Ring of Angelic,5,190002.8,4,1,BV10,f
-100.0,29314,Ring of Angelic,5,190002.8,4,1,BV10,f
-100.0,29314,Ring of Angelic,4,190002.8,4,1,Systembuff,X
-100.0,29314,Ring of Angelic,4,190002.8,4,1,Systembuff,X
 99.99,25416,Cloud Heart,2,23749.3,3,1,WhereIsMyBraSize,dfzhbsdhbns
 99.99,26572,Inferno Potion,1,10323.63,5,45,Space,Inferno Potion (10 imp ea)
 99.98,25426,Universe Purse Fragment.,30,136160.0,4,2,Xiomarvic,fysdas
@@ -50,10 +44,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 77.67,25501,Brown Colorant,500,2239.32,3,7,Manager,CHEAP HAIRSTYLE DROP PRICE
 76.72,25439,Incantation Stone,200,859.0,7,6,BL4CKM4RK3T,stuff
 74.98,25440,Evanescence Stone,200,799.5,8,6,BL4CKM4RK3T,stuff
-72.97,28036,Emerald Shield,10000,37000.0,4,1,SSTTAALL,ICE STAFF/SBOOTS+3/SHIELD/NORGEM
 72.41,25525,,4,14.5,5,1,tiendaonline,offer offer offer
 65.9,29062,Field Brew,25,73.32,4,32,Eslrea,title contract/fb/pbs/elder fur
 64.78,29057,20 Manufacturing EXP Card,800,2271.37,4,1,Wallnut,Corner Shop
+61.64,2301,,6000,15641.42,7,1,idex,8888
 60.58,29056,20 Cooking EXP Card,800,2029.24,6,4,Wallnut,Corner Shop
 59.76,30122,Vial of Spirit Reset,2000,4970.16,5,1,Buhonero,Welcome
 59.08,29062,Field Brew,30,73.32,4,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
