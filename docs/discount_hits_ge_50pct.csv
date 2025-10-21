@@ -1,7 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,21,711231.09,5,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
-100.0,22010,Gem of Rage,21,711231.09,5,1,River1,GemofRage
-100.0,22010,Gem of Rage,21,711231.09,5,8,Happyman,UG RAGE | RED JADE | FAIRIES
+100.0,22010,Gem of Rage,21,560962.84,4,6,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
+100.0,22010,Gem of Rage,21,560962.84,4,8,Happyman,UG RAGE | RED JADE | FAIRIES
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,zzzzz,garner
 100.0,22014,Demonic Gem of Colossus,29,1862510.62,4,1,Sysh,RAGE/D RAGE/D COLO/110 SWORDS
 100.0,22014,Demonic Gem of Colossus,28,1862510.62,4,1,Lunity,Demonic Colo
@@ -38,12 +37,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.62,25493,Orange Colorant,500,2339.18,4,2,cheapstuffsell,cheap
 78.02,22004,Shining Gem,900,4094.8,5,2,Mambanegra,lust/glowing/shining/spirit gem
 77.67,25501,Brown Colorant,500,2239.32,3,7,Manager,CHEAP HAIRSTYLE DROP PRICE
-76.72,25439,Incantation Stone,200,859.0,7,6,BL4CKM4RK3T,stuff
+76.78,25439,Incantation Stone,200,861.15,6,6,BL4CKM4RK3T,stuff
 74.98,25440,Evanescence Stone,200,799.5,8,6,BL4CKM4RK3T,stuff
 72.41,25525,,4,14.5,5,1,tiendaonline,offer offer offer
 65.9,29062,Field Brew,25,73.32,4,32,Eslrea,title contract/fb/pbs/elder fur
 64.78,29057,20 Manufacturing EXP Card,800,2271.37,4,1,Wallnut,Corner Shop
-61.64,2301,,6000,15641.42,7,1,idex,8888
 60.58,29056,20 Cooking EXP Card,800,2029.24,6,4,Wallnut,Corner Shop
 59.76,30122,Vial of Spirit Reset,2000,4970.16,5,1,Buhonero,Welcome
 59.08,29062,Field Brew,30,73.32,4,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
@@ -58,9 +56,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.23,28403,Blade of Incantation,95000,203124.75,7,1,BeIa,Uns 45 Cruz cheap
 52.26,29062,Field Brew,35,73.32,4,13,Meguminn,EXPLOOOOSIOOONN!!!eee
 51.72,25525,,7,14.5,5,16,ZSOLOZ,CHAOS JEWELL FRAG/ROCK GEM FRAG@
-51.64,29002,Green Statue,600,1240.59,4,60,ghost26,scroll
 51.33,25496,Cyan Colorant.,2000,4109.59,3,1,cheapstuffsell,cheap
 51.19,30209,Island Card,2000,4097.56,4,4,RecklessCruz,Cheapest Title Contract Eveeer
 51.16,22004,Shining Gem,2000,4094.8,5,13,vendedolmax,2000
 51.16,22004,Shining Gem,2000,4094.8,5,6,MushroomShop8,Normal Gems
+51.0,29002,Green Statue,600,1224.44,3,60,ghost26,scroll
 50.0,26501,Tiny EXP Berry,2000,4000.0,4,2,MikiMuto,Emma Tiglao
