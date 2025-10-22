@@ -5,7 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,28,2222228.33,5,1,Lunity,Demonic Colo
 100.0,22434,,6,381819.91,3,2,tiendaonline,offer offer
 100.0,22434,,6,381819.91,3,2,Ninja17,ITEM MALL
-100.0,25426,Universe Purse Fragment.,4,153501.8,4,5,Coffi,FRAGMENTS
+100.0,25426,Universe Purse Fragment.,4,141113.11,3,5,Coffi,FRAGMENTS
 100.0,25431,Kal Runestone,11,357150.14,4,2,Mikosita1,SELL KAL BEST PRICE
 100.0,25431,Kal Runestone,10,357150.14,4,3,Aemond,UG/Demo/rock gems
 100.0,25451,Jade Gem Fragment,1,51834.56,10,9,monchito1,super cremoso
@@ -21,21 +21,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28403,Blade of Incantation,3,190001.2,3,1,stallerx,Str pet+ crus equips and more
 100.0,28458,Ice Sealed Staff of the Sphinx,1,36667.0,3,1,stallerx,Str pet+ crus equips and more
 100.0,28468,Ice Sealed Mantle of Enigma,1,137500.25,4,1,voyo,super sale !
+100.0,29324,Soulbinding Necklace,6,387501.5,3,1,voyo,super sale !
 99.99,22011,Gemof Sout,12,130052.11,4,14,jejejeje,GEM OF SOUL
 99.99,22011,Gemof Sout,12,130052.11,4,9,Suntukan,SOUL
 99.99,22023,Green Jade,3,56676.33,4,7,Stalinha,Cleric Cap +6
 99.99,22023,Green Jade,3,56676.33,4,1,AAAAA123,ty
-99.99,22028,Water Rock,15,265012.0,3,8,Aemond,UG/Demo/rock gems
 99.99,25525,,35,422423.07,5,8,waterdog,jewel frag
 99.99,28441,Roar of Evanescence,50,800016.67,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
-99.99,30156,Jackpot Coin,1,9029.81,13,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,9029.53,13,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22011,Gemof Sout,20,130052.11,4,1,monchito1,super cremoso
 99.98,25451,Jade Gem Fragment,8,51834.56,10,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.98,25452,Rock Gem Fragment,9,46489.78,10,1,Goliat,Rock Fragment CHEAP
 99.98,25452,Rock Gem Fragment,8,46489.78,10,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.98,25533,,8,44504.0,3,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
-99.98,29323,Nimble Venturer,20,110006.67,3,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
-99.97,30157,Iron Bar,10,37705.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.96,22023,Green Jade,25,56676.33,4,6,GemMarket,GREEN JADE
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
 97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
@@ -62,6 +60,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.93,22000,FieryGem,1350,3134.75,10,1,iLegolas,MinionFuit CookinCard Power Lv50
 56.41,25212,Frozen Elixir,77,176.65,3,84,dsadsa,weightless tix dw fairy ration
 56.11,29058,20 Crafting EXP Card,800,1822.59,5,5,PWHunter,that's all
+55.65,25068,Magical Birch Wood Strip,100,225.48,3,80,RecklessCruz,Cheapest Eveeeeeeeeer <333333333
 55.03,25507,Expert Stone,595,1323.2,8,2,xLiliith,Some good mats for you!
 54.86,25501,Brown Colorant,1000,2215.38,3,1,cheapstuffsell,cheap
 54.86,25501,Brown Colorant,1000,2215.38,3,10,MushroomShop10,HAIRSTYLE
