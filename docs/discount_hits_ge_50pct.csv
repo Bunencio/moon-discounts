@@ -7,8 +7,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,28,2150006.88,5,1,Lunity,Demonic Colo
 100.0,25426,Universe Purse Fragment.,4,80002.86,3,5,Coffi,FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,52125.62,7,9,monchito1,super cremoso
-100.0,25452,Rock Gem Fragment,2,40043.35,11,1,Coffi,FRAGMENTS
-100.0,25452,Rock Gem Fragment,2,40043.35,11,18,monchito1,super cremoso
 100.0,25525,,3,478946.66,4,1,VelvetRevolver,Chaos Jewell
 100.0,25525,,3,478946.66,4,1,tiendaonline,offer offer
 100.0,28132,Voyager Cap,3,70000.5,4,1,Pescado,Sell
@@ -17,20 +15,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28456,Ice Sealed Robe of the Sphinx,1,59667.0,3,1,stallerx,Str pet+ crus equips and more
 99.99,22023,Green Jade,3,56676.33,4,7,Stalinha,Cleric Cap +6
 99.99,22023,Green Jade,3,56676.33,4,1,AAAAA123,ty
+99.99,25452,Rock Gem Fragment,2,25688.34,9,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,25688.34,9,18,monchito1,super cremoso
 99.99,28136,Crown of Decendant,30,290011.8,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,290011.8,5,1,AAA123,13123131321
 99.99,28439,Tattoo of Evanescence,50,466683.33,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
 99.99,28441,Roar of Evanescence,50,816683.33,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
 99.99,30156,Jackpot Coin,1,8389.74,11,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,25451,Jade Gem Fragment,8,52125.62,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
-99.98,25452,Rock Gem Fragment,9,40043.35,11,1,sstido,selling
-99.98,25452,Rock Gem Fragment,9,40043.35,11,1,Goliat,Rock Fragment CHEAP
-99.98,25452,Rock Gem Fragment,8,40043.35,11,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,25533,,8,44504.0,3,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
+99.97,25452,Rock Gem Fragment,8,25688.34,9,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.97,25476,Hairstyling Voucher,2,7000.25,3,2,sstido,selling
 99.96,22023,Green Jade,25,56676.33,4,6,GemMarket,GREEN JADE
+99.96,25452,Rock Gem Fragment,9,25688.34,9,1,sstido,selling
+99.96,25452,Rock Gem Fragment,9,25688.34,9,1,Goliat,Rock Fragment CHEAP
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
 97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 97.41,25497,Blue Colorant,100,3865.28,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
@@ -49,6 +49,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 63.64,22001,Furious Gem,999,2747.79,10,1,SariSariStore1,CLEANING BANK
 62.62,29056,20 Cooking EXP Card,800,2139.91,5,1,PWHunter,that's all
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
+61.91,28035,Solar Shield,9999,26249.0,3,1,BartholomewKuma,SM 50 / Shield/ Equips 50
 60.52,22004,Shining Gem,1500,3799.18,5,37,hunterx,Ug strike/wind/repu/bp/xp etc
 57.7,25389,Shark Fin,69,163.13,4,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
 57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,DALE VENI A VER
