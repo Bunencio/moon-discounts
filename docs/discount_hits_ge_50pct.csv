@@ -11,7 +11,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,23587.28,5,9,monchito1,super cremoso
 100.0,25451,Jade Gem Fragment,1,23587.28,5,10,CocoZap,Possession / Jade
 100.0,25525,,3,491891.08,4,1,tiendaonline,offer offer
-100.0,28132,Voyager Cap,3,70000.5,4,1,Pescado,Sell
+100.0,28132,Voyager Cap,3,83334.33,3,1,Pescado,Sell
 100.0,28326,Divine Grace Cap,1,103333.33,3,1,Pigrolac,CHEAPEST!!!
 100.0,28456,Ice Sealed Robe of the Sphinx,1,59667.0,3,1,stallerx,Str pet+ crus equips and more
 99.99,22007,Gem of Striking,13,93560.65,4,18,Aemond,Cheap GEMS
@@ -20,8 +20,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,25688.34,9,18,monchito1,super cremoso
 99.99,28136,Crown of Decendant,30,290037.0,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,290037.0,5,1,AAA123,13123131321
-99.99,28439,Tattoo of Evanescence,50,433350.0,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
-99.99,28441,Roar of Evanescence,50,783350.0,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
 99.99,30156,Jackpot Coin,1,8249.49,11,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22007,Gem of Striking,16,93560.65,4,1,zzzzz,garner
 99.98,25533,,8,44504.0,3,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
@@ -56,7 +54,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.52,22004,Shining Gem,1500,3799.18,5,37,hunterx,Ug strike/wind/repu/bp/xp etc
 58.04,25389,Shark Fin,68,162.07,5,9,xLiliith,Some good things for you!e
 57.42,25389,Shark Fin,69,162.07,5,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
-57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,DALE VENI A VER
 55.83,29058,20 Crafting EXP Card,800,1811.16,6,5,PWHunter,that's all
 55.43,26501,Tiny EXP Berry,2000,4487.5,5,2,MikiMuto,Emma Tiglao
 55.1,30122,Vial of Spirit Reset,2000,4454.7,7,1,Buhonero,Welcome
