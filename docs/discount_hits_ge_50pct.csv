@@ -1,7 +1,7 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22008,Gem of the Wind,10,210365.0,4,1,Aemond,UG/Demo/rock gems
-100.0,22008,Gem of the Wind,10,210365.0,4,7,MrFarm,cheapest stall in town
-100.0,22008,Gem of the Wind,10,210365.0,4,3,Conquest,1231
+100.0,22008,Gem of the Wind,10,259674.0,5,1,Aemond,UG/Demo/rock gems
+100.0,22008,Gem of the Wind,10,259674.0,5,7,MrFarm,cheapest stall in town
+100.0,22008,Gem of the Wind,10,259674.0,5,3,Conquest,1231
 100.0,22010,Gem of Rage,21,675013.92,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,27,2150006.88,5,1,MUTAA,COLOS!
 100.0,22014,Demonic Gem of Colossus,28,2150006.88,5,1,Lunity,Demonic Colo
@@ -26,6 +26,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25452,Rock Gem Fragment,9,40043.35,11,1,Goliat,Rock Fragment CHEAP
 99.98,25452,Rock Gem Fragment,8,40043.35,11,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,25533,,8,44504.0,3,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
+99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.97,25476,Hairstyling Voucher,2,7000.25,3,2,sstido,selling
 99.96,22023,Green Jade,25,56676.33,4,6,GemMarket,GREEN JADE
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
