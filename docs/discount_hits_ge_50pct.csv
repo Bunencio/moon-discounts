@@ -1,8 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,20,1333339.67,3,1,zzzzz,garner
-100.0,22010,Gem of Rage,21,554560.64,3,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
-100.0,22014,Demonic Gem of Colossus,27,2222228.33,5,1,MUTAA,COLOS!
-100.0,22014,Demonic Gem of Colossus,28,2222228.33,5,1,Lunity,Demonic Colo
+100.0,22009,Gem of Colossus,20,1450004.75,4,1,zzzzz,garner
+100.0,22010,Gem of Rage,21,675013.92,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22014,Demonic Gem of Colossus,27,2200006.11,6,1,MUTAA,COLOS!
+100.0,22014,Demonic Gem of Colossus,28,2200006.11,6,1,Lunity,Demonic Colo
 100.0,25426,Universe Purse Fragment.,4,141113.11,3,5,Coffi,FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,46483.65,10,9,monchito1,super cremoso
 100.0,25452,Rock Gem Fragment,2,40043.35,11,1,Coffi,FRAGMENTS
@@ -18,6 +18,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22023,Green Jade,3,56676.33,4,1,AAAAA123,ty
 99.99,28136,Crown of Decendant,15,290011.8,5,1,AAA123,123123133213213
 99.99,28136,Crown of Decendant,30,290011.8,5,1,AAA123,123123133213213
+99.99,28439,Tattoo of Evanescence,50,466683.33,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
+99.99,28441,Roar of Evanescence,50,816683.33,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
 99.99,30156,Jackpot Coin,1,8767.53,12,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,25451,Jade Gem Fragment,8,46483.65,10,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,25452,Rock Gem Fragment,9,40043.35,11,1,sstido,selling
@@ -30,35 +32,33 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.96,22023,Green Jade,25,56676.33,4,6,GemMarket,GREEN JADE
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
 90.46,26000,Sandy Coin,300,3144.22,4,15,Shab7,cheeeeeeeeeeep
-82.19,22001,Furious Gem,499,2801.88,9,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
-82.15,22001,Furious Gem,500,2801.88,9,3,Bathroom,S>cleening bank
+82.4,22001,Furious Gem,499,2834.42,9,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
+82.36,22001,Furious Gem,500,2834.42,9,3,Bathroom,S>cleening bank
 77.1,25439,Incantation Stone,200,873.45,6,4,BL4CKM4RK3T,stuff
-66.29,22003,Glowing Gem,900,2669.99,5,3,SSTTAALL,CHEAP STUFF/NORMALGEM
-66.29,22003,Glowing Gem,900,2669.99,5,91,Look7,gem
+66.94,22003,Glowing Gem,900,2721.97,5,3,SSTTAALL,CHEAP STUFF/NORMALGEM
+66.94,22003,Glowing Gem,900,2721.97,5,91,Look7,gem
 65.22,28035,Solar Shield,9999,28749.0,4,1,TTKillGirlTT,Stand Stone /  Equips 50
-65.08,25440,Evanescence Stone,200,572.79,7,99,hunterx,Ug strike/wind/repu/bp/xp etc
-65.08,25440,Evanescence Stone,200,572.79,7,23,HyjoSeller,Cheapest of them all
-64.35,22001,Furious Gem,999,2801.88,9,1,SariSariStore1,CLEANING BANK
-62.31,22004,Shining Gem,1500,3980.35,6,37,hunterx,Ug strike/wind/repu/bp/xp etc
+65.12,25440,Evanescence Stone,200,573.35,7,99,hunterx,Ug strike/wind/repu/bp/xp etc
+65.12,25440,Evanescence Stone,200,573.35,7,23,HyjoSeller,Cheapest of them all
+64.75,22001,Furious Gem,999,2834.42,9,1,SariSariStore1,CLEANING BANK
+63.23,22004,Shining Gem,1500,4079.37,5,37,hunterx,Ug strike/wind/repu/bp/xp etc
 61.57,29056,20 Cooking EXP Card,800,2081.85,6,1,PWHunter,that's all
 61.31,29023,Standard 15 Treasure Hunting EXP Card,750,1938.39,5,11,hunterx,Ug strike/wind/repu/bp/xp etc
-59.17,30121,Vial of Accuracy Reset,2000,4898.54,6,1,Buhonero,Welcome
-59.17,30121,Vial of Accuracy Reset,2000,4898.54,6,4,Ivynor,All cheap
 59.07,25507,Expert Stone,595,1453.53,7,2,xLiliith,Some good mats for you!
 57.7,25389,Shark Fin,69,163.13,4,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
 57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,@@@@
-56.93,22000,FieryGem,1350,3134.75,10,1,iLegolas,MinionFuit CookinCard Power Lv50
 56.41,25212,Frozen Elixir,77,176.65,3,84,dsadsa,weightless tix dw fairy ration
+56.29,22000,FieryGem,1350,3088.69,10,1,iLegolas,MinionFuit CookinCard Power Lv50
 56.11,29058,20 Crafting EXP Card,800,1822.59,5,5,PWHunter,that's all
+55.99,30121,Vial of Accuracy Reset,2000,4544.09,5,1,Buhonero,Welcome
+55.99,30121,Vial of Accuracy Reset,2000,4544.09,5,4,Ivynor,All cheap
 55.73,30122,Vial of Spirit Reset,2000,4517.58,6,1,Buhonero,Welcome
 55.73,30122,Vial of Spirit Reset,2000,4517.58,6,1,Ivynor,All cheap
 54.24,29057,20 Manufacturing EXP Card,800,1748.28,4,17,PWHunter,that's all
 54.2,25439,Incantation Stone,400,873.45,6,3,Bathroom,S>cleening bank
-53.94,26589,Potion of Bull,1000,2171.08,14,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 53.62,29023,Standard 15 Treasure Hunting EXP Card,899,1938.39,5,3,BL4CKM4RK3T,stuff
-52.15,22000,FieryGem,1500,3134.75,10,1,lamamandoski,basurita
-52.13,27006,Bunny Potion,900,1880.0,4,1,xxxSHINxxx,jiggles
+53.52,26589,Potion of Bull,1000,2151.38,14,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+52.59,26501,Tiny EXP Berry,2000,4218.18,6,2,MikiMuto,Emma Tiglao
 51.91,25507,Expert Stone,699,1453.53,7,9,BL4CKM4RK3T,stuff
 51.84,25507,Expert Stone,700,1453.53,7,28,Yennefer,JADE ROCK CHEST MOON SUN CLOUD
-51.35,25503,Magical Stone,99,203.5,6,40,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
-51.35,25503,Magical Stone,99,203.5,6,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
+51.44,22000,FieryGem,1500,3088.69,10,1,lamamandoski,basurita
