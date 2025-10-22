@@ -25,7 +25,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,22011,Gemof Sout,Suntukan,SOUL,12,132973.93,132961.93,9,1196657.33,99.99,4
 2025-10-22,22007,Gem of Striking,MrFarm,CHEAPEST STALL IN TOWN/2PAGES!!!,13,90012.26,89999.26,10,899992.58,99.99,4
 2025-10-22,25527,,Deathless,garner,85,873134.88,873049.88,1,873049.88,99.99,4
-2025-10-22,30156,Jackpot Coin,JackSparroow,JACKPOT COIN (10IMP),1,8324.89,8323.89,75,624292.04,99.99,11
+2025-10-22,30156,Jackpot Coin,JackSparroow,JACKPOT COIN (10IMP),1,7686.67,7685.67,75,576425.29,99.99,9
 2025-10-22,25452,Rock Gem Fragment,monchito1,super cremoso,2,25688.34,25686.34,18,462354.17,99.99,9
 2025-10-22,28136,Crown of Decendant,AAA123,13123131321,15,290037.0,290022.0,1,290022.0,99.99,5
 2025-10-22,28136,Crown of Decendant,AAA123,13123131321,30,290037.0,290007.0,1,290007.0,99.99,5
@@ -54,7 +54,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,22003,Glowing Gem,vendedolmax,2000,2000,3693.66,1693.66,18,30485.85,45.85,5
 2025-10-22,22004,Shining Gem,vendedolmax,2000,2000,3689.03,1689.03,12,20268.31,45.79,6
 2025-10-22,28468,Ice Sealed Mantle of Enigma,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS,100000,183333.33,83333.33,1,83333.33,45.45,3
-2025-10-22,26589,Potion of Bull,hunterx,Ug strike/wind/repu/bp/xp etc,1250,2198.91,948.91,26,24671.74,43.15,12
 2025-10-22,25420,Sunlight Heart,Defender,SUNLIGHT HEARTs CRAFT,15000,24800.0,9800.0,5,49000.0,39.52,5
 2025-10-22,28441,Roar of Evanescence,Okno,Merry Christmas,480000,786666.67,306666.67,1,306666.67,38.98,3
 2025-10-22,26326,Elven Royal Signet,Fortis,All cheap,500,811.27,311.27,164,51047.84,38.37,6
@@ -100,9 +99,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,29305,Ring of Destruction,Jorgelyss,Shop Here,150000,171666.5,21666.5,1,21666.5,12.62,4
 2025-10-22,27025,Radiation Lv1,Kalista,detector / radiation,1899,2150.55,251.55,104,26160.91,11.7,6
 2025-10-22,28429,Dance of Evanescence,TankDatAss,2x UNSEALED 55 Crus swords +5 +2,900000,1014000.0,114000.0,1,114000.0,11.24,5
+2025-10-22,26589,Potion of Bull,STAII,cheap dem/ug wind   pots,1990,2232.03,242.03,216,52278.38,10.84,11
 2025-10-22,29312,Ring of Might,Killua#24,RING,400000,447499.75,47499.75,1,47499.75,10.61,3
 2025-10-22,26346,Lantern,SeventhHeaven,Scrolls/Contract/Lantern etc,3900,4350.92,450.92,63,28408.23,10.36,13
-2025-10-22,26589,Potion of Bull,STAII,cheap dem/ug wind   pots,1990,2198.91,208.91,216,45125.23,9.5,12
 2025-10-22,26346,Lantern,STAII,cheap dem/ug wind   pots,3990,4350.92,360.92,99,35731.5,8.3,13
 2025-10-22,26592,Flash Bomb,STAII,cheap dem/ug wind   pots,990,1075.44,85.44,235,20077.91,7.94,9
 2025-10-22,26345,Elven Potion,okok,Elven Potion/Pharaoh Lantern,4499,4885.1,386.1,74,28571.18,7.9,6
@@ -124,4 +123,4 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,26585,Blessed Potion,Gems,Blessed Blessed BLessed Blessed,89999,92669.89,2670.89,20,53417.87,2.88,6
 2025-10-22,26585,Blessed Potion,Itau,DRUGSTORE,90000,92669.89,2669.89,8,21359.15,2.88,6
 2025-10-22,27020,Gold Pirate Scroll,Paka01,JadeGemFrag GPS Jackpot PPS Repu,26888,27371.15,483.15,90,43483.24,1.77,8
-2025-10-22,30139,100x Crystal,BuffUup,S> CHEAP Imps,108750,109832.25,1082.25,23,24891.77,0.99,3
+2025-10-22,30139,100x Crystal,BuffUup,S> CHEAP Imps,108750,109836.96,1086.96,22,23913.04,0.99,3
