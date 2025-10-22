@@ -1,10 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22009,Gem of Colossus,20,1400006.67,3,1,zzzzz,garner
+100.0,22009,Gem of Colossus,20,1333339.67,3,1,zzzzz,garner
 100.0,22010,Gem of Rage,21,563651.64,3,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,MUTAA,FREE!
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,Lunity,Demonic Colo
-100.0,22434,,6,325002.88,4,2,tiendaonline,offer offer
-100.0,22434,,6,325002.88,4,2,Ninja17,ITEM MALL
+100.0,22434,,6,360001.9,3,2,tiendaonline,offer offer
+100.0,22434,,6,360001.9,3,2,Ninja17,ITEM MALL
 100.0,25426,Universe Purse Fragment.,4,153501.8,4,5,Coffi,FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,48648.97,8,9,monchito1,super cremoso
 100.0,25525,,3,270320.81,5,1,VelvetRevolver,Chaos Jewell
@@ -26,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,270320.81,5,8,waterdog,jewel frag
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
 99.99,28441,Roar of Evanescence,50,800016.67,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
-99.99,30156,Jackpot Coin,1,9025.73,13,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,9027.8,13,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,25451,Jade Gem Fragment,8,48648.97,8,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.98,25452,Rock Gem Fragment,9,36630.0,9,1,Goliat,Rock Fragment CHEAP
 99.98,25452,Rock Gem Fragment,8,36630.0,9,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
@@ -66,7 +66,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.49,25501,Brown Colorant,1000,2197.5,4,10,MushroomShop10,HAIRSTYLE
 54.45,30122,Vial of Spirit Reset,2000,4390.82,7,1,Buhonero,Welcome
 54.4,29057,20 Manufacturing EXP Card,800,1754.27,5,17,PWHunter,thst's all
-54.37,26589,Potion of Bull,1000,2191.38,14,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+54.36,26589,Potion of Bull,1000,2191.22,14,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 54.34,25496,Cyan Colorant.,2200,4817.98,5,4,ratatata,cheap
 53.59,25439,Incantation Stone,400,861.85,7,3,Bathroom,S>cleening bank
 52.37,27029,Ship Penetrator Lv1,200,419.89,3,37,Lja,pet str 13 1gen/stone/feral vest
