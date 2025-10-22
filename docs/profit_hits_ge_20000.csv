@@ -14,7 +14,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,28456,Ice Sealed Robe of the Sphinx,stallerx,Str pet+ crus equips and more,1,59667.0,59666.0,1,59666.0,100.0,3
 2025-10-22,28326,Divine Grace Cap,Pigrolac,CHEAPEST!!!,1,33363.33,33362.33,1,33362.33,100.0,3
 2025-10-22,28441,Roar of Evanescence,Okno,Unseals 55/65 champ/Spr2Gen/APP,50,816683.33,816633.33,1,816633.33,99.99,3
-2025-10-22,30156,Jackpot Coin,JackSparroow,JACKPOT COIN (10IMP),1,8389.74,8388.74,75,629155.56,99.99,11
+2025-10-22,30156,Jackpot Coin,JackSparroow,JACKPOT COIN (10IMP),1,8263.69,8262.69,75,619701.65,99.99,11
 2025-10-22,28439,Tattoo of Evanescence,Okno,Unseals 55/65 champ/Spr2Gen/APP,50,466683.33,466633.33,1,466633.33,99.99,3
 2025-10-22,25452,Rock Gem Fragment,monchito1,super cremoso,2,25688.34,25686.34,18,462354.17,99.99,9
 2025-10-22,22023,Green Jade,Stalinha,Cleric Cap +6,3,56676.33,56673.33,7,396713.33,99.99,4
@@ -43,7 +43,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25420,Sunlight Heart,Defender,SUNLIGHT HEARTs CRAFT,15000,24800.0,9800.0,5,49000.0,39.52,5
 2025-10-22,28460,Ice Sealed Robe of Enigma,ShanksBr,Itens,45000,71666.67,26666.67,1,26666.67,37.21,3
 2025-10-22,26326,Elven Royal Signet,Fortis,All cheap,500,796.05,296.05,200,59209.48,37.19,9
-2025-10-22,25534,,freeee,cheap,1999,3171.7,1172.7,73,85606.99,36.97,11
+2025-10-22,25534,,freeee,cheap,1999,3177.83,1178.83,73,86054.45,37.1,11
 2025-10-22,22000,FieryGem,STAII,cheap dem/ug wind   pots,1990,3135.74,1145.74,53,60724.03,36.54,8
 2025-10-22,25420,Sunlight Heart,Yennefer,JADE ROCK CHEST MOON SUN CLOUD,17000,24800.0,7800.0,12,93600.0,31.45,5
 2025-10-22,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,1490,2109.26,619.26,45,27866.67,29.36,3
@@ -92,7 +92,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2150.55,151.55,200,30309.45,7.05,6
 2025-10-22,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2150.55,151.55,165,25005.29,7.05,6
 2025-10-22,27025,Radiation Lv1,reserv,RAD LV 1/ IRON BREW,2000,2150.55,150.55,200,30109.45,7.0,6
-2025-10-22,25031,Refining Gem,ESNAIDER,SELL JACKPOT/KAL/REF/GPS/PPS,6500,6885.73,385.73,181,69817.93,5.6,6
+2025-10-22,25031,Refining Gem,ESNAIDER,SELL JACKPOT/KAL/REF/GPS/PPS,6500,6897.27,397.27,174,69125.59,5.76,6
 2025-10-22,25417,Moonlight Heart,Yennefer,JADE ROCK CHEST MOON SUN CLOUD,98000,102333.33,4333.33,6,26000.0,4.23,3
 2025-10-22,30102,1000 Reputation Scroll,Saller,ty,6900,7201.41,301.41,99,29839.64,4.19,8
 2025-10-22,26571,Warlord Potion,BPCRAFT,WARLORD POTION | GUARDIAN BREW,2999,3122.82,123.82,185,22907.32,3.97,7
@@ -101,4 +101,3 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,26585,Blessed Potion,Gems,Blessed Blessed BLessed Blessed,89999,92598.97,2599.97,20,51999.31,2.81,5
 2025-10-22,26585,Blessed Potion,Itau,DRUGSTORE,90000,92598.97,2598.97,8,20791.72,2.81,5
 2025-10-22,27020,Gold Pirate Scroll,Paka01,JadeGemFrag GPS Jackpot PPS Repu,26888,27528.83,640.83,90,57674.93,2.33,8
-2025-10-22,30139,100x Crystal,zRoma,Yellow Jade/Golden Rock/Imps/PFg,108000,108318.18,318.18,73,23227.27,0.29,3
