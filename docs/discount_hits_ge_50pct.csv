@@ -1,4 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
+100.0,22009,Gem of Colossus,20,1400006.67,3,1,zzzzz,garner
 100.0,22010,Gem of Rage,21,563651.64,3,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,MUTAA,FREE!
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,Lunity,Demonic Colo
@@ -27,7 +28,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
 99.99,28441,Roar of Evanescence,50,800016.67,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
 99.99,29323,Nimble Venturer,20,153340.0,3,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
-99.99,30156,Jackpot Coin,1,9009.2,14,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,9015.75,12,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,25452,Rock Gem Fragment,8,34062.12,8,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.97,25452,Rock Gem Fragment,9,34062.12,8,1,Goliat,Rock Fragment CHEAP
 99.97,30157,Iron Bar,10,37705.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
@@ -46,7 +47,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 78.42,25493,Orange Colorant,500,2317.35,6,2,cheapstuffsell,cheap
 76.79,25439,Incantation Stone,200,861.85,7,4,BL4CKM4RK3T,shadow crystal
 73.24,25440,Evanescence Stone,200,747.24,9,23,HyjoSeller,Cheapest of them all
-72.09,28474,Ice Sealed Mantle of the Sphinx,20000,71666.0,3,1,Ryujhin,Voy Items PPS PBS
 69.52,25494,Yellow Colorant.,1000,3281.25,3,14,MushroomShop10,HAIRSTYLE
 65.22,28035,Solar Shield,9999,28749.0,4,1,TTKillGirlTT,Stand Stone /  Equips 50
 64.22,22003,Glowing Gem,900,2515.56,4,6,SSTTAALL,CHEAP STUFF/NORMALGEM
@@ -55,12 +55,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.66,22001,Furious Gem,999,2675.09,9,21,cheapcheapcheap,cheap
 62.66,22001,Furious Gem,999,2675.09,9,1,SariSariStore1,CLEANING BANK
 61.51,30122,Vial of Spirit Reset,2000,5196.81,6,1,Buhonero,Welcome
-60.15,29058,20 Crafting EXP Card,800,2007.41,4,4,PWHunter,thst's all
 59.21,25258,Spirit Feather,77,188.77,5,49,dsadsa,weightless tix dw fairy ration
 59.21,30121,Vial of Accuracy Reset,2000,4903.49,7,1,Buhonero,Welcome
 58.49,25496,Cyan Colorant.,2000,4817.98,5,1,cheapstuffsell,cheap
 57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,@@@@
 56.79,22000,FieryGem,1350,3124.16,10,1,iLegolas,MinionFuit CookinCard Power Lv50
+56.32,29058,20 Crafting EXP Card,800,1831.34,5,4,PWHunter,thst's all
 55.06,28442,Fire Sealed Coat of Evanescence,14999,33374.75,3,1,TTKillGirlTT,Stand Stone /  Equips 50
 55.03,25507,Expert Stone,595,1323.2,8,2,xLiliith,Some good mats for you!
 54.62,22004,Shining Gem,2000,4407.2,5,12,vendedolmax,2000
