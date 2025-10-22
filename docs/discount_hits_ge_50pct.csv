@@ -4,7 +4,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,MUTAA,FREE!
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,Lunity,Demonic Colo
 100.0,22028,Water Rock,13,295010.4,3,8,Aemond,cheap gemsss
-100.0,25451,Jade Gem Fragment,1,56127.69,9,9,monchito1,super cremoso
+100.0,25451,Jade Gem Fragment,1,46978.76,9,9,monchito1,super cremoso
 100.0,25452,Rock Gem Fragment,2,45605.81,11,1,Coffi,FRAGMENTS
 100.0,25452,Rock Gem Fragment,2,45605.81,11,18,monchito1,super cremoso
 100.0,25525,,4,270320.84,6,1,tiendaonline,offer offer offer
@@ -20,10 +20,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22023,Green Jade,3,56676.33,4,7,Stalinha,Cleric Cap +6
 99.99,22023,Green Jade,3,56676.33,4,1,AAAAA123,ty
 99.99,25416,Cloud Heart,2,22777.26,4,1,WhereIsMyBraSize,dfzhbsdhbns
-99.99,25451,Jade Gem Fragment,8,56127.69,9,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.99,25525,,35,270320.84,6,8,waterdog,jewel frag
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
 99.99,30156,Jackpot Coin,1,9385.45,12,75,JackSparroow,JACKPOT COIN (10IMP)
+99.98,25451,Jade Gem Fragment,8,46978.76,9,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.98,25452,Rock Gem Fragment,9,45605.81,11,1,Goliat,Rock Fragment CHEAP
 99.98,25452,Rock Gem Fragment,8,45605.81,11,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.97,30157,Iron Bar,10,37705.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
@@ -70,5 +70,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.32,25439,Incantation Stone,400,875.64,6,3,Bathroom,S>cleening bank
 52.64,22004,Shining Gem,2000,4223.17,4,12,vendedolmax,2000
 52.37,27029,Ship Penetrator Lv1,200,419.89,3,37,Lja,pet str 13 1gen/stone/feral vest
-50.08,25503,Magical Stone,99,198.32,8,69,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
-50.08,25503,Magical Stone,99,198.32,8,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
+50.8,25503,Magical Stone,99,201.21,7,69,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
+50.8,25503,Magical Stone,99,201.21,7,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
