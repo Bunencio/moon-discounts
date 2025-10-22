@@ -20,14 +20,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,28136,Crown of Decendant,15,290011.8,5,1,AAA123,13123131321
 99.99,28439,Tattoo of Evanescence,50,466683.33,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
 99.99,28441,Roar of Evanescence,50,816683.33,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
-99.99,30156,Jackpot Coin,1,8418.41,11,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,8389.74,11,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,25451,Jade Gem Fragment,8,52125.62,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,25452,Rock Gem Fragment,9,40043.35,11,1,sstido,selling
 99.98,25452,Rock Gem Fragment,9,40043.35,11,1,Goliat,Rock Fragment CHEAP
 99.98,25452,Rock Gem Fragment,8,40043.35,11,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,25533,,8,44504.0,3,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
-99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
-99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.97,25476,Hairstyling Voucher,2,7000.25,3,2,sstido,selling
 99.96,22023,Green Jade,25,56676.33,4,6,GemMarket,GREEN JADE
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
@@ -38,33 +36,32 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 92.93,25479,Phyllis Hairstyle Book,50,706.73,3,45,Manager,HAIRSTYLE SUPER DROP PRICE
 90.46,26000,Sandy Coin,300,3144.22,4,15,Shab7,cheeeeeeeeeeep
 84.24,25494,Yellow Colorant.,500,3171.88,3,14,MushroomShop10,Hairstyle
-82.27,22001,Furious Gem,499,2814.03,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
-82.23,22001,Furious Gem,500,2814.03,10,3,Bathroom,S>cleening bank
+81.84,22001,Furious Gem,499,2747.79,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
+81.8,22001,Furious Gem,500,2747.79,10,3,Bathroom,S>cleening bank
 78.28,25501,Brown Colorant,500,2301.82,4,1,cheapstuffsell,cheap
-74.43,25439,Incantation Stone,200,782.02,7,4,BL4CKM4RK3T,stuff
+76.99,22003,Glowing Gem,900,3911.41,4,3,SSTTAALL,CHEAP STUFF/NORMALGEM
 73.58,25493,Orange Colorant,100,378.57,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
-69.79,22001,Furious Gem,850,2814.03,10,3,cheapstuffsell,cheap
-66.97,22003,Glowing Gem,900,2725.1,4,3,SSTTAALL,CHEAP STUFF/NORMALGEM
-66.97,22003,Glowing Gem,900,2725.1,4,91,Look7,gem
+70.04,25439,Incantation Stone,200,667.54,6,4,BL4CKM4RK3T,stuff
+69.07,22001,Furious Gem,850,2747.79,10,3,cheapstuffsell,cheap
 65.22,28035,Solar Shield,9999,28749.0,4,1,TTKillGirlTT,Stand Stone /  Equips 50
-64.5,22001,Furious Gem,999,2814.03,10,1,SariSariStore1,CLEANING BANK
-63.23,22004,Shining Gem,1500,4079.37,5,37,hunterx,Ug strike/wind/repu/bp/xp etc
-62.72,25440,Evanescence Stone,200,536.47,8,99,hunterx,Ug strike/wind/repu/bp/xp etc
-62.72,25440,Evanescence Stone,200,536.47,8,23,HyjoSeller,Cheapest of them all
+63.64,22001,Furious Gem,999,2747.79,10,1,SariSariStore1,CLEANING BANK
 62.62,29056,20 Cooking EXP Card,800,2139.91,5,1,PWHunter,that's all
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
+60.52,22004,Shining Gem,1500,3799.18,5,37,hunterx,Ug strike/wind/repu/bp/xp etc
 57.7,25389,Shark Fin,69,163.13,4,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
 57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,DALE VENI A VER
 56.11,29058,20 Crafting EXP Card,800,1822.59,5,5,PWHunter,that's all
 55.43,26501,Tiny EXP Berry,2000,4487.5,5,2,MikiMuto,Emma Tiglao
+55.1,30122,Vial of Spirit Reset,2000,4454.7,7,1,Buhonero,Welcome
+55.1,30122,Vial of Spirit Reset,2000,4454.7,7,1,Ivynor,All cheap
 54.93,25212,Frozen Elixir,77,170.86,3,84,dsadsa,weightless tix dw fairy ration
 54.37,30121,Vial of Accuracy Reset,2000,4382.71,6,1,Buhonero,Welcome
 54.37,30121,Vial of Accuracy Reset,2000,4382.71,6,4,Ivynor,All cheap
 54.24,29057,20 Manufacturing EXP Card,800,1748.28,4,17,PWHunter,that's all
 54.23,25507,Expert Stone,595,1300.06,9,2,xLiliith,Some good mats for you!
-53.86,26589,Potion of Bull,1000,2167.12,14,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
-53.66,30122,Vial of Spirit Reset,2000,4315.82,7,1,Buhonero,Welcome
-53.66,30122,Vial of Spirit Reset,2000,4315.82,7,1,Ivynor,All cheap
-51.52,22000,FieryGem,1500,3094.0,8,1,lamamandoski,basurita
+54.22,26589,Potion of Bull,1000,2184.33,13,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+52.16,22000,FieryGem,1500,3135.74,8,1,lamamandoski,basurita
+50.05,25503,Magical Stone,99,198.19,5,40,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
+50.05,25503,Magical Stone,99,198.19,5,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 50.0,25507,Expert Stone,650,1300.06,9,69,sellerforfree,cheap
 50.0,25507,Expert Stone,650,1300.06,9,65,sellerforfree,cheap
