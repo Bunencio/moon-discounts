@@ -5,9 +5,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,22008,Gem of the Wind,MrFarm,cheapest stall in town,10,210365.0,210355.0,7,1472485.0,100.0,4
 2025-10-22,25452,Rock Gem Fragment,monchito1,super cremoso,2,40043.35,40041.35,18,720744.38,100.0,11
 2025-10-22,22008,Gem of the Wind,Conquest,1231,10,210365.0,210355.0,3,631065.0,100.0,4
-2025-10-22,25451,Jade Gem Fragment,monchito1,super cremoso,1,54404.86,54403.86,9,489634.75,100.0,10
 2025-10-22,25525,,VelvetRevolver,Chaos Jewell,3,478946.66,478943.66,1,478943.66,100.0,4
 2025-10-22,25525,,tiendaonline,offer offer,3,478946.66,478943.66,1,478943.66,100.0,4
+2025-10-22,25451,Jade Gem Fragment,monchito1,super cremoso,1,52125.62,52124.62,9,469121.62,100.0,7
 2025-10-22,22023,Green Jade,Stalinha,Cleric Cap +6,3,60010.06,60007.06,7,420049.41,100.0,4
 2025-10-22,28136,Crown of Decendant,voyo,final items - final price,14,290011.8,289997.8,1,289997.8,100.0,5
 2025-10-22,22008,Gem of the Wind,Aemond,UG/Demo/rock gems,10,210365.0,210355.0,1,210355.0,100.0,4
@@ -16,14 +16,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25452,Rock Gem Fragment,Coffi,FRAGMENTS,2,40043.35,40041.35,1,40041.35,100.0,11
 2025-10-22,28326,Divine Grace Cap,Pigrolac,CHEAPEST!!!,1,33363.33,33362.33,1,33362.33,100.0,3
 2025-10-22,28441,Roar of Evanescence,Okno,Unseals 55/65 champ/Spr2Gen/APP,50,816683.33,816633.33,1,816633.33,99.99,3
-2025-10-22,30156,Jackpot Coin,JackSparroow,JACKPOT COIN (10IMP),1,8479.23,8478.23,75,635867.31,99.99,11
+2025-10-22,30156,Jackpot Coin,JackSparroow,JACKPOT COIN (10IMP),1,8418.41,8417.41,75,631305.72,99.99,11
 2025-10-22,28439,Tattoo of Evanescence,Okno,Unseals 55/65 champ/Spr2Gen/APP,50,466683.33,466633.33,1,466633.33,99.99,3
 2025-10-22,28136,Crown of Decendant,AAA123,13123131321,15,290011.8,289996.8,1,289996.8,99.99,5
 2025-10-22,28136,Crown of Decendant,AAA123,13123131321,30,290011.8,289981.8,1,289981.8,99.99,5
-2025-10-22,25451,Jade Gem Fragment,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG,8,54404.86,54396.86,2,108793.72,99.99,10
 2025-10-22,25452,Rock Gem Fragment,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG,8,40043.35,40035.35,5,200176.77,99.98,11
 2025-10-22,29307,Ring of Damnation,Carminha,Acc Ring Lv50 FREE just take it,18,108007.0,107989.0,1,107989.0,99.98,3
 2025-10-22,29307,Ring of Damnation,Carminha,Acc Ring Lv50 FREE just take it,18,108007.0,107989.0,1,107989.0,99.98,3
+2025-10-22,25451,Jade Gem Fragment,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG,8,52125.62,52117.62,2,104235.25,99.98,7
 2025-10-22,25533,,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG,8,44504.0,44496.0,2,88992.0,99.98,3
 2025-10-22,25452,Rock Gem Fragment,sstido,selling,9,40043.35,40034.35,1,40034.35,99.98,11
 2025-10-22,25452,Rock Gem Fragment,Goliat,Rock Fragment CHEAP,9,40043.35,40034.35,1,40034.35,99.98,11
@@ -80,9 +80,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25430,Enigma Power,Siemanko,bank cleansing/ tix treasure ore,1999,2345.89,346.89,60,20813.33,14.79,10
 2025-10-22,26576,Iron Brew,reserv,RAD LV 1/ IRON BREW,6200,7207.64,1007.64,191,192458.81,13.98,5
 2025-10-22,27025,Radiation Lv1,Kalista,detector / radiation,1899,2150.55,251.55,104,26160.91,11.7,6
-2025-10-22,26346,Lantern,MushroomShop5,Lantern 3.8k/ Nov poss 200k,3800,4273.22,473.22,43,20348.46,11.07,13
+2025-10-22,26346,Lantern,MushroomShop5,Lantern 3.8k/ Nov poss 200k,3800,4276.59,476.59,43,20493.2,11.14,12
 2025-10-22,25527,,lapada,CHAOS RUNES FREE 1G,899999,997856.29,97857.29,1,97857.29,9.81,3
-2025-10-22,26346,Lantern,SeventhHeaven,Scrolls/Contract/Lantern etc,3900,4273.22,373.22,63,23512.86,8.73,13
+2025-10-22,26346,Lantern,SeventhHeaven,Scrolls/Contract/Lantern etc,3900,4276.59,376.59,63,23724.91,8.81,12
 2025-10-22,26589,Potion of Bull,STAII,cheap dem/ug wind   pots,1990,2164.73,174.73,246,42982.97,8.07,14
 2025-10-22,26344,Novice Weightless Potion,STAII,cheap dem/ug wind   pots,2990,3240.57,250.57,99,24806.41,7.73,13
 2025-10-22,26344,Novice Weightless Potion,STAII,cheap dem/ug wind   pots,2990,3240.57,250.57,83,20797.29,7.73,13
@@ -92,8 +92,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2150.55,151.55,200,30309.45,7.05,6
 2025-10-22,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2150.55,151.55,165,25005.29,7.05,6
 2025-10-22,27025,Radiation Lv1,reserv,RAD LV 1/ IRON BREW,2000,2150.55,150.55,200,30109.45,7.0,6
-2025-10-22,26346,Lantern,STAII,cheap dem/ug wind   pots,3990,4273.22,283.22,99,28038.77,6.63,13
-2025-10-22,26346,Lantern,Babi01,ty,3999,4273.22,274.22,152,41681.43,6.42,13
+2025-10-22,26346,Lantern,STAII,cheap dem/ug wind   pots,3990,4276.59,286.59,99,28372.01,6.7,12
+2025-10-22,26346,Lantern,Babi01,ty,3999,4276.59,277.59,152,42193.06,6.49,12
 2025-10-22,25031,Refining Gem,ESNAIDER,SELL JACKPOT/KAL/REF/GPS/PPS,6500,6867.98,367.98,181,66603.67,5.36,7
 2025-10-22,25417,Moonlight Heart,Yennefer,JADE ROCK CHEST MOON SUN CLOUD,98000,102333.33,4333.33,6,26000.0,4.23,3
 2025-10-22,27020,Gold Pirate Scroll,Bankera,Gold Pirate Scroll| Demonic Rock,26500,27528.83,1028.83,24,24691.98,3.74,8
