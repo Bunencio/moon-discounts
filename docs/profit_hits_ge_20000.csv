@@ -1,15 +1,14 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-10-22,22010,Gem of Rage,Happyman,UG RAGE | LV22 CON | LV17 AGI,21,563651.64,563630.64,8,4509045.09,100.0,3
-2025-10-22,22028,Water Rock,Aemond,cheap gemsss,13,295010.4,294997.4,8,2359979.2,100.0,3
 2025-10-22,22014,Demonic Gem of Colossus,MUTAA,FREE!,28,2222228.44,2222200.44,1,2222200.44,100.0,4
 2025-10-22,22014,Demonic Gem of Colossus,Lunity,Demonic Colo,28,2222228.44,2222200.44,1,2222200.44,100.0,4
 2025-10-22,22009,Gem of Colossus,zzzzz,garner,20,1400006.67,1399986.67,1,1399986.67,100.0,3
 2025-10-22,25527,,Deathless,garner,10,873125.5,873115.5,1,873115.5,100.0,4
 2025-10-22,25452,Rock Gem Fragment,monchito1,super cremoso,2,45605.81,45603.81,18,820868.65,100.0,11
 2025-10-22,28136,Crown of Decendant,voyo,SSuperSSale,15,516671.67,516656.67,1,516656.67,100.0,3
-2025-10-22,25451,Jade Gem Fragment,monchito1,super cremoso,1,46978.76,46977.76,9,422799.84,100.0,9
-2025-10-22,25525,,VelvetRevolver,Chaos Jewell,3,270320.84,270317.84,1,270317.84,100.0,6
-2025-10-22,25525,,tiendaonline,offer offer offer,4,270320.84,270316.84,1,270316.84,100.0,6
+2025-10-22,25451,Jade Gem Fragment,monchito1,super cremoso,1,55556.26,55555.26,9,499997.31,100.0,10
+2025-10-22,25525,,VelvetRevolver,Chaos Jewell,3,270320.81,270317.81,1,270317.81,100.0,5
+2025-10-22,25525,,tiendaonline,offer offer,3,270320.81,270317.81,1,270317.81,100.0,5
 2025-10-22,28403,Blade of Incantation,stallerx,Str pet+ crus equips and more,3,190001.2,189998.2,1,189998.2,100.0,3
 2025-10-22,28403,Blade of Incantation,stallerx,Str pet+ crus equips and more,3,190001.2,189998.2,1,189998.2,100.0,3
 2025-10-22,28468,Ice Sealed Mantle of Enigma,voyo,SSuperSSale,1,81999.8,81998.8,1,81998.8,100.0,5
@@ -17,13 +16,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25452,Rock Gem Fragment,Coffi,FRAGMENTS,2,45605.81,45603.81,1,45603.81,100.0,11
 2025-10-22,28458,Ice Sealed Staff of the Sphinx,stallerx,Str pet+ crus equips and more,1,36667.0,36666.0,1,36666.0,100.0,3
 2025-10-22,28326,Divine Grace Cap,Pigrolac,CHEAPEST!!!,1,33363.33,33362.33,1,33362.33,100.0,3
-2025-10-22,25525,,waterdog,jewel frag,35,270320.84,270285.84,8,2162286.75,99.99,6
-2025-10-22,30156,Jackpot Coin,JackSparroow,JACKPOT COIN (10IMP),1,9385.45,9384.45,75,703833.96,99.99,12
+2025-10-22,22028,Water Rock,Aemond,Demo/UG/Rock gems and KALS,15,295012.0,294997.0,8,2359976.0,99.99,3
+2025-10-22,25525,,waterdog,jewel frag,35,270320.81,270285.81,8,2162286.5,99.99,5
+2025-10-22,30156,Jackpot Coin,JackSparroow,JACKPOT COIN (10IMP),1,9386.16,9385.16,75,703886.74,99.99,12
 2025-10-22,22023,Green Jade,Stalinha,Cleric Cap +6,3,56676.33,56673.33,7,396713.33,99.99,4
 2025-10-22,26578,Aegis Brew,Shadow,yes,6,46468.98,46462.98,7,325240.85,99.99,3
+2025-10-22,25451,Jade Gem Fragment,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR,8,55556.26,55548.26,2,111096.51,99.99,10
 2025-10-22,22023,Green Jade,AAAAA123,ty,3,56676.33,56673.33,1,56673.33,99.99,4
 2025-10-22,25416,Cloud Heart,WhereIsMyBraSize,dfzhbsdhbns,2,22777.26,22775.26,1,22775.26,99.99,4
-2025-10-22,25451,Jade Gem Fragment,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR,8,46978.76,46970.76,2,93941.52,99.98,9
 2025-10-22,25452,Rock Gem Fragment,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR,8,45605.81,45597.81,1,45597.81,99.98,11
 2025-10-22,25452,Rock Gem Fragment,Goliat,Rock Fragment CHEAP,9,45605.81,45596.81,1,45596.81,99.98,11
 2025-10-22,30157,Iron Bar,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c,10,37705.0,37695.0,5,188475.0,99.97,3
@@ -67,9 +67,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25507,Expert Stone,SeventhHeaven,Scrolls/Contract/Lantern etc,1000,1330.44,330.44,73,24121.98,24.84,7
 2025-10-22,30102,1000 Reputation Scroll,CallMeBaby,REPU/JACKPOT,5999,7969.56,1970.56,61,120203.86,24.73,8
 2025-10-22,26591,Potion of Lion,Ludopat1n,Gyoza cheap pots,1900,2487.21,587.21,37,21726.66,23.61,9
-2025-10-22,27014,Moonroot Wine,Lucifrr,Moon Wine 599 | Guard Brew 449,599,765.17,166.17,200,33234.67,21.72,5
-2025-10-22,27014,Moonroot Wine,Lucifrr,Moon Wine 599 | Guard Brew 449,599,765.17,166.17,200,33234.67,21.72,5
-2025-10-22,27014,Moonroot Wine,Lucifrr,Moon Wine 599 | Guard Brew 449,599,765.17,166.17,183,30409.72,21.72,5
+2025-10-22,27014,Moonroot Wine,Lucifrr,Moon Wine 599 | Guard Brew 449,599,765.38,166.38,200,33275.15,21.74,5
+2025-10-22,27014,Moonroot Wine,Lucifrr,Moon Wine 599 | Guard Brew 449,599,765.38,166.38,200,33275.15,21.74,5
+2025-10-22,27014,Moonroot Wine,Lucifrr,Moon Wine 599 | Guard Brew 449,599,765.38,166.38,181,30114.01,21.74,5
 2025-10-22,26591,Potion of Lion,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS,2000,2487.21,487.21,113,55054.38,19.59,9
 2025-10-22,26588,Potion of Eagle,LotokSell,UgColos DemoSoul ShadowCrystal,2000,2479.23,479.23,55,26357.57,19.33,10
 2025-10-22,27006,Bunny Potion,dwtix,PharaLantern/ElvenBunnyPot,999,1221.48,222.48,190,42271.27,18.21,3
@@ -81,16 +81,16 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,30102,1000 Reputation Scroll,LotokSell,UgColos DemoSoul ShadowCrystal,7000,7969.56,969.56,67,64960.19,12.17,8
 2025-10-22,30135,Demonic Rock,Barya,FGP/DEMONIC ROCKS/PHARAOH LANTER,2800,3177.16,377.16,99,37338.67,11.87,6
 2025-10-22,26346,Lantern,MushroomShop5,Lantern 3.8k/ Nov poss 200k,3800,4296.54,496.54,68,33764.48,11.56,11
-2025-10-22,27020,Gold Pirate Scroll,Tralalera,GYOZAS SKATING AND COINS IMPS!,24999,27908.85,2909.85,11,32008.36,10.43,9
-2025-10-22,27020,Gold Pirate Scroll,bpguardian,GPS 25k,25000,27908.85,2908.85,27,78538.98,10.42,9
-2025-10-22,26592,Flash Bomb,vnt3,FB FB FB FB - Guardian Brew  ! !,999,1110.96,111.96,200,22392.3,10.08,14
-2025-10-22,26592,Flash Bomb,Reaper*,Cheap Flash Bomb,999,1110.96,111.96,192,21496.61,10.08,14
+2025-10-22,27020,Gold Pirate Scroll,Tralalera,GYOZAS SKATING AND COINS IMPS!,24999,27896.57,2897.57,11,31873.27,10.39,10
+2025-10-22,27020,Gold Pirate Scroll,bpguardian,GPS 25k,25000,27896.57,2896.57,27,78207.39,10.38,10
+2025-10-22,26592,Flash Bomb,vnt3,FB FB FB FB - Guardian Brew  ! !,999,1110.36,111.36,200,22272.39,10.03,14
+2025-10-22,26592,Flash Bomb,Reaper*,Cheap Flash Bomb,999,1110.36,111.36,192,21381.49,10.03,14
 2025-10-22,26590,Potion of Soul,STAII,cheap gem/pots,2490,2763.6,273.6,86,23529.67,9.9,9
 2025-10-22,26568,Skating Potion,Verso,free,40000,44232.26,4232.26,10,42322.56,9.57,5
 2025-10-22,26589,Potion of Bull,STAII,cheap gem/pots,1990,2195.2,205.2,186,38167.93,9.35,14
 2025-10-22,26346,Lantern,SeventhHeaven,Scrolls/Contract/Lantern etc,3900,4296.54,396.54,69,27361.02,9.23,11
 2025-10-22,26589,Potion of Bull,LotokSell,UgColos DemoSoul ShadowCrystal,2000,2195.2,195.2,133,25962.12,8.89,14
-2025-10-22,27020,Gold Pirate Scroll,SeventhHeaven,Scrolls/Contract/Lantern etc,25500,27908.85,2408.85,15,36132.77,8.63,9
+2025-10-22,27020,Gold Pirate Scroll,SeventhHeaven,Scrolls/Contract/Lantern etc,25500,27896.57,2396.57,15,35948.55,8.59,10
 2025-10-22,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2169.55,170.55,200,34109.09,7.86,5
 2025-10-22,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2169.55,170.55,200,34109.09,7.86,5
 2025-10-22,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2169.55,170.55,165,28140.0,7.86,5
@@ -101,7 +101,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,9800,10177.14,377.14,90,33942.34,3.71,5
 2025-10-22,25417,Moonlight Heart,Yennefer,JADE ROCK CHEST MOON SUN CLOUD,98000,101500.0,3500.0,7,24500.0,3.45,4
 2025-10-22,26585,Blessed Potion,Puki,CHEAP BLESS AND WARLORD POTS,93500,96769.34,3269.34,20,65386.76,3.38,4
-2025-10-22,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PHARAOH | PPS | JACK +++++,27000,27908.85,908.85,23,20903.58,3.26,9
+2025-10-22,27020,Gold Pirate Scroll,BuyingSta4ll7,GPS | PHARAOH | PPS | JACK +++++,27000,27896.57,896.57,23,20621.11,3.21,10
 2025-10-22,25031,Refining Gem,ESNAIDER,SELL JACKPOT/GPS/REF/PPS/DEMO RO,6500,6710.65,210.65,170,35810.1,3.14,8
 2025-10-22,25031,Refining Gem,LiDL,:o,6500,6710.65,210.65,96,20222.17,3.14,8
 2025-10-22,26585,Blessed Potion,BlessIfMan,BLESS IF MAN,94000,96769.34,2769.34,19,52617.42,2.86,4
