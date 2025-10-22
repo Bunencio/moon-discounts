@@ -8,6 +8,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25525,,VelvetRevolver,Chaos Jewell,3,478946.66,478943.66,1,478943.66,100.0,4
 2025-10-22,25525,,tiendaonline,offer offer,3,478946.66,478943.66,1,478943.66,100.0,4
 2025-10-22,25451,Jade Gem Fragment,monchito1,super cremoso,1,52125.62,52124.62,9,469121.62,100.0,7
+2025-10-22,25426,Universe Purse Fragment.,Coffi,FRAGMENTS,4,80002.86,79998.86,5,399994.29,100.0,3
 2025-10-22,28136,Crown of Decendant,voyo,final items - final price,14,290011.8,289997.8,1,289997.8,100.0,5
 2025-10-22,22008,Gem of the Wind,Aemond,UG/Demo/rock gems,10,259674.0,259664.0,1,259664.0,100.0,5
 2025-10-22,28132,Voyager Cap,Pescado,Sell,3,70000.5,69997.5,1,69997.5,100.0,4
@@ -39,11 +40,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25507,Expert Stone,sellerforfree,cheap,650,1300.06,650.06,65,42254.06,50.0,9
 2025-10-22,28468,Ice Sealed Mantle of Enigma,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS,100000,183333.33,83333.33,1,83333.33,45.45,3
 2025-10-22,26589,Potion of Bull,hunterx,Ug strike/wind/repu/bp/xp etc,1250,2212.12,962.12,26,25015.09,43.49,12
-2025-10-22,25534,,BL4CKM4RK3T,stuff,1899,3158.71,1259.71,18,22674.81,39.88,11
 2025-10-22,25420,Sunlight Heart,Defender,SUNLIGHT HEARTs CRAFT,15000,24800.0,9800.0,5,49000.0,39.52,5
 2025-10-22,28460,Ice Sealed Robe of Enigma,ShanksBr,Itens,45000,71666.67,26666.67,1,26666.67,37.21,3
 2025-10-22,26326,Elven Royal Signet,Fortis,All cheap,500,796.05,296.05,200,59209.48,37.19,9
-2025-10-22,25534,,freeee,cheap,1999,3158.71,1159.71,73,84658.96,36.71,11
+2025-10-22,25534,,freeee,cheap,1999,3171.7,1172.7,73,85606.99,36.97,11
 2025-10-22,22000,FieryGem,STAII,cheap dem/ug wind   pots,1990,3135.74,1145.74,53,60724.03,36.54,8
 2025-10-22,25420,Sunlight Heart,Yennefer,JADE ROCK CHEST MOON SUN CLOUD,17000,24800.0,7800.0,12,93600.0,31.45,5
 2025-10-22,25091,Heavy Crystal,CrystalSeller,ALL KINDS OF CRYSTAL FOR SALE!,1490,2109.26,619.26,45,27866.67,29.36,3
@@ -70,7 +70,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,28468,Ice Sealed Mantle of Enigma,SnitchNRun,S>SS ITEMS,150000,183333.33,33333.33,1,33333.33,18.18,3
 2025-10-22,26591,Potion of Lion,STAII,cheap dem/ug wind   pots,1990,2428.0,438.0,62,27155.75,18.04,9
 2025-10-22,26591,Potion of Lion,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS,2000,2428.0,428.0,113,48363.54,17.63,9
-2025-10-22,26559,Cooked Crab,xGrawly,cooked tilapia crab,1500,1820.47,320.47,144,46148.03,17.6,3
 2025-10-22,26575,Guardian's Brew,BPCRAFT,WARLORD POTION | GUARDIAN BREW,500,603.63,103.63,198,20518.82,17.17,8
 2025-10-22,26575,Guardian's Brew,LaPerga,Iron Brew 7.3K/ Guardian B. 500G,500,603.63,103.63,195,20207.93,17.17,8
 2025-10-22,26575,Guardian's Brew,LaPerga,Iron Brew 7.3K/ Guardian B. 500G,500,603.63,103.63,193,20000.67,17.17,8
@@ -96,9 +95,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25031,Refining Gem,ESNAIDER,SELL JACKPOT/KAL/REF/GPS/PPS,6500,6871.85,371.85,181,67304.49,5.41,6
 2025-10-22,25417,Moonlight Heart,Yennefer,JADE ROCK CHEST MOON SUN CLOUD,98000,102333.33,4333.33,6,26000.0,4.23,3
 2025-10-22,30102,1000 Reputation Scroll,Saller,ty,6900,7201.41,301.41,99,29839.64,4.19,8
-2025-10-22,26571,Warlord Potion,BPCRAFT,WARLORD POTION | GUARDIAN BREW,2999,3121.64,122.64,200,24528.37,3.93,7
+2025-10-22,26571,Warlord Potion,BPCRAFT,WARLORD POTION | GUARDIAN BREW,2999,3122.82,123.82,185,22907.32,3.97,7
 2025-10-22,27020,Gold Pirate Scroll,Bankera,Gold Pirate Scroll| Demonic Rock,26500,27528.83,1028.83,24,24691.98,3.74,8
 2025-10-22,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,9500,9866.78,366.78,178,65286.09,3.72,5
 2025-10-22,26585,Blessed Potion,Gems,Blessed Blessed BLessed Blessed,89999,92598.97,2599.97,20,51999.31,2.81,5
 2025-10-22,26585,Blessed Potion,Itau,DRUGSTORE,90000,92598.97,2598.97,8,20791.72,2.81,5
 2025-10-22,27020,Gold Pirate Scroll,Paka01,JadeGemFrag GPS Jackpot PPS Repu,26888,27528.83,640.83,90,57674.93,2.33,8
+2025-10-22,30139,100x Crystal,zRoma,Yellow Jade/Golden Rock/Imps/PFg,108000,108318.18,318.18,73,23227.27,0.29,3

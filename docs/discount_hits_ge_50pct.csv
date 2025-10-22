@@ -5,6 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,21,675013.92,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,27,2150006.88,5,1,MUTAA,COLOS!
 100.0,22014,Demonic Gem of Colossus,28,2150006.88,5,1,Lunity,Demonic Colo
+100.0,25426,Universe Purse Fragment.,4,80002.86,3,5,Coffi,FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,52125.62,7,9,monchito1,super cremoso
 100.0,25452,Rock Gem Fragment,2,40043.35,11,1,Coffi,FRAGMENTS
 100.0,25452,Rock Gem Fragment,2,40043.35,11,18,monchito1,super cremoso
@@ -45,7 +46,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 73.58,25493,Orange Colorant,100,378.57,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 70.04,25439,Incantation Stone,200,667.54,6,4,BL4CKM4RK3T,stuff
 69.07,22001,Furious Gem,850,2747.79,10,3,cheapstuffsell,cheap
-65.22,28035,Solar Shield,9999,28749.0,4,1,TTKillGirlTT,Stand Stone /  Equips 50
 63.64,22001,Furious Gem,999,2747.79,10,1,SariSariStore1,CLEANING BANK
 62.62,29056,20 Cooking EXP Card,800,2139.91,5,1,PWHunter,that's all
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
