@@ -11,7 +11,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25525,,3,270320.81,5,1,tiendaonline,offer offer
 100.0,25527,,10,873125.5,4,1,Deathless,garner
 100.0,28132,Voyager Cap,3,70000.5,4,1,Pescado,Sell
-100.0,28136,Crown of Decendant,15,493338.33,3,1,voyo,SSuperSSale
+100.0,28136,Crown of Decendant,15,520003.75,4,1,voyo,SSuperSSale
 100.0,28326,Divine Grace Cap,1,33363.33,3,1,Pigrolac,CHEAPEST!!!
 100.0,28403,Blade of Incantation,3,190001.2,3,1,stallerx,Str pet+ crus equips and more
 100.0,28403,Blade of Incantation,3,190001.2,3,1,stallerx,Str pet+ crus equips and more
@@ -19,16 +19,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28468,Ice Sealed Mantle of Enigma,1,81999.8,5,1,voyo,SSuperSSale
 99.99,22023,Green Jade,3,56676.33,4,7,Stalinha,Cleric Cap +6
 99.99,22023,Green Jade,3,56676.33,4,1,AAAAA123,ty
-99.99,22028,Water Rock,15,265012.0,3,8,Aemond,Demo/UG/Rock gems and KALS
+99.99,22028,Water Rock,15,265012.0,3,8,Aemond,UG/Demo/rock gems
 99.99,25416,Cloud Heart,2,22777.26,4,1,WhereIsMyBraSize,dfzhbsdhbns
-99.99,25452,Rock Gem Fragment,2,39764.47,10,1,Coffi,FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,39764.47,10,18,monchito1,super cremoso
+99.99,25452,Rock Gem Fragment,2,34062.12,8,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,34062.12,8,18,monchito1,super cremoso
 99.99,25525,,35,270320.81,5,8,waterdog,jewel frag
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
+99.99,28441,Roar of Evanescence,50,800016.67,3,1,Okno,Unseals 55/65 champ/Spr2Gen/APP
+99.99,29323,Nimble Venturer,20,153340.0,3,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.99,30156,Jackpot Coin,1,9009.11,14,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,25451,Jade Gem Fragment,8,52170.91,9,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
-99.98,25452,Rock Gem Fragment,9,39764.47,10,1,Goliat,Rock Fragment CHEAP
-99.98,25452,Rock Gem Fragment,8,39764.47,10,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
+99.98,25452,Rock Gem Fragment,8,34062.12,8,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
+99.97,25452,Rock Gem Fragment,9,34062.12,8,1,Goliat,Rock Fragment CHEAP
 99.97,30157,Iron Bar,10,37705.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.96,22023,Green Jade,25,56676.33,4,6,GemMarket,GREEN JADE
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6

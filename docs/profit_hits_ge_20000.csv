@@ -7,7 +7,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25426,Universe Purse Fragment.,Coffi,FRAGMENTS,4,141113.11,141109.11,5,705545.56,100.0,3
 2025-10-22,22434,,tiendaonline,offer offer,6,325002.88,324996.88,2,649993.75,100.0,4
 2025-10-22,22434,,Ninja17,ITEM MALL,6,325002.88,324996.88,2,649993.75,100.0,4
-2025-10-22,28136,Crown of Decendant,voyo,SSuperSSale,15,493338.33,493323.33,1,493323.33,100.0,3
+2025-10-22,28136,Crown of Decendant,voyo,SSuperSSale,15,520003.75,519988.75,1,519988.75,100.0,4
 2025-10-22,25451,Jade Gem Fragment,monchito1,super cremoso,1,52170.91,52169.91,9,469529.16,100.0,9
 2025-10-22,25525,,VelvetRevolver,Chaos Jewell,3,270320.81,270317.81,1,270317.81,100.0,5
 2025-10-22,25525,,tiendaonline,offer offer,3,270320.81,270317.81,1,270317.81,100.0,5
@@ -18,18 +18,20 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,28458,Ice Sealed Staff of the Sphinx,stallerx,Str pet+ crus equips and more,1,36667.0,36666.0,1,36666.0,100.0,3
 2025-10-22,28326,Divine Grace Cap,Pigrolac,CHEAPEST!!!,1,33363.33,33362.33,1,33362.33,100.0,3
 2025-10-22,25525,,waterdog,jewel frag,35,270320.81,270285.81,8,2162286.5,99.99,5
-2025-10-22,22028,Water Rock,Aemond,Demo/UG/Rock gems and KALS,15,265012.0,264997.0,8,2119976.0,99.99,3
-2025-10-22,25452,Rock Gem Fragment,monchito1,super cremoso,2,39764.47,39762.47,18,715724.53,99.99,10
+2025-10-22,22028,Water Rock,Aemond,UG/Demo/rock gems,15,265012.0,264997.0,8,2119976.0,99.99,3
+2025-10-22,28441,Roar of Evanescence,Okno,Unseals 55/65 champ/Spr2Gen/APP,50,800016.67,799966.67,1,799966.67,99.99,3
 2025-10-22,30156,Jackpot Coin,JackSparroow,JACKPOT COIN (10IMP),1,9009.11,9008.11,75,675608.35,99.99,14
+2025-10-22,25452,Rock Gem Fragment,monchito1,super cremoso,2,34062.12,34060.12,18,613082.18,99.99,8
 2025-10-22,22023,Green Jade,Stalinha,Cleric Cap +6,3,56676.33,56673.33,7,396713.33,99.99,4
 2025-10-22,26578,Aegis Brew,Shadow,yes,6,46468.98,46462.98,7,325240.85,99.99,3
+2025-10-22,29323,Nimble Venturer,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c,20,153340.0,153320.0,1,153320.0,99.99,3
 2025-10-22,22023,Green Jade,AAAAA123,ty,3,56676.33,56673.33,1,56673.33,99.99,4
-2025-10-22,25452,Rock Gem Fragment,Coffi,FRAGMENTS,2,39764.47,39762.47,1,39762.47,99.99,10
+2025-10-22,25452,Rock Gem Fragment,Coffi,FRAGMENTS,2,34062.12,34060.12,1,34060.12,99.99,8
 2025-10-22,25416,Cloud Heart,WhereIsMyBraSize,dfzhbsdhbns,2,22777.26,22775.26,1,22775.26,99.99,4
 2025-10-22,25451,Jade Gem Fragment,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR,8,52170.91,52162.91,2,104325.81,99.98,9
-2025-10-22,25452,Rock Gem Fragment,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR,8,39764.47,39756.47,1,39756.47,99.98,10
-2025-10-22,25452,Rock Gem Fragment,Goliat,Rock Fragment CHEAP,9,39764.47,39755.47,1,39755.47,99.98,10
+2025-10-22,25452,Rock Gem Fragment,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR,8,34062.12,34054.12,1,34054.12,99.98,8
 2025-10-22,30157,Iron Bar,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c,10,37705.0,37695.0,5,188475.0,99.97,3
+2025-10-22,25452,Rock Gem Fragment,Goliat,Rock Fragment CHEAP,9,34062.12,34053.12,1,34053.12,99.97,8
 2025-10-22,22023,Green Jade,GemMarket,GREEN JADE,25,56676.33,56651.33,6,339908.0,99.96,4
 2025-10-22,28326,Divine Grace Cap,Stalinha,Cleric Cap +6,90,33363.33,33273.33,1,33273.33,99.73,3
 2025-10-22,26564,Meditation Potion,lamamandoski,basurita,50,595.47,545.47,200,109094.21,91.6,3
@@ -43,7 +45,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-22,25507,Expert Stone,sellerforfree,cheap,690,1323.2,633.2,69,43690.71,47.85,8
 2025-10-22,25507,Expert Stone,sellerforfree,cheap,690,1323.2,633.2,65,41157.92,47.85,8
 2025-10-22,26570,Bloodfire Potion,satzstall2,SUPER ELVEN MANU POTS,1500,2713.18,1213.18,34,41248.06,44.71,3
-2025-10-22,30171,Ticket to Demonic World,LiDL,:o,300,533.53,233.53,122,28490.27,43.77,7
+2025-10-22,30171,Ticket to Demonic World,LiDL,:o,300,531.01,231.01,122,28183.21,43.5,6
 2025-10-22,28460,Ice Sealed Robe of Enigma,ShanksBr,Itens,45000,71666.67,26666.67,1,26666.67,37.21,3
 2025-10-22,25534,,freeee,cheapppppppppp,1900,3007.66,1107.66,73,80859.0,36.83,9
 2025-10-22,25420,Sunlight Heart,Defender,SUNLIGHT HEARTs CRAFT,15000,23692.08,8692.08,5,43460.38,36.69,6
