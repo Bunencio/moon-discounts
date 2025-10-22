@@ -30,6 +30,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25451,Jade Gem Fragment,8,48648.97,8,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.98,25452,Rock Gem Fragment,9,36630.0,9,1,Goliat,Rock Fragment CHEAP
 99.98,25452,Rock Gem Fragment,8,36630.0,9,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
+99.98,29323,Nimble Venturer,20,110006.67,3,1,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.97,30157,Iron Bar,10,37705.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
 99.96,22023,Green Jade,25,56676.33,4,6,GemMarket,GREEN JADE
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
@@ -52,14 +53,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.56,22003,Glowing Gem,900,2539.85,4,107,Look7,gem
 64.27,22001,Furious Gem,999,2796.04,9,1,SariSariStore1,CLEANING BANK
 63.04,29062,Field Brew,35,94.7,6,13,Meguminn,EXPLOOOOSIOOONN!!!eee
-59.54,25258,Spirit Feather,77,190.33,5,49,dsadsa,weightless tix dw fairy ration
+59.43,25258,Spirit Feather,77,189.78,6,49,dsadsa,weightless tix dw fairy ration
 59.21,30121,Vial of Accuracy Reset,2000,4903.49,7,1,Buhonero,Welcome
 58.49,25496,Cyan Colorant.,2000,4817.98,5,1,cheapstuffsell,cheap
+57.7,25389,Shark Fin,69,163.13,4,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
 57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,@@@@
 56.79,22000,FieryGem,1350,3124.16,10,1,iLegolas,MinionFuit CookinCard Power Lv50
 56.32,29058,20 Crafting EXP Card,800,1831.34,5,4,PWHunter,thst's all
 55.06,28442,Fire Sealed Coat of Evanescence,14999,33374.75,3,1,TTKillGirlTT,Stand Stone /  Equips 50
 55.03,25507,Expert Stone,595,1323.2,8,2,xLiliith,Some good mats for you!
+54.67,25212,Frozen Elixir,77,169.85,3,99,dsadsa,weightless tix dw fairy ration
 54.62,22004,Shining Gem,2000,4407.2,5,12,vendedolmax,2000
 54.55,28448,Fire Sealed Cloak of Evanescence,10000,21999.83,3,1,RenePuente,GEM OF WIND / POTS
 54.49,25501,Brown Colorant,1000,2197.5,4,1,cheapstuffsell,cheap
