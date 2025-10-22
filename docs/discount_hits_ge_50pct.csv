@@ -3,6 +3,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22010,Gem of Rage,21,563651.64,3,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,MUTAA,FREE!
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,Lunity,Demonic Colo
+100.0,22434,,6,325002.88,4,2,tiendaonline,offer offer
+100.0,22434,,6,325002.88,4,2,Ninja17,ITEM MALL
 100.0,25451,Jade Gem Fragment,1,55556.26,10,9,monchito1,super cremoso
 100.0,25452,Rock Gem Fragment,2,45605.81,11,1,Coffi,FRAGMENTS
 100.0,25452,Rock Gem Fragment,2,45605.81,11,18,monchito1,super cremoso
@@ -23,7 +25,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25451,Jade Gem Fragment,8,55556.26,10,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.99,25525,,35,270320.81,5,8,waterdog,jewel frag
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
-99.99,30156,Jackpot Coin,1,9395.59,12,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,9361.19,14,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,25452,Rock Gem Fragment,9,45605.81,11,1,Goliat,Rock Fragment CHEAP
 99.98,25452,Rock Gem Fragment,8,45605.81,11,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.97,30157,Iron Bar,10,37705.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
@@ -44,6 +46,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.05,25493,Orange Colorant,300,2317.35,6,1,xVENDORx,RUSH
 81.31,22001,Furious Gem,500,2675.09,9,3,Bathroom,S>cleening bank
 78.42,25493,Orange Colorant,500,2317.35,6,2,cheapstuffsell,cheap
+76.79,25439,Incantation Stone,200,861.85,7,4,BL4CKM4RK3T,shadow crystal
 72.09,28474,Ice Sealed Mantle of the Sphinx,20000,71666.0,3,1,Ryujhin,Voy Items PPS PBS
 69.53,29062,Field Brew,30,98.47,8,198,DAGANG8,PRESTIGE/OCTOPUS/CAKE CHEAP
 69.52,25494,Yellow Colorant.,1000,3281.25,3,14,MushroomShop10,HAIRSTYLE
@@ -52,23 +55,24 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.46,29062,Field Brew,35,98.47,8,13,Meguminn,EXPLOOOOSIOOONN!!!eee
 62.66,22001,Furious Gem,999,2675.09,9,21,cheapcheapcheap,cheap
 62.66,22001,Furious Gem,999,2675.09,9,1,SariSariStore1,CLEANING BANK
+61.93,29057,20 Manufacturing EXP Card,800,2101.27,5,1,Wallnut,Corner Shop
 60.81,30122,Vial of Spirit Reset,2000,5103.32,6,1,Buhonero,Welcome
-59.97,29056,20 Cooking EXP Card,800,1998.38,8,4,Wallnut,Corner Shop
+60.25,29056,20 Cooking EXP Card,800,2012.44,7,4,Wallnut,Corner Shop
 59.55,29016,Standard 15 Cooking EXP Card,400,988.94,4,5,Bathroom,S>cleening bank
 59.21,30121,Vial of Accuracy Reset,2000,4903.49,7,1,Buhonero,Welcome
-58.98,29057,20 Manufacturing EXP Card,800,1950.12,6,1,Wallnut,Corner Shop
 58.49,25496,Cyan Colorant.,2000,4817.98,5,1,cheapstuffsell,cheap
 57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,@@@@
-55.28,25507,Expert Stone,595,1330.44,7,2,xLiliith,Some good mats for you!
 55.06,28442,Fire Sealed Coat of Evanescence,14999,33374.75,3,1,TTKillGirlTT,Stand Stone /  Equips 50
+55.03,25507,Expert Stone,595,1323.2,8,2,xLiliith,Some good mats for you!
 54.55,28448,Fire Sealed Cloak of Evanescence,10000,21999.83,3,1,RenePuente,GEM OF WIND / POTS
 54.49,25501,Brown Colorant,1000,2197.5,4,1,cheapstuffsell,cheap
 54.49,25501,Brown Colorant,1000,2197.5,4,10,MushroomShop10,HAIRSTYLE
 54.45,26589,Potion of Bull,1000,2195.2,14,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 54.42,22000,FieryGem,1350,2962.04,9,1,iLegolas,MinionFuit CookinCard Power Lv50
 54.34,25496,Cyan Colorant.,2200,4817.98,5,4,ratatata,cheap
-54.32,25439,Incantation Stone,400,875.64,6,3,Bathroom,S>cleening bank
+53.59,25439,Incantation Stone,400,861.85,7,3,Bathroom,S>cleening bank
 52.64,22004,Shining Gem,2000,4223.17,4,12,vendedolmax,2000
 52.37,27029,Ship Penetrator Lv1,200,419.89,3,37,Lja,pet str 13 1gen/stone/feral vest
+51.58,29023,Standard 15 Treasure Hunting EXP Card,899,1856.49,5,3,BL4CKM4RK3T,shadow crystal
 50.8,25503,Magical Stone,99,201.21,7,69,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 50.8,25503,Magical Stone,99,201.21,7,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
