@@ -5,6 +5,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,28,2222228.44,4,1,Lunity,Demonic Colo
 100.0,22434,,6,325002.88,4,2,tiendaonline,offer offer
 100.0,22434,,6,325002.88,4,2,Ninja17,ITEM MALL
+100.0,25426,Universe Purse Fragment.,4,141113.11,3,5,Coffi,FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,55556.26,10,9,monchito1,super cremoso
 100.0,25452,Rock Gem Fragment,2,45605.81,11,1,Coffi,FRAGMENTS
 100.0,25452,Rock Gem Fragment,2,45605.81,11,18,monchito1,super cremoso
@@ -25,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25451,Jade Gem Fragment,8,55556.26,10,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.99,25525,,35,270320.81,5,8,waterdog,jewel frag
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
-99.99,30156,Jackpot Coin,1,9354.07,14,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,9349.35,14,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,25452,Rock Gem Fragment,9,45605.81,11,1,Goliat,Rock Fragment CHEAP
 99.98,25452,Rock Gem Fragment,8,45605.81,11,1,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.97,30157,Iron Bar,10,37705.0,3,5,DemiMerchant,99c Item Mall/ Pet/Ring/Hat 99c
