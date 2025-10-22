@@ -6,7 +6,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22434,,6,325002.88,4,2,tiendaonline,offer offer
 100.0,22434,,6,325002.88,4,2,Ninja17,ITEM MALL
 100.0,25426,Universe Purse Fragment.,4,141113.11,3,5,Coffi,FRAGMENTS
-100.0,25451,Jade Gem Fragment,1,55556.26,10,9,monchito1,super cremoso
+100.0,25451,Jade Gem Fragment,1,55413.4,10,9,monchito1,super cremoso
 100.0,25452,Rock Gem Fragment,2,45605.81,11,1,Coffi,FRAGMENTS
 100.0,25452,Rock Gem Fragment,2,45605.81,11,18,monchito1,super cremoso
 100.0,25525,,3,270320.81,5,1,VelvetRevolver,Chaos Jewell
@@ -23,7 +23,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22023,Green Jade,3,56676.33,4,1,AAAAA123,ty
 99.99,22028,Water Rock,15,265012.0,3,8,Aemond,Demo/UG/Rock gems and KALS
 99.99,25416,Cloud Heart,2,22777.26,4,1,WhereIsMyBraSize,dfzhbsdhbns
-99.99,25451,Jade Gem Fragment,8,55556.26,10,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
+99.99,25451,Jade Gem Fragment,8,55413.4,10,2,RiasGremory,JADE CHEST YELLOW KAL ROCK GBAR
 99.99,25525,,35,270320.81,5,8,waterdog,jewel frag
 99.99,26578,Aegis Brew,6,46468.98,3,7,Shadow,yes
 99.99,30156,Jackpot Coin,1,9349.35,14,75,JackSparroow,JACKPOT COIN (10IMP)
@@ -48,11 +48,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 81.31,22001,Furious Gem,500,2675.09,9,3,Bathroom,S>cleening bank
 78.42,25493,Orange Colorant,500,2317.35,6,2,cheapstuffsell,cheap
 76.79,25439,Incantation Stone,200,861.85,7,4,BL4CKM4RK3T,shadow crystal
+73.24,25440,Evanescence Stone,200,747.24,9,23,HyjoSeller,Cheapest of them all
 72.09,28474,Ice Sealed Mantle of the Sphinx,20000,71666.0,3,1,Ryujhin,Voy Items PPS PBS
 69.59,29062,Field Brew,35,115.1,7,13,Meguminn,EXPLOOOOSIOOONN!!!eee
 69.52,25494,Yellow Colorant.,1000,3281.25,3,14,MushroomShop10,HAIRSTYLE
-66.9,25440,Evanescence Stone,250,755.34,8,23,HyjoSeller,Cheap Prices
 65.22,28035,Solar Shield,9999,28749.0,4,1,TTKillGirlTT,Stand Stone /  Equips 50
+64.22,22003,Glowing Gem,900,2515.56,4,6,SSTTAALL,CHEAP STUFF/NORMALGEM
+64.22,22003,Glowing Gem,900,2515.56,4,111,Look7,gem
 62.66,22001,Furious Gem,999,2675.09,9,21,cheapcheapcheap,cheap
 62.66,22001,Furious Gem,999,2675.09,9,1,SariSariStore1,CLEANING BANK
 60.81,30122,Vial of Spirit Reset,2000,5103.32,6,1,Buhonero,Welcome
@@ -63,20 +65,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.29,29056,20 Cooking EXP Card,800,1917.96,7,6,PWHunter,thst's all
 58.29,29056,20 Cooking EXP Card,800,1917.96,7,4,Wallnut,Corner Shop
 57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,@@@@
+56.79,22000,FieryGem,1350,3124.16,10,1,iLegolas,MinionFuit CookinCard Power Lv50
 56.56,29062,Field Brew,50,115.1,7,45,xDelfina,all cheap
 55.06,28442,Fire Sealed Coat of Evanescence,14999,33374.75,3,1,TTKillGirlTT,Stand Stone /  Equips 50
 55.03,25507,Expert Stone,595,1323.2,8,2,xLiliith,Some good mats for you!
+54.62,22004,Shining Gem,2000,4407.2,5,12,vendedolmax,2000
 54.55,28448,Fire Sealed Cloak of Evanescence,10000,21999.83,3,1,RenePuente,GEM OF WIND / POTS
 54.49,25501,Brown Colorant,1000,2197.5,4,1,cheapstuffsell,cheap
 54.49,25501,Brown Colorant,1000,2197.5,4,10,MushroomShop10,HAIRSTYLE
-54.42,22000,FieryGem,1350,2962.04,9,1,iLegolas,MinionFuit CookinCard Power Lv50
 54.37,26589,Potion of Bull,1000,2191.59,14,1,EvilRian,HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 54.34,25496,Cyan Colorant.,2200,4817.98,5,4,ratatata,cheap
 53.99,29057,20 Manufacturing EXP Card,800,1738.62,5,17,PWHunter,thst's all
 53.99,29057,20 Manufacturing EXP Card,800,1738.62,5,1,Wallnut,Corner Shop
 53.59,25439,Incantation Stone,400,861.85,7,3,Bathroom,S>cleening bank
-52.64,22004,Shining Gem,2000,4223.17,4,12,vendedolmax,2000
 52.37,27029,Ship Penetrator Lv1,200,419.89,3,37,Lja,pet str 13 1gen/stone/feral vest
+51.99,22000,FieryGem,1500,3124.16,10,1,lamamandoski,basurita
 51.58,29023,Standard 15 Treasure Hunting EXP Card,899,1856.49,5,3,BL4CKM4RK3T,shadow crystal
+51.46,26588,Potion of Eagle,1200,2472.22,12,1,HyjoSeller,Cheapest of them all
 50.8,25503,Magical Stone,99,201.21,7,69,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 50.8,25503,Magical Stone,99,201.21,7,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
