@@ -31,14 +31,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25476,Hairstyling Voucher,2,7000.25,3,2,sstido,selling
 99.96,22023,Green Jade,25,56676.33,4,6,GemMarket,GREEN JADE
 99.73,28326,Divine Grace Cap,90,33363.33,3,1,Stalinha,Cleric Cap +6
-97.31,25497,Blue Colorant,100,3723.44,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
-95.85,25499,Purple Colorant,100,2412.5,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
+97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
+97.41,25497,Blue Colorant,100,3865.28,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
+96.12,25499,Purple Colorant,100,2577.66,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 95.66,25501,Brown Colorant,100,2301.82,4,7,Manager,HAIRSTYLE SUPER DROP PRICE
+92.93,25479,Phyllis Hairstyle Book,50,706.73,3,45,Manager,HAIRSTYLE SUPER DROP PRICE
 90.46,26000,Sandy Coin,300,3144.22,4,15,Shab7,cheeeeeeeeeeep
+84.24,25494,Yellow Colorant.,500,3171.88,3,14,MushroomShop10,Hairstyle
 82.27,22001,Furious Gem,499,2814.03,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
 82.23,22001,Furious Gem,500,2814.03,10,3,Bathroom,S>cleening bank
 78.28,25501,Brown Colorant,500,2301.82,4,1,cheapstuffsell,cheap
 74.43,25439,Incantation Stone,200,782.02,7,4,BL4CKM4RK3T,stuff
+73.58,25493,Orange Colorant,100,378.57,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 69.79,22001,Furious Gem,850,2814.03,10,3,cheapstuffsell,cheap
 66.97,22003,Glowing Gem,900,2725.1,4,3,SSTTAALL,CHEAP STUFF/NORMALGEM
 66.97,22003,Glowing Gem,900,2725.1,4,91,Look7,gem
@@ -48,10 +52,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.72,25440,Evanescence Stone,200,536.47,8,99,hunterx,Ug strike/wind/repu/bp/xp etc
 62.72,25440,Evanescence Stone,200,536.47,8,23,HyjoSeller,Cheapest of them all
 62.62,29056,20 Cooking EXP Card,800,2139.91,5,1,PWHunter,that's all
-61.11,25493,Orange Colorant,100,257.14,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
-60.97,25496,Cyan Colorant.,1500,3843.28,3,1,cheapstuffsell,cheap
+62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
 57.7,25389,Shark Fin,69,163.13,4,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
-57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,@@@@
+57.14,28132,Voyager Cap,29999,70000.5,4,1,BjornIronside,DALE VENI A VER
 56.11,29058,20 Crafting EXP Card,800,1822.59,5,5,PWHunter,that's all
 55.43,26501,Tiny EXP Berry,2000,4487.5,5,2,MikiMuto,Emma Tiglao
 54.93,25212,Frozen Elixir,77,170.86,3,84,dsadsa,weightless tix dw fairy ration
