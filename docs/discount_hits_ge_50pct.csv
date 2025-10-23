@@ -2,7 +2,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,27,2278337.67,4,1,MUTAA,COLOS!
 100.0,22023,Green Jade,3,109296.64,5,1,AAAAA123,ty
 100.0,22030,Earth Rock,20,1600006.67,3,1,AAAAA123,ty
-100.0,22434,,6,391668.67,3,2,Pots,Shadow Crystal/Demonic Gem Frag
+100.0,22434,,5,335716.71,4,1,IfYouSeemeRun,Shadow Crystal
+100.0,22434,,6,335716.71,4,2,Pots,Shadow Crystal/Demonic Gem Frag
 100.0,25451,Jade Gem Fragment,1,29014.39,7,10,CocoZap,Possession / Jade
 100.0,25451,Jade Gem Fragment,1,29014.39,7,9,monchito1,super cremoso
 100.0,25452,Rock Gem Fragment,1,28782.93,9,2,Goliat,Fragment  Store
@@ -25,8 +26,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,23229.61,6,58,iTonik,Selling
 99.99,27020,Gold Pirate Scroll,3,23229.61,6,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,480008.8,5,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,8201.25,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,8201.25,13,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,8313.0,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,8313.0,13,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,109296.64,5,6,GemMarket,GREEN JADE
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
