@@ -40,6 +40,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-23,25452,Rock Gem Fragment,Goliat,Rock Fragment CHEAP,9,25618.36,25609.36,1,25609.36,99.96,9
 2025-10-23,25479,Phyllis Hairstyle Book,Manager,HAIRSTYLE SUPER DROP PRICE,50,706.73,656.73,45,29552.88,92.93,3
 2025-10-23,25494,Yellow Colorant.,MushroomShop10,Hairstyle,500,3171.88,2671.88,14,37406.25,84.24,3
+2025-10-23,28326,Divine Grace Cap,Pigrolac,CHEAP,49999,144999.83,95000.83,1,95000.83,65.52,5
 2025-10-23,28450,Fire Sealed Tooth of Evanescence,WannaBE,"Cheap stuff!""!",24000,57999.67,33999.67,1,33999.67,58.62,3
 2025-10-23,28468,Ice Sealed Mantle of Enigma,Chupeteira,UPGRADE YOUR CHAR WITH IT,65000,138333.33,73333.33,1,73333.33,53.01,3
 2025-10-23,22004,Shining Gem,vendedolmax,2000,2000,4208.38,2208.38,12,26500.55,52.48,5
@@ -69,7 +70,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-23,25525,,Signet,Cooked Tuna/cooked Crab/Fragment,350000,485942.12,135942.12,1,135942.12,27.97,6
 2025-10-23,28468,Ice Sealed Mantle of Enigma,SnitchNRun,S>SS ITEMS,100000,138333.33,38333.33,1,38333.33,27.71,3
 2025-10-23,30102,1000 Reputation Scroll,iinerti,Jackpot/Ref/Repu1k/PPS/FB/Pots++,5500,7600.42,2100.42,17,35707.2,27.64,8
-2025-10-23,28326,Divine Grace Cap,Humm,CHEAP CLERIC VOY HATS WITH STATS,120000,164000.0,44000.0,1,44000.0,26.83,4
 2025-10-23,22001,Furious Gem,STAII,cheap dem/ug wind   pots,1990,2696.92,706.92,68,48070.41,26.21,10
 2025-10-23,28409,Coat of Invocation,Furyan,STRFairy/SwordAPP/45UnsCleric,79999,106666.33,26667.33,1,26667.33,25.0,3
 2025-10-23,30168,Gyoza,Hold01,ALOT OF SH1T,18000,23544.7,5544.7,4,22178.79,23.55,5
@@ -81,10 +81,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-23,26591,Potion of Lion,STAII,cheap dem/ug wind   pots,1990,2443.31,453.31,62,28105.12,18.55,10
 2025-10-23,26591,Potion of Lion,Chupeteira,UPGRADE YOUR CHAR WITH IT,2000,2443.31,443.31,113,50093.85,18.14,10
 2025-10-23,26575,Guardian's Brew,DAGANG3,GUARDIAN CHEAP,493,600.32,107.32,200,21464.23,17.88,7
-2025-10-23,28326,Divine Grace Cap,Humm,CHEAP CLERIC VOY HATS WITH STATS,135000,164000.0,29000.0,1,29000.0,17.68,4
-2025-10-23,28326,Divine Grace Cap,Humm,CHEAP CLERIC VOY HATS WITH STATS,135000,164000.0,29000.0,1,29000.0,17.68,4
 2025-10-23,27014,Moonroot Wine,Lucifrr,M Wine 599 | G Brew 449 | PS 249,599,726.36,127.36,200,25472.74,17.53,6
 2025-10-23,27014,Moonroot Wine,Lucifrr,M Wine 599 | G Brew 449 | PS 249,599,726.36,127.36,170,21651.83,17.53,6
+2025-10-23,28326,Divine Grace Cap,Humm,CHEAP CLERIC VOY HATS WITH STATS,120000,144999.83,24999.83,1,24999.83,17.24,5
 2025-10-23,26588,Potion of Eagle,cheapstuff3,cheap,2100,2502.06,402.06,84,33773.24,16.07,9
 2025-10-23,27026,Soul Detector Lv1,Kalista,flash bomb / detector / radiat,799,943.62,144.62,195,28201.6,15.33,3
 2025-10-23,27025,Radiation Lv1,Kalista,flash bomb / detector / radiat,1799,2121.24,322.24,84,27068.39,15.19,6
