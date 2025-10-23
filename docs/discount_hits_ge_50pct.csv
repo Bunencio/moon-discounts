@@ -6,7 +6,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25426,Universe Purse Fragment.,4,82056.0,4,5,Coffi,FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,25301.03,6,9,monchito1,super cremoso
 100.0,25451,Jade Gem Fragment,1,25301.03,6,10,CocoZap,Possession / Jade
-100.0,25525,,3,466667.69,5,1,tiendaonline,offer offer
+100.0,28136,Crown of Decendant,15,490008.8,5,1,AAA123,13123131321
 100.0,28423,Mantle of the Cursed Flame,1,80000.33,3,1,stallerx,Str pet+ crus equips and more
 100.0,28456,Ice Sealed Robe of the Sphinx,1,59750.25,4,1,stallerx,Str pet+ crus equips and more
 100.0,28458,Ice Sealed Staff of the Sphinx,1,48333.67,3,1,stallerx,Str pet+ crus equips and more
@@ -24,10 +24,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22007,Gem of Striking,13,93012.23,4,10,MrFarm,CHEAPEST STALL IN TOWN/2PAGES!!!
 99.99,25452,Rock Gem Fragment,2,25618.36,9,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,25618.36,9,18,monchito1,super cremoso
-99.99,25525,,35,466667.69,5,2,Xiomarvic,Free Itms
+99.99,25525,,35,478948.34,4,2,Xiomarvic,Free Itms
 99.99,27020,Gold Pirate Scroll,3,26383.01,10,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,28136,Crown of Decendant,30,290037.0,5,1,AAA123,13123131321
-99.99,28136,Crown of Decendant,15,290037.0,5,1,AAA123,13123131321
+99.99,28136,Crown of Decendant,30,490008.8,5,1,AAA123,13123131321
 99.99,30156,Jackpot Coin,1,7867.6,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,30156,Jackpot Coin,1,7867.6,14,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22007,Gem of Striking,16,93012.23,4,1,zzzzz,garner
@@ -43,7 +42,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.96,25452,Rock Gem Fragment,9,25618.36,9,1,sstido,selling
 99.96,25452,Rock Gem Fragment,9,25618.36,9,1,Goliat,Rock Fragment CHEAP
 99.96,29324,Soulbinding Necklace,60,155726.29,4,1,sstido,selling
-99.95,28136,Crown of Decendant,140,290037.0,5,1,voyo,salerto
 99.67,25426,Universe Purse Fragment.,270,82056.0,4,2,Xiomarvic,Free Itms
 97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 97.41,25497,Blue Colorant,100,3865.28,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
