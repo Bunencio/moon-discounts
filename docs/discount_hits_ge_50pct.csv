@@ -1,30 +1,32 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,27,2278337.67,4,1,MUTAA,COLOS!
-100.0,22023,Green Jade,3,109296.64,5,1,AAAAA123,ty
+100.0,22023,Green Jade,3,103857.92,4,1,AAAAA123,ty
 100.0,22030,Earth Rock,20,1600006.67,3,1,AAAAA123,ty
-100.0,22434,,5,335716.71,4,1,IfYouSeemeRun,Shadow Crystal
-100.0,22434,,6,335716.71,4,2,Pots,Shadow Crystal / Demonic Gem Fra
-100.0,25451,Jade Gem Fragment,1,36089.1,7,10,CocoZap,Possession / Jade
-100.0,25451,Jade Gem Fragment,1,36089.1,7,9,monchito1,super cremoso
+100.0,22434,,6,293752.88,4,1,xTrueHistory,ShadowCrystal
+100.0,22434,,5,293752.88,4,1,IfYouSeemeRun,Shadow Crystal
+100.0,22434,,6,293752.88,4,2,Pots,Shadow Crystal / Demonic Gem Fra
+100.0,25451,Jade Gem Fragment,1,35065.13,7,10,CocoZap,Possession / Jade
+100.0,25451,Jade Gem Fragment,1,35065.13,7,9,monchito1,super cremoso
 100.0,25452,Rock Gem Fragment,1,27002.5,9,2,Goliat,Fragment  Store
 100.0,28136,Crown of Decendant,14,280011.8,5,1,voyo,omfg
+100.0,28409,Coat of Invocation,1,63333.33,3,1,Okno,Unseal champ/Spr2Gen+
 100.0,28456,Ice Sealed Robe of the Sphinx,1,59750.25,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,28458,Ice Sealed Staff of the Sphinx,1,43750.25,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
 100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
 99.99,25452,Rock Gem Fragment,2,27002.5,9,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,27002.5,9,18,monchito1,super cremoso
-99.99,25525,,35,472795.78,5,2,iTonik,Selling
-99.99,25525,,35,472795.78,5,2,Xiomarvic,Free Itms
-99.99,25525,,35,472795.78,5,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,23243.35,6,58,iTonik,Selling
-99.99,27020,Gold Pirate Scroll,3,23243.35,6,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,25525,,35,470581.35,6,2,iTonik,Selling
+99.99,25525,,35,470581.35,6,2,Xiomarvic,Free Itms
+99.99,25525,,35,470581.35,6,1,xkom,CHAOS JEWEL FRAG
+99.99,27020,Gold Pirate Scroll,3,23280.89,7,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,23280.89,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,280011.8,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,280011.8,5,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,8105.88,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,8105.88,13,75,JackSparroow,JACKPOT COIN (10IMP)
-99.98,22023,Green Jade,25,109296.64,5,6,GemMarket,GREEN JADE
-99.98,25451,Jade Gem Fragment,8,36089.1,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.99,30156,Jackpot Coin,1,8084.34,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,8084.34,13,75,JackSparroow,JACKPOT COIN (10IMP)
+99.98,22023,Green Jade,25,103857.92,4,6,GemMarket,GREEN JADE
+99.98,25451,Jade Gem Fragment,8,35065.13,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,104007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,104007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.97,25452,Rock Gem Fragment,8,27002.5,9,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -53,14 +55,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.79,28450,Fire Sealed Tooth of Evanescence,10000,26875.0,4,1,BadSector,10k
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
 61.24,28446,Fire Sealed Bow of Evanescence,10000,25800.0,4,1,Cachexia,BOW/FLASH
-61.1,26590,Potion of Soul,1000,2570.81,9,2,Gl1dios,RANDOM!!! EZ
+61.15,26590,Potion of Soul,1000,2573.68,9,2,Gl1dios,RANDOM!!! EZ
 60.33,29057,20 Manufacturing EXP Card,800,2016.62,4,17,PWHunter,that's all
 59.93,26588,Potion of Eagle,1000,2495.87,10,2,Gl1dios,RANDOM!!! EZ
 58.34,25440,Evanescence Stone,200,480.12,5,23,HyjoSeller,LOOK OVER HERE
-57.86,25507,Expert Stone,500,1186.41,8,23,Uwe,trash
-57.86,25507,Expert Stone,500,1186.41,8,3,ATHALIAH,LOWEST PRICE
 57.83,29058,20 Crafting EXP Card,800,1897.04,3,5,PWHunter,that's all
 57.8,25504,Standard Scroll,59,139.83,4,16,xLiliith,Some good things for you!e
+57.36,25507,Expert Stone,500,1172.54,8,23,Uwe,trash
+57.36,25507,Expert Stone,500,1172.54,8,3,ATHALIAH,LOWEST PRICE
 56.77,30121,Vial of Accuracy Reset,2000,4625.91,7,1,Buhonero,Welcome
 56.77,30121,Vial of Accuracy Reset,2000,4625.91,7,4,Ivynor,All cheap
 56.14,22000,FieryGem,1500,3420.13,11,1,lamamandoski,basurita
