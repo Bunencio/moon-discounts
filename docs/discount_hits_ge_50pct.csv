@@ -18,8 +18,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,472795.78,5,2,Xiomarvic,Free Itms
 99.99,25525,,35,472795.78,5,1,xkom,CHAOS JEWEL FRAG
 99.99,25527,,85,856440.0,3,1,iTonik,Selling
-99.99,27020,Gold Pirate Scroll,3,23229.61,6,58,iTonik,Selling
-99.99,27020,Gold Pirate Scroll,3,23229.61,6,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,23193.26,6,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,23193.26,6,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,280011.8,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,280011.8,5,1,AAA123,13123131321
 99.99,30156,Jackpot Coin,1,8090.91,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -35,12 +35,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.12,25499,Purple Colorant,100,2577.66,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 95.66,25501,Brown Colorant,100,2301.82,4,7,Manager,HAIRSTYLE SUPER DROP PRICE
 92.93,25479,Phyllis Hairstyle Book,50,706.73,3,45,Manager,HAIRSTYLE SUPER DROP PRICE
-89.46,26564,Meditation Potion,45,427.12,3,28,Skills,o_0   Free    *_*    Free   0_ox
-88.29,26564,Meditation Potion,50,427.12,3,190,lamamandoski,basurita
-88.29,26564,Meditation Potion,50,427.12,3,147,lamamandoski,basurita
-88.29,26564,Meditation Potion,50,427.12,3,200,Fitstall,App Hat|Lv60 Items| Mana Pots
-88.29,26564,Meditation Potion,50,427.12,3,100,Fitstall,App Hat|Lv60 Items| Mana Pots
-88.29,26564,Meditation Potion,50,427.12,3,199,Fitstall,App Hat|Lv60 Items| Mana Pots
 84.78,22001,Furious Gem,456,2996.11,10,1,BLaCKMooN,X_X
 84.24,25494,Yellow Colorant.,500,3171.88,3,14,MushroomShop10,Hairstyle
 83.35,22001,Furious Gem,499,2996.11,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
@@ -60,7 +54,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.79,28450,Fire Sealed Tooth of Evanescence,10000,26875.0,4,1,BadSector,10k
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
 61.24,28446,Fire Sealed Bow of Evanescence,10000,25800.0,4,1,Cachexia,BOW/FLASH
+61.1,26590,Potion of Soul,1000,2570.81,9,2,Gl1dios,RANDOM!!! EZ
 60.33,29057,20 Manufacturing EXP Card,800,2016.62,4,17,PWHunter,that's all
+59.96,26588,Potion of Eagle,1000,2497.79,9,2,Gl1dios,RANDOM!!! EZ
 57.83,29058,20 Crafting EXP Card,800,1897.04,3,5,PWHunter,that's all
 57.8,25504,Standard Scroll,59,139.83,4,16,xLiliith,Some good things for you!e
 57.36,25507,Expert Stone,500,1172.54,8,23,Uwe,trash
@@ -72,4 +68,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.39,30122,Vial of Spirit Reset,2000,4385.38,8,1,Buhonero,Welcome
 54.39,30122,Vial of Spirit Reset,2000,4385.38,8,1,Ivynor,All cheap
 53.49,28448,Fire Sealed Cloak of Evanescence,10000,21499.83,4,1,BadSector,10k
-52.61,25430,Enigma Power,999,2108.18,8,23,Uwe,trash
+52.71,25430,Enigma Power,999,2112.29,8,23,Uwe,trash
