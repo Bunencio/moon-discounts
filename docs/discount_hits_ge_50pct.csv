@@ -5,9 +5,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,32042.14,8,10,CocoZap,Possession / Jade
 100.0,28136,Crown of Decendant,14,457151.14,7,1,voyo,soooo cheap lol
 100.0,28136,Crown of Decendant,15,457151.14,7,1,AAA123,13123131321
-100.0,28423,Mantle of the Cursed Flame,1,80000.33,3,1,stallerx,Str pet+ crus equips and more
-100.0,28456,Ice Sealed Robe of the Sphinx,1,59750.25,4,1,stallerx,Str pet+ crus equips and more
-100.0,28458,Ice Sealed Staff of the Sphinx,1,48333.67,3,1,stallerx,Str pet+ crus equips and more
 100.0,29324,Soulbinding Necklace,6,216679.67,4,1,#61blak,Cleric Items
 100.0,29324,Soulbinding Necklace,6,216679.67,4,1,Grelo,CLERIC DS +5 SPIRIT CHEAP PET 21
 100.0,29324,Soulbinding Necklace,6,216679.67,4,1,AAA123,13123131321
@@ -15,12 +12,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
 99.99,25452,Rock Gem Fragment,2,27102.9,9,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,27102.9,9,18,monchito1,super cremoso
-99.99,25525,,35,481160.03,5,2,Xiomarvic,Free Itms
-99.99,25525,,35,481160.03,5,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,26357.49,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,25525,,35,483088.87,5,2,Xiomarvic,Free Itms
+99.99,25525,,35,483088.87,5,1,xkom,CHAOS JEWEL FRAG
+99.99,27020,Gold Pirate Scroll,3,25723.22,6,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,8078.6,15,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,8078.6,15,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,7984.55,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,7984.55,14,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,103857.92,4,6,GemMarket,GREEN JADE
 99.98,25451,Jade Gem Fragment,8,32042.14,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
@@ -37,15 +34,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 95.66,25501,Brown Colorant,100,2301.82,4,7,Manager,HAIRSTYLE SUPER DROP PRICE
 92.93,25479,Phyllis Hairstyle Book,50,706.73,3,45,Manager,HAIRSTYLE SUPER DROP PRICE
 84.24,25494,Yellow Colorant.,500,3171.88,3,14,MushroomShop10,Hairstyle
-83.53,22001,Furious Gem,499,3029.7,9,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
-83.5,22001,Furious Gem,500,3029.7,9,3,Bathroom,S>cleening bank
+83.6,22001,Furious Gem,499,3043.33,8,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
+83.57,22001,Furious Gem,500,3043.33,8,3,Bathroom,S>cleening bank
 78.28,25501,Brown Colorant,500,2301.82,4,1,cheapstuffsell,cheap
 75.41,22003,Glowing Gem,900,3659.97,6,3,SSTTAALL,CHEAP STUFF/NORMALGEM
 74.0,25493,Orange Colorant,100,384.62,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 72.73,28440,Fire Sealed Roar of Evanescence,9999,36665.67,3,1,BjornIronside,@@@@
 72.7,22003,Glowing Gem,999,3659.97,6,2,stuffseller,cheap
-71.94,22001,Furious Gem,850,3029.7,9,3,cheapstuffsell,cheap
-67.03,22001,Furious Gem,999,3029.7,9,1,SariSariStore1,CLEANING BANK
+72.07,22001,Furious Gem,850,3043.33,8,3,cheapstuffsell,cheap
 66.06,29056,20 Cooking EXP Card,800,2357.07,3,1,PWHunter,that's all
 65.52,28035,Solar Shield,9999,28999.2,5,1,BartholomewKuma,SM 50 / Shield/ Equips 50
 64.32,25258,Spirit Feather,77,215.81,4,7,dsadsa,weightless tix dw fairy ration
