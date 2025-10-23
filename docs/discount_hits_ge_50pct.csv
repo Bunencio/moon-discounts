@@ -1,5 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22014,Demonic Gem of Colossus,27,2278337.67,4,1,MUTAA,COLOS!
+100.0,22014,Demonic Gem of Colossus,27,2214005.2,3,1,MUTAA,COLOS!
 100.0,22023,Green Jade,3,103857.92,4,1,AAAAA123,ty
 100.0,22030,Earth Rock,20,1600006.67,3,1,AAAAA123,ty
 100.0,22434,,6,293752.88,4,1,xTrueHistory,ShadowCrystal
@@ -19,8 +19,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,470581.35,6,2,iTonik,Selling
 99.99,25525,,35,470581.35,6,2,Xiomarvic,Free Itms
 99.99,25525,,35,470581.35,6,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,23174.87,7,58,iTonik,Selling
-99.99,27020,Gold Pirate Scroll,3,23174.87,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,21047.83,7,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,21047.83,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,280011.8,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,280011.8,5,1,AAA123,13123131321
 99.99,30156,Jackpot Coin,1,8084.34,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -31,7 +31,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,29307,Ring of Damnation,18,104007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.97,25452,Rock Gem Fragment,8,25515.38,9,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.97,25452,Rock Gem Fragment,8,25515.38,9,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
-98.32,26000,Sandy Coin,60,3571.82,4,7,Exterminator,buy pls need gold
 97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 97.41,25497,Blue Colorant,100,3865.28,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 96.12,25499,Purple Colorant,100,2577.66,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
