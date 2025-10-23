@@ -1,13 +1,13 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22008,Gem of the Wind,9,296206.38,6,2,BuyBBP,Gems
+100.0,22010,Gem of Rage,20,508349.0,4,1,BuyBBP,Gems
+100.0,22010,Gem of Rage,21,508349.0,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,27,2352860.86,4,1,MUTAA,COLOS!
 100.0,22023,Green Jade,3,103857.92,4,1,AAAAA123,ty
-100.0,25451,Jade Gem Fragment,1,26886.29,7,9,monchito1,super cremoso
-100.0,25451,Jade Gem Fragment,1,26886.29,7,10,CocoZap,Possession / Jade
+100.0,25451,Jade Gem Fragment,1,29620.45,8,9,monchito1,super cremoso
+100.0,25451,Jade Gem Fragment,1,29620.45,8,10,CocoZap,Possession / Jade
 100.0,28136,Crown of Decendant,14,457151.14,7,1,voyo,soooo cheap lol
 100.0,28136,Crown of Decendant,15,457151.14,7,1,AAA123,13123131321
-100.0,28403,Blade of Incantation,3,108400.8,3,1,stallerx,Str pet+ crus equips and more
-100.0,28403,Blade of Incantation,3,108400.8,3,1,stallerx,Str pet+ crus equips and more
 100.0,28423,Mantle of the Cursed Flame,1,80000.33,3,1,stallerx,Str pet+ crus equips and more
 100.0,28456,Ice Sealed Robe of the Sphinx,1,59750.25,4,1,stallerx,Str pet+ crus equips and more
 100.0,28458,Ice Sealed Staff of the Sphinx,1,48333.67,3,1,stallerx,Str pet+ crus equips and more
@@ -15,61 +15,55 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29324,Soulbinding Necklace,6,185726.29,4,1,Grelo,CLERIC DS +5 SPIRIT CHEAP PET 21
 100.0,29324,Soulbinding Necklace,6,185726.29,4,1,Stun,sell cheamp CLERIC STUFFS
 100.0,29324,Soulbinding Necklace,6,185726.29,4,1,AAA123,13123131321
-100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
-100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
-99.99,25452,Rock Gem Fragment,2,25618.36,9,1,Coffi,FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,25618.36,9,18,monchito1,super cremoso
+99.99,25452,Rock Gem Fragment,2,27102.9,9,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,27102.9,9,18,monchito1,super cremoso
 99.99,25525,,25,479000.44,7,1,VelvetRevolver,Chaos Jewell
 99.99,25525,,35,479000.44,7,2,Xiomarvic,Free Itms
-99.99,27020,Gold Pirate Scroll,3,26435.7,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,26388.22,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,7985.33,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,7985.33,13,75,JackSparroow,JACKPOT COIN (10IMP)
-99.98,22007,Gem of Striking,13,82071.15,4,17,Aemond,CHEAP GEMS
-99.98,22007,Gem of Striking,13,82071.15,4,10,MrFarm,CHEAPEST STALL IN TOWN/2PAGES!!!
-99.98,22007,Gem of Striking,16,82071.15,4,1,zzzzz,garner
-99.98,22007,Gem of Striking,13,82071.15,4,4,BuyBBP,Gems
+99.99,30156,Jackpot Coin,1,7932.66,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,7932.66,14,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,103857.92,4,6,GemMarket,GREEN JADE
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.97,22008,Gem of the Wind,95,296206.38,6,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
-99.97,25451,Jade Gem Fragment,8,26886.29,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
-99.97,25452,Rock Gem Fragment,8,25618.36,9,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.97,25452,Rock Gem Fragment,8,25618.36,9,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.97,25451,Jade Gem Fragment,8,29620.45,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.97,25452,Rock Gem Fragment,8,27102.9,9,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.97,25452,Rock Gem Fragment,9,27102.9,9,1,sstido,selling
+99.97,25452,Rock Gem Fragment,9,27102.9,9,1,Goliat,Rock Fragment CHEAP
+99.97,25452,Rock Gem Fragment,8,27102.9,9,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.97,25476,Hairstyling Voucher,2,6571.86,3,2,sstido,selling
 99.97,29324,Soulbinding Necklace,60,185726.29,4,1,sstido,selling
-99.96,25452,Rock Gem Fragment,9,25618.36,9,1,sstido,selling
-99.96,25452,Rock Gem Fragment,9,25618.36,9,1,Goliat,Rock Fragment CHEAP
 97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 97.41,25497,Blue Colorant,100,3865.28,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 96.12,25499,Purple Colorant,100,2577.66,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 95.66,25501,Brown Colorant,100,2301.82,4,7,Manager,HAIRSTYLE SUPER DROP PRICE
 92.93,25479,Phyllis Hairstyle Book,50,706.73,3,45,Manager,HAIRSTYLE SUPER DROP PRICE
 84.24,25494,Yellow Colorant.,500,3171.88,3,14,MushroomShop10,Hairstyle
-81.5,22001,Furious Gem,499,2696.92,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
-81.46,22001,Furious Gem,500,2696.92,10,3,Bathroom,S>cleening bank
+81.56,22001,Furious Gem,499,2705.39,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
+81.52,22001,Furious Gem,500,2705.39,10,3,Bathroom,S>cleening bank
 78.28,25501,Brown Colorant,500,2301.82,4,1,cheapstuffsell,cheap
 75.41,22003,Glowing Gem,900,3659.97,6,3,SSTTAALL,CHEAP STUFF/NORMALGEM
 74.0,25493,Orange Colorant,100,384.62,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 72.73,28440,Fire Sealed Roar of Evanescence,9999,36665.67,3,1,BjornIronside,@@@@
 72.7,22003,Glowing Gem,999,3659.97,6,2,stuffseller,cheap
-68.48,22001,Furious Gem,850,2696.92,10,3,cheapstuffsell,cheap
-68.48,22001,Furious Gem,850,2696.92,10,1,stuffseller,cheap
+68.58,22001,Furious Gem,850,2705.39,10,3,cheapstuffsell,cheap
 65.52,28326,Divine Grace Cap,49999,144999.83,5,1,Pigrolac,CHEAP
+64.49,29056,20 Cooking EXP Card,800,2253.0,4,1,PWHunter,that's all
+64.24,25504,Standard Scroll,50,139.83,4,14,stuffseller,cheap
 64.13,25258,Spirit Feather,77,214.66,5,7,dsadsa,weightless tix dw fairy ration
-62.96,22001,Furious Gem,999,2696.92,10,1,SariSariStore1,CLEANING BANK
-62.61,29056,20 Cooking EXP Card,800,2139.38,5,1,PWHunter,that's all
+63.07,22001,Furious Gem,999,2705.39,10,1,SariSariStore1,CLEANING BANK
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
 60.35,25212,Frozen Elixir,77,194.22,3,39,dsadsa,weightless tix dw fairy ration
 58.62,28450,Fire Sealed Tooth of Evanescence,24000,57999.67,3,1,WannaBE,"Cheap stuff!""!"
 57.9,28035,Solar Shield,9999,23749.0,4,1,BartholomewKuma,SM 50 / Shield/ Equips 50
-56.77,30121,Vial of Accuracy Reset,2000,4625.91,7,1,Buhonero,Welcome
-56.77,30121,Vial of Accuracy Reset,2000,4625.91,7,4,Ivynor,All cheap
-56.11,29058,20 Crafting EXP Card,800,1822.59,5,5,PWHunter,that's all
-54.39,30122,Vial of Spirit Reset,2000,4385.38,8,1,Buhonero,Welcome
-54.39,30122,Vial of Spirit Reset,2000,4385.38,8,1,Ivynor,All cheap
-54.24,29057,20 Manufacturing EXP Card,800,1748.28,4,17,PWHunter,that's all
-53.01,28468,Ice Sealed Mantle of Enigma,65000,138333.33,3,1,Chupeteira,UPGRADE YOUR CHAR WITH IT
+57.8,25504,Standard Scroll,59,139.83,4,16,xLiliith,Some good things for you!e
+55.92,29058,20 Crafting EXP Card,800,1814.87,4,5,PWHunter,that's all
+54.82,30121,Vial of Accuracy Reset,2000,4426.59,6,1,Buhonero,Welcome
+54.82,30121,Vial of Accuracy Reset,2000,4426.59,6,4,Ivynor,All cheap
+52.8,30122,Vial of Spirit Reset,2000,4237.15,7,1,Buhonero,Welcome
+52.8,30122,Vial of Spirit Reset,2000,4237.15,7,1,Ivynor,All cheap
 52.48,22004,Shining Gem,2000,4208.38,5,12,vendedolmax,2000
-51.87,22000,FieryGem,1500,3116.81,11,1,lamamandoski,basurita
+51.91,22000,FieryGem,1500,3119.28,11,1,lamamandoski,basurita
 50.82,2301,,9999,20332.94,6,1,Kaldr,Crafting Blueprints
+50.18,29057,20 Manufacturing EXP Card,800,1605.88,3,17,PWHunter,that's all
