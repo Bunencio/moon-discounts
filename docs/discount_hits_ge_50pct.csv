@@ -1,11 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22008,Gem of the Wind,9,296206.38,6,2,BuyBBP,Gems
-100.0,22010,Gem of Rage,20,508349.0,4,1,BuyBBP,Gems
-100.0,22010,Gem of Rage,21,508349.0,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
+100.0,22008,Gem of the Wind,9,292360.23,6,2,BuyBBP,Gems
+100.0,22010,Gem of Rage,20,1525005.0,3,1,BuyBBP,Gems
 100.0,22014,Demonic Gem of Colossus,27,2352860.86,4,1,MUTAA,COLOS!
 100.0,22023,Green Jade,3,103857.92,4,1,AAAAA123,ty
-100.0,25451,Jade Gem Fragment,1,29620.45,8,9,monchito1,super cremoso
-100.0,25451,Jade Gem Fragment,1,29620.45,8,10,CocoZap,Possession / Jade
+100.0,25451,Jade Gem Fragment,1,32042.14,8,9,monchito1,super cremoso
+100.0,25451,Jade Gem Fragment,1,32042.14,8,10,CocoZap,Possession / Jade
 100.0,28136,Crown of Decendant,14,457151.14,7,1,voyo,soooo cheap lol
 100.0,28136,Crown of Decendant,15,457151.14,7,1,AAA123,13123131321
 100.0,28423,Mantle of the Cursed Flame,1,80000.33,3,1,stallerx,Str pet+ crus equips and more
@@ -15,19 +14,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29324,Soulbinding Necklace,6,185726.29,4,1,Grelo,CLERIC DS +5 SPIRIT CHEAP PET 21
 100.0,29324,Soulbinding Necklace,6,185726.29,4,1,Stun,sell cheamp CLERIC STUFFS
 100.0,29324,Soulbinding Necklace,6,185726.29,4,1,AAA123,13123131321
+100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
+100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
 99.99,25452,Rock Gem Fragment,2,27102.9,9,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,27102.9,9,18,monchito1,super cremoso
 99.99,25525,,25,479000.44,7,1,VelvetRevolver,Chaos Jewell
 99.99,25525,,35,479000.44,7,2,Xiomarvic,Free Itms
 99.99,27020,Gold Pirate Scroll,3,26388.22,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,7932.66,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,7932.66,14,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,7919.18,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,7919.18,14,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,103857.92,4,6,GemMarket,GREEN JADE
+99.98,25451,Jade Gem Fragment,8,32042.14,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
-99.97,22008,Gem of the Wind,95,296206.38,6,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
-99.97,25451,Jade Gem Fragment,8,29620.45,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.97,22008,Gem of the Wind,95,292360.23,6,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
 99.97,25452,Rock Gem Fragment,8,27102.9,9,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.97,25452,Rock Gem Fragment,9,27102.9,9,1,sstido,selling
 99.97,25452,Rock Gem Fragment,9,27102.9,9,1,Goliat,Rock Fragment CHEAP
@@ -51,7 +52,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 65.52,28326,Divine Grace Cap,49999,144999.83,5,1,Pigrolac,CHEAP
 64.49,29056,20 Cooking EXP Card,800,2253.0,4,1,PWHunter,that's all
 64.24,25504,Standard Scroll,50,139.83,4,14,stuffseller,cheap
-64.13,25258,Spirit Feather,77,214.66,5,7,dsadsa,weightless tix dw fairy ration
+63.73,25258,Spirit Feather,77,212.29,4,7,dsadsa,weightless tix dw fairy ration
 63.07,22001,Furious Gem,999,2705.39,10,1,SariSariStore1,CLEANING BANK
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
 60.35,25212,Frozen Elixir,77,194.22,3,39,dsadsa,weightless tix dw fairy ration
@@ -64,6 +65,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 52.8,30122,Vial of Spirit Reset,2000,4237.15,7,1,Buhonero,Welcome
 52.8,30122,Vial of Spirit Reset,2000,4237.15,7,1,Ivynor,All cheap
 52.48,22004,Shining Gem,2000,4208.38,5,12,vendedolmax,2000
-51.91,22000,FieryGem,1500,3119.28,11,1,lamamandoski,basurita
+51.87,22000,FieryGem,1500,3116.46,11,1,lamamandoski,basurita
 50.82,2301,,9999,20332.94,6,1,Kaldr,Crafting Blueprints
 50.18,29057,20 Manufacturing EXP Card,800,1605.88,3,17,PWHunter,that's all
