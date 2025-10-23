@@ -19,10 +19,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29314,Ring of Angelic,5,185716.86,4,1,BV10,q
 100.0,29314,Ring of Angelic,4,185716.86,4,1,Sellerr,SELL 2nd gen CON lv25 and rings
 100.0,29314,Ring of Angelic,4,185716.86,4,1,Sellerr,SELL 2nd gen CON lv25 and rings
-100.0,29324,Soulbinding Necklace,6,230010.5,5,1,#61blak,Cleric Items
-100.0,29324,Soulbinding Necklace,6,230010.5,5,1,Grelo,CLERIC DS +5 SPIRIT CHEAP PET 21
-100.0,29324,Soulbinding Necklace,6,230010.5,5,1,Stun,sell cheamp CLERIC STUFFS
-100.0,29324,Soulbinding Necklace,6,230010.5,5,1,AAA123,13123131321
+100.0,29324,Soulbinding Necklace,6,185726.29,4,1,#61blak,Cleric Items
+100.0,29324,Soulbinding Necklace,6,185726.29,4,1,Grelo,CLERIC DS +5 SPIRIT CHEAP PET 21
+100.0,29324,Soulbinding Necklace,6,185726.29,4,1,Stun,sell cheamp CLERIC STUFFS
+100.0,29324,Soulbinding Necklace,6,185726.29,4,1,AAA123,13123131321
 100.0,29327,Ring of Devastation,5,235602.0,3,1,AAA123,13123131321
 100.0,29327,Ring of Devastation,5,235602.0,3,1,AAA123,13123131321
 99.99,25452,Rock Gem Fragment,2,28124.73,10,1,Coffi,FRAGMENTS
@@ -46,7 +46,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25452,Rock Gem Fragment,9,28124.73,10,1,Goliat,Rock Fragment CHEAP
 99.97,25452,Rock Gem Fragment,8,28124.73,10,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.97,25476,Hairstyling Voucher,2,6571.86,3,2,sstido,selling
-99.97,29324,Soulbinding Necklace,60,230010.5,5,1,sstido,selling
+99.97,29324,Soulbinding Necklace,60,185726.29,4,1,sstido,selling
 97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 97.41,25497,Blue Colorant,100,3865.28,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 96.12,25499,Purple Colorant,100,2577.66,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
