@@ -1,7 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22008,Gem of the Wind,9,376590.31,7,1,Federal941,DEMONIC SOUL | UG WIND
-100.0,22010,Gem of Rage,19,508348.92,4,1,BatMAN,RAGE GAYSSS
-100.0,22010,Gem of Rage,21,508348.92,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,27,2057150.71,4,1,MUTAA,COLOS!
 100.0,22014,Demonic Gem of Colossus,28,2057150.71,4,1,Lunity,Demonic Colo
 100.0,22023,Green Jade,3,92741.18,4,1,AAAAA123,ty
@@ -22,12 +20,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22011,Gemof Sout,20,156097.74,4,1,monchito1,super cremoso
 99.99,22011,Gemof Sout,12,156097.74,4,13,jejejeje,GEM OF SOUL
 99.99,22011,Gemof Sout,12,156097.74,4,6,Suntukan,SOUL
-99.99,25452,Rock Gem Fragment,2,25688.34,9,1,Coffi,FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,25688.34,9,18,monchito1,super cremoso
+99.99,25452,Rock Gem Fragment,2,23660.95,9,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,23660.95,9,18,monchito1,super cremoso
 99.99,25525,,35,466667.69,5,2,Xiomarvic,Free Itms
+99.99,27020,Gold Pirate Scroll,3,26386.81,9,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,290037.0,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,290037.0,5,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,7718.95,13,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,7634.87,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,7634.87,13,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22007,Gem of Striking,16,93012.23,4,1,zzzzz,garner
 99.98,25533,,8,44504.0,3,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
@@ -35,10 +35,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,22008,Gem of the Wind,95,376590.31,7,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
 99.97,22023,Green Jade,25,92741.18,4,6,GemMarket,GREEN JADE
 99.97,25451,Jade Gem Fragment,8,25301.03,6,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
-99.97,25452,Rock Gem Fragment,8,25688.34,9,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.97,25452,Rock Gem Fragment,8,23660.95,9,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.97,25452,Rock Gem Fragment,8,23660.95,9,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.97,25476,Hairstyling Voucher,2,6571.86,3,2,sstido,selling
-99.96,25452,Rock Gem Fragment,9,25688.34,9,1,sstido,selling
-99.96,25452,Rock Gem Fragment,9,25688.34,9,1,Goliat,Rock Fragment CHEAP
+99.96,25452,Rock Gem Fragment,9,23660.95,9,1,sstido,selling
+99.96,25452,Rock Gem Fragment,9,23660.95,9,1,Goliat,Rock Fragment CHEAP
 99.96,29324,Soulbinding Necklace,60,155726.29,4,1,sstido,selling
 99.95,28136,Crown of Decendant,140,290037.0,5,1,voyo,salerto
 99.67,25426,Universe Purse Fragment.,270,82056.0,4,2,Xiomarvic,Free Itms
@@ -47,7 +48,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 96.12,25499,Purple Colorant,100,2577.66,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 95.66,25501,Brown Colorant,100,2301.82,4,7,Manager,HAIRSTYLE SUPER DROP PRICE
 92.93,25479,Phyllis Hairstyle Book,50,706.73,3,45,Manager,HAIRSTYLE SUPER DROP PRICE
-91.5,26000,Sandy Coin,300,3529.11,4,15,Shab7,cheeeeeeeeeeep
 84.24,25494,Yellow Colorant.,500,3171.88,3,14,MushroomShop10,Hairstyle
 81.46,22001,Furious Gem,499,2691.3,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
 81.42,22001,Furious Gem,500,2691.3,10,3,Bathroom,S>cleening bank
@@ -59,8 +59,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.42,22001,Furious Gem,850,2691.3,10,1,stuffseller,cheap
 64.54,25258,Spirit Feather,77,217.14,5,19,dsadsa,weightless tix dw fairy ration
 62.88,22001,Furious Gem,999,2691.3,10,1,SariSariStore1,CLEANING BANK
+62.73,29056,20 Cooking EXP Card,800,2146.45,5,1,PWHunter,that's all
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
-62.02,29056,20 Cooking EXP Card,800,2106.45,6,1,PWHunter,that's all
 59.48,22004,Shining Gem,1500,3702.27,6,37,hunterx,Ug strike/wind/repu/bp/xp etc
 58.62,28450,Fire Sealed Tooth of Evanescence,24000,57999.67,3,1,WannaBE,"Cheap stuff!""!"
 58.04,25389,Shark Fin,68,162.07,5,9,xLiliith,Some good things for you!e
@@ -69,12 +69,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.69,30121,Vial of Accuracy Reset,2000,4727.21,7,1,Buhonero,Welcome
 57.69,30121,Vial of Accuracy Reset,2000,4727.21,7,4,Ivynor,All cheap
 57.42,25389,Shark Fin,69,162.07,5,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
-55.83,29058,20 Crafting EXP Card,800,1811.16,6,5,PWHunter,that's all
+56.11,29058,20 Crafting EXP Card,800,1822.59,5,5,PWHunter,that's all
 55.1,30122,Vial of Spirit Reset,2000,4454.7,7,1,Buhonero,Welcome
 55.1,30122,Vial of Spirit Reset,2000,4454.7,7,1,Ivynor,All cheap
-53.69,29057,20 Manufacturing EXP Card,800,1727.59,5,17,PWHunter,that's all
-52.51,22000,FieryGem,1500,3158.62,9,1,ReddoVoy,ref gems hell yeah
-52.51,22000,FieryGem,1500,3158.62,9,1,lamamandoski,basurita
-52.37,25503,Magical Stone,99,207.85,5,40,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
-52.37,25503,Magical Stone,99,207.85,5,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
+54.24,29057,20 Manufacturing EXP Card,800,1748.28,4,17,PWHunter,that's all
+52.28,22000,FieryGem,1500,3143.37,10,1,ReddoVoy,ref gems hell yeah
+52.28,22000,FieryGem,1500,3143.37,10,1,lamamandoski,basurita
 52.16,2301,,9999,20901.53,6,1,Kaldr,Crafting Blueprints
+50.36,25507,Expert Stone,649,1307.3,7,2,xLiliith,Some good things for you!e
+50.28,25507,Expert Stone,650,1307.3,7,69,sellerforfree,cheap
+50.28,25507,Expert Stone,650,1307.3,7,65,sellerforfree,cheap
