@@ -1,9 +1,11 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22008,Gem of the Wind,9,326379.47,7,1,Federal941,DEMONIC SOUL | UG WIND
 100.0,22008,Gem of the Wind,9,326379.47,7,2,BuyBBP,Gems
+100.0,22010,Gem of Rage,20,469246.77,4,1,River1,DemonicStriking Rage
+100.0,22010,Gem of Rage,20,469246.77,4,1,BuyBBP,Gems
+100.0,22010,Gem of Rage,21,469246.77,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
 100.0,22014,Demonic Gem of Colossus,27,2352860.86,4,1,MUTAA,COLOS!
 100.0,22023,Green Jade,3,103857.92,4,1,AAAAA123,ty
-100.0,25426,Universe Purse Fragment.,4,82056.0,4,5,Coffi,FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,32400.74,7,9,monchito1,super cremoso
 100.0,25451,Jade Gem Fragment,1,32400.74,7,10,CocoZap,Possession / Jade
 100.0,28136,Crown of Decendant,14,457151.14,7,1,voyo,soooo cheap lol
@@ -28,8 +30,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,485942.12,6,2,Xiomarvic,Free Itms
 99.99,27020,Gold Pirate Scroll,3,26329.75,11,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,7835.99,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,7835.99,14,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,7829.83,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,7829.83,13,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22007,Gem of Striking,13,82071.15,4,17,Aemond,CHEAP GEMS
 99.98,22007,Gem of Striking,13,82071.15,4,10,MrFarm,CHEAPEST STALL IN TOWN/2PAGES!!!
 99.98,22007,Gem of Striking,16,82071.15,4,1,zzzzz,garner
@@ -45,7 +47,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.97,25452,Rock Gem Fragment,8,28124.73,10,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.97,25476,Hairstyling Voucher,2,6571.86,3,2,sstido,selling
 99.97,29324,Soulbinding Necklace,60,230010.5,5,1,sstido,selling
-99.67,25426,Universe Purse Fragment.,270,82056.0,4,2,Xiomarvic,Free Itms
 97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 97.41,25497,Blue Colorant,100,3865.28,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 96.12,25499,Purple Colorant,100,2577.66,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
