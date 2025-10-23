@@ -23,8 +23,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,23680.67,9,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,280011.8,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,280011.8,5,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,8296.63,15,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,8296.63,15,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,8279.28,15,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,8279.28,15,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,109296.64,5,6,GemMarket,GREEN JADE
 99.98,25451,Jade Gem Fragment,8,32042.14,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
@@ -58,8 +58,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.35,25212,Frozen Elixir,77,194.22,3,39,dsadsa,weightless tix dw fairy ration
 57.8,25504,Standard Scroll,59,139.83,4,16,xLiliith,Some good things for you!e
 57.61,29058,20 Crafting EXP Card,800,1887.1,3,5,PWHunter,that's all
-56.77,30121,Vial of Accuracy Reset,2000,4625.91,7,1,Buhonero,Welcome
-56.77,30121,Vial of Accuracy Reset,2000,4625.91,7,4,Ivynor,All cheap
+56.6,30121,Vial of Accuracy Reset,2000,4608.1,7,1,Buhonero,Welcome
+56.6,30121,Vial of Accuracy Reset,2000,4608.1,7,4,Ivynor,All cheap
 56.14,22000,FieryGem,1500,3420.15,11,1,lamamandoski,basurita
 55.26,22004,Shining Gem,2000,4470.68,4,12,vendedolmax,2000
 54.39,30122,Vial of Spirit Reset,2000,4385.38,8,1,Buhonero,Welcome
