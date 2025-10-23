@@ -4,11 +4,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,27,2057150.71,4,1,MUTAA,COLOS!
 100.0,22014,Demonic Gem of Colossus,28,2057150.71,4,1,Lunity,Demonic Colo
 100.0,22023,Green Jade,3,92741.18,4,1,AAAAA123,ty
-100.0,25426,Universe Purse Fragment.,4,80002.86,3,5,Coffi,FRAGMENTS
 100.0,25451,Jade Gem Fragment,1,25301.03,6,9,monchito1,super cremoso
 100.0,25451,Jade Gem Fragment,1,25301.03,6,10,CocoZap,Possession / Jade
-100.0,25525,,3,491891.08,4,1,tiendaonline,offer offer
+100.0,25525,,3,466667.69,5,1,tiendaonline,offer offer
 100.0,28326,Divine Grace Cap,1,101667.0,3,1,Pigrolac,CHEAPEST!!!
+100.0,28423,Mantle of the Cursed Flame,1,80000.33,3,1,stallerx,Str pet+ crus equips and more
 100.0,28456,Ice Sealed Robe of the Sphinx,1,59667.0,3,1,stallerx,Str pet+ crus equips and more
 100.0,29324,Soulbinding Necklace,6,155726.29,4,1,#61blak,Cleric Items
 100.0,29324,Soulbinding Necklace,6,155726.29,4,1,Grelo,CLERIC DS +5 SPIRIT CHEAP PET 21
@@ -21,11 +21,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,22011,Gemof Sout,20,138087.85,4,1,monchito1,super cremoso
 99.99,22011,Gemof Sout,12,138087.85,4,13,jejejeje,GEM OF SOUL
 99.99,22011,Gemof Sout,12,138087.85,4,9,Suntukan,SOUL
+99.99,25426,Universe Purse Fragment.,4,62284.44,4,5,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,25688.34,9,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,25688.34,9,18,monchito1,super cremoso
+99.99,25525,,35,466667.69,5,2,Xiomarvic,Free Itms
 99.99,28136,Crown of Decendant,30,290037.0,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,290037.0,5,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,7776.3,11,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,7785.84,12,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22007,Gem of Striking,16,93012.23,4,1,zzzzz,garner
 99.98,25533,,8,44504.0,3,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
@@ -39,6 +41,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.96,25452,Rock Gem Fragment,9,25688.34,9,1,Goliat,Rock Fragment CHEAP
 99.96,29324,Soulbinding Necklace,60,155726.29,4,1,sstido,selling
 99.95,28136,Crown of Decendant,140,290037.0,5,1,voyo,salerto
+99.57,25426,Universe Purse Fragment.,270,62284.44,4,2,Xiomarvic,Free Itms
 97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 97.41,25497,Blue Colorant,100,3865.28,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 96.12,25499,Purple Colorant,100,2577.66,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
@@ -64,11 +67,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.69,30121,Vial of Accuracy Reset,2000,4727.21,7,1,Buhonero,Welcome
 57.69,30121,Vial of Accuracy Reset,2000,4727.21,7,4,Ivynor,All cheap
 57.42,25389,Shark Fin,69,162.07,5,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
-56.96,25212,Frozen Elixir,77,178.9,3,69,dsadsa,weightless tix dw fairy ration
 55.83,29058,20 Crafting EXP Card,800,1811.16,6,5,PWHunter,that's all
+55.29,25212,Frozen Elixir,77,172.24,3,69,dsadsa,weightless tix dw fairy ration
 55.1,30122,Vial of Spirit Reset,2000,4454.7,7,1,Buhonero,Welcome
 55.1,30122,Vial of Spirit Reset,2000,4454.7,7,1,Ivynor,All cheap
 53.69,29057,20 Manufacturing EXP Card,800,1727.59,5,17,PWHunter,that's all
 52.51,22000,FieryGem,1500,3158.62,9,1,ReddoVoy,ref gems hell yeah
 52.51,22000,FieryGem,1500,3158.62,9,1,lamamandoski,basurita
+52.37,25503,Magical Stone,99,207.85,5,40,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
+52.37,25503,Magical Stone,99,207.85,5,7,Chupeteira,QUITTING STALL ALL CHEAP/ EQUIPS
 52.16,2301,,9999,20901.53,6,1,Kaldr,Crafting Blueprints
