@@ -91,9 +91,12 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-23,27014,Moonroot Wine,Lucifrr,M Wine 599 | G Brew 449 | PS 249,599,726.36,127.36,170,21651.83,17.53,6
 2025-10-23,30135,Demonic Rock,Bankera,Gold Pirate Scroll| Demonic Rock,2500,2993.57,493.57,43,21223.69,16.49,7
 2025-10-23,26588,Potion of Eagle,cheapstuff3,cheap,2100,2508.01,408.01,84,34272.49,16.27,8
+2025-10-23,27026,Soul Detector Lv1,Kalista,flash bomb / detector / radiat,799,953.59,154.59,195,30145.65,16.21,3
 2025-10-23,30102,1000 Reputation Scroll,Despair,REEPUUTAtion,5995,7149.45,1154.45,44,50795.73,16.15,7
 2025-10-23,30102,1000 Reputation Scroll,MatsBk,S>GPS/JC/PBS/DUST/REP,6000,7149.45,1149.45,23,26437.31,16.08,7
-2025-10-23,26592,Flash Bomb,GouL,CHEAP FB,900,1065.99,165.99,200,33197.3,15.57,14
+2025-10-23,26592,Flash Bomb,Kalista,flash bomb / detector / radiat,899,1062.45,163.45,186,30401.39,15.38,15
+2025-10-23,26592,Flash Bomb,GouL,CHEAP FB,900,1062.45,162.45,200,32489.67,15.29,15
+2025-10-23,27025,Radiation Lv1,Kalista,flash bomb / detector / radiat,1799,2121.24,322.24,84,27068.39,15.19,6
 2025-10-23,26591,Potion of Lion,cheapstuff3,cheap,2100,2454.66,354.66,60,21279.37,14.45,9
 2025-10-23,25534,,tiendaonline,offer offer offer,2799,3246.52,447.52,77,34459.16,13.78,10
 2025-10-23,26346,Lantern,MushroomShop5,Lantern 3.8k/ Nov poss 200k,3800,4341.25,541.25,43,23273.79,12.47,12
@@ -106,9 +109,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-23,26576,Iron Brew,LaPerga,Iron Brew 7.3K/ Guardian B. 500G,7395,7947.67,552.67,61,33712.75,6.95,3
 2025-10-23,26344,Novice Weightless Potion,STAII,cheap dem/ug wind   pots,2990,3208.41,218.41,99,21622.63,6.81,9
 2025-10-23,26576,Iron Brew,Kidlato,Bless/Pots/Tuna/Cookeds Cheapest,7450,7947.67,497.67,61,30357.75,6.26,3
-2025-10-23,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2126.89,127.89,200,25578.35,6.01,6
-2025-10-23,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2126.89,127.89,162,20718.46,6.01,6
-2025-10-23,27025,Radiation Lv1,reserv,RAD LV 1/ IRON BREW,2000,2126.89,126.89,200,25378.35,5.97,6
+2025-10-23,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION / TS,1999,2121.24,122.24,200,24448.55,5.76,6
+2025-10-23,27025,Radiation Lv1,reserv,RAD LV 1/ IRON BREW,2000,2121.24,121.24,200,24248.55,5.72,6
 2025-10-23,26572,Inferno Potion,Yuuichi,pots  frags  shield,10999,11607.87,608.87,80,48709.23,5.25,4
 2025-10-23,30140,10x Crystal,Gogosar,IMPs / Brace Gem Frag / SPS,10999,11586.33,587.33,86,50510.79,5.07,4
 2025-10-23,26585,Blessed Potion,Yuuichi,pots  frags  shield,87999,92693.12,4694.12,15,70411.86,5.06,6
