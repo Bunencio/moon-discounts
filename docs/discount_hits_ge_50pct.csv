@@ -22,8 +22,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,23229.61,6,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,280011.8,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,280011.8,5,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,8124.14,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,8124.14,13,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,8090.91,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,8090.91,13,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,109296.64,5,6,GemMarket,GREEN JADE
 99.98,25451,Jade Gem Fragment,8,36089.1,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,104007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
@@ -41,18 +41,19 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 88.29,26564,Meditation Potion,50,427.12,3,200,Fitstall,App Hat|Lv60 Items| Mana Pots
 88.29,26564,Meditation Potion,50,427.12,3,100,Fitstall,App Hat|Lv60 Items| Mana Pots
 88.29,26564,Meditation Potion,50,427.12,3,199,Fitstall,App Hat|Lv60 Items| Mana Pots
+84.78,22001,Furious Gem,456,2996.11,10,1,BLaCKMooN,X_X
 84.24,25494,Yellow Colorant.,500,3171.88,3,14,MushroomShop10,Hairstyle
-83.44,22001,Furious Gem,499,3012.93,9,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
-83.4,22001,Furious Gem,500,3012.93,9,3,Bathroom,S>cleening bank
+83.35,22001,Furious Gem,499,2996.11,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
+83.31,22001,Furious Gem,500,2996.11,10,3,Bathroom,S>cleening bank
 78.28,25501,Brown Colorant,500,2301.82,4,1,cheapstuffsell,cheap
 75.41,22003,Glowing Gem,900,3659.97,6,3,SSTTAALL,CHEAP STUFF/NORMALGEM
 73.58,25493,Orange Colorant,100,378.57,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 72.7,22003,Glowing Gem,999,3659.97,6,2,stuffseller,cheap
-71.79,22001,Furious Gem,850,3012.93,9,3,cheapstuffsell,cheap
+71.63,22001,Furious Gem,850,2996.11,10,3,cheapstuffsell,cheap
 69.37,25389,Shark Fin,68,222.03,4,9,xLiliith,Some good things for you!e
 68.92,25389,Shark Fin,69,222.03,4,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
-66.84,22001,Furious Gem,999,3012.93,9,3,SariSariStore1,CLEANING
 66.8,29056,20 Cooking EXP Card,800,2410.0,5,1,PWHunter,that's all
+66.66,22001,Furious Gem,999,2996.11,10,3,SariSariStore1,CLEANING
 65.52,28035,Solar Shield,9999,28999.2,5,1,BartholomewKuma,SM 50 / Shield/ Equips 50
 64.24,25504,Standard Scroll,50,139.83,4,14,stuffseller,cheap
 63.25,25212,Frozen Elixir,77,209.5,3,24,dsadsa,weightless tix dw fairy ration
