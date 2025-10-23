@@ -1,5 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22008,Gem of the Wind,9,376590.31,7,1,Federal941,DEMONIC SOUL | UG WIND
+100.0,22008,Gem of the Wind,9,326379.47,7,1,Federal941,DEMONIC SOUL | UG WIND
+100.0,22008,Gem of the Wind,9,326379.47,7,2,BuyBBP,Gems
 100.0,22014,Demonic Gem of Colossus,27,2352860.86,4,1,MUTAA,COLOS!
 100.0,22023,Green Jade,3,103857.92,4,1,AAAAA123,ty
 100.0,25426,Universe Purse Fragment.,4,82056.0,4,5,Coffi,FRAGMENTS
@@ -22,21 +23,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29324,Soulbinding Necklace,6,230010.5,5,1,AAA123,13123131321
 100.0,29327,Ring of Devastation,5,235602.0,3,1,AAA123,13123131321
 100.0,29327,Ring of Devastation,5,235602.0,3,1,AAA123,13123131321
-99.99,22007,Gem of Striking,13,93012.23,4,17,Aemond,CHEAP GEMS
-99.99,22007,Gem of Striking,13,93012.23,4,10,MrFarm,CHEAPEST STALL IN TOWN/2PAGES!!!
 99.99,25452,Rock Gem Fragment,2,28124.73,10,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,28124.73,10,18,monchito1,super cremoso
-99.99,25525,,35,475129.13,5,2,Xiomarvic,Free Itms
-99.99,27020,Gold Pirate Scroll,3,26331.95,11,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,25525,,35,485942.12,6,2,Xiomarvic,Free Itms
+99.99,27020,Gold Pirate Scroll,3,26329.75,11,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
 99.99,30156,Jackpot Coin,1,7835.99,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,30156,Jackpot Coin,1,7835.99,14,75,JackSparroow,JACKPOT COIN (10IMP)
-99.98,22007,Gem of Striking,16,93012.23,4,1,zzzzz,garner
+99.98,22007,Gem of Striking,13,82071.15,4,17,Aemond,CHEAP GEMS
+99.98,22007,Gem of Striking,13,82071.15,4,10,MrFarm,CHEAPEST STALL IN TOWN/2PAGES!!!
+99.98,22007,Gem of Striking,16,82071.15,4,1,zzzzz,garner
+99.98,22007,Gem of Striking,13,82071.15,4,4,BuyBBP,Gems
 99.98,22023,Green Jade,25,103857.92,4,6,GemMarket,GREEN JADE
 99.98,25451,Jade Gem Fragment,8,32400.74,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
-99.97,22008,Gem of the Wind,95,376590.31,7,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
+99.97,22008,Gem of the Wind,95,326379.47,7,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
 99.97,25452,Rock Gem Fragment,8,28124.73,10,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.97,25452,Rock Gem Fragment,9,28124.73,10,1,sstido,selling
 99.97,25452,Rock Gem Fragment,9,28124.73,10,1,Goliat,Rock Fragment CHEAP
@@ -48,13 +50,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 97.41,25497,Blue Colorant,100,3865.28,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 96.12,25499,Purple Colorant,100,2577.66,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 95.66,25501,Brown Colorant,100,2301.82,4,7,Manager,HAIRSTYLE SUPER DROP PRICE
+95.07,27021,Green Pirate Scroll,22,446.61,3,1,Trembo,sektuR
 92.93,25479,Phyllis Hairstyle Book,50,706.73,3,45,Manager,HAIRSTYLE SUPER DROP PRICE
 84.24,25494,Yellow Colorant.,500,3171.88,3,14,MushroomShop10,Hairstyle
 81.46,22001,Furious Gem,499,2691.3,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
 81.42,22001,Furious Gem,500,2691.3,10,3,Bathroom,S>cleening bank
 78.28,25501,Brown Colorant,500,2301.82,4,1,cheapstuffsell,cheap
 75.49,22003,Glowing Gem,900,3672.61,5,3,SSTTAALL,CHEAP STUFF/NORMALGEM
-73.58,25493,Orange Colorant,100,378.57,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
+74.0,25493,Orange Colorant,100,384.62,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
 72.8,22003,Glowing Gem,999,3672.61,5,2,stuffseller,cheap
 68.42,22001,Furious Gem,850,2691.3,10,3,cheapstuffsell,cheap
 68.42,22001,Furious Gem,850,2691.3,10,1,stuffseller,cheap
