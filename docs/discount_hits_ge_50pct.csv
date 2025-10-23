@@ -55,7 +55,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.24,28446,Fire Sealed Bow of Evanescence,10000,25800.0,4,1,Cachexia,BOW/FLASH
 61.1,26590,Potion of Soul,1000,2570.81,9,2,Gl1dios,RANDOM!!! EZ
 60.33,29057,20 Manufacturing EXP Card,800,2016.62,4,17,PWHunter,that's all
-59.96,26588,Potion of Eagle,1000,2497.79,9,2,Gl1dios,RANDOM!!! EZ
+59.93,26588,Potion of Eagle,1000,2495.87,10,2,Gl1dios,RANDOM!!! EZ
+58.34,25440,Evanescence Stone,200,480.12,5,23,HyjoSeller,LOOK OVER HERE
 57.83,29058,20 Crafting EXP Card,800,1897.04,3,5,PWHunter,that's all
 57.8,25504,Standard Scroll,59,139.83,4,16,xLiliith,Some good things for you!e
 57.36,25507,Expert Stone,500,1172.54,8,23,Uwe,trash
@@ -67,4 +68,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.39,30122,Vial of Spirit Reset,2000,4385.38,8,1,Buhonero,Welcome
 54.39,30122,Vial of Spirit Reset,2000,4385.38,8,1,Ivynor,All cheap
 53.49,28448,Fire Sealed Cloak of Evanescence,10000,21499.83,4,1,BadSector,10k
+53.0,26591,Potion of Lion,1200,2553.45,6,2,HyjoSeller,LOOK OVER HERE
 52.71,25430,Enigma Power,999,2112.29,8,23,Uwe,trash
+52.35,25375,Lightning Heart,90,188.88,3,99,kuwara,get all
+51.92,26588,Potion of Eagle,1200,2495.87,10,1,HyjoSeller,LOOK OVER HERE
