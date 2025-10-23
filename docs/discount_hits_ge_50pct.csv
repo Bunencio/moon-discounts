@@ -1,9 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22008,Gem of the Wind,9,292360.23,6,2,BuyBBP,Gems
 100.0,22014,Demonic Gem of Colossus,27,2352860.86,4,1,MUTAA,COLOS!
 100.0,22023,Green Jade,3,103857.92,4,1,AAAAA123,ty
-100.0,25451,Jade Gem Fragment,1,32042.14,8,9,monchito1,super cremoso
-100.0,25451,Jade Gem Fragment,1,32042.14,8,10,CocoZap,Possession / Jade
+100.0,25451,Jade Gem Fragment,1,37411.75,9,9,monchito1,super cremoso
+100.0,25451,Jade Gem Fragment,1,37411.75,9,10,CocoZap,Possession / Jade
 100.0,28136,Crown of Decendant,14,457151.14,7,1,voyo,soooo cheap lol
 100.0,28136,Crown of Decendant,15,457151.14,7,1,AAA123,13123131321
 100.0,28423,Mantle of the Cursed Flame,1,80000.33,3,1,stallerx,Str pet+ crus equips and more
@@ -14,22 +13,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29324,Soulbinding Necklace,6,216679.67,4,1,AAA123,13123131321
 100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
 100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
-99.99,25452,Rock Gem Fragment,2,27102.9,9,1,Coffi,FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,27102.9,9,18,monchito1,super cremoso
+99.99,25452,Rock Gem Fragment,2,29383.67,10,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,29383.67,10,18,monchito1,super cremoso
 99.99,25525,,35,479295.83,7,2,Xiomarvic,Free Itms
-99.99,27020,Gold Pirate Scroll,3,26387.47,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,26357.49,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
 99.99,30156,Jackpot Coin,1,8078.6,15,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,30156,Jackpot Coin,1,8078.6,15,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,103857.92,4,6,GemMarket,GREEN JADE
-99.98,25451,Jade Gem Fragment,8,32042.14,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.98,25451,Jade Gem Fragment,8,37411.75,9,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
-99.97,22008,Gem of the Wind,95,292360.23,6,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
-99.97,25452,Rock Gem Fragment,8,27102.9,9,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.97,25452,Rock Gem Fragment,9,27102.9,9,1,sstido,selling
-99.97,25452,Rock Gem Fragment,9,27102.9,9,1,Goliat,Rock Fragment CHEAP
-99.97,25452,Rock Gem Fragment,8,27102.9,9,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.97,22008,Gem of the Wind,95,345515.0,5,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
+99.97,25452,Rock Gem Fragment,8,29383.67,10,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.97,25452,Rock Gem Fragment,9,29383.67,10,1,sstido,selling
+99.97,25452,Rock Gem Fragment,9,29383.67,10,1,Goliat,Rock Fragment CHEAP
+99.97,25452,Rock Gem Fragment,8,29383.67,10,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.97,25476,Hairstyling Voucher,2,6571.86,3,2,sstido,selling
 99.97,29324,Soulbinding Necklace,60,216679.67,4,1,sstido,selling
 97.55,25495,Green Colorant,100,4085.88,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
