@@ -7,6 +7,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,32042.14,8,9,monchito1,super cremoso
 100.0,28136,Crown of Decendant,14,457151.14,7,1,voyo,soooo cheap lol
 100.0,28136,Crown of Decendant,15,457151.14,7,1,AAA123,13123131321
+100.0,28423,Mantle of the Cursed Flame,1,80000.33,3,1,stallerx,Cheap boi gemmed/ Str pet lv19
+100.0,28456,Ice Sealed Robe of the Sphinx,1,59750.25,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
+100.0,28458,Ice Sealed Staff of the Sphinx,1,43750.25,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
 100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
 99.99,22011,Gemof Sout,20,346162.69,4,1,monchito1,super cremoso
@@ -17,11 +20,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,472795.78,5,1,xkom,CHAOS JEWEL FRAG
 99.99,25527,,85,749395.62,3,1,iTonik,Selling
 99.99,25527,,85,749395.62,3,1,Deathless,garner
-99.99,27020,Gold Pirate Scroll,3,23550.79,8,58,iTonik,Selling
-99.99,27020,Gold Pirate Scroll,3,23550.79,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,23601.81,8,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,23601.81,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,8312.59,15,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,8312.59,15,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,8315.24,16,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,8315.24,16,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,109296.64,5,6,GemMarket,GREEN JADE
 99.98,25451,Jade Gem Fragment,8,32042.14,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
@@ -41,7 +44,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.35,22001,Furious Gem,500,3002.98,9,3,Bathroom,S>cleening bank
 78.28,25501,Brown Colorant,500,2301.82,4,1,cheapstuffsell,cheap
 75.41,22003,Glowing Gem,900,3659.97,6,3,SSTTAALL,CHEAP STUFF/NORMALGEM
-74.0,25493,Orange Colorant,100,384.62,3,3,Manager,HAIRSTYLE SUPER DROP PRICE
+73.58,25493,Orange Colorant,100,378.57,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
 72.7,22003,Glowing Gem,999,3659.97,6,2,stuffseller,cheap
 71.69,22001,Furious Gem,850,3002.98,9,3,cheapstuffsell,cheap
 69.37,25389,Shark Fin,68,222.03,4,9,xLiliith,Some good things for you!e
