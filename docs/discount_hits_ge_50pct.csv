@@ -22,8 +22,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,485942.12,6,2,Xiomarvic,Free Itms
 99.99,27020,Gold Pirate Scroll,3,26422.38,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,7991.76,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,7991.76,14,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,7985.33,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,7985.33,13,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22007,Gem of Striking,13,82071.15,4,17,Aemond,CHEAP GEMS
 99.98,22007,Gem of Striking,13,82071.15,4,10,MrFarm,CHEAPEST STALL IN TOWN/2PAGES!!!
 99.98,22007,Gem of Striking,16,82071.15,4,1,zzzzz,garner
@@ -60,9 +60,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 62.96,22001,Furious Gem,999,2696.92,10,1,SariSariStore1,CLEANING BANK
 62.61,29056,20 Cooking EXP Card,800,2139.38,5,1,PWHunter,that's all
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
+60.35,25212,Frozen Elixir,77,194.22,3,39,dsadsa,weightless tix dw fairy ration
 58.62,28450,Fire Sealed Tooth of Evanescence,24000,57999.67,3,1,WannaBE,"Cheap stuff!""!"
 57.9,28035,Solar Shield,9999,23749.0,4,1,BartholomewKuma,SM 50 / Shield/ Equips 50
-57.71,25212,Frozen Elixir,77,182.09,3,54,dsadsa,weightless tix dw fairy ration
 56.77,30121,Vial of Accuracy Reset,2000,4625.91,7,1,Buhonero,Welcome
 56.77,30121,Vial of Accuracy Reset,2000,4625.91,7,4,Ivynor,All cheap
 56.11,29058,20 Crafting EXP Card,800,1822.59,5,5,PWHunter,that's all
