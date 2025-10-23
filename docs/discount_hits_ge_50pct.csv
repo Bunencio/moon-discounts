@@ -2,8 +2,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22008,Gem of the Wind,9,296206.38,6,2,BuyBBP,Gems
 100.0,22014,Demonic Gem of Colossus,27,2352860.86,4,1,MUTAA,COLOS!
 100.0,22023,Green Jade,3,103857.92,4,1,AAAAA123,ty
-100.0,25451,Jade Gem Fragment,1,25301.03,6,9,monchito1,super cremoso
-100.0,25451,Jade Gem Fragment,1,25301.03,6,10,CocoZap,Possession / Jade
+100.0,25451,Jade Gem Fragment,1,26886.29,7,9,monchito1,super cremoso
+100.0,25451,Jade Gem Fragment,1,26886.29,7,10,CocoZap,Possession / Jade
 100.0,28136,Crown of Decendant,14,457151.14,7,1,voyo,soooo cheap lol
 100.0,28136,Crown of Decendant,15,457151.14,7,1,AAA123,13123131321
 100.0,28403,Blade of Incantation,3,108400.8,3,1,stallerx,Str pet+ crus equips and more
@@ -18,10 +18,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,25618.36,9,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,25618.36,9,18,monchito1,super cremoso
 99.99,25525,,35,485942.12,6,2,Xiomarvic,Free Itms
-99.99,27020,Gold Pirate Scroll,3,26418.02,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,26440.37,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,7947.54,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,7947.54,14,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,7969.84,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,7969.84,14,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22007,Gem of Striking,13,82071.15,4,17,Aemond,CHEAP GEMS
 99.98,22007,Gem of Striking,13,82071.15,4,10,MrFarm,CHEAPEST STALL IN TOWN/2PAGES!!!
 99.98,22007,Gem of Striking,16,82071.15,4,1,zzzzz,garner
@@ -30,7 +30,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.97,22008,Gem of the Wind,95,296206.38,6,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
-99.97,25451,Jade Gem Fragment,8,25301.03,6,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.97,25451,Jade Gem Fragment,8,26886.29,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.97,25452,Rock Gem Fragment,8,25618.36,9,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.97,25452,Rock Gem Fragment,8,25618.36,9,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.97,25476,Hairstyling Voucher,2,6571.86,3,2,sstido,selling
@@ -51,8 +51,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.7,22003,Glowing Gem,999,3659.97,6,2,stuffseller,cheap
 68.48,22001,Furious Gem,850,2696.92,10,3,cheapstuffsell,cheap
 68.48,22001,Furious Gem,850,2696.92,10,1,stuffseller,cheap
+64.13,25258,Spirit Feather,77,214.66,5,7,dsadsa,weightless tix dw fairy ration
 62.96,22001,Furious Gem,999,2696.92,10,1,SariSariStore1,CLEANING BANK
-62.94,25258,Spirit Feather,77,207.78,5,19,dsadsa,weightless tix dw fairy ration
 62.61,29056,20 Cooking EXP Card,800,2139.38,5,1,PWHunter,that's all
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
 58.62,28450,Fire Sealed Tooth of Evanescence,24000,57999.67,3,1,WannaBE,"Cheap stuff!""!"
@@ -69,3 +69,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.01,28468,Ice Sealed Mantle of Enigma,65000,138333.33,3,1,Chupeteira,UPGRADE YOUR CHAR WITH IT
 52.48,22004,Shining Gem,2000,4208.38,5,12,vendedolmax,2000
 51.81,22000,FieryGem,1500,3112.37,11,1,lamamandoski,basurita
+50.82,2301,,9999,20332.94,6,1,Kaldr,Crafting Blueprints
