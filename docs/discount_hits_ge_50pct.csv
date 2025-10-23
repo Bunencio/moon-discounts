@@ -1,9 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22010,Gem of Rage,20,508348.33,3,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
-100.0,22010,Gem of Rage,20,508348.33,3,1,BuyBBP,Gems
-100.0,22011,Gemof Sout,12,346162.69,4,13,jejejeje,GEM OF SOUL
-100.0,22011,Gemof Sout,12,346162.69,4,5,BuyBBP,Gems
-100.0,22014,Demonic Gem of Colossus,27,2383753.25,5,1,MUTAA,COLOS!
+100.0,22014,Demonic Gem of Colossus,27,2278337.67,4,1,MUTAA,COLOS!
 100.0,22023,Green Jade,3,109296.64,5,1,AAAAA123,ty
 100.0,25451,Jade Gem Fragment,1,32042.14,8,10,CocoZap,Possession / Jade
 100.0,25451,Jade Gem Fragment,1,32042.14,8,9,monchito1,super cremoso
@@ -13,7 +9,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28458,Ice Sealed Staff of the Sphinx,1,43750.25,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
 100.0,29327,Ring of Devastation,5,229602.0,3,1,AAA123,13123131321
-99.99,22011,Gemof Sout,20,346162.69,4,1,monchito1,super cremoso
 99.99,25452,Rock Gem Fragment,2,26441.68,10,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,26441.68,10,18,monchito1,super cremoso
 99.99,25525,,35,472795.78,5,2,iTonik,Selling
@@ -24,8 +19,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,23439.19,7,58,iTonik,Selling
 99.99,27020,Gold Pirate Scroll,3,23439.19,7,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,480008.8,5,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,8230.14,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,8230.14,13,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,8199.57,12,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,8199.57,12,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,109296.64,5,6,GemMarket,GREEN JADE
 99.98,25451,Jade Gem Fragment,8,32042.14,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
@@ -58,6 +53,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 67.01,29056,20 Cooking EXP Card,800,2424.73,4,1,PWHunter,that's all
 66.77,22001,Furious Gem,999,3006.27,9,3,SariSariStore1,CLEANING
 65.52,28035,Solar Shield,9999,28999.2,5,1,BartholomewKuma,SM 50 / Shield/ Equips 50
+64.32,25258,Spirit Feather,77,215.81,4,7,dsadsa,weightless tix dw fairy ration
 64.24,25504,Standard Scroll,50,139.83,4,14,stuffseller,cheap
 62.79,28450,Fire Sealed Tooth of Evanescence,10000,26875.0,4,1,BadSector,10k
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
