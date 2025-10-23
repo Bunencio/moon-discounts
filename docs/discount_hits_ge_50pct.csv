@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22008,Gem of the Wind,9,278978.0,6,1,Federal941,DEMONIC SOUL | UG WIND
-100.0,22008,Gem of the Wind,9,278978.0,6,2,BuyBBP,Gems
+100.0,22008,Gem of the Wind,9,275049.43,6,1,Federal941,DEMONIC SOUL | UG WIND
+100.0,22008,Gem of the Wind,9,275049.43,6,2,BuyBBP,Gems
 100.0,22010,Gem of Rage,20,469246.77,4,1,River1,DemonicStriking Rage
 100.0,22010,Gem of Rage,20,469246.77,4,1,BuyBBP,Gems
 100.0,22010,Gem of Rage,21,469246.77,4,8,Happyman,UG RAGE | LV22 CON | LV17 AGI
@@ -28,7 +28,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,28124.73,10,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,28124.73,10,18,monchito1,super cremoso
 99.99,25525,,35,485942.12,6,2,Xiomarvic,Free Itms
-99.99,27020,Gold Pirate Scroll,3,26329.75,11,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,26327.88,11,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,457151.14,7,1,AAA123,13123131321
 99.99,30156,Jackpot Coin,1,7841.28,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,30156,Jackpot Coin,1,7841.28,13,75,JackSparroow,JACKPOT COIN (10IMP)
@@ -40,7 +40,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25451,Jade Gem Fragment,8,32400.74,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
-99.97,22008,Gem of the Wind,95,278978.0,6,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
+99.97,22008,Gem of the Wind,95,275049.43,6,7,Perfect,UG WIND UG WIND UG WIND UG WIND!
 99.97,25452,Rock Gem Fragment,8,28124.73,10,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.97,25452,Rock Gem Fragment,9,28124.73,10,1,sstido,selling
 99.97,25452,Rock Gem Fragment,9,28124.73,10,1,Goliat,Rock Fragment CHEAP
