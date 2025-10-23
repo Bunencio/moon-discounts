@@ -4,7 +4,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25426,Universe Purse Fragment.,4,82056.0,4,5,Coffi,FRAGMENTS
 100.0,25525,,3,466667.69,5,1,tiendaonline,offer offer
 100.0,28423,Mantle of the Cursed Flame,1,80000.33,3,1,stallerx,Str pet+ crus equips and more
-100.0,28456,Ice Sealed Robe of the Sphinx,1,59667.0,3,1,stallerx,Str pet+ crus equips and more
+100.0,28456,Ice Sealed Robe of the Sphinx,1,59750.25,4,1,stallerx,Str pet+ crus equips and more
+100.0,28458,Ice Sealed Staff of the Sphinx,1,48333.67,3,1,stallerx,Str pet+ crus equips and more
 100.0,29324,Soulbinding Necklace,6,155726.29,4,1,#61blak,Cleric Items
 100.0,29324,Soulbinding Necklace,6,155726.29,4,1,Grelo,CLERIC DS +5 SPIRIT CHEAP PET 21
 100.0,29324,Soulbinding Necklace,6,155726.29,4,1,Stun,sell cheamp CLERIC STUFFS
@@ -13,19 +14,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29327,Ring of Devastation,5,235602.0,3,1,AAA123,13123131321
 99.99,22007,Gem of Striking,13,93012.23,4,17,Aemond,CHEAP GEMS
 99.99,22007,Gem of Striking,13,93012.23,4,10,MrFarm,CHEAPEST STALL IN TOWN/2PAGES!!!
-99.99,22011,Gemof Sout,20,156097.74,4,1,monchito1,super cremoso
-99.99,22011,Gemof Sout,12,156097.74,4,13,jejejeje,GEM OF SOUL
-99.99,22011,Gemof Sout,12,156097.74,4,6,Suntukan,SOUL
 99.99,25451,Jade Gem Fragment,1,19965.39,5,9,monchito1,super cremoso
 99.99,25451,Jade Gem Fragment,1,19965.39,5,10,CocoZap,Possession / Jade
 99.99,25452,Rock Gem Fragment,2,21597.73,8,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,21597.73,8,18,monchito1,super cremoso
 99.99,25525,,35,466667.69,5,2,Xiomarvic,Free Itms
-99.99,27020,Gold Pirate Scroll,3,26386.81,9,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,26384.32,10,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,290037.0,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,290037.0,5,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,7634.87,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,7634.87,13,75,JackSparroow,JACKPOT COIN (10IMP)
+99.99,30156,Jackpot Coin,1,7662.04,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,7662.04,13,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22007,Gem of Striking,16,93012.23,4,1,zzzzz,garner
 99.98,25533,,8,44504.0,3,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,108007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
@@ -71,7 +69,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.24,29057,20 Manufacturing EXP Card,800,1748.28,4,17,PWHunter,that's all
 51.64,22000,FieryGem,1500,3101.49,10,1,ReddoVoy,ref gems hell yeah
 51.64,22000,FieryGem,1500,3101.49,10,1,lamamandoski,basurita
+51.3,25507,Expert Stone,649,1332.65,7,2,xLiliith,Some good things for you!e
+51.22,25507,Expert Stone,650,1332.65,7,69,sellerforfree,cheap
+51.22,25507,Expert Stone,650,1332.65,7,35,sellerforfree,cheap
 50.82,2301,,9999,20332.94,6,1,Kaldr,Crafting Blueprints
-50.36,25507,Expert Stone,649,1307.3,7,2,xLiliith,Some good things for you!e
-50.28,25507,Expert Stone,650,1307.3,7,69,sellerforfree,cheap
-50.28,25507,Expert Stone,650,1307.3,7,65,sellerforfree,cheap
