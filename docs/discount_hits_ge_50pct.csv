@@ -7,7 +7,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,36089.1,7,10,CocoZap,Possession / Jade
 100.0,25451,Jade Gem Fragment,1,36089.1,7,9,monchito1,super cremoso
 100.0,25452,Rock Gem Fragment,1,30002.38,10,2,Goliat,Fragment  Store
-100.0,28136,Crown of Decendant,15,480008.8,5,1,AAA123,13123131321
+100.0,28136,Crown of Decendant,14,280011.8,5,1,voyo,omfg
 100.0,28456,Ice Sealed Robe of the Sphinx,1,59750.25,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,28458,Ice Sealed Staff of the Sphinx,1,43750.25,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,29324,Soulbinding Necklace,6,268003.6,3,1,#61blak,Cleric Items
@@ -21,11 +21,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,472795.78,5,2,iTonik,Selling
 99.99,25525,,35,472795.78,5,2,Xiomarvic,Free Itms
 99.99,25525,,35,472795.78,5,1,xkom,CHAOS JEWEL FRAG
-99.99,25527,,85,749395.62,3,1,iTonik,Selling
-99.99,25527,,85,749395.62,3,1,Deathless,garner
+99.99,25527,,85,856440.0,3,1,iTonik,Selling
 99.99,27020,Gold Pirate Scroll,3,23229.61,6,58,iTonik,Selling
 99.99,27020,Gold Pirate Scroll,3,23229.61,6,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,28136,Crown of Decendant,30,480008.8,5,1,AAA123,13123131321
+99.99,28136,Crown of Decendant,30,280011.8,5,1,AAA123,13123131321
+99.99,28136,Crown of Decendant,15,280011.8,5,1,AAA123,13123131321
 99.99,30156,Jackpot Coin,1,8273.83,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,30156,Jackpot Coin,1,8273.83,14,75,JackSparroow,JACKPOT COIN (10IMP)
 99.98,22023,Green Jade,25,109296.64,5,6,GemMarket,GREEN JADE
