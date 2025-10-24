@@ -3,8 +3,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22030,Earth Rock,20,1600006.33,3,1,AAAAA123,ty
 100.0,22434,,6,315779.38,6,2,xTrueHistory,ShadowCrystal
 100.0,22434,,6,315779.38,6,2,Pots,Shadow Crystal / Demonic Gem Fra
-100.0,25451,Jade Gem Fragment,1,46615.53,8,10,CocoZap,Possession / Jade
-100.0,25452,Rock Gem Fragment,1,49753.1,8,2,Goliat,Fragment  Store
+100.0,25451,Jade Gem Fragment,1,49366.65,8,10,CocoZap,Possession / Jade
+100.0,25452,Rock Gem Fragment,1,50955.33,9,2,Goliat,Fragment  Store
+100.0,25508,Demonic Gem Fragment,2,123333.67,3,1,Pots,Shadow Crystal / Demonic Gem Fra
 100.0,28423,Mantle of the Cursed Flame,1,73333.67,3,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,28456,Ice Sealed Robe of the Sphinx,1,53000.33,3,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,28458,Ice Sealed Staff of the Sphinx,1,30999.8,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
@@ -12,14 +13,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,463859.23,7,2,iTonik,Selling
 99.99,25525,,35,463859.23,7,2,Xiomarvic,Free Itms
 99.99,25525,,35,463859.23,7,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,23196.84,8,58,iTonik,Selling
-99.99,27020,Gold Pirate Scroll,3,23196.84,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,23214.79,8,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,23214.79,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28476,Ice Sealed Kris of the Sphinx,6,72501.5,3,1,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,30156,Jackpot Coin,1,9651.03,15,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.98,22007,Gem of Striking,13,77953.5,4,10,MrFarm,CHEAPEST STALL IN TOWN/CHECKIT!!
+99.98,22007,Gem of Striking,16,77953.5,4,1,zzzzz,garner
+99.98,22007,Gem of Striking,13,77953.5,4,17,Aemond,CHEAP GEMS
+99.98,22007,Gem of Striking,13,77953.5,4,4,BuyBBP,Gems
 99.98,22434,,55,315779.38,6,2,xJavux,cheap
-99.98,25451,Jade Gem Fragment,8,46615.53,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
-99.98,25452,Rock Gem Fragment,8,49753.1,8,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.98,25452,Rock Gem Fragment,8,49753.1,8,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.98,25451,Jade Gem Fragment,8,49366.65,8,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.98,25452,Rock Gem Fragment,8,50955.33,9,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.98,25452,Rock Gem Fragment,8,50955.33,9,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,110007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,110007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 91.71,26564,Meditation Potion,45,543.07,3,28,Skills,o_0   Free    *_*    Free   0_ox
