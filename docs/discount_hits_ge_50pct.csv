@@ -1,7 +1,8 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22014,Demonic Gem of Colossus,27,2278337.67,4,1,MUTAA,COLOS!
-100.0,22030,Earth Rock,20,1600006.33,3,1,AAAAA123,ty
-100.0,22434,,6,348012.0,5,2,Pots,Shadow Crystal / Demonic Gem Fra
+100.0,22030,Earth Rock,20,1200009.75,3,1,ShowerBro,afk
+100.0,22030,Earth Rock,20,1200009.75,3,1,AAAAA123,ty
+100.0,22434,,6,325568.89,5,2,Pots,Shadow Crystal / Demonic Gem Fra
 100.0,25451,Jade Gem Fragment,1,54468.04,10,10,CocoZap,Possession / Jade
 100.0,25452,Rock Gem Fragment,1,57372.67,10,2,Goliat,Fragment  Store
 100.0,25508,Demonic Gem Fragment,2,123333.67,3,1,Pots,Shadow Crystal / Demonic Gem Fra
@@ -14,35 +15,35 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,462114.73,8,2,iTonik,Selling
 99.99,25525,,35,462114.73,8,2,Xiomarvic,Free Itms
 99.99,25525,,35,462114.73,8,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,23186.44,8,58,iTonik,Selling
-99.99,27020,Gold Pirate Scroll,3,23186.44,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,23200.21,8,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,23200.21,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28476,Ice Sealed Kris of the Sphinx,6,72501.5,3,1,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,10006.87,17,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,9998.42,17,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.98,22007,Gem of Striking,13,77953.5,4,10,MrFarm,CHEAPEST STALL IN TOWN/CHECKIT!!
 99.98,22007,Gem of Striking,16,77953.5,4,1,zzzzz,garner
 99.98,22007,Gem of Striking,13,77953.5,4,17,Aemond,CHEAP GEMS
 99.98,22007,Gem of Striking,13,77953.5,4,4,BuyBBP,Gems
-99.98,22434,,55,348012.0,5,2,xJavux,cheap
+99.98,22434,,55,325568.89,5,2,xJavux,cheap
 91.71,26564,Meditation Potion,45,543.07,3,28,Skills,o_0   Free    *_*    Free   0_ox
 90.79,26564,Meditation Potion,50,543.07,3,200,Fitstall,App Hat|Lv60 Items| Mana Pots
 90.79,26564,Meditation Potion,50,543.07,3,100,Fitstall,App Hat|Lv60 Items| Mana Pots
 90.79,26564,Meditation Potion,50,543.07,3,199,Fitstall,App Hat|Lv60 Items| Mana Pots
 83.55,22001,Furious Gem,499,3033.02,9,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
 83.51,22001,Furious Gem,500,3033.02,9,3,Bathroom,Sell Gems
-77.99,29056,20 Cooking EXP Card,500,2272.08,6,1,PWHunter,that's all
+78.22,29056,20 Cooking EXP Card,500,2295.93,7,1,PWHunter,that's all
 76.3,22004,Shining Gem,2000,8439.26,4,12,vendedolmax,2000
 71.98,22001,Furious Gem,850,3033.02,9,3,cheapstuffsell,cheap
 71.22,25439,Incantation Stone,200,695.05,5,4,BL4CKM4RK3T,stuff
-70.98,22000,FieryGem,1500,5168.0,9,4,cheapstuffsell,cheap
+71.01,22000,FieryGem,1500,5173.31,10,4,cheapstuffsell,cheap
 67.06,22001,Furious Gem,999,3033.02,9,3,SariSariStore1,CLEANING
 65.54,27029,Ship Penetrator Lv1,100,290.17,3,37,Lja,cheap
 64.29,28035,Solar Shield,9999,27999.2,5,1,BartholomewKuma,SM 50 / Shield/ Equips 50
 61.96,25440,Evanescence Stone,200,525.8,5,1,BL4CKM4RK3T,stuff
 61.96,25440,Evanescence Stone,200,525.8,5,21,HyjoSeller,LOOK OVER HERE
-61.49,22000,FieryGem,1990,5168.0,9,1,WannaBE,"Cheap stuff!""!"
+61.53,22000,FieryGem,1990,5173.31,10,1,WannaBE,"Cheap stuff!""!"
 61.47,25507,Expert Stone,400,1038.13,8,3,ATHALIAH,LOWEST PRICE
-61.32,22000,FieryGem,1999,5168.0,9,11,tiendaonline,offer offer offer
-61.3,22000,FieryGem,2000,5168.0,9,9,BuyingSta4ll7,GPS | JADE | JACK | POTS | +++++
+61.36,22000,FieryGem,1999,5173.31,10,11,tiendaonline,offer offer offer
+61.34,22000,FieryGem,2000,5173.31,10,9,BuyingSta4ll7,GPS | JADE | JACK | POTS | +++++
 59.82,25423,Evanescence Rock,200,497.71,9,4,BL4CKM4RK3T,stuff
 57.85,30121,Vial of Accuracy Reset,2000,4745.12,8,1,Buhonero,Welcome
 57.85,30121,Vial of Accuracy Reset,2000,4745.12,8,1,Ivynor,All cheap
@@ -52,5 +53,5 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.24,30122,Vial of Spirit Reset,2000,4370.39,7,1,Ivynor,All cheap
 53.59,25375,Lightning Heart,90,193.94,4,99,kuwara,get all
 52.6,22004,Shining Gem,4000,8439.26,4,7,DoaaPepa,D O N    P E P E
-52.34,26591,Potion of Lion,1200,2517.82,6,2,HyjoSeller,LOOK OVER HERE
+52.36,26591,Potion of Lion,1200,2518.99,6,2,HyjoSeller,LOOK OVER HERE
 51.53,25258,Spirit Feather,100,206.31,5,6,Lane,Elixir / Spirit
