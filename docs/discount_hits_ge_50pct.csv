@@ -6,7 +6,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,49366.65,8,10,CocoZap,Possession / Jade
 100.0,25452,Rock Gem Fragment,1,50955.33,9,2,Goliat,Fragment  Store
 100.0,25508,Demonic Gem Fragment,2,123333.67,3,1,Pots,Shadow Crystal / Demonic Gem Fra
-100.0,28423,Mantle of the Cursed Flame,1,73333.67,3,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,28456,Ice Sealed Robe of the Sphinx,1,53000.33,3,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,28458,Ice Sealed Staff of the Sphinx,1,30999.8,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
 99.99,25525,,33,463859.23,7,1,xJavux,cheap
@@ -16,7 +15,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,23214.79,8,58,iTonik,Selling
 99.99,27020,Gold Pirate Scroll,3,23214.79,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28476,Ice Sealed Kris of the Sphinx,6,72501.5,3,1,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,9674.4,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,9672.02,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.98,22007,Gem of Striking,13,77953.5,4,10,MrFarm,CHEAPEST STALL IN TOWN/CHECKIT!!
 99.98,22007,Gem of Striking,16,77953.5,4,1,zzzzz,garner
 99.98,22007,Gem of Striking,13,77953.5,4,17,Aemond,CHEAP GEMS
@@ -29,32 +28,33 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.79,26564,Meditation Potion,50,543.07,3,200,Fitstall,App Hat|Lv60 Items| Mana Pots
 90.79,26564,Meditation Potion,50,543.07,3,100,Fitstall,App Hat|Lv60 Items| Mana Pots
 90.79,26564,Meditation Potion,50,543.07,3,199,Fitstall,App Hat|Lv60 Items| Mana Pots
-85.0,22001,Furious Gem,456,3040.29,10,1,BLaCKMooN,X_X
-83.59,22001,Furious Gem,499,3040.29,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
-83.55,22001,Furious Gem,500,3040.29,10,3,Bathroom,Sell Gems
+84.88,22001,Furious Gem,456,3015.95,10,1,BLaCKMooN,X_X
+83.45,22001,Furious Gem,499,3015.95,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
+83.42,22001,Furious Gem,500,3015.95,10,3,Bathroom,Sell Gems
 79.05,29056,20 Cooking EXP Card,500,2386.67,5,1,PWHunter,that's all
 76.3,22004,Shining Gem,2000,8439.26,4,12,vendedolmax,2000
-72.04,22001,Furious Gem,850,3040.29,10,3,cheapstuffsell,cheap
+71.82,22001,Furious Gem,850,3015.95,10,3,cheapstuffsell,cheap
 69.52,25439,Incantation Stone,200,656.23,6,4,BL4CKM4RK3T,stuff
-67.53,22000,FieryGem,1990,6127.83,9,1,WannaBE,"Cheap stuff!""!"
-67.38,22000,FieryGem,1999,6127.83,9,11,tiendaonline,offer offer offer
-67.36,22000,FieryGem,2000,6127.83,9,9,BuyingSta4ll7,GPS | JADE | JACK | POTS | +++++
-67.14,22001,Furious Gem,999,3040.29,10,3,SariSariStore1,CLEANING
-65.73,22000,FieryGem,2100,6127.83,9,3,stuffseller,cheap
+66.88,22001,Furious Gem,999,3015.95,10,3,SariSariStore1,CLEANING
 65.52,28035,Solar Shield,9999,28999.2,5,1,BartholomewKuma,SM 50 / Shield/ Equips 50
 62.79,28450,Fire Sealed Tooth of Evanescence,10000,26875.0,4,1,Ryujhin,cheaapppppp
 62.18,25496,Cyan Colorant.,1500,3966.67,3,1,cheapstuffsell,cheap
+61.74,22000,FieryGem,1990,5200.77,10,1,WannaBE,"Cheap stuff!""!"
+61.56,22000,FieryGem,1999,5200.77,10,11,tiendaonline,offer offer offer
+61.54,22000,FieryGem,2000,5200.77,10,9,BuyingSta4ll7,GPS | JADE | JACK | POTS | +++++
 61.27,25507,Expert Stone,400,1032.79,9,3,ATHALIAH,LOWEST PRICE
-60.76,29023,Standard 15 Treasure Hunting EXP Card,799,2036.11,4,6,BL4CKM4RK3T,stuff
 60.59,25258,Spirit Feather,77,195.39,4,7,dsadsa,weightless tix dw fairy ration
 59.89,25423,Evanescence Rock,200,498.66,10,4,BL4CKM4RK3T,stuff
-59.67,30121,Vial of Accuracy Reset,2000,4958.49,7,1,Buhonero,Welcome
-59.67,30121,Vial of Accuracy Reset,2000,4958.49,7,1,Ivynor,All cheap
+59.62,22000,FieryGem,2100,5200.77,10,3,stuffseller,cheap
 59.42,25440,Evanescence Stone,200,492.84,5,1,BL4CKM4RK3T,stuff
 59.42,25440,Evanescence Stone,200,492.84,5,21,HyjoSeller,LOOK OVER HERE
+58.32,30121,Vial of Accuracy Reset,2000,4798.57,8,1,Buhonero,Welcome
+58.32,30121,Vial of Accuracy Reset,2000,4798.57,8,1,Ivynor,All cheap
 57.58,28136,Crown of Decendant,7,16.5,4,1,Madarax**,COD COD COD COD!!!!!!!!!!!!!!
+54.24,30122,Vial of Spirit Reset,2000,4370.39,7,1,Buhonero,Welcome
+54.24,30122,Vial of Spirit Reset,2000,4370.39,7,1,Ivynor,All cheap
 53.7,28454,Ice Sealed Blade of Enigma,250000,540000.0,5,1,OsToWBaby,40-50-60 SEALED ITEMS ALL CLASS
 52.62,26591,Potion of Lion,1200,2532.48,7,2,HyjoSeller,LOOK OVER HERE
 52.6,22004,Shining Gem,4000,8439.26,4,7,DoaaPepa,D O N    P E P E
-52.35,25375,Lightning Heart,90,188.88,3,99,kuwara,get all
+52.35,25375,Lightning Heart,90,188.87,3,99,kuwara,get all
 51.59,25507,Expert Stone,500,1032.79,9,23,Uwe,trash
