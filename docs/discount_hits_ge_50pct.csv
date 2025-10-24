@@ -12,8 +12,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28409,Coat of Invocation,1,63333.33,3,1,Okno,Unseal champ/Spr2Gen+
 100.0,28456,Ice Sealed Robe of the Sphinx,1,59750.25,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
 100.0,28458,Ice Sealed Staff of the Sphinx,1,43750.25,4,1,stallerx,Cheap boi gemmed/ Str pet lv19
-100.0,29327,Ring of Devastation,5,209602.0,3,1,AAA123,13123131321
-100.0,29327,Ring of Devastation,5,209602.0,3,1,AAA123,13123131321
 99.99,25452,Rock Gem Fragment,2,25515.38,9,1,Coffi,FRAGMENTS
 99.99,25452,Rock Gem Fragment,2,25515.38,9,18,monchito1,super cremoso
 99.99,25525,,35,470581.35,6,2,iTonik,Selling
@@ -23,7 +21,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,23318.73,6,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28136,Crown of Decendant,30,280011.8,5,1,AAA123,13123131321
 99.99,28136,Crown of Decendant,15,280011.8,5,1,AAA123,13123131321
-99.99,30156,Jackpot Coin,1,9892.07,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,9898.6,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.98,22023,Green Jade,25,103857.92,4,6,GemMarket,GREEN JADE
 99.98,25451,Jade Gem Fragment,8,35065.13,7,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,104007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
@@ -40,32 +38,30 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 83.66,22001,Furious Gem,499,3053.8,8,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
 78.28,25501,Brown Colorant,500,2301.82,4,1,cheapstuffsell,cheap
 73.58,25493,Orange Colorant,100,378.57,4,3,Manager,HAIRSTYLE SUPER DROP PRICE
-73.09,22003,Glowing Gem,999,3712.71,5,2,stuffseller,cheap
 72.17,22001,Furious Gem,850,3053.8,8,3,cheapstuffsell,cheap
 69.37,25389,Shark Fin,68,222.03,4,9,xLiliith,Some good things for you!e
 68.92,25389,Shark Fin,69,222.03,4,10,DiscipleTwo,Voy uns   sealed|LegBP|REF|Dust
 67.29,22001,Furious Gem,999,3053.8,8,3,SariSariStore1,CLEANING
-66.8,29056,20 Cooking EXP Card,800,2410.0,5,1,PWHunter,that's all
+66.89,29056,20 Cooking EXP Card,800,2416.0,5,1,PWHunter,that's all
 65.52,28035,Solar Shield,9999,28999.2,5,1,BartholomewKuma,SM 50 / Shield/ Equips 50
 64.24,25504,Standard Scroll,50,139.83,4,14,stuffseller,cheap
 62.79,28450,Fire Sealed Tooth of Evanescence,10000,26875.0,4,1,BadSector,10k
+62.61,26590,Potion of Soul,1000,2674.35,9,2,Gl1dios,RANDOM!!! EZ
 62.44,25496,Cyan Colorant.,1500,3993.51,4,1,cheapstuffsell,cheap
-61.13,26590,Potion of Soul,1000,2572.79,9,2,Gl1dios,RANDOM!!! EZ
-60.33,29057,20 Manufacturing EXP Card,800,2016.62,4,17,PWHunter,that's all
-59.92,26588,Potion of Eagle,1000,2495.07,10,2,Gl1dios,RANDOM!!! EZ
-58.49,30121,Vial of Accuracy Reset,2000,4818.05,7,1,Buhonero,Welcome
-58.49,30121,Vial of Accuracy Reset,2000,4818.05,7,1,Ivynor,All cheap
+61.0,29057,20 Manufacturing EXP Card,800,2051.14,4,17,PWHunter,that's all
+60.54,26588,Potion of Eagle,1000,2534.12,11,2,Gl1dios,RANDOM!!! EZ
+58.32,30121,Vial of Accuracy Reset,2000,4798.57,8,1,Buhonero,Welcome
+58.32,30121,Vial of Accuracy Reset,2000,4798.57,8,1,Ivynor,All cheap
 58.0,25440,Evanescence Stone,200,476.2,5,23,HyjoSeller,LOOK OVER HERE
-57.83,29058,20 Crafting EXP Card,800,1897.04,3,5,PWHunter,that's all
 57.8,25504,Standard Scroll,59,139.83,4,16,xLiliith,Some good things for you!e
 57.36,25507,Expert Stone,500,1172.54,8,23,Uwe,trash
 57.36,25507,Expert Stone,500,1172.54,8,3,ATHALIAH,LOWEST PRICE
 56.41,22000,FieryGem,1500,3440.88,10,1,lamamandoski,basurita
-55.19,25258,Spirit Feather,77,171.83,5,7,dsadsa,weightless tix dw fairy ration
+56.01,25258,Spirit Feather,77,175.03,5,7,dsadsa,weightless tix dw fairy ration
 55.14,22004,Shining Gem,2000,4458.22,4,12,vendedolmax,2000
 54.24,30122,Vial of Spirit Reset,2000,4370.39,7,1,Buhonero,Welcome
 54.24,30122,Vial of Spirit Reset,2000,4370.39,7,1,Ivynor,All cheap
 53.49,28448,Fire Sealed Cloak of Evanescence,10000,21499.83,4,1,BadSector,10k
-53.0,26591,Potion of Lion,1200,2553.45,6,2,HyjoSeller,LOOK OVER HERE
+52.99,26591,Potion of Lion,1200,2552.64,6,2,HyjoSeller,LOOK OVER HERE
+52.65,26588,Potion of Eagle,1200,2534.12,11,1,HyjoSeller,LOOK OVER HERE
 52.35,25375,Lightning Heart,90,188.88,3,99,kuwara,get all
-51.91,26588,Potion of Eagle,1200,2495.07,10,1,HyjoSeller,LOOK OVER HERE
