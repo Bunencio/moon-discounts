@@ -2,8 +2,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22030,Earth Rock,20,1200009.75,3,1,ShowerBro,afk
 100.0,22030,Earth Rock,20,1200009.75,3,1,AAAAA123,ty
 100.0,22434,,6,325568.89,5,2,Pots,Shadow Crystal / Demonic Gem Fra
-100.0,25451,Jade Gem Fragment,1,50877.13,9,10,CocoZap,Possession / Jade
-100.0,25451,Jade Gem Fragment,1,50877.13,9,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25451,Jade Gem Fragment,1,50788.24,10,10,CocoZap,Possession / Jade
+100.0,25451,Jade Gem Fragment,1,50788.24,10,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25452,Rock Gem Fragment,1,48762.72,8,2,Goliat,Fragment  Store
 100.0,25452,Rock Gem Fragment,1,48762.72,8,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25508,Demonic Gem Fragment,1,74000.6,4,4,Guardian,S> SM/VOY CAPS
@@ -14,12 +14,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,376967.16,7,2,iTonik,Selling
 99.99,25525,,35,376967.16,7,2,Xiomarvic,Free Itms
 99.99,25525,,35,376967.16,7,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,23550.73,10,58,iTonik,Selling
-99.99,27020,Gold Pirate Scroll,3,23550.73,10,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,23495.51,9,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,23495.51,9,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28476,Ice Sealed Kris of the Sphinx,6,72501.5,3,1,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,9957.61,17,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,9922.7,17,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.98,22434,,55,325568.89,5,2,xJavux,cheap
-99.98,25451,Jade Gem Fragment,8,50877.13,9,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
+99.98,25451,Jade Gem Fragment,8,50788.24,10,2,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,25452,Rock Gem Fragment,8,48762.72,8,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.98,25452,Rock Gem Fragment,8,48762.72,8,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 92.57,26564,Meditation Potion,40,538.52,3,100,Fitstall,App Hat/Tattoo/Mana pots
@@ -54,6 +54,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.59,25375,Lightning Heart,90,193.94,4,99,kuwara,get all
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
 52.6,22004,Shining Gem,4000,8439.26,4,7,DoaaPepa,D O N    P E P E
-51.92,26591,Potion of Lion,1200,2495.96,6,2,HyjoSeller,LOOK OVER HERE
-51.82,25258,Spirit Feather,99,205.48,6,4,DiscipleTwo,CHEAP LEGENDARY BPs|PPS|REF|DUST
-51.33,25258,Spirit Feather,100,205.48,6,6,Lane,Elixir / Spirit
+51.89,26591,Potion of Lion,1200,2494.3,7,2,HyjoSeller,LOOK OVER HERE
