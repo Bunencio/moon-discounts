@@ -16,7 +16,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,23214.79,8,58,iTonik,Selling
 99.99,27020,Gold Pirate Scroll,3,23214.79,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,28476,Ice Sealed Kris of the Sphinx,6,72501.5,3,1,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-99.99,30156,Jackpot Coin,1,9651.03,15,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,9674.4,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.98,22007,Gem of Striking,13,77953.5,4,10,MrFarm,CHEAPEST STALL IN TOWN/CHECKIT!!
 99.98,22007,Gem of Striking,16,77953.5,4,1,zzzzz,garner
 99.98,22007,Gem of Striking,13,77953.5,4,17,Aemond,CHEAP GEMS
@@ -31,13 +31,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 90.79,26564,Meditation Potion,50,543.07,3,200,Fitstall,App Hat|Lv60 Items| Mana Pots
 90.79,26564,Meditation Potion,50,543.07,3,100,Fitstall,App Hat|Lv60 Items| Mana Pots
 90.79,26564,Meditation Potion,50,543.07,3,199,Fitstall,App Hat|Lv60 Items| Mana Pots
-85.61,22001,Furious Gem,456,3169.46,9,1,BLaCKMooN,X_X
-84.26,22001,Furious Gem,499,3169.46,9,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
+85.0,22001,Furious Gem,456,3040.29,10,1,BLaCKMooN,X_X
+83.59,22001,Furious Gem,499,3040.29,10,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
+83.55,22001,Furious Gem,500,3040.29,10,3,Bathroom,Sell Gems
 79.05,29056,20 Cooking EXP Card,500,2386.67,5,1,PWHunter,that's all
-73.18,22001,Furious Gem,850,3169.46,9,3,cheapstuffsell,cheap
+72.04,22001,Furious Gem,850,3040.29,10,3,cheapstuffsell,cheap
 71.92,22004,Shining Gem,2000,7122.61,5,12,vendedolmax,2000
 68.91,25439,Incantation Stone,200,643.3,5,4,BL4CKM4RK3T,stuff
-68.48,22001,Furious Gem,999,3169.46,9,3,SariSariStore1,CLEANING
+67.14,22001,Furious Gem,999,3040.29,10,3,SariSariStore1,CLEANING
 65.52,28035,Solar Shield,9999,28999.2,5,1,BartholomewKuma,SM 50 / Shield/ Equips 50
 64.62,22000,FieryGem,1990,5624.13,9,1,WannaBE,"Cheap stuff!""!"
 64.46,22000,FieryGem,1999,5624.13,9,11,tiendaonline,offer offer offer
@@ -48,7 +49,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 61.27,25507,Expert Stone,400,1032.79,9,3,ATHALIAH,LOWEST PRICE
 60.76,29023,Standard 15 Treasure Hunting EXP Card,799,2036.11,4,6,BL4CKM4RK3T,stuff
 60.59,25258,Spirit Feather,77,195.39,4,7,dsadsa,weightless tix dw fairy ration
-60.56,25423,Evanescence Rock,200,507.07,8,4,BL4CKM4RK3T,stuff
+59.85,25423,Evanescence Rock,200,498.08,9,4,BL4CKM4RK3T,stuff
 59.67,30121,Vial of Accuracy Reset,2000,4958.49,7,1,Buhonero,Welcome
 59.67,30121,Vial of Accuracy Reset,2000,4958.49,7,1,Ivynor,All cheap
 58.22,25440,Evanescence Stone,200,478.7,5,1,BL4CKM4RK3T,stuff
