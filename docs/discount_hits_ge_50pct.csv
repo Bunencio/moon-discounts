@@ -3,9 +3,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,22030,Earth Rock,20,1200009.5,4,1,ShowerBro,afk
 100.0,22030,Earth Rock,19,1200009.5,4,1,AAAAA123,sell
 100.0,25433,Blessed Runestone,6,859999.89,4,2,SnowCr4sh,BLESSED 600 IMPS ECH
-100.0,25451,Jade Gem Fragment,1,39406.14,8,10,CocoZap,Possession / Jade
-100.0,25451,Jade Gem Fragment,1,39406.14,8,9,monchito1,00.00
-100.0,25451,Jade Gem Fragment,1,39406.14,8,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25451,Jade Gem Fragment,1,40749.15,9,10,CocoZap,Possession / Jade
+100.0,25451,Jade Gem Fragment,1,40749.15,9,9,monchito1,00.00
+100.0,25451,Jade Gem Fragment,1,40749.15,9,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25452,Rock Gem Fragment,1,40544.74,8,2,Goliat,Fragment  Store
 100.0,25452,Rock Gem Fragment,2,40544.74,8,18,monchito1,00.00
 100.0,25452,Rock Gem Fragment,1,40544.74,8,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
@@ -23,25 +23,24 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,30156,Jackpot Coin,1,9838.51,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.98,25452,Rock Gem Fragment,8,40544.74,8,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 88.81,27020,Gold Pirate Scroll,2500,22341.76,8,10,MatsBk,S>JC/GPS
-86.23,22004,Shining Gem,1000,7264.23,5,18,011,cleaning
-80.26,22001,Furious Gem,999,5062.03,8,1,Meguminn,EXPLOOOOSIOOOONNN!!e
-80.25,22001,Furious Gem,1000,5062.03,8,4,011,cleaning
+84.88,22004,Shining Gem,1000,6614.82,4,18,011,cleaning
+79.53,22001,Furious Gem,999,4879.91,9,1,Meguminn,EXPLOOOOSIOOOONNN!!e
+79.51,22001,Furious Gem,1000,4879.91,9,4,011,cleaning
 79.47,29056,20 Cooking EXP Card,500,2435.16,3,1,PWHunter,that's all
 77.78,29310,Ring of Hawk,4,18.0,3,1,MrFarm,CHEAPEST STALL IN TOWN/CHECKIT!!
 74.31,27029,Ship Penetrator Lv1,100,389.31,4,37,Lja,cheap
-72.47,22004,Shining Gem,2000,7264.23,5,10,vendedolmax,2000
 72.22,29310,Ring of Hawk,5,18.0,3,1,voyo,omfg
 69.23,28466,Ice Sealed Judgment of Enigma,29999,97499.75,3,1,BjornIronside,@@@@
 69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,xBinibirocha,PET STR LV 20 // SEALED 60 RUSH!
 69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,BabyBank,Cheap
-68.79,22000,FieryGem,1500,4805.42,9,4,cheapstuffsell,cheap
-64.31,22003,Glowing Gem,1000,2802.06,6,1,011,cleaning
+67.76,22000,FieryGem,1500,4652.1,8,4,cheapstuffsell,cheap
+64.5,28326,Divine Grace Cap,49999,140833.17,5,1,Reaper,NORMAL GEMS CHEAP GOLTEB
+63.25,22003,Glowing Gem,1000,2720.96,6,1,011,cleaning
 62.51,25440,Evanescence Stone,200,533.53,4,19,HyjoSeller,LOOK OVER HERE
-60.49,22001,Furious Gem,2000,5062.03,8,3,Buffita,garner
-60.49,22001,Furious Gem,2000,5062.03,8,10,vendedolmax,2000
-58.4,22000,FieryGem,1999,4805.42,9,11,tiendaonline,offer offer offer
-58.38,22000,FieryGem,2000,4805.42,9,33,Fortis,All cheap
-58.38,22000,FieryGem,2000,4805.42,9,9,BuyingSta4ll7,GPS | JACK | JADE | POTS +++++++
+59.02,22001,Furious Gem,2000,4879.91,9,3,Buffita,garner
+57.03,22000,FieryGem,1999,4652.1,8,11,tiendaonline,offer offer offer
+57.01,22000,FieryGem,2000,4652.1,8,33,Fortis,All cheap
+57.01,22000,FieryGem,2000,4652.1,8,9,BuyingSta4ll7,GPS | JACK | JADE | POTS +++++++
 55.52,28450,Fire Sealed Tooth of Evanescence,23500,52833.33,3,1,bowstalls,All Fire Sealed items 2pages
 53.51,25375,Lightning Heart,90,193.59,5,99,kuwara,get all
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
