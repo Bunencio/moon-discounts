@@ -22,6 +22,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,25452,Rock Gem Fragment,8,49753.1,8,5,RiasGremory,JADE CHEST YELLOW ROCK KAL FRAG
 99.98,29307,Ring of Damnation,18,110007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
 99.98,29307,Ring of Damnation,18,110007.0,3,1,Carminha,Acc Ring Lv50 FREE just take it
+91.71,26564,Meditation Potion,45,543.07,3,28,Skills,o_0   Free    *_*    Free   0_ox
+90.79,26564,Meditation Potion,50,543.07,3,200,Fitstall,App Hat|Lv60 Items| Mana Pots
+90.79,26564,Meditation Potion,50,543.07,3,100,Fitstall,App Hat|Lv60 Items| Mana Pots
+90.79,26564,Meditation Potion,50,543.07,3,199,Fitstall,App Hat|Lv60 Items| Mana Pots
 85.61,22001,Furious Gem,456,3169.46,9,1,BLaCKMooN,X_X
 84.26,22001,Furious Gem,499,3169.46,9,1,Meguminn,EXPLOOOOSIOOOONNN!!!Ee
 79.05,29056,20 Cooking EXP Card,500,2386.67,5,1,PWHunter,that's all
@@ -30,7 +34,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 68.91,25439,Incantation Stone,200,643.3,5,4,BL4CKM4RK3T,stuff
 68.48,22001,Furious Gem,999,3169.46,9,3,SariSariStore1,CLEANING
 65.52,28035,Solar Shield,9999,28999.2,5,1,BartholomewKuma,SM 50 / Shield/ Equips 50
-65.35,26590,Potion of Soul,1000,2886.03,8,2,Gl1dios,RANDOM!!! EZ
 64.62,22000,FieryGem,1990,5624.13,9,1,WannaBE,"Cheap stuff!""!"
 64.46,22000,FieryGem,1999,5624.13,9,11,tiendaonline,offer offer offer
 64.44,22000,FieryGem,2000,5624.13,9,9,BuyingSta4ll7,GPS | JADE | JACK | POTS | +++++
@@ -41,7 +44,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.76,29023,Standard 15 Treasure Hunting EXP Card,799,2036.11,4,6,BL4CKM4RK3T,stuff
 60.59,25258,Spirit Feather,77,195.39,4,7,dsadsa,weightless tix dw fairy ration
 60.56,25423,Evanescence Rock,200,507.07,8,4,BL4CKM4RK3T,stuff
-60.31,26588,Potion of Eagle,1000,2519.56,8,2,Gl1dios,RANDOM!!! EZ
 59.67,30121,Vial of Accuracy Reset,2000,4958.49,7,1,Buhonero,Welcome
 59.67,30121,Vial of Accuracy Reset,2000,4958.49,7,1,Ivynor,All cheap
 58.22,25440,Evanescence Stone,200,478.7,5,1,BL4CKM4RK3T,stuff
