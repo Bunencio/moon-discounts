@@ -1,5 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22023,Green Jade,2,150000.25,3,1,AAAAA123,sell
+100.0,22023,Green Jade,2,181153.92,4,1,AAAAA123,sell
 100.0,22030,Earth Rock,20,1200009.5,4,1,ShowerBro,afk
 100.0,22030,Earth Rock,19,1200009.5,4,1,AAAAA123,sell
 100.0,25433,Blessed Runestone,6,859999.89,4,2,SnowCr4sh,BLESSED 600 IMPS ECH
@@ -15,13 +15,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,35,384446.81,5,2,iTonik,Selling
 99.99,25525,,35,384446.81,5,2,Xiomarvic,Free Itms
 99.99,25525,,35,384446.81,5,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,22350.88,6,58,iTonik,Selling
-99.99,27020,Gold Pirate Scroll,3,22350.88,6,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,27020,Gold Pirate Scroll,3,22341.76,8,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,22341.76,8,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,29305,Ring of Destruction,15,126253.75,4,1,Skadi#79,APP SHOP CHEAP
 99.99,29305,Ring of Destruction,15,126253.75,4,1,Skadi#79,APP SHOP CHEAP
 99.99,29323,Nimble Venturer,20,168574.14,4,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9894.22,14,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,9838.51,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.98,25452,Rock Gem Fragment,8,40544.74,8,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+88.81,27020,Gold Pirate Scroll,2500,22341.76,8,10,MatsBk,S>JC/GPS
 86.23,22004,Shining Gem,1000,7264.23,5,18,011,cleaning
 80.26,22001,Furious Gem,999,5062.03,8,1,Meguminn,EXPLOOOOSIOOOONNN!!e
 80.25,22001,Furious Gem,1000,5062.03,8,4,011,cleaning
@@ -34,7 +35,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,xBinibirocha,PET STR LV 20 // SEALED 60 RUSH!
 69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,BabyBank,Cheap
 68.79,22000,FieryGem,1500,4805.42,9,4,cheapstuffsell,cheap
-64.46,22003,Glowing Gem,1000,2813.35,6,1,011,cleaning
+64.31,22003,Glowing Gem,1000,2802.06,6,1,011,cleaning
 62.51,25440,Evanescence Stone,200,533.53,4,19,HyjoSeller,LOOK OVER HERE
 60.49,22001,Furious Gem,2000,5062.03,8,3,Buffita,garner
 60.49,22001,Furious Gem,2000,5062.03,8,10,vendedolmax,2000
