@@ -1,7 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22023,Green Jade,3,150000.5,3,1,AAAAA123,ty
-100.0,22030,Earth Rock,20,1200009.75,3,1,ShowerBro,afk
-100.0,22030,Earth Rock,20,1200009.75,3,1,AAAAA123,ty
+100.0,22030,Earth Rock,20,1600006.33,3,1,ShowerBro,afk
 100.0,25433,Blessed Runestone,6,859999.89,4,2,SnowCr4sh,IMPS
 100.0,25451,Jade Gem Fragment,1,40676.98,9,10,CocoZap,Possession / Jade
 100.0,25451,Jade Gem Fragment,1,40676.98,9,9,monchito1,00.00
@@ -22,8 +20,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,23469.96,11,18,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APP SHOP
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APP SHOP
-99.99,30156,Jackpot Coin,1,9781.85,16,1,Elf,AFK
-99.99,30156,Jackpot Coin,1,9781.85,16,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,9832.43,16,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.98,25452,Rock Gem Fragment,8,40544.7,8,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 86.23,22004,Shining Gem,1000,7264.23,5,18,011,cleaning
 84.01,25480,Ami Hairstyle Book,750,4689.29,3,1,HyjoSeller,LOOK OVER HERE
@@ -41,7 +38,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.38,22000,FieryGem,2000,4805.42,9,33,Fortis,All cheap
 58.38,22000,FieryGem,2000,4805.42,9,9,BuyingSta4ll7,GPS | JACK | JADE | POTS +++++++
 55.52,28450,Fire Sealed Tooth of Evanescence,23500,52833.33,3,1,bowstalls,All Fire Sealed items 2pages
-53.54,25375,Lightning Heart,90,193.72,5,99,kuwara,get all
+53.51,25375,Lightning Heart,90,193.59,5,99,kuwara,get all
 52.8,30121,Vial of Accuracy Reset,2000,4236.85,9,1,Fortis,All cheap
 52.8,30121,Vial of Accuracy Reset,2000,4236.85,9,1,Buhonero,Welcome
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
