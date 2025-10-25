@@ -35,25 +35,25 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,22000,FieryGem,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++,2000,4757.78,2757.78,9,24820.01,57.96,9
 2025-10-25,28450,Fire Sealed Tooth of Evanescence,bowstalls,Fire sealed items 2Pages,24500,49833.33,25333.33,1,25333.33,50.84,3
 2025-10-25,26590,Potion of Soul,hunterx,UGwind/repu/BPs/fb/lantern/ etc,1950,3834.76,1884.76,17,32040.9,49.15,9
+2025-10-25,28428,Fire Sealed Dance of Evanescence,Alora,hey i'm new help pls Cheap,23000,44399.8,21399.8,1,21399.8,48.2,3
 2025-10-25,25060,Cocobolo Log,ebashuloxov,cocobolo,10000,18491.62,8491.62,19,161340.78,45.92,3
 2025-10-25,26568,Skating Potion,Keepmo,Ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,22500,41367.21,18867.21,5,94336.03,45.61,8
 2025-10-25,27006,Bunny Potion,dwtix,PharaLantern/ElvenBunnyPot,1100,1973.92,873.92,171,149440.57,44.27,5
 2025-10-25,27006,Bunny Potion,galina1,dw TIX/ bunny POT,1100,1973.92,873.92,28,24469.8,44.27,5
-2025-10-25,28468,Ice Sealed Mantle of Enigma,GABRAS,SS SHOP   SS SHOP SS SHOP SS SHP,85000,148999.8,63999.8,1,63999.8,42.95,5
 2025-10-25,22004,Shining Gem,DoaaPepa,D O N   P E P E,4000,6969.33,2969.33,7,20785.33,42.61,5
+2025-10-25,28468,Ice Sealed Mantle of Enigma,OsToWBaby,50-60 SEALED | LIFE SKILL 15 EXP,84999,147999.8,63000.8,1,63000.8,42.57,5
+2025-10-25,28468,Ice Sealed Mantle of Enigma,GABRAS,SS SHOP   SS SHOP SS SHOP SS SHP,85000,147999.8,62999.8,1,62999.8,42.57,5
 2025-10-25,25476,Hairstyling Voucher,Yennefer,ROCK JADE MOON SUN CLOUD KALABAR,9000,15408.33,6408.33,4,25633.33,41.59,3
 2025-10-25,25450,Chest of Demonic World,MiLD,rrrr,30000,50454.55,20454.55,3,61363.64,40.54,3
-2025-10-25,28468,Ice Sealed Mantle of Enigma,zDemonLord,acc pet ss enigma ring,89999,148999.8,59000.8,1,59000.8,39.6,5
-2025-10-25,28468,Ice Sealed Mantle of Enigma,StrongBones2,aomah sell,90000,148999.8,58999.8,1,58999.8,39.6,5
+2025-10-25,28468,Ice Sealed Mantle of Enigma,StrongBones2,aomah sell,90000,147999.8,57999.8,1,57999.8,39.19,5
 2025-10-25,22001,Furious Gem,BuySome,BUY GAYSSS,2999,4890.91,1891.91,89,168379.55,38.68,8
 2025-10-25,22000,FieryGem,BuySome,BUY GAYSSS,2999,4757.78,1758.78,72,126632.05,36.97,9
-2025-10-25,30140,10x Crystal,Elle,ipm,16000,25114.15,9114.15,11,100255.65,36.29,4
 2025-10-25,25420,Sunlight Heart,Brum,Sell cap moonlight freeeeeeeeeee,11000,16707.1,5707.1,8,45656.78,34.16,6
-2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,529999.6,180000.6,1,180000.6,33.96,4
-2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,529999.6,180000.6,1,180000.6,33.96,4
+2025-10-25,30140,10x Crystal,FreePalestine1,sell imps,17500,25978.42,8478.42,99,839363.82,32.64,3
+2025-10-25,30140,10x Crystal,FreePalestine1,sell imps,17500,25978.42,8478.42,6,50870.53,32.64,3
 2025-10-25,30171,Ticket to Demonic World,shooter,tix dw ration warlord skatinglow,340,498.17,158.17,185,29260.83,31.75,5
-2025-10-25,30140,10x Crystal,FreePalestine1,sell imps,17500,25114.15,7614.15,99,753800.81,30.32,4
-2025-10-25,30140,10x Crystal,FreePalestine1,sell imps,17500,25114.15,7614.15,6,45684.9,30.32,4
+2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,508333.0,158334.0,1,158334.0,31.15,5
+2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,508333.0,158334.0,1,158334.0,31.15,5
 2025-10-25,30171,Ticket to Demonic World,dsadsa,weightles ration dw tix,350,498.17,148.17,190,28151.67,29.74,5
 2025-10-25,30171,Ticket to Demonic World,Wardo,S>DW TIX 350G,350,498.17,148.17,190,28151.67,29.74,5
 2025-10-25,30171,Ticket to Demonic World,Wardo,S>DW TIX 350G,350,498.17,148.17,145,21484.17,29.74,5
@@ -72,6 +72,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,26589,Potion of Bull,cheapstuffsell,cheap,1750,2317.43,567.43,47,26669.07,24.49,16
 2025-10-25,25450,Chest of Demonic World,sellerforfree,cheap,39000,50454.55,11454.55,5,57272.73,22.7,3
 2025-10-25,30102,1000 Reputation Scroll,hunterx,UGwind/repu/BPs/fb/lantern/ etc,5899,7594.96,1695.96,74,125501.4,22.33,7
+2025-10-25,28454,Ice Sealed Blade of Enigma,OsToWBaby,50-60 SEALED | LIFE SKILL 15 EXP,400000,508333.0,108333.0,1,108333.0,21.31,5
 2025-10-25,26591,Potion of Lion,cheapstuffsell,cheap,1999,2521.16,522.16,78,40728.38,20.71,9
 2025-10-25,26591,Potion of Lion,011,cleaning,2000,2521.16,521.16,65,33875.32,20.67,9
 2025-10-25,26588,Potion of Eagle,cheapstuffsell,cheap,1999,2480.62,481.62,105,50570.14,19.42,7
@@ -108,7 +109,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION/TS/GRENADE,1999,2130.83,131.83,200,26366.64,6.19,3
 2025-10-25,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION/TS/GRENADE,1999,2130.83,131.83,200,26366.64,6.19,3
 2025-10-25,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION/TS/GRENADE,1999,2130.83,131.83,200,26366.64,6.19,3
-2025-10-25,28454,Ice Sealed Blade of Enigma,Ivynor,All cheap,500000,529999.6,29999.6,1,29999.6,5.66,4
 2025-10-25,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,8900,9394.5,494.5,150,74175.25,5.26,5
 2025-10-25,27017,Sorcerer's Wine,12361,Pots,8900,9394.5,494.5,50,24725.08,5.26,5
 2025-10-25,27017,Sorcerer's Wine,GordanRamsay,Cheapest Pots Ever !!!!!!!!!!!!!,9000,9394.5,394.5,82,32349.14,4.2,5
