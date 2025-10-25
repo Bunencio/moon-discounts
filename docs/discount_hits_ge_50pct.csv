@@ -1,9 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,57798.05,6,9,monchito1,00.00
 100.0,25451,Jade Gem Fragment,1,57798.05,6,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25452,Rock Gem Fragment,2,57954.35,9,1,Coffi,FRAGMENTS
-100.0,25452,Rock Gem Fragment,2,57954.35,9,18,monchito1,00.00
-100.0,25452,Rock Gem Fragment,1,57954.35,9,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,2,58288.38,9,1,Coffi,FRAGMENTS
+100.0,25452,Rock Gem Fragment,2,58288.38,9,18,monchito1,00.00
+100.0,25452,Rock Gem Fragment,1,58288.38,9,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,348000.4,8,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28136,Crown of Decendant,10,425006.0,4,1,KaChing,CRUS GEAR
 100.0,28136,Crown of Decendant,14,425006.0,4,1,voyo,omfg
@@ -18,15 +18,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 99.99,25525,,30,348000.4,8,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,24,348000.4,8,1,Almao,DEMONIC GEM / KAL RUNESTONE
-99.99,27020,Gold Pirate Scroll,3,26288.59,8,7,Gastro,gps pps pet jackpot
+99.99,27020,Gold Pirate Scroll,3,26286.34,8,7,Gastro,gps pps pet jackpot
 99.99,28327,Great Aqua Cap,4,67506.25,4,1,AAA123,1313213131
-99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
-99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
-99.99,29323,Nimble Venturer,20,161431.29,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
+99.99,29323,Nimble Venturer,20,155003.17,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.99,30156,Jackpot Coin,1,9858.65,12,2,Gastro,gps pps pet jackpot
-99.98,27019,Purple Pirate Scroll,1,4519.91,12,6,Gastro,gps pps pet jackpot
-99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
+99.98,27019,Purple Pirate Scroll,1,4518.75,13,6,Gastro,gps pps pet jackpot
 99.97,28327,Great Aqua Cap,21,67506.25,4,1,Guardian,S> SM/VOY CAPS
 99.95,28326,Divine Grace Cap,60,114176.67,3,1,Gastro,gps pps pet jackpot
 89.16,28466,Ice Sealed Judgment of Enigma,29999,276666.0,3,1,BjornIronside,@@@@
@@ -53,6 +49,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.32,22000,FieryGem,2000,4378.03,12,6,Paradise,buy my garbage
 54.32,22000,FieryGem,2000,4378.03,12,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
 53.29,22001,Furious Gem,1990,4260.58,9,68,STAII,Cheap pots
+53.28,26002,Pharaoh Gem,1300,2782.68,4,9,amiix,Rock GF RBS PPS GPS JC PBS FB PO
 53.23,25375,Lightning Heart,90,192.45,5,99,kuwara,get all
 53.06,22001,Furious Gem,2000,4260.58,9,11,Paradise,buy my garbage
 53.06,22001,Furious Gem,2000,4260.58,9,10,vendedolmax,2000
