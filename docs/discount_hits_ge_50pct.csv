@@ -21,7 +21,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,28327,Great Aqua Cap,10,75007.75,4,1,AAA123,12313123131313
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APP SHOP CHEAP
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APP SHOP CHEAP
-99.99,29323,Nimble Venturer,20,168574.14,4,1,DemiMerchant,99c Item mall Stuff Cheap 99c
+99.99,29323,Nimble Venturer,20,168752.38,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.97,28327,Great Aqua Cap,21,75007.75,4,1,Guardian,S> SM/VOY CAPS
@@ -35,7 +35,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,xBinibirocha,PET STR LV 20 // SEALED 60 RUSH!
 69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,BabyBank,Cheap
 68.65,22004,Shining Gem,2000,6379.16,5,10,vendedolmax,2000
-67.76,22000,FieryGem,1500,4652.96,8,4,cheapstuffsell,cheap
+67.47,22000,FieryGem,1500,4611.52,9,4,cheapstuffsell,cheap
 64.5,28326,Divine Grace Cap,49999,140833.17,5,1,Reaper,NORMAL GEMS CHEAP GOLTEB
 62.99,22003,Glowing Gem,1000,2702.16,6,1,011,cleaning
 58.97,22001,Furious Gem,2000,4873.96,7,11,vendedolmax,2000
@@ -43,11 +43,12 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.45,25277,Whisperers Necklace,75,180.48,3,18,Horadric,CHEAP CRAFT MATHS!!!!!!!!
-57.04,22000,FieryGem,1999,4652.96,8,11,tiendaonline,offer offer offer
-57.02,22000,FieryGem,2000,4652.96,8,33,Fortis,All cheap
-57.02,22000,FieryGem,2000,4652.96,8,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
+56.65,22000,FieryGem,1999,4611.52,9,11,tiendaonline,offer offer offer
+56.63,22000,FieryGem,2000,4611.52,9,33,Fortis,All cheap
+56.63,22000,FieryGem,2000,4611.52,9,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
 54.78,25507,Expert Stone,500,1105.7,7,1,Stellar,Variety Shop
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
+52.5,26501,Tiny EXP Berry,1690,3558.18,3,6,FT2,Cheap items
 52.09,26589,Potion of Bull,1000,2087.34,15,9,PWHunter,that's all
 51.31,26590,Potion of Soul,1950,4004.81,8,17,hunterx,UGwind/repu/BPs/fb/lantern/ etc
 50.84,28450,Fire Sealed Tooth of Evanescence,24500,49833.33,3,1,bowstalls,Fire sealed items 2Pages
