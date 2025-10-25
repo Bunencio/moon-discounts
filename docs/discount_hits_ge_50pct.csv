@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22023,Green Jade,2,181153.92,4,1,AAAAA123,sell
 100.0,25451,Jade Gem Fragment,1,47068.08,6,10,CocoZap,Possession / Jade
 100.0,25451,Jade Gem Fragment,1,47068.08,6,9,monchito1,00.00
 100.0,25451,Jade Gem Fragment,1,47068.08,6,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
@@ -12,8 +11,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,30,337124.77,8,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,35,337124.77,8,2,iTonik,Selling
 99.99,25525,,35,337124.77,8,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,24056.82,10,7,Gastro,gps pps pet jackpot
-99.99,27020,Gold Pirate Scroll,3,24056.82,10,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,23832.7,8,7,Gastro,gps pps pet jackpot
+99.99,27020,Gold Pirate Scroll,3,23832.7,8,58,iTonik,Selling
 99.99,28327,Great Aqua Cap,10,75007.75,4,1,AAA123,12313123131313
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP

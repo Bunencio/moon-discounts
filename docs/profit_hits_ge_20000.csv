@@ -4,16 +4,15 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25451,Jade Gem Fragment,CocoZap,Possession / Jade,1,47068.08,47067.08,10,470670.82,100.0,6
 2025-10-25,29324,Soulbinding Necklace,WhynotSS,spr PET NECK AND BOOTS CLERIC,6,433335.33,433329.33,1,433329.33,100.0,3
 2025-10-25,25451,Jade Gem Fragment,monchito1,00.00,1,47068.08,47067.08,9,423603.73,100.0,6
-2025-10-25,22023,Green Jade,AAAAA123,sell,2,181153.92,181151.92,1,181151.92,100.0,4
 2025-10-25,25452,Rock Gem Fragment,Goliat,Fragment  Store,1,57015.0,57014.0,2,114028.0,100.0,8
 2025-10-25,25452,Rock Gem Fragment,xxD,UG SOUL / ROCK GEM / GREEN FRAG,1,57015.0,57014.0,2,114028.0,100.0,8
 2025-10-25,25452,Rock Gem Fragment,Coffi,FRAGMENTS,2,57015.0,57013.0,1,57013.0,100.0,8
 2025-10-25,25451,Jade Gem Fragment,xxD,UG SOUL / ROCK GEM / GREEN FRAG,1,47068.08,47067.08,1,47067.08,100.0,6
-2025-10-25,27020,Gold Pirate Scroll,iTonik,Selling,3,24056.82,24053.82,58,1395121.29,99.99,10
+2025-10-25,27020,Gold Pirate Scroll,iTonik,Selling,3,23832.7,23829.7,58,1382122.63,99.99,8
 2025-10-25,25525,,Xiomarvic,Jewel - Universal purse frag,30,337124.77,337094.77,2,674189.53,99.99,8
 2025-10-25,25525,,iTonik,Selling,35,337124.77,337089.77,2,674179.53,99.99,8
 2025-10-25,25525,,xkom,CHAOS JEWEL FRAG,35,337124.77,337089.77,1,337089.77,99.99,8
-2025-10-25,27020,Gold Pirate Scroll,Gastro,gps pps pet jackpot,3,24056.82,24053.82,7,168376.71,99.99,10
+2025-10-25,27020,Gold Pirate Scroll,Gastro,gps pps pet jackpot,3,23832.7,23829.7,7,166807.9,99.99,8
 2025-10-25,29323,Nimble Venturer,DemiMerchant,99c Item mall Stuff Cheap 99c,20,158336.5,158316.5,1,158316.5,99.99,5
 2025-10-25,29305,Ring of Destruction,Skadi#79,APPAREL SHOP,15,110005.0,109990.0,1,109990.0,99.99,3
 2025-10-25,29305,Ring of Destruction,Skadi#79,APPAREL SHOP,15,110005.0,109990.0,1,109990.0,99.99,3
@@ -33,10 +32,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,28450,Fire Sealed Tooth of Evanescence,bowstalls,Fire sealed items 2Pages,24500,49833.33,25333.33,1,25333.33,50.84,3
 2025-10-25,26590,Potion of Soul,hunterx,UGwind/repu/BPs/fb/lantern/ etc,1950,3810.35,1860.35,17,31625.96,48.82,9
 2025-10-25,28428,Fire Sealed Dance of Evanescence,Alora,hey i'm new help pls Cheap,23000,44399.8,21399.8,1,21399.8,48.2,3
-2025-10-25,25060,Cocobolo Log,ebashuloxov,cocobolo,10000,18491.62,8491.62,19,161340.78,45.92,3
 2025-10-25,26568,Skating Potion,Keepmo,Ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,22500,41367.21,18867.21,5,94336.03,45.61,8
-2025-10-25,27006,Bunny Potion,dwtix,PharaLantern/ElvenBunnyPot,1100,1973.92,873.92,171,149440.57,44.27,5
-2025-10-25,27006,Bunny Potion,galina1,dw TIX/ bunny POT,1100,1973.92,873.92,28,24469.8,44.27,5
+2025-10-25,27006,Bunny Potion,dwtix,PharaLantern/ElvenBunnyPot,1100,1990.99,890.99,161,143449.43,44.75,5
+2025-10-25,27006,Bunny Potion,galina1,dw TIX/ bunny POT,1100,1990.99,890.99,28,24947.73,44.75,5
+2025-10-25,25060,Cocobolo Log,ebashuloxov,COCOBOLO,10000,17487.68,7487.68,43,321970.44,42.82,3
 2025-10-25,22004,Shining Gem,DoaaPepa,D O N   P E P E,4000,6969.33,2969.33,7,20785.33,42.61,5
 2025-10-25,25476,Hairstyling Voucher,Yennefer,ROCK JADE MOON SUN CLOUD KALABAR,9000,15408.33,6408.33,4,25633.33,41.59,3
 2025-10-25,28468,Ice Sealed Mantle of Enigma,zDemonLord,acc pet ss,79999,136666.33,56667.33,1,56667.33,41.46,6
@@ -47,14 +46,14 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,22000,FieryGem,BuySome,BUY GAYSSS,2999,4757.78,1758.78,72,126632.05,36.97,9
 2025-10-25,25420,Sunlight Heart,Brum,Sell cap moonlight freeeeeeeeeee,11000,16707.1,5707.1,8,45656.78,34.16,6
 2025-10-25,28468,Ice Sealed Mantle of Enigma,StrongBones2,aomah sell,90000,136666.33,46666.33,1,46666.33,34.15,6
-2025-10-25,30140,10x Crystal,FreePalestine1,sell imps,17500,25978.42,8478.42,99,839363.82,32.64,3
-2025-10-25,30140,10x Crystal,FreePalestine1,sell imps,17500,25978.42,8478.42,6,50870.53,32.64,3
-2025-10-25,30171,Ticket to Demonic World,shooter,tix dw ration warlord skatinglow,340,498.17,158.17,185,29260.83,31.75,5
+2025-10-25,30140,10x Crystal,FreePalestine1,sell imps,17500,25893.14,8393.14,99,830920.54,32.41,4
+2025-10-25,30140,10x Crystal,FreePalestine1,sell imps,17500,25893.14,8393.14,6,50358.82,32.41,4
+2025-10-25,30171,Ticket to Demonic World,shooter,tix dw ration warlord skatinglow,340,498.57,158.57,185,29335.28,31.8,5
 2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,508333.0,158334.0,1,158334.0,31.15,5
 2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,508333.0,158334.0,1,158334.0,31.15,5
-2025-10-25,30171,Ticket to Demonic World,dsadsa,weightles ration dw tix,350,498.17,148.17,190,28151.67,29.74,5
-2025-10-25,30171,Ticket to Demonic World,Wardo,S>DW TIX 350G,350,498.17,148.17,190,28151.67,29.74,5
-2025-10-25,30171,Ticket to Demonic World,Wardo,S>DW TIX 350G,350,498.17,148.17,145,21484.17,29.74,5
+2025-10-25,30171,Ticket to Demonic World,dsadsa,weightles ration dw tix,350,498.57,148.57,190,28228.13,29.8,5
+2025-10-25,30171,Ticket to Demonic World,Wardo,S>DW TIX 350G,350,498.57,148.57,184,27336.71,29.8,5
+2025-10-25,30171,Ticket to Demonic World,Wardo,S>DW TIX 350G,350,498.57,148.57,145,21542.52,29.8,5
 2025-10-25,25534,,freeee,cheap,1999,2837.83,838.83,52,43619.39,29.56,7
 2025-10-25,25534,,*DEATH*~#14,FRAGMENTO,2000,2837.83,837.83,47,39378.22,29.52,7
 2025-10-25,25416,Cloud Heart,Brum,Sell cap moonlight freeeeeeeeeee,16000,22516.69,6516.69,7,45616.83,28.94,4
@@ -68,6 +67,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,26589,Potion of Bull,cheapstuffsell,cheap,1750,2321.33,571.33,47,26852.6,24.61,16
+2025-10-25,30139,100x Crystal,Elle,ipm,150000,195196.6,45196.6,1,45196.6,23.15,5
 2025-10-25,25450,Chest of Demonic World,sellerforfree,cheap,39000,50454.55,11454.55,5,57272.73,22.7,3
 2025-10-25,30102,1000 Reputation Scroll,hunterx,UGwind/repu/BPs/fb/lantern/ etc,5899,7605.73,1706.73,74,126298.2,22.44,6
 2025-10-25,28454,Ice Sealed Blade of Enigma,OsToWBaby,50-60 SEALED | LIFE SKILL 15 EXP,400000,508333.0,108333.0,1,108333.0,21.31,5
@@ -82,7 +82,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,30156,Jackpot Coin,JackSparroow,jackpot coin,8500,9912.66,1412.66,68,96060.57,14.25,14
 2025-10-25,30156,Jackpot Coin,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++,8500,9912.66,1412.66,33,46617.63,14.25,14
 2025-10-25,26589,Potion of Bull,011,cleaning,2000,2321.33,321.33,70,22493.23,13.84,16
-2025-10-25,30139,100x Crystal,p4m,imps,170000,195395.7,25395.7,34,863453.96,13.0,4
+2025-10-25,30139,100x Crystal,p4m,imps,170000,195196.6,25196.6,34,856684.43,12.91,5
 2025-10-25,30022,Buffing Card,LuBu+,Gnight,35000,40000.0,5000.0,4,20000.0,12.5,3
 2025-10-25,30156,Jackpot Coin,Stellar,Variety Shop,8750,9912.66,1162.66,18,20927.8,11.73,14
 2025-10-25,30156,Jackpot Coin,MatsBk,S>JC/GPS,8800,9912.66,1112.66,139,154659.11,11.22,14
@@ -90,7 +90,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25525,,Calamitas,chaos,299999,337124.77,37125.77,15,556886.51,11.01,8
 2025-10-25,25525,,Icerberck,stall,299999,337124.77,37125.77,1,37125.77,11.01,8
 2025-10-25,25525,,Signet,Cooked Tuna/ Fragment,299999,337124.77,37125.77,1,37125.77,11.01,8
-2025-10-25,30139,100x Crystal,8yominorr,weightless fbs ration,175000,195395.7,20395.7,1,20395.7,10.44,4
+2025-10-25,30139,100x Crystal,8yominorr,weightless fbs ration,175000,195196.6,20196.6,1,20196.6,10.35,5
 2025-10-25,30156,Jackpot Coin,Paka01,JadeGemFrag GPS Repu Jackpot PPS,8999,9912.66,913.66,86,78574.37,9.22,14
 2025-10-25,30156,Jackpot Coin,kory,GPS/PPS/JACK/REP/SKAT/ALL POTION,8999,9912.66,913.66,47,42941.81,9.22,14
 2025-10-25,30156,Jackpot Coin,Despair,repu / / jackpot,8999,9912.66,913.66,33,30150.63,9.22,14
@@ -100,14 +100,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25417,Moonlight Heart,sstido,cruss stuff,90000,98461.54,8461.54,3,25384.62,8.59,4
 2025-10-25,30176,MvM Coin,Embracer,STUFFF,3000,3260.45,260.45,99,25784.74,7.99,4
 2025-10-25,30102,1000 Reputation Scroll,Saller,ty,7000,7605.73,605.73,88,53304.45,7.96,6
-2025-10-25,27017,Sorcerer's Wine,Puki,POTS POTS POTS,8800,9394.5,594.5,54,32103.09,6.33,5
+2025-10-25,27017,Sorcerer's Wine,Puki,POTS POTS POTS,8800,9456.24,656.24,54,35436.78,6.94,4
 2025-10-25,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION/TS/GRENADE,1999,2130.83,131.83,200,26366.64,6.19,3
 2025-10-25,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION/TS/GRENADE,1999,2130.83,131.83,200,26366.64,6.19,3
 2025-10-25,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION/TS/GRENADE,1999,2130.83,131.83,200,26366.64,6.19,3
 2025-10-25,27025,Radiation Lv1,Asterix,CHEAPEST RADIATION/TS/GRENADE,1999,2130.83,131.83,200,26366.64,6.19,3
-2025-10-25,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,8900,9394.5,494.5,150,74175.25,5.26,5
-2025-10-25,27017,Sorcerer's Wine,12361,Pots,8900,9394.5,494.5,50,24725.08,5.26,5
-2025-10-25,27017,Sorcerer's Wine,GordanRamsay,Cheapest Pots Ever !!!!!!!!!!!!!,9000,9394.5,394.5,82,32349.14,4.2,5
+2025-10-25,27017,Sorcerer's Wine,TotemCookings,Totem Cookings Made wLove n Weed,8900,9456.24,556.24,150,83435.5,5.88,4
+2025-10-25,27017,Sorcerer's Wine,12361,Pots,8900,9456.24,556.24,50,27811.83,5.88,4
 2025-10-25,30156,Jackpot Coin,ESNAIDER,SELL GPS/KAL/JACKPOT/PPS/MvM,9500,9912.66,412.66,151,62310.97,4.16,14
 2025-10-25,26346,Lantern,GeorgeFloyd,darkblue,3800,3924.12,124.12,200,24824.82,3.16,7
 2025-10-25,25508,Demonic Gem Fragment,ESNAIDER,SELL GPS/KAL/JACKPOT/PPS/MvM,120000,122333.33,2333.33,11,25666.67,1.91,3
