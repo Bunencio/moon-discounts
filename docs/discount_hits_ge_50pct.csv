@@ -15,7 +15,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,24,267409.15,7,1,Almao,DEMONIC GEM / KAL RUNESTONE
 99.99,27020,Gold Pirate Scroll,3,25443.88,10,6,xNerox,Bank cleaning
 99.99,27020,Gold Pirate Scroll,3,25443.88,10,7,Gastro,gps pps pet jackpot
-99.99,29323,Nimble Venturer,20,160003.17,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
+99.99,29323,Nimble Venturer,20,164288.29,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.99,30156,Jackpot Coin,1,9904.75,10,2,Gastro,gps pps pet jackpot
 99.98,25525,,50,267409.15,7,1,xNerox,Bank cleaning
 99.98,27019,Purple Pirate Scroll,1,4464.15,11,6,Gastro,gps pps pet jackpot
@@ -33,14 +33,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.08,22004,Shining Gem,2000,5895.85,7,10,vendedolmax,2000
 65.74,22000,FieryGem,1500,4378.03,12,1,WannaBE,Cheap!!!
 60.81,30121,Vial of Accuracy Reset,1800,4592.71,10,1,HyjoSeller,RESTOCK
-60.19,25081,Coal Ore,80,200.97,3,77,Lane,Elixir/Scrol/ore/
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
 57.33,30118,Vial of Strength Reset,2000,4687.5,4,1,Yennefer,S65GLOVE FIRE YELLOW MOON SUN CL
 57.33,30118,Vial of Strength Reset,2000,4687.5,4,1,cheapstuff3,cheap
 57.18,27029,Ship Penetrator Lv1,199,464.69,3,54,Suntukan,cheap last da sale
-56.55,25507,Expert Stone,550,1265.9,6,44,sellerforfree,cheap
+56.65,25507,Expert Stone,550,1268.64,5,44,sellerforfree,cheap
 56.45,30121,Vial of Accuracy Reset,2000,4592.71,10,1,Fortis,All cheap
 56.45,30121,Vial of Accuracy Reset,2000,4592.71,10,1,cheapstuff3,cheap
 56.45,30121,Vial of Accuracy Reset,2000,4592.71,10,1,DoaaPepa,D O N   P E P E
@@ -54,7 +53,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 53.24,22001,Furious Gem,1990,4255.92,10,68,STAII,Cheap pots
 53.01,22001,Furious Gem,2000,4255.92,10,11,Paradise,buy my garbage
 53.01,22001,Furious Gem,2000,4255.92,10,10,vendedolmax,2000
-53.0,25507,Expert Stone,595,1265.9,6,2,xLiliith,Some good things for you! <3
 51.01,30121,Vial of Accuracy Reset,2250,4592.71,10,7,hunterx,UGwind/repu/BPs/fb/lantern/ etc
 50.52,25415,Fallen Sensai's Sai,70,141.47,3,2,Kalista,flash bomb / detector/ radiation
 50.13,25522,,90,180.47,3,24,LunaMaya,S>Potion Flashbang PPS
