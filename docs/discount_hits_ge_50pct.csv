@@ -1,9 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22014,Demonic Gem of Colossus,30,1120018.0,3,3,Saudagar,HL champ eq and gemss here
+100.0,22014,Demonic Gem of Colossus,25,933352.5,4,1,zzzzz,garner
+100.0,22014,Demonic Gem of Colossus,30,933352.5,4,3,Saudagar,HL champ eq and gemss here
 100.0,22023,Green Jade,2,181153.92,4,1,AAAAA123,sell
-100.0,25451,Jade Gem Fragment,1,47366.7,7,10,CocoZap,Possession / Jade
-100.0,25451,Jade Gem Fragment,1,47366.7,7,9,monchito1,00.00
-100.0,25451,Jade Gem Fragment,1,47366.7,7,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25451,Jade Gem Fragment,1,47068.08,6,10,CocoZap,Possession / Jade
+100.0,25451,Jade Gem Fragment,1,47068.08,6,9,monchito1,00.00
+100.0,25451,Jade Gem Fragment,1,47068.08,6,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25452,Rock Gem Fragment,2,57015.0,8,1,Coffi,FRAGMENTS
 100.0,25452,Rock Gem Fragment,1,57015.0,8,2,Goliat,Fragment  Store
 100.0,25452,Rock Gem Fragment,2,57015.0,8,18,monchito1,00.00
@@ -13,13 +14,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,30,337124.77,8,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,35,337124.77,8,2,iTonik,Selling
 99.99,25525,,35,337124.77,8,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,24085.8,10,7,Gastro,gps pps pet jackpot
-99.99,27020,Gold Pirate Scroll,3,24085.8,10,58,iTonik,Selling
+99.99,27020,Gold Pirate Scroll,3,24056.82,10,7,Gastro,gps pps pet jackpot
+99.99,27020,Gold Pirate Scroll,3,24056.82,10,58,iTonik,Selling
 99.99,28327,Great Aqua Cap,10,75007.75,4,1,AAA123,12313123131313
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
 99.99,29323,Nimble Venturer,20,164288.43,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9881.93,14,2,Gastro,gps pps pet jackpot
+99.99,30156,Jackpot Coin,1,9883.2,14,2,Gastro,gps pps pet jackpot
 99.98,27019,Purple Pirate Scroll,1,4514.55,12,6,Gastro,gps pps pet jackpot
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
@@ -37,7 +38,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.46,25507,Expert Stone,500,1406.94,6,1,Stellar,Variety Shop
 60.91,25507,Expert Stone,550,1406.94,6,44,sellerforfree,cheap
 59.44,30121,Vial of Accuracy Reset,1800,4438.4,9,1,HyjoSeller,RESTOCK
-59.03,22001,Furious Gem,2000,4881.14,8,11,vendedolmax,2000
+59.11,22001,Furious Gem,2000,4890.91,8,10,vendedolmax,2000
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
@@ -55,3 +56,4 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 50.88,25430,Enigma Power,2450,4988.1,4,1,WannaBE,Cheap!!!
 50.84,28450,Fire Sealed Tooth of Evanescence,24500,49833.33,3,1,bowstalls,Fire sealed items 2Pages
 50.39,25522,,90,181.41,3,24,LunaMaya,S>Potion Flashbang PPS
+50.0,28136,Crown of Decendant,14,28.0,5,1,voyo,omfg
