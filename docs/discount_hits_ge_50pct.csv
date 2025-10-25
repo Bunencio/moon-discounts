@@ -17,7 +17,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,25443.88,10,6,xNerox,Bank cleaning
 99.99,27020,Gold Pirate Scroll,3,25443.88,10,7,Gastro,gps pps pet jackpot
 99.99,29323,Nimble Venturer,20,160003.17,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9877.46,8,2,Gastro,gps pps pet jackpot
+99.99,30156,Jackpot Coin,1,9871.96,9,2,Gastro,gps pps pet jackpot
 99.98,25452,Rock Gem Fragment,7,28086.64,12,35,ESNAIDER,SELL GEM FRAG FOR IMPS
 99.98,27019,Purple Pirate Scroll,1,4459.9,12,6,Gastro,gps pps pet jackpot
 99.98,28327,Great Aqua Cap,4,16675.0,3,1,AAA123,1313213131
@@ -33,7 +33,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.08,22004,Shining Gem,2000,5895.85,7,10,vendedolmax,2000
 65.74,22000,FieryGem,1500,4378.03,12,1,WannaBE,Cheap!!!
 60.81,30121,Vial of Accuracy Reset,1800,4592.71,10,1,HyjoSeller,RESTOCK
-59.21,25081,Coal Ore,80,196.11,3,77,Lane,Elixir/Scrol/ore/
+59.69,25081,Coal Ore,80,198.46,3,77,Lane,Elixir/Scrol/ore/
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
@@ -52,12 +52,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.32,22000,FieryGem,2000,4378.03,12,6,Paradise,buy my garbage
 54.32,22000,FieryGem,2000,4378.03,12,9,BuyingSta4ll7,ROCK FRAG | GOLD PIRATE SCROLLS
 53.29,22001,Furious Gem,1990,4260.58,9,68,STAII,Cheap pots
+53.2,25375,Lightning Heart,90,192.31,4,99,kuwara,get all
 53.06,22001,Furious Gem,2000,4260.58,9,11,Paradise,buy my garbage
 53.06,22001,Furious Gem,2000,4260.58,9,10,vendedolmax,2000
-52.73,25375,Lightning Heart,90,190.4,5,99,kuwara,get all
 51.69,25507,Expert Stone,595,1231.61,6,2,xLiliith,Some good things for you! <3
 51.01,30121,Vial of Accuracy Reset,2250,4592.71,10,7,hunterx,UGwind/repu/BPs/fb/lantern/ etc
-50.39,25522,,90,181.41,3,24,LunaMaya,S>Potion Flashbang PPS
+50.52,25415,Fallen Sensai's Sai,70,141.47,3,2,Kalista,flash bomb / detector/ radiation
+50.13,25522,,90,180.47,3,24,LunaMaya,S>Potion Flashbang PPS
 50.06,30171,Ticket to Demonic World,250,500.62,6,14,Shop1,darkblue
 50.0,28462,Ice Sealed Staff of Enigma,25000,50000.0,3,1,Chupeteira,CHEAP STALL
 50.0,28462,Ice Sealed Staff of Enigma,25000,50000.0,3,1,Chupeteira,CHEAP STALL
