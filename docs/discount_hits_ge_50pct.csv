@@ -8,23 +8,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,56768.62,10,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,338334.83,7,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28441,Roar of Evanescence,5,533334.67,3,1,Okno,Unseal champ/Spr2Gen+
-100.0,29312,Ring of Might,5,296668.33,3,1,Aries,HL pet and ring here
-100.0,29312,Ring of Might,5,296668.33,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
 100.0,29324,Soulbinding Necklace,6,433335.33,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
 99.99,25525,,30,338334.83,7,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,35,338334.83,7,2,iTonik,Selling
 99.99,25525,,35,338334.83,7,1,xkom,CHAOS JEWEL FRAG
 99.99,27020,Gold Pirate Scroll,3,23821.82,8,7,Gastro,gps pps pet jackpot
 99.99,27020,Gold Pirate Scroll,3,23821.82,8,58,iTonik,Selling
-99.99,28327,Great Aqua Cap,10,75007.75,4,1,AAA123,12313123131313
+99.99,28327,Great Aqua Cap,4,75006.25,4,1,AAA123,1313213131
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APPAREL SHOP
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APPAREL SHOP
 99.99,29323,Nimble Venturer,20,166252.38,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,10166.58,13,2,Gastro,gps pps pet jackpot
-99.98,27019,Purple Pirate Scroll,1,4493.42,12,6,Gastro,gps pps pet jackpot
+99.99,30156,Jackpot Coin,1,10258.01,12,2,Gastro,gps pps pet jackpot
+99.98,27019,Purple Pirate Scroll,1,4494.99,13,6,Gastro,gps pps pet jackpot
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.97,28327,Great Aqua Cap,21,75007.75,4,1,Guardian,S> SM/VOY CAPS
+99.97,28327,Great Aqua Cap,21,75006.25,4,1,Guardian,S> SM/VOY CAPS
 99.95,28326,Divine Grace Cap,60,114176.67,3,1,Gastro,gps pps pet jackpot
 82.07,25501,Brown Colorant,300,1672.73,3,1,xVENDORx,RUSH
 81.65,25493,Orange Colorant,300,1635.29,3,1,xVENDORx,RUSH
@@ -33,20 +31,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 75.0,28466,Ice Sealed Judgment of Enigma,30000,119999.67,3,1,xBinibirocha,PET STR LV 20 // SEALED 60 RUSH!
 74.31,27029,Ship Penetrator Lv1,100,389.31,4,37,Lja,cheap
 72.22,29310,Ring of Hawk,5,18.0,3,1,voyo,omfg
-71.3,22004,Shining Gem,2000,6969.33,5,10,vendedolmax,2000
-68.68,22000,FieryGem,1500,4788.81,10,1,WannaBE,Cheap!!!
+71.96,22004,Shining Gem,2000,7133.44,5,10,vendedolmax,2000
+68.92,22000,FieryGem,1500,4826.26,10,1,WannaBE,Cheap!!!
 64.46,25507,Expert Stone,500,1406.94,6,1,Stellar,Variety Shop
 60.91,25507,Expert Stone,550,1406.94,6,44,sellerforfree,cheap
 60.87,25491,Decolorant,200,511.11,3,1,pisslow,Colorent
 60.81,30121,Vial of Accuracy Reset,1800,4592.71,10,1,HyjoSeller,RESTOCK
-59.11,22001,Furious Gem,2000,4890.91,8,10,vendedolmax,2000
+60.09,22001,Furious Gem,2000,5010.83,7,10,vendedolmax,2000
+58.58,22000,FieryGem,1999,4826.26,10,1,cheapstuff3,cheap
+58.56,22000,FieryGem,2000,4826.26,10,27,Fortis,All cheap
+58.56,22000,FieryGem,2000,4826.26,10,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.45,25277,Whisperers Necklace,75,180.48,3,18,Horadric,CHEAP CRAFT MATHS!!!!!!!!
-58.26,22000,FieryGem,1999,4788.81,10,1,cheapstuff3,cheap
-58.24,22000,FieryGem,2000,4788.81,10,27,Fortis,All cheap
-58.24,22000,FieryGem,2000,4788.81,10,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
 58.17,25487,Black Dye,200,478.12,3,2,pisslow,Colorent
 57.71,25507,Expert Stone,595,1406.94,6,2,xLiliith,Some good things for you! <3
 57.33,30118,Vial of Strength Reset,2000,4687.5,4,1,cheapstuff3,cheap
@@ -58,10 +56,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.45,30121,Vial of Accuracy Reset,2000,4592.71,10,1,DoaaPepa,D O N   P E P E
 56.17,25423,Evanescence Rock,300,684.41,6,4,Stellar,Variety Shop
 56.17,25423,Evanescence Rock,300,684.41,6,77,hunterx,UGwind/repu/BPs/fb/lantern/ etc
+55.79,28136,Crown of Decendant,14,31.67,3,1,voyo,omfg
 55.18,25440,Evanescence Stone,250,557.73,5,18,HyjoSeller,RESTOCK
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
 52.5,26501,Tiny EXP Berry,1690,3558.18,3,6,FT2,Cheap items
 52.47,26564,Meditation Potion,20,42.08,4,28,Nikoz,Seals/Jackpot/SP/Scroll/Stone
 51.01,30121,Vial of Accuracy Reset,2250,4592.71,10,7,hunterx,UGwind/repu/BPs/fb/lantern/ etc
 50.39,25522,,90,181.41,3,24,LunaMaya,S>Potion Flashbang PPS
-50.0,28136,Crown of Decendant,14,28.0,5,1,voyo,omfg
+50.0,28462,Ice Sealed Staff of Enigma,30000,60000.0,3,1,dsadsa,weightles ration dw tix
