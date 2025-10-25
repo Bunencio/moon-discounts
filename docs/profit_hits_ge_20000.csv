@@ -1,10 +1,16 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
+2025-10-25,22030,Earth Rock,AAAAA123,sell,19,1200009.5,1199990.5,1,1199990.5,100.0,4
+2025-10-25,22030,Earth Rock,ShowerBro,afk,20,1200009.5,1199989.5,1,1199989.5,100.0,4
 2025-10-25,25452,Rock Gem Fragment,monchito1,00.00,2,56768.62,56766.62,18,1021799.22,100.0,10
 2025-10-25,25525,,stallerx,Lumber/ str pet/ boi/ frags/ pur,3,338334.83,338331.83,2,676663.67,100.0,7
 2025-10-25,28441,Roar of Evanescence,Okno,Unseal champ/Spr2Gen+,5,533334.67,533329.67,1,533329.67,100.0,3
 2025-10-25,25451,Jade Gem Fragment,CocoZap,Possession / Jade,1,47183.04,47182.04,10,471820.39,100.0,7
+2025-10-25,28136,Crown of Decendant,voyo,omfg,14,433349.17,433335.17,1,433335.17,100.0,6
 2025-10-25,29324,Soulbinding Necklace,WhynotSS,spr PET NECK AND BOOTS CLERIC,6,433335.33,433329.33,1,433329.33,100.0,3
+2025-10-25,28136,Crown of Decendant,Aries,HL pet and ring here,21,433349.17,433328.17,1,433328.17,100.0,6
 2025-10-25,25451,Jade Gem Fragment,monchito1,00.00,1,47183.04,47182.04,9,424638.35,100.0,7
+2025-10-25,29312,Ring of Might,Aries,HL pet and ring here,5,296668.33,296663.33,1,296663.33,100.0,3
+2025-10-25,29312,Ring of Might,WhynotSS,spr PET NECK AND BOOTS CLERIC,5,296668.33,296663.33,1,296663.33,100.0,3
 2025-10-25,25452,Rock Gem Fragment,Goliat,Fragment  Store,1,56768.62,56767.62,2,113535.25,100.0,10
 2025-10-25,25452,Rock Gem Fragment,xxD,UG SOUL / ROCK GEM / GREEN FRAG,1,56768.62,56767.62,2,113535.25,100.0,10
 2025-10-25,25452,Rock Gem Fragment,Coffi,FRAGMENTS,2,56768.62,56766.62,1,56766.62,100.0,10
@@ -12,6 +18,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,27020,Gold Pirate Scroll,iTonik,Selling,3,23821.82,23818.82,58,1381491.73,99.99,8
 2025-10-25,25525,,Xiomarvic,Jewel - Universal purse frag,30,338334.83,338304.83,2,676609.67,99.99,7
 2025-10-25,25525,,iTonik,Selling,35,338334.83,338299.83,2,676599.67,99.99,7
+2025-10-25,28136,Crown of Decendant,smoI,Real 50% discount.,60,433349.17,433289.17,1,433289.17,99.99,6
 2025-10-25,25525,,xkom,CHAOS JEWEL FRAG,35,338334.83,338299.83,1,338299.83,99.99,7
 2025-10-25,27020,Gold Pirate Scroll,Gastro,gps pps pet jackpot,3,23821.82,23818.82,7,166731.76,99.99,8
 2025-10-25,29323,Nimble Venturer,DemiMerchant,99c Item mall Stuff Cheap 99c,20,166252.38,166232.38,1,166232.38,99.99,6
@@ -57,14 +64,16 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25507,Expert Stone,SeventhHeaven,Scrolls/Lantern etc,1000,1406.94,406.94,73,29706.64,28.92,6
 2025-10-25,25416,Cloud Heart,Brum,Sell cap moonlight freeeeeeeeeee,16000,22206.34,6206.34,7,43444.41,27.95,4
 2025-10-25,30171,Ticket to Demonic World,dsadsa,weightles ration dw tix,350,483.45,133.45,190,25356.39,27.6,5
-2025-10-25,30102,1000 Reputation Scroll,Despair,repu / / jackpot,5555,7610.0,2055.0,75,154124.69,27.0,6
+2025-10-25,30102,1000 Reputation Scroll,Despair,repu / / jackpot,5555,7649.18,2094.18,66,138215.89,27.38,6
 2025-10-25,25420,Sunlight Heart,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD,15000,20190.26,5190.26,12,62283.14,25.71,6
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,26589,Potion of Bull,cheapstuffsell,cheap,1750,2319.61,569.61,47,26771.84,24.56,17
+2025-10-25,30102,1000 Reputation Scroll,hunterx,UGwind/repu/BPs/fb/lantern/ etc,5899,7649.18,1750.18,74,129513.33,22.88,6
 2025-10-25,25450,Chest of Demonic World,sellerforfree,cheap,39000,50454.55,11454.55,5,57272.73,22.7,3
-2025-10-25,30102,1000 Reputation Scroll,hunterx,UGwind/repu/BPs/fb/lantern/ etc,5899,7610.0,1711.0,74,126613.69,22.48,6
 2025-10-25,28454,Ice Sealed Blade of Enigma,OsToWBaby,50-60 SEALED | LIFE SKILL 15 EXP,400000,508333.0,108333.0,1,108333.0,21.31,5
+2025-10-25,26575,Guardian's Brew,BPCRAFT,WARLORD / GUARDIAN,500,628.33,128.33,200,25666.0,20.42,6
+2025-10-25,26575,Guardian's Brew,BPCRAFT,WARLORD / GUARDIAN,500,628.33,128.33,185,23741.05,20.42,6
 2025-10-25,22001,Furious Gem,Reaper,NORMAL GEMS CHEAP GOLTEB,3999,5010.83,1011.83,79,79934.93,20.19,7
 2025-10-25,26591,Potion of Lion,cheapstuffsell,cheap,1999,2499.1,500.1,78,39008.14,20.01,11
 2025-10-25,26588,Potion of Eagle,cheapstuffsell,cheap,1999,2498.77,499.77,105,52475.66,20.0,8
@@ -88,7 +97,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25525,,Icerberck,stall,299999,338334.83,38335.83,1,38335.83,11.33,7
 2025-10-25,25525,,Signet,Cooked Tuna/ Fragment,299999,338334.83,38335.83,1,38335.83,11.33,7
 2025-10-25,25417,Moonlight Heart,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD,85000,95384.62,10384.62,4,41538.46,10.89,4
-2025-10-25,30102,1000 Reputation Scroll,Saller,ty,7000,7610.0,610.0,88,53679.63,8.02,6
+2025-10-25,26572,Inferno Potion,Space,DEMONIC POTION | INFERNO POTION,9500,10475.26,975.26,74,72168.89,9.31,3
+2025-10-25,26573,Demonic Potion,Space,DEMONIC POTION | INFERNO POTION,17000,18727.14,1727.14,27,46632.73,9.22,4
+2025-10-25,30102,1000 Reputation Scroll,Saller,ty,7000,7649.18,649.18,88,57127.85,8.49,6
 2025-10-25,30176,MvM Coin,Embracer,STUFFF,3000,3260.45,260.45,99,25784.74,7.99,4
 2025-10-25,27017,Sorcerer's Wine,GordanRamsay,Super Cheap Sorcerer Wine,8800,9521.2,721.2,82,59138.54,7.57,4
 2025-10-25,27017,Sorcerer's Wine,Puki,CHEAP POTS,8800,9521.2,721.2,54,38944.89,7.57,4
