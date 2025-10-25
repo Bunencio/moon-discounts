@@ -1,5 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,22014,Demonic Gem of Colossus,30,1383348.17,4,3,Saudagar,HL champ eq and gemss here
+100.0,22014,Demonic Gem of Colossus,30,1120018.0,3,3,Saudagar,HL champ eq and gemss here
 100.0,22023,Green Jade,2,181153.92,4,1,AAAAA123,sell
 100.0,25451,Jade Gem Fragment,1,47068.08,6,10,CocoZap,Possession / Jade
 100.0,25451,Jade Gem Fragment,1,47068.08,6,9,monchito1,00.00
@@ -19,8 +19,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,28136,Crown of Decendant,21,406260.0,8,1,Aries,HL pet and ring here
 99.99,28136,Crown of Decendant,30,406260.0,8,1,AAA123,12313123131313
 99.99,28327,Great Aqua Cap,10,75007.75,4,1,AAA123,12313123131313
-99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APP SHOP CHEAP
-99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APP SHOP CHEAP
+99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APPAREL SHOP
+99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APPAREL SHOP
 99.99,29323,Nimble Venturer,20,168752.38,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
@@ -49,6 +49,8 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.42,22000,FieryGem,2000,4697.31,8,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
 52.5,26501,Tiny EXP Berry,1690,3558.18,3,6,FT2,Cheap items
+52.47,30121,Vial of Accuracy Reset,2000,4208.1,8,1,Fortis,All cheap
+52.47,30121,Vial of Accuracy Reset,2000,4208.1,8,1,DoaaPepa,D O N   P E P E
 52.09,26589,Potion of Bull,1000,2087.34,15,9,PWHunter,that's all
 51.31,26590,Potion of Soul,1950,4004.81,8,17,hunterx,UGwind/repu/BPs/fb/lantern/ etc
 50.84,28450,Fire Sealed Tooth of Evanescence,24500,49833.33,3,1,bowstalls,Fire sealed items 2Pages
