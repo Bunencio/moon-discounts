@@ -7,10 +7,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,28136,Crown of Decendant,voyo,omfg,14,520014.8,520000.8,1,520000.8,100.0,5
 2025-10-25,25451,Jade Gem Fragment,CocoZap,Possession / Jade,1,47183.04,47182.04,10,471820.39,100.0,7
 2025-10-25,29310,Ring of Hawk,voyo,omfg,5,442857.86,442852.86,1,442852.86,100.0,3
-2025-10-25,29324,Soulbinding Necklace,WhynotSS,spr PET NECK AND BOOTS CLERIC,6,433335.33,433329.33,1,433329.33,100.0,3
 2025-10-25,25451,Jade Gem Fragment,monchito1,00.00,1,47183.04,47182.04,9,424638.35,100.0,7
-2025-10-25,29312,Ring of Might,Aries,HL pet and ring here,5,296668.33,296663.33,1,296663.33,100.0,3
-2025-10-25,29312,Ring of Might,WhynotSS,spr PET NECK AND BOOTS CLERIC,5,296668.33,296663.33,1,296663.33,100.0,3
+2025-10-25,29312,Ring of Might,WhynotSS,spr PET NECK AND BOOTS CLERIC,5,356001.0,355996.0,1,355996.0,100.0,3
 2025-10-25,25452,Rock Gem Fragment,Goliat,Fragment  Store,1,56768.62,56767.62,2,113535.25,100.0,10
 2025-10-25,25452,Rock Gem Fragment,xxD,UG SOUL / ROCK GEM / GREEN FRAG,1,56768.62,56767.62,2,113535.25,100.0,10
 2025-10-25,25452,Rock Gem Fragment,Coffi,FRAGMENTS,2,56768.62,56766.62,1,56766.62,100.0,10
@@ -27,7 +25,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,30156,Jackpot Coin,Gastro,gps pps pet jackpot,1,10285.79,10284.79,2,20569.58,99.99,12
 2025-10-25,28135,Crown of Poseidon,DemiMerchant,99c Item mall Stuff Cheap 99c,20,112509.5,112489.5,1,112489.5,99.98,3
 2025-10-25,28135,Crown of Poseidon,DemiMerchant,99c Item mall Stuff Cheap 99c,20,112509.5,112489.5,1,112489.5,99.98,3
-2025-10-25,27019,Purple Pirate Scroll,Gastro,gps pps pet jackpot,1,4503.72,4502.72,6,27016.32,99.98,13
+2025-10-25,27019,Purple Pirate Scroll,Gastro,gps pps pet jackpot,1,4502.31,4501.31,6,27007.83,99.98,14
 2025-10-25,28327,Great Aqua Cap,Guardian,S> SM/VOY CAPS,21,75006.25,74985.25,1,74985.25,99.97,4
 2025-10-25,28326,Divine Grace Cap,Gastro,gps pps pet jackpot,60,114176.67,114116.67,1,114116.67,99.95,3
 2025-10-25,28466,Ice Sealed Judgment of Enigma,BjornIronside,@@@@,29999,119999.67,90000.67,1,90000.67,75.0,3
@@ -44,8 +42,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25476,Hairstyling Voucher,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD,8000,15075.0,7075.0,4,28300.0,46.93,3
 2025-10-25,25420,Sunlight Heart,Brum,Sell cap moonlight freeeeeeeeeee,11000,20701.94,9701.94,8,77615.49,46.86,6
 2025-10-25,26568,Skating Potion,Keepmo,Ezzzzzzzzzzzzzzzzzzzz,22250,40329.82,18079.82,5,90399.11,44.83,6
-2025-10-25,27006,Bunny Potion,dwtix,PharaLantern/ElvenBunnyPot,1100,1988.49,888.49,161,143047.44,44.68,5
-2025-10-25,27006,Bunny Potion,galina1,dw TIX/ bunny POT,1100,1988.49,888.49,27,23989.32,44.68,5
+2025-10-25,27006,Bunny Potion,dwtix,PharaLantern/ElvenBunnyPot,1100,1963.17,863.17,161,138970.08,43.97,6
+2025-10-25,27006,Bunny Potion,galina1,dw TIX/ bunny POT,1100,1963.17,863.17,27,23305.54,43.97,6
 2025-10-25,25060,Cocobolo Log,ebashuloxov,COCOBOLO,10000,17487.68,7487.68,43,321970.44,42.82,3
 2025-10-25,22004,Shining Gem,DoaaPepa,D O N   P E P E,4000,6969.33,2969.33,7,20785.33,42.61,5
 2025-10-25,28468,Ice Sealed Mantle of Enigma,OsToWBaby,50-60 SEALED | LIFE SKILL 15 EXP,84999,147999.8,63000.8,1,63000.8,42.57,5
@@ -59,13 +57,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25534,,*DEATH*~#14,FRAGMENTO,2000,2949.71,949.71,47,44636.52,32.2,8
 2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,508333.0,158334.0,1,158334.0,31.15,5
 2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,508333.0,158334.0,1,158334.0,31.15,5
-2025-10-25,30171,Ticket to Demonic World,shooter,tix dw ration warlord skatinglow,340,483.45,143.45,185,26539.12,29.67,5
+2025-10-25,30171,Ticket to Demonic World,shooter,tix dw ration warlord skatinglow,340,482.25,142.25,185,26315.67,29.5,6
 2025-10-25,25507,Expert Stone,SeventhHeaven,Scrolls/Lantern etc,1000,1409.2,409.2,73,29871.75,29.04,5
 2025-10-25,22004,Shining Gem,Reaper,NORMAL GEMS CHEAP GOLTEB,5000,6969.33,1969.33,70,137853.33,28.26,5
 2025-10-25,22004,Shining Gem,Piru,>> Good things to Buy <<,5000,6969.33,1969.33,12,23632.0,28.26,5
 2025-10-25,25416,Cloud Heart,Brum,Sell cap moonlight freeeeeeeeeee,16000,22206.34,6206.34,7,43444.41,27.95,4
-2025-10-25,30171,Ticket to Demonic World,dsadsa,weightles ration dw tix,350,483.45,133.45,190,25356.39,27.6,5
 2025-10-25,25420,Sunlight Heart,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD,15000,20701.94,5701.94,12,68423.23,27.54,6
+2025-10-25,30171,Ticket to Demonic World,dsadsa,weightles ration dw tix,350,482.25,132.25,190,25126.9,27.42,6
 2025-10-25,30102,1000 Reputation Scroll,Despair,repu / / jackpot,5555,7649.18,2094.18,66,138215.89,27.38,6
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
@@ -105,6 +103,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,27017,Sorcerer's Wine,Puki,CHEAP POTS,8800,9521.2,721.2,54,38944.89,7.57,4
 2025-10-25,25525,,voyafarm,23112,320000,343099.62,23099.62,1,23099.62,6.73,7
 2025-10-25,27017,Sorcerer's Wine,12361,Pots,8900,9521.2,621.2,50,31060.09,6.52,4
-2025-10-25,27019,Purple Pirate Scroll,Bokol,Dolphin | Green pirates | Purple,4300,4503.72,203.72,99,20168.29,4.52,13
+2025-10-25,27019,Purple Pirate Scroll,Bokol,Dolphin | Green pirates | Purple,4300,4502.31,202.31,99,20028.2,4.49,14
 2025-10-25,26346,Lantern,GeorgeFloyd,darkblue,3800,3942.46,142.46,200,28491.06,3.61,10
 2025-10-25,25508,Demonic Gem Fragment,ESNAIDER,SELL GPS/KAL/JACKPOT/PPS/MvM,120000,122333.33,2333.33,11,25666.67,1.91,3

@@ -12,9 +12,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28136,Crown of Decendant,14,520014.8,5,1,voyo,omfg
 100.0,28441,Roar of Evanescence,5,533334.67,3,1,Okno,Unseal champ/Spr2Gen+
 100.0,29310,Ring of Hawk,5,442857.86,3,1,voyo,omfg
-100.0,29312,Ring of Might,5,296668.33,3,1,Aries,HL pet and ring here
-100.0,29312,Ring of Might,5,296668.33,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
-100.0,29324,Soulbinding Necklace,6,433335.33,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
+100.0,29312,Ring of Might,5,356001.0,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
 99.99,25525,,30,343099.62,7,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,35,343099.62,7,2,iTonik,Selling
 99.99,27020,Gold Pirate Scroll,3,23821.82,8,7,Gastro,gps pps pet jackpot
@@ -25,7 +23,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APPAREL SHOP
 99.99,29323,Nimble Venturer,20,166252.38,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.99,30156,Jackpot Coin,1,10285.79,12,2,Gastro,gps pps pet jackpot
-99.98,27019,Purple Pirate Scroll,1,4503.72,13,6,Gastro,gps pps pet jackpot
+99.98,27019,Purple Pirate Scroll,1,4502.31,14,6,Gastro,gps pps pet jackpot
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.97,28327,Great Aqua Cap,21,75006.25,4,1,Guardian,S> SM/VOY CAPS
@@ -41,10 +39,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.87,25491,Decolorant,200,511.11,3,1,pisslow,Colorent
 60.81,30121,Vial of Accuracy Reset,1800,4592.71,10,1,HyjoSeller,RESTOCK
 59.11,22001,Furious Gem,2000,4890.91,8,10,vendedolmax,2000
-58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
-58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
-58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
-58.45,25277,Whisperers Necklace,75,180.48,3,18,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.26,22000,FieryGem,1999,4788.81,10,1,cheapstuff3,cheap
 58.24,22000,FieryGem,2000,4788.81,10,27,Fortis,All cheap
 58.24,22000,FieryGem,2000,4788.81,10,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
