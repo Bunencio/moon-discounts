@@ -1,7 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
+100.0,22014,Demonic Gem of Colossus,30,1383348.17,4,3,Saudagar,HL champ eq and gemss here
 100.0,22023,Green Jade,2,181153.92,4,1,AAAAA123,sell
-100.0,22030,Earth Rock,20,1200009.5,4,1,ShowerBro,afk
-100.0,22030,Earth Rock,19,1200009.5,4,1,AAAAA123,sell
 100.0,25451,Jade Gem Fragment,1,50668.59,9,10,CocoZap,Possession / Jade
 100.0,25451,Jade Gem Fragment,1,50668.59,9,9,monchito1,00.00
 100.0,25451,Jade Gem Fragment,1,50668.59,9,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
@@ -9,8 +8,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,2,54927.32,8,18,monchito1,00.00
 100.0,25452,Rock Gem Fragment,1,54927.32,8,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,263573.82,5,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
-100.0,28136,Crown of Decendant,7,350005.25,4,1,Madarax**,COD COD COD COD!!!!!!!!!!!!!!
-100.0,28136,Crown of Decendant,14,350005.25,4,1,voyo,omfg
+100.0,28136,Crown of Decendant,14,466671.33,3,1,voyo,omfg
 99.99,25452,Rock Gem Fragment,8,54927.32,8,3,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 99.99,25525,,35,263573.82,5,2,iTonik,Selling
 99.99,25525,,35,263573.82,5,2,Xiomarvic,Free Itms
@@ -20,7 +18,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,29305,Ring of Destruction,15,126253.75,4,1,Skadi#79,APP SHOP CHEAP
 99.99,29305,Ring of Destruction,15,126253.75,4,1,Skadi#79,APP SHOP CHEAP
 99.99,29323,Nimble Venturer,20,168574.14,4,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9925.16,13,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+99.99,30156,Jackpot Coin,1,9830.32,12,16,NALDOCANAL,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 84.96,22004,Shining Gem,1000,6649.48,4,17,011,cleaning
 79.7,22001,Furious Gem,999,4920.05,9,1,Meguminn,EXPLOOOOSIOOOONNN!!e
 79.68,22001,Furious Gem,1000,4920.05,9,1,011,cleaning
@@ -33,11 +31,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,BabyBank,Cheap
 67.76,22000,FieryGem,1500,4652.1,8,4,cheapstuffsell,cheap
 64.5,28326,Divine Grace Cap,49999,140833.17,5,1,Reaper,NORMAL GEMS CHEAP GOLTEB
-63.49,25440,Evanescence Stone,200,547.84,5,19,HyjoSeller,LOOK OVER HERE
 63.25,22003,Glowing Gem,1000,2720.96,6,1,011,cleaning
 59.35,22001,Furious Gem,2000,4920.05,9,3,Buffita,garner
 57.03,22000,FieryGem,1999,4652.1,8,11,tiendaonline,offer offer offer
 57.01,22000,FieryGem,2000,4652.1,8,33,Fortis,All cheap
 57.01,22000,FieryGem,2000,4652.1,8,9,BuyingSta4ll7,GPS | JACK | JADE | POTS +++++++
-53.51,25375,Lightning Heart,90,193.59,5,99,kuwara,get all
+53.6,25375,Lightning Heart,90,193.95,4,99,kuwara,get all
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
+51.36,26590,Potion of Soul,1950,4009.08,8,17,hunterx,UGwind/repu/BPs/fb/lantern/ etc
+50.39,25522,,90,181.41,3,24,LunaMaya,S>Potion Flashbang PPS
+50.3,25507,Expert Stone,550,1106.64,6,44,sellerforfree,cheap
+50.24,26590,Potion of Soul,1995,4009.08,8,2,Meguminn,EXPLOOOOSIOOOONNN!!e
+50.14,26590,Potion of Soul,1999,4009.08,8,1,kory,GPS/PPS/JACK/REP/ALL POTION@CHEA
+50.11,26590,Potion of Soul,2000,4009.08,8,7,Fortis,All cheap
+50.11,26590,Potion of Soul,2000,4009.08,8,2,BuyingSta4ll7,GPS | JACK | JADE | POTS +++++++
