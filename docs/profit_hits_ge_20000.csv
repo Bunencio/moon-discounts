@@ -3,7 +3,10 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25452,Rock Gem Fragment,monchito1,00.00,2,57559.35,57557.35,18,1036032.35,100.0,8
 2025-10-25,25525,,stallerx,Lumber/ str pet/ boi/ frags/ pur,3,263335.51,263332.51,2,526665.02,100.0,7
 2025-10-25,25451,Jade Gem Fragment,CocoZap,Possession / Jade,1,47068.08,47067.08,10,470670.82,100.0,6
+2025-10-25,29324,Soulbinding Necklace,WhynotSS,spr PET NECK AND BOOTS CLERIC,6,433335.33,433329.33,1,433329.33,100.0,3
 2025-10-25,25451,Jade Gem Fragment,monchito1,00.00,1,47068.08,47067.08,9,423603.73,100.0,6
+2025-10-25,28136,Crown of Decendant,voyo,omfg,14,406260.0,406246.0,1,406246.0,100.0,8
+2025-10-25,28136,Crown of Decendant,AAA123,12313123131313,15,406260.0,406245.0,1,406245.0,100.0,8
 2025-10-25,22023,Green Jade,AAAAA123,sell,2,181153.92,181151.92,1,181151.92,100.0,4
 2025-10-25,25452,Rock Gem Fragment,Goliat,Fragment  Store,1,57559.35,57558.35,2,115116.71,100.0,8
 2025-10-25,25452,Rock Gem Fragment,xxD,UG SOUL / ROCK GEM / GREEN FRAG,1,57559.35,57558.35,2,115116.71,100.0,8
@@ -12,6 +15,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,27020,Gold Pirate Scroll,iTonik,Selling,3,24070.91,24067.91,58,1395938.97,99.99,11
 2025-10-25,25525,,Xiomarvic,Jewel - Universal purse frag,30,263335.51,263305.51,2,526611.02,99.99,7
 2025-10-25,25525,,iTonik,Selling,35,263335.51,263300.51,2,526601.02,99.99,7
+2025-10-25,28136,Crown of Decendant,Aries,HL pet and ring here,21,406260.0,406239.0,1,406239.0,99.99,8
+2025-10-25,28136,Crown of Decendant,AAA123,12313123131313,30,406260.0,406230.0,1,406230.0,99.99,8
 2025-10-25,25525,,xkom,CHAOS JEWEL FRAG,35,263335.51,263300.51,1,263300.51,99.99,7
 2025-10-25,29323,Nimble Venturer,DemiMerchant,99c Item mall Stuff Cheap 99c,20,168752.38,168732.38,1,168732.38,99.99,5
 2025-10-25,29305,Ring of Destruction,Skadi#79,APPAREL SHOP,15,127503.75,127488.75,1,127488.75,99.99,3
@@ -27,8 +32,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,28326,Divine Grace Cap,Reaper,NORMAL GEMS CHEAP GOLTEB,49999,140833.17,90834.17,1,90834.17,64.5,5
 2025-10-25,25507,Expert Stone,sellerforfree,cheap,550,1406.94,856.94,44,37705.37,60.91,6
 2025-10-25,22001,Furious Gem,vendedolmax,2000,2000,4873.96,2873.96,11,31613.52,58.97,7
-2025-10-25,22000,FieryGem,Fortis,All cheap,2000,4697.31,2697.31,33,89011.15,57.42,8
-2025-10-25,22000,FieryGem,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++,2000,4697.31,2697.31,9,24275.77,57.42,8
+2025-10-25,22000,FieryGem,Fortis,All cheap,2000,4746.5,2746.5,27,74155.46,57.86,8
+2025-10-25,22000,FieryGem,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++,2000,4746.5,2746.5,9,24718.49,57.86,8
 2025-10-25,26590,Potion of Soul,hunterx,UGwind/repu/BPs/fb/lantern/ etc,1950,4004.81,2054.81,17,34931.71,51.31,8
 2025-10-25,28450,Fire Sealed Tooth of Evanescence,bowstalls,Fire sealed items 2Pages,24500,49833.33,25333.33,1,25333.33,50.84,3
 2025-10-25,25060,Cocobolo Log,ebashuloxov,cocobolo,10000,18491.62,8491.62,19,161340.78,45.92,3
@@ -41,7 +46,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,28468,Ice Sealed Mantle of Enigma,GABRAS,SS SHOP   SS SHOP SS SHOP SS SHP,85000,140499.83,55499.83,1,55499.83,39.5,6
 2025-10-25,25430,Enigma Power,FukPolice,gps/pps/rock/jack/lbp/stuff,3000,4904.87,1904.87,31,59050.94,38.84,4
 2025-10-25,22001,Furious Gem,BuySome,BUY GAYSSS,2999,4873.96,1874.96,89,166871.08,38.47,7
-2025-10-25,22000,FieryGem,BuySome,BUY GAYSSS,2999,4697.31,1698.31,72,122278.14,36.15,8
+2025-10-25,22000,FieryGem,BuySome,BUY GAYSSS,2999,4746.5,1747.5,72,125819.89,36.82,8
 2025-10-25,28468,Ice Sealed Mantle of Enigma,zDemonLord,acc pet ss enigma ring,89999,140499.83,50500.83,1,50500.83,35.94,6
 2025-10-25,28468,Ice Sealed Mantle of Enigma,StrongBones2,aomah sell,90000,140499.83,50499.83,1,50499.83,35.94,6
 2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,533333.0,183334.0,1,183334.0,34.38,5
@@ -67,9 +72,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,30171,Ticket to Demonic World,dsadsa,wieghtless ration tickets,400,508.89,108.89,199,21669.16,21.4,5
 2025-10-25,22001,Furious Gem,Reaper,NORMAL GEMS CHEAP GOLTEB,3999,4873.96,874.96,79,69121.52,17.95,7
 2025-10-25,22001,Furious Gem,Piru,>> Good Things to Buy <<,4000,4873.96,873.96,35,30588.46,17.93,7
+2025-10-25,22000,FieryGem,Reaper,NORMAL GEMS CHEAP GOLTEB,3999,4746.5,747.5,60,44849.91,15.75,8
 2025-10-25,30156,Jackpot Coin,JackSparroow,jackpot coin,8500,10035.6,1535.6,68,104420.78,15.3,13
 2025-10-25,30156,Jackpot Coin,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++,8500,10035.6,1535.6,33,50674.79,15.3,13
-2025-10-25,22000,FieryGem,Reaper,NORMAL GEMS CHEAP GOLTEB,3999,4697.31,698.31,60,41898.45,14.87,8
 2025-10-25,28326,Divine Grace Cap,Humm,CHEAP CLERIC VOY HATS WITH STATS,120000,140833.17,20833.17,1,20833.17,14.79,5
 2025-10-25,26588,Potion of Eagle,cheapstuffsell,cheap,1999,2342.92,343.92,105,36111.47,14.68,5
 2025-10-25,30156,Jackpot Coin,Stellar,Variety Shop,8750,10035.6,1285.6,18,23140.79,12.81,13
@@ -84,7 +89,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25417,Moonlight Heart,sstido,cruss stuff,90000,98461.54,8461.54,3,25384.62,8.59,4
 2025-10-25,26567,Weightless Potion,op999999,*CB/HB/NANAS/WEIGT/GROWT*,9499,10329.14,830.14,40,33205.71,8.04,3
 2025-10-25,30176,MvM Coin,Embracer,STUFFF,3000,3260.45,260.45,99,25784.74,7.99,4
-2025-10-25,25031,Refining Gem,ESNAIDER,SELL GPS/KAL/JACKPOT/PPS/MvM,6500,7038.0,538.0,45,24209.87,7.64,6
+2025-10-25,25031,Refining Gem,ESNAIDER,SELL GPS/KAL/JACKPOT/PPS/MvM,6500,7050.11,550.11,45,24754.99,7.8,6
 2025-10-25,26346,Lantern,Babi01,Cheap Lantern,3900,4175.3,275.3,99,27254.33,6.59,8
 2025-10-25,26346,Lantern,Babi01,Cheap Lantern,3900,4175.3,275.3,98,26979.03,6.59,8
 2025-10-25,26346,Lantern,Babi01,Cheap Lantern,3900,4175.3,275.3,97,26703.74,6.59,8
