@@ -1,4 +1,6 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
+2025-10-25,22030,Earth Rock,AAAAA123,sell,19,1200011.0,1199992.0,1,1199992.0,100.0,4
+2025-10-25,22030,Earth Rock,Saudagar,Champ / crus stuff and gem,26,1200011.0,1199985.0,1,1199985.0,100.0,4
 2025-10-25,25452,Rock Gem Fragment,monchito1,00.00,2,56768.62,56766.62,18,1021799.22,100.0,10
 2025-10-25,25525,,stallerx,Lumber/ str pet/ boi/ frags/ pur,3,343099.62,343096.62,2,686193.24,100.0,7
 2025-10-25,28441,Roar of Evanescence,Okno,Unseal champ/Spr2Gen+,5,533334.67,533329.67,1,533329.67,100.0,3
@@ -42,8 +44,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25476,Hairstyling Voucher,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD,8000,15075.0,7075.0,4,28300.0,46.93,3
 2025-10-25,25420,Sunlight Heart,Brum,Sell free caps,11000,20701.94,9701.94,8,77615.49,46.86,6
 2025-10-25,26568,Skating Potion,Keepmo,Ezzzzzzzzzzzzzzzzzzzz,22250,40329.82,18079.82,5,90399.11,44.83,6
-2025-10-25,27006,Bunny Potion,dwtix,PharaLantern/ElvenBunnyPot,1100,1966.23,866.23,161,139463.72,44.06,6
-2025-10-25,27006,Bunny Potion,galina1,dw TIX/ bunny POT,1100,1966.23,866.23,27,23388.33,44.06,6
+2025-10-25,27006,Bunny Potion,dwtix,PharaLantern/ElvenBunnyPot,1100,1963.17,863.17,161,138970.08,43.97,6
+2025-10-25,27006,Bunny Potion,galina1,dw TIX/ bunny POT,1100,1963.17,863.17,27,23305.54,43.97,6
 2025-10-25,25060,Cocobolo Log,ebashuloxov,COCOBOLO,10000,17487.68,7487.68,43,321970.44,42.82,3
 2025-10-25,22004,Shining Gem,DoaaPepa,D O N   P E P E,4000,6969.33,2969.33,7,20785.33,42.61,5
 2025-10-25,28468,Ice Sealed Mantle of Enigma,OsToWBaby,50-60 SEALED | LIFE SKILL 15 EXP,84999,147999.8,63000.8,1,63000.8,42.57,5
@@ -58,13 +60,13 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25416,Cloud Heart,Brum,Sell free caps,15000,21964.97,6964.97,7,48754.76,31.71,4
 2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,508333.0,158334.0,1,158334.0,31.15,5
 2025-10-25,28454,Ice Sealed Blade of Enigma,NecroManS,@@@@,349999,508333.0,158334.0,1,158334.0,31.15,5
-2025-10-25,30171,Ticket to Demonic World,shooter,tix dw ration warlord skatinglow,340,480.58,140.58,185,26008.11,29.25,6
 2025-10-25,25507,Expert Stone,SeventhHeaven,Scrolls/Lantern etc,1000,1409.2,409.2,73,29871.75,29.04,5
+2025-10-25,30171,Ticket to Demonic World,shooter,tix dw ration warlord skatinglow,340,479.01,139.01,185,25716.14,29.02,7
 2025-10-25,22004,Shining Gem,Reaper,NORMAL GEMS CHEAP GOLTEB,5000,6969.33,1969.33,70,137853.33,28.26,5
 2025-10-25,22004,Shining Gem,Piru,>> Good things to Buy <<,5000,6969.33,1969.33,12,23632.0,28.26,5
 2025-10-25,25420,Sunlight Heart,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD,15000,20701.94,5701.94,12,68423.23,27.54,6
 2025-10-25,30102,1000 Reputation Scroll,Despair,repu / / jackpot,5555,7649.18,2094.18,66,138215.89,27.38,6
-2025-10-25,30171,Ticket to Demonic World,dsadsa,weightles ration dw tix,350,480.58,130.58,190,24811.03,27.17,6
+2025-10-25,30171,Ticket to Demonic World,dsadsa,weightles ration dw tix,350,479.01,129.01,190,24511.17,26.93,7
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,26589,Potion of Bull,cheapstuffsell,cheap,1750,2319.61,569.61,47,26771.84,24.56,17
@@ -96,8 +98,8 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,30139,100x Crystal,p4m,imps,170000,193647.8,23647.8,33,780377.31,12.21,3
 2025-10-25,30139,100x Crystal,FreePalestine1,sell imps,169999,193647.8,23648.8,14,331083.16,12.21,3
 2025-10-25,25417,Moonlight Heart,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD,85000,95384.62,10384.62,4,41538.46,10.89,4
-2025-10-25,26572,Inferno Potion,Space,DEMONIC POTION | INFERNO POTION,9500,10475.26,975.26,74,72168.89,9.31,3
-2025-10-25,26573,Demonic Potion,Space,DEMONIC POTION | INFERNO POTION,17000,18727.14,1727.14,27,46632.73,9.22,4
+2025-10-25,26572,Inferno Potion,Space,DEMONIC POTION | INFERNO POTION,9500,10496.46,996.46,70,69751.96,9.49,3
+2025-10-25,26573,Demonic Potion,Space,DEMONIC POTION | INFERNO POTION,17000,18755.69,1755.69,25,43892.15,9.36,4
 2025-10-25,30102,1000 Reputation Scroll,Saller,ty,7000,7649.18,649.18,88,57127.85,8.49,6
 2025-10-25,30176,MvM Coin,Embracer,STUFFF,3000,3260.45,260.45,99,25784.74,7.99,4
 2025-10-25,30156,Jackpot Coin,ESNAIDER,SELL GPS/KAL/JACKPOT/PPS/MvM,9500,10296.41,796.41,151,120257.4,7.73,12
