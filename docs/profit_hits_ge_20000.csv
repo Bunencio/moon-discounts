@@ -11,11 +11,11 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25452,Rock Gem Fragment,xxD,UG SOUL / ROCK GEM / GREEN FRAG,1,56768.62,56767.62,2,113535.25,100.0,10
 2025-10-25,25452,Rock Gem Fragment,Coffi,FRAGMENTS,2,56768.62,56766.62,1,56766.62,100.0,10
 2025-10-25,25451,Jade Gem Fragment,xxD,UG SOUL / ROCK GEM / GREEN FRAG,1,47183.04,47182.04,1,47182.04,100.0,7
-2025-10-25,27020,Gold Pirate Scroll,iTonik,Selling,3,23825.18,23822.18,58,1381686.41,99.99,9
+2025-10-25,27020,Gold Pirate Scroll,iTonik,Selling,3,23821.82,23818.82,58,1381491.73,99.99,8
 2025-10-25,25525,,Xiomarvic,Jewel - Universal purse frag,30,337124.77,337094.77,2,674189.53,99.99,8
 2025-10-25,25525,,iTonik,Selling,35,337124.77,337089.77,2,674179.53,99.99,8
 2025-10-25,25525,,xkom,CHAOS JEWEL FRAG,35,337124.77,337089.77,1,337089.77,99.99,8
-2025-10-25,27020,Gold Pirate Scroll,Gastro,gps pps pet jackpot,3,23825.18,23822.18,7,166755.26,99.99,9
+2025-10-25,27020,Gold Pirate Scroll,Gastro,gps pps pet jackpot,3,23821.82,23818.82,7,166731.76,99.99,8
 2025-10-25,29323,Nimble Venturer,DemiMerchant,99c Item mall Stuff Cheap 99c,20,166252.38,166232.38,1,166232.38,99.99,6
 2025-10-25,29305,Ring of Destruction,Skadi#79,APPAREL SHOP,15,127503.75,127488.75,1,127488.75,99.99,3
 2025-10-25,29305,Ring of Destruction,Skadi#79,APPAREL SHOP,15,127503.75,127488.75,1,127488.75,99.99,3
@@ -34,10 +34,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,22001,Furious Gem,vendedolmax,2000,2000,4890.91,2890.91,10,28909.05,59.11,8
 2025-10-25,22000,FieryGem,Fortis,All cheap,2000,4788.81,2788.81,27,75297.94,58.24,10
 2025-10-25,22000,FieryGem,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++,2000,4788.81,2788.81,9,25099.31,58.24,10
+2025-10-25,25423,Evanescence Rock,hunterx,UGwind/repu/BPs/fb/lantern/ etc,300,684.41,384.41,77,29599.68,56.17,6
 2025-10-25,26377,Pharaoh's Lantern,Puki,CHEAP POTS,3099,6951.74,3852.74,29,111729.46,55.42,3
-2025-10-25,28450,Fire Sealed Tooth of Evanescence,bowstalls,Fire sealed items 2Pages,24500,49833.33,25333.33,1,25333.33,50.84,3
 2025-10-25,28428,Fire Sealed Dance of Evanescence,Alora,hey i'm new help pls Cheap,23000,44399.8,21399.8,1,21399.8,48.2,3
-2025-10-25,25423,Evanescence Rock,hunterx,UGwind/repu/BPs/fb/lantern/ etc,300,575.19,275.19,77,21189.86,47.84,7
 2025-10-25,26590,Potion of Soul,hunterx,UGwind/repu/BPs/fb/lantern/ etc,1950,3714.78,1764.78,17,30001.32,47.51,10
 2025-10-25,25476,Hairstyling Voucher,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD,8000,15075.0,7075.0,4,28300.0,46.93,3
 2025-10-25,25420,Sunlight Heart,Brum,Sell cap moonlight freeeeeeeeeee,11000,20701.94,9701.94,8,77615.49,46.86,6
@@ -66,7 +65,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25420,Sunlight Heart,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD,15000,20701.94,5701.94,12,68423.23,27.54,6
 2025-10-25,30102,1000 Reputation Scroll,Despair,repu / / jackpot,5555,7610.0,2055.0,75,154124.69,27.0,6
 2025-10-25,25525,,CHOLOVARATO,1231231231233,250000,337124.77,87124.77,1,87124.77,25.84,8
-2025-10-25,30022,Buffing Card,Embracer,STUFFF,30000,40000.0,10000.0,6,60000.0,25.0,3
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,26589,Potion of Bull,cheapstuffsell,cheap,1750,2316.84,566.84,47,26641.6,24.47,17
@@ -90,7 +88,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,30139,100x Crystal,p4m,imps,170000,195196.6,25196.6,34,856684.43,12.91,5
 2025-10-25,25392,Dolphin Skin,DAGANG6,DOLPHIN CHEAP HERE/EXPERT,1590,1824.67,234.67,99,23232.24,12.86,3
 2025-10-25,25392,Dolphin Skin,DAGANG6,DOLPHIN CHEAP HERE/EXPERT,1590,1824.67,234.67,99,23232.24,12.86,3
-2025-10-25,30022,Buffing Card,LuBu+,Gnight,35000,40000.0,5000.0,4,20000.0,12.5,3
 2025-10-25,25525,,jajaaaaja,Random,299999,337124.77,37125.77,30,1113773.01,11.01,8
 2025-10-25,25525,,Calamitas,chaos,299999,337124.77,37125.77,15,556886.51,11.01,8
 2025-10-25,25525,,Icerberck,stall,299999,337124.77,37125.77,1,37125.77,11.01,8
