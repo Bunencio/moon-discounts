@@ -1,11 +1,11 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,25451,Jade Gem Fragment,1,47068.08,6,10,CocoZap,Possession / Jade
-100.0,25451,Jade Gem Fragment,1,47068.08,6,9,monchito1,00.00
-100.0,25451,Jade Gem Fragment,1,47068.08,6,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25452,Rock Gem Fragment,2,57015.0,8,1,Coffi,FRAGMENTS
-100.0,25452,Rock Gem Fragment,1,57015.0,8,2,Goliat,Fragment  Store
-100.0,25452,Rock Gem Fragment,2,57015.0,8,18,monchito1,00.00
-100.0,25452,Rock Gem Fragment,1,57015.0,8,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25451,Jade Gem Fragment,1,46726.72,6,10,CocoZap,Possession / Jade
+100.0,25451,Jade Gem Fragment,1,46726.72,6,9,monchito1,00.00
+100.0,25451,Jade Gem Fragment,1,46726.72,6,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,2,56768.62,10,1,Coffi,FRAGMENTS
+100.0,25452,Rock Gem Fragment,1,56768.62,10,2,Goliat,Fragment  Store
+100.0,25452,Rock Gem Fragment,2,56768.62,10,18,monchito1,00.00
+100.0,25452,Rock Gem Fragment,1,56768.62,10,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,337124.77,8,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,29324,Soulbinding Necklace,6,433335.33,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
 99.99,25525,,30,337124.77,8,2,Xiomarvic,Jewel - Universal purse frag
@@ -17,7 +17,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APPAREL SHOP
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APPAREL SHOP
 99.99,29323,Nimble Venturer,20,164288.43,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9912.66,14,2,Gastro,gps pps pet jackpot
+99.99,30156,Jackpot Coin,1,9908.02,14,2,Gastro,gps pps pet jackpot
 99.98,27019,Purple Pirate Scroll,1,4541.94,11,6,Gastro,gps pps pet jackpot
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
@@ -34,7 +34,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.46,25507,Expert Stone,500,1406.94,6,1,Stellar,Variety Shop
 61.26,30121,Vial of Accuracy Reset,1800,4646.73,10,1,HyjoSeller,RESTOCK
 60.91,25507,Expert Stone,550,1406.94,6,44,sellerforfree,cheap
-60.56,30118,Vial of Strength Reset,2000,5071.43,4,1,Yennefer,ROCK JADE MOON SUN CLOUD KALABAR
+60.56,30118,Vial of Strength Reset,2000,5071.43,4,1,Yennefer,RED JADE FIRE JACKPOT MOON CLOUD
 59.11,22001,Furious Gem,2000,4890.91,8,10,vendedolmax,2000
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
