@@ -4,14 +4,20 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,47068.08,6,10,CocoZap,Possession / Jade
 100.0,25451,Jade Gem Fragment,1,47068.08,6,9,monchito1,00.00
 100.0,25451,Jade Gem Fragment,1,47068.08,6,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25452,Rock Gem Fragment,1,58418.42,8,2,Goliat,Fragment  Store
-100.0,25452,Rock Gem Fragment,2,58418.42,8,18,monchito1,00.00
-100.0,25452,Rock Gem Fragment,1,58418.42,8,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,2,57559.35,8,1,Coffi,FRAGMENTS
+100.0,25452,Rock Gem Fragment,1,57559.35,8,2,Goliat,Fragment  Store
+100.0,25452,Rock Gem Fragment,2,57559.35,8,18,monchito1,00.00
+100.0,25452,Rock Gem Fragment,1,57559.35,8,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,263335.51,7,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
+100.0,28136,Crown of Decendant,14,406260.0,8,1,voyo,omfg
+100.0,28136,Crown of Decendant,15,406260.0,8,1,AAA123,12313123131313
+100.0,29324,Soulbinding Necklace,6,450002.0,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
 99.99,25525,,30,263335.51,7,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,35,263335.51,7,2,iTonik,Selling
 99.99,25525,,35,263335.51,7,1,xkom,CHAOS JEWEL FRAG
 99.99,27020,Gold Pirate Scroll,3,24070.91,11,58,iTonik,Selling
+99.99,28136,Crown of Decendant,21,406260.0,8,1,Aries,HL pet and ring here
+99.99,28136,Crown of Decendant,30,406260.0,8,1,AAA123,12313123131313
 99.99,28327,Great Aqua Cap,10,75007.75,4,1,AAA123,12313123131313
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APP SHOP CHEAP
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APP SHOP CHEAP
@@ -20,7 +26,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.97,28327,Great Aqua Cap,21,75007.75,4,1,Guardian,S> SM/VOY CAPS
 89.33,25417,Moonlight Heart,8500,79653.85,4,3,Brum,Sell cap moonlight freeeeeeeeeee
-84.96,22004,Shining Gem,1000,6649.48,4,17,011,cleaning
+84.32,22004,Shining Gem,1000,6379.16,5,17,011,cleaning
 83.54,29056,20 Cooking EXP Card,400,2429.67,3,1,PWHunter,that's all
 77.78,29310,Ring of Hawk,4,18.0,3,1,MrFarm,CHEAPEST STALL IN TOWN/CHECKIT!!
 74.31,27029,Ship Penetrator Lv1,100,389.31,4,37,Lja,cheap
@@ -28,16 +34,23 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 69.23,28466,Ice Sealed Judgment of Enigma,29999,97499.75,3,1,BjornIronside,@@@@
 69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,xBinibirocha,PET STR LV 20 // SEALED 60 RUSH!
 69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,BabyBank,Cheap
-67.7,22000,FieryGem,1500,4643.32,7,4,cheapstuffsell,cheap
+68.65,22004,Shining Gem,2000,6379.16,5,10,vendedolmax,2000
+67.76,22000,FieryGem,1500,4652.96,8,4,cheapstuffsell,cheap
 64.5,28326,Divine Grace Cap,49999,140833.17,5,1,Reaper,NORMAL GEMS CHEAP GOLTEB
-63.25,22003,Glowing Gem,1000,2720.96,6,1,011,cleaning
-56.95,22000,FieryGem,1999,4643.32,7,11,tiendaonline,offer offer offer
-56.93,22000,FieryGem,2000,4643.32,7,33,Fortis,All cheap
-56.93,22000,FieryGem,2000,4643.32,7,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
+62.99,22003,Glowing Gem,1000,2702.16,6,1,011,cleaning
+58.97,22001,Furious Gem,2000,4873.96,7,11,vendedolmax,2000
+58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
+58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
+58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
+58.45,25277,Whisperers Necklace,75,180.48,3,18,Horadric,CHEAP CRAFT MATHS!!!!!!!!
+57.04,22000,FieryGem,1999,4652.96,8,11,tiendaonline,offer offer offer
+57.02,22000,FieryGem,2000,4652.96,8,33,Fortis,All cheap
+57.02,22000,FieryGem,2000,4652.96,8,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
 54.78,25507,Expert Stone,500,1105.7,7,1,Stellar,Variety Shop
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
-52.32,26589,Potion of Bull,1000,2097.41,15,9,PWHunter,that's all
+52.09,26589,Potion of Bull,1000,2087.34,15,9,PWHunter,that's all
 51.31,26590,Potion of Soul,1950,4004.81,8,17,hunterx,UGwind/repu/BPs/fb/lantern/ etc
+50.84,28450,Fire Sealed Tooth of Evanescence,24500,49833.33,3,1,bowstalls,Fire sealed items 2Pages
 50.78,25375,Lightning Heart,90,182.83,5,99,kuwara,get all
 50.39,25522,,90,181.41,3,24,LunaMaya,S>Potion Flashbang PPS
 50.26,25507,Expert Stone,550,1105.7,7,44,sellerforfree,cheap
