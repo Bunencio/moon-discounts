@@ -20,24 +20,23 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
 99.99,29323,Nimble Venturer,20,158336.5,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9883.2,14,2,Gastro,gps pps pet jackpot
+99.99,30156,Jackpot Coin,1,9907.89,14,2,Gastro,gps pps pet jackpot
 99.98,27019,Purple Pirate Scroll,1,4541.94,11,6,Gastro,gps pps pet jackpot
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.97,28327,Great Aqua Cap,21,75007.75,4,1,Guardian,S> SM/VOY CAPS
 99.95,28326,Divine Grace Cap,60,114176.67,3,1,Gastro,gps pps pet jackpot
 77.78,29310,Ring of Hawk,4,18.0,3,1,MrFarm,CHEAPEST STALL IN TOWN/CHECKIT!!
+75.0,28466,Ice Sealed Judgment of Enigma,29999,119999.67,3,1,BjornIronside,@@@@
+75.0,28466,Ice Sealed Judgment of Enigma,30000,119999.67,3,1,xBinibirocha,PET STR LV 20 // SEALED 60 RUSH!
 74.31,27029,Ship Penetrator Lv1,100,389.31,4,37,Lja,cheap
 72.22,29310,Ring of Hawk,5,18.0,3,1,voyo,omfg
 71.3,22004,Shining Gem,2000,6969.33,5,10,vendedolmax,2000
-69.23,28466,Ice Sealed Judgment of Enigma,29999,97499.75,3,1,BjornIronside,@@@@
-69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,xBinibirocha,PET STR LV 20 // SEALED 60 RUSH!
-69.23,28466,Ice Sealed Judgment of Enigma,30000,97499.75,3,1,BabyBank,Cheap
 68.47,22000,FieryGem,1500,4757.78,9,4,cheapstuffsell,cheap
 68.47,22000,FieryGem,1500,4757.78,9,1,WannaBE,Cheap!!!
 64.46,25507,Expert Stone,500,1406.94,6,1,Stellar,Variety Shop
 60.91,25507,Expert Stone,550,1406.94,6,44,sellerforfree,cheap
-59.44,30121,Vial of Accuracy Reset,1800,4438.4,9,1,HyjoSeller,RESTOCK
+59.22,30121,Vial of Accuracy Reset,1800,4413.98,9,1,HyjoSeller,RESTOCK
 59.11,22001,Furious Gem,2000,4890.91,8,10,vendedolmax,2000
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
 58.45,25277,Whisperers Necklace,75,180.48,3,99,Horadric,CHEAP CRAFT MATHS!!!!!!!!
@@ -46,10 +45,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.96,22000,FieryGem,2000,4757.78,9,27,Fortis,All cheap
 57.96,22000,FieryGem,2000,4757.78,9,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
 57.71,25507,Expert Stone,595,1406.94,6,2,xLiliith,Some good things for you! <3
-56.85,26589,Potion of Bull,1000,2317.43,16,7,StepanBendera,FB/Radiation/SoulDetk/Warrior/
+56.83,26589,Potion of Bull,1000,2316.36,16,7,StepanBendera,FB/Radiation/SoulDetk/Warrior/
 54.94,25440,Evanescence Stone,250,554.87,5,19,HyjoSeller,RESTOCK
-54.94,30121,Vial of Accuracy Reset,2000,4438.4,9,1,Fortis,All cheap
-54.94,30121,Vial of Accuracy Reset,2000,4438.4,9,1,DoaaPepa,D O N   P E P E
+54.69,30121,Vial of Accuracy Reset,2000,4413.98,9,1,Fortis,All cheap
+54.69,30121,Vial of Accuracy Reset,2000,4413.98,9,1,DoaaPepa,D O N   P E P E
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
 52.5,26501,Tiny EXP Berry,1690,3558.18,3,6,FT2,Cheap items
 52.47,26564,Meditation Potion,20,42.08,4,28,Nikoz,Seals/Jackpot/SP/Scroll/Stone
