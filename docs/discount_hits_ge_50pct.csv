@@ -4,26 +4,26 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,47366.7,7,10,CocoZap,Possession / Jade
 100.0,25451,Jade Gem Fragment,1,47366.7,7,9,monchito1,00.00
 100.0,25451,Jade Gem Fragment,1,47366.7,7,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25452,Rock Gem Fragment,2,56677.0,8,1,Coffi,FRAGMENTS
-100.0,25452,Rock Gem Fragment,1,56677.0,8,2,Goliat,Fragment  Store
-100.0,25452,Rock Gem Fragment,2,56677.0,8,18,monchito1,00.00
-100.0,25452,Rock Gem Fragment,1,56677.0,8,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25525,,3,263335.51,7,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
+100.0,25452,Rock Gem Fragment,2,57015.0,8,1,Coffi,FRAGMENTS
+100.0,25452,Rock Gem Fragment,1,57015.0,8,2,Goliat,Fragment  Store
+100.0,25452,Rock Gem Fragment,2,57015.0,8,18,monchito1,00.00
+100.0,25452,Rock Gem Fragment,1,57015.0,8,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25525,,3,337124.77,8,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28136,Crown of Decendant,14,406260.0,8,1,voyo,omfg
 100.0,28136,Crown of Decendant,15,406260.0,8,1,AAA123,12313123131313
 100.0,29324,Soulbinding Necklace,6,433335.33,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
-99.99,25525,,30,263335.51,7,2,Xiomarvic,Jewel - Universal purse frag
-99.99,25525,,35,263335.51,7,2,iTonik,Selling
-99.99,25525,,35,263335.51,7,1,xkom,CHAOS JEWEL FRAG
-99.99,27020,Gold Pirate Scroll,3,23966.7,8,7,Gastro,gps pps pet jackpot
-99.99,27020,Gold Pirate Scroll,3,23966.7,8,58,iTonik,Selling
+99.99,25525,,30,337124.77,8,2,Xiomarvic,Jewel - Universal purse frag
+99.99,25525,,35,337124.77,8,2,iTonik,Selling
+99.99,25525,,35,337124.77,8,1,xkom,CHAOS JEWEL FRAG
+99.99,27020,Gold Pirate Scroll,3,24072.31,9,7,Gastro,gps pps pet jackpot
+99.99,27020,Gold Pirate Scroll,3,24072.31,9,58,iTonik,Selling
 99.99,28136,Crown of Decendant,21,406260.0,8,1,Aries,HL pet and ring here
 99.99,28136,Crown of Decendant,30,406260.0,8,1,AAA123,12313123131313
 99.99,28327,Great Aqua Cap,10,75007.75,4,1,AAA123,12313123131313
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APPAREL SHOP
 99.99,29305,Ring of Destruction,15,127503.75,3,1,Skadi#79,APPAREL SHOP
 99.99,29323,Nimble Venturer,20,168752.38,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9994.31,13,2,Gastro,gps pps pet jackpot
+99.99,30156,Jackpot Coin,1,9885.5,14,2,Gastro,gps pps pet jackpot
 99.98,27019,Purple Pirate Scroll,1,4528.5,11,6,Gastro,gps pps pet jackpot
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
@@ -48,6 +48,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.05,22000,FieryGem,2000,4767.56,9,27,Fortis,All cheap
 58.05,22000,FieryGem,2000,4767.56,9,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
 57.71,25507,Expert Stone,595,1406.94,6,2,xLiliith,Some good things for you! <3
+56.88,26589,Potion of Bull,1000,2319.26,16,7,StepanBendera,FB/Radiation/SoulDetk/Warrior/
 55.5,30121,Vial of Accuracy Reset,2000,4494.53,8,1,Fortis,All cheap
 55.5,30121,Vial of Accuracy Reset,2000,4494.53,8,1,DoaaPepa,D O N   P E P E
 52.63,28325,Sealwarden Cap,15,31.67,3,1,Guardian,S> SM/VOY CAPS
