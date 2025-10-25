@@ -1,5 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,25452,Rock Gem Fragment,1,28086.64,12,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,1,27433.49,12,2,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,27433.49,12,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,343099.69,9,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28136,Crown of Decendant,12,600003.0,4,1,KaChing,CRUS UNS
 100.0,28441,Roar of Evanescence,5,533334.67,3,1,Okno,Unseal champ/Spr2Gen+
@@ -9,18 +10,18 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 99.99,25451,Jade Gem Fragment,1,18589.13,6,9,monchito1,00.00
 99.99,25451,Jade Gem Fragment,1,18589.13,6,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-99.99,25452,Rock Gem Fragment,2,28086.64,12,1,Coffi,FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,28086.64,12,18,monchito1,00.00
+99.99,25452,Rock Gem Fragment,2,27433.49,12,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,27433.49,12,18,monchito1,00.00
 99.99,25525,,50,343099.69,9,1,xNerox,Bank cleaning
 99.99,25525,,30,343099.69,9,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,24,343099.69,9,1,Almao,DEMONIC GEM / KAL RUNESTONE
 99.99,27020,Gold Pirate Scroll,3,25443.88,10,6,xNerox,Bank cleaning
 99.99,27020,Gold Pirate Scroll,3,25443.88,10,7,Gastro,gps pps pet jackpot
 99.99,29323,Nimble Venturer,20,160003.17,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9871.96,9,2,Gastro,gps pps pet jackpot
-99.98,25452,Rock Gem Fragment,7,28086.64,12,35,ESNAIDER,SELL GEM FRAG FOR IMPS
+99.99,30156,Jackpot Coin,1,9904.75,10,2,Gastro,gps pps pet jackpot
 99.98,27019,Purple Pirate Scroll,1,4464.15,11,6,Gastro,gps pps pet jackpot
 99.98,28327,Great Aqua Cap,4,16675.0,3,1,AAA123,1313213131
+99.97,25452,Rock Gem Fragment,7,27433.49,12,35,ESNAIDER,SELL GEM FRAG FOR IMPS
 99.96,25451,Jade Gem Fragment,7,18589.13,6,24,ESNAIDER,SELL GEM FRAG FOR IMPS
 99.87,28327,Great Aqua Cap,21,16675.0,3,1,Guardian,S> SM/VOY CAPS
 89.16,28466,Ice Sealed Judgment of Enigma,29999,276666.0,3,1,BjornIronside,@@@@
@@ -44,17 +45,16 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.45,30121,Vial of Accuracy Reset,2000,4592.71,10,1,cheapstuff3,cheap
 56.45,30121,Vial of Accuracy Reset,2000,4592.71,10,1,DoaaPepa,D O N   P E P E
 55.34,25507,Expert Stone,550,1231.61,6,44,sellerforfree,cheap
+55.29,26589,Potion of Bull,1000,2236.89,19,7,StepanBendera,FB/Radiation/SoulDetk/Warrior/
 55.18,25440,Evanescence Stone,250,557.73,5,18,HyjoSeller,RESTOCK
-54.87,26589,Potion of Bull,1000,2215.99,19,7,StepanBendera,FB/Radiation/SoulDetk/Warrior/
 54.55,22000,FieryGem,1990,4378.03,12,53,STAII,Cheap pots
 54.34,22000,FieryGem,1999,4378.03,12,1,cheapstuff3,cheap
 54.32,22000,FieryGem,2000,4378.03,12,27,Fortis,All cheap
 54.32,22000,FieryGem,2000,4378.03,12,6,Paradise,buy my garbage
 54.32,22000,FieryGem,2000,4378.03,12,9,BuyingSta4ll7,ROCK FRAG | GOLD PIRATE SCROLLS
-53.29,22001,Furious Gem,1990,4260.58,9,68,STAII,Cheap pots
-53.2,25375,Lightning Heart,90,192.31,4,99,kuwara,get all
-53.06,22001,Furious Gem,2000,4260.58,9,11,Paradise,buy my garbage
-53.06,22001,Furious Gem,2000,4260.58,9,10,vendedolmax,2000
+53.24,22001,Furious Gem,1990,4255.92,10,68,STAII,Cheap pots
+53.01,22001,Furious Gem,2000,4255.92,10,11,Paradise,buy my garbage
+53.01,22001,Furious Gem,2000,4255.92,10,10,vendedolmax,2000
 51.69,25507,Expert Stone,595,1231.61,6,2,xLiliith,Some good things for you! <3
 51.01,30121,Vial of Accuracy Reset,2250,4592.71,10,7,hunterx,UGwind/repu/BPs/fb/lantern/ etc
 50.52,25415,Fallen Sensai's Sai,70,141.47,3,2,Kalista,flash bomb / detector/ radiation
