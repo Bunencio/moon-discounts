@@ -1,9 +1,5 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,25451,Jade Gem Fragment,1,39825.86,5,9,monchito1,00.00
-100.0,25451,Jade Gem Fragment,1,39825.86,5,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25452,Rock Gem Fragment,2,48143.53,11,1,Coffi,FRAGMENTS
-100.0,25452,Rock Gem Fragment,2,48143.53,11,18,monchito1,00.00
-100.0,25452,Rock Gem Fragment,1,48143.53,11,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,1,28086.64,12,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,343099.69,9,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28136,Crown of Decendant,12,600003.0,4,1,KaChing,CRUS UNS
 100.0,28441,Roar of Evanescence,5,533334.67,3,1,Okno,Unseal champ/Spr2Gen+
@@ -11,15 +7,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,28454,Ice Sealed Blade of Enigma,14,390004.2,5,1,Yusuf,SEALED CRUS
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
+99.99,25451,Jade Gem Fragment,1,18589.13,6,9,monchito1,00.00
+99.99,25451,Jade Gem Fragment,1,18589.13,6,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+99.99,25452,Rock Gem Fragment,2,28086.64,12,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,28086.64,12,18,monchito1,00.00
 99.99,25525,,50,343099.69,9,1,xNerox,Bank cleaning
 99.99,25525,,30,343099.69,9,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,24,343099.69,9,1,Almao,DEMONIC GEM / KAL RUNESTONE
-99.99,27020,Gold Pirate Scroll,3,25569.6,9,6,xNerox,Bank cleaning
-99.99,27020,Gold Pirate Scroll,3,25569.6,9,7,Gastro,gps pps pet jackpot
+99.99,27020,Gold Pirate Scroll,3,25443.88,10,6,xNerox,Bank cleaning
+99.99,27020,Gold Pirate Scroll,3,25443.88,10,7,Gastro,gps pps pet jackpot
 99.99,29323,Nimble Venturer,20,160003.17,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,10457.4,7,2,Gastro,gps pps pet jackpot
-99.98,27019,Purple Pirate Scroll,1,4505.74,11,6,Gastro,gps pps pet jackpot
+99.99,30156,Jackpot Coin,1,9877.46,8,2,Gastro,gps pps pet jackpot
+99.98,25452,Rock Gem Fragment,7,28086.64,12,35,ESNAIDER,SELL GEM FRAG FOR IMPS
+99.98,27019,Purple Pirate Scroll,1,4459.9,12,6,Gastro,gps pps pet jackpot
 99.98,28327,Great Aqua Cap,4,16675.0,3,1,AAA123,1313213131
+99.96,25451,Jade Gem Fragment,7,18589.13,6,24,ESNAIDER,SELL GEM FRAG FOR IMPS
 99.87,28327,Great Aqua Cap,21,16675.0,3,1,Guardian,S> SM/VOY CAPS
 89.16,28466,Ice Sealed Judgment of Enigma,29999,276666.0,3,1,BjornIronside,@@@@
 86.75,25501,Brown Colorant,200,1509.09,4,1,xVENDORx,RUSH
