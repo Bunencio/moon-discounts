@@ -1,9 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25451,Jade Gem Fragment,1,57798.05,6,9,monchito1,00.00
 100.0,25451,Jade Gem Fragment,1,57798.05,6,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25452,Rock Gem Fragment,2,58288.38,9,1,Coffi,FRAGMENTS
-100.0,25452,Rock Gem Fragment,2,58288.38,9,18,monchito1,00.00
-100.0,25452,Rock Gem Fragment,1,58288.38,9,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,2,58582.58,10,1,Coffi,FRAGMENTS
+100.0,25452,Rock Gem Fragment,2,58582.58,10,18,monchito1,00.00
+100.0,25452,Rock Gem Fragment,1,58582.58,10,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,348000.4,8,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28136,Crown of Decendant,10,425006.0,4,1,KaChing,CRUS GEAR
 100.0,28136,Crown of Decendant,14,425006.0,4,1,voyo,omfg
@@ -21,22 +21,24 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,27020,Gold Pirate Scroll,3,26286.34,8,7,Gastro,gps pps pet jackpot
 99.99,28327,Great Aqua Cap,4,67506.25,4,1,AAA123,1313213131
 99.99,29323,Nimble Venturer,20,155003.17,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9858.65,12,2,Gastro,gps pps pet jackpot
-99.98,27019,Purple Pirate Scroll,1,4518.75,13,6,Gastro,gps pps pet jackpot
+99.99,30156,Jackpot Coin,1,9849.71,13,2,Gastro,gps pps pet jackpot
+99.98,27019,Purple Pirate Scroll,1,4575.58,13,6,Gastro,gps pps pet jackpot
 99.97,28327,Great Aqua Cap,21,67506.25,4,1,Guardian,S> SM/VOY CAPS
 99.95,28326,Divine Grace Cap,60,114176.67,3,1,Gastro,gps pps pet jackpot
 89.16,28466,Ice Sealed Judgment of Enigma,29999,276666.0,3,1,BjornIronside,@@@@
 86.75,25501,Brown Colorant,200,1509.09,4,1,xVENDORx,RUSH
 86.51,25493,Orange Colorant,200,1482.35,4,1,xVENDORx,RUSH
+79.94,25430,Enigma Power,1000,4985.97,4,1,ATHALIAH,SALE SALE
 66.08,22004,Shining Gem,2000,5895.85,7,2,Paradise,buy my garbage
 66.08,22004,Shining Gem,2000,5895.85,7,10,vendedolmax,2000
 65.74,22000,FieryGem,1500,4378.03,12,1,WannaBE,Cheap!!!
-62.0,25507,Expert Stone,550,1447.43,4,44,sellerforfree,cheap
+60.97,25507,Expert Stone,550,1409.2,5,44,sellerforfree,cheap
 60.81,30121,Vial of Accuracy Reset,1800,4592.71,10,1,HyjoSeller,RESTOCK
-60.56,30118,Vial of Strength Reset,2000,5071.43,4,1,cheapstuff3,cheap
-58.89,25507,Expert Stone,595,1447.43,4,2,xLiliith,Some good things for you! <3
 58.6,25423,Evanescence Rock,350,845.42,6,39,iLegolas,GPs Gyoza Jackpot Reput PPs Cook
 58.59,25081,Coal Ore,80,193.17,3,77,Lane,Elixir/Scrol/ore/
+57.78,25507,Expert Stone,595,1409.2,5,2,xLiliith,Some good things for you! <3
+57.33,30118,Vial of Strength Reset,2000,4687.5,4,1,Yennefer,S65GLOVE FIRE YELLOW MOON SUN CL
+57.33,30118,Vial of Strength Reset,2000,4687.5,4,1,cheapstuff3,cheap
 57.18,27029,Ship Penetrator Lv1,199,464.69,3,54,Suntukan,cheap last da sale
 56.45,30121,Vial of Accuracy Reset,2000,4592.71,10,1,Fortis,All cheap
 56.45,30121,Vial of Accuracy Reset,2000,4592.71,10,1,cheapstuff3,cheap
@@ -50,15 +52,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 54.32,22000,FieryGem,2000,4378.03,12,9,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++
 53.29,22001,Furious Gem,1990,4260.58,9,68,STAII,Cheap pots
 53.28,26002,Pharaoh Gem,1300,2782.68,4,9,amiix,Rock GF RBS PPS GPS JC PBS FB PO
-53.23,25375,Lightning Heart,90,192.45,5,99,kuwara,get all
 53.06,22001,Furious Gem,2000,4260.58,9,11,Paradise,buy my garbage
 53.06,22001,Furious Gem,2000,4260.58,9,10,vendedolmax,2000
+52.73,25375,Lightning Heart,90,190.4,5,99,kuwara,get all
 52.35,26564,Meditation Potion,20,41.97,3,28,Nikoz,Junk Stuff
 51.89,26501,Tiny EXP Berry,1690,3512.73,3,6,FT2,Cheap items
 51.61,25491,Decolorant,250,516.67,3,1,pisslow,Coloernt
-51.3,25420,Sunlight Heart,11000,22587.97,6,8,Brum,Sell free caps
 51.01,30121,Vial of Accuracy Reset,2250,4592.71,10,7,hunterx,UGwind/repu/BPs/fb/lantern/ etc
-50.7,30118,Vial of Strength Reset,2500,5071.43,4,3,cheapstuffsell,cheap
 50.39,25522,,90,181.41,3,24,LunaMaya,S>Potion Flashbang PPS
 50.0,28462,Ice Sealed Staff of Enigma,25000,50000.0,3,1,Chupeteira,CHEAP STALL
 50.0,28462,Ice Sealed Staff of Enigma,25000,50000.0,3,1,Chupeteira,CHEAP STALL
