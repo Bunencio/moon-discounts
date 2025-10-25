@@ -13,9 +13,9 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25525,,iTonik,Selling,35,337124.77,337089.77,2,674179.53,99.99,8
 2025-10-25,25525,,xkom,CHAOS JEWEL FRAG,35,337124.77,337089.77,1,337089.77,99.99,8
 2025-10-25,27020,Gold Pirate Scroll,Gastro,gps pps pet jackpot,3,23832.7,23829.7,7,166807.9,99.99,8
-2025-10-25,29323,Nimble Venturer,DemiMerchant,99c Item mall Stuff Cheap 99c,20,158336.5,158316.5,1,158316.5,99.99,5
-2025-10-25,29305,Ring of Destruction,Skadi#79,APPAREL SHOP,15,110005.0,109990.0,1,109990.0,99.99,3
-2025-10-25,29305,Ring of Destruction,Skadi#79,APPAREL SHOP,15,110005.0,109990.0,1,109990.0,99.99,3
+2025-10-25,29323,Nimble Venturer,DemiMerchant,99c Item mall Stuff Cheap 99c,20,164288.43,164268.43,1,164268.43,99.99,5
+2025-10-25,29305,Ring of Destruction,Skadi#79,APPAREL SHOP,15,127503.75,127488.75,1,127488.75,99.99,3
+2025-10-25,29305,Ring of Destruction,Skadi#79,APPAREL SHOP,15,127503.75,127488.75,1,127488.75,99.99,3
 2025-10-25,28327,Great Aqua Cap,AAA123,12313123131313,10,75007.75,74997.75,1,74997.75,99.99,4
 2025-10-25,28135,Crown of Poseidon,DemiMerchant,99c Item mall Stuff Cheap 99c,20,112509.5,112489.5,1,112489.5,99.98,3
 2025-10-25,28135,Crown of Poseidon,DemiMerchant,99c Item mall Stuff Cheap 99c,20,112509.5,112489.5,1,112489.5,99.98,3
@@ -30,6 +30,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,22000,FieryGem,Fortis,All cheap,2000,4757.78,2757.78,27,74460.02,57.96,9
 2025-10-25,22000,FieryGem,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++,2000,4757.78,2757.78,9,24820.01,57.96,9
 2025-10-25,28450,Fire Sealed Tooth of Evanescence,bowstalls,Fire sealed items 2Pages,24500,49833.33,25333.33,1,25333.33,50.84,3
+2025-10-25,22006,Spirit Gem,AFK,FREE,5000,9913.29,4913.29,8,39306.31,49.56,3
 2025-10-25,26590,Potion of Soul,hunterx,UGwind/repu/BPs/fb/lantern/ etc,1950,3810.35,1860.35,17,31625.96,48.82,9
 2025-10-25,28428,Fire Sealed Dance of Evanescence,Alora,hey i'm new help pls Cheap,23000,44399.8,21399.8,1,21399.8,48.2,3
 2025-10-25,26568,Skating Potion,Keepmo,Ezzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz,22500,41367.21,18867.21,5,94336.03,45.61,8
@@ -67,7 +68,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,23002,Iron Treasure,Treasurers,tsssk,650,865.1,215.1,99,21294.68,24.86,3
 2025-10-25,26589,Potion of Bull,cheapstuffsell,cheap,1750,2321.33,571.33,47,26852.6,24.61,16
-2025-10-25,30139,100x Crystal,Elle,ipm,150000,195196.6,45196.6,1,45196.6,23.15,5
+2025-10-25,30139,100x Crystal,Elle,ipm,150000,195285.57,45285.57,1,45285.57,23.19,4
 2025-10-25,25450,Chest of Demonic World,sellerforfree,cheap,39000,50454.55,11454.55,5,57272.73,22.7,3
 2025-10-25,30102,1000 Reputation Scroll,hunterx,UGwind/repu/BPs/fb/lantern/ etc,5899,7605.73,1706.73,74,126298.2,22.44,6
 2025-10-25,28454,Ice Sealed Blade of Enigma,OsToWBaby,50-60 SEALED | LIFE SKILL 15 EXP,400000,508333.0,108333.0,1,108333.0,21.31,5
@@ -82,7 +83,7 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,30156,Jackpot Coin,JackSparroow,jackpot coin,8500,9912.66,1412.66,68,96060.57,14.25,14
 2025-10-25,30156,Jackpot Coin,BuyingSta4ll7,GPS | PPS | JACK | PHARAOH | +++,8500,9912.66,1412.66,33,46617.63,14.25,14
 2025-10-25,26589,Potion of Bull,011,cleaning,2000,2321.33,321.33,70,22493.23,13.84,16
-2025-10-25,30139,100x Crystal,p4m,imps,170000,195196.6,25196.6,34,856684.43,12.91,5
+2025-10-25,30139,100x Crystal,p4m,imps,170000,195285.57,25285.57,34,859709.47,12.95,4
 2025-10-25,30022,Buffing Card,LuBu+,Gnight,35000,40000.0,5000.0,4,20000.0,12.5,3
 2025-10-25,30156,Jackpot Coin,Stellar,Variety Shop,8750,9912.66,1162.66,18,20927.8,11.73,14
 2025-10-25,30156,Jackpot Coin,MatsBk,S>JC/GPS,8800,9912.66,1112.66,139,154659.11,11.22,14
@@ -90,7 +91,6 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-10-25,25525,,Calamitas,chaos,299999,337124.77,37125.77,15,556886.51,11.01,8
 2025-10-25,25525,,Icerberck,stall,299999,337124.77,37125.77,1,37125.77,11.01,8
 2025-10-25,25525,,Signet,Cooked Tuna/ Fragment,299999,337124.77,37125.77,1,37125.77,11.01,8
-2025-10-25,30139,100x Crystal,8yominorr,weightless fbs ration,175000,195196.6,20196.6,1,20196.6,10.35,5
 2025-10-25,30156,Jackpot Coin,Paka01,JadeGemFrag GPS Repu Jackpot PPS,8999,9912.66,913.66,86,78574.37,9.22,14
 2025-10-25,30156,Jackpot Coin,kory,GPS/PPS/JACK/REP/SKAT/ALL POTION,8999,9912.66,913.66,47,42941.81,9.22,14
 2025-10-25,30156,Jackpot Coin,Despair,repu / / jackpot,8999,9912.66,913.66,33,30150.63,9.22,14
