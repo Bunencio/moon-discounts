@@ -5,10 +5,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,2,48143.53,11,18,monchito1,00.00
 100.0,25452,Rock Gem Fragment,1,48143.53,11,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,343099.69,9,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
-100.0,28136,Crown of Decendant,10,600002.5,4,1,KaChing,CRUS GEAR
+100.0,28136,Crown of Decendant,12,600003.0,4,1,KaChing,CRUS UNS
 100.0,28441,Roar of Evanescence,5,533334.67,3,1,Okno,Unseal champ/Spr2Gen+
-100.0,28454,Ice Sealed Blade of Enigma,7,406252.38,7,1,Yusuf,SEALED CRUS
-100.0,28454,Ice Sealed Blade of Enigma,14,406252.38,7,1,Yusuf,SEALED CRUS
+100.0,28454,Ice Sealed Blade of Enigma,7,390004.2,5,1,Yusuf,SEALED CRUS
+100.0,28454,Ice Sealed Blade of Enigma,14,390004.2,5,1,Yusuf,SEALED CRUS
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 99.99,25525,,50,343099.69,9,1,xNerox,Bank cleaning
@@ -16,13 +16,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25525,,24,343099.69,9,1,Almao,DEMONIC GEM / KAL RUNESTONE
 99.99,27020,Gold Pirate Scroll,3,25569.6,9,6,xNerox,Bank cleaning
 99.99,27020,Gold Pirate Scroll,3,25569.6,9,7,Gastro,gps pps pet jackpot
-99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
-99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
-99.99,29323,Nimble Venturer,20,166252.38,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
+99.99,29323,Nimble Venturer,20,160003.17,5,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.99,30156,Jackpot Coin,1,10457.4,7,2,Gastro,gps pps pet jackpot
 99.98,27019,Purple Pirate Scroll,1,4505.74,11,6,Gastro,gps pps pet jackpot
-99.98,28135,Crown of Poseidon,20,112509.75,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.98,28135,Crown of Poseidon,20,112509.75,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28327,Great Aqua Cap,4,16675.0,3,1,AAA123,1313213131
 99.87,28327,Great Aqua Cap,21,16675.0,3,1,Guardian,S> SM/VOY CAPS
 89.16,28466,Ice Sealed Judgment of Enigma,29999,276666.0,3,1,BjornIronside,@@@@
@@ -61,5 +57,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 51.69,25507,Expert Stone,595,1231.61,6,2,xLiliith,Some good things for you! <3
 51.01,30121,Vial of Accuracy Reset,2250,4592.71,10,7,hunterx,UGwind/repu/BPs/fb/lantern/ etc
 50.39,25522,,90,181.41,3,24,LunaMaya,S>Potion Flashbang PPS
+50.06,30171,Ticket to Demonic World,250,500.62,6,14,Shop1,darkblue
 50.0,28462,Ice Sealed Staff of Enigma,25000,50000.0,3,1,Chupeteira,CHEAP STALL
 50.0,28462,Ice Sealed Staff of Enigma,25000,50000.0,3,1,Chupeteira,CHEAP STALL
