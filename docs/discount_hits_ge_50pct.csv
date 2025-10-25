@@ -1,10 +1,10 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,25451,Jade Gem Fragment,1,58690.85,7,9,monchito1,00.00
-100.0,25451,Jade Gem Fragment,1,58690.85,7,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25452,Rock Gem Fragment,2,55385.15,9,1,Coffi,FRAGMENTS
-100.0,25452,Rock Gem Fragment,1,55385.15,9,2,Goliat,Fragment  Store
-100.0,25452,Rock Gem Fragment,2,55385.15,9,18,monchito1,00.00
-100.0,25452,Rock Gem Fragment,1,55385.15,9,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25451,Jade Gem Fragment,1,60726.5,7,9,monchito1,00.00
+100.0,25451,Jade Gem Fragment,1,60726.5,7,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,2,56691.69,9,1,Coffi,FRAGMENTS
+100.0,25452,Rock Gem Fragment,1,56691.69,9,2,Goliat,Fragment  Store
+100.0,25452,Rock Gem Fragment,2,56691.69,9,18,monchito1,00.00
+100.0,25452,Rock Gem Fragment,1,56691.69,9,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,348000.4,8,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28136,Crown of Decendant,14,425018.5,4,1,voyo,omfg
 100.0,28441,Roar of Evanescence,5,533334.67,3,1,Okno,Unseal champ/Spr2Gen+
@@ -16,14 +16,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29312,Ring of Might,5,168752.88,4,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
 99.99,25525,,30,348000.4,8,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,24,348000.4,8,1,Almao,DEMONIC GEM / KAL RUNESTONE
-99.99,27020,Gold Pirate Scroll,3,26278.67,10,7,Gastro,gps pps pet jackpot
+99.99,27020,Gold Pirate Scroll,3,26275.41,10,7,Gastro,gps pps pet jackpot
 99.99,28136,Crown of Decendant,60,425018.5,4,1,smoI,Real 50% discount.
 99.99,28327,Great Aqua Cap,4,67506.25,4,1,AAA123,1313213131
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
 99.99,29305,Ring of Destruction,15,110005.0,3,1,Skadi#79,APPAREL SHOP
 99.99,29323,Nimble Venturer,20,161431.29,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,10076.84,12,2,Gastro,gps pps pet jackpot
-99.98,27019,Purple Pirate Scroll,1,4519.91,12,6,Gastro,gps pps pet jackpot
+99.99,30156,Jackpot Coin,1,9959.77,14,2,Gastro,gps pps pet jackpot
+99.98,27019,Purple Pirate Scroll,1,4525.88,12,6,Gastro,gps pps pet jackpot
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.97,28327,Great Aqua Cap,21,67506.25,4,1,Guardian,S> SM/VOY CAPS
