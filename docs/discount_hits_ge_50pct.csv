@@ -18,10 +18,10 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,25452,Rock Gem Fragment,2,33127.35,12,18,monchito1,00.00
 99.99,25525,,30,332433.57,9,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,24,332433.57,9,1,Almao,DEMONIC GEM / KAL RUNESTONE
-99.99,27020,Gold Pirate Scroll,2,25658.25,13,5,Gastro,cap gps pet
-99.99,27020,Gold Pirate Scroll,3,25658.25,13,6,xNerox,Bank cleaning
+99.99,27020,Gold Pirate Scroll,2,25655.16,14,5,Gastro,cap gps pet
+99.99,27020,Gold Pirate Scroll,3,25655.16,14,6,xNerox,Bank cleaning
 99.99,29323,Nimble Venturer,20,167502.12,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9654.66,12,2,Gastro,cap gps pet
+99.99,30156,Jackpot Coin,1,9652.16,13,2,Gastro,cap gps pet
 99.98,25452,Rock Gem Fragment,7,33127.35,12,20,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
 99.98,25525,,50,332433.57,9,1,xNerox,Bank cleaning
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
@@ -43,7 +43,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 64.29,22004,Shining Gem,2000,5600.49,7,2,Paradise,buy my garbage
 64.29,22004,Shining Gem,2000,5600.49,7,10,vendedolmax,2000
 62.69,30121,Vial of Accuracy Reset,1800,4824.22,7,1,HyjoSeller,RESTOCK
-60.58,29018,Standard 15 Crafting EXP Card,390,989.33,3,1,FT2,Fresh Imps
+59.67,29018,Standard 15 Crafting EXP Card,390,967.06,4,1,FT2,Fresh Imps
 59.32,26589,Potion of Bull,900,2212.36,16,7,StepanBendera,FB/SouDet/Warrior/Radiation/GPS
 58.54,30121,Vial of Accuracy Reset,2000,4824.22,7,1,Fortis,All cheap
 58.54,30121,Vial of Accuracy Reset,2000,4824.22,7,1,cheapstuff3,cheap
@@ -56,13 +56,13 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.63,25507,Expert Stone,549,1265.72,6,2,xLiliith,Some good things for you! <3
 56.55,25507,Expert Stone,550,1265.72,6,44,sellerforfree,cheap
 55.87,25440,Evanescence Stone,250,566.49,4,18,HyjoSeller,RESTOCK
+53.23,26590,Potion of Soul,1500,3207.45,8,22,ANTYBUFFY,jew purse rock Frags / Potions
 53.01,22000,FieryGem,1990,4234.69,11,53,STAII,Cheap pots
-52.91,26590,Potion of Soul,1500,3185.07,9,22,ANTYBUFFY,jew purse rock Frags / Potions
 52.79,22000,FieryGem,1999,4234.69,11,1,cheapstuff3,cheap
 52.77,22000,FieryGem,2000,4234.69,11,27,Fortis,All cheap
 52.77,22000,FieryGem,2000,4234.69,11,6,Paradise,buy my garbage
 52.77,22000,FieryGem,2000,4234.69,11,9,BuyingSta4ll7,GPS | ROCK FRAG | JACK | POTS ++
-51.99,26588,Potion of Eagle,1200,2499.5,8,1,amiix,gps pps rbs pbs rgf
+51.92,26588,Potion of Eagle,1200,2496.03,8,1,amiix,gps pps rbs pbs rgf
 51.3,29062,Field Brew,49,100.62,4,14,xLiliith,Some good things for you! <3
 50.75,22001,Furious Gem,1990,4040.52,9,68,STAII,Cheap pots
 50.5,22001,Furious Gem,2000,4040.52,9,11,Paradise,buy my garbage
