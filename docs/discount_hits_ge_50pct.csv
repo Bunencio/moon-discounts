@@ -1,31 +1,31 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,25451,Jade Gem Fragment,1,21162.76,7,9,monchito1,00.00
-100.0,25451,Jade Gem Fragment,1,21162.76,7,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25452,Rock Gem Fragment,1,33821.83,10,2,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,33821.83,10,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,22023,Green Jade,2,177727.45,3,1,Aemond,Custom Bow 110% | Cheap Gems
+100.0,25451,Jade Gem Fragment,1,26309.0,7,9,monchito1,00.00
+100.0,25451,Jade Gem Fragment,1,26309.0,7,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,1,38652.52,10,2,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,38652.52,10,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,336986.77,8,2,iTonik,300Imps Only
 100.0,25525,,3,336986.77,8,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28136,Crown of Decendant,12,566670.67,3,1,KaChing,CRUS UNS
-100.0,28454,Ice Sealed Blade of Enigma,7,388890.89,6,1,Yusuf,SEALED CRUS
-100.0,28454,Ice Sealed Blade of Enigma,14,388890.89,6,1,Yusuf,SEALED CRUS
-100.0,28491,Ice Sealed Greaves of Enigma,1,125002.75,3,1,stallerx,Lumber/ str pet/ boi/ frags/ pur
+100.0,28454,Ice Sealed Blade of Enigma,7,357145.43,6,1,Yusuf,SEALED CRUS
+100.0,28454,Ice Sealed Blade of Enigma,14,357145.43,6,1,Yusuf,SEALED CRUS
 100.0,29310,Ring of Hawk,4,440000.8,3,1,Banteng,RING OF HAWK LV 60 ACC/AGI
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
-99.99,25452,Rock Gem Fragment,2,33821.83,10,1,Coffi,FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,33821.83,10,18,monchito1,00.00
+99.99,25452,Rock Gem Fragment,2,38652.52,10,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,38652.52,10,18,monchito1,00.00
 99.99,25525,,30,336986.77,8,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,24,336986.77,8,1,Almao,DEMONIC GEM / KAL RUNESTONE
 99.99,27020,Gold Pirate Scroll,2,26573.36,14,5,Gastro,cap gps pet
 99.99,28429,Dance of Evanescence,29,250019.0,3,1,ShowMaker,Doe +7 / game of rage  ...
 99.99,28429,Dance of Evanescence,28,250019.0,3,1,ShowMaker,Doe +7 / game of rage  ...
-99.99,28491,Ice Sealed Greaves of Enigma,10,125002.75,3,1,ShowMaker,Doe +7 / game of rage  ...
+99.99,28440,Fire Sealed Roar of Evanescence,1,7249.75,4,1,Perversu,Mega offer Cheap Items !!!
 99.99,29323,Nimble Venturer,20,167502.12,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.99,30156,Jackpot Coin,1,9638.02,16,2,Gastro,cap gps pet
-99.98,25452,Rock Gem Fragment,7,33821.83,10,20,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
+99.98,25451,Jade Gem Fragment,6,26309.0,7,15,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
+99.98,25452,Rock Gem Fragment,7,38652.52,10,11,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.97,25451,Jade Gem Fragment,6,21162.76,7,24,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
 98.3,25124,Bottle,1,58.9,4,1,Saladinhastall,TUNA/FLASH AND RANDOM
 92.23,26564,Meditation Potion,49,630.33,3,153,stuffholder,cheap
 92.07,26564,Meditation Potion,50,630.33,3,199,lamamandoski,auto
@@ -53,7 +53,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 57.65,30118,Vial of Strength Reset,2000,4722.22,5,1,cheapstuff3,cheap
 56.43,25507,Expert Stone,549,1260.04,5,2,xLiliith,Some good things for you! <3
 56.35,25507,Expert Stone,550,1260.04,5,44,sellerforfree,cheap
-55.87,25440,Evanescence Stone,250,566.49,4,18,HyjoSeller,RESTOCK
+54.67,25440,Evanescence Stone,250,551.45,3,18,HyjoSeller,RESTOCK
 52.13,26588,Potion of Eagle,1200,2506.88,9,1,amiix,gps pps rbs pbs rgf
 51.53,26590,Potion of Soul,1500,3094.69,9,22,ANTYBUFFY,jew purse rock Frags / Potions
 51.3,29062,Field Brew,49,100.62,4,14,xLiliith,Some good things for you! <3
