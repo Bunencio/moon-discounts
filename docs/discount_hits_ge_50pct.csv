@@ -35,12 +35,11 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.73,25493,Orange Colorant,200,1629.41,3,1,xVENDORx,RUSH
 87.67,28466,Ice Sealed Judgment of Enigma,29999,243332.67,3,1,BjornIronside,@@@@
 76.89,25430,Enigma Power,1000,4326.53,7,1,ATHALIAH,SALE SALE
-68.24,25426,Universe Purse Fragment.,3,9.44,3,3,backtoblack,Universe Purse / Shining Runes
-68.11,22004,Shining Gem,2000,6271.35,7,2,Paradise,buy my garbage
-68.11,22004,Shining Gem,2000,6271.35,7,10,vendedolmax,2000
 66.67,29312,Ring of Might,4,12.0,3,1,Saudagar,Champ / crus stuff and gem
 66.67,29312,Ring of Might,4,12.0,3,1,Saudagar,Champ / crus stuff and gem
-66.54,22000,FieryGem,1500,4482.74,11,1,WannaBE,Cheap!!!
+64.69,22000,FieryGem,1500,4248.62,12,1,WannaBE,Cheap!!!
+64.29,22004,Shining Gem,2000,5600.49,7,2,Paradise,buy my garbage
+64.29,22004,Shining Gem,2000,5600.49,7,10,vendedolmax,2000
 64.05,30121,Vial of Accuracy Reset,1800,5007.15,8,1,HyjoSeller,RESTOCK
 61.36,29018,Standard 15 Crafting EXP Card,390,1009.33,3,1,FT2,Fresh Imps
 60.06,30121,Vial of Accuracy Reset,2000,5007.15,8,1,Fortis,All cheap
@@ -50,21 +49,23 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
-57.65,25426,Universe Purse Fragment.,4,9.44,3,4,Coffi,FRAGMENTS
 57.33,30118,Vial of Strength Reset,2000,4687.5,4,1,Yennefer,S65GLOVE FIRE YELLOW MOON SUN CL
 57.33,30118,Vial of Strength Reset,2000,4687.5,4,1,cheapstuff3,cheap
 56.63,25507,Expert Stone,549,1265.72,6,2,xLiliith,Some good things for you! <3
 56.55,25507,Expert Stone,550,1265.72,6,44,sellerforfree,cheap
 55.87,25440,Evanescence Stone,250,566.49,4,18,HyjoSeller,RESTOCK
-55.61,22000,FieryGem,1990,4482.74,11,53,STAII,Cheap pots
-55.41,22000,FieryGem,1999,4482.74,11,1,cheapstuff3,cheap
-55.38,22000,FieryGem,2000,4482.74,11,27,Fortis,All cheap
-55.38,22000,FieryGem,2000,4482.74,11,6,Paradise,buy my garbage
-55.38,22000,FieryGem,2000,4482.74,11,9,BuyingSta4ll7,ROCK FRAG | GOLD PIRATE SCROLLS
 54.55,26590,Potion of Soul,1500,3300.65,10,22,ANTYBUFFY,jew purse rock Frags / Potions
+53.16,22000,FieryGem,1990,4248.62,12,53,STAII,Cheap pots
+52.95,22000,FieryGem,1999,4248.62,12,1,cheapstuff3,cheap
+52.93,22000,FieryGem,2000,4248.62,12,27,Fortis,All cheap
+52.93,22000,FieryGem,2000,4248.62,12,6,Paradise,buy my garbage
+52.93,22000,FieryGem,2000,4248.62,12,9,BuyingSta4ll7,ROCK FRAG | GOLD PIRATE SCROLLS
 51.61,28448,Fire Sealed Cloak of Evanescence,10000,20666.5,4,1,ZafirRose,GPS LBS JACKPOT COIN
 51.3,29062,Field Brew,49,100.62,4,14,xLiliith,Some good things for you! <3
-50.92,30171,Ticket to Demonic World,250,509.39,5,14,Shop1,darkblue
+50.95,30171,Ticket to Demonic World,250,509.74,5,14,Shop1,darkblue
+50.8,22001,Furious Gem,1990,4044.6,9,68,STAII,Cheap pots
+50.55,22001,Furious Gem,2000,4044.6,9,11,Paradise,buy my garbage
+50.55,22001,Furious Gem,2000,4044.6,9,10,vendedolmax,2000
 50.52,25415,Fallen Sensai's Sai,70,141.47,3,2,Kalista,flash bomb / detector/ radiation
 50.29,30122,Vial of Spirit Reset,2000,4023.48,6,1,Fortis,All cheap
 50.29,30122,Vial of Spirit Reset,2000,4023.48,6,1,DoaaPepa,D O N   P E P E
