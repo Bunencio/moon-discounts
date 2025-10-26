@@ -1,10 +1,9 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,25452,Rock Gem Fragment,1,33127.35,12,2,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,33127.35,12,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,1,31524.23,12,2,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,31524.23,12,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,336986.77,8,2,iTonik,300Imps Only
 100.0,25525,,3,336986.77,8,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
-100.0,28136,Crown of Decendant,12,425004.5,4,1,KaChing,CRUS UNS
-100.0,28136,Crown of Decendant,6,425004.5,4,1,smoI,go
+100.0,28136,Crown of Decendant,12,566670.67,3,1,KaChing,CRUS UNS
 100.0,28454,Ice Sealed Blade of Enigma,7,388890.89,6,1,Yusuf,SEALED CRUS
 100.0,28454,Ice Sealed Blade of Enigma,14,388890.89,6,1,Yusuf,SEALED CRUS
 100.0,28491,Ice Sealed Greaves of Enigma,1,119702.2,4,1,stallerx,Lumber/ str pet/ boi/ frags/ pur
@@ -13,21 +12,21 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 99.99,25451,Jade Gem Fragment,1,19706.22,7,9,monchito1,00.00
 99.99,25451,Jade Gem Fragment,1,19706.22,7,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-99.99,25452,Rock Gem Fragment,2,33127.35,12,1,Coffi,FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,33127.35,12,18,monchito1,00.00
+99.99,25452,Rock Gem Fragment,2,31524.23,12,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,31524.23,12,18,monchito1,00.00
 99.99,25525,,30,336986.77,8,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,24,336986.77,8,1,Almao,DEMONIC GEM / KAL RUNESTONE
 99.99,27020,Gold Pirate Scroll,2,25936.02,13,5,Gastro,cap gps pet
 99.99,28491,Ice Sealed Greaves of Enigma,10,119702.2,4,1,ShowMaker,Doe +7 / game of rage  ...
 99.99,29323,Nimble Venturer,20,167502.12,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9642.09,13,2,Gastro,cap gps pet
-99.98,25452,Rock Gem Fragment,7,33127.35,12,20,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
+99.99,30156,Jackpot Coin,1,9706.82,13,2,Gastro,cap gps pet
+99.98,25452,Rock Gem Fragment,7,31524.23,12,20,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28327,Great Aqua Cap,4,16675.0,3,1,AAA123,1313213131
 99.97,25451,Jade Gem Fragment,6,19706.22,7,24,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
 99.87,28327,Great Aqua Cap,21,16675.0,3,1,Guardian,S> SM/VOY CAPS
-98.29,25124,Bottle,1,58.53,3,1,Saladinhastall,TUNA/FLASH AND RANDOM
+98.3,25124,Bottle,1,58.9,4,1,Saladinhastall,TUNA/FLASH AND RANDOM
 92.23,26564,Meditation Potion,49,630.33,3,153,stuffholder,cheap
 92.07,26564,Meditation Potion,50,630.33,3,199,lamamandoski,auto
 88.01,25501,Brown Colorant,200,1668.18,3,1,xVENDORx,RUSH
@@ -40,7 +39,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 66.67,29312,Ring of Might,4,12.0,3,1,Saudagar,Champ / crus stuff and gem
 62.69,30121,Vial of Accuracy Reset,1800,4824.22,7,1,HyjoSeller,RESTOCK
 59.67,29018,Standard 15 Crafting EXP Card,390,967.06,4,1,FT2,Fresh Imps
-58.99,26589,Potion of Bull,900,2194.8,15,7,StepanBendera,FB/SouDet/Warrior/Radiation/GPS
+59.07,26589,Potion of Bull,900,2198.89,16,7,StepanBendera,FB/SouDet/Warrior/Radiation/GPS
 58.54,30121,Vial of Accuracy Reset,2000,4824.22,7,1,Fortis,All cheap
 58.54,30121,Vial of Accuracy Reset,2000,4824.22,7,1,cheapstuff3,cheap
 58.54,30121,Vial of Accuracy Reset,2000,4824.22,7,1,DoaaPepa,D O N   P E P E
@@ -53,5 +52,6 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.55,25507,Expert Stone,550,1265.72,6,44,sellerforfree,cheap
 55.87,25440,Evanescence Stone,250,566.49,4,18,HyjoSeller,RESTOCK
 53.23,26590,Potion of Soul,1500,3207.45,8,22,ANTYBUFFY,jew purse rock Frags / Potions
-51.86,26588,Potion of Eagle,1200,2492.54,7,1,amiix,gps pps rbs pbs rgf
+51.86,26588,Potion of Eagle,1200,2492.56,8,1,amiix,gps pps rbs pbs rgf
 51.3,29062,Field Brew,49,100.62,4,14,xLiliith,Some good things for you! <3
+50.63,30171,Ticket to Demonic World,250,506.38,6,14,Shop1,darkblue
