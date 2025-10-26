@@ -6,9 +6,9 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,25452,Rock Gem Fragment,1,35764.58,9,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,336301.84,8,2,iTonik,300Imps Only
 100.0,25525,,3,336301.84,8,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
-100.0,28136,Crown of Decendant,12,566670.67,3,1,KaChing,CRUS UNS
-100.0,28454,Ice Sealed Blade of Enigma,7,357145.43,6,1,Yusuf,SEALED CRUS
-100.0,28454,Ice Sealed Blade of Enigma,14,357145.43,6,1,Yusuf,SEALED CRUS
+100.0,28136,Crown of Decendant,12,550003.67,3,1,KaChing,CRUS UNS
+100.0,28454,Ice Sealed Blade of Enigma,7,283336.33,5,1,Yusuf,SEALED CRUS
+100.0,28454,Ice Sealed Blade of Enigma,14,283336.33,5,1,Yusuf,SEALED CRUS
 100.0,29310,Ring of Hawk,4,440000.8,3,1,Banteng,RING OF HAWK LV 60 ACC/AGI
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
@@ -21,7 +21,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 99.99,28429,Dance of Evanescence,28,250019.0,3,1,ShowMaker,Doe +7 / game of rage  ...
 99.99,28440,Fire Sealed Roar of Evanescence,1,7249.75,4,1,Perversu,Mega offer Cheap Items !!!
 99.99,29323,Nimble Venturer,20,167502.12,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9536.43,13,2,Gastro,cap gps pet
+99.99,30156,Jackpot Coin,1,9536.88,13,2,Gastro,cap gps pet
 99.98,25451,Jade Gem Fragment,6,26200.89,7,15,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
 99.98,25452,Rock Gem Fragment,7,35764.58,9,11,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
@@ -38,21 +38,22 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 72.29,25431,Kal Runestone,11,39.7,3,6,ShowerBro,afk
 66.67,29312,Ring of Might,4,12.0,3,1,Saudagar,Champ / crus stuff and gem
 66.67,29312,Ring of Might,4,12.0,3,1,Saudagar,Champ / crus stuff and gem
+64.06,30121,Vial of Accuracy Reset,1800,5008.82,6,1,HyjoSeller,RESTOCK
 62.82,25211,Tropical Drumstick,80,215.18,4,99,Toad,EARTH ROCK-MYSTIC LEAT-CRUSS CHA
 62.82,25211,Tropical Drumstick,80,215.18,4,16,Toad,EARTH ROCK-MYSTIC LEAT-CRUSS CHA
-62.78,30121,Vial of Accuracy Reset,1800,4836.41,7,1,HyjoSeller,RESTOCK
+60.07,30121,Vial of Accuracy Reset,2000,5008.82,6,1,Fortis,All cheap
+60.07,30121,Vial of Accuracy Reset,2000,5008.82,6,1,DoaaPepa,D O N   P E P E
 59.04,26589,Potion of Bull,900,2197.03,16,7,StepanBendera,FB/SouDet/Warrior/Radiation/GPS
-58.65,30121,Vial of Accuracy Reset,2000,4836.41,7,1,Fortis,All cheap
-58.65,30121,Vial of Accuracy Reset,2000,4836.41,7,1,DoaaPepa,D O N   P E P E
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
 58.14,30118,Vial of Strength Reset,2000,4777.78,5,1,Yennefer,JADE FIRE ROCK FRAG MOON CLOUD
 57.04,25507,Expert Stone,549,1277.89,5,2,xLiliith,Some good things for you! <3
 56.41,29018,Standard 15 Crafting EXP Card,390,894.67,4,1,FT2,Fresh Imps
-52.6,25440,Evanescence Stone,250,527.48,3,18,HyjoSeller,RESTOCK
+55.12,25440,Evanescence Stone,250,557.08,4,18,HyjoSeller,RESTOCK
 52.53,29023,Standard 15 Treasure Hunting EXP Card,800,1685.35,4,20,hunterx,UG colo/rage/imps/repu/bp/fb/etc
 51.88,26588,Potion of Eagle,1200,2494.0,9,1,amiix,gps pps rbs pbs rgf
 51.3,29062,Field Brew,49,100.62,4,14,xLiliith,Some good things for you! <3
 51.0,30171,Ticket to Demonic World,250,510.19,6,14,Shop1,darkblue
-50.26,26590,Potion of Soul,1500,3015.73,10,22,ANTYBUFFY,jew purse rock Frags / Potions
+50.09,30121,Vial of Accuracy Reset,2500,5008.82,6,4,cheapstuffsell,cheap
+50.09,30121,Vial of Accuracy Reset,2500,5008.82,6,1,cheapstuff3,cheap
