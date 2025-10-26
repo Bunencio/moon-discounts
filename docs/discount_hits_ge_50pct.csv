@@ -1,40 +1,37 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,25452,Rock Gem Fragment,1,29603.1,12,2,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,29603.1,12,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-100.0,25525,,3,332163.3,10,2,iTonik,300Imps Only
-100.0,25525,,3,332163.3,10,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
+100.0,25451,Jade Gem Fragment,1,39825.86,5,9,monchito1,00.00
+100.0,25451,Jade Gem Fragment,1,39825.86,5,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,2,47407.96,11,1,Coffi,FRAGMENTS
+100.0,25452,Rock Gem Fragment,1,47407.96,11,2,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,2,47407.96,11,18,monchito1,00.00
+100.0,25452,Rock Gem Fragment,1,47407.96,11,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25525,,3,332877.88,9,2,iTonik,300Imps Only
+100.0,25525,,3,332877.88,9,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28136,Crown of Decendant,12,600003.0,4,1,KaChing,CRUS UNS
 100.0,28454,Ice Sealed Blade of Enigma,7,388890.89,6,1,Yusuf,SEALED CRUS
 100.0,28454,Ice Sealed Blade of Enigma,14,388890.89,6,1,Yusuf,SEALED CRUS
 100.0,28491,Ice Sealed Greaves of Enigma,1,119702.8,4,1,stallerx,Lumber/ str pet/ boi/ frags/ pur
-100.0,29305,Ring of Destruction,1,92000.4,3,1,Skadi#79,UNS 65 ARMOR CHAMP CHEAP
-100.0,29305,Ring of Destruction,1,92000.4,3,1,Skadi#79,UNS 65 ARMOR CHAMP CHEAP
+100.0,29305,Ring of Destruction,1,92000.4,3,1,Skadi#79,UNS CHAMP ARMOR 4.5K IMPS
+100.0,29305,Ring of Destruction,1,92000.4,3,1,Skadi#79,UNS CHAMP ARMOR 4.5K IMPS
 100.0,29310,Ring of Hawk,4,440000.8,3,1,Banteng,RING OF HAWK LV 60 ACC/AGI
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
-99.99,25451,Jade Gem Fragment,1,19706.74,7,9,monchito1,00.00
-99.99,25451,Jade Gem Fragment,1,19706.74,7,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-99.99,25452,Rock Gem Fragment,2,29603.1,12,1,Coffi,FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,29603.1,12,18,monchito1,00.00
-99.99,25525,,30,332163.3,10,2,Xiomarvic,Jewel - Universal purse frag
-99.99,25525,,24,332163.3,10,1,Almao,DEMONIC GEM / KAL RUNESTONE
-99.99,27020,Gold Pirate Scroll,2,25740.84,13,5,Gastro,cap gps pet
-99.99,27020,Gold Pirate Scroll,3,25740.84,13,6,xNerox,Bank cleaning
+99.99,25525,,30,332877.88,9,2,Xiomarvic,Jewel - Universal purse frag
+99.99,25525,,24,332877.88,9,1,Almao,DEMONIC GEM / KAL RUNESTONE
+99.99,27020,Gold Pirate Scroll,2,25824.03,14,5,Gastro,cap gps pet
+99.99,27020,Gold Pirate Scroll,3,25824.03,14,6,xNerox,Bank cleaning
 99.99,28491,Ice Sealed Greaves of Enigma,13,119702.8,4,1,xNerox,Bank cleaning
-99.99,29323,Nimble Venturer,20,167502.12,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9817.69,12,2,Gastro,cap gps pet
-99.98,25452,Rock Gem Fragment,7,29603.1,12,35,ESNAIDER,SELL GEM FRAG FOR IMPS
-99.98,25525,,50,332163.3,10,1,xNerox,Bank cleaning
+99.99,29323,Nimble Venturer,20,164288.29,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
+99.99,30156,Jackpot Coin,1,9663.43,12,2,Gastro,cap gps pet
+99.98,25525,,50,332877.88,9,1,xNerox,Bank cleaning
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28327,Great Aqua Cap,4,16675.0,3,1,AAA123,1313213131
-99.96,25451,Jade Gem Fragment,7,19706.74,7,24,ESNAIDER,SELL GEM FRAG FOR IMPS
 99.87,28327,Great Aqua Cap,21,16675.0,3,1,Guardian,S> SM/VOY CAPS
 98.3,25124,Bottle,1,58.79,3,1,Saladinhastall,TUNA/FLASH AND RANDOM
 88.01,25501,Brown Colorant,200,1668.18,3,1,xVENDORx,RUSH
 87.73,25493,Orange Colorant,200,1629.41,3,1,xVENDORx,RUSH
-87.67,28466,Ice Sealed Judgment of Enigma,29999,243332.67,3,1,BjornIronside,@@@@
-76.89,25430,Enigma Power,1000,4326.53,7,1,ATHALIAH,SALE SALE
+76.59,25430,Enigma Power,1000,4271.15,7,1,ATHALIAH,SALE SALE
 66.67,29312,Ring of Might,4,12.0,3,1,Saudagar,Champ / crus stuff and gem
 66.67,29312,Ring of Might,4,12.0,3,1,Saudagar,Champ / crus stuff and gem
 64.69,22000,FieryGem,1500,4248.62,12,1,WannaBE,Cheap!!!
@@ -45,7 +42,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 60.06,30121,Vial of Accuracy Reset,2000,5007.15,8,1,Fortis,All cheap
 60.06,30121,Vial of Accuracy Reset,2000,5007.15,8,1,cheapstuff3,cheap
 60.06,30121,Vial of Accuracy Reset,2000,5007.15,8,1,DoaaPepa,D O N   P E P E
-59.9,26589,Potion of Bull,900,2244.66,17,7,StepanBendera,FB/SouDet/Warrior/Radiation/GPS
+59.96,26589,Potion of Bull,900,2247.79,17,7,StepanBendera,FB/SouDet/Warrior/Radiation/GPS
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,Sysh,SELL SOME GEMS
 58.33,29312,Ring of Might,5,12.0,3,1,WhynotSS,spr PET NECK AND BOOTS CLERIC
@@ -54,13 +51,15 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.63,25507,Expert Stone,549,1265.72,6,2,xLiliith,Some good things for you! <3
 56.55,25507,Expert Stone,550,1265.72,6,44,sellerforfree,cheap
 55.87,25440,Evanescence Stone,250,566.49,4,18,HyjoSeller,RESTOCK
-54.55,26590,Potion of Soul,1500,3300.65,10,22,ANTYBUFFY,jew purse rock Frags / Potions
+54.59,26590,Potion of Soul,1500,3303.32,10,22,ANTYBUFFY,jew purse rock Frags / Potions
 53.16,22000,FieryGem,1990,4248.62,12,53,STAII,Cheap pots
 52.95,22000,FieryGem,1999,4248.62,12,1,cheapstuff3,cheap
 52.93,22000,FieryGem,2000,4248.62,12,27,Fortis,All cheap
 52.93,22000,FieryGem,2000,4248.62,12,6,Paradise,buy my garbage
-52.93,22000,FieryGem,2000,4248.62,12,9,BuyingSta4ll7,ROCK FRAG | GOLD PIRATE SCROLLS
+52.93,22000,FieryGem,2000,4248.62,12,9,BuyingSta4ll7,GPS | ROCK FRAG | JACK | POTS ++
+51.99,26588,Potion of Eagle,1200,2499.54,8,1,amiix,gps pps rbs pbs rgf
 51.61,28448,Fire Sealed Cloak of Evanescence,10000,20666.5,4,1,ZafirRose,GPS LBS JACKPOT COIN
+51.44,26002,Pharaoh Gem,1300,2677.17,7,14,amiix,gps pps rbs pbs rgf
 51.3,29062,Field Brew,49,100.62,4,14,xLiliith,Some good things for you! <3
 50.95,30171,Ticket to Demonic World,250,509.74,5,14,Shop1,darkblue
 50.8,22001,Furious Gem,1990,4044.6,9,68,STAII,Cheap pots
