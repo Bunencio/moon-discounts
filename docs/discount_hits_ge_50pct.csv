@@ -1,6 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,25452,Rock Gem Fragment,1,31524.23,12,2,Goliat,Fragment Store
-100.0,25452,Rock Gem Fragment,1,31524.23,12,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
+100.0,25452,Rock Gem Fragment,1,33752.39,12,2,Goliat,Fragment Store
+100.0,25452,Rock Gem Fragment,1,33752.39,12,2,xxD,UG SOUL / ROCK GEM / GREEN FRAG
 100.0,25525,,3,336986.77,8,2,iTonik,300Imps Only
 100.0,25525,,3,336986.77,8,2,stallerx,Lumber/ str pet/ boi/ frags/ pur
 100.0,28136,Crown of Decendant,12,566670.67,3,1,KaChing,CRUS UNS
@@ -12,17 +12,17 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 100.0,29327,Ring of Devastation,5,333335.0,3,1,AAA123,1313213131
 99.99,25451,Jade Gem Fragment,1,19706.22,7,9,monchito1,00.00
 99.99,25451,Jade Gem Fragment,1,19706.22,7,1,xxD,UG SOUL / ROCK GEM / GREEN FRAG
-99.99,25452,Rock Gem Fragment,2,31524.23,12,1,Coffi,FRAGMENTS
-99.99,25452,Rock Gem Fragment,2,31524.23,12,18,monchito1,00.00
+99.99,25452,Rock Gem Fragment,2,33752.39,12,1,Coffi,FRAGMENTS
+99.99,25452,Rock Gem Fragment,2,33752.39,12,18,monchito1,00.00
 99.99,25525,,30,336986.77,8,2,Xiomarvic,Jewel - Universal purse frag
 99.99,25525,,24,336986.77,8,1,Almao,DEMONIC GEM / KAL RUNESTONE
-99.99,27020,Gold Pirate Scroll,2,25929.16,13,5,Gastro,cap gps pet
+99.99,27020,Gold Pirate Scroll,2,26573.36,14,5,Gastro,cap gps pet
 99.99,28429,Dance of Evanescence,29,250019.0,3,1,ShowMaker,Doe +7 / game of rage  ...
 99.99,28429,Dance of Evanescence,28,250019.0,3,1,ShowMaker,Doe +7 / game of rage  ...
 99.99,28491,Ice Sealed Greaves of Enigma,10,125002.75,3,1,ShowMaker,Doe +7 / game of rage  ...
 99.99,29323,Nimble Venturer,20,167502.12,6,1,DemiMerchant,99c Item mall Stuff Cheap 99c
-99.99,30156,Jackpot Coin,1,9695.98,14,2,Gastro,cap gps pet
-99.98,25452,Rock Gem Fragment,7,31524.23,12,20,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
+99.99,30156,Jackpot Coin,1,9638.02,16,2,Gastro,cap gps pet
+99.98,25452,Rock Gem Fragment,7,33752.39,12,20,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.98,28135,Crown of Poseidon,20,112509.5,3,1,DemiMerchant,99c Item mall Stuff Cheap 99c
 99.97,25451,Jade Gem Fragment,6,19706.22,7,24,ESNAIDER,SELL ROCK/KAL/ GEM FRAG
@@ -33,13 +33,14 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 87.73,25493,Orange Colorant,200,1629.41,3,1,xVENDORx,RUSH
 81.82,28466,Ice Sealed Judgment of Enigma,29999,164999.5,4,1,BjornIronside,@@@@
 81.82,28466,Ice Sealed Judgment of Enigma,30000,164999.5,4,1,xBinibirocha,PET LV 20 STR / SEALED WEAP RUSH
+77.78,28464,Ice Sealed Tattoo of Enigma,20000,89999.67,3,1,Gryffindor,gps and offers
 72.29,25431,Kal Runestone,11,39.7,3,1,ZzZzZzZ,Con Pet 2Gen / Kals
 72.29,25431,Kal Runestone,11,39.7,3,6,ShowerBro,afk
 66.67,29312,Ring of Might,4,12.0,3,1,Saudagar,Champ / crus stuff and gem
 66.67,29312,Ring of Might,4,12.0,3,1,Saudagar,Champ / crus stuff and gem
 62.69,30121,Vial of Accuracy Reset,1800,4824.22,7,1,HyjoSeller,RESTOCK
 59.67,29018,Standard 15 Crafting EXP Card,390,967.06,4,1,FT2,Fresh Imps
-59.07,26589,Potion of Bull,900,2198.89,16,7,StepanBendera,FB/SouDet/Warrior/Radiation/GPS
+59.09,26589,Potion of Bull,900,2199.72,16,7,StepanBendera,FB/SouDet/Warrior/Radiation/GPS
 58.54,30121,Vial of Accuracy Reset,2000,4824.22,7,1,Fortis,All cheap
 58.54,30121,Vial of Accuracy Reset,2000,4824.22,7,1,cheapstuff3,cheap
 58.54,30121,Vial of Accuracy Reset,2000,4824.22,7,1,DoaaPepa,D O N   P E P E
@@ -51,7 +52,7 @@ discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
 56.63,25507,Expert Stone,549,1265.72,6,2,xLiliith,Some good things for you! <3
 56.55,25507,Expert Stone,550,1265.72,6,44,sellerforfree,cheap
 55.87,25440,Evanescence Stone,250,566.49,4,18,HyjoSeller,RESTOCK
-53.23,26590,Potion of Soul,1500,3207.45,8,22,ANTYBUFFY,jew purse rock Frags / Potions
-51.86,26588,Potion of Eagle,1200,2492.56,8,1,amiix,gps pps rbs pbs rgf
+52.13,26588,Potion of Eagle,1200,2506.88,9,1,amiix,gps pps rbs pbs rgf
+51.53,26590,Potion of Soul,1500,3094.69,9,22,ANTYBUFFY,jew purse rock Frags / Potions
 51.3,29062,Field Brew,49,100.62,4,14,xLiliith,Some good things for you! <3
 50.63,30171,Ticket to Demonic World,250,506.38,6,14,Shop1,darkblue
