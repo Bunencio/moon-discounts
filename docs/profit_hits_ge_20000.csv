@@ -1,4 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-10-30,30139,100x Crystal,King,:),1,97490.12,97489.12,14,1364847.73,100.0,3
-2025-10-30,30139,100x Crystal,Unknown?,Dalematian,1,97490.12,97489.12,7,682423.86,100.0,3
-2025-10-30,27019,Purple Pirate Scroll,Ivynor,Pirate scroll,3500,3702.16,202.16,99,20014.31,5.46,5
+2025-10-30,30139,100x Crystal,King,:),1,100286.94,100285.94,14,1404003.2,100.0,3
+2025-10-30,27019,Purple Pirate Scroll,Ivynor,Pirate scroll,3500,3702.67,202.67,99,20063.86,5.47,5
