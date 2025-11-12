@@ -1,2 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-11-12,30139,100x Crystal,cheapstuffguys,buy imps,117300,120845.76,3545.76,51,180833.9,2.93,3
+2025-11-12,30139,100x Crystal,cheapstuffguys,buy imps,117300,120654.69,3354.69,51,171089.06,2.78,4
+2025-11-12,30139,100x Crystal,Unknown?,buy imp,118400,120654.69,2254.69,10,22546.88,1.87,4
