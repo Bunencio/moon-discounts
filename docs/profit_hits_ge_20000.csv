@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-11-19,30139,100x Crystal,Unknown?,buy imps,100000,108133.94,8133.94,13,105741.28,7.52,5
-2025-11-19,30139,100x Crystal,Unknown?,beast5 discount coupon code mall,104000,108133.94,4133.94,7,28937.61,3.82,5
+2025-11-19,30139,100x Crystal,Unknown?,buy imps,100000,109338.29,9338.29,13,121397.75,8.54,6
+2025-11-19,30139,100x Crystal,Unknown?,beast5 discount coupon code mall,104000,109338.29,5338.29,7,37368.02,4.88,6
+2025-11-19,30139,100x Crystal,mbank,buy imps,107000,109338.29,2338.29,11,25721.17,2.14,6
