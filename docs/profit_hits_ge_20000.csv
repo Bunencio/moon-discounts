@@ -1,4 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-11-20,25392,Dolphin Skin,AuronPlay,Buy,1300,1536.36,236.36,99,23400.0,15.38,3
-2025-11-20,30139,100x Crystal,BlackVoy,Buy IMP,100000,101915.25,1915.25,20,38305.08,1.88,4
-2025-11-20,30139,100x Crystal,Unknown?,buy imps,100000,101915.25,1915.25,13,24898.31,1.88,4
+2025-11-20,30139,100x Crystal,Unknown?,buy imps,100000,102306.12,2306.12,13,29979.59,2.25,4
+2025-11-20,30139,100x Crystal,BlackVoy,Buy IMP,100000,102306.12,2306.12,10,23061.22,2.25,4
