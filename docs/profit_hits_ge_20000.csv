@@ -1,5 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-11-22,30139,100x Crystal,BuffBuff,Ryujhin,1,49506.48,49505.48,9,445549.32,100.0,4
 2025-11-22,26325,Elven Signet,hokka,BUYING IMPS -- BEST PRICE -- BUY,61,180.05,119.05,200,23810.86,66.12,5
 2025-11-22,26325,Elven Signet,hokka,BUYING IMPS -- BEST PRICE -- BUY,61,180.05,119.05,200,23810.86,66.12,5
 2025-11-22,26325,Elven Signet,hokka,BUYING IMPS -- BEST PRICE -- BUY,61,180.05,119.05,200,23810.86,66.12,5
@@ -9,3 +8,4 @@ date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,disco
 2025-11-22,26325,Elven Signet,hokka,BUYING IMPS -- BEST PRICE -- BUY,61,180.05,119.05,200,23810.86,66.12,5
 2025-11-22,26325,Elven Signet,hokka,BUYING IMPS -- BEST PRICE -- BUY,61,180.05,119.05,200,23810.86,66.12,5
 2025-11-22,26325,Elven Signet,hokka,BUYING IMPS -- BEST PRICE -- BUY,61,180.05,119.05,200,23810.86,66.12,5
+2025-11-22,25392,Dolphin Skin,AuronPlay,buy,1300,1643.6,343.6,99,34016.04,20.91,3
