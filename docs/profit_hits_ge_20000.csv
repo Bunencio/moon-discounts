@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-11-29,30139,100x Crystal,regal,regal,1,76311.4,76310.4,10,763104.02,100.0,8
-2025-11-29,30139,100x Crystal,Unknown?,Dalematian,1,76311.4,76310.4,9,686793.62,100.0,8
+2025-11-29,30139,100x Crystal,regal,regal,1,78017.38,78016.38,10,780163.83,100.0,8
+2025-11-29,30139,100x Crystal,Unknown?,Dalematian,1,78017.38,78016.38,9,702147.45,100.0,8
+2025-11-29,25527,,aRaluca,ez money!!,100,109675.0,109575.0,9,986175.0,99.91,3
