@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2025-12-01,30139,100x Crystal,xPhant,Phant,1,42093.42,42092.42,12,505108.99,100.0,5
 2025-12-01,30139,100x Crystal,Pookie,S> IMPS,1000,42093.42,41093.42,99,4068248.18,97.62,5
+2025-12-01,25527,,MysticLeafStore,buying ca items/gps/imps/pps,222000,223999.87,1999.87,18,35997.65,0.89,3
