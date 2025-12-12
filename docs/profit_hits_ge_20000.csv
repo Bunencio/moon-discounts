@@ -1,2 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-12-12,30139,100x Crystal,Kendy,B> IMPS,100000,102979.58,2979.58,40,119183.1,2.89,4
+2025-12-12,30139,100x Crystal,Kendy,B> IMPS,100000,102589.74,2589.74,40,103589.74,2.52,5
+2025-12-12,30139,100x Crystal,P0K3R,B>IMPS,100100,102589.74,2489.74,19,47305.13,2.43,5
