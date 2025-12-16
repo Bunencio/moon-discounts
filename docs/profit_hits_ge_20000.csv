@@ -1,3 +1,6 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-12-16,30139,100x Crystal,Saint,IMPs,90000,94736.24,4736.24,40,189449.54,5.0,4
-2025-12-16,30139,100x Crystal,2iqSm,BUY IMPS,90000,94736.24,4736.24,18,85252.29,5.0,4
+2025-12-16,30139,100x Crystal,Saint,IMPs,90000,98001.34,8001.34,40,320053.76,8.16,6
+2025-12-16,30139,100x Crystal,2iqSm,BUY IMPS,90000,98001.34,8001.34,18,144024.19,8.16,6
+2025-12-16,30139,100x Crystal,aRaluca,ez money!!,96000,98001.34,2001.34,91,182122.31,2.04,6
+2025-12-16,30139,100x Crystal,cookingblueprint,Buying Imps/elven signets,97000,98001.34,1001.34,34,34045.7,1.02,6
+2025-12-16,30139,100x Crystal,BloodRevenge,buy imps best price,97100,98001.34,901.34,35,31547.04,0.92,6
