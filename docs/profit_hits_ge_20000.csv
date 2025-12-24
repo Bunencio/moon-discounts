@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-12-24,30139,100x Crystal,CrackHead,PorroChoreto,1,93270.33,93269.33,16,1492309.32,100.0,8
-2025-12-24,30139,100x Crystal,Gaso,Gaso,1,93270.33,93269.33,2,186538.67,100.0,8
+2025-12-24,30139,100x Crystal,CrackHead,PorroChoreto,1,91815.84,91814.84,16,1469037.44,100.0,8
+2025-12-24,30139,100x Crystal,TJhonsonRock,Abmoon,1,91815.84,91814.84,8,734518.72,100.0,8
+2025-12-24,30139,100x Crystal,Gaso,Gaso,1,91815.84,91814.84,2,183629.68,100.0,8
