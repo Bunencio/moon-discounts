@@ -1,4 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2025-12-25,30139,100x Crystal,stallaaa,buy imps,95100,98431.94,3331.94,99,329861.82,3.39,9
-2025-12-25,30139,100x Crystal,stallaaa,buy imps,95100,98431.94,3331.94,75,249895.32,3.39,9
-2025-12-25,30139,100x Crystal,aRaluca,ez money,96000,98431.94,2431.94,99,240761.82,2.47,9
+2025-12-25,30139,100x Crystal,sakurita,sakurita,1,95962.97,95961.97,16,1535391.53,100.0,10
+2025-12-25,30139,100x Crystal,stallaaa,buy imps,95100,95962.97,862.97,99,85434.12,0.9,10
+2025-12-25,30139,100x Crystal,stallaaa,buy imps,95100,95962.97,862.97,75,64722.82,0.9,10
