@@ -1,3 +1,6 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2026-01-02,30139,100x Crystal,Nana,Signur,1,115758.74,115757.74,8,926061.89,100.0,9
+2026-01-02,26012,,Babi01,buy gps/coin,1400,1655.93,255.93,99,25337.09,15.46,3
+2026-01-02,26012,,Babi01,buy gps/coin,1400,1655.93,255.93,99,25337.09,15.46,3
+2026-01-02,26012,,Babi01,buy gps/coin,1400,1655.93,255.93,79,20218.49,15.46,3
 2026-01-02,30139,100x Crystal,Lisa,BUY IMPS DROP HERE,105000,115758.74,10758.74,12,129104.84,9.29,9
