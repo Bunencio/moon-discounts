@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2026-01-04,26012,,Babi01,buy gps/coin,1400,1765.79,365.79,99,36213.16,20.72,3
-2026-01-04,30139,100x Crystal,BiggBosss,B> imp            buy crystal,110000,120246.5,10246.5,25,256162.47,8.52,6
+2026-01-04,30139,100x Crystal,BiggBosss,B> imp            buy crystal,110000,120801.05,10801.05,25,270026.22,8.94,7
+2026-01-04,30139,100x Crystal,P0K3R,B>IMPS,120500,120801.05,301.05,77,23180.77,0.25,7
