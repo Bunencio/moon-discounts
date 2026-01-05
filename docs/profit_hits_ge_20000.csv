@@ -1,8 +1,8 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2026-01-05,30139,100x Crystal,TJhonsonRock,Abmoon,1,118363.8,118362.8,5,591813.98,100.0,7
-2026-01-05,26002,Pharaoh Gem,Babi01,buy gps/coin,1000,1337.95,337.95,99,33457.01,25.26,3
-2026-01-05,26002,Pharaoh Gem,Babi01,buy gps/coin,1000,1337.95,337.95,99,33457.01,25.26,3
-2026-01-05,26002,Pharaoh Gem,Babi01,buy gps/coin,1000,1337.95,337.95,86,29063.67,25.26,3
-2026-01-05,26012,,Babi01,buy gps/coin,1400,1752.57,352.57,77,27148.0,20.12,3
+2026-01-05,26002,Pharaoh Gem,Babi01,buy gps/coin,1000,1331.2,331.2,99,32789.23,24.88,3
+2026-01-05,26002,Pharaoh Gem,Babi01,buy gps/coin,1000,1331.2,331.2,99,32789.23,24.88,3
+2026-01-05,26002,Pharaoh Gem,Babi01,buy gps/coin,1000,1331.2,331.2,86,28483.58,24.88,3
+2026-01-05,26012,,Babi01,buy gps/coin,1400,1712.74,312.74,77,24080.89,18.26,3
 2026-01-05,30139,100x Crystal,Hydo,BUY IMPS,100000,118363.8,18363.8,22,404003.53,15.51,7
 2026-01-05,30139,100x Crystal,BiggBosss,B> imp            buy crystal,110000,118363.8,8363.8,25,209094.92,7.07,7
