@@ -1,2 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,30139,100x Crystal,4,117971.44,5,4,April,IMP
+100.0,30139,100x Crystal,4,119816.92,7,4,April,IMP
+99.99,30140,10x Crystal,1,10340.3,3,1,HeadShot,:)
+99.99,30140,10x Crystal,1,10340.3,3,9,April,IMP
