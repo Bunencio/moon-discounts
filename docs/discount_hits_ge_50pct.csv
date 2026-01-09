@@ -1,5 +1,6 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,30139,100x Crystal,1,120545.38,8,2,Toy,toyboy
-100.0,30139,100x Crystal,1,120545.38,8,6,xapollox,2
+100.0,30139,100x Crystal,1,119315.35,9,2,Toy,toyboy
+100.0,30139,100x Crystal,2,119315.35,9,4,Mortelix,mortelix
+100.0,30139,100x Crystal,1,119315.35,9,6,xapollox,2
 99.99,30140,10x Crystal,1,10865.89,3,3,Toy,toyboy
 99.99,30140,10x Crystal,1,10865.89,3,4,xapollox,2
