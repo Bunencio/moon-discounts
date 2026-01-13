@@ -1,4 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-01-12,30139,100x Crystal,aRaluca,ez money!!!,122100,130818.35,8718.35,41,357452.47,6.66,8
-2026-01-12,30139,100x Crystal,Mallwart,B>IMPS,122300,130818.35,8518.35,99,843316.94,6.51,8
-2026-01-12,30139,100x Crystal,BiggBosss,B> crystal  buy imp,125000,130818.35,5818.35,15,87275.29,4.45,8
+2026-01-13,22434,,aRaluca,ez money!!!,90000,99284.4,9284.4,10,92844.04,9.35,3
+2026-01-13,30139,100x Crystal,aRaluca,ez money!!!,122100,129666.76,7566.76,41,310237.25,5.84,8
+2026-01-13,30139,100x Crystal,Mallwart,B>IMPS,122300,129666.76,7366.76,99,729309.46,5.68,8
+2026-01-13,30139,100x Crystal,BiggBosss,B> crystal  buy imp,125000,129666.76,4666.76,15,70001.43,3.6,8
