@@ -1,3 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-01-15,30139,100x Crystal,Eka,EKA,1,133042.72,133041.72,10,1330417.2,100.0,7
-2026-01-15,30139,100x Crystal,BiggBosss,B> imp Buy crystal,125555,133042.72,7487.72,15,112315.8,5.63,7
+2026-01-16,30139,100x Crystal,Eka,EKA,1,133042.72,133041.72,10,1330417.2,100.0,7
+2026-01-16,27020,Gold Pirate Scroll,Babi01,buy gps,9000,10012.84,1012.84,99,100271.56,10.12,3
+2026-01-16,27020,Gold Pirate Scroll,Babi01,buy gps,9000,10012.84,1012.84,71,71911.93,10.12,3
+2026-01-16,30139,100x Crystal,BiggBosss,B> imp Buy crystal,125555,133042.72,7487.72,15,112315.8,5.63,7
