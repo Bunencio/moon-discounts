@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-01-19,30139,100x Crystal,Tampinha,IMMORTALLITY,1,129130.97,129129.97,6,774779.8,100.0,6
-2026-01-19,30139,100x Crystal,Saint,IMP,1,129130.97,129129.97,1,129129.97,100.0,6
+2026-01-19,30139,100x Crystal,Tampinha,IMMORTALLITY,1,128964.39,128963.39,6,773780.31,100.0,7
+2026-01-19,30139,100x Crystal,Saint,IMP,1,128964.39,128963.39,1,128963.39,100.0,7
+2026-01-19,30139,100x Crystal,BiggBosss,B> crystal B> imp,125555,128964.39,3409.39,15,51140.78,2.64,7
