@@ -1,3 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2026-01-28,30139,100x Crystal,DayOne,need food,1,120565.64,120564.64,9,1085081.77,100.0,5
-2026-01-28,22437,,S1asher,Drop BraceletFrag/ShadowCr/XmasD,436500,442900.0,6400.0,8,51200.0,1.45,6
+2026-01-28,22437,,S1asher,Drop BraceletFrag/ShadowCr/XmasD,436500,451450.0,14950.0,8,119600.0,3.31,7
+2026-01-28,22437,,S1asher,Drop BraceletFrag/ShadowCr/XmasD,440000,451450.0,11450.0,6,68700.0,2.54,7
+2026-01-28,22437,,S1asher,Drop BraceletFrag/ShadowCr/XmasD,445700,451450.0,5750.0,5,28750.0,1.27,7
