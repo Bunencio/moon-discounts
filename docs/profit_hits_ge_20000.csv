@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-01,30139,100x Crystal,DayOne,need food,1,105321.69,105320.69,9,947886.21,100.0,5
-2026-02-01,30139,100x Crystal,P0K3R,B>IMPS,100000,105321.69,5321.69,16,85147.04,5.05,5
+2026-02-01,30139,100x Crystal,DayOne,need food,1,114488.06,114487.06,9,1030383.57,100.0,5
+2026-02-01,30139,100x Crystal,BloodRevenge,buy imps best price,105000,114488.06,9488.06,8,75904.51,8.29,5
+2026-02-01,30139,100x Crystal,roccky,give me imps,110000,114488.06,4488.06,99,444318.3,3.92,5
