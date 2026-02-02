@@ -1,2 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-02,30139,100x Crystal,Toy,TOYBOY,1,109588.57,109587.57,5,547937.84,100.0,4
+2026-02-02,30139,100x Crystal,Toy,TOYBOY,1,114039.15,114038.15,5,570190.77,100.0,6
+2026-02-02,30139,100x Crystal,roccky,give me imps,110000,114039.15,4039.15,73,294858.3,3.54,6
