@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-02,30139,100x Crystal,Toy,TOYBOY,1,113933.21,113932.21,5,569661.06,100.0,7
-2026-02-02,30139,100x Crystal,roccky,give me imps,110000,113933.21,3933.21,72,283191.28,3.45,7
+2026-02-02,30139,100x Crystal,Toy,TOYBOY,1,115216.47,115215.47,5,576077.33,100.0,9
+2026-02-02,30139,100x Crystal,roccky,give me imps,110000,115216.47,5216.47,72,375585.62,4.53,9
+2026-02-02,30139,100x Crystal,iSiku,BUY IMPS,114000,115216.47,1216.47,95,115564.36,1.06,9
