@@ -1,2 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-04,30139,100x Crystal,BiggBosss,B>CRYSTAL  BUY IMP,120100,123122.64,3022.64,20,60452.83,2.45,5
+2026-02-04,30139,100x Crystal,BiggBosss,B>CRYSTAL  BUY IMP,120100,123504.83,3404.83,20,68096.62,2.76,7
+2026-02-04,30139,100x Crystal,roccky,give me imps,123000,123504.83,504.83,85,42910.63,0.41,7
