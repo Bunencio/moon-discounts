@@ -1,2 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-08,30139,100x Crystal,roccky,give me imps,100000,101595.42,1595.42,95,151564.89,1.57,3
+2026-02-08,30139,100x Crystal,roccky,give me imps,100000,113522.19,13522.19,95,1284608.36,11.91,6
+2026-02-08,30139,100x Crystal,Odessa,6,105000,113522.19,8522.19,7,59655.35,7.51,6
+2026-02-08,30139,100x Crystal,KarateCruZ,B>IMPS,106000,113522.19,7522.19,29,218143.6,6.63,6
+2026-02-08,30139,100x Crystal,MsMerchanty,B> MvM Coins|Cloud Heart|Crystal,110000,113522.19,3522.19,10,35221.93,3.1,6
