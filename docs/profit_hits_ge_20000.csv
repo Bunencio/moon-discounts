@@ -1,2 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-08,30139,100x Crystal,roccky,give me imps,100000,102172.13,2172.13,97,210696.72,2.13,3
+2026-02-08,30139,100x Crystal,roccky,give me imps,100000,105387.32,5387.32,97,522570.42,5.11,3
+2026-02-08,30139,100x Crystal,KarateCruZ,B>IMPS,101000,105387.32,4387.32,15,65809.86,4.16,3
