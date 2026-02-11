@@ -1,5 +1,6 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-11,27019,Purple Pirate Scroll,Squiirtle,B> PPS     B> PPS    B> PPS   B>,300,2704.04,2404.04,99,237999.73,88.91,5
-2026-02-11,30139,100x Crystal,MsMerchanty,B> MvM Coins|Cloud Heart|Crystal,110000,129312.33,19312.33,10,193123.29,14.93,8
-2026-02-11,30139,100x Crystal,BiggBosss,B> CRYSTAL B> IMP,126100,129312.33,3212.33,25,80308.22,2.48,8
-2026-02-11,30139,100x Crystal,roccky,give me imps,126400,129312.33,2912.33,99,288320.55,2.25,8
+2026-02-11,27019,Purple Pirate Scroll,Squiirtle,B> PPS     B> PPS    B> PPS   B>,300,2728.35,2428.35,99,240406.46,89.0,6
+2026-02-11,25416,Cloud Heart,MsMerchanty,B> MvM Coins|Cloud Heart|Crystal,11000,13282.61,2282.61,10,22826.09,17.18,4
+2026-02-11,30139,100x Crystal,MsMerchanty,B> MvM Coins|Cloud Heart|Crystal,110000,129246.15,19246.15,10,192461.54,14.89,7
+2026-02-11,30139,100x Crystal,BiggBosss,B> CRYSTAL B> IMP,126100,129246.15,3146.15,25,78653.85,2.43,7
+2026-02-11,30139,100x Crystal,roccky,give me imps,126400,129246.15,2846.15,99,281769.23,2.2,7
