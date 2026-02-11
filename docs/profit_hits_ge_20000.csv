@@ -1,5 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2026-02-11,25416,Cloud Heart,MsMerchanty,B> MvM Coins|Cloud Heart|Crystal,11000,13282.61,2282.61,10,22826.09,17.18,4
-2026-02-11,30139,100x Crystal,MsMerchanty,B> MvM Coins|Cloud Heart|Crystal,110000,129007.88,19007.88,10,190078.85,14.73,6
-2026-02-11,30139,100x Crystal,BiggBosss,B> CRYSTAL B> IMP,126100,129007.88,2907.88,25,72697.12,2.25,6
-2026-02-11,30139,100x Crystal,roccky,give me imps,126400,129007.88,2607.88,99,258180.58,2.02,6
+2026-02-11,30139,100x Crystal,MsMerchanty,B> MvM Coins|Cloud Heart|Crystal,110000,128958.95,18958.95,10,189589.49,14.7,6
+2026-02-11,22007,Gem of Striking,xCrossex,BUY STRIKING  PURPLE PIRATE SCRO,515000,585500.0,70500.0,1,70500.0,12.04,3
+2026-02-11,22007,Gem of Striking,Vampire,SURE WIN!,550000,585500.0,35500.0,7,248500.0,6.06,3
+2026-02-11,30139,100x Crystal,BiggBosss,B> CRYSTAL B> IMP,126100,128958.95,2858.95,25,71473.74,2.22,6
+2026-02-11,30139,100x Crystal,roccky,give me imps,126400,128958.95,2558.95,99,253335.99,1.98,6
