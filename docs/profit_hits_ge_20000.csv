@@ -1,2 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-12,30139,100x Crystal,Pookie,B>IMPS,120000,128521.55,8521.55,60,511292.86,6.63,7
+2026-02-12,30139,100x Crystal,Pookie,B>IMPS,120000,128296.23,8296.23,60,497773.58,6.47,6
+2026-02-12,30139,100x Crystal,MsMerchanty,MvM Coins|Cloud Heart|100Crystal,120000,128296.23,8296.23,10,82962.26,6.47,6
