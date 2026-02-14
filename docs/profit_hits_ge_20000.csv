@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-14,30139,100x Crystal,Pookie,B>IMPS,120000,123737.98,3737.98,60,224279.07,3.02,3
-2026-02-14,30139,100x Crystal,MsMerchanty,MvM Coins|Cloud Heart|100Crystal,120000,123737.98,3737.98,10,37379.84,3.02,3
+2026-02-14,30139,100x Crystal,Pookie,B>IMPS,120000,126457.02,6457.02,60,387421.05,5.11,4
+2026-02-14,30139,100x Crystal,MsMerchanty,MvM Coins|Cloud Heart|100Crystal,120000,126457.02,6457.02,10,64570.18,5.11,4
+2026-02-14,30139,100x Crystal,Aloy,BUY IMPS,125000,126457.02,1457.02,23,33511.4,1.15,4
