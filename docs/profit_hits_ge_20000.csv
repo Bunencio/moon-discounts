@@ -1,2 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-15,30139,100x Crystal,Pookie,B>IMPS,120000,126911.01,6911.01,99,684190.18,5.45,4
+2026-02-15,30139,100x Crystal,Roxy,666666666,1,120799.2,120798.2,17,2053569.37,100.0,5
+2026-02-15,30139,100x Crystal,Pookie,B>IMPS,120000,120799.2,799.2,99,79120.63,0.66,5
