@@ -1,4 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-16,30139,100x Crystal,Roxy,666666666,1,129577.71,129576.71,17,2202803.99,100.0,7
-2026-02-16,30139,100x Crystal,Pookie,B>IMPS,120000,129577.71,9577.71,99,948192.82,7.39,7
-2026-02-16,30139,100x Crystal,MsMerchanty,MvM Coins|Cloud Heart|Crystal100,125000,129577.71,4577.71,10,45777.05,3.53,7
+2026-02-16,30139,100x Crystal,Roxy,666666666,1,129526.1,129525.1,17,2201926.74,100.0,6
+2026-02-16,30139,100x Crystal,Pookie,B>IMPS,120000,129526.1,9526.1,99,943084.1,7.35,6
+2026-02-16,30139,100x Crystal,MsMerchanty,MvM Coins|Cloud Heart|Crystal100,125000,129526.1,4526.1,10,45261.02,3.49,6
+2026-02-16,26346,Lantern,forCrafting,Buying Lanterns best price,3200,3300.0,100.0,200,20000.0,3.03,3
+2026-02-16,26346,Lantern,forCrafting,Buying Lanterns best price,3200,3300.0,100.0,200,20000.0,3.03,3
+2026-02-16,26346,Lantern,forCrafting,Buying Lanterns best price,3200,3300.0,100.0,200,20000.0,3.03,3
