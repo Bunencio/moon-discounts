@@ -1,6 +1,2 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-17,30139,100x Crystal,Pookie,B>IMPS,120000,128931.19,8931.19,99,884188.07,6.93,4
-2026-02-17,27019,Purple Pirate Scroll,Pergamino,BUY PPS,3000,3202.44,202.44,99,20041.4,6.32,3
-2026-02-17,27019,Purple Pirate Scroll,Pergamino,BUY PPS,3000,3202.44,202.44,99,20041.4,6.32,3
-2026-02-17,27019,Purple Pirate Scroll,Pergamino,BUY PPS,3000,3202.44,202.44,99,20041.4,6.32,3
-2026-02-17,27019,Purple Pirate Scroll,Pergamino,BUY PPS,3000,3202.44,202.44,99,20041.4,6.32,3
+2026-02-17,30139,100x Crystal,Pookie,B>IMPS,120000,128900.0,8900.0,99,881100.0,6.9,4
