@@ -1,3 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-19,30139,100x Crystal,Pookie,B>IMPS,120100,122857.86,2757.86,91,250965.0,2.24,3
-2026-02-19,30139,100x Crystal,BloodRevenge,buy imps best price,121000,122857.86,1857.86,11,20436.43,1.51,3
+2026-02-19,27019,Purple Pirate Scroll,Pergamino,BUY PPS,3000,3275.84,275.84,99,27307.81,8.42,3
+2026-02-19,27019,Purple Pirate Scroll,Pergamino,BUY PPS,3000,3275.84,275.84,99,27307.81,8.42,3
+2026-02-19,27019,Purple Pirate Scroll,Pergamino,BUY PPS,3000,3275.84,275.84,98,27031.97,8.42,3
+2026-02-19,27019,Purple Pirate Scroll,Pergamino,BUY PPS,3000,3275.84,275.84,97,26756.13,8.42,3
+2026-02-19,30139,100x Crystal,Pookie,B>IMPS,120100,126633.33,6533.33,91,594533.33,5.16,3
+2026-02-19,30139,100x Crystal,BloodRevenge,buy imps best price,121000,126633.33,5633.33,11,61966.67,4.45,3
