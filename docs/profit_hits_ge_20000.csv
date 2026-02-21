@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-02-21,30139,100x Crystal,roccky,give me,130000,131481.18,1481.18,50,74058.94,1.13,6
-2026-02-21,30139,100x Crystal,KarateCruZ,B>IMPS,130300,131481.18,1181.18,90,106306.08,0.9,6
+2026-02-21,30139,100x Crystal,roccky,give me,130000,132578.23,2578.23,50,128911.41,1.94,7
+2026-02-21,30139,100x Crystal,Walmartt,BUY IMPS,132050,132578.23,528.23,42,22185.59,0.4,7
+2026-02-21,30139,100x Crystal,KarateCruZ,B>IMPS,132200,132578.23,378.23,80,30258.26,0.29,7
