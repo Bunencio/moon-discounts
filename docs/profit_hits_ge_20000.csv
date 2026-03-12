@@ -1,5 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-03-12,30139,100x Crystal,xPhAnToMx,IMPS,1,136733.51,136732.51,10,1367325.05,100.0,6
-2026-03-12,30139,100x Crystal,MashedPotato,thanks,1,136733.51,136732.51,7,957127.54,100.0,6
-2026-03-12,30156,Jackpot Coin,you2,buy jacks,4000,4205.88,205.88,200,41176.47,4.9,3
-2026-03-12,30156,Jackpot Coin,you2,buy jacks,4000,4205.88,205.88,200,41176.47,4.9,3
+2026-03-12,30139,100x Crystal,xPhAnToMx,IMPS,1,136710.97,136709.97,10,1367099.69,100.0,5
+2026-03-12,30139,100x Crystal,MashedPotato,thanks,1,136710.97,136709.97,7,956969.78,100.0,5
