@@ -1,3 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2026-03-12,30139,100x Crystal,xPhAnToMx,IMPS,1,136710.97,136709.97,10,1367099.69,100.0,5
 2026-03-12,30139,100x Crystal,MashedPotato,thanks,1,136710.97,136709.97,7,956969.78,100.0,5
+2026-03-12,30156,Jackpot Coin,you2,buy jacks,4000,4218.81,218.81,200,43761.3,5.19,3
+2026-03-12,30156,Jackpot Coin,you2,buy jacks,4000,4218.81,218.81,200,43761.3,5.19,3
