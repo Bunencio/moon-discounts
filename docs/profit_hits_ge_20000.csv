@@ -1,2 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-03-13,30139,100x Crystal,roccky,give me,131000,131943.61,943.61,92,86811.96,0.72,5
+2026-03-13,30139,100x Crystal,roccky,give me,131000,132482.51,1482.51,92,136390.48,1.12,5
+2026-03-13,30139,100x Crystal,Pookie,B>IMPS,132100,132482.51,382.51,99,37868.01,0.29,5
+2026-03-13,30139,100x Crystal,KarateCruZ,B>IMPS,132100,132482.51,382.51,99,37868.01,0.29,5
+2026-03-13,30139,100x Crystal,BloodRevenge,buy imps best price,132150,132482.51,332.51,99,32918.01,0.25,5
