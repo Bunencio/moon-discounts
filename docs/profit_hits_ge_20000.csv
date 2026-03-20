@@ -1,5 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2026-03-20,27020,Gold Pirate Scroll,GreenHat,buy,10000,12611.51,2611.51,66,172359.71,20.71,3
 2026-03-20,27020,Gold Pirate Scroll,GreenHat,buy,10000,12611.51,2611.51,54,141021.58,20.71,3
-2026-03-20,30139,100x Crystal,FishMode,BUY YOUR IMP,135000,135462.89,462.89,78,36105.33,0.34,4
-2026-03-20,30139,100x Crystal,BloodRevenge,buy imps best price,135250,135462.89,212.89,95,20224.44,0.16,4
+2026-03-20,30139,100x Crystal,FishMode,BUY YOUR IMP,135000,135405.23,405.23,78,31607.73,0.3,4
