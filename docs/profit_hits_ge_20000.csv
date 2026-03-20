@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-03-20,27020,Gold Pirate Scroll,GreenHat,buy,10000,12601.45,2601.45,66,171695.65,20.64,3
-2026-03-20,27020,Gold Pirate Scroll,GreenHat,buy,10000,12601.45,2601.45,54,140478.26,20.64,3
+2026-03-20,30139,100x Crystal,ElBronw,impd,1,127099.28,127098.28,8,1016786.2,100.0,4
+2026-03-20,27020,Gold Pirate Scroll,GreenHat,buy,10000,12537.88,2537.88,66,167500.0,20.24,3
+2026-03-20,27020,Gold Pirate Scroll,GreenHat,buy,10000,12537.88,2537.88,54,137045.45,20.24,3
