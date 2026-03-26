@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-03-26,25164,Deadly Fruit,Disguised,BUY DEADLY FRUIT GOOD PRICE,99,337.34,238.34,92,21926.83,70.65,3
-2026-03-26,30139,100x Crystal,Pookie,B>IMPS,138300,139419.54,1119.54,98,109714.94,0.8,4
+2026-03-26,25164,Deadly Fruit,Disguised,BUY DEADLY FRUIT GOOD PRICE,99,335.35,236.35,92,21743.84,70.48,3
+2026-03-26,30139,100x Crystal,Pookie,B>IMPS,138300,139267.4,967.4,98,94805.13,0.69,5
+2026-03-26,30139,100x Crystal,roccky,give me imps,139000,139267.4,267.4,99,26472.53,0.19,5
