@@ -1,4 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-03-28,25164,Deadly Fruit,Disguised,BUY DEADLY FRUIT BEST PRICE,99,354.97,255.97,99,25341.46,72.11,3
-2026-03-28,30139,100x Crystal,BloodRevenge,buy imps best price,135000,135870.09,870.09,72,62646.17,0.64,4
-2026-03-28,30139,100x Crystal,P0K3R,B>IMPS,135100,135870.09,770.09,85,65457.29,0.57,4
+2026-03-28,30139,100x Crystal,P0K3R,B>IMPS,135100,135900.08,800.08,85,68006.71,0.59,4
+2026-03-28,30139,100x Crystal,BloodRevenge,buy imps best price,135250,135900.08,650.08,90,58507.11,0.48,4
