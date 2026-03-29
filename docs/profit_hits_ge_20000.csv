@@ -1,2 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-03-28,30139,100x Crystal,EpicGreatness,thanks,1,130231.75,130230.75,7,911615.28,100.0,5
+2026-03-29,30139,100x Crystal,EpicGreatness,thanks,1,131217.82,131216.82,7,918517.74,100.0,6
+2026-03-29,30156,Jackpot Coin,you2,buy jacks,3000,3770.18,770.18,200,154035.32,20.43,3
+2026-03-29,30156,Jackpot Coin,you2,buy jacks,3000,3770.18,770.18,129,99352.78,20.43,3
