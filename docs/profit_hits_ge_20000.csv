@@ -1,3 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-04-03,27020,Gold Pirate Scroll,panoocha,BUY GPS,8000,11916.0,3916.0,99,387684.0,32.86,6
-2026-04-03,27020,Gold Pirate Scroll,panoocha,BUY GPS,8000,11916.0,3916.0,90,352440.0,32.86,6
+2026-04-03,27020,Gold Pirate Scroll,panoocha,BUY GPS,8000,11669.95,3669.95,99,363324.69,31.45,6
+2026-04-03,27020,Gold Pirate Scroll,panoocha,BUY GPS,8000,11669.95,3669.95,90,330295.17,31.45,6
+2026-04-03,30139,100x Crystal,Mallwart,B>IMPS,130000,130780.77,780.77,99,77296.15,0.6,3
