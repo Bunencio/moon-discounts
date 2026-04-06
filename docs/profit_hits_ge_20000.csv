@@ -1,4 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-04-06,27020,Gold Pirate Scroll,Brelshaza,BUY GPS!!!!,14000,15373.31,1373.31,99,135957.84,8.93,5
-2026-04-06,27020,Gold Pirate Scroll,Brelshaza,BUY GPS!!!!,14000,15373.31,1373.31,30,41199.34,8.93,5
-2026-04-06,30139,100x Crystal,Walmartt,BUY IMPS,136000,136263.62,263.62,99,26098.39,0.19,6
+2026-04-06,27020,Gold Pirate Scroll,Brelshaza,BUY GPS!!!!,14000,15362.63,1362.63,99,134900.18,8.87,5
+2026-04-06,27020,Gold Pirate Scroll,Brelshaza,BUY GPS!!!!,14000,15362.63,1362.63,30,40878.84,8.87,5
+2026-04-06,30139,100x Crystal,KarateCruZ,B>IMPS,136100,136748.76,648.76,45,29193.98,0.47,6
+2026-04-06,30139,100x Crystal,Pookie,B>IMPS,136300,136748.76,448.76,99,44426.76,0.33,6
+2026-04-06,30139,100x Crystal,ShadowsReaver,Buying imps best price,136400,136748.76,348.76,98,34178.01,0.26,6
+2026-04-06,30139,100x Crystal,ShadowsReaver,Buying imps best price,136400,136748.76,348.76,71,24761.62,0.26,6
