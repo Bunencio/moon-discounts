@@ -1,5 +1,4 @@
 discount_pct,item_id,item_name,price,avg,obs,qty,seller,stall
-100.0,30139,100x Crystal,2,87850.61,6,99,CoinMaster,B>IMPS
-100.0,30139,100x Crystal,1,87850.61,6,5,Himaware,IMPS
-100.0,30139,100x Crystal,1,87850.61,6,10,ElBronw,imps
-79.67,26325,Elven Signet,25,122.94,4,200,tank001,buy signet blueprints herb
+100.0,30139,100x Crystal,2,89131.22,6,99,CoinMaster,B>IMPS
+100.0,30139,100x Crystal,1,89131.22,6,10,ElBronw,imps
+79.65,26325,Elven Signet,25,122.86,4,200,tank001,buy signet blueprints herb
