@@ -1,2 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-04-08,30139,100x Crystal,CoinMaster,B>IMPS,2,90473.35,90471.35,99,8956663.45,100.0,7
+2026-04-08,30139,100x Crystal,CoinMaster,B>IMPS,2,84539.75,84537.75,99,8369237.74,100.0,7
+2026-04-08,30139,100x Crystal,DragonOfDarkness,SHARE 8008,1,84539.75,84538.75,8,676310.04,100.0,7
