@@ -1,2 +1,4 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-04-15,27019,Purple Pirate Scroll,x0x,BUY PPS,3000,3716.6,716.6,65,46579.28,19.28,4
+2026-04-15,30139,100x Crystal,RockMan,Jackirothy Redemption,1,116828.66,116827.66,1,116827.66,100.0,4
+2026-04-15,27019,Purple Pirate Scroll,x0x,BUY PPS,3000,3779.88,779.88,65,50692.19,20.63,4
+2026-04-15,30139,100x Crystal,King,garner,110000,116828.66,6828.66,45,307289.58,5.85,4
