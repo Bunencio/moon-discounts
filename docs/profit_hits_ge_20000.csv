@@ -1,8 +1,7 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
-2026-04-18,27019,Purple Pirate Scroll,x0x,BUY PPS,3000,3430.81,430.81,56,24125.35,12.56,3
-2026-04-18,27019,Purple Pirate Scroll,Fitstall,pps / purple,3100,3430.81,330.81,99,32750.18,9.64,3
-2026-04-18,27019,Purple Pirate Scroll,Fitstall,pps / purple,3100,3430.81,330.81,99,32750.18,9.64,3
-2026-04-18,27019,Purple Pirate Scroll,Fitstall,pps / purple,3100,3430.81,330.81,99,32750.18,9.64,3
-2026-04-18,30139,100x Crystal,IMPxTRADER,B> IMPS,120000,123666.24,3666.24,99,362957.38,2.96,5
-2026-04-18,30139,100x Crystal,IMPxTRADER,B> IMPS,120000,123666.24,3666.24,11,40328.6,2.96,5
-2026-04-18,30139,100x Crystal,Freiyaa,Buy Imps - Blessed - FBs - Pots,121000,123666.24,2666.24,77,205300.18,2.16,5
+2026-04-18,27019,Purple Pirate Scroll,Fitstall,pps / purple,3100,3353.06,253.06,99,25053.06,7.55,3
+2026-04-18,27019,Purple Pirate Scroll,Fitstall,pps / purple,3100,3353.06,253.06,99,25053.06,7.55,3
+2026-04-18,27019,Purple Pirate Scroll,Fitstall,pps / purple,3100,3353.06,253.06,92,23281.63,7.55,3
+2026-04-18,30139,100x Crystal,IMPxTRADER,B> IMPS,120000,123412.6,3412.6,99,337846.95,2.77,5
+2026-04-18,30139,100x Crystal,IMPxTRADER,B> IMPS,120000,123412.6,3412.6,11,37538.55,2.77,5
+2026-04-18,30139,100x Crystal,Freiyaa,Buy Imps - Blessed - FBs - Pots,121000,123412.6,2412.6,77,185769.85,1.95,5
