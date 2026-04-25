@@ -1,3 +1,5 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2026-04-25,26012,,Coffi,Castle of Shadow n Pharaoh Gem,1300,2013.11,713.11,50,35655.54,35.42,3
-2026-04-25,27019,Purple Pirate Scroll,x0x,Buy PPS,3000,3829.01,829.01,60,49740.68,21.65,4
+2026-04-25,27019,Purple Pirate Scroll,x0x,Buy PPS,3000,3654.3,654.3,60,39257.81,17.9,3
+2026-04-25,30139,100x Crystal,AAAAA123,buy,121500,122258.87,758.87,28,21248.23,0.62,5
+2026-04-25,30139,100x Crystal,Mallwart,B>IMPS,122000,122258.87,258.87,95,24592.2,0.21,5
