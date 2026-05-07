@@ -1,6 +1,3 @@
 date,item_id,item_name,seller,stall,price,avg,profit_unit,qty,profit_total,discount_pct,obs
 2026-05-07,25525,,ChaosRuneMaster,3-4-11-9 LAST,35000,37961.9,2961.9,11,32580.95,7.8,3
-2026-05-07,27019,Purple Pirate Scroll,AAAAA123,ty,4000,4226.12,226.12,99,22385.73,5.35,3
-2026-05-07,27019,Purple Pirate Scroll,AAAAA123,ty,4000,4226.12,226.12,97,21933.49,5.35,3
-2026-05-07,27019,Purple Pirate Scroll,AAAAA123,ty,4000,4226.12,226.12,93,21029.02,5.35,3
-2026-05-07,27019,Purple Pirate Scroll,AAAAA123,ty,4000,4226.12,226.12,89,20124.55,5.35,3
+2026-05-07,22011,Gemof Sout,Hades*,garner,500000,505600.0,5600.0,19,106400.0,1.11,3
